@@ -1,6 +1,6 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-03-29T20:53:11.972767+00:00",
+  "last_updated": "2026-03-30T00:05:13.664712+00:00",
   "story_count": 51,
   "stories": [
     {
@@ -72,6 +72,34 @@
       "url": "https://www.somaliguardian.com/news/somalia-news/key-somalia-ruling-party-leader-resigns-exposing-rift-with-president/",
       "published_date": "2026-03-26T10:28:45+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "How will the Houthis’ involvement shape the war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss",
+      "published_date": "2026-03-29T22:46:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/29/iran-accuses-us-of-plotting-ground-attack-as-israel-steps-up-bombardment?traffic_source=rss",
+      "published_date": "2026-03-29T22:36:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss",
+      "published_date": "2026-03-29T21:01:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A premature ceasefire risks ‘another round of conflict’ in future",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss",
+      "published_date": "2026-03-29T20:58:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
@@ -186,39 +214,18 @@
       "category": "Military"
     },
     {
-      "title": "Dowladda Federaalka oo la wareegtay Daynuunaay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/29/dowladda-federaalka-oo-la-wareegtay-daynuunaay/",
-      "published_date": "2026-03-29T12:43:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The US-Israeli war on humanity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/3/29/the-us-israeli-war-on-humanity?traffic_source=rss",
-      "published_date": "2026-03-29T12:08:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Forces Repel Al-Shabaab Attack, Secure Strategic Daynuunaay Area",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-forces-repel-al-shabaab-attack-secure-strategic-daynuunaay-area/",
-      "published_date": "2026-03-29T11:39:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Aadan Madoobe oo war ka soo saaray mooshin la sheegay in laga keenay Xasan Sheekh",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/29/aadan-madoobe-oo-war-ka-soo-saaray-mooshin-la-sheegay-in-laga-keenay-xasan-sheekh/",
-      "published_date": "2026-03-28T22:28:30+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Somalia, UNICEF Align Development Plans to Strengthen Response to Food and Nutrition Crisis",
       "source": "SONNA",
       "url": "https://sonna.so/en/somalia-unicef-align-development-plans-to-strengthen-response-to-food-and-nutrition-crisis/",
       "published_date": "2026-03-29T15:22:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Southwest State Government Accuses Turkish Government of Political and Security Interference",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/southwest-state-government-accuses-turkish-government-of-political-and-security-interference/",
+      "published_date": "2026-03-29T22:28:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia accuses Southwest state leader of jihadist links as forces near Baidoa",
@@ -351,13 +358,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mass-protests-erupt-in-mogadishu-over-plans-to-sell-bakaro-market-to-wealthy-investors/",
       "published_date": "2026-03-26T18:16:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia president places custodial corps commander under house arrest after dismissal",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-places-custodial-corps-commander-under-house-arrest-after-dismissal/",
-      "published_date": "2026-03-25T18:13:09+00:00",
       "category": "Local Events"
     }
   ]
