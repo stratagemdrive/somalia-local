@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-03-31T00:04:33.872934+00:00",
-  "story_count": 68,
+  "last_updated": "2026-03-31T14:51:59.453282+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Cancer drug facility, religious site hit in Israeli-US strikes on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/cancer-drug-facility-religious-site-hit-in-israeli-us-strikes-on-iran?traffic_source=rss",
+      "published_date": "2026-03-31T13:37:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Three Indonesian peacekeepers killed by Israeli attacks in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/three-indonesian-peacekeepers-killed-by-israeli-attacks-in-lebanon?traffic_source=rss",
+      "published_date": "2026-03-31T12:12:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Iranians don’t consider Trump’s 15-point plan as beginning of diplomacy’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/3/31/iranians-dont-consider-trumps-15-point-plan-as-beginning-of-a-diplomatic?traffic_source=rss",
+      "published_date": "2026-03-31T09:46:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister Hamza Abdi Barre Attends “Daaci 2026” Awards, Urges Youth to Champion Positive Change",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/prime-minister-hamza-abdi-barre-attends-daaci-2026-awards-urges-youth-to-champion-positive-change/",
+      "published_date": "2026-03-31T08:55:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN condemns killing of Indonesian peacekeepers in Lebanon",
       "source": "Al Jazeera",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia’s Ambassador to Egypt Participates in Arab League Council Meeting",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalias-ambassador-to-egypt-participates-in-arab-league-council-meeting/",
-      "published_date": "2026-03-29T15:01:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deputy Prime Minister Salah Chairs Humanitarian Forum on Drought Response",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/deputy-prime-minister-salah-chairs-humanitarian-forum-on-drought-response/",
-      "published_date": "2026-03-29T11:49:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy",
+      "title": "War on Iran: US’s history of making other nations pay for conflicts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-four-nation-bid-to-encourage-us-iran-towards-diplomacy?traffic_source=rss",
-      "published_date": "2026-03-29T11:10:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/3/31/war-on-iran-uss-history-of-making-other-nations-pay-for-conflicts?traffic_source=rss",
+      "published_date": "2026-03-31T13:56:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "African Union Urges Dialogue Over Tensions in Southwest Somalia",
+      "title": "US defence secretary says next few days in Iran war will be ‘decisive’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/us-defence-secretary-says-next-few-days-in-iran-war-will-be?traffic_source=rss",
+      "published_date": "2026-03-31T13:12:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Shabaab shells airport in southwest Somalia, helicopter unharmed",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-urges-dialogue-over-tensions-in-southwest-somalia/",
-      "published_date": "2026-03-29T10:59:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/al-shabaab-shells-airport-in-southwest-somalia-helicopter-unharmed/",
+      "published_date": "2026-03-31T11:33:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drones strike Russia’s Ust-Luga port again as EU officials visit Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/drones-strike-russias-ust-luga-port-again-as-eu-officials-visit-ukraine?traffic_source=rss",
+      "published_date": "2026-03-31T10:54:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italy denies the US military use of its air bases to attack Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/italy-denies-the-us-military-use-of-its-air-bases-to-attack-iran?traffic_source=rss",
+      "published_date": "2026-03-31T10:34:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Markabka Qodista Shidaalka Soomaaliya  Çağrı Bey oo Gaadhay Ceelka kowaad ee dalka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/markabka-qodista-shidaalka-soomaaliya-cagri-bey-oo-gaadhay-ceelka-kowaad-ee-dalka/",
+      "published_date": "2026-03-31T10:13:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza families reunite years after babies evacuated amid Israel’s war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/gaza-families-reunite-years-after-babies-evacuated-amid-israels-war?traffic_source=rss",
+      "published_date": "2026-03-31T10:01:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war ‘being fought on women’s bodies’: Survivors detail sexual assault",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/sudan-war-being-fought-on-womens-bodies-survivors-detail-sexual-assault?traffic_source=rss",
+      "published_date": "2026-03-31T09:11:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war wipes $120bn off Dubai, Abu Dhabi stock markets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/3/31/iran-war-wipes-120bn-off-dubai-abu-dhabi-stock-markets?traffic_source=rss",
+      "published_date": "2026-03-31T07:57:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Shabaab oo Weerar Madaafiic Ah Ku Qaaday Garoonka Diyaaradaha Buurhakabo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/al-shabaab-oo-weerar-madaafiic-ah-ku-qaaday-garoonka-diyaaradaha-buurhakabo/",
+      "published_date": "2026-03-31T05:56:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Key moments from Marco Rubio’s interview with Al Jazeera",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Laftagareen oo sheegay in uu iscasilay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/30/laftagareen-oo-sheegay-in-uu-iscasilay/",
-      "published_date": "2026-03-30T16:14:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump wants to ‘take Iran’s oil’: Can he, and what would that mean?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/3/30/trump-wants-to-take-irans-oil-can-he-and-what-would-that-mean?traffic_source=rss",
-      "published_date": "2026-03-30T14:20:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran disrupts Asia’s used-car exports to the Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/war-on-iran-disrupts-asias-used-car-exports-to-the-middle-east?traffic_source=rss",
-      "published_date": "2026-03-30T13:40:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain closes airspace to US planes involved in war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/spain-closes-airspace-to-us-planes-involved-in-war-on-iran?traffic_source=rss",
-      "published_date": "2026-03-30T13:23:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why have the US and Israel bombed more than 75 Iranian police facilities?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/why-have-the-us-and-israel-bombed-more-than-75-iranian-police-facilities?traffic_source=rss",
-      "published_date": "2026-03-30T12:54:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/trump-pretty-sure-of-iran-deal-but-can-pakistan-led-efforts-end-the-war?traffic_source=rss",
-      "published_date": "2026-03-30T12:23:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali National Army Reopens Key Mogadishu–Baidoa Road After Operations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-national-army-reopens-key-mogadishu-baidoa-road-after-operations/",
-      "published_date": "2026-03-30T11:14:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Beirut apartment damaged in Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/beirut-apartment-damaged-in-israeli-strike?traffic_source=rss",
-      "published_date": "2026-03-30T11:10:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Schools, water, industry: What civilian targets have US, Israel, Iran hit?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/schools-water-industry-what-civilian-targets-have-us-israel-iran-hit?traffic_source=rss",
-      "published_date": "2026-03-30T11:09:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestine aIly Ireland under fire for allowing weapons transfers to Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/palestine-aily-ireland-under-fire-for-allowing-weapons-transfers-to-israel?traffic_source=rss",
-      "published_date": "2026-03-30T10:41:45+00:00",
-      "category": "Military"
+      "title": "Somalia enters new energy phase as drilling vessel arrives, transparency group urges safeguards",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-enters-new-energy-phase-as-drilling-vessel-arrives-transparency-group-urges-safeguards/",
+      "published_date": "2026-03-31T11:35:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Rubio denies US actions punitive, blames Cuba for economic failures",
@@ -338,6 +345,48 @@
       "url": "https://sonna.so/en/somalia-unicef-align-development-plans-to-strengthen-response-to-food-and-nutrition-crisis/",
       "published_date": "2026-03-29T15:22:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Tyre hospital ‘hit five times’ since start of Israel’s attacks on Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/tyre-hospital-hit-five-times-since-start-of-israels-attacks-on-lebanon?traffic_source=rss",
+      "published_date": "2026-03-31T13:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Set for Crucial AFCON 2027 Qualifier Clash Against Mauritius",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-set-for-crucial-afcon-2027-qualifier-clash-against-mauritius/",
+      "published_date": "2026-03-31T13:16:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland iyo hay’adda The HALO Trust oo ka wada hadlay miino baarista",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/03/31/puntland-iyo-hayadda-the-halo-trust-oo-ka-wada-hadlay-miino-baarista/",
+      "published_date": "2026-03-31T12:51:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka laabatay go’aan hore",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/03/31/puntland-oo-ka-laabatay-goaan-hore/",
+      "published_date": "2026-03-31T10:10:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali army takes over key city in Southwest as state leader resigns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/somali-army-takes-over-key-city-in-southwest-as-state-leader-resigns?traffic_source=rss",
+      "published_date": "2026-03-31T08:27:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali PM honors youth at ‘Daaci 2026’ event, urges digital moral leadership",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-prime-minister-praises-youth-role-at-daaci-2026-initiative/",
+      "published_date": "2026-03-31T06:51:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli Knesset approves death penalty for Palestinians",
@@ -435,48 +484,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/fighting-breaks-out-in-baidoa-as-somali-army-clashes-with-regional-forces/",
       "published_date": "2026-03-30T09:52:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Launches First Phase of Strategic Communications Training in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-launches-first-phase-of-strategic-communications-training-in-mogadishu/",
-      "published_date": "2026-03-30T09:42:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IGAD Expresses Concern Over Growing Political Tensions in Somalia’s SouthWest State",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/igad-expresses-concern-over-growing-political-tensions-in-somalias-southwest-state/",
-      "published_date": "2026-03-30T08:17:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SouthWest State Leader Warns of ‘Severe’ Military Response as Somali Army Advances Near Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/southwest-state-leader-warns-of-severe-military-response-as-somali-army-advances-near-baidoa/",
-      "published_date": "2026-03-30T08:15:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Future Council Divided Over South West Election",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/30/somali-future-council-divided-over-south-west-election/",
-      "published_date": "2026-03-30T08:13:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southwest state parliament Speaker Urges Restraint Amid Rising Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/southwest-somalia-speaker-urges-restraint-amid-rising-tensions/",
-      "published_date": "2026-03-30T08:10:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Booliska Puntland oo digniin soo saaray",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/30/booliska-puntland-oo-digniin-soo-saaray/",
-      "published_date": "2026-03-30T07:51:22+00:00",
       "category": "Local Events"
     }
   ]
