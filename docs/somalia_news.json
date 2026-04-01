@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-01T00:04:31.493546+00:00",
-  "story_count": 75,
+  "last_updated": "2026-04-01T14:56:33.183537+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Lebanon faces growing displacement crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/lebanon-faces-growing-displacement-crisis?traffic_source=rss",
+      "published_date": "2026-04-01T13:00:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK PM says war on Iran will impact Britain’s future",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/uk-pm-says-iran-war-will-impact-britains-future?traffic_source=rss",
+      "published_date": "2026-04-01T11:57:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU prioritises political stability and governance support in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/eu-prioritises-political-stability-and-governance-support-in-somalia/",
+      "published_date": "2026-04-01T09:47:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US messages via Witkoff and intermediaries are not negotiations: Araghchi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/1/us-messages-via-witkoff-and-intermediaries-are-not-negotiations-araghchi?traffic_source=rss",
+      "published_date": "2026-04-01T09:00:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Senator says Turkey behind ouster of Somalia’s Southwest leader to ‘loot’ national resources",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/senator-says-turkey-behind-ouster-of-somalias-southwest-leader-to-loot-national-resources/",
+      "published_date": "2026-04-01T08:23:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
       "source": "Al Jazeera",
@@ -109,39 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Prime Minister Hamza Appoints New Deputy Ministers",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-appoints-new-deputy-ministers/",
-      "published_date": "2026-03-30T14:31:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenya’s former New York marathon champion Korir gets five-year doping ban",
+      "title": "Russia imposing ban on all gasoline exports due to Iran war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/3/30/kenyas-former-new-york-marathon-champion-korir-gets-five-year-doping-ban?traffic_source=rss",
-      "published_date": "2026-03-30T13:47:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/russia-imposing-ban-on-all-gasoline-exports-due-to-iran-war?traffic_source=rss",
+      "published_date": "2026-04-01T13:24:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia’s FSB orders British diplomat’s expulsion, UK rejects ‘intimidation’",
+      "title": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/russia-expels-british-diplomat-accused-of-economic-espionage?traffic_source=rss",
-      "published_date": "2026-03-30T11:20:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/4/1/irans-minister-civilisational-identity-under-fire-in-unprecedented-war?traffic_source=rss",
+      "published_date": "2026-04-01T12:45:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Human Rights Delegation Attends Global Conference in Geneva",
+      "title": "UK finds pro-Palestine protest organisers guilty of breaching police rules",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss",
+      "published_date": "2026-04-01T12:27:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How are NATO allies pushing back against Trump’s Iran war demands?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/how-are-nato-allies-pushing-back-against-trumps-iran-war-demands?traffic_source=rss",
+      "published_date": "2026-04-01T12:03:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "West Bank strikes over Palestinian-only death penalty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/west-bank-strikes-over-palestinian-only-death-penalty?traffic_source=rss",
+      "published_date": "2026-04-01T11:42:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq celebrates qualification for FIFA World Cup 2026",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/4/1/iraqis-celebrate-in-the-streets-after-qualifying-for-fifa-world-cup-2026?traffic_source=rss",
+      "published_date": "2026-04-01T11:19:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Forces Reopen Key Mogadishu–Baidoa Route as Defense Minister Signals Intensified Offensive",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somali-human-rights-delegation-attends-global-conference-in-geneva/",
-      "published_date": "2026-03-30T11:13:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/458157-2/",
+      "published_date": "2026-04-01T11:17:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "IGAD oo ku baaqday wada hadal iyo xakameyn lagu sameeyo xaaladda siyaasadeed ee Soomaaliya",
+      "title": "Assaulted, robbed: Refugees abused on Bosnia-Croatia border",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/1/on-bosnian-croatian-border-migrants-face-untold?traffic_source=rss",
+      "published_date": "2026-04-01T10:49:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-01T10:05:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia intelligence operations destroy Al-Shabaab bomb sites, kill fighters",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/igad-oo-ku-baaqday-wada-hadal-iyo-xakameyn-lagu-sameeyo-xaaladda-siyaasadeed-ee-soomaaliya/",
-      "published_date": "2026-03-30T06:36:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalia-intelligence-operations-destroy-al-shabaab-bomb-sites-kill-fighters/",
+      "published_date": "2026-04-01T09:46:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis claim joint missile attack on Israel with Iran and Hezbollah",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/houthis-claim-joint-missile-attack-on-israel-with-iran-and-hezbollah?traffic_source=rss",
+      "published_date": "2026-04-01T09:24:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/war-on-iran-three-key-takeaways-from-araghchis-interview-with-al-jazeera?traffic_source=rss",
+      "published_date": "2026-04-01T08:27:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli police inspect damage on the road after missile impact",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss",
+      "published_date": "2026-04-01T07:55:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Pope Leo urges Trump to end war on Iran",
@@ -193,95 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Italy denies the US military use of its air bases to attack Iran",
+      "title": "Can Russia help fill the global energy gap?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/italy-denies-the-us-military-use-of-its-air-bases-to-attack-iran?traffic_source=rss",
-      "published_date": "2026-03-31T10:34:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/can-russia-help-fill-the-global-energy-gap?traffic_source=rss",
+      "published_date": "2026-04-01T13:55:55+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Markabka Qodista Shidaalka Soomaaliya  Çağrı Bey oo Gaadhay Ceelka kowaad ee dalka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/markabka-qodista-shidaalka-soomaaliya-cagri-bey-oo-gaadhay-ceelka-kowaad-ee-dalka/",
-      "published_date": "2026-03-31T10:13:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza families reunite years after babies evacuated amid Israel’s war",
+      "title": "French President Macron visits Japan to discuss the energy crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/gaza-families-reunite-years-after-babies-evacuated-amid-israels-war?traffic_source=rss",
-      "published_date": "2026-03-31T10:01:34+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/french-president-macron-visits-japan-to-discuss-the-energy-crisis?traffic_source=rss",
+      "published_date": "2026-04-01T13:36:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sudan war ‘being fought on women’s bodies’: Survivors detail sexual assault",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/sudan-war-being-fought-on-womens-bodies-survivors-detail-sexual-assault?traffic_source=rss",
-      "published_date": "2026-03-31T09:11:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war wipes $120bn off Dubai, Abu Dhabi stock markets",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/3/31/iran-war-wipes-120bn-off-dubai-abu-dhabi-stock-markets?traffic_source=rss",
-      "published_date": "2026-03-31T07:57:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Shabaab oo Weerar Madaafiic Ah Ku Qaaday Garoonka Diyaaradaha Buurhakabo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/al-shabaab-oo-weerar-madaafiic-ah-ku-qaaday-garoonka-diyaaradaha-buurhakabo/",
-      "published_date": "2026-03-31T05:56:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Key moments from Marco Rubio’s interview with Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss",
-      "published_date": "2026-03-30T22:33:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is a peaceful settlement possible in Iran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/3/30/is-a-peaceful-settlement-possible-in-iran-2?traffic_source=rss",
-      "published_date": "2026-03-30T22:16:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says Trump ‘interested’ in asking Arab countries to pay for war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss",
-      "published_date": "2026-03-30T22:14:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The war in Iran: Key takeaways from Al Jazeera’s interview with Marco Rubio",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/the-war-in-iran-key-takeaways-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss",
-      "published_date": "2026-03-30T21:03:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio says NATO must be re-examined after Spain blocks US operation on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/rubio-says-nato-must-be-re-examined-after-spain-blocks-us-operation-on-iran?traffic_source=rss",
-      "published_date": "2026-03-30T20:32:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Al-Shabaab deploys foreign fighters in Mogadishu prison attack, video shows",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-deploys-foreign-fighters-in-mogadishu-prison-attack-video-shows/",
-      "published_date": "2026-03-30T19:48:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What we know about attack on key Israeli oil refinery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/what-we-know-about-attack-on-key-israeli-oil-refinery?traffic_source=rss",
-      "published_date": "2026-03-30T19:19:50+00:00",
-      "category": "Military"
+      "title": "Transparency Organization warns about the dangers surrounding Somalia’s oil resources",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/transparency-organization-warns-about-the-dangers-surrounding-somalias-oil-resources/",
+      "published_date": "2026-04-01T03:40:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "US exempts Gulf of Mexico oil drillers from endangered species protections",
@@ -354,6 +375,34 @@
       "category": "Energy"
     },
     {
+      "title": "Somalia’s Deputy Prime Minister Launches Agriculture Coordination Platform in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-deputy-prime-minister-launches-agriculture-coordination-platform-in-mogadishu/",
+      "published_date": "2026-04-01T13:09:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minerals for aid: Are new US health deals ‘exploiting’ African countries?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/minerals-for-aid-are-new-us-health-deals-exploiting-african-countries?traffic_source=rss",
+      "published_date": "2026-04-01T12:57:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Sees Surge in Farming as Public Awareness Grows — Minister",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-sees-surge-in-farming-as-public-awareness-grows-minister/",
+      "published_date": "2026-04-01T09:14:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mogadishu Port Authority Chief Attends Global Transport Forum in Russia",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/mogadishu-port-authority-chief-attends-global-transport-forum-in-russia/",
+      "published_date": "2026-04-01T08:13:34+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "After Strait of Hormuz opens, turmoil would still last months, analysts say",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say?traffic_source=rss",
@@ -387,6 +436,69 @@
       "url": "https://sonna.so/en/somalia-unicef-align-development-plans-to-strengthen-response-to-food-and-nutrition-crisis/",
       "published_date": "2026-03-29T15:22:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Russia claims to take full control of Ukraine’s Luhansk region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/russia-claims-to-take-full-control-of-ukraines-luhansk-region?traffic_source=rss",
+      "published_date": "2026-04-01T13:45:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Speaker of Somali Parliament Meets Southwest State Ministers to Review Public Services",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/speaker-of-somali-parliament-meets-southwest-state-ministers-to-review-public-services/",
+      "published_date": "2026-04-01T13:07:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court to hear constitutional test of birthright citizenship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/us-supreme-court-to-hear-constitutional-test-of-birthright-citizenship?traffic_source=rss",
+      "published_date": "2026-04-01T11:41:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo magacaabis cusub sameeyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/01/madaxweyne-deni-oo-magacaabis-cusub-sameeyay/",
+      "published_date": "2026-04-01T10:57:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia parliamentary speaker meets commanders in Baidoa after road-clearing operation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-parliamentary-speaker-meets-commanders-in-baidoa-after-road-clearing-operation/",
+      "published_date": "2026-04-01T09:44:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Youth Awarded for Promoting Positive Content as ‘Daaci2026’ Program Concludes",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-youth-awarded-for-promoting-positive-content-as-daaci2026-program-concludes/",
+      "published_date": "2026-04-01T09:35:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Gerrymandering’ in India’s Assam cuts Muslim representation before vote",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/1/gerrymandering-in-indias-assam-cuts-muslim-representation-before-vote?traffic_source=rss",
+      "published_date": "2026-04-01T08:46:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal Leadership Intensifies Security Efforts in Baidoa After Power Transition",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/federal-leadership-intensifies-security-efforts-in-baidoa-after-power-transition/",
+      "published_date": "2026-04-01T07:35:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland President Leads National Talks to Resolve Awdal and Selel Conflict.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-leads-national-talks-to-resolve-awdal-and-selel-conflict/",
+      "published_date": "2026-04-01T04:07:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US Supreme Court rejects Colorado ban on LGBTQ child ‘conversion therapy’",
@@ -463,69 +575,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/03/31/puntland-iyo-hayadda-the-halo-trust-oo-ka-wada-hadlay-miino-baarista/",
       "published_date": "2026-03-31T12:51:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka laabatay go’aan hore",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/31/puntland-oo-ka-laabatay-goaan-hore/",
-      "published_date": "2026-03-31T10:10:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali army takes over key city in Southwest as state leader resigns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/somali-army-takes-over-key-city-in-southwest-as-state-leader-resigns?traffic_source=rss",
-      "published_date": "2026-03-31T08:27:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali PM honors youth at ‘Daaci 2026’ event, urges digital moral leadership",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-prime-minister-praises-youth-role-at-daaci-2026-initiative/",
-      "published_date": "2026-03-31T06:51:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli Knesset approves death penalty for Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/israeli-knesset-approves-death-penalty-for-palestinians?traffic_source=rss",
-      "published_date": "2026-03-30T21:10:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We have to destroy Iran’s ability to launch missiles’, Rubio says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/we-have-to-destroy-irans-ability-to-launch-missiles-rubio-says?traffic_source=rss",
-      "published_date": "2026-03-30T20:56:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s parliament passes death penalty bill targeting Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/israel-passes-discriminatory-death-penalty-bill-targeting-palestinians?traffic_source=rss",
-      "published_date": "2026-03-30T20:50:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Deni Won’t Be ‘Bulldozer’ Against the Somali Federal Government",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/30/president-deni-wont-be-bulldozer-against-the-somali-federal-government/",
-      "published_date": "2026-03-30T19:58:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Southwest state president resigns after federal troops take Baidoa",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-southwest-state-president-resigns-after-federal-troops-take-baidoa/",
-      "published_date": "2026-03-30T18:22:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICE announces death of another Mexican detainee in US immigration custody",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/ice-announces-death-of-another-mexican-detainee-in-us-immigration-custody?traffic_source=rss",
-      "published_date": "2026-03-30T17:20:51+00:00",
       "category": "Local Events"
     }
   ]
