@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-03-31T14:51:59.453282+00:00",
-  "story_count": 69,
+  "last_updated": "2026-04-01T00:04:31.493546+00:00",
+  "story_count": 75,
   "stories": [
+    {
+      "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iran-ambassador-refuses-to-leave-lebanon-despite-expulsion-order?traffic_source=rss",
+      "published_date": "2026-03-31T21:43:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN aid chief warns of new Israeli occupation in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/un-aid-chief-warns-of-new-israeli-occupation-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-03-31T21:15:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why UN slavery resolution won’t be enough",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/2026/3/31/why-un-slavery-resolution-wont-be-enough?traffic_source=rss",
+      "published_date": "2026-03-31T20:58:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN expert Albanese confronted by pro-Israeli protesters in Germany",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/un-expert-albanese-confronted-by-pro-israeli-protesters-in-germany?traffic_source=rss",
+      "published_date": "2026-03-31T20:29:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Analysis: Hezbollah backs Iran ambassador as conflict deepens Lebanon rifts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/analysis-hezbollah-backs-iran-ambassador-as-conflict-deepens-lebanon-rifts?traffic_source=rss",
+      "published_date": "2026-03-31T19:37:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s FM confirms contact with US envoy Witkoff, denies talks under way",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera?traffic_source=rss",
+      "published_date": "2026-03-31T19:01:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cancer drug facility, religious site hit in Israeli-US strikes on Iran",
       "source": "Al Jazeera",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ugu Yaraan 15 Qof Oo Ku Dhimatay Shil Gaari oo Ka Dhacay Magaalada Nyeri ee dalka Kenya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ugu-yaraan-15-qof-oo-ku-dhimatay-shil-gaari-oo-ka-dhacay-magaalada-nyeri-ee-dalka-kenya/",
-      "published_date": "2026-03-30T06:29:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatari TV station hit in Iran",
+      "title": "Pope Leo urges Trump to end war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss",
-      "published_date": "2026-03-29T20:11:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/pope-leo-urges-trump-to-end-war-on-iran?traffic_source=rss",
+      "published_date": "2026-03-31T23:12:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cuba is not alone, deputy FM says as US threats grow",
+      "title": "Israeli air attack kills father and two-year-old son in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/29/cuba-is-not-alone-deputy-fm-says-as-us-threats-grow?traffic_source=rss",
-      "published_date": "2026-03-29T19:06:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israeli-air-attack-kills-father-and-two-year-old-son-in-gaza?traffic_source=rss",
+      "published_date": "2026-03-31T20:51:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zelenskyy arrives in Jordan to bolster security ties",
+      "title": "How Pakistan positioned itself at the center of global crisis management",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties?traffic_source=rss",
-      "published_date": "2026-03-29T18:37:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Hosts Key Workshop to Enhance Women’s Leadership",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-hosts-key-workshop-to-enhance-womens-leadership/",
-      "published_date": "2026-03-29T18:11:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Launches “Somtürk” Joint Fisheries Company to Boost Blue Economy",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-launches-somturk-joint-fisheries-company-to-boost-blue-economy/",
-      "published_date": "2026-03-29T15:25:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss",
+      "published_date": "2026-03-31T19:46:23+00:00",
+      "category": "Military"
     },
     {
       "title": "War on Iran: US’s history of making other nations pay for conflicts",
@@ -263,25 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "French police make two more arrests over foiled attack on Bank of America",
+      "title": "US exempts Gulf of Mexico oil drillers from endangered species protections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/french-police-make-2-more-arrests-over-suspected-attack-on-bank-of-america?traffic_source=rss",
-      "published_date": "2026-03-30T19:15:50+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/3/31/us-exempts-gulf-of-mexico-oil-drillers-from-endangered-species-protections?traffic_source=rss",
+      "published_date": "2026-03-31T23:02:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Two more UN peacekeepers killed in explosion in southern Lebanon: UNIFIL",
+      "title": "EU warns oil and gas prices won’t quickly return to normal after Iran war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/two-more-un-peacekeepers-killed-in-southern-lebanon-unifil?traffic_source=rss",
-      "published_date": "2026-03-30T18:11:15+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/eu-warns-oil-and-gas-prices-wont-quickly-return-to-normal-after-iran-war?traffic_source=rss",
+      "published_date": "2026-03-31T22:56:54+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Fire contained after missile attack on oil refinery in Israel’s Haifa",
+      "title": "Russian tanker reaches Cuba amid critical energy shortage",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss",
-      "published_date": "2026-03-30T16:25:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/3/31/russian-tanker-reaches-cuba-amid-critical-energy-shortage?traffic_source=rss",
+      "published_date": "2026-03-31T21:25:56+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘I need to leave’: Cuba’s tourism workers reel from US oil blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/i-need-to-leave-cubas-tourism-workers-reel-from-us-oil-blockade?traffic_source=rss",
+      "published_date": "2026-03-31T21:24:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "What’s behind Donald Trump’s interest in Iran’s Kharg Island?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/3/31/whats-behind-donald-trumps-interest-in-irans-kharg-island?traffic_source=rss",
+      "published_date": "2026-03-31T19:42:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Somalia enters new energy phase as drilling vessel arrives, transparency group urges safeguards",
@@ -319,6 +354,13 @@
       "category": "Energy"
     },
     {
+      "title": "After Strait of Hormuz opens, turmoil would still last months, analysts say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say?traffic_source=rss",
+      "published_date": "2026-03-31T23:03:49+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "‘I’m always watching’: A mother’s vigil in Mexico’s cancer system",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/longform/2026/3/30/im-always-watching-a-mothers-vigil-in-mexicos-cancer-system?traffic_source=rss",
@@ -345,6 +387,62 @@
       "url": "https://sonna.so/en/somalia-unicef-align-development-plans-to-strengthen-response-to-food-and-nutrition-crisis/",
       "published_date": "2026-03-29T15:22:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "US Supreme Court rejects Colorado ban on LGBTQ child ‘conversion therapy’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/us-supreme-court-rejects-colorado-ban-on-lgbtq-child-conversion?traffic_source=rss",
+      "published_date": "2026-03-31T21:45:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FBI agents who investigated Trump file lawsuit alleging retaliatory firing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/31/fbi-agents-who-investigated-trump-file-lawsuit-alleging-retaliatory-firing?traffic_source=rss",
+      "published_date": "2026-03-31T21:17:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Convenes First Joint Committee Meeting on Food Security Crisis Preparedness Plan",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-convenes-first-joint-committee-meeting-on-food-security-crisis-preparedness-plan/",
+      "published_date": "2026-03-31T19:21:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Speaker Sheikh Aden Madobe Arrives in Baidoa, Calls for Unity and Support for Government",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/speaker-sheikh-aden-madobe-arrives-in-baidoa-calls-for-unity-and-support-for-government/",
+      "published_date": "2026-03-31T19:18:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians in occupied West Bank protest Israel’s death penalty law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/palestinians-in-occupied-west-bank-protest-israels-death-penalty-law?traffic_source=rss",
+      "published_date": "2026-03-31T18:18:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Hormuud Telecom signs digital economy MoU with Germany’s GIZ",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-hormuud-telecom-signs-digital-economy-mou-with-germanys-giz/",
+      "published_date": "2026-03-31T18:05:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Isku shaandheyn lagu sameeyay xukuumadda Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/03/31/isku-shaandheyn-lagu-sameeyay-xukuumadda-puntland/",
+      "published_date": "2026-03-31T16:57:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni oo xilalkii ka qaaday guddoomiyeyaasha gobollada Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/03/31/deni-oo-xilalkii-ka-qaaday-guddoomiyeyaasha-gobollada-puntland/",
+      "published_date": "2026-03-31T15:39:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tyre hospital ‘hit five times’ since start of Israel’s attacks on Lebanon",
@@ -428,62 +526,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/3/30/ice-announces-death-of-another-mexican-detainee-in-us-immigration-custody?traffic_source=rss",
       "published_date": "2026-03-30T17:20:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SouthWest State Leader Steps Down, Appoints Acting President After Baidoa capture",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-somalia-leader-steps-down-appoints-acting-president/",
-      "published_date": "2026-03-30T17:10:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Strait of Hormuz will reopen one way or another’, Rubio tells Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/strait-of-hormuz-will-reopen-one-way-or-another-rubio-tells-al-jazeera?traffic_source=rss",
-      "published_date": "2026-03-30T16:51:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s president briefs diplomats on security, reforms",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-president-briefs-diplomats-on-security-reforms/",
-      "published_date": "2026-03-30T16:35:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry Appoints Interim Leaders in Lower Shabelle and Diinsoor",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/interior-ministry-appoints-interim-leaders-in-lower-shabelle-and-diinsoor/",
-      "published_date": "2026-03-30T15:14:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FGS STATEMENT ON THE DEVELOPMENTS OF SOUTH WEST STATE",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/fgs-statement-on-the-developments-of-south-west-state/",
-      "published_date": "2026-03-30T14:26:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal and South West State Forces Seize Majority of Baidoa in Key Military Push",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/federal-and-south-west-state-forces-seize-majority-of-baidoa-in-key-military-push/",
-      "published_date": "2026-03-30T10:53:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tatreez in Madrid: Stitching culture and resistance",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/tatreez-in-madrid-stitching-culture-and-resistance?traffic_source=rss",
-      "published_date": "2026-03-30T10:50:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fighting breaks out in Baidoa as Somali army clashes with regional forces",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/fighting-breaks-out-in-baidoa-as-somali-army-clashes-with-regional-forces/",
-      "published_date": "2026-03-30T09:52:54+00:00",
       "category": "Local Events"
     }
   ]
