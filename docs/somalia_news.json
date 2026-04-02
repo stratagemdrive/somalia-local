@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-01T14:56:33.183537+00:00",
-  "story_count": 82,
+  "last_updated": "2026-04-02T00:02:56.543486+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "First troops from UN-backed Gang Suppression Force arrive in Haiti",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti?traffic_source=rss",
+      "published_date": "2026-04-01T23:19:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
+      "published_date": "2026-04-01T22:12:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Memorial honours Indonesian UN peacekeeper killed in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/memorial-honours-indonesian-un-peacekeeper-killed-in-lebanon?traffic_source=rss",
+      "published_date": "2026-04-01T18:42:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lebanon faces growing displacement crisis",
       "source": "Al Jazeera",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia appoints new deputy ministers in cabinet reshuffle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-appoints-new-deputy-ministers-in-cabinet-reshuffle/",
-      "published_date": "2026-03-30T17:07:19+00:00",
-      "category": "Diplomacy"
+      "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
+      "published_date": "2026-04-01T21:20:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Minister of Family Meets UN Human Rights Delegation in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-family-meets-un-human-rights-delegation-in-mogadishu/",
-      "published_date": "2026-03-30T15:58:34+00:00",
-      "category": "Diplomacy"
+      "title": "Smoke and embers seen over Iran’s Isfahan after strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss",
+      "published_date": "2026-04-01T21:01:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "President Hassan Sheikh Receives International Ambassadors in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-receives-international-ambassadors-in-mogadishu/",
-      "published_date": "2026-03-30T15:46:06+00:00",
-      "category": "Diplomacy"
+      "title": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss",
+      "published_date": "2026-04-01T20:40:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burundi says at least 13 killed, dozens injured in military base blast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/burundi-says-at-least-13-killed-dozens-injured-in-military-base-blast?traffic_source=rss",
+      "published_date": "2026-04-01T20:16:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/iran-authorities-await-war-victory-as-supporters-mark-1979-anniversary?traffic_source=rss",
+      "published_date": "2026-04-01T17:28:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia imposing ban on all gasoline exports due to Iran war",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "How Pakistan positioned itself at the center of global crisis management",
+      "title": "SpaceX files to go public, paving way to make Elon Musk first trillionaire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss",
-      "published_date": "2026-03-31T19:46:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: US’s history of making other nations pay for conflicts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/war-on-iran-uss-history-of-making-other-nations-pay-for-conflicts?traffic_source=rss",
-      "published_date": "2026-03-31T13:56:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US defence secretary says next few days in Iran war will be ‘decisive’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/us-defence-secretary-says-next-few-days-in-iran-war-will-be?traffic_source=rss",
-      "published_date": "2026-03-31T13:12:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Shabaab shells airport in southwest Somalia, helicopter unharmed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/al-shabaab-shells-airport-in-southwest-somalia-helicopter-unharmed/",
-      "published_date": "2026-03-31T11:33:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drones strike Russia’s Ust-Luga port again as EU officials visit Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/drones-strike-russias-ust-luga-port-again-as-eu-officials-visit-ukraine?traffic_source=rss",
-      "published_date": "2026-03-31T10:54:13+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss",
+      "published_date": "2026-04-01T21:12:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can Russia help fill the global energy gap?",
@@ -438,6 +445,62 @@
       "category": "Economy"
     },
     {
+      "title": "Somalia appoints interim Southwest leader after regional president ousted",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-appoints-interim-southwest-leader-after-regional-president-ousted/",
+      "published_date": "2026-04-01T21:08:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters gather to oppose changes to US birthright citizenship law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/protesters-gather-to-oppose-changes-to-us-birthright-citizenship-law?traffic_source=rss",
+      "published_date": "2026-04-01T20:58:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ecuador claims 28% drop in homicides amid concerns over anti-crime campaign",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/ecuador-claims-28-drop-in-homicides-amid-concerns-over-anti-crime-campaign?traffic_source=rss",
+      "published_date": "2026-04-01T20:20:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Hits close to home’: US Supreme Court hears birthright citizenship case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/hits-close-to-home-us-supreme-court-hears-birthright-citizenship-case?traffic_source=rss",
+      "published_date": "2026-04-01T20:19:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians in West Bank protest, strike against Israeli death penalty law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/palestinians-in-west-bank-protest-strike-against-israeli-death-penalty-law?traffic_source=rss",
+      "published_date": "2026-04-01T19:09:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss",
+      "published_date": "2026-04-01T17:12:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SOMALIA: Laftagareen insists that he is the Elected President of the South West State.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalia-laftagareen-disputes-removal-as-south-west-state-leadership-crisis-deepens/",
+      "published_date": "2026-04-01T16:12:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU Naval Forces Blockade Pirated Vessel off Somali Coast",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/eu-naval-forces-blockade-pirated-vessel-off-somali-coast/",
+      "published_date": "2026-04-01T15:59:33+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Russia claims to take full control of Ukraine’s Luhansk region",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/1/russia-claims-to-take-full-control-of-ukraines-luhansk-region?traffic_source=rss",
@@ -519,62 +582,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/somalia-convenes-first-joint-committee-meeting-on-food-security-crisis-preparedness-plan/",
       "published_date": "2026-03-31T19:21:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speaker Sheikh Aden Madobe Arrives in Baidoa, Calls for Unity and Support for Government",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/speaker-sheikh-aden-madobe-arrives-in-baidoa-calls-for-unity-and-support-for-government/",
-      "published_date": "2026-03-31T19:18:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians in occupied West Bank protest Israel’s death penalty law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/palestinians-in-occupied-west-bank-protest-israels-death-penalty-law?traffic_source=rss",
-      "published_date": "2026-03-31T18:18:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Hormuud Telecom signs digital economy MoU with Germany’s GIZ",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-hormuud-telecom-signs-digital-economy-mou-with-germanys-giz/",
-      "published_date": "2026-03-31T18:05:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Isku shaandheyn lagu sameeyay xukuumadda Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/31/isku-shaandheyn-lagu-sameeyay-xukuumadda-puntland/",
-      "published_date": "2026-03-31T16:57:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni oo xilalkii ka qaaday guddoomiyeyaasha gobollada Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/31/deni-oo-xilalkii-ka-qaaday-guddoomiyeyaasha-gobollada-puntland/",
-      "published_date": "2026-03-31T15:39:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tyre hospital ‘hit five times’ since start of Israel’s attacks on Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/tyre-hospital-hit-five-times-since-start-of-israels-attacks-on-lebanon?traffic_source=rss",
-      "published_date": "2026-03-31T13:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Set for Crucial AFCON 2027 Qualifier Clash Against Mauritius",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-set-for-crucial-afcon-2027-qualifier-clash-against-mauritius/",
-      "published_date": "2026-03-31T13:16:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland iyo hay’adda The HALO Trust oo ka wada hadlay miino baarista",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/03/31/puntland-iyo-hayadda-the-halo-trust-oo-ka-wada-hadlay-miino-baarista/",
-      "published_date": "2026-03-31T12:51:42+00:00",
       "category": "Local Events"
     }
   ]
