@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-02T00:02:56.543486+00:00",
-  "story_count": 83,
+  "last_updated": "2026-04-02T14:42:00.281230+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss",
+      "published_date": "2026-04-02T11:26:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "First troops from UN-backed Gang Suppression Force arrive in Haiti",
       "source": "Al Jazeera",
@@ -137,11 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US embassy reopens in Venezuela months after Maduro abduction",
+      "title": "Why Lebanon should join the International Criminal Court",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-embassy-reopens-in-venezuela-months-after-maduro-abduction?traffic_source=rss",
-      "published_date": "2026-03-30T20:16:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/4/2/why-lebanon-should-join-the-international-criminal-court?traffic_source=rss",
+      "published_date": "2026-04-02T14:15:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/burkina-faso-military-allies-committing-horrific-civilian-abuses-hrw?traffic_source=rss",
+      "published_date": "2026-04-02T13:53:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK-led coalition of 40 countries vows action on Hormuz Strait gridlock",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/uk-led-coalition-of-35-countries-vows-action-on-hormuz-strait-gridlock?traffic_source=rss",
+      "published_date": "2026-04-02T13:27:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan to continue with Iran-US mediation despite ‘obstacles’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/pakistan-to-continue-with-iran-us-mediation-despite-obstacles?traffic_source=rss",
+      "published_date": "2026-04-02T13:19:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Bomb back to the Stone Age’: US history of threats and carpet bombing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/bomb-back-to-the-stone-age-us-history-of-threats-and-carpet-bombing?traffic_source=rss",
+      "published_date": "2026-04-02T13:06:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia Cabinet Approves Key Laws and Agreements, Calls for Peace Amid Security Gains",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-cabinet-approves-key-laws-and-agreements-calls-for-peace-amid-security-gains/",
+      "published_date": "2026-04-02T12:52:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Smoke rises over Mashhad, Iran, following strike near airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/smoke-rises-over-mashhad-iran-following-strike-near-airport?traffic_source=rss",
+      "published_date": "2026-04-02T12:13:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Four children killed in nursery school stabbing attack in Uganda",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda?traffic_source=rss",
+      "published_date": "2026-04-02T11:44:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Libyan military leader may have combat drones despite UN embargo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo?traffic_source=rss",
+      "published_date": "2026-04-02T11:01:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran?traffic_source=rss",
+      "published_date": "2026-04-02T10:36:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nearly 1,200 children killed or injured in Yemen despite truce: NGO",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/nearly-1200-children-killed-or-injured-in-yemen-despite-truce?traffic_source=rss",
+      "published_date": "2026-04-02T09:27:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali military holds workshop on civilian protection during anti-Shabaab operations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-military-holds-workshop-on-civilian-protection-during-anti-shabaab-operations/",
+      "published_date": "2026-04-02T08:43:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia president consolidates military loyalty ahead of term end",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-consolidates-military-loyalty-ahead-of-term-end/",
+      "published_date": "2026-04-02T08:29:49+00:00",
+      "category": "Military"
     },
     {
       "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "UK finds pro-Palestine protest organisers guilty of breaching police rules",
+      "title": "Can Starmer’s 40-nation coalition open the Strait of Hormuz?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss",
-      "published_date": "2026-04-01T12:27:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How are NATO allies pushing back against Trump’s Iran war demands?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/how-are-nato-allies-pushing-back-against-trumps-iran-war-demands?traffic_source=rss",
-      "published_date": "2026-04-01T12:03:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "West Bank strikes over Palestinian-only death penalty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/west-bank-strikes-over-palestinian-only-death-penalty?traffic_source=rss",
-      "published_date": "2026-04-01T11:42:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq celebrates qualification for FIFA World Cup 2026",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/1/iraqis-celebrate-in-the-streets-after-qualifying-for-fifa-world-cup-2026?traffic_source=rss",
-      "published_date": "2026-04-01T11:19:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Forces Reopen Key Mogadishu–Baidoa Route as Defense Minister Signals Intensified Offensive",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/458157-2/",
-      "published_date": "2026-04-01T11:17:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Assaulted, robbed: Refugees abused on Bosnia-Croatia border",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/1/on-bosnian-croatian-border-migrants-face-untold?traffic_source=rss",
-      "published_date": "2026-04-01T10:49:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-04-01T10:05:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia intelligence operations destroy Al-Shabaab bomb sites, kill fighters",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-intelligence-operations-destroy-al-shabaab-bomb-sites-kill-fighters/",
-      "published_date": "2026-04-01T09:46:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis claim joint missile attack on Israel with Iran and Hezbollah",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/houthis-claim-joint-missile-attack-on-israel-with-iran-and-hezbollah?traffic_source=rss",
-      "published_date": "2026-04-01T09:24:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/war-on-iran-three-key-takeaways-from-araghchis-interview-with-al-jazeera?traffic_source=rss",
-      "published_date": "2026-04-01T08:27:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli police inspect damage on the road after missile impact",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss",
-      "published_date": "2026-04-01T07:55:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo urges Trump to end war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/pope-leo-urges-trump-to-end-war-on-iran?traffic_source=rss",
-      "published_date": "2026-03-31T23:12:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air attack kills father and two-year-old son in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israeli-air-attack-kills-father-and-two-year-old-son-in-gaza?traffic_source=rss",
-      "published_date": "2026-03-31T20:51:14+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/2/can-starmers-40-nation-coalition-open-the-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-04-02T14:26:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "SpaceX files to go public, paving way to make Elon Musk first trillionaire",
@@ -382,6 +389,27 @@
       "category": "Energy"
     },
     {
+      "title": "Pakistan-bound ships pass through Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pakistan-bound-ships-pass-through-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-04-02T11:57:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Israel’s record budget will finance expanding illegal settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss",
+      "published_date": "2026-04-02T11:09:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US-Israeli attacks and its impact on Iran’s economy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/us-israeli-attacks-and-its-impact-on-irans-economy?traffic_source=rss",
+      "published_date": "2026-04-02T10:31:15+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Somalia’s Deputy Prime Minister Launches Agriculture Coordination Platform in Mogadishu",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalias-deputy-prime-minister-launches-agriculture-coordination-platform-in-mogadishu/",
@@ -445,6 +473,90 @@
       "category": "Economy"
     },
     {
+      "title": "Madaxweyne Deni oo guddi magaacaabay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/02/madaxweyne-deni-oo-guddi-magaacaabay/",
+      "published_date": "2026-04-02T13:33:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interim SouthWest Leader Arrives in Baidoa for Talks on New Administration",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/interim-southwest-leader-arrives-in-baidoa-for-talks-on-new-administration/",
+      "published_date": "2026-04-02T12:56:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dowladda Federaalka oo baaq u dirtay Somaliland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/02/dowladda-federaalka-oo-baaq-u-dirtay-somaliland/",
+      "published_date": "2026-04-02T11:25:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal Cabinet Advances Strategic Maritime and Aviation Legislation, Urges Immediate Ceasefire in Localized Civil Clashes",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/federal-cabinet-advances-strategic-maritime-and-aviation-legislation-urges-immediate-ceasefire-in-localized-civil-clashes/",
+      "published_date": "2026-04-02T11:03:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Cabinet Approves Key Laws and Agreements to Strengthen Governance and Security",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/the-cabinet-approves-key-laws-and-agreements-to-strengthen-governance-and-security/",
+      "published_date": "2026-04-02T10:34:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wasiirada cusub ee Puntland oo la dhaariyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/02/wasiirada-cusub-ee-puntland-oo-la-dhaariyay/",
+      "published_date": "2026-04-02T10:29:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s govt flouts new constitution by appointing MPs as ministers",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-govt-flouts-new-constitution-by-appoints-mps-as-ministers/",
+      "published_date": "2026-04-02T10:10:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court denies extradition of ex-Tunisian President Ben Ali’s daughter",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss",
+      "published_date": "2026-04-02T08:54:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Southwest State gets interim leader after Baidoa takeover",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/southwest-state-gets-interim-leader-after-baidoa-takeover/",
+      "published_date": "2026-04-02T08:35:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Orban constantly vetoes’: Europe braces for Hungary election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/orban-constantly-vetoes-europe-braces-for-hungary-election?traffic_source=rss",
+      "published_date": "2026-04-02T08:17:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guddoomiyeyaashii hore ee gobollada oo la faray in ay degdeg xilka u wareejiyaan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/02/guddoomiyeyaashii-hore-ee-gobollada-oo-la-faray-in-ay-degdeg-xilka-u-wareejiyaan/",
+      "published_date": "2026-04-02T07:36:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prime Minister Appoints Interim Leader for Southwest State to Ensure Stability",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/prime-minister-appoints-interim-leader-for-southwest-state-to-ensure-stability/",
+      "published_date": "2026-04-02T06:49:29+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Somalia appoints interim Southwest leader after regional president ousted",
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-appoints-interim-southwest-leader-after-regional-president-ousted/",
@@ -498,90 +610,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/eu-naval-forces-blockade-pirated-vessel-off-somali-coast/",
       "published_date": "2026-04-01T15:59:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia claims to take full control of Ukraine’s Luhansk region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/russia-claims-to-take-full-control-of-ukraines-luhansk-region?traffic_source=rss",
-      "published_date": "2026-04-01T13:45:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speaker of Somali Parliament Meets Southwest State Ministers to Review Public Services",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/speaker-of-somali-parliament-meets-southwest-state-ministers-to-review-public-services/",
-      "published_date": "2026-04-01T13:07:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court to hear constitutional test of birthright citizenship",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/us-supreme-court-to-hear-constitutional-test-of-birthright-citizenship?traffic_source=rss",
-      "published_date": "2026-04-01T11:41:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo magacaabis cusub sameeyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/01/madaxweyne-deni-oo-magacaabis-cusub-sameeyay/",
-      "published_date": "2026-04-01T10:57:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliamentary speaker meets commanders in Baidoa after road-clearing operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliamentary-speaker-meets-commanders-in-baidoa-after-road-clearing-operation/",
-      "published_date": "2026-04-01T09:44:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Youth Awarded for Promoting Positive Content as ‘Daaci2026’ Program Concludes",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-youth-awarded-for-promoting-positive-content-as-daaci2026-program-concludes/",
-      "published_date": "2026-04-01T09:35:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Gerrymandering’ in India’s Assam cuts Muslim representation before vote",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/1/gerrymandering-in-indias-assam-cuts-muslim-representation-before-vote?traffic_source=rss",
-      "published_date": "2026-04-01T08:46:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal Leadership Intensifies Security Efforts in Baidoa After Power Transition",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/federal-leadership-intensifies-security-efforts-in-baidoa-after-power-transition/",
-      "published_date": "2026-04-01T07:35:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland President Leads National Talks to Resolve Awdal and Selel Conflict.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-leads-national-talks-to-resolve-awdal-and-selel-conflict/",
-      "published_date": "2026-04-01T04:07:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court rejects Colorado ban on LGBTQ child ‘conversion therapy’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/us-supreme-court-rejects-colorado-ban-on-lgbtq-child-conversion?traffic_source=rss",
-      "published_date": "2026-03-31T21:45:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI agents who investigated Trump file lawsuit alleging retaliatory firing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/fbi-agents-who-investigated-trump-file-lawsuit-alleging-retaliatory-firing?traffic_source=rss",
-      "published_date": "2026-03-31T21:17:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Convenes First Joint Committee Meeting on Food Security Crisis Preparedness Plan",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-convenes-first-joint-committee-meeting-on-food-security-crisis-preparedness-plan/",
-      "published_date": "2026-03-31T19:21:46+00:00",
       "category": "Local Events"
     }
   ]
