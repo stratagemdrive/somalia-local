@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-03T00:03:41.097055+00:00",
-  "story_count": 90,
+  "last_updated": "2026-04-03T12:06:28.719976+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "NISA Director General Executes High-Level Security Consultations with CIA and FBI Leadership in Washington",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/nisa-director-general-executes-high-level-security-consultations-with-cia-and-fbi-leadership-in-washington/",
+      "published_date": "2026-04-03T10:56:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "As war drags on, US reiterates Trump open to diplomacy with Iran",
       "source": "Al Jazeera",
@@ -137,11 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Three Indonesian peacekeepers killed by Israeli attacks in Lebanon",
+      "title": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/three-indonesian-peacekeepers-killed-by-israeli-attacks-in-lebanon?traffic_source=rss",
-      "published_date": "2026-03-31T12:12:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/3/i-dont-know-how-well-emerge-from-this-how-much-more-can-israelis-take?traffic_source=rss",
+      "published_date": "2026-04-03T11:24:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Sudan has been destroyed due to the Emirates’",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/03/sudan-has-been-destroyed-due-to-the-emirates/",
+      "published_date": "2026-04-03T11:22:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burkina Faso military leader Traore says ‘forget democracy’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss",
+      "published_date": "2026-04-03T11:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss",
+      "published_date": "2026-04-03T10:49:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Military Holds Security Meeting in Baidoa to Boost Fight Against Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-military-holds-security-meeting-in-baidoa-to-boost-fight-against-al-shabaab/",
+      "published_date": "2026-04-03T09:22:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Forces Kill Al-Shabaab Militants in Planned Hiiraan Operation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-forces-kill-al-shabaab-militants-in-planned-hiiraan-operation/",
+      "published_date": "2026-04-03T09:17:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tiger Woods told police after car crash he was ‘talking to the president’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/3/tiger-woods-told-police-after-car-crash-he-was-talking-to-the-president?traffic_source=rss",
+      "published_date": "2026-04-03T08:59:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth fires US Army chief of staff in reported string of dismissals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals?traffic_source=rss",
+      "published_date": "2026-04-03T07:13:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 35 of US-Israeli attacks?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
+      "published_date": "2026-04-03T06:42:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Myanmar’s coup leader elected president by pro-military parliament",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
+      "published_date": "2026-04-03T06:05:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How China’s ‘teapot’ refineries are cushioning it from Iran war oil crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/how-chinas-teapot-refineries-are-cushioning-it-from-iran-war-oil-crisis?traffic_source=rss",
+      "published_date": "2026-04-03T05:57:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kulan looga hadlayey Amniga Koonfur Galbeed oo lagu qabtay Baydhabo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kulan-looga-hadlayey-amniga-koonfur-galbeed-oo-lagu-qabtay-baydhabo/",
+      "published_date": "2026-04-03T05:52:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Howlgal lagu dilay xubno ka tirsan Al-Shabaab oo ka dhacay Hiiraan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/howlgal-lagu-dilay-xubno-ka-tirsan-al-shabaab-oo-ka-dhacay-hiiraan/",
+      "published_date": "2026-04-03T05:45:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Golaha Mustaqbalka Soomaaliyeed oo Ka Soo Horjeestay Maamulka KMG ee Koonfur Galbeed",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/golaha-mustaqbalka-soomaaliyeed-oo-ka-soo-horjeestay-maamulka-kmg-ee-koonfur-galbeed/",
+      "published_date": "2026-04-03T05:34:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Water plant hit in Kuwait as Tehran attacks the Gulf, Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+      "published_date": "2026-04-03T05:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
+      "published_date": "2026-04-03T04:55:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
+      "published_date": "2026-04-03T02:11:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Somali National Army Executes Precise Tactical Ambush Against Khawaarij Militants in Hiiraan Region",
@@ -165,123 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "At least 43 people killed in ADF attack in northeast DR Congo, army says",
+      "title": "Cuba to pardon more than 2,000 prisoners amid US pressure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/at-least-43-people-killed-in-adf-attack-in-northeast-dr-congo-army-says?traffic_source=rss",
-      "published_date": "2026-04-02T20:34:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure?traffic_source=rss",
+      "published_date": "2026-04-03T09:06:15+00:00",
+      "category": "Energy"
     },
     {
-      "title": "State Department claims Iran ‘continually’ pursuing nuclear weapon",
+      "title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/state-department-claims-iran-continually-pursuing-nuclear-weapon?traffic_source=rss",
-      "published_date": "2026-04-02T20:12:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What might end Israel’s war on Iran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/2/what-might-end-israels-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-02T19:54:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Children’s hospital in Tehran keeps hopes and smiles alive during war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/childrens-hospital-in-tehran-keeps-hopes-and-smiles-alive-during-war?traffic_source=rss",
-      "published_date": "2026-04-02T18:37:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Videos capture projectile falling in central Israel after Iran strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/videos-capture-projectile-falling-in-central-israel-after-iran-strike?traffic_source=rss",
-      "published_date": "2026-04-02T18:35:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Lebanon should join the International Criminal Court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/2/why-lebanon-should-join-the-international-criminal-court?traffic_source=rss",
-      "published_date": "2026-04-02T14:15:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/burkina-faso-military-allies-committing-horrific-civilian-abuses-hrw?traffic_source=rss",
-      "published_date": "2026-04-02T13:53:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK-led coalition of 40 countries vows action on Hormuz Strait gridlock",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/uk-led-coalition-of-35-countries-vows-action-on-hormuz-strait-gridlock?traffic_source=rss",
-      "published_date": "2026-04-02T13:27:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan to continue with Iran-US mediation despite ‘obstacles’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/pakistan-to-continue-with-iran-us-mediation-despite-obstacles?traffic_source=rss",
-      "published_date": "2026-04-02T13:19:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Bomb back to the Stone Age’: US history of threats and carpet bombing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/bomb-back-to-the-stone-age-us-history-of-threats-and-carpet-bombing?traffic_source=rss",
-      "published_date": "2026-04-02T13:06:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Cabinet Approves Key Laws and Agreements, Calls for Peace Amid Security Gains",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-cabinet-approves-key-laws-and-agreements-calls-for-peace-amid-security-gains/",
-      "published_date": "2026-04-02T12:52:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Smoke rises over Mashhad, Iran, following strike near airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/smoke-rises-over-mashhad-iran-following-strike-near-airport?traffic_source=rss",
-      "published_date": "2026-04-02T12:13:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four children killed in nursery school stabbing attack in Uganda",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda?traffic_source=rss",
-      "published_date": "2026-04-02T11:44:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Libyan military leader may have combat drones despite UN embargo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo?traffic_source=rss",
-      "published_date": "2026-04-02T11:01:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran?traffic_source=rss",
-      "published_date": "2026-04-02T10:36:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nearly 1,200 children killed or injured in Yemen despite truce: NGO",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/nearly-1200-children-killed-or-injured-in-yemen-despite-truce?traffic_source=rss",
-      "published_date": "2026-04-02T09:27:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali military holds workshop on civilian protection during anti-Shabaab operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-military-holds-workshop-on-civilian-protection-during-anti-shabaab-operations/",
-      "published_date": "2026-04-02T08:43:36+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss",
+      "published_date": "2026-04-03T08:59:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil shock triggers global price spikes as Iran war drags on",
@@ -410,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Rubble, mud and hair: How to rebuild a home in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/3/rubble-mud-and-hair-how-to-rebuild-a-home-in-gaza?traffic_source=rss",
+      "published_date": "2026-04-03T11:14:35+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Pakistan-bound ships pass through Strait of Hormuz",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pakistan-bound-ships-pass-through-strait-of-hormuz?traffic_source=rss",
@@ -492,6 +513,34 @@
       "url": "https://sonna.so/en/somalia-unicef-align-development-plans-to-strengthen-response-to-food-and-nutrition-crisis/",
       "published_date": "2026-03-29T15:22:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Somalia’s Disaster Management Agency Distributes Food Aid to 1,000 Families in Huddur",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-disaster-management-agency-distributes-food-aid-to-1000-families-in-huddur/",
+      "published_date": "2026-04-03T09:25:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Future Council Rejects Federal Appointment of Caretaker Leader for SouthWest State",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-future-council-rejects-federal-appointment-of-caretaker-leader-for-southwest-state/",
+      "published_date": "2026-04-03T09:20:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why did Trump fire Pam Bondi from Justice Department, who is Todd Blanche?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche?traffic_source=rss",
+      "published_date": "2026-04-03T08:19:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Israel is destroying healthcare infrastructure in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-03T07:34:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US court orders resentencing for Colorado clerk involved in election scheme",
@@ -603,34 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/protesters-gather-to-oppose-changes-to-us-birthright-citizenship-law?traffic_source=rss",
       "published_date": "2026-04-01T20:58:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ecuador claims 28% drop in homicides amid concerns over anti-crime campaign",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/ecuador-claims-28-drop-in-homicides-amid-concerns-over-anti-crime-campaign?traffic_source=rss",
-      "published_date": "2026-04-01T20:20:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Hits close to home’: US Supreme Court hears birthright citizenship case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/hits-close-to-home-us-supreme-court-hears-birthright-citizenship-case?traffic_source=rss",
-      "published_date": "2026-04-01T20:19:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians in West Bank protest, strike against Israeli death penalty law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/palestinians-in-west-bank-protest-strike-against-israeli-death-penalty-law?traffic_source=rss",
-      "published_date": "2026-04-01T19:09:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss",
-      "published_date": "2026-04-01T17:12:41+00:00",
       "category": "Local Events"
     }
   ]
