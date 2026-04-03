@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-02T14:42:00.281230+00:00",
-  "story_count": 87,
+  "last_updated": "2026-04-03T00:03:41.097055+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "As war drags on, US reiterates Trump open to diplomacy with Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss",
+      "published_date": "2026-04-02T20:24:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/gcc-chief-urges-un-to-halt-iranian-attacks-protect-gulf-waterways?traffic_source=rss",
+      "published_date": "2026-04-02T18:40:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN experts urge investigation into Israel’s killing of Lebanese journalists",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/un-experts-urge-investigation-into-israels-killing-of-lebanese-journalists?traffic_source=rss",
+      "published_date": "2026-04-02T17:47:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
       "source": "Al Jazeera",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Iranians don’t consider Trump’s 15-point plan as beginning of diplomacy’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/3/31/iranians-dont-consider-trumps-15-point-plan-as-beginning-of-a-diplomatic?traffic_source=rss",
-      "published_date": "2026-03-31T09:46:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prime Minister Hamza Abdi Barre Attends “Daaci 2026” Awards, Urges Youth to Champion Positive Change",
+      "title": "Somali National Army Executes Precise Tactical Ambush Against Khawaarij Militants in Hiiraan Region",
       "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-abdi-barre-attends-daaci-2026-awards-urges-youth-to-champion-positive-change/",
-      "published_date": "2026-03-31T08:55:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/somali-national-army-executes-precise-tactical-ambush-against-khawaarij-militants-in-hiiraan-region/",
+      "published_date": "2026-04-02T22:06:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN condemns killing of Indonesian peacekeepers in Lebanon",
+      "title": "9-year-old boy recounts airstrike in Lebanon that killed whole family",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss",
-      "published_date": "2026-03-30T21:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
+      "published_date": "2026-04-02T21:22:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says army forces are ready to repel US-Israeli attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss",
+      "published_date": "2026-04-02T20:54:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 43 people killed in ADF attack in northeast DR Congo, army says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/at-least-43-people-killed-in-adf-attack-in-northeast-dr-congo-army-says?traffic_source=rss",
+      "published_date": "2026-04-02T20:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "State Department claims Iran ‘continually’ pursuing nuclear weapon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/state-department-claims-iran-continually-pursuing-nuclear-weapon?traffic_source=rss",
+      "published_date": "2026-04-02T20:12:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What might end Israel’s war on Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/2/what-might-end-israels-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-02T19:54:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Children’s hospital in Tehran keeps hopes and smiles alive during war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/childrens-hospital-in-tehran-keeps-hopes-and-smiles-alive-during-war?traffic_source=rss",
+      "published_date": "2026-04-02T18:37:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Videos capture projectile falling in central Israel after Iran strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/videos-capture-projectile-falling-in-central-israel-after-iran-strike?traffic_source=rss",
+      "published_date": "2026-04-02T18:35:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Why Lebanon should join the International Criminal Court",
@@ -228,60 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Somalia president consolidates military loyalty ahead of term end",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-consolidates-military-loyalty-ahead-of-term-end/",
-      "published_date": "2026-04-02T08:29:49+00:00",
-      "category": "Military"
+      "title": "Oil shock triggers global price spikes as Iran war drags on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
+      "published_date": "2026-04-02T21:04:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
+      "title": "Russia sending second ship with oil to Cuba amid US blockade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
-      "published_date": "2026-04-01T21:20:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss",
+      "published_date": "2026-04-02T20:51:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Smoke and embers seen over Iran’s Isfahan after strike",
+      "title": "Can Russia help fill the global energy gap?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss",
-      "published_date": "2026-04-01T21:01:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss",
-      "published_date": "2026-04-01T20:40:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burundi says at least 13 killed, dozens injured in military base blast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/burundi-says-at-least-13-killed-dozens-injured-in-military-base-blast?traffic_source=rss",
-      "published_date": "2026-04-01T20:16:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/iran-authorities-await-war-victory-as-supporters-mark-1979-anniversary?traffic_source=rss",
-      "published_date": "2026-04-01T17:28:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia imposing ban on all gasoline exports due to Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/russia-imposing-ban-on-all-gasoline-exports-due-to-iran-war?traffic_source=rss",
-      "published_date": "2026-04-01T13:24:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/1/irans-minister-civilisational-identity-under-fire-in-unprecedented-war?traffic_source=rss",
-      "published_date": "2026-04-01T12:45:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/2/can-russia-help-fill-the-global-energy-gap?traffic_source=rss",
+      "published_date": "2026-04-02T18:40:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can Starmer’s 40-nation coalition open the Strait of Hormuz?",
@@ -473,6 +494,20 @@
       "category": "Economy"
     },
     {
+      "title": "US court orders resentencing for Colorado clerk involved in election scheme",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss",
+      "published_date": "2026-04-02T22:56:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juha’s Past Poem Takes on “New Meaning” in Puntland After Dismissal",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/02/juhas-past-poem-takes-on-new-meaning-in-puntland-after-dismissal/",
+      "published_date": "2026-04-02T20:31:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Madaxweyne Deni oo guddi magaacaabay",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/02/madaxweyne-deni-oo-guddi-magaacaabay/",
@@ -596,20 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss",
       "published_date": "2026-04-01T17:12:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SOMALIA: Laftagareen insists that he is the Elected President of the South West State.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalia-laftagareen-disputes-removal-as-south-west-state-leadership-crisis-deepens/",
-      "published_date": "2026-04-01T16:12:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU Naval Forces Blockade Pirated Vessel off Somali Coast",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/eu-naval-forces-blockade-pirated-vessel-off-somali-coast/",
-      "published_date": "2026-04-01T15:59:33+00:00",
       "category": "Local Events"
     }
   ]
