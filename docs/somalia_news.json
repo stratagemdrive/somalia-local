@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-04T00:01:13.276314+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-04T11:56:11.668538+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Somalia Concludes High-Level Defence Engagements in Ankara",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-concludes-high-level-defence-engagements-in-ankara/",
+      "published_date": "2026-04-04T10:59:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mortar shells land near Baidoa airport as Somali president arrives",
       "source": "Shabelle Media",
@@ -137,11 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Analysis: Hezbollah backs Iran ambassador as conflict deepens Lebanon rifts",
+      "title": "Somali Intelligence Says Nine Militants Killed in Operations in Lower Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-intelligence-says-nine-militants-killed-in-operations-in-lower-shabelle/",
+      "published_date": "2026-04-04T11:22:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Military Chiefs Visit Baidoa After Key Highway Reopened",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-military-chiefs-visit-baidoa-after-key-highway-reopened/",
+      "published_date": "2026-04-04T11:18:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least four people killed in Russian attacks on Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/analysis-hezbollah-backs-iran-ambassador-as-conflict-deepens-lebanon-rifts?traffic_source=rss",
-      "published_date": "2026-03-31T19:37:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
+      "published_date": "2026-04-04T10:20:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Diyaarad Mareykan leeyahay oo Lagu Soo Riday Koonfurta Iran",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/diyaarad-mareykan-leeyahay-oo-lagu-soo-riday-koonfurta-iran/",
+      "published_date": "2026-04-04T08:11:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mortar shells hit Baidoa airport as Somalia’s president arrives",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/mortar-shells-hit-baidoa-airport-as-somalias-president-arrives/",
+      "published_date": "2026-04-04T07:31:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+      "published_date": "2026-04-04T03:51:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian missile attack hits residential areas in central Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
+      "published_date": "2026-04-04T02:53:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: US-Israel attacks hit petrochemical, nuclear sites in Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
+      "published_date": "2026-04-04T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
@@ -225,62 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss",
       "published_date": "2026-04-03T10:49:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Military Holds Security Meeting in Baidoa to Boost Fight Against Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-military-holds-security-meeting-in-baidoa-to-boost-fight-against-al-shabaab/",
-      "published_date": "2026-04-03T09:22:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Forces Kill Al-Shabaab Militants in Planned Hiiraan Operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-forces-kill-al-shabaab-militants-in-planned-hiiraan-operation/",
-      "published_date": "2026-04-03T09:17:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tiger Woods told police after car crash he was ‘talking to the president’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/3/tiger-woods-told-police-after-car-crash-he-was-talking-to-the-president?traffic_source=rss",
-      "published_date": "2026-04-03T08:59:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth fires US Army chief of staff in reported string of dismissals",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals?traffic_source=rss",
-      "published_date": "2026-04-03T07:13:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 35 of US-Israeli attacks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
-      "published_date": "2026-04-03T06:42:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar’s coup leader elected president by pro-military parliament",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
-      "published_date": "2026-04-03T06:05:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How China’s ‘teapot’ refineries are cushioning it from Iran war oil crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/how-chinas-teapot-refineries-are-cushioning-it-from-iran-war-oil-crisis?traffic_source=rss",
-      "published_date": "2026-04-03T05:57:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kulan looga hadlayey Amniga Koonfur Galbeed oo lagu qabtay Baydhabo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kulan-looga-hadlayey-amniga-koonfur-galbeed-oo-lagu-qabtay-baydhabo/",
-      "published_date": "2026-04-03T05:52:11+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Somalia, Saudi Arabia Explore Maritime Cooperation at St. Petersburg Forum",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-saudi-arabia-explore-maritime-cooperation-at-st-petersburg-forum/",
+      "published_date": "2026-04-04T07:26:37+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US unemployment rate drops despite economic uncertainty and Iran war",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/3/us-unemployment-rate-drops-despite-economic-uncertainty-and-iran-war?traffic_source=rss",
@@ -522,6 +529,55 @@
       "category": "Economy"
     },
     {
+      "title": "Interim Southwest Leader Meets Elders to Promote Unity and Peace",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/interim-southwest-leader-meets-elders-to-promote-unity-and-peace/",
+      "published_date": "2026-04-04T11:24:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Says F‑15E Strike Eagle Downed in Southern Iran, One Pilot Missing",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/us-says-f-15e-strike-eagle-downed-in-southern-iran-one-pilot-missing/",
+      "published_date": "2026-04-04T11:19:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NISA Operation in Lower Shabelle Eliminates Nine Militants, Destroys Explosives Infrastructure",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/nisa-operation-in-lower-shabelle-eliminates-nine-militants-destroys-explosives-infrastructure/",
+      "published_date": "2026-04-04T09:14:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran executes two convicted members of banned opposition group",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
+      "published_date": "2026-04-04T08:22:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss",
+      "published_date": "2026-04-04T03:35:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo tirakoobaysa hantida wasiirada cusub",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/04/puntland-oo-tirakoobaysa-hantida-wasiirada-cusub/",
+      "published_date": "2026-04-04T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Atletico Madrid vs Barcelona: La Liga preview – teams, start time, lineups",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/4/atletico-madrid-vs-barcelona-la-liga-preview-teams-start-time-lineups?traffic_source=rss",
+      "published_date": "2026-04-04T00:08:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
@@ -610,55 +666,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/interim-southwest-leader-arrives-in-baidoa-for-talks-on-new-administration/",
       "published_date": "2026-04-02T12:56:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dowladda Federaalka oo baaq u dirtay Somaliland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/02/dowladda-federaalka-oo-baaq-u-dirtay-somaliland/",
-      "published_date": "2026-04-02T11:25:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal Cabinet Advances Strategic Maritime and Aviation Legislation, Urges Immediate Ceasefire in Localized Civil Clashes",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/federal-cabinet-advances-strategic-maritime-and-aviation-legislation-urges-immediate-ceasefire-in-localized-civil-clashes/",
-      "published_date": "2026-04-02T11:03:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Cabinet Approves Key Laws and Agreements to Strengthen Governance and Security",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/the-cabinet-approves-key-laws-and-agreements-to-strengthen-governance-and-security/",
-      "published_date": "2026-04-02T10:34:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wasiirada cusub ee Puntland oo la dhaariyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/02/wasiirada-cusub-ee-puntland-oo-la-dhaariyay/",
-      "published_date": "2026-04-02T10:29:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s govt flouts new constitution by appointing MPs as ministers",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-govt-flouts-new-constitution-by-appoints-mps-as-ministers/",
-      "published_date": "2026-04-02T10:10:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court denies extradition of ex-Tunisian President Ben Ali’s daughter",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss",
-      "published_date": "2026-04-02T08:54:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southwest State gets interim leader after Baidoa takeover",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/southwest-state-gets-interim-leader-after-baidoa-takeover/",
-      "published_date": "2026-04-02T08:35:49+00:00",
       "category": "Local Events"
     }
   ]
