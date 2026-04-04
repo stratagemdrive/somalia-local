@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-04T11:56:11.668538+00:00",
+  "last_updated": "2026-04-04T23:59:50.353481+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "Red Sea Rivalry Deepens as Somaliland Emerges at Center of Geopolitical Contest",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/red-sea-rivalry-deepens-as-somaliland-emerges-at-center-of-geopolitical-contest/",
+      "published_date": "2026-04-04T22:36:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indonesia receives bodies of peacekeepers killed in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/indonesia-receives-bodies-of-peacekeepers-killed-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-04T20:21:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war?traffic_source=rss",
+      "published_date": "2026-04-04T17:39:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali and Turkish Ground Forces Commanders Discuss Enhanced Military Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-and-turkish-ground-forces-commanders-discuss-enhanced-military-cooperation/",
+      "published_date": "2026-04-04T15:40:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia Concludes High-Level Defence Engagements in Ankara",
       "source": "SONNA",
@@ -116,32 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
+      "title": "How will Pakistan deal with the fallout from Iran war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iran-ambassador-refuses-to-leave-lebanon-despite-expulsion-order?traffic_source=rss",
-      "published_date": "2026-03-31T21:43:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss",
+      "published_date": "2026-04-04T20:42:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN aid chief warns of new Israeli occupation in southern Lebanon",
+      "title": "Israeli police arrest antiwar protesters in Tel Aviv",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/un-aid-chief-warns-of-new-israeli-occupation-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-03-31T21:15:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss",
+      "published_date": "2026-04-04T20:04:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why UN slavery resolution won’t be enough",
+      "title": "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/3/31/why-un-slavery-resolution-wont-be-enough?traffic_source=rss",
-      "published_date": "2026-03-31T20:58:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/4/universities-hit-as-us-israel-ramp-up-attacks-on-irans-infrastructure?traffic_source=rss",
+      "published_date": "2026-04-04T19:17:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN expert Albanese confronted by pro-Israeli protesters in Germany",
+      "title": "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/un-expert-albanese-confronted-by-pro-israeli-protesters-in-germany?traffic_source=rss",
-      "published_date": "2026-03-31T20:29:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicle-engulfed-in-flames-after-israeli-drone-strike-in-central-gaza?traffic_source=rss",
+      "published_date": "2026-04-04T18:43:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hassan Sheikh survives mortar attack at Baidoa Airport.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/hassan-sheikh-survives-mortar-attack-at-baidoa-airport/",
+      "published_date": "2026-04-04T18:22:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What the Iran-Iraq war can tell us about the US-Israeli war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/4/4/what-the-iran-iraq-war-can-tell-us-about-the-us-israeli-war-on?traffic_source=rss",
+      "published_date": "2026-04-04T16:32:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Xubno katirsan Al-Shabaab oo lagu dilay howlgal ka dhacay Shabeellaha Hoose – NISA",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/xubno-katirsan-al-shabaab-oo-lagu-dilay-howlgal-ka-dhacay-shabeellaha-hoose-nisa/",
+      "published_date": "2026-04-04T15:53:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says US, Israel belong in Stone Age after Tehran university strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iran-says-us-israel-belong-in-stone-age-after-tehran-university-strike?traffic_source=rss",
+      "published_date": "2026-04-04T15:49:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three suspects ordered to stay in UK custody over Jewish charity attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss",
+      "published_date": "2026-04-04T15:19:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Witness records Israeli strike on building in Lebanon’s Tyre",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/witness-records-israeli-strike-on-building-in-lebanons-tyre?traffic_source=rss",
+      "published_date": "2026-04-04T15:15:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on southern Lebanon kill two girls, damage hospital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss",
+      "published_date": "2026-04-04T13:07:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+      "published_date": "2026-04-04T12:19:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Somali Intelligence Says Nine Militants Killed in Operations in Lower Shabelle",
@@ -197,90 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
       "published_date": "2026-04-04T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
-      "published_date": "2026-04-03T20:37:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least one killed at UAE’s Habshan gas facility after intercepted attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss",
-      "published_date": "2026-04-03T19:08:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cambodia parliament approves law to combat cybercrime scam rings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/cambodia-parliament-approves-law-to-combat-cybercrime-scam-rings?traffic_source=rss",
-      "published_date": "2026-04-03T17:40:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "U.S. Airstrikes in Somalia Surge in Early 2026, AFRICOM Reports",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/u-s-airstrikes-in-somalia-surge-in-early-2026-africom-reports/",
-      "published_date": "2026-04-03T17:38:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Omani, French and Japanese vessels transit the Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
-      "published_date": "2026-04-03T16:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump seeks historic $1.5 trillion for military in Congress budget request",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss",
-      "published_date": "2026-04-03T15:48:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest?traffic_source=rss",
-      "published_date": "2026-04-03T15:44:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Red Crescent supply warehouse attacked in southwest Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/red-crescent-supply-warehouse-attacked-in-southwest-iran?traffic_source=rss",
-      "published_date": "2026-04-03T15:13:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/i-dont-know-how-well-emerge-from-this-how-much-more-can-israelis-take?traffic_source=rss",
-      "published_date": "2026-04-03T11:24:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Sudan has been destroyed due to the Emirates’",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/03/sudan-has-been-destroyed-due-to-the-emirates/",
-      "published_date": "2026-04-03T11:22:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burkina Faso military leader Traore says ‘forget democracy’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss",
-      "published_date": "2026-04-03T11:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss",
-      "published_date": "2026-04-03T10:49:25+00:00",
       "category": "Military"
     },
     {
@@ -529,6 +529,27 @@
       "category": "Economy"
     },
     {
+      "title": "Tehran psychiatric hospital not usable after US-Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/tehran-psychiatric-hospital-not-usable-after-us-israeli-strike?traffic_source=rss",
+      "published_date": "2026-04-04T19:48:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marco Rubio says he has stripped Qassem Soleimani’s niece of US residency",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/top-diplomat-marco-rubio-strips-qassem-soleimanis-niece-of-us-residency?traffic_source=rss",
+      "published_date": "2026-04-04T17:27:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vehicles burn in Israel after being hit with Iranian projectile debris",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicles-burn-in-israel-after-being-hit-with-iranian-projectile-debris?traffic_source=rss",
+      "published_date": "2026-04-04T14:40:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Interim Southwest Leader Meets Elders to Promote Unity and Peace",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/interim-southwest-leader-meets-elders-to-promote-unity-and-peace/",
@@ -645,27 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss",
       "published_date": "2026-04-02T22:56:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Juha’s Past Poem Takes on “New Meaning” in Puntland After Dismissal",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/02/juhas-past-poem-takes-on-new-meaning-in-puntland-after-dismissal/",
-      "published_date": "2026-04-02T20:31:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo guddi magaacaabay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/02/madaxweyne-deni-oo-guddi-magaacaabay/",
-      "published_date": "2026-04-02T13:33:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interim SouthWest Leader Arrives in Baidoa for Talks on New Administration",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/interim-southwest-leader-arrives-in-baidoa-for-talks-on-new-administration/",
-      "published_date": "2026-04-02T12:56:49+00:00",
       "category": "Local Events"
     }
   ]
