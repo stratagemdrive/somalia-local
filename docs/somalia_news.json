@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-03T12:06:28.719976+00:00",
-  "story_count": 93,
+  "last_updated": "2026-04-04T00:01:13.276314+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Mortar shells land near Baidoa airport as Somali president arrives",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/mortar-shells-land-near-baidoa-airport-as-somali-president-arrives/",
+      "published_date": "2026-04-03T18:51:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "U.S. Revokes Visas of Somali Officials Amid Political Uncertainty",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/u-s-revokes-visas-of-somali-officials-amid-political-uncertainty/",
+      "published_date": "2026-04-03T17:55:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "NISA Director General Executes High-Level Security Consultations with CIA and FBI Leadership in Washington",
       "source": "SONNA",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran’s FM confirms contact with US envoy Witkoff, denies talks under way",
+      "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera?traffic_source=rss",
-      "published_date": "2026-03-31T19:01:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
+      "published_date": "2026-04-03T20:37:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cancer drug facility, religious site hit in Israeli-US strikes on Iran",
+      "title": "At least one killed at UAE’s Habshan gas facility after intercepted attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/cancer-drug-facility-religious-site-hit-in-israeli-us-strikes-on-iran?traffic_source=rss",
-      "published_date": "2026-03-31T13:37:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss",
+      "published_date": "2026-04-03T19:08:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cambodia parliament approves law to combat cybercrime scam rings",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/cambodia-parliament-approves-law-to-combat-cybercrime-scam-rings?traffic_source=rss",
+      "published_date": "2026-04-03T17:40:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "U.S. Airstrikes in Somalia Surge in Early 2026, AFRICOM Reports",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/u-s-airstrikes-in-somalia-surge-in-early-2026-africom-reports/",
+      "published_date": "2026-04-03T17:38:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Omani, French and Japanese vessels transit the Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss",
+      "published_date": "2026-04-03T16:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump seeks historic $1.5 trillion for military in Congress budget request",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss",
+      "published_date": "2026-04-03T15:48:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest?traffic_source=rss",
+      "published_date": "2026-04-03T15:44:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Red Crescent supply warehouse attacked in southwest Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/red-crescent-supply-warehouse-attacked-in-southwest-iran?traffic_source=rss",
+      "published_date": "2026-04-03T15:13:12+00:00",
+      "category": "Military"
     },
     {
       "title": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Howlgal lagu dilay xubno ka tirsan Al-Shabaab oo ka dhacay Hiiraan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/howlgal-lagu-dilay-xubno-ka-tirsan-al-shabaab-oo-ka-dhacay-hiiraan/",
-      "published_date": "2026-04-03T05:45:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Golaha Mustaqbalka Soomaaliyeed oo Ka Soo Horjeestay Maamulka KMG ee Koonfur Galbeed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/golaha-mustaqbalka-soomaaliyeed-oo-ka-soo-horjeestay-maamulka-kmg-ee-koonfur-galbeed/",
-      "published_date": "2026-04-03T05:34:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Water plant hit in Kuwait as Tehran attacks the Gulf, Israel",
+      "title": "Trump says with more time, US can ‘take the oil’ in Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
-      "published_date": "2026-04-03T05:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
-      "published_date": "2026-04-03T04:55:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran vows retaliation after deadly US strike on bridge in Karaj",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
-      "published_date": "2026-04-03T02:11:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali National Army Executes Precise Tactical Ambush Against Khawaarij Militants in Hiiraan Region",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-national-army-executes-precise-tactical-ambush-against-khawaarij-militants-in-hiiraan-region/",
-      "published_date": "2026-04-02T22:06:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "9-year-old boy recounts airstrike in Lebanon that killed whole family",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
-      "published_date": "2026-04-02T21:22:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says army forces are ready to repel US-Israeli attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss",
-      "published_date": "2026-04-02T20:54:30+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss",
+      "published_date": "2026-04-03T15:18:34+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba to pardon more than 2,000 prisoners amid US pressure",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’",
+      "title": "US unemployment rate drops despite economic uncertainty and Iran war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/trump-wants-to-invade-iran-to-seize-oil-calls-us-objectors-stupid?traffic_source=rss",
-      "published_date": "2026-03-30T09:00:44+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/4/3/us-unemployment-rate-drops-despite-economic-uncertainty-and-iran-war?traffic_source=rss",
+      "published_date": "2026-04-03T17:35:23+00:00",
+      "category": "Economy"
     },
     {
       "title": "Rubble, mud and hair: How to rebuild a home in Gaza",
@@ -513,6 +520,41 @@
       "url": "https://sonna.so/en/somalia-unicef-align-development-plans-to-strengthen-response-to-food-and-nutrition-crisis/",
       "published_date": "2026-03-29T15:22:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
+      "published_date": "2026-04-03T19:28:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss",
+      "published_date": "2026-04-03T19:24:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss",
+      "published_date": "2026-04-03T18:32:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hassan Sheikh Visits Baidoa After Leadership Ouster in South West State",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/hassan-sheikh-visits-baidoa-after-leadership-ouster-in-south-west-state/",
+      "published_date": "2026-04-03T18:18:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A High-Level Delegation Led by President Hassan Sheikh Mohamud Arrives in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/a-high-level-delegation-led-by-president-hassan-sheikh-mohamud-arrives-in-baidoa/",
+      "published_date": "2026-04-03T13:27:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia’s Disaster Management Agency Distributes Food Aid to 1,000 Families in Huddur",
@@ -617,41 +659,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/southwest-state-gets-interim-leader-after-baidoa-takeover/",
       "published_date": "2026-04-02T08:35:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Orban constantly vetoes’: Europe braces for Hungary election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/orban-constantly-vetoes-europe-braces-for-hungary-election?traffic_source=rss",
-      "published_date": "2026-04-02T08:17:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guddoomiyeyaashii hore ee gobollada oo la faray in ay degdeg xilka u wareejiyaan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/02/guddoomiyeyaashii-hore-ee-gobollada-oo-la-faray-in-ay-degdeg-xilka-u-wareejiyaan/",
-      "published_date": "2026-04-02T07:36:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prime Minister Appoints Interim Leader for Southwest State to Ensure Stability",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-appoints-interim-leader-for-southwest-state-to-ensure-stability/",
-      "published_date": "2026-04-02T06:49:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia appoints interim Southwest leader after regional president ousted",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-appoints-interim-southwest-leader-after-regional-president-ousted/",
-      "published_date": "2026-04-01T21:08:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters gather to oppose changes to US birthright citizenship law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/protesters-gather-to-oppose-changes-to-us-birthright-citizenship-law?traffic_source=rss",
-      "published_date": "2026-04-01T20:58:16+00:00",
       "category": "Local Events"
     }
   ]
