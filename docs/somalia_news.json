@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-06T00:02:25.365853+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-06T14:32:09.405826+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "The US could still try to play the ethnic card in Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss",
+      "published_date": "2026-04-06T13:01:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shabeelle TV oo Ku Guuleystay Telefiishanka Ugu Wanaagsan 2025 Abaalmarinta EASA",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/shabeelle-tv-oo-ku-guuleystay-telefiishanka-ugu-wanaagsan-2025-abaalmarinta-easa/",
+      "published_date": "2026-04-06T11:03:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shabelle TV Named Best TV Station at 2025 East Africa Somali Awards",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/shabelle-tv-named-best-tv-station-at-2025-east-africa-somali-awards/",
+      "published_date": "2026-04-06T10:34:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministry of Labour Holds Handover Ceremony for New Director General",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ministry-of-labour-holds-handover-ceremony-for-new-director-general/",
+      "published_date": "2026-04-06T09:24:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia launches first offshore oil drilling campaign",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-launches-first-offshore-oil-drilling-campaign/",
+      "published_date": "2026-04-06T08:03:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia’s Ambassador to Sudan Presents Credentials, Reaffirms Strong Bilateral Ties",
       "source": "SONNA",
@@ -109,39 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
+      "title": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss",
-      "published_date": "2026-04-02T11:26:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss",
+      "published_date": "2026-04-06T14:14:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "First troops from UN-backed Gang Suppression Force arrive in Haiti",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti?traffic_source=rss",
-      "published_date": "2026-04-01T23:19:08+00:00",
-      "category": "Diplomacy"
+      "title": "Somali National Army conducts mine clearance operations in the Middle Shabelle region",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-national-army-conducts-mine-clearance-operations-in-the-middle-shabelle-region/",
+      "published_date": "2026-04-06T13:52:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
+      "title": "‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
-      "published_date": "2026-04-01T22:12:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/4/6/smell-of-war-comes-to-st-petersburg-as-ukraine-hammers-russian-refineries?traffic_source=rss",
+      "published_date": "2026-04-06T12:58:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Memorial honours Indonesian UN peacekeeper killed in Lebanon",
+      "title": "How US operation to rescue air officer from Iran unfolded",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/memorial-honours-indonesian-un-peacekeeper-killed-in-lebanon?traffic_source=rss",
-      "published_date": "2026-04-01T18:42:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss",
+      "published_date": "2026-04-06T12:42:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon faces growing displacement crisis",
+      "title": "Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/lebanon-faces-growing-displacement-crisis?traffic_source=rss",
-      "published_date": "2026-04-01T13:00:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/6/pakistan-offers-two-tier-truce-iran-wont-open-hormuz-under-temporary-one?traffic_source=rss",
+      "published_date": "2026-04-06T11:25:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut?traffic_source=rss",
+      "published_date": "2026-04-06T10:45:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Xooga dalka Soomaaliya oo Duqeymo ka Fuliya Gobolka Baay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-xooga-dalka-soomaaliya-oo-duqeymo-ka-fuliya-gobolka-baay/",
+      "published_date": "2026-04-06T10:00:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali National Army Eliminates 12 Al-Shabaab Militants in an Airstrike",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-national-army-eliminates-12-al-shabaab-militants-in-an-airstrike/",
+      "published_date": "2026-04-06T09:53:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Families fleeing Israeli attacks take refuge in Lebanon’s mountains",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/families-fleeing-israeli-attacks-take-refuge-in-lebanon-mountains?traffic_source=rss",
+      "published_date": "2026-04-06T09:21:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s civilians fear fallout after Houthis enter Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/yemens-civilians-fear-fallout-after-houthis-enter-iran-war?traffic_source=rss",
+      "published_date": "2026-04-06T09:10:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/irans-top-university-bombed-as-us-israel-intensify-attacks-34-killed?traffic_source=rss",
+      "published_date": "2026-04-06T08:31:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali defense minister visits army positions outside Baidoa city",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-defense-minister-visits-army-positions-outside-baidoa-city/",
+      "published_date": "2026-04-06T08:08:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 38 of US-Israeli attacks?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
+      "published_date": "2026-04-06T08:01:40+00:00",
+      "category": "Military"
     },
     {
       "title": "UK police arrest seven protesters near RAF base used by US",
@@ -193,95 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
+      "title": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-05T15:21:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade?traffic_source=rss",
+      "published_date": "2026-04-06T11:49:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Somali commandos conduct security operations in Bay region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-commandos-conduct-security-operations-in-bay-region/",
-      "published_date": "2026-04-05T15:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia army chief praises joint operations, promises rewards for troops",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-army-chief-praises-joint-operations-promises-rewards-for-troops/",
-      "published_date": "2026-04-05T13:43:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Danab Commandos Conduct Security Operations in Bay Region",
+      "title": "Minister Dahir Shire: The Çağrı Bey drilling vessel arrives in few days",
       "source": "SONNA",
-      "url": "https://sonna.so/en/danab-commandos-conduct-security-operations-in-bay-region/",
-      "published_date": "2026-04-05T12:31:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
-      "published_date": "2026-04-05T10:04:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defence Minister extends condolences on the passing of General Yacquub Mohamed",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/defence-minister-extends-condolences-on-the-passing-of-general-yacquub-mohamed/",
-      "published_date": "2026-04-05T09:19:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Commander Promotes Troops After Reopening Mogadishu–Baidoa Road",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-army-commander-promotes-troops-after-reopening-mogadishu-baidoa-road/",
-      "published_date": "2026-04-05T09:16:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s attack on UNRWA is central to its genocide of the Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss",
-      "published_date": "2026-04-05T08:40:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/5/thousands-rally-in-iraq-against-us-israeli-regional-aggression?traffic_source=rss",
-      "published_date": "2026-04-05T08:06:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump seeks to end the war without it becoming ‘an abject failure’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-seeks-to-end-the-war-without-it-becoming-an-abject?traffic_source=rss",
-      "published_date": "2026-04-05T07:58:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 37 of US-Israeli attacks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/iran-war-what-is-happening-on-day-37-of-us-israeli-attacks?traffic_source=rss",
-      "published_date": "2026-04-05T07:45:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s Houthis claim cluster missile attack on Israel’s Ben Gurion airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/yemens-houthis-claim-cluster-missile-attack-on-israels-ben-gurion-airport?traffic_source=rss",
-      "published_date": "2026-04-05T07:45:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s unpopular war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-05T05:07:35+00:00",
-      "category": "Military"
+      "url": "https://sonna.so/en/minister-dahir-shire-the-cagri-bey-drilling-vessel-arrives-in-few-days/",
+      "published_date": "2026-04-06T10:57:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Frustration grows as Iran’s wartime internet shutdown breaks grim record",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Russian tanker reaches Cuba amid critical energy shortage",
+      "title": "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/3/31/russian-tanker-reaches-cuba-amid-critical-energy-shortage?traffic_source=rss",
-      "published_date": "2026-03-31T21:25:56+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss",
+      "published_date": "2026-04-06T13:01:02+00:00",
+      "category": "Economy"
     },
     {
-      "title": "‘I need to leave’: Cuba’s tourism workers reel from US oil blockade",
+      "title": "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/i-need-to-leave-cubas-tourism-workers-reel-from-us-oil-blockade?traffic_source=rss",
-      "published_date": "2026-03-31T21:24:49+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/4/6/cocktail-of-hindutva-and-welfarism-how-modis-bjp-is-wooing-assam-voters?traffic_source=rss",
+      "published_date": "2026-04-06T07:57:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia, Saudi Arabia Explore Maritime Cooperation at St. Petersburg Forum",
@@ -501,25 +515,46 @@
       "category": "Economy"
     },
     {
-      "title": "‘I’m always watching’: A mother’s vigil in Mexico’s cancer system",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/3/30/im-always-watching-a-mothers-vigil-in-mexicos-cancer-system?traffic_source=rss",
-      "published_date": "2026-03-30T13:32:58+00:00",
-      "category": "Economy"
+      "title": "South West Interim Leader Meets Electoral Commission Chair to Accelerate Election Preparations",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-interim-leader-meets-electoral-commission-chair-to-accelerate-election-preparations/",
+      "published_date": "2026-04-06T13:04:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sirens heard across Haifa port",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/sirens-heard-across-haifa-port?traffic_source=rss",
-      "published_date": "2026-03-30T11:10:18+00:00",
-      "category": "Economy"
+      "title": "Somali federal ministers in Southwest presidency race told to return to Mogadishu",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-federal-ministers-in-southwest-presidency-race-told-to-return-to-mogadishu/",
+      "published_date": "2026-04-06T11:07:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Syria’s al-Sharaa visits Germany to talk reconstruction, return of refugees",
+      "title": "President Hassan: South West Will Be the First Federal Member State to Implement One-Person, One-Vote Elections",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-south-west-will-be-the-first-federal-member-state-to-implement-one-person-one-vote-elections/",
+      "published_date": "2026-04-06T10:48:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Electoral Commission Chairman Arrives in Baidoa to Oversee Election Preparations",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-electoral-commission-chairman-arrives-in-baidoa-to-oversee-election-preparations/",
+      "published_date": "2026-04-06T09:32:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Advances Peace Education Initiative Under National Reconciliation Framework",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-advances-peace-education-initiative-under-national-reconciliation-framework/",
+      "published_date": "2026-04-06T09:30:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Steph Curry returns from injury with 29 points but Warriors lose to Rockets",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/syrian-president-in-berlin-for-talks-with-germanys-merz?traffic_source=rss",
-      "published_date": "2026-03-30T10:56:47+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/4/6/steph-curry-returns-from-injury-with-29-points-but-warriors-lose-to-rockets?traffic_source=rss",
+      "published_date": "2026-04-06T06:09:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli air strike hits crowd in Gaza City",
@@ -617,48 +652,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-sends-weapons-to-central-region-after-ouster-of-regional-leader/",
       "published_date": "2026-04-05T09:14:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali minister meets women’s groups in Baidoa to discuss rights, challenges",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-minister-meets-womens-groups-in-baidoa-to-discuss-rights-challenges/",
-      "published_date": "2026-04-05T07:56:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DFS: Waxaan diyaar u nahay in aan Puntland ku garab siino dagaalka Daacish",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/05/dfs-waxaan-diyaar-u-nahay-in-aan-puntland-ku-garab-siino-dagaalka-daacish/",
-      "published_date": "2026-04-05T07:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family Minister Meets Women’s Organizations in Baidoa to Address Challenges and Opportunities",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/family-minister-meets-womens-organizations-in-baidoa-to-address-challenges-and-opportunities/",
-      "published_date": "2026-04-05T03:29:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran psychiatric hospital not usable after US-Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/tehran-psychiatric-hospital-not-usable-after-us-israeli-strike?traffic_source=rss",
-      "published_date": "2026-04-04T19:48:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marco Rubio says he has stripped Qassem Soleimani’s niece of US residency",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/4/top-diplomat-marco-rubio-strips-qassem-soleimanis-niece-of-us-residency?traffic_source=rss",
-      "published_date": "2026-04-04T17:27:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vehicles burn in Israel after being hit with Iranian projectile debris",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicles-burn-in-israel-after-being-hit-with-iranian-projectile-debris?traffic_source=rss",
-      "published_date": "2026-04-04T14:40:04+00:00",
       "category": "Local Events"
     }
   ]
