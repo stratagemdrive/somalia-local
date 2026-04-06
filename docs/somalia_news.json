@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-05T11:57:49.287006+00:00",
-  "story_count": 95,
+  "last_updated": "2026-04-06T00:02:25.365853+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Somalia’s Ambassador to Sudan Presents Credentials, Reaffirms Strong Bilateral Ties",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalias-ambassador-to-sudan-presents-credentials-reaffirms-strong-bilateral-ties/",
+      "published_date": "2026-04-05T17:16:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Markabka Qodista Shidaalka ee Turkiga oo Soo Gaari Doona Soomaaliya si uu u Bilaabo Howlgalka Badda",
       "source": "Shabelle Media",
@@ -137,11 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK PM says war on Iran will impact Britain’s future",
+      "title": "UK police arrest seven protesters near RAF base used by US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/uk-pm-says-iran-war-will-impact-britains-future?traffic_source=rss",
-      "published_date": "2026-04-01T11:57:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/5/uk-police-arrest-seven-protesters-near-raf-base-used-by-us?traffic_source=rss",
+      "published_date": "2026-04-05T21:05:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Has the humanitarian crisis in Gaza been ignored?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
+      "published_date": "2026-04-05T20:16:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is war more profitable than peace? David Keen explains",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/5/is-war-more-profitable-than-peace-david-keen-explains?traffic_source=rss",
+      "published_date": "2026-04-05T19:54:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defence Minister visits SNA frontline positions in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/defence-minister-visits-sna-frontline-positions-in-baidoa/",
+      "published_date": "2026-04-05T19:10:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/5/opec-agrees-to-hike-oil-output-warns-of-slow-recovery-after-attacks?traffic_source=rss",
+      "published_date": "2026-04-05T17:33:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 14 people killed in Israeli strikes across Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss",
+      "published_date": "2026-04-05T16:15:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss",
+      "published_date": "2026-04-05T15:32:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-05T15:21:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali commandos conduct security operations in Bay region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-commandos-conduct-security-operations-in-bay-region/",
+      "published_date": "2026-04-05T15:00:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia army chief praises joint operations, promises rewards for troops",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-army-chief-praises-joint-operations-promises-rewards-for-troops/",
+      "published_date": "2026-04-05T13:43:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Danab Commandos Conduct Security Operations in Bay Region",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/danab-commandos-conduct-security-operations-in-bay-region/",
+      "published_date": "2026-04-05T12:31:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "US satellite firm Planet Labs announces blackout on war on Iran images",
+      "title": "Frustration grows as Iran’s wartime internet shutdown breaks grim record",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
-      "published_date": "2026-04-05T01:13:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/5/frustration-grows-as-irans-wartime-internet-shutdown-breaks-grim-record?traffic_source=rss",
+      "published_date": "2026-04-05T18:29:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war live: Iran claims downing of 2 US planes; Hormuz ‘deadline’ looms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
-      "published_date": "2026-04-05T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How will Pakistan deal with the fallout from Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss",
-      "published_date": "2026-04-04T20:42:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli police arrest antiwar protesters in Tel Aviv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss",
-      "published_date": "2026-04-04T20:04:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/4/universities-hit-as-us-israel-ramp-up-attacks-on-irans-infrastructure?traffic_source=rss",
-      "published_date": "2026-04-04T19:17:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicle-engulfed-in-flames-after-israeli-drone-strike-in-central-gaza?traffic_source=rss",
-      "published_date": "2026-04-04T18:43:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hassan Sheikh survives mortar attack at Baidoa Airport.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/hassan-sheikh-survives-mortar-attack-at-baidoa-airport/",
-      "published_date": "2026-04-04T18:22:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What the Iran-Iraq war can tell us about the US-Israeli war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/4/what-the-iran-iraq-war-can-tell-us-about-the-us-israeli-war-on?traffic_source=rss",
-      "published_date": "2026-04-04T16:32:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xubno katirsan Al-Shabaab oo lagu dilay howlgal ka dhacay Shabeellaha Hoose – NISA",
+      "title": "Türkiye gears up to kick off first offshore drilling in Somalia",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xubno-katirsan-al-shabaab-oo-lagu-dilay-howlgal-ka-dhacay-shabeellaha-hoose-nisa/",
-      "published_date": "2026-04-04T15:53:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says US, Israel belong in Stone Age after Tehran university strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iran-says-us-israel-belong-in-stone-age-after-tehran-university-strike?traffic_source=rss",
-      "published_date": "2026-04-04T15:49:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three suspects ordered to stay in UK custody over Jewish charity attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss",
-      "published_date": "2026-04-04T15:19:01+00:00",
-      "category": "Military"
+      "url": "https://shabellemedia.com/turkiye-gears-up-to-kick-off-first-offshore-drilling-in-somalia/",
+      "published_date": "2026-04-05T14:57:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
@@ -410,20 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "What’s behind Donald Trump’s interest in Iran’s Kharg Island?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/3/31/whats-behind-donald-trumps-interest-in-irans-kharg-island?traffic_source=rss",
-      "published_date": "2026-03-31T19:42:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Somalia enters new energy phase as drilling vessel arrives, transparency group urges safeguards",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-enters-new-energy-phase-as-drilling-vessel-arrives-transparency-group-urges-safeguards/",
-      "published_date": "2026-03-31T11:35:56+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Somalia, Saudi Arabia Explore Maritime Cooperation at St. Petersburg Forum",
       "source": "SONNA",
       "url": "https://sonna.so/en/somalia-saudi-arabia-explore-maritime-cooperation-at-st-petersburg-forum/",
@@ -522,11 +522,88 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia, UNICEF Align Development Plans to Strengthen Response to Food and Nutrition Crisis",
+      "title": "Israeli air strike hits crowd in Gaza City",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss",
+      "published_date": "2026-04-05T20:09:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Sheikh Meets South West State Traditional Leadership in Baidoa",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-unicef-align-development-plans-to-strengthen-response-to-food-and-nutrition-crisis/",
-      "published_date": "2026-03-29T15:22:38+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/president-hassan-sheikh-meets-south-west-state-traditional-leadership-in-baidoa/",
+      "published_date": "2026-04-05T17:54:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland President Irro Reshuffles Cabinet in Major Government Overhaul",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-irro-reshuffles-cabinet-in-major-government-overhaul/",
+      "published_date": "2026-04-05T17:33:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Somali Reconciliation Narrative Contested in Dhaxalreeb Interview",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/05/the-somali-reconciliation-narrative-contested-in-dhaxalreeb-interview/",
+      "published_date": "2026-04-05T17:31:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cirro oo isku shaandheyn ku sameeyay golihiisa wasiirada",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/05/cirro-oo-isku-shaandheyn-ku-sameeyay-golihiisa-wasiirada/",
+      "published_date": "2026-04-05T16:52:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Civil Service Commission and Hodan Hospital Sign Key Cooperation Agreement",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-civil-service-commission-and-hodan-hospital-sign-key-cooperation-agreement/",
+      "published_date": "2026-04-05T14:59:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali president meets Southwest elders to discuss peace and governance",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-meets-southwest-elders-to-discuss-peace-and-governance/",
+      "published_date": "2026-04-05T14:44:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Police Commander Holds Security Meeting in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-police-commander-holds-security-meeting-in-baidoa/",
+      "published_date": "2026-04-05T13:05:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Sheikh Meets South West Traditional Elders to Strengthen Peace",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-meets-south-west-traditional-elders-to-strengthen-peace/",
+      "published_date": "2026-04-05T12:41:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministers of Defense and Interior Visit Baidoa to Assess Security and Strengthen Community Ties",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ministers-of-defense-and-interior-visit-baidoa-to-assess-security-and-strengthen-community-ties/",
+      "published_date": "2026-04-05T12:30:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West Interim Leader Meets Disaster Management Chief Over Drought Response",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-interim-leader-meets-disaster-management-chief-over-drought-response/",
+      "published_date": "2026-04-05T12:28:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disaster Management Commissioner and his delegation arrive in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/disaster-management-commissioner-and-his-delegation-arrive-in-baidoa/",
+      "published_date": "2026-04-05T11:35:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New GPE-Funded Schools Handed Over in North East State of Somalia",
@@ -582,90 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicles-burn-in-israel-after-being-hit-with-iranian-projectile-debris?traffic_source=rss",
       "published_date": "2026-04-04T14:40:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interim Southwest Leader Meets Elders to Promote Unity and Peace",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/interim-southwest-leader-meets-elders-to-promote-unity-and-peace/",
-      "published_date": "2026-04-04T11:24:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Says F‑15E Strike Eagle Downed in Southern Iran, One Pilot Missing",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-says-f-15e-strike-eagle-downed-in-southern-iran-one-pilot-missing/",
-      "published_date": "2026-04-04T11:19:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NISA Operation in Lower Shabelle Eliminates Nine Militants, Destroys Explosives Infrastructure",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/nisa-operation-in-lower-shabelle-eliminates-nine-militants-destroys-explosives-infrastructure/",
-      "published_date": "2026-04-04T09:14:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran executes two convicted members of banned opposition group",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
-      "published_date": "2026-04-04T08:22:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss",
-      "published_date": "2026-04-04T03:35:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo tirakoobaysa hantida wasiirada cusub",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/04/puntland-oo-tirakoobaysa-hantida-wasiirada-cusub/",
-      "published_date": "2026-04-04T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atletico Madrid vs Barcelona: La Liga preview – teams, start time, lineups",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/4/atletico-madrid-vs-barcelona-la-liga-preview-teams-start-time-lineups?traffic_source=rss",
-      "published_date": "2026-04-04T00:08:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
-      "published_date": "2026-04-03T19:28:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss",
-      "published_date": "2026-04-03T19:24:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss",
-      "published_date": "2026-04-03T18:32:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hassan Sheikh Visits Baidoa After Leadership Ouster in South West State",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/hassan-sheikh-visits-baidoa-after-leadership-ouster-in-south-west-state/",
-      "published_date": "2026-04-03T18:18:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A High-Level Delegation Led by President Hassan Sheikh Mohamud Arrives in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/a-high-level-delegation-led-by-president-hassan-sheikh-mohamud-arrives-in-baidoa/",
-      "published_date": "2026-04-03T13:27:18+00:00",
       "category": "Local Events"
     }
   ]
