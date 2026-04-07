@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-06T14:32:09.405826+00:00",
+  "last_updated": "2026-04-07T00:06:16.790505+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Protesters swarm US embassy in Tel Aviv, demanding end of wars",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss",
+      "published_date": "2026-04-06T21:05:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Office of the Auditor General Holds Meeting to Streamline Federal Government Contracts and Agreements",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/office-of-the-auditor-general-holds-meeting-to-streamline-federal-government-contracts-and-agreements/",
+      "published_date": "2026-04-06T18:52:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "North Korea keeping Iran at arm’s length, reports Seoul",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul?traffic_source=rss",
+      "published_date": "2026-04-06T18:32:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Somalia–Türkiye partnership stands strong amid the noise",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/why-somalia-turkiye-partnership-stands-strong-amid-the-noise/",
+      "published_date": "2026-04-06T16:51:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MINISTER OF PUBLIC WORKS CHAIRS MONTHLY MEETING FOCUSED ON THE 2026 PERFORMANCE AGENDA",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-public-works-chairs-monthly-meeting-focused-on-the-2026-performance-agenda/",
+      "published_date": "2026-04-06T16:37:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Defence Minister visits AUSSOM Sector 3 Headquarters in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/defence-minister-visits-aussom-sector-3-headquarters-in-baidoa/",
+      "published_date": "2026-04-06T14:51:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The US could still try to play the ethnic card in Iran",
       "source": "Al Jazeera",
@@ -102,46 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mortar shells land near Baidoa airport as Somali president arrives",
+      "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss",
+      "published_date": "2026-04-06T21:26:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/israeli-soldiers-fire-tear-gas-at-palestinian-youth-during-raid-in-hebron?traffic_source=rss",
+      "published_date": "2026-04-06T21:02:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss",
+      "published_date": "2026-04-06T20:22:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali forces kill 12 Al-Shabaab militants in airstrikes near Baidoa",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mortar-shells-land-near-baidoa-airport-as-somali-president-arrives/",
-      "published_date": "2026-04-03T18:51:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-forces-kill-12-al-shabaab-militants-in-airstrikes-near-baidoa/",
+      "published_date": "2026-04-06T19:44:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "U.S. Revokes Visas of Somali Officials Amid Political Uncertainty",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/u-s-revokes-visas-of-somali-officials-amid-political-uncertainty/",
-      "published_date": "2026-04-03T17:55:01+00:00",
-      "category": "Diplomacy"
+      "title": "Somali defence minister visits UK-backed military training facility in Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-defence-minister-visits-uk-backed-military-training-facility-in-baidoa/",
+      "published_date": "2026-04-06T19:41:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "NISA Director General Executes High-Level Security Consultations with CIA and FBI Leadership in Washington",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/nisa-director-general-executes-high-level-security-consultations-with-cia-and-fbi-leadership-in-washington/",
-      "published_date": "2026-04-03T10:56:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "As war drags on, US reiterates Trump open to diplomacy with Iran",
+      "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss",
-      "published_date": "2026-04-02T20:24:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss",
+      "published_date": "2026-04-06T19:40:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
+      "title": "Child rescued from rubble after Russia ramps up strikes on Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/gcc-chief-urges-un-to-halt-iranian-attacks-protect-gulf-waterways?traffic_source=rss",
-      "published_date": "2026-04-02T18:40:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss",
+      "published_date": "2026-04-06T19:34:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN experts urge investigation into Israel’s killing of Lebanese journalists",
+      "title": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/un-experts-urge-investigation-into-israels-killing-of-lebanese-journalists?traffic_source=rss",
-      "published_date": "2026-04-02T17:47:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/hegseth-says-strikes-on-iran-increasing-as-hormuz-deadline-looms?traffic_source=rss",
+      "published_date": "2026-04-06T18:18:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive?traffic_source=rss",
+      "published_date": "2026-04-06T17:51:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump warns Hormuz deadline ‘final’ as Iran pushes proposal to end war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/trump-warns-deadline-final-as-iran-pushes-proposal-to-end-war?traffic_source=rss",
+      "published_date": "2026-04-06T17:38:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army fire on WHO vehicle in southern Gaza kills one, medics report",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics?traffic_source=rss",
+      "published_date": "2026-04-06T15:58:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
@@ -207,81 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Yemen’s civilians fear fallout after Houthis enter Iran war",
+      "title": "Why is Iran’s Bushehr nuclear power plant being attacked?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/yemens-civilians-fear-fallout-after-houthis-enter-iran-war?traffic_source=rss",
-      "published_date": "2026-04-06T09:10:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss",
+      "published_date": "2026-04-06T21:10:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
+      "title": "How Asia became ground zero for the oil crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/irans-top-university-bombed-as-us-israel-intensify-attacks-34-killed?traffic_source=rss",
-      "published_date": "2026-04-06T08:31:35+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/6/aje-onl-tt_irn_energyrevisited_av_v2-060426?traffic_source=rss",
+      "published_date": "2026-04-06T17:47:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Somali defense minister visits army positions outside Baidoa city",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-defense-minister-visits-army-positions-outside-baidoa-city/",
-      "published_date": "2026-04-06T08:08:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 38 of US-Israeli attacks?",
+      "title": "Cairo faces darker nights as global energy prices continue to soar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
-      "published_date": "2026-04-06T08:01:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/cairo-faces-darker-nights-as-global-energy-prices-continue-to-soar?traffic_source=rss",
+      "published_date": "2026-04-06T17:46:59+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK police arrest seven protesters near RAF base used by US",
+      "title": "Libya’s oil disputes mirror Hormuz crisis, fuel European energy fears",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/uk-police-arrest-seven-protesters-near-raf-base-used-by-us?traffic_source=rss",
-      "published_date": "2026-04-05T21:05:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has the humanitarian crisis in Gaza been ignored?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
-      "published_date": "2026-04-05T20:16:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is war more profitable than peace? David Keen explains",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/5/is-war-more-profitable-than-peace-david-keen-explains?traffic_source=rss",
-      "published_date": "2026-04-05T19:54:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defence Minister visits SNA frontline positions in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/defence-minister-visits-sna-frontline-positions-in-baidoa/",
-      "published_date": "2026-04-05T19:10:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/opec-agrees-to-hike-oil-output-warns-of-slow-recovery-after-attacks?traffic_source=rss",
-      "published_date": "2026-04-05T17:33:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 14 people killed in Israeli strikes across Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss",
-      "published_date": "2026-04-05T16:15:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss",
-      "published_date": "2026-04-05T15:32:02+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/6/libyas-oil-disputes-mirror-hormuz-crisis-fuel-european-energy-fears?traffic_source=rss",
+      "published_date": "2026-04-06T16:50:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
@@ -396,34 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "French President Macron visits Japan to discuss the energy crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/french-president-macron-visits-japan-to-discuss-the-energy-crisis?traffic_source=rss",
-      "published_date": "2026-04-01T13:36:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Transparency Organization warns about the dangers surrounding Somalia’s oil resources",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/transparency-organization-warns-about-the-dangers-surrounding-somalias-oil-resources/",
-      "published_date": "2026-04-01T03:40:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US exempts Gulf of Mexico oil drillers from endangered species protections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/us-exempts-gulf-of-mexico-oil-drillers-from-endangered-species-protections?traffic_source=rss",
-      "published_date": "2026-03-31T23:02:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "EU warns oil and gas prices won’t quickly return to normal after Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/eu-warns-oil-and-gas-prices-wont-quickly-return-to-normal-after-iran-war?traffic_source=rss",
-      "published_date": "2026-03-31T22:56:54+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss",
@@ -515,6 +515,76 @@
       "category": "Economy"
     },
     {
+      "title": "Israeli air strike kills at least 10 Palestinians near Gaza school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school?traffic_source=rss",
+      "published_date": "2026-04-06T20:34:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Sheikh Chairs South West State Security Meeting",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-chairs-south-west-state-security-meeting/",
+      "published_date": "2026-04-06T20:31:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court clears path for Steve Bannon criminal case dismissal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss",
+      "published_date": "2026-04-06T20:22:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia president attends rally backing one-person-one-vote elections in Southwest",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-president-attends-rally-backing-one-person-one-vote-elections-in-southwest/",
+      "published_date": "2026-04-06T19:40:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Iran’s top university hit in US-Israeli strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss",
+      "published_date": "2026-04-06T18:17:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Daud Congratulates Artist Abdinasir on Winning EAC Best Artist Award",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-daud-congratulates-artist-abdinasir-on-winning-eac-best-artist-award/",
+      "published_date": "2026-04-06T17:51:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal, South West leaders meet over luncheon to discuss security and cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/federal-south-west-leaders-meet-over-luncheon-to-discuss-security-and-cooperation/",
+      "published_date": "2026-04-06T16:47:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banadir region’s Emergency Response Department conducts fire safety training for national presidency staff",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/banadir-regions-emergency-response-department-conducts-fire-safety-training-for-national-presidency-staff/",
+      "published_date": "2026-04-06T16:41:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza camp offers children a sense of safety",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss",
+      "published_date": "2026-04-06T16:06:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia: Two civilians killed, burned in parliament speaker’s home after Baidoa takeover",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-two-civilians-killed-burned-in-parliament-speakers-home-after-baidoa-takeover/",
+      "published_date": "2026-04-06T14:51:26+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "South West Interim Leader Meets Electoral Commission Chair to Accelerate Election Preparations",
       "source": "SONNA",
       "url": "https://sonna.so/en/south-west-interim-leader-meets-electoral-commission-chair-to-accelerate-election-preparations/",
@@ -582,76 +652,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/05/the-somali-reconciliation-narrative-contested-in-dhaxalreeb-interview/",
       "published_date": "2026-04-05T17:31:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cirro oo isku shaandheyn ku sameeyay golihiisa wasiirada",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/05/cirro-oo-isku-shaandheyn-ku-sameeyay-golihiisa-wasiirada/",
-      "published_date": "2026-04-05T16:52:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Civil Service Commission and Hodan Hospital Sign Key Cooperation Agreement",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-civil-service-commission-and-hodan-hospital-sign-key-cooperation-agreement/",
-      "published_date": "2026-04-05T14:59:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali president meets Southwest elders to discuss peace and governance",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-meets-southwest-elders-to-discuss-peace-and-governance/",
-      "published_date": "2026-04-05T14:44:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Police Commander Holds Security Meeting in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-police-commander-holds-security-meeting-in-baidoa/",
-      "published_date": "2026-04-05T13:05:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Meets South West Traditional Elders to Strengthen Peace",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-meets-south-west-traditional-elders-to-strengthen-peace/",
-      "published_date": "2026-04-05T12:41:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministers of Defense and Interior Visit Baidoa to Assess Security and Strengthen Community Ties",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/ministers-of-defense-and-interior-visit-baidoa-to-assess-security-and-strengthen-community-ties/",
-      "published_date": "2026-04-05T12:30:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West Interim Leader Meets Disaster Management Chief Over Drought Response",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-interim-leader-meets-disaster-management-chief-over-drought-response/",
-      "published_date": "2026-04-05T12:28:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disaster Management Commissioner and his delegation arrive in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/disaster-management-commissioner-and-his-delegation-arrive-in-baidoa/",
-      "published_date": "2026-04-05T11:35:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New GPE-Funded Schools Handed Over in North East State of Somalia",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/05/new-gpe-funded-schools-handed-over-in-north-east-state-of-somalia/",
-      "published_date": "2026-04-05T11:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia sends weapons to central region after ouster of regional leader",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-sends-weapons-to-central-region-after-ouster-of-regional-leader/",
-      "published_date": "2026-04-05T09:14:12+00:00",
       "category": "Local Events"
     }
   ]
