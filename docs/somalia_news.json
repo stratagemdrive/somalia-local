@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-07T14:59:22.322971+00:00",
-  "story_count": 95,
+  "last_updated": "2026-04-08T05:31:19.857486+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss",
+      "published_date": "2026-04-08T03:17:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-08T01:00:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What we know about Pakistan’s proposed Iran war pause",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-pakistans-proposed-iran-war-pause?traffic_source=rss",
+      "published_date": "2026-04-07T22:24:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/7/pakistan-appeals-to-trump-to-extend-deadline-iran-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-04-07T21:35:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia Assumes Seat on African Union Peace and Security Council for the First Time",
       "source": "SONNA",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia, Sudan sign diplomatic passport visa waiver deal",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-sudan-sign-diplomatic-passport-visa-waiver-deal/",
-      "published_date": "2026-04-05T08:19:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Hosts the Second Session of the Somalia-Sudan Political Consultation Committee",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-hosts-the-second-session-of-the-somalia-sudan-political-consultation-committee/",
-      "published_date": "2026-04-05T03:24:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Red Sea Rivalry Deepens as Somaliland Emerges at Center of Geopolitical Contest",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/red-sea-rivalry-deepens-as-somaliland-emerges-at-center-of-geopolitical-contest/",
-      "published_date": "2026-04-04T22:36:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Indonesia receives bodies of peacekeepers killed in southern Lebanon",
+      "title": "Iranians commemorate victims of Minab school strike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/4/indonesia-receives-bodies-of-peacekeepers-killed-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-04-04T20:21:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss",
+      "published_date": "2026-04-08T04:29:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU Naval Forces Retake Hijacked Iranian Vessel off Somali Coast",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/eu-naval-forces-retake-hijacked-iranian-vessel-off-somali-coast/",
+      "published_date": "2026-04-08T01:59:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss",
+      "published_date": "2026-04-08T01:55:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Climate activist Greta Thunberg slams Trump’s threats against Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/8/climate-activist-greta-thunberg-slams-trumps-threats-against-iran?traffic_source=rss",
+      "published_date": "2026-04-08T01:53:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "White House confirms two-week suspension of strikes on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss",
+      "published_date": "2026-04-08T00:06:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss",
+      "published_date": "2026-04-07T23:25:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss",
+      "published_date": "2026-04-07T22:48:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Djibouti and the Horn of Africa: new front in the war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/2026/4/7/djibouti-and-the-horn-of-africa-new-front-in-the-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-07T21:57:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns region and beyond as tension builds ahead of US ultimatum",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/7/iran-warns-region-and-beyond-as-tension-builds-ahead-of-us-ultimatum?traffic_source=rss",
+      "published_date": "2026-04-07T21:48:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/protesters-in-iraq-swarm-kuwaiti-consulate-after-deadly-rocket-attack?traffic_source=rss",
+      "published_date": "2026-04-07T21:12:04+00:00",
+      "category": "Military"
     },
     {
       "title": "US-Israeli attacks on Iran are ‘clear and obvious war crimes’",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron",
+      "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/israeli-soldiers-fire-tear-gas-at-palestinian-youth-during-raid-in-hebron?traffic_source=rss",
-      "published_date": "2026-04-06T21:02:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss",
-      "published_date": "2026-04-06T20:22:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali forces kill 12 Al-Shabaab militants in airstrikes near Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-forces-kill-12-al-shabaab-militants-in-airstrikes-near-baidoa/",
-      "published_date": "2026-04-06T19:44:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali defence minister visits UK-backed military training facility in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-defence-minister-visits-uk-backed-military-training-facility-in-baidoa/",
-      "published_date": "2026-04-06T19:41:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss",
-      "published_date": "2026-04-06T19:40:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Child rescued from rubble after Russia ramps up strikes on Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss",
-      "published_date": "2026-04-06T19:34:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/hegseth-says-strikes-on-iran-increasing-as-hormuz-deadline-looms?traffic_source=rss",
-      "published_date": "2026-04-06T18:18:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive?traffic_source=rss",
-      "published_date": "2026-04-06T17:51:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump warns Hormuz deadline ‘final’ as Iran pushes proposal to end war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/trump-warns-deadline-final-as-iran-pushes-proposal-to-end-war?traffic_source=rss",
-      "published_date": "2026-04-06T17:38:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army fire on WHO vehicle in southern Gaza kills one, medics report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics?traffic_source=rss",
-      "published_date": "2026-04-06T15:58:34+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-08T01:29:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can Africa tackle the oil shock from the Iran war?",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Can Starmer’s 40-nation coalition open the Strait of Hormuz?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/can-starmers-40-nation-coalition-open-the-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-04-02T14:26:23+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "How Israel’s invasion of southern Lebanon created a humanitarian crisis",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/7/how-israels-invasion-of-southern-lebanon-created-a-humanitarian-crisis?traffic_source=rss",
@@ -522,11 +522,53 @@
       "category": "Economy"
     },
     {
-      "title": "After Strait of Hormuz opens, turmoil would still last months, analysts say",
+      "title": "Puntland President Criticizes Federal Government for Undermining Federal Regions’ Unity",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-president-criticizes-federal-government-for-undermining-federal-regions-unity/",
+      "published_date": "2026-04-08T02:54:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mortar Attack Targets Baidoa Airport as Intelligence Chief Arrives",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/mortar-attack-targets-baidoa-airport-as-intelligence-chief-arrives/",
+      "published_date": "2026-04-08T02:16:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo heegan gelisay ciidamadeeda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/08/puntland-oo-heegan-gelisay-ciidamadeeda/",
+      "published_date": "2026-04-08T01:07:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian musician stages protest at power station over Trump threats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say?traffic_source=rss",
-      "published_date": "2026-03-31T23:03:49+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss",
+      "published_date": "2026-04-07T22:13:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Sheikh Chairs Joint Security and Development Meeting in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-chairs-joint-security-and-development-meeting-in-baidoa/",
+      "published_date": "2026-04-07T21:23:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Abdulqadir Mohamed Nur Jama Wins HOP#204 Seat in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-abdulqadir-mohamed-nur-jama-wins-hop204-seat-in-baidoa/",
+      "published_date": "2026-04-07T21:18:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SouthWest leader urges boost to Baidoa administration, services",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/southwest-leader-urges-boost-to-baidoa-administration-services/",
+      "published_date": "2026-04-07T17:45:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Madaxweyne Deni oo kulan la qaatay saraakiisha ciidanka Puntland",
@@ -617,55 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss",
       "published_date": "2026-04-06T18:17:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Daud Congratulates Artist Abdinasir on Winning EAC Best Artist Award",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-daud-congratulates-artist-abdinasir-on-winning-eac-best-artist-award/",
-      "published_date": "2026-04-06T17:51:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal, South West leaders meet over luncheon to discuss security and cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/federal-south-west-leaders-meet-over-luncheon-to-discuss-security-and-cooperation/",
-      "published_date": "2026-04-06T16:47:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banadir region’s Emergency Response Department conducts fire safety training for national presidency staff",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/banadir-regions-emergency-response-department-conducts-fire-safety-training-for-national-presidency-staff/",
-      "published_date": "2026-04-06T16:41:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza camp offers children a sense of safety",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss",
-      "published_date": "2026-04-06T16:06:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Two civilians killed, burned in parliament speaker’s home after Baidoa takeover",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-two-civilians-killed-burned-in-parliament-speakers-home-after-baidoa-takeover/",
-      "published_date": "2026-04-06T14:51:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West Interim Leader Meets Electoral Commission Chair to Accelerate Election Preparations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-interim-leader-meets-electoral-commission-chair-to-accelerate-election-preparations/",
-      "published_date": "2026-04-06T13:04:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali federal ministers in Southwest presidency race told to return to Mogadishu",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-federal-ministers-in-southwest-presidency-race-told-to-return-to-mogadishu/",
-      "published_date": "2026-04-06T11:07:36+00:00",
       "category": "Local Events"
     }
   ]
