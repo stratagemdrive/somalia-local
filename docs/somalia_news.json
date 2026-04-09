@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-09T00:03:38.408793+00:00",
-  "story_count": 91,
+  "last_updated": "2026-04-09T16:10:58.307113+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "What Happens Inside Israel’s Detention System",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/birds-eye-view/2026/4/9/what-happens-inside-israels-detention-system?traffic_source=rss",
+      "published_date": "2026-04-09T16:04:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "National Human Rights Commission Outlines Institutional Vision in Strategic Dialogue with Swiss Ambassador",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-human-rights-commission-outlines-institutional-vision-in-strategic-dialogue-with-swiss-ambassador/",
+      "published_date": "2026-04-09T15:39:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Ambassador to Nigeria Formally Presents Credentials to Accelerate Bilateral Integration",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-ambassador-to-nigeria-formally-presents-credentials-to-accelerate-bilateral-integration/",
+      "published_date": "2026-04-09T13:56:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Djibouti elections: Who’s running against Guelleh and what’s at stake?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/djibouti-elections-whos-running-against-guelleh-and-whats-at-stake?traffic_source=rss",
+      "published_date": "2026-04-09T09:57:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali National University Secures Strategic Academic and Technological Alliances in China",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-national-university-secures-strategic-academic-and-technological-alliances-in-china/",
+      "published_date": "2026-04-09T05:56:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire",
       "source": "Al Jazeera",
@@ -109,39 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What we know about Pakistan’s proposed Iran war pause",
+      "title": "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-pakistans-proposed-iran-war-pause?traffic_source=rss",
-      "published_date": "2026-04-07T22:24:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/9/israel-bombed-gaza-on-36-of-the-past-40-days-while-the-war-raged-in-iran?traffic_source=rss",
+      "published_date": "2026-04-09T15:53:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait",
+      "title": "Al Jazeera’s Mohammed Wishah, killed by Israeli strike, laid to rest",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/pakistan-appeals-to-trump-to-extend-deadline-iran-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-04-07T21:35:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/al-jazeeras-mohammed-wishah-killed-by-israeli-strike-laid-to-rest?traffic_source=rss",
+      "published_date": "2026-04-09T15:41:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Assumes Seat on African Union Peace and Security Council for the First Time",
+      "title": "Can global supply chains recover from the Iran war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/9/can-global-supply-chains-recover-from-the-iran-war?traffic_source=rss",
+      "published_date": "2026-04-09T15:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on Lebanon aimed to undermine ceasefire, critics say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/israeli-attacks-on-lebanon-aimed-to-undermine-ceasefire-critics-say?traffic_source=rss",
+      "published_date": "2026-04-09T14:52:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "SNAF and International Partners Neutralize 70 Al-Shabaab Militants in Major Airstrike in Mudug",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-assumes-seat-on-african-union-peace-and-security-council-for-the-first-time/",
-      "published_date": "2026-04-07T14:25:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/snaf-and-international-partners-neutralize-70-al-shabaab-militants-in-major-airstrike-in-mudug/",
+      "published_date": "2026-04-09T13:33:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Taiwanese opposition leader to meet China’s Xi in a test of diplomatic skill",
+      "title": "The economic cost of US-Israel war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/taiwanese-opposition-leader-to-meet-chinas-xi-in-a-test-of-diplomatic-skill?traffic_source=rss",
-      "published_date": "2026-04-07T12:06:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/money-works/2026/4/9/the-economic-cost-of-us-israel-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-09T13:23:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "President Hassan Sheikh Receives Baidoa Mayor, Calls for Accelerated Development and Stronger Coordination",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-receives-baidoa-mayor-calls-for-accelerated-development-and-stronger-coordination/",
-      "published_date": "2026-04-07T11:47:47+00:00",
-      "category": "Diplomacy"
+      "title": "Somali Forces Kill Scores of Al-Shabaab Fighters in Airstrikes in Mudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-forces-kill-scores-of-al-shabaab-fighters-in-airstrikes-in-mudug/",
+      "published_date": "2026-04-09T13:00:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Wasaaradda difaaca oo sheegtay in 70 katirsan Al-Shabaab lagu dilay gobolka Mudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasaaradda-difaaca-oo-sheegtay-in-70-katirsan-al-shabaab-lagu-dilay-gobolka-mudug/",
+      "published_date": "2026-04-09T12:56:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon Latest: Israel kills hundreds in one day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/aje-onl-aje_onl_lebanon_wrap-090426?traffic_source=rss",
+      "published_date": "2026-04-09T12:54:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza?traffic_source=rss",
+      "published_date": "2026-04-09T11:54:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-09T10:57:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump’s administration trying to sell war ‘wins’ to a sceptical US public",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/trumps-administration-trying-to-sell-war-wins-to-a-sceptical-us-public?traffic_source=rss",
+      "published_date": "2026-04-09T10:13:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Several people reported killed in fresh Israeli attacks on Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-09T09:29:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nin British ah oo lagu eedeeyay inuu hoggaamiyay weeraro Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nin-british-ah-oo-lagu-eedeeyay-inuu-hoggaamiyay-weeraro-al-shabaab/",
+      "published_date": "2026-04-09T08:41:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British man charged with directing activities of Somalia-based Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/british-man-charged-with-directing-activities-of-somalia-based-al-shabaab/",
+      "published_date": "2026-04-09T08:37:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Americans question Trump’s instinct on Iran war",
@@ -179,109 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "‘Heinous crime’: Al Jazeera condemns Israeli killing of journalist",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/heinous-crime-al-jazeera-condemns-israeli-killing-of-journalist?traffic_source=rss",
-      "published_date": "2026-04-08T20:53:32+00:00",
-      "category": "Military"
+      "title": "Turkish drillship docks in Mogadishu for Somalia’s first offshore oil well",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkish-drillship-docks-in-mogadishu-for-somalias-first-offshore-oil-well/",
+      "published_date": "2026-04-09T14:47:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "World reacts to ‘brutal’ Israeli attacks on Lebanon after US-Iran truce",
+      "title": "Global energy crisis is ‘the mother of all crises’: Turkish energy minister",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-08T19:47:57+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/9/energy-crisis-is-the-mother-of-all-crises-turkish-energy-minister?traffic_source=rss",
+      "published_date": "2026-04-09T12:18:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Hegseth: Iran ‘begged’ for ceasefire, claims ‘historic victory’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/hegseth-iran-begged-for-ceasefire-claims-historic?traffic_source=rss",
-      "published_date": "2026-04-08T15:47:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Lebanon not included in US-Iran ceasefire amid Israeli assault",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/trump-says-lebanon-not-included-in-us-iran-ceasefire-amid-israeli-assault?traffic_source=rss",
-      "published_date": "2026-04-08T15:40:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth touts US ‘victory’ over Iran as Tehran hails its own ‘historic’ win",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/hegseth-touts-us-victory-over-iran-as-tehran-hails-its-own-historic-win?traffic_source=rss",
-      "published_date": "2026-04-08T15:05:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Did America lose yet another war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/8/did-america-lose-yet-another-war?traffic_source=rss",
-      "published_date": "2026-04-08T14:57:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks across Lebanon kill dozens hours after Iran-US ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/hundreds-of-casualties-across-lebanon-after-israel-says-it-hit-100-sites?traffic_source=rss",
-      "published_date": "2026-04-08T14:39:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Empty ships and shut wells: Why the Iran war oil crisis is not over yet",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/empty-ships-and-shut-wells-why-the-iran-war-oil-crisis-is-not-over-yet?traffic_source=rss",
-      "published_date": "2026-04-08T14:38:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Scenes of chaos, destruction as Israel bombards Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/scenes-of-chaos-destruction-as-israel-bombards-lebanon?traffic_source=rss",
-      "published_date": "2026-04-08T13:39:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jubaland forces seize military uniforms smuggled across border",
+      "title": "Somalia receives Turkish drilling vessel as offshore oil plans advance",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jubaland-forces-seize-military-uniforms-smuggled-across-border/",
-      "published_date": "2026-04-08T12:53:41+00:00",
-      "category": "Military"
+      "url": "https://shabellemedia.com/somalia-receives-turkish-drilling-vessel-as-offshore-oil-plans-advance/",
+      "published_date": "2026-04-09T08:49:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "World Athletics postpones Doha Diamond League amid US-Israel war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/8/world-athletics-postpones-doha-diamond-league-amid-us-israel-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-08T12:46:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Jubaland oo Qabtay Shixnad Ciidan ah oo Si Qarsoodi ah Lagu Soo Gelinayay Dalka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-jubaland-oo-qabtay-shixnad-ciidan-ah-oo-si-qarsoodi-ah-lagu-soo-gelinayay-dalka/",
-      "published_date": "2026-04-08T11:06:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European Union Training Mission Marks 16 Years of Strategic Partnership and Security Advancements in Somalia",
+      "title": "Turkish Deep-Sea Drilling Vessel Çağrı Bey Arrives in Mogadishu, Launching Somalia’s Energy Exploration Era",
       "source": "SONNA",
-      "url": "https://sonna.so/en/european-union-training-mission-marks-16-years-of-strategic-partnership-and-security-advancements-in-somalia/",
-      "published_date": "2026-04-08T06:49:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranians commemorate victims of Minab school strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss",
-      "published_date": "2026-04-08T04:29:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU Naval Forces Retake Hijacked Iranian Vessel off Somali Coast",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/eu-naval-forces-retake-hijacked-iranian-vessel-off-somali-coast/",
-      "published_date": "2026-04-08T01:59:56+00:00",
-      "category": "Military"
+      "url": "https://sonna.so/en/turkish-deep-sea-drilling-vessel-cagri-bey-arrives-in-mogadishu-launching-somalias-energy-exploration-era/",
+      "published_date": "2026-04-09T07:00:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "Somalia Announces Arrival of “Çağrı Bey” Oil Drilling Vessel to Boost Offshore Exploration",
@@ -396,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Trump says with more time, US can ‘take the oil’ in Iran",
+      "title": "Is the world economy heading towards stagflation?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss",
-      "published_date": "2026-04-03T15:18:34+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/money-works/2026/4/9/is-the-world-economy-heading-towards-stagflation?traffic_source=rss",
+      "published_date": "2026-04-09T13:38:18+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Cuba to pardon more than 2,000 prisoners amid US pressure",
+      "title": "What is Iran’s Strait of Hormuz protocol and will other nations accept it?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure?traffic_source=rss",
-      "published_date": "2026-04-03T09:06:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss",
-      "published_date": "2026-04-03T08:59:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil shock triggers global price spikes as Iran war drags on",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
-      "published_date": "2026-04-02T21:04:35+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/4/9/what-is-irans-strait-of-hormuz-protocol-and-will-other-nations-accept-it?traffic_source=rss",
+      "published_date": "2026-04-09T13:23:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Mumbai’s historic dock quietens as fuel crisis chokes fishing trade",
@@ -480,25 +494,32 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan-bound ships pass through Strait of Hormuz",
+      "title": "A record-breaking field: What to expect from Peru’s presidential election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pakistan-bound-ships-pass-through-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-04-02T11:57:37+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/4/9/a-record-breaking-field-what-to-expect-from-perus-presidential-election?traffic_source=rss",
+      "published_date": "2026-04-09T15:52:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How Israel’s record budget will finance expanding illegal settlements",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss",
-      "published_date": "2026-04-02T11:09:02+00:00",
-      "category": "Economy"
+      "title": "The Architecture of Change: How President Hassan Sheikh Mohamud is Rewiring Somalia’s Future",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/the-architecture-of-change-how-president-hassan-sheikh-mohamud-is-rewiring-somalias-future/",
+      "published_date": "2026-04-09T10:48:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US-Israeli attacks and its impact on Iran’s economy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/us-israeli-attacks-and-its-impact-on-irans-economy?traffic_source=rss",
-      "published_date": "2026-04-02T10:31:15+00:00",
-      "category": "Economy"
+      "title": "South West State Interim Leader Inaugurates New Minister of Internal Security",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-state-interim-leader-inaugurates-new-minister-of-internal-security/",
+      "published_date": "2026-04-09T10:16:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Southwest State swears in new interior security minister",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/southwest-state-swears-in-new-interior-security-minister/",
+      "published_date": "2026-04-09T09:47:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal",
@@ -610,34 +631,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/president-hassan-sheikh-chairs-joint-security-and-development-meeting-in-baidoa/",
       "published_date": "2026-04-07T21:23:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Abdulqadir Mohamed Nur Jama Wins HOP#204 Seat in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-abdulqadir-mohamed-nur-jama-wins-hop204-seat-in-baidoa/",
-      "published_date": "2026-04-07T21:18:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SouthWest leader urges boost to Baidoa administration, services",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/southwest-leader-urges-boost-to-baidoa-administration-services/",
-      "published_date": "2026-04-07T17:45:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo kulan la qaatay saraakiisha ciidanka Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/07/madaxweyne-deni-oo-kulan-la-qaatay-saraakiisha-ciidanka-puntland/",
-      "published_date": "2026-04-07T13:26:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barcelona vs Atletico Madrid: Champions League – team news, start, lineups",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss",
-      "published_date": "2026-04-07T12:01:33+00:00",
       "category": "Local Events"
     }
   ]
