@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-08T16:02:50.269799+00:00",
+  "last_updated": "2026-04-09T00:03:38.408793+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/starmer-a-lot-of-work-to-do-to-reopen-strait-of-hormuz-after-us-iran-cea?traffic_source=rss",
+      "published_date": "2026-04-08T18:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Switzerland Discuss Boosting Security Cooperation and Counterterrorism",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-switzerland-discuss-boosting-security-cooperation-and-counterterrorism/",
+      "published_date": "2026-04-08T18:03:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Welcomes the United States-Iran Ceasefire Agreement",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-welcomes-the-united-states-iran-ceasefire-agreement/",
+      "published_date": "2026-04-08T17:59:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ecuador recalls its ambassador from Colombia over Jorge Glas comments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/8/ecuador-recalls-its-ambassador-from-colombia-over-jorge-glas-comments?traffic_source=rss",
+      "published_date": "2026-04-08T17:50:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Reaffirms Commitment to Peace, Diplomacy, and Maritime Security in Line with United Nations Principles",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-reaffirms-commitment-to-peace-diplomacy-and-maritime-security-in-line-with-united-nations-principles/",
+      "published_date": "2026-04-08T17:46:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Ambassador to Russia Presents Credentials to Belarus",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-ambassador-to-russia-presents-credentials-to-belarus/",
+      "published_date": "2026-04-08T16:31:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Stone Age’ to ‘Golden Age’: How the final hours before the truce unfolded",
       "source": "Al Jazeera",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Protesters swarm US embassy in Tel Aviv, demanding end of wars",
+      "title": "Americans question Trump’s instinct on Iran war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss",
-      "published_date": "2026-04-06T21:05:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss",
+      "published_date": "2026-04-08T21:59:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Office of the Auditor General Holds Meeting to Streamline Federal Government Contracts and Agreements",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/office-of-the-auditor-general-holds-meeting-to-streamline-federal-government-contracts-and-agreements/",
-      "published_date": "2026-04-06T18:52:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "North Korea keeping Iran at arm’s length, reports Seoul",
+      "title": "Trump administration signals it is mulling NATO withdrawal after Iran war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul?traffic_source=rss",
-      "published_date": "2026-04-06T18:32:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss",
+      "published_date": "2026-04-08T21:47:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why Somalia–Türkiye partnership stands strong amid the noise",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/why-somalia-turkiye-partnership-stands-strong-amid-the-noise/",
-      "published_date": "2026-04-06T16:51:14+00:00",
-      "category": "Diplomacy"
+      "title": "Trump threatens 50% tariffs on countries that supply Iran with weapons",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss",
+      "published_date": "2026-04-08T21:28:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "MINISTER OF PUBLIC WORKS CHAIRS MONTHLY MEETING FOCUSED ON THE 2026 PERFORMANCE AGENDA",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-public-works-chairs-monthly-meeting-focused-on-the-2026-performance-agenda/",
-      "published_date": "2026-04-06T16:37:54+00:00",
-      "category": "Diplomacy"
+      "title": "Trump has found his Iran off-ramp – but at what cost?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/8/trump-has-found-his-iran-off-ramp-but-at-what-cost?traffic_source=rss",
+      "published_date": "2026-04-08T21:01:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Defence Minister visits AUSSOM Sector 3 Headquarters in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/defence-minister-visits-aussom-sector-3-headquarters-in-baidoa/",
-      "published_date": "2026-04-06T14:51:28+00:00",
-      "category": "Diplomacy"
+      "title": "PSG beat Liverpool as Champions League defence maintains pace",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/8/psg-beat-liverpool-as-champions-league-defence-maintains-pace?traffic_source=rss",
+      "published_date": "2026-04-08T20:58:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Heinous crime’: Al Jazeera condemns Israeli killing of journalist",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/heinous-crime-al-jazeera-condemns-israeli-killing-of-journalist?traffic_source=rss",
+      "published_date": "2026-04-08T20:53:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World reacts to ‘brutal’ Israeli attacks on Lebanon after US-Iran truce",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-08T19:47:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Hegseth: Iran ‘begged’ for ceasefire, claims ‘historic victory’",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss",
-      "published_date": "2026-04-08T01:55:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Climate activist Greta Thunberg slams Trump’s threats against Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/climate-activist-greta-thunberg-slams-trumps-threats-against-iran?traffic_source=rss",
-      "published_date": "2026-04-08T01:53:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "White House confirms two-week suspension of strikes on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss",
-      "published_date": "2026-04-08T00:06:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss",
-      "published_date": "2026-04-07T23:25:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss",
-      "published_date": "2026-04-07T22:48:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Djibouti and the Horn of Africa: new front in the war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/4/7/djibouti-and-the-horn-of-africa-new-front-in-the-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-07T21:57:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns region and beyond as tension builds ahead of US ultimatum",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/iran-warns-region-and-beyond-as-tension-builds-ahead-of-us-ultimatum?traffic_source=rss",
-      "published_date": "2026-04-07T21:48:54+00:00",
-      "category": "Military"
+      "title": "Somalia Announces Arrival of “Çağrı Bey” Oil Drilling Vessel to Boost Offshore Exploration",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-announces-arrival-of-cagri-bey-oil-drilling-vessel-to-boost-offshore-exploration/",
+      "published_date": "2026-04-08T17:52:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Lavan refinery blaze continues hours after US-Iran ceasefire agreement",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Russia sending second ship with oil to Cuba amid US blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss",
-      "published_date": "2026-04-02T20:51:25+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Mumbai’s historic dock quietens as fuel crisis chokes fishing trade",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/gallery/2026/4/8/mumbais-historic-dock-quietens-as-fuel-crisis-chokes-fishing-trade?traffic_source=rss",
@@ -499,6 +499,27 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/us-israeli-attacks-and-its-impact-on-irans-economy?traffic_source=rss",
       "published_date": "2026-04-02T10:31:15+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/8/atletico-madrid-shock-10-man-barcelona-2-0-in-champions-league-quarterfinal?traffic_source=rss",
+      "published_date": "2026-04-08T21:22:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JD Vance slams Zelenskyy comments on Orban ahead of Hungary election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-slams-zelenskyys-comments-about-hungarys-orban?traffic_source=rss",
+      "published_date": "2026-04-08T18:34:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s president seeks to unite allies in Baidoa as leadership contest intensifies after takeover",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-president-seeks-to-unite-allies-in-baidoa-as-leadership-contest-intensifies-after-takeover/",
+      "published_date": "2026-04-08T18:34:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "President Concludes Political Consultations and Reconciliation Meetings in Southwest State",
@@ -617,27 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss",
       "published_date": "2026-04-07T12:01:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Koonfur Galbeed waxaa lagu qabsaday lacag",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/07/puntland-koonfur-galbeed-waxaa-lagu-qabsaday-lacag/",
-      "published_date": "2026-04-07T11:35:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali president meets Baidoa mayor to discuss security and development",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-meets-baidoa-mayor-to-discuss-security-and-development/",
-      "published_date": "2026-04-07T11:28:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s govt eyes capture of Dolow after Baidoa takeover",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-govt-eyes-capture-of-dolow-after-baidoa-takeover/",
-      "published_date": "2026-04-07T10:15:48+00:00",
       "category": "Local Events"
     }
   ]
