@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-10T06:10:06.915738+00:00",
+  "last_updated": "2026-04-10T14:36:26.519191+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Somalia, Turkey Discuss Energy Cooperation as Drilling Efforts Advance",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-turkey-discuss-energy-cooperation-as-drilling-efforts-advance/",
+      "published_date": "2026-04-10T12:47:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Closer to a break than ever’: Can NATO survive if Trump pulls the US out?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/closer-to-a-break-than-ever-can-nato-survive-if-trump-pulls-the-us-out?traffic_source=rss",
+      "published_date": "2026-04-10T11:44:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel strikes residential areas, destroys homes in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/israel-strikes-residential-areas-destroys-homes-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-10T10:17:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Senegal PM labels Trump ‘agent of global destabilisation’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss",
+      "published_date": "2026-04-10T09:45:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia foreign minister visits Libya to boost ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-foreign-minister-visits-libya-to-boost-ties/",
+      "published_date": "2026-04-10T09:21:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Djibouti votes as long-time leader seeks sixth presidential term",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss",
+      "published_date": "2026-04-10T08:30:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-10T07:54:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Myanmar’s coup leader Min Aung Hlaing sworn in as president",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/myanmars-coup-leader-min-aung-hlaing-sworn-in-as-president?traffic_source=rss",
+      "published_date": "2026-04-10T07:36:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Netanyahu: ‘No ceasefire in Lebanon’, Israel open to peace talks",
       "source": "Al Jazeera",
@@ -88,60 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ecuador recalls its ambassador from Colombia over Jorge Glas comments",
+      "title": "Israel threatens healthcare as it continues to attack Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/ecuador-recalls-its-ambassador-from-colombia-over-jorge-glas-comments?traffic_source=rss",
-      "published_date": "2026-04-08T17:50:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israel-threatens-healthcare-as-it-continues-to-attack-lebanon?traffic_source=rss",
+      "published_date": "2026-04-10T13:23:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Reaffirms Commitment to Peace, Diplomacy, and Maritime Security in Line with United Nations Principles",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-reaffirms-commitment-to-peace-diplomacy-and-maritime-security-in-line-with-united-nations-principles/",
-      "published_date": "2026-04-08T17:46:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Ambassador to Russia Presents Credentials to Belarus",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-ambassador-to-russia-presents-credentials-to-belarus/",
-      "published_date": "2026-04-08T16:31:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Stone Age’ to ‘Golden Age’: How the final hours before the truce unfolded",
+      "title": "Russia suffers ‘record’ soldier casualties as Ukraine ups drone production",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/stone-age-to-golden-age-how-the-final-hours-before-the-truce-unfolded?traffic_source=rss",
-      "published_date": "2026-04-08T13:51:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/10/ukraine-says-russia-suffers-record-losses-of-soldiers?traffic_source=rss",
+      "published_date": "2026-04-10T13:19:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Scandal Surrounding Irregularities in Somali Diplomatic Mission in Geneva, with Ambassador Khadra Dualeh Implicated in Serving Foreign Interests",
+      "title": "‘Neither war nor peace’: What Gaza looks like six months into ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/neither-war-nor-peace-what-gaza-looks-like-six-months-into-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-10T13:17:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza father searches for his children’s remains in the rubble for years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/gaza-father-searches-for-his-childrens-remains-in-the-rubble-for-years?traffic_source=rss",
+      "published_date": "2026-04-10T13:06:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘For Trump, this is seen as an unmitigated failure, this war’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/4/10/for-trump-this-is-seen-as-an-unmitigated-failure-this?traffic_source=rss",
+      "published_date": "2026-04-10T12:51:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza families still unable to bury dead six months into ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-10T11:06:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi?traffic_source=rss",
+      "published_date": "2026-04-10T10:39:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
+      "published_date": "2026-04-10T09:36:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army land forces chief meets partners to boost joint operations",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/scandal-surrounding-irregularities-in-somali-diplomatic-mission-in-geneva-with-ambassador-khadra-dualeh-implicated-in-serving-foreign-interests/",
-      "published_date": "2026-04-08T13:46:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-army-land-forces-chief-meets-partners-to-boost-joint-operations/",
+      "published_date": "2026-04-10T09:23:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "State Minister Meets UNTMIS Delegation to Advance Somalia-Led Transition",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/state-minister-meets-untmis-delegation-to-advance-somalia-led-transition/",
-      "published_date": "2026-04-08T11:55:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Launches Key Climate Finance Training in Nairobi to Boost Access to Global Funds",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-launches-key-climate-finance-training-in-nairobi-to-boost-access-to-global-funds/",
-      "published_date": "2026-04-08T10:30:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meloni’s Trump trouble: Why Italian PM is distancing herself from US leader",
+      "title": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/melonis-trump-trouble-why-italian-pm-is-distancing-herself-from-us-leader?traffic_source=rss",
-      "published_date": "2026-04-08T10:14:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/4/10/iran-ceasefire-not-an-off-ramp-for-the-us-but-a-life-saving-ejection-seat?traffic_source=rss",
+      "published_date": "2026-04-10T08:27:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 42 of US-Israeli attacks?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/iran-war-what-is-happening-on-day-42-of-us-israeli-attacks?traffic_source=rss",
+      "published_date": "2026-04-10T06:14:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Kuwait blames Iran for drone strike, Iran denies responsibility",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel",
+      "title": "Cuban president defiant despite Trump pressure to resign",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/gaza-journalists-mourn-al-jazeeras-wishah-killed-by-israel?traffic_source=rss",
-      "published_date": "2026-04-09T20:41:58+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/10/cuban-president-defiant-despite-trump-pressure-to-resign?traffic_source=rss",
+      "published_date": "2026-04-10T11:34:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Khamenei says Tehran ‘astonished the world’ during US-Israeli war on Iran",
+      "title": "Energy prices may take ‘months’ to normalise, despite ceasefire: Analysts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/khamenei-says-tehran-astonished-the-world-during-us-israeli-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-09T20:16:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/israel-bombed-gaza-on-36-of-the-past-40-days-while-the-war-raged-in-iran?traffic_source=rss",
-      "published_date": "2026-04-09T15:53:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera’s Mohammed Wishah, killed by Israeli strike, laid to rest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/al-jazeeras-mohammed-wishah-killed-by-israeli-strike-laid-to-rest?traffic_source=rss",
-      "published_date": "2026-04-09T15:41:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can global supply chains recover from the Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/9/can-global-supply-chains-recover-from-the-iran-war?traffic_source=rss",
-      "published_date": "2026-04-09T15:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on Lebanon aimed to undermine ceasefire, critics say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/israeli-attacks-on-lebanon-aimed-to-undermine-ceasefire-critics-say?traffic_source=rss",
-      "published_date": "2026-04-09T14:52:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SNAF and International Partners Neutralize 70 Al-Shabaab Militants in Major Airstrike in Mudug",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/snaf-and-international-partners-neutralize-70-al-shabaab-militants-in-major-airstrike-in-mudug/",
-      "published_date": "2026-04-09T13:33:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The economic cost of US-Israel war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/4/9/the-economic-cost-of-us-israel-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-09T13:23:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Forces Kill Scores of Al-Shabaab Fighters in Airstrikes in Mudug",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-forces-kill-scores-of-al-shabaab-fighters-in-airstrikes-in-mudug/",
-      "published_date": "2026-04-09T13:00:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wasaaradda difaaca oo sheegtay in 70 katirsan Al-Shabaab lagu dilay gobolka Mudug",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasaaradda-difaaca-oo-sheegtay-in-70-katirsan-al-shabaab-lagu-dilay-gobolka-mudug/",
-      "published_date": "2026-04-09T12:56:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon Latest: Israel kills hundreds in one day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/aje-onl-aje_onl_lebanon_wrap-090426?traffic_source=rss",
-      "published_date": "2026-04-09T12:54:54+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/4/10/energy-prices-may-take-months-to-normalise-despite-ceasefire-analysts?traffic_source=rss",
+      "published_date": "2026-04-10T05:41:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia says operational activities halted at several energy sites",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
+      "title": "Will Israel and Lebanon start ceasefire talks?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
-      "published_date": "2026-04-05T11:08:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss",
-      "published_date": "2026-04-05T09:59:40+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss",
+      "published_date": "2026-04-10T10:34:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Is the world economy heading towards stagflation?",
@@ -487,11 +494,25 @@
       "category": "Economy"
     },
     {
-      "title": "Rubble, mud and hair: How to rebuild a home in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/3/rubble-mud-and-hair-how-to-rebuild-a-home-in-gaza?traffic_source=rss",
-      "published_date": "2026-04-03T11:14:35+00:00",
-      "category": "Economy"
+      "title": "Baaq loo diray Siciid Deni iyo Xasan Sheekh",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/10/baaq-loo-diray-siciid-deni-iyo-xasan-sheekh/",
+      "published_date": "2026-04-10T10:57:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ra’iisul Wasaaraha oo Xiray Tartanka Orodka Toddobaadka Nabadda iyo Horumarka Muqdisho",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaaraha-oo-xiray-tartanka-orodka-toddobaadka-nabadda-iyo-horumarka-muqdisho/",
+      "published_date": "2026-04-10T10:29:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wasiirka Batroolka iyo Macdanta XFS oo Muqdisho ku soo dhaweeyay Wasiirka Tamarta Turkiga",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirka-batroolka-iyo-macdanta-xfs-oo-muqdisho-ku-soo-dhaweeyay-wasiirka-tamarta-turkiga/",
+      "published_date": "2026-04-10T10:25:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "CAF President Motsepe rejects Senegal’s corruption claim amid AFCON fallout",
@@ -610,27 +631,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalias-puntland-leader-puts-forces-on-alert-over-fears-of-federal-intervention/",
       "published_date": "2026-04-08T08:05:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Champions AI Integration and Digital Transformation Within the East African Community",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-champions-ai-integration-and-digital-transformation-within-the-east-african-community/",
-      "published_date": "2026-04-08T07:11:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland President Criticizes Federal Government for Undermining Federal Regions’ Unity",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/puntland-president-criticizes-federal-government-for-undermining-federal-regions-unity/",
-      "published_date": "2026-04-08T02:54:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mortar Attack Targets Baidoa Airport as Intelligence Chief Arrives",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/mortar-attack-targets-baidoa-airport-as-intelligence-chief-arrives/",
-      "published_date": "2026-04-08T02:16:51+00:00",
       "category": "Local Events"
     }
   ]
