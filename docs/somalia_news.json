@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-09T16:10:58.307113+00:00",
+  "last_updated": "2026-04-10T06:10:06.915738+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Netanyahu: ‘No ceasefire in Lebanon’, Israel open to peace talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/netanyahu-no-ceasefire-in-lebanon-israel-open-to-peace-talks?traffic_source=rss",
+      "published_date": "2026-04-09T20:45:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran: Strait of Hormuz open with restrictions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/iran-strait-of-hormuz-open-with-restrictions?traffic_source=rss",
+      "published_date": "2026-04-09T20:13:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Foreign Minister Deploys to Tripoli to Advance Continental Diplomacy and Bilateral Integration",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-foreign-minister-deploys-to-tripoli-to-advance-continental-diplomacy-and-bilateral-integration/",
+      "published_date": "2026-04-09T20:09:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Siyaasiyiin Soomaaliyeed oo Shir ku Yeeshay Nairobi",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/siyaasiyiin-soomaaliyeed-oo-shir-ku-yeeshay-nairobi/",
+      "published_date": "2026-04-09T18:02:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What Happens Inside Israel’s Detention System",
       "source": "Al Jazeera",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia takes seat on African Union Peace and Security Council for first time",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-takes-seat-on-african-union-peace-and-security-council-for-first-time/",
-      "published_date": "2026-04-08T09:48:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Midowga Afrika oo Daah-furay Wareegga 16-aad ee Golaha Nabadda iyo Ammaanka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/midowga-afrika-oo-daah-furay-wareegga-16-aad-ee-golaha-nabadda-iyo-ammaanka/",
-      "published_date": "2026-04-08T06:04:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
+      "title": "Kuwait blames Iran for drone strike, Iran denies responsibility",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss",
-      "published_date": "2026-04-08T03:17:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss",
+      "published_date": "2026-04-10T04:57:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+      "title": "Riot police push back protesters demanding higher wages in Venezuela",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-08T01:00:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/riot-police-push-back-protesters-demanding-higher-wages-in-venezuela?traffic_source=rss",
+      "published_date": "2026-04-10T02:21:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss",
+      "published_date": "2026-04-10T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video shows explosion over Erbil in suspected drone interception",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss",
+      "published_date": "2026-04-09T23:50:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss",
+      "published_date": "2026-04-09T23:16:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police in Venezuela block protesters calling for higher wages, pensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss",
+      "published_date": "2026-04-09T22:50:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran ceasefire: Uncertainty over what’s next",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss",
+      "published_date": "2026-04-09T22:48:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss",
+      "published_date": "2026-04-09T21:36:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rafah crossing restrictions derail Palestinian student’s academic dreams",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/rafah-crossing-restrictions-derail-palestinian-students-academic-dreams?traffic_source=rss",
+      "published_date": "2026-04-09T21:16:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/gaza-journalists-mourn-al-jazeeras-wishah-killed-by-israel?traffic_source=rss",
+      "published_date": "2026-04-09T20:41:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Khamenei says Tehran ‘astonished the world’ during US-Israeli war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/khamenei-says-tehran-astonished-the-world-during-us-israeli-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-09T20:16:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza",
+      "title": "Saudi Arabia says operational activities halted at several energy sites",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza?traffic_source=rss",
-      "published_date": "2026-04-09T11:54:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-09T10:57:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s administration trying to sell war ‘wins’ to a sceptical US public",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/trumps-administration-trying-to-sell-war-wins-to-a-sceptical-us-public?traffic_source=rss",
-      "published_date": "2026-04-09T10:13:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several people reported killed in fresh Israeli attacks on Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-09T09:29:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nin British ah oo lagu eedeeyay inuu hoggaamiyay weeraro Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nin-british-ah-oo-lagu-eedeeyay-inuu-hoggaamiyay-weeraro-al-shabaab/",
-      "published_date": "2026-04-09T08:41:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British man charged with directing activities of Somalia-based Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/british-man-charged-with-directing-activities-of-somalia-based-al-shabaab/",
-      "published_date": "2026-04-09T08:37:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Americans question Trump’s instinct on Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss",
-      "published_date": "2026-04-08T21:59:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump administration signals it is mulling NATO withdrawal after Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss",
-      "published_date": "2026-04-08T21:47:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump threatens 50% tariffs on countries that supply Iran with weapons",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss",
-      "published_date": "2026-04-08T21:28:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump has found his Iran off-ramp – but at what cost?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/8/trump-has-found-his-iran-off-ramp-but-at-what-cost?traffic_source=rss",
-      "published_date": "2026-04-08T21:01:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PSG beat Liverpool as Champions League defence maintains pace",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/8/psg-beat-liverpool-as-champions-league-defence-maintains-pace?traffic_source=rss",
-      "published_date": "2026-04-08T20:58:15+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/9/saudi-arabia-says-operational-activities-halted-at-several-energy-sites?traffic_source=rss",
+      "published_date": "2026-04-09T20:09:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Turkish drillship docks in Mogadishu for Somalia’s first offshore oil well",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "China: Source of Stability and Positive Energy  in Turbulent World",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/china-source-of-stability-and-positive-energy-in-turbulent-world/",
-      "published_date": "2026-04-05T06:59:22+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Is the world economy heading towards stagflation?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/money-works/2026/4/9/is-the-world-economy-heading-towards-stagflation?traffic_source=rss",
@@ -494,10 +494,31 @@
       "category": "Economy"
     },
     {
+      "title": "CAF President Motsepe rejects Senegal’s corruption claim amid AFCON fallout",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/9/caf-president-motsepe-rejects-senegals-corruption-claim-after-afcon-furore?traffic_source=rss",
+      "published_date": "2026-04-09T21:33:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golaha Mustaqbalka oo dib u dhigay shir ay ku yeelan lahaayeen Garowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/09/golaha-mustaqbalka-oo-dib-u-dhigay-shir-ay-ku-yeelan-lahaayeen-garowe/",
+      "published_date": "2026-04-09T17:29:28+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "A record-breaking field: What to expect from Peru’s presidential election",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/9/a-record-breaking-field-what-to-expect-from-perus-presidential-election?traffic_source=rss",
       "published_date": "2026-04-09T15:52:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland iyo Unicef oo kala saxiixday heshiis ku kacaya $51 milyan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/09/puntland-iyo-unicef-oo-kala-saxiixday-heshiis-ku-kacaya-51-milyan/",
+      "published_date": "2026-04-09T12:31:00+00:00",
       "category": "Local Events"
     },
     {
@@ -610,27 +631,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/mortar-attack-targets-baidoa-airport-as-intelligence-chief-arrives/",
       "published_date": "2026-04-08T02:16:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo heegan gelisay ciidamadeeda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/08/puntland-oo-heegan-gelisay-ciidamadeeda/",
-      "published_date": "2026-04-08T01:07:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian musician stages protest at power station over Trump threats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss",
-      "published_date": "2026-04-07T22:13:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Chairs Joint Security and Development Meeting in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-chairs-joint-security-and-development-meeting-in-baidoa/",
-      "published_date": "2026-04-07T21:23:41+00:00",
       "category": "Local Events"
     }
   ]
