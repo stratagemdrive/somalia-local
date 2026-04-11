@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-10T23:32:36.151393+00:00",
-  "story_count": 89,
+  "last_updated": "2026-04-11T11:37:26.963768+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Somalia, Libya hold talks on migration and security, agree on repatriation of stranded migrants",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-libya-hold-talks-on-migration-and-security-agree-on-repatriation-of-stranded-migrants/",
+      "published_date": "2026-04-11T08:29:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Advancing Global Equity: The Urgent Need for UN Security  Council Reform to Empower Africa’s True Voice",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/advancing-global-equity-the-urgent-need-for-un-security-council-reform-to-empower-africas-true-voice/",
+      "published_date": "2026-04-11T08:05:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Djibouti’s President Guelleh wins sixth straight term in office",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
+      "published_date": "2026-04-11T06:26:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Djibouti President Ismail Omar Guelleh wins sixth straight term",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/djibouti-president-ismail-omar-guelleh-wins-sixth-straight-term/",
+      "published_date": "2026-04-11T06:24:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia and Libya Execute High-Level Strategic Consultations in Tripoli to Counter Human Trafficking and Secure Citizen Repatriation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-and-libya-execute-high-level-strategic-consultations-in-tripoli-to-counter-human-trafficking-and-secure-citizen-repatriation/",
+      "published_date": "2026-04-11T05:32:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Ismail Omar Guelleh Secures Decisive Electoral Victory, Commends the Citizens of Djibouti for Securing Democratic Continuity",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-ismail-omar-guelleh-secures-decisive-electoral-victory-commends-the-citizens-of-djibouti-for-securing-democratic-continuity/",
+      "published_date": "2026-04-11T05:12:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-04-11T04:15:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
+      "published_date": "2026-04-11T04:02:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Envoy optimistic about Somalia’s energy prospects after Turkish drilling ship docks in Mogadishu",
       "source": "SONNA",
@@ -88,60 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu: ‘No ceasefire in Lebanon’, Israel open to peace talks",
+      "title": "Artemis II crew seen on recovery ship after moon mission return",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/netanyahu-no-ceasefire-in-lebanon-israel-open-to-peace-talks?traffic_source=rss",
-      "published_date": "2026-04-09T20:45:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-crew-seen-on-recovery-ship-after-moon-mission-return?traffic_source=rss",
+      "published_date": "2026-04-11T11:19:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran: Strait of Hormuz open with restrictions",
+      "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/iran-strait-of-hormuz-open-with-restrictions?traffic_source=rss",
-      "published_date": "2026-04-09T20:13:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "published_date": "2026-04-11T08:35:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Foreign Minister Deploys to Tripoli to Advance Continental Diplomacy and Bilateral Integration",
+      "title": "Israeli drone attack kills Palestinians near Gaza mosque",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
+      "published_date": "2026-04-11T07:51:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Vance arrives in Pakistan for talks with Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
+      "published_date": "2026-04-11T07:34:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security Forces Foil Bomb Plot in Mogadishu, Seize Explosives-Laden Motorcycle",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somali-foreign-minister-deploys-to-tripoli-to-advance-continental-diplomacy-and-bilateral-integration/",
-      "published_date": "2026-04-09T20:09:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/security-forces-foil-bomb-plot-in-mogadishu-seize-explosives-laden-motorcycle/",
+      "published_date": "2026-04-11T07:30:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Siyaasiyiin Soomaaliyeed oo Shir ku Yeeshay Nairobi",
+      "title": "Ciidamada Nabadsugida Soomaaliya oo gacanta ku dhigay tuk-tuk lagu soo raray walxaha qarxa oo ka dhacay magaalada Muqdisho",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/siyaasiyiin-soomaaliyeed-oo-shir-ku-yeeshay-nairobi/",
-      "published_date": "2026-04-09T18:02:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/ciidamada-nabadsugida-soomaaliya-oo-gacanta-ku-dhigay-tuk-tuk-lagu-soo-raray-walxaha-qarxa-oo-ka-dhacay-magaalada-muqdisho/",
+      "published_date": "2026-04-11T06:38:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "What Happens Inside Israel’s Detention System",
+      "title": "Somali Security forces seize explosives-laden tuk-tuk in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-security-forces-seize-explosives-laden-tuk-tuk-in-mogadishu/",
+      "published_date": "2026-04-11T06:10:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/birds-eye-view/2026/4/9/what-happens-inside-israels-detention-system?traffic_source=rss",
-      "published_date": "2026-04-09T16:04:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-04-11T04:49:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "National Human Rights Commission Outlines Institutional Vision in Strategic Dialogue with Swiss Ambassador",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-human-rights-commission-outlines-institutional-vision-in-strategic-dialogue-with-swiss-ambassador/",
-      "published_date": "2026-04-09T15:39:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Ambassador to Nigeria Formally Presents Credentials to Accelerate Bilateral Integration",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-ambassador-to-nigeria-formally-presents-credentials-to-accelerate-bilateral-integration/",
-      "published_date": "2026-04-09T13:56:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Djibouti elections: Who’s running against Guelleh and what’s at stake?",
+      "title": "Iran war live: US, Iranian officials to hold ceasefire talks in Pakistan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/djibouti-elections-whos-running-against-guelleh-and-whats-at-stake?traffic_source=rss",
-      "published_date": "2026-04-09T09:57:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
+      "published_date": "2026-04-11T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike on government building kills Lebanese officers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss",
+      "published_date": "2026-04-10T23:55:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Brazil announces US partnership to intercept weapons, drug trafficking",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/10/brazil-announces-us-partnership-to-intercept-weapons-drug-trafficking?traffic_source=rss",
+      "published_date": "2026-04-10T23:39:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-04-10T17:03:30+00:00",
-      "category": "Military"
+      "title": "Somalia welcomes Turkish drillship for first major offshore oil project",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-welcomes-turkish-drillship-for-first-major-offshore-oil-project/",
+      "published_date": "2026-04-11T08:40:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
+      "title": "Artemis II marks historic lunar return with Pacific splashdown success",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss",
-      "published_date": "2026-04-10T16:05:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel threatens healthcare as it continues to attack Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israel-threatens-healthcare-as-it-continues-to-attack-lebanon?traffic_source=rss",
-      "published_date": "2026-04-10T13:23:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia suffers ‘record’ soldier casualties as Ukraine ups drone production",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/ukraine-says-russia-suffers-record-losses-of-soldiers?traffic_source=rss",
-      "published_date": "2026-04-10T13:19:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Neither war nor peace’: What Gaza looks like six months into ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/neither-war-nor-peace-what-gaza-looks-like-six-months-into-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-10T13:17:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza father searches for his children’s remains in the rubble for years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/gaza-father-searches-for-his-childrens-remains-in-the-rubble-for-years?traffic_source=rss",
-      "published_date": "2026-04-10T13:06:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘For Trump, this is seen as an unmitigated failure, this war’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/4/10/for-trump-this-is-seen-as-an-unmitigated-failure-this?traffic_source=rss",
-      "published_date": "2026-04-10T12:51:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza families still unable to bury dead six months into ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-10T11:06:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi?traffic_source=rss",
-      "published_date": "2026-04-10T10:39:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
-      "published_date": "2026-04-10T09:36:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army land forces chief meets partners to boost joint operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-land-forces-chief-meets-partners-to-boost-joint-operations/",
-      "published_date": "2026-04-10T09:23:20+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
+      "published_date": "2026-04-11T07:23:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "President Hassan Sheikh Mohamud Commissions Çağrı Bey Drilling Vessel, Launching Somalia’s Energy Independence Era",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Libya’s oil disputes mirror Hormuz crisis, fuel European energy fears",
+      "title": "What’s at stake in Benin’s presidential election?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/libyas-oil-disputes-mirror-hormuz-crisis-fuel-european-energy-fears?traffic_source=rss",
-      "published_date": "2026-04-06T16:50:44+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
+      "published_date": "2026-04-11T09:00:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
+      "title": "Colombia responds to Ecuador’s tariff hike with 100-percent import tax",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade?traffic_source=rss",
-      "published_date": "2026-04-06T11:49:04+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/4/10/colombia-responds-to-ecuadors-tariff-hike-with-100-percent-import-tax?traffic_source=rss",
+      "published_date": "2026-04-10T23:36:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Will Israel and Lebanon start ceasefire talks?",
@@ -480,11 +494,32 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia, Saudi Arabia Explore Maritime Cooperation at St. Petersburg Forum",
+      "title": "Madaxweyne Xasan Sheekh oo kulan la qaatay isimo ka tirsan Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/11/madaxweyne-xasan-sheekh-oo-kulan-la-qaatay-isimo-ka-tirsan-puntland/",
+      "published_date": "2026-04-11T11:22:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali National University Delegation Meets Yangzhou University Leadership, Strengthens Academic Cooperation",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-saudi-arabia-explore-maritime-cooperation-at-st-petersburg-forum/",
-      "published_date": "2026-04-04T07:26:37+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/somali-national-university-delegation-meets-yangzhou-university-leadership-strengthens-academic-cooperation/",
+      "published_date": "2026-04-11T09:53:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xasan Shire Abgaal oo lagu eedeeyay in uu suurad xumeeyay halgankii Calmiskaad",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/11/xasan-shire-abgaal-oo-lagu-eedeeyay-in-uu-suurad-xumeeyay-halgankii-calmiskaad/",
+      "published_date": "2026-04-11T07:40:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mucaaradka Puntland oo shir ku qaban doona Garowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/11/mucaaradka-puntland-oo-shir-ku-qaban-doona-garowe/",
+      "published_date": "2026-04-11T06:40:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Why is Hungary’s election so important on the international stage?",
@@ -596,34 +631,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalias-president-seeks-to-unite-allies-in-baidoa-as-leadership-contest-intensifies-after-takeover/",
       "published_date": "2026-04-08T18:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Concludes Political Consultations and Reconciliation Meetings in Southwest State",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-concludes-political-consultations-and-reconciliation-meetings-in-southwest-state/",
-      "published_date": "2026-04-08T14:51:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qardho: Madaxweyne Deni oo xarigga ka jaray dhisme dowladeed",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/08/qardho-madaxweyne-deni-oo-xarigga-ka-jaray-dhisme-dowladeed/",
-      "published_date": "2026-04-08T12:10:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia, UAE, Kuwait, Bahrain report attacks after Iran-US ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-08T10:43:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We’re new miyas’: Will BJP naming some Assamese Muslims ‘Indigenous’ work?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/were-new-miyas-will-bjp-naming-some-assamese-muslims-indigenous-work?traffic_source=rss",
-      "published_date": "2026-04-08T10:22:55+00:00",
       "category": "Local Events"
     }
   ]
