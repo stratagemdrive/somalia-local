@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-11T11:37:26.963768+00:00",
-  "story_count": 90,
+  "last_updated": "2026-04-11T23:30:43.424412+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Djibouti: Guelleh re-elects himself with 97.8% of the votes.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/djibouti-guelleh-re-elects-himself-with-97-8-of-the-votes/",
+      "published_date": "2026-04-11T21:31:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Diplomacy is not an event, it’s a process, it takes time.”",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss",
+      "published_date": "2026-04-11T20:55:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Participates in Reopening of CEN-SAD Headquarters in Tripoli",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-participates-in-reopening-of-cen-sad-headquarters-in-tripoli/",
+      "published_date": "2026-04-11T16:19:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Uganda Army Chief Threatens Turkey with Embassy Closure, Demands $1 Billion Over Somalia Operations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uganda-army-chief-threatens-turkey-with-embassy-closure-demands-1-billion-over-somalia-operations/",
+      "published_date": "2026-04-11T16:12:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
+      "published_date": "2026-04-11T16:09:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Uganda oo Turkiga ka dalbatay $1 billion haddii kala Ciidanka kala baxayso Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uganda-oo-turkiga-ka-dalbatay-1-billion-haddii-kala-ciidanka-kala-baxayso-soomaaliya/",
+      "published_date": "2026-04-11T16:09:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, Libya hold talks on migration and security, agree on repatriation of stranded migrants",
       "source": "Shabelle Media",
@@ -102,46 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel strikes residential areas, destroys homes in southern Lebanon",
+      "title": "Pope Leo urges world leaders to reject war and negotiate peace",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/israel-strikes-residential-areas-destroys-homes-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-04-10T10:17:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss",
+      "published_date": "2026-04-11T20:47:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Senegal PM labels Trump ‘agent of global destabilisation’",
+      "title": "Has Israeli society become conditioned to permanent war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss",
-      "published_date": "2026-04-10T09:45:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/11/has-israeli-society-become-conditioned-to-permament-war?traffic_source=rss",
+      "published_date": "2026-04-11T20:40:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia foreign minister visits Libya to boost ties",
+      "title": "Israeli strikes kill at least 18 people across southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-11T20:25:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Families gather to mourn victims of deadly shooting in Afghanistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/families-gather-to-mourn-victims-of-deadly-shooting-in-afghanistan?traffic_source=rss",
+      "published_date": "2026-04-11T20:08:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us?traffic_source=rss",
+      "published_date": "2026-04-11T19:46:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-11T19:35:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village?traffic_source=rss",
+      "published_date": "2026-04-11T18:47:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian rabbi describes Israel’s destruction of a Tehran synagogue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iranian-rabbi-describes-israels-destruction-of-a-tehran-synagogue?traffic_source=rss",
+      "published_date": "2026-04-11T18:36:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
+      "published_date": "2026-04-11T18:02:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Machete-wielding man killed by police in New York’s Grand Central station",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
+      "published_date": "2026-04-11T15:51:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uganda Military Chief Threatens to Sever Ties with Türkiye Over Somalia Disagreements",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-foreign-minister-visits-libya-to-boost-ties/",
-      "published_date": "2026-04-10T09:21:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Djibouti votes as long-time leader seeks sixth presidential term",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss",
-      "published_date": "2026-04-10T08:30:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-10T07:54:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Myanmar’s coup leader Min Aung Hlaing sworn in as president",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/myanmars-coup-leader-min-aung-hlaing-sworn-in-as-president?traffic_source=rss",
-      "published_date": "2026-04-10T07:36:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/uganda-military-chief-threatens-to-sever-ties-with-turkiye-over-somalia-disagreements/",
+      "published_date": "2026-04-11T12:26:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Artemis II crew seen on recovery ship after moon mission return",
@@ -204,83 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
       "published_date": "2026-04-11T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike on government building kills Lebanese officers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss",
-      "published_date": "2026-04-10T23:55:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brazil announces US partnership to intercept weapons, drug trafficking",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/brazil-announces-us-partnership-to-intercept-weapons-drug-trafficking?traffic_source=rss",
-      "published_date": "2026-04-10T23:39:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
-      "published_date": "2026-04-10T22:58:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss",
-      "published_date": "2026-04-10T22:29:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Islamabad on lockdown ahead of US-Iran talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-04-10T21:58:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran negotiations in Islamabad: What to expect?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/us-iran-negotiations-in-islamabad-what-to-expect?traffic_source=rss",
-      "published_date": "2026-04-10T20:19:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prince Harry sued for defamation by Sentebale charity he co-founded",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/prince-harry-sued-for-defamation-by-sentebale-charity-he-co-founded?traffic_source=rss",
-      "published_date": "2026-04-10T20:05:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Iran negotiations lead to peace?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/upfront/2026/4/10/can-iran-negotiations-lead-to-peace?traffic_source=rss",
-      "published_date": "2026-04-10T19:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New tensions emerge before US-Iran war ceasefire talks in Pakistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/new-tensions-emerge-before-us-iran-war-ceasefire-talks-in-pakistan?traffic_source=rss",
-      "published_date": "2026-04-10T19:21:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK police arrest man after four die during Channel crossing attempt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/uk-police-arrest-man-after-four-die-during-channel-crossing-attempt?traffic_source=rss",
-      "published_date": "2026-04-10T18:41:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is the US-Iran ceasefire already doomed?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed?traffic_source=rss",
-      "published_date": "2026-04-10T18:01:47+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss",
+      "published_date": "2026-04-11T17:29:23+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "What’s at stake in Benin’s presidential election?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
@@ -492,6 +499,62 @@
       "url": "https://www.aljazeera.com/news/2026/4/6/cocktail-of-hindutva-and-welfarism-how-modis-bjp-is-wooing-assam-voters?traffic_source=rss",
       "published_date": "2026-04-06T07:57:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Puntland Raises Concerns Over Somalia–Turkey Cooperation",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-raises-concerns-over-somalia-turkey-cooperation/",
+      "published_date": "2026-04-11T20:57:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraqi parliament elects new president",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iraqi-parliament-elects-new-president?traffic_source=rss",
+      "published_date": "2026-04-11T20:45:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US appeals court extends deadline to halt White House ballroom construction",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/us-appeals-court-extends-deadline-to-halt-white-house-ballroom-construction?traffic_source=rss",
+      "published_date": "2026-04-11T18:58:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia deploys Turkish-trained police to Baidoa amid security fears",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-deploys-turkish-trained-police-to-baidoa-amid-security-fears/",
+      "published_date": "2026-04-11T17:41:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss",
+      "published_date": "2026-04-11T17:24:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru holds presidential election amid a decade of political tumult",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss",
+      "published_date": "2026-04-11T15:22:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Xasan Sheekh oo kulan la qaatay isimada Puntland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweyne-xasan-sheekh-oo-kulan-la-qaatay-isimada-puntland/",
+      "published_date": "2026-04-11T13:14:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Sheikh Hosts Puntland Elders to Strengthen Cooperation and Stability",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-hosts-puntland-elders-to-strengthen-cooperation-and-stability/",
+      "published_date": "2026-04-11T12:12:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Madaxweyne Xasan Sheekh oo kulan la qaatay isimo ka tirsan Puntland",
@@ -575,62 +638,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/09/golaha-mustaqbalka-oo-dib-u-dhigay-shir-ay-ku-yeelan-lahaayeen-garowe/",
       "published_date": "2026-04-09T17:29:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A record-breaking field: What to expect from Peru’s presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/a-record-breaking-field-what-to-expect-from-perus-presidential-election?traffic_source=rss",
-      "published_date": "2026-04-09T15:52:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland iyo Unicef oo kala saxiixday heshiis ku kacaya $51 milyan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/09/puntland-iyo-unicef-oo-kala-saxiixday-heshiis-ku-kacaya-51-milyan/",
-      "published_date": "2026-04-09T12:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Architecture of Change: How President Hassan Sheikh Mohamud is Rewiring Somalia’s Future",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/the-architecture-of-change-how-president-hassan-sheikh-mohamud-is-rewiring-somalias-future/",
-      "published_date": "2026-04-09T10:48:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Interim Leader Inaugurates New Minister of Internal Security",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-state-interim-leader-inaugurates-new-minister-of-internal-security/",
-      "published_date": "2026-04-09T10:16:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southwest State swears in new interior security minister",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/southwest-state-swears-in-new-interior-security-minister/",
-      "published_date": "2026-04-09T09:47:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/8/atletico-madrid-shock-10-man-barcelona-2-0-in-champions-league-quarterfinal?traffic_source=rss",
-      "published_date": "2026-04-08T21:22:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JD Vance slams Zelenskyy comments on Orban ahead of Hungary election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-slams-zelenskyys-comments-about-hungarys-orban?traffic_source=rss",
-      "published_date": "2026-04-08T18:34:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s president seeks to unite allies in Baidoa as leadership contest intensifies after takeover",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-president-seeks-to-unite-allies-in-baidoa-as-leadership-contest-intensifies-after-takeover/",
-      "published_date": "2026-04-08T18:34:00+00:00",
       "category": "Local Events"
     }
   ]
