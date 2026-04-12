@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-12T11:38:45.415929+00:00",
-  "story_count": 92,
+  "last_updated": "2026-04-12T23:31:59.098734+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "World reacts to Peter Magyar defeating Viktor Orban, Hungary’s longtime PM",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/12/world-reacts-to-election-defeat-for-viktor-orban-hungarys-longtime-pm?traffic_source=rss",
+      "published_date": "2026-04-12T20:43:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘I’ve congratulated the victorious party’: Viktor Orban concedes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/ive-congratulated-the-victorious-party-viktor-orban-concedes?traffic_source=rss",
+      "published_date": "2026-04-12T20:28:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary’s Viktor Orban concedes defeat in parliamentary elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/hungarys-viktor-orban-concedes-defeat-in-parliamentary-elections?traffic_source=rss",
+      "published_date": "2026-04-12T19:59:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz?traffic_source=rss",
+      "published_date": "2026-04-12T19:19:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia Attends Relaunch of CEN-SAD Headquarters in Tripoli",
       "source": "Shabelle Media",
@@ -116,32 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Djibouti President Ismail Omar Guelleh wins sixth straight term",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/djibouti-president-ismail-omar-guelleh-wins-sixth-straight-term/",
-      "published_date": "2026-04-11T06:24:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia and Libya Execute High-Level Strategic Consultations in Tripoli to Counter Human Trafficking and Secure Citizen Repatriation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-and-libya-execute-high-level-strategic-consultations-in-tripoli-to-counter-human-trafficking-and-secure-citizen-repatriation/",
-      "published_date": "2026-04-11T05:32:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Ismail Omar Guelleh Secures Decisive Electoral Victory, Commends the Citizens of Djibouti for Securing Democratic Continuity",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-ismail-omar-guelleh-secures-decisive-electoral-victory-commends-the-citizens-of-djibouti-for-securing-democratic-continuity/",
-      "published_date": "2026-04-11T05:12:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+      "title": "These are people Israel killed in Lebanon on a single day",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-04-11T04:15:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
+      "published_date": "2026-04-12T21:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could the Iran war pose lasting risks to global food security?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss",
+      "published_date": "2026-04-12T20:44:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkish fighter jets fly over Mogadishu for Somalia army anniversary",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkish-fighter-jets-fly-over-mogadishu-for-somalia-army-anniversary/",
+      "published_date": "2026-04-12T20:36:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "“The initiative is in the hands of Tehran, not Washington”",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/4/12/the-initiative-is-in-the-hands-of-tehran-not?traffic_source=rss",
+      "published_date": "2026-04-12T20:10:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How shaky is the Iran-US ceasefire?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-12T19:46:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
+      "published_date": "2026-04-12T18:44:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prime Minister Hamza Attends Gala Dinner Marking SNA 66th Anniversary in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/prime-minister-hamza-attends-gala-dinner-marking-sna-66th-anniversary-in-mogadishu/",
+      "published_date": "2026-04-12T18:33:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dozens feared dead in air strike on village in northeastern Nigeria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/12/dozens-feared-dead-in-air-strike-on-village-in-northeastern-nigeria?traffic_source=rss",
+      "published_date": "2026-04-12T18:25:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Government Pledges Equal Rights for South West Darwish Forces",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/government-pledges-equal-rights-for-south-west-darwish-forces/",
+      "published_date": "2026-04-12T18:04:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian authorities remain defiant, urge supporters to stay in streets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in?traffic_source=rss",
+      "published_date": "2026-04-12T16:51:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Seven ways America can win the ceasefire and end the war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/4/12/seven-ways-america-can-win-the-ceasefire-and-end-the-war?traffic_source=rss",
+      "published_date": "2026-04-12T16:30:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "President Hassan Sheikh Inaugurates New Military Logistics and Communications Headquarters",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-inaugurates-new-military-logistics-and-communications-headquarters/",
+      "published_date": "2026-04-12T15:56:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Blown to hell’: Trump orders Hormuz blockade after US-Iran peace talks end",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss",
+      "published_date": "2026-04-12T15:47:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/12/fifa-rejects-irans-request-to-relocate-world-cup-games-amid-us-israel-war?traffic_source=rss",
+      "published_date": "2026-04-12T15:17:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia defence minister congratulates troops on army’s 66th anniversary",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-defence-minister-congratulates-troops-on-armys-66th-anniversary/",
+      "published_date": "2026-04-12T14:01:57+00:00",
+      "category": "Military"
     },
     {
       "title": "President Hassan Sheikh: Heroes of the Somali National Army Have Saved 20 Million Somalis",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Somali President Marks 66th Anniversary of National Army with Military Display",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-marks-66th-anniversary-of-national-army-with-military-display/",
-      "published_date": "2026-04-12T07:47:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pictures: Somali National Army Marks 66th Anniversary with Grand Parade in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/pictures-somali-national-army-marks-66th-anniversary-with-grand-parade-in-mogadishu/",
-      "published_date": "2026-04-12T07:41:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guddoomiyaha Midowga Afrika oo hambalyo u diray Madaxweyne Geelle dib-u-doorashadiisa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddoomiyaha-midowga-afrika-oo-hambalyo-u-diray-madaxweyne-geelle-dib-u-doorashadiisa/",
-      "published_date": "2026-04-12T05:33:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why did US-Iran talks end without an agreement in Pakistan?",
+      "title": "Video: Severe flooding closes schools in Saudi Arabia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan?traffic_source=rss",
-      "published_date": "2026-04-12T04:47:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Ghalibaf blames US for failure of Pakistan ceasefire talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
-      "published_date": "2026-04-12T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo urges world leaders to reject war and negotiate peace",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss",
-      "published_date": "2026-04-11T20:47:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has Israeli society become conditioned to permanent war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/11/has-israeli-society-become-conditioned-to-permament-war?traffic_source=rss",
-      "published_date": "2026-04-11T20:40:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill at least 18 people across southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-04-11T20:25:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Families gather to mourn victims of deadly shooting in Afghanistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/families-gather-to-mourn-victims-of-deadly-shooting-in-afghanistan?traffic_source=rss",
-      "published_date": "2026-04-11T20:08:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us?traffic_source=rss",
-      "published_date": "2026-04-11T19:46:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-11T19:35:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village?traffic_source=rss",
-      "published_date": "2026-04-11T18:47:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian rabbi describes Israel’s destruction of a Tehran synagogue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iranian-rabbi-describes-israels-destruction-of-a-tehran-synagogue?traffic_source=rss",
-      "published_date": "2026-04-11T18:36:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
-      "published_date": "2026-04-11T18:02:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Machete-wielding man killed by police in New York’s Grand Central station",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
-      "published_date": "2026-04-11T15:51:07+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/video-severe-flooding-closes-schools-in-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-04-12T16:21:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Somalia Awaits Arrival of Turkish Oil Drilling Ship in Landmark Energy Move",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-awaits-arrival-of-turkish-oil-drilling-ship-in-landmark-energy-move/",
-      "published_date": "2026-04-07T08:11:59+00:00",
-      "category": "Energy"
+      "title": "Polls close in Benin with finance minister expected to win election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/12/polls-close-in-benin-with-finance-minister-expected-to-win-election?traffic_source=rss",
+      "published_date": "2026-04-12T19:43:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Global Sumud Flotilla sets sail from Barcelona for Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/global-sumud-flotilla-sets-sail-from-barcelona-for-gaza?traffic_source=rss",
+      "published_date": "2026-04-12T15:27:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Benin holds presidential election amid deteriorating security situation",
@@ -506,6 +520,48 @@
       "url": "https://www.aljazeera.com/news/2026/4/6/cocktail-of-hindutva-and-welfarism-how-modis-bjp-is-wooing-assam-voters?traffic_source=rss",
       "published_date": "2026-04-06T07:57:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss",
+      "published_date": "2026-04-12T22:38:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West Interim Leader Convenes Security Meeting to Strengthen Stability Efforts",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-interim-leader-convenes-security-meeting-to-strengthen-stability-efforts/",
+      "published_date": "2026-04-12T21:51:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voter Registration for One-Person-One-Vote Elections Launched in Awdheegle",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/voter-registration-for-one-person-one-vote-elections-launched-in-awdheegle/",
+      "published_date": "2026-04-12T18:15:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Labour Strengthens Coordination to Accelerate Key Priorities",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ministry-of-labour-strengthens-coordination-to-accelerate-key-priorities/",
+      "published_date": "2026-04-12T15:45:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali lower house speaker chairs standing committee meeting, new members sworn in",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-lower-house-speaker-chairs-standing-committee-meeting-new-members-sworn-in/",
+      "published_date": "2026-04-12T14:05:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Security chiefs hold talks in Baidoa to boost cooperation with local authorities and media",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/security-chiefs-hold-talks-in-baidoa-to-boost-cooperation-with-local-authorities-and-media/",
+      "published_date": "2026-04-12T14:03:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Speaker the Parliament Chairs Extraordinary Meeting of the Standing Committee",
@@ -603,48 +659,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/11/xasan-shire-abgaal-oo-lagu-eedeeyay-in-uu-suurad-xumeeyay-halgankii-calmiskaad/",
       "published_date": "2026-04-11T07:40:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mucaaradka Puntland oo shir ku qaban doona Garowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/11/mucaaradka-puntland-oo-shir-ku-qaban-doona-garowe/",
-      "published_date": "2026-04-11T06:40:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Hungary’s election so important on the international stage?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/10/why-is-hungarys-election-so-important-on-the-international-stage?traffic_source=rss",
-      "published_date": "2026-04-10T20:38:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US federal court hears new case against Trump tariffs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss",
-      "published_date": "2026-04-10T17:35:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers turn Passover into celebration of ethnic cleansing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/10/israeli-settlers-turn-passover-celebration-ethnic-cleansing?traffic_source=rss",
-      "published_date": "2026-04-10T16:56:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baaq loo diray Siciid Deni iyo Xasan Sheekh",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/10/baaq-loo-diray-siciid-deni-iyo-xasan-sheekh/",
-      "published_date": "2026-04-10T10:57:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ra’iisul Wasaaraha oo Xiray Tartanka Orodka Toddobaadka Nabadda iyo Horumarka Muqdisho",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaaraha-oo-xiray-tartanka-orodka-toddobaadka-nabadda-iyo-horumarka-muqdisho/",
-      "published_date": "2026-04-10T10:29:31+00:00",
       "category": "Local Events"
     }
   ]
