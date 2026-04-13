@@ -1,8 +1,85 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-13T12:07:10.419824+00:00",
+  "last_updated": "2026-04-13T23:39:50.693583+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-04-13T22:33:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN experts slam attacks on Gaza shelters, forced displacement in West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/un-experts-slam-attacks-on-gaza-shelters-forced-displacement-in-west-bank?traffic_source=rss",
+      "published_date": "2026-04-13T22:04:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What’s behind Viktor Orban’s defeat in Hungary’s election?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/13/whats-behind-viktor-orbans-defeat?traffic_source=rss",
+      "published_date": "2026-04-13T21:58:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Magyar’s election win the end of the EU’s troubles with Hungary?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary?traffic_source=rss",
+      "published_date": "2026-04-13T19:13:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer announces talks to address the Strait of Hormuz crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/starmer-announces-talks-to-address-the-strait-of-hormuz-crisis?traffic_source=rss",
+      "published_date": "2026-04-13T17:46:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Livestock Minister presides over Director General handover ceremony",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/livestock-minister-presides-over-director-general-handover-ceremony/",
+      "published_date": "2026-04-13T16:26:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Hassan discusses strengthening relations with Chinese Special Envoy",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-discusses-strengthening-relations-with-chinese-special-envoy/",
+      "published_date": "2026-04-13T15:11:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia and China Strengthen Strategic Cooperation on Maritime Resources and Security",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-china-strengthen-strategic-cooperation-on-maritime-resources-and-security/",
+      "published_date": "2026-04-13T14:12:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Cabinet Appoints New Immigration Chief, Approves General Pardon Decree",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-cabinet-appoints-new-immigration-chief-approves-general-pardon-decree/",
+      "published_date": "2026-04-13T14:08:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Cabinet Approves Key Appointments, General Amnesty Regulation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-cabinet-approves-key-appointments-general-amnesty-regulation/",
+      "published_date": "2026-04-13T13:29:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, China Strengthen Strategic Partnership in High-Level Talks",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-china-strengthen-strategic-partnership-in-high-level-talks/",
+      "published_date": "2026-04-13T12:52:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Minister of Agriculture Launches Tree-Planting Initiative to Boost Environmental Protection",
       "source": "SONNA",
@@ -67,81 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "African Union Chief Congratulates Djibouti’s Guelleh on Re-election",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-chief-congratulates-djiboutis-guelleh-on-re-election/",
-      "published_date": "2026-04-12T07:58:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hungarians vote as PM Orban faces toughest election challenge in years",
+      "title": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years?traffic_source=rss",
-      "published_date": "2026-04-12T05:57:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss",
+      "published_date": "2026-04-13T22:46:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan urges US and Iran to uphold ceasefire after talks end",
+      "title": "Energy prices rise despite Jones Act suspension by Trump",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
-      "published_date": "2026-04-12T05:25:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss",
+      "published_date": "2026-04-13T22:17:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran must not charge tolls in Strait of Hormuz, UN maritime chief says",
+      "title": "Israel kills three Palestinians in separate Gaza strikes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says?traffic_source=rss",
-      "published_date": "2026-04-12T03:20:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israel-kills-three-palestinians-in-separate-gaza-strikes?traffic_source=rss",
+      "published_date": "2026-04-13T21:06:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu next to Middle East map: ‘We strangled them and have more to do’",
+      "title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss",
-      "published_date": "2026-04-12T02:09:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss",
+      "published_date": "2026-04-13T20:28:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy",
+      "title": "French court rules cement giant Lafarge guilty of funding Syria ‘terrorism’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss",
-      "published_date": "2026-04-12T00:08:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism?traffic_source=rss",
+      "published_date": "2026-04-13T18:52:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Djibouti: Guelleh re-elects himself with 97.8% of the votes.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/djibouti-guelleh-re-elects-himself-with-97-8-of-the-votes/",
-      "published_date": "2026-04-11T21:31:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“Diplomacy is not an event, it’s a process, it takes time.”",
+      "title": "Indian workers protest over rising living cost",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss",
-      "published_date": "2026-04-11T20:55:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Participates in Reopening of CEN-SAD Headquarters in Tripoli",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-participates-in-reopening-of-cen-sad-headquarters-in-tripoli/",
-      "published_date": "2026-04-11T16:19:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Uganda Army Chief Threatens Turkey with Embassy Closure, Demands $1 Billion Over Somalia Operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uganda-army-chief-threatens-turkey-with-embassy-closure-demands-1-billion-over-somalia-operations/",
-      "published_date": "2026-04-11T16:12:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
-      "published_date": "2026-04-11T16:09:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/indian-workers-protest-over-rising-living-cost?traffic_source=rss",
+      "published_date": "2026-04-13T18:25:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "“The initiative is in the hands of Tehran, not Washington”",
+      "title": "Waist-deep floodwaters force hundreds to evacuate Java, Indonesia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/4/12/the-initiative-is-in-the-hands-of-tehran-not?traffic_source=rss",
-      "published_date": "2026-04-12T20:10:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How shaky is the Iran-US ceasefire?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-12T19:46:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
-      "published_date": "2026-04-12T18:44:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prime Minister Hamza Attends Gala Dinner Marking SNA 66th Anniversary in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-attends-gala-dinner-marking-sna-66th-anniversary-in-mogadishu/",
-      "published_date": "2026-04-12T18:33:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens feared dead in air strike on village in northeastern Nigeria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/dozens-feared-dead-in-air-strike-on-village-in-northeastern-nigeria?traffic_source=rss",
-      "published_date": "2026-04-12T18:25:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Government Pledges Equal Rights for South West Darwish Forces",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/government-pledges-equal-rights-for-south-west-darwish-forces/",
-      "published_date": "2026-04-12T18:04:51+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/waist-deep-floodwaters-force-hundreds-to-evacuate-java-indonesia?traffic_source=rss",
+      "published_date": "2026-04-13T18:29:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "US blockade of Iran would worsen global energy crisis, analysts say",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Somalia Announces Arrival of “Çağrı Bey” Oil Drilling Vessel to Boost Offshore Exploration",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-announces-arrival-of-cagri-bey-oil-drilling-vessel-to-boost-offshore-exploration/",
-      "published_date": "2026-04-08T17:52:24+00:00",
-      "category": "Energy"
+      "title": "New White House report has plans to fix US housing shortage of 10 million",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/13/new-white-house-report-has-plans-to-fix-us-housing-shortage-of-10-million?traffic_source=rss",
+      "published_date": "2026-04-13T21:59:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Polls close in Benin with finance minister expected to win election",
@@ -508,11 +515,46 @@
       "category": "Economy"
     },
     {
-      "title": "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
+      "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss",
-      "published_date": "2026-04-06T13:01:02+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss",
+      "published_date": "2026-04-13T21:35:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government candidate Wadagni on course to win Benin presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss",
+      "published_date": "2026-04-13T21:34:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior Ministry’s Director General Highlights Vital Role of Somali Women in State-Building and Development",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/interior-ministrys-director-general-highlights-vital-role-of-somali-women-in-state-building-and-development/",
+      "published_date": "2026-04-13T18:59:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo soo qabatay qaar ka mid ah xoolo ay dhacday Daacish",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/13/puntland-oo-soo-qabatay-qaar-ka-mid-ah-xoolo-ay-dhacday-daacish/",
+      "published_date": "2026-04-13T12:35:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voter Registration Kicks Off in Masagawaay as Residents Turn Out in Large Numbers",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/voter-registration-kicks-off-in-masagawaay-as-residents-turn-out-in-large-numbers/",
+      "published_date": "2026-04-13T12:27:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo sheegtay in ay difaac ka galayso Federaalka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/13/puntland-oo-sheegtay-in-ay-difaac-ka-galayso-federaalka/",
+      "published_date": "2026-04-13T11:51:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli forces fire tear gas near Palestinian schoolchildren",
@@ -610,48 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss",
       "published_date": "2026-04-12T09:36:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xildhibaano ka tirsan Puntland oo taageeray kulankii Xasan Sheekh iyo isimada Bari",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/12/xildhibaano-ka-tirsan-puntland-oo-taageeray-kulankii-xasan-sheekh-iyo-isimada-bari/",
-      "published_date": "2026-04-12T06:53:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland Raises Concerns Over Somalia–Turkey Cooperation",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/puntland-raises-concerns-over-somalia-turkey-cooperation/",
-      "published_date": "2026-04-11T20:57:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraqi parliament elects new president",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iraqi-parliament-elects-new-president?traffic_source=rss",
-      "published_date": "2026-04-11T20:45:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court extends deadline to halt White House ballroom construction",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/us-appeals-court-extends-deadline-to-halt-white-house-ballroom-construction?traffic_source=rss",
-      "published_date": "2026-04-11T18:58:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia deploys Turkish-trained police to Baidoa amid security fears",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-deploys-turkish-trained-police-to-baidoa-amid-security-fears/",
-      "published_date": "2026-04-11T17:41:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss",
-      "published_date": "2026-04-11T17:24:02+00:00",
       "category": "Local Events"
     }
   ]
