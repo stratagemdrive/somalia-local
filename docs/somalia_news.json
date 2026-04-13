@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-12T23:31:59.098734+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-13T12:07:10.419824+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Minister of Agriculture Launches Tree-Planting Initiative to Boost Environmental Protection",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-agriculture-launches-tree-planting-initiative-to-boost-environmental-protection/",
+      "published_date": "2026-04-13T11:04:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Celebrations in Hungary after Orban ousted in landmark election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/celebrations-in-hungary-after-orban-ousted-in-landmark-election?traffic_source=rss",
+      "published_date": "2026-04-13T07:39:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/who-is-israels-us-envoy-leading-negotiations-with-lebanon?traffic_source=rss",
+      "published_date": "2026-04-13T07:24:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Viktor Orban swept from power after 16 years ruling Hungary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/viktor-orban-swept-from-power-after-16-years-ruling-hungary?traffic_source=rss",
+      "published_date": "2026-04-13T04:41:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "World reacts to Peter Magyar defeating Viktor Orban, Hungary’s longtime PM",
       "source": "Al Jazeera",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Uganda oo Turkiga ka dalbatay $1 billion haddii kala Ciidanka kala baxayso Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uganda-oo-turkiga-ka-dalbatay-1-billion-haddii-kala-ciidanka-kala-baxayso-soomaaliya/",
-      "published_date": "2026-04-11T16:09:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia, Libya hold talks on migration and security, agree on repatriation of stranded migrants",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-libya-hold-talks-on-migration-and-security-agree-on-repatriation-of-stranded-migrants/",
-      "published_date": "2026-04-11T08:29:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Advancing Global Equity: The Urgent Need for UN Security  Council Reform to Empower Africa’s True Voice",
+      "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
       "source": "SONNA",
-      "url": "https://sonna.so/en/advancing-global-equity-the-urgent-need-for-un-security-council-reform-to-empower-africas-true-voice/",
-      "published_date": "2026-04-11T08:05:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/ghanaian-footballer-killed-after-armed-attackers-open-fire-at-team-bus/",
+      "published_date": "2026-04-13T11:52:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Djibouti’s President Guelleh wins sixth straight term in office",
+      "title": "Tear gas fired at Indian workers demanding higher wage as living costs rise",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
-      "published_date": "2026-04-11T06:26:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss",
+      "published_date": "2026-04-13T11:35:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy?traffic_source=rss",
+      "published_date": "2026-04-13T10:52:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How a UK military college sought to distance itself from ban on Israelis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/how-a-uk-military-college-sought-to-distance-itself-from-ban-on-israelis?traffic_source=rss",
+      "published_date": "2026-04-13T10:14:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Millions in war-ravaged Sudan surviving on one meal a day, say NGOs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/millions-in-war-ravaged-sudan-surviving-on-one-meal-a-day-say-ngos?traffic_source=rss",
+      "published_date": "2026-04-13T09:59:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali PM Marks 66th Anniversary of National Army, Hails Security Gains",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-marks-66th-anniversary-of-national-army-hails-security-gains/",
+      "published_date": "2026-04-13T09:46:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What Iran is saying about US plan to blockade ports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-iran-is-saying-about-us-plan-to-blockade-ports?traffic_source=rss",
+      "published_date": "2026-04-13T08:54:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ghanaian footballer Dominic Frimpong killed in armed attack on team bus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/13/ghanaian-footballer-dominic-frimpong-killed-in-armed-attack-on-team-bus?traffic_source=rss",
+      "published_date": "2026-04-13T08:30:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia appoints female army chief for the first time in history",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/australia-appoints-female-army-chief-for-the-first-time-in-history?traffic_source=rss",
+      "published_date": "2026-04-13T08:22:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 45 of the US-Iran conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-04-13T07:30:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo says he does not fear Trump after attack over Iran peace appeal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss",
+      "published_date": "2026-04-13T05:42:51+00:00",
+      "category": "Military"
     },
     {
       "title": "These are people Israel killed in Lebanon on a single day",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iranian authorities remain defiant, urge supporters to stay in streets",
+      "title": "US blockade of Iran would worsen global energy crisis, analysts say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in?traffic_source=rss",
-      "published_date": "2026-04-12T16:51:29+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/13/us-blockade-of-iran-would-worsen-global-energy-crisis-analysts-say?traffic_source=rss",
+      "published_date": "2026-04-13T09:52:16+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Seven ways America can win the ceasefire and end the war",
+      "title": "Why oil prices aren’t what you think – and what it means for global supply",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/12/seven-ways-america-can-win-the-ceasefire-and-end-the-war?traffic_source=rss",
-      "published_date": "2026-04-12T16:30:26+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/4/13/why-oil-prices-arent-what-you-think-and-what-it-means-for-global-supply?traffic_source=rss",
+      "published_date": "2026-04-13T08:14:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "President Hassan Sheikh Inaugurates New Military Logistics and Communications Headquarters",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-inaugurates-new-military-logistics-and-communications-headquarters/",
-      "published_date": "2026-04-12T15:56:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Blown to hell’: Trump orders Hormuz blockade after US-Iran peace talks end",
+      "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss",
-      "published_date": "2026-04-12T15:47:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/12/fifa-rejects-irans-request-to-relocate-world-cup-games-amid-us-israel-war?traffic_source=rss",
-      "published_date": "2026-04-12T15:17:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia defence minister congratulates troops on army’s 66th anniversary",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-defence-minister-congratulates-troops-on-armys-66th-anniversary/",
-      "published_date": "2026-04-12T14:01:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President Hassan Sheikh: Heroes of the Somali National Army Have Saved 20 Million Somalis",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-heroes-of-the-somali-national-army-have-saved-20-million-somalis/",
-      "published_date": "2026-04-12T09:45:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Marks 66th National Army Anniversary with Official Messages",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-marks-66th-national-army-anniversary-with-official-messages/",
-      "published_date": "2026-04-12T09:38:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President Hassan Lays Foundation for SNA Orphans Agency, Honoring Fallen Heroes on 66th Anniversary",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-lays-foundation-for-sna-orphans-agency-honoring-fallen-heroes-on-66th-anniversary/",
-      "published_date": "2026-04-12T08:25:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What happened in 40 days of war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-12T08:09:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss",
-      "published_date": "2026-04-12T08:07:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss",
+      "published_date": "2026-04-13T01:30:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "Video: Severe flooding closes schools in Saudi Arabia",
@@ -403,27 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Lavan refinery blaze continues hours after US-Iran ceasefire agreement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/lavan-refinery-blaze-continues-hours-after-us-iran-ceasefire-agreement?traffic_source=rss",
-      "published_date": "2026-04-08T14:18:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-08T01:29:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Can Africa tackle the oil shock from the Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss",
-      "published_date": "2026-04-07T11:13:09+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Polls close in Benin with finance minister expected to win election",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/12/polls-close-in-benin-with-finance-minister-expected-to-win-election?traffic_source=rss",
@@ -515,11 +515,46 @@
       "category": "Economy"
     },
     {
-      "title": "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
+      "title": "Israeli forces fire tear gas near Palestinian schoolchildren",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/cocktail-of-hindutva-and-welfarism-how-modis-bjp-is-wooing-assam-voters?traffic_source=rss",
-      "published_date": "2026-04-06T07:57:38+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israeli-forces-fire-tear-gas-near-palestinian-schoolchildren?traffic_source=rss",
+      "published_date": "2026-04-13T10:50:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banadir Administration Launches “SINNAAN” Project to Modernize Mogadishu Infrastructure",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/banadir-administration-launches-sinnaan-project-to-modernize-mogadishu-infrastructure/",
+      "published_date": "2026-04-13T10:25:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West Somalia Interim Leader Holds Security Meeting in Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-somalia-interim-leader-holds-security-meeting-in-baidoa/",
+      "published_date": "2026-04-13T09:48:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mogadishu Mayor Hosts Kenyan MP Farah Maalim in High-Level Reception",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/mogadishu-mayor-hosts-kenyan-mp-farah-maalim-in-high-level-reception/",
+      "published_date": "2026-04-13T08:53:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cuba sent doctors. Washington sent a destroyer.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/4/13/cuba-sent-doctors-washington-sent-a-destroyer?traffic_source=rss",
+      "published_date": "2026-04-13T08:38:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/13/refugee-in-my-own-city-surviving-tehrans-bombing-with-my-cat-for-company?traffic_source=rss",
+      "published_date": "2026-04-13T08:37:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
@@ -617,48 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss",
       "published_date": "2026-04-11T17:24:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru holds presidential election amid a decade of political tumult",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss",
-      "published_date": "2026-04-11T15:22:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Xasan Sheekh oo kulan la qaatay isimada Puntland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweyne-xasan-sheekh-oo-kulan-la-qaatay-isimada-puntland/",
-      "published_date": "2026-04-11T13:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Hosts Puntland Elders to Strengthen Cooperation and Stability",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-hosts-puntland-elders-to-strengthen-cooperation-and-stability/",
-      "published_date": "2026-04-11T12:12:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Xasan Sheekh oo kulan la qaatay isimo ka tirsan Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/11/madaxweyne-xasan-sheekh-oo-kulan-la-qaatay-isimo-ka-tirsan-puntland/",
-      "published_date": "2026-04-11T11:22:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali National University Delegation Meets Yangzhou University Leadership, Strengthens Academic Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-national-university-delegation-meets-yangzhou-university-leadership-strengthens-academic-cooperation/",
-      "published_date": "2026-04-11T09:53:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xasan Shire Abgaal oo lagu eedeeyay in uu suurad xumeeyay halgankii Calmiskaad",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/11/xasan-shire-abgaal-oo-lagu-eedeeyay-in-uu-suurad-xumeeyay-halgankii-calmiskaad/",
-      "published_date": "2026-04-11T07:40:43+00:00",
       "category": "Local Events"
     }
   ]
