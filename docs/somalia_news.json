@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-13T23:39:50.693583+00:00",
-  "story_count": 93,
+  "last_updated": "2026-04-14T12:02:05.223490+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Somalia and Azerbaijan Strengthen Bilateral Relations as New Ambassador Presents Credentials in Baku",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-and-azerbaijan-strengthen-bilateral-relations-as-new-ambassador-presents-credentials-in-baku/",
+      "published_date": "2026-04-14T11:58:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia President Meets Chinese Delegation to Boost Security, Trade Ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-president-meets-chinese-delegation-to-boost-security-trade-ties/",
+      "published_date": "2026-04-14T08:16:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China dismisses Vice Minister of Foreign Affairs Sun Weidong",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/china-dismisses-vice-minister-of-foreign-affairs-sun-weidong?traffic_source=rss",
+      "published_date": "2026-04-14T06:31:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
       "source": "Al Jazeera",
@@ -123,25 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hungary’s Viktor Orban concedes defeat in parliamentary elections",
+      "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/hungarys-viktor-orban-concedes-defeat-in-parliamentary-elections?traffic_source=rss",
-      "published_date": "2026-04-12T19:59:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions?traffic_source=rss",
+      "published_date": "2026-04-14T10:59:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz?traffic_source=rss",
-      "published_date": "2026-04-12T19:19:55+00:00",
-      "category": "Diplomacy"
+      "title": "SNA and Jubbaland Forces Inflict Heavy Losses on Al-Shabaab in Juba Regions Offensive",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/sna-and-jubbaland-forces-inflict-heavy-losses-on-al-shabaab-in-juba-regions-offensive/",
+      "published_date": "2026-04-14T10:46:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Attends Relaunch of CEN-SAD Headquarters in Tripoli",
+      "title": "Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
+      "published_date": "2026-04-14T10:16:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
+      "published_date": "2026-04-14T09:08:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Farmaajo oo sheegay in dalka uu galay marxad Halis ah",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-attends-relaunch-of-cen-sad-headquarters-in-tripoli/",
-      "published_date": "2026-04-12T08:00:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/farmaajo-oo-sheegay-in-dalka-uu-galay-marxad-halis-ah/",
+      "published_date": "2026-04-14T08:28:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestine weekly wrap: ‘Master of the house’ says Ben-Gvir as Al-Aqsa opens",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/palestine-weekly-wrap-master-of-the-house-says-ben-gvir-as-al-aqsa-opens?traffic_source=rss",
+      "published_date": "2026-04-14T08:12:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 46 of the US-Iran conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/iran-war-what-is-happening-on-day-46-of-the-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-04-14T06:58:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indonesia, US sign ‘major’ defence cooperation agreement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss",
+      "published_date": "2026-04-14T05:10:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three babies born into Sudan war every minute, charity warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss",
+      "published_date": "2026-04-14T04:52:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military kills two men in new strike on vessel in eastern Pacific",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/us-military-kills-two-men-in-new-strike-on-vessel-in-eastern-pacific?traffic_source=rss",
+      "published_date": "2026-04-14T02:47:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man charged with attempted murder after attack on OpenAI CEO Altman’s home",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/14/man-charged-with-attempted-murder-after-attack-on-openai-ceo-altmans-home?traffic_source=rss",
+      "published_date": "2026-04-14T02:27:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anti-war protesters arrested in New York urging end to Israel weapon sales",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss",
+      "published_date": "2026-04-14T02:13:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
@@ -179,6 +263,13 @@
       "category": "Military"
     },
     {
+      "title": "Somalia’s president says no region beyond army’s reach amid rising tensions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-president-says-no-region-beyond-armys-reach-amid-rising-tensions/",
+      "published_date": "2026-04-13T18:35:19+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Indian workers protest over rising living cost",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/indian-workers-protest-over-rising-living-cost?traffic_source=rss",
@@ -186,102 +277,18 @@
       "category": "Military"
     },
     {
-      "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/ghanaian-footballer-killed-after-armed-attackers-open-fire-at-team-bus/",
-      "published_date": "2026-04-13T11:52:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tear gas fired at Indian workers demanding higher wage as living costs rise",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss",
-      "published_date": "2026-04-13T11:35:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy?traffic_source=rss",
-      "published_date": "2026-04-13T10:52:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How a UK military college sought to distance itself from ban on Israelis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/how-a-uk-military-college-sought-to-distance-itself-from-ban-on-israelis?traffic_source=rss",
-      "published_date": "2026-04-13T10:14:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Millions in war-ravaged Sudan surviving on one meal a day, say NGOs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/millions-in-war-ravaged-sudan-surviving-on-one-meal-a-day-say-ngos?traffic_source=rss",
-      "published_date": "2026-04-13T09:59:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali PM Marks 66th Anniversary of National Army, Hails Security Gains",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pm-marks-66th-anniversary-of-national-army-hails-security-gains/",
-      "published_date": "2026-04-13T09:46:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What Iran is saying about US plan to blockade ports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-iran-is-saying-about-us-plan-to-blockade-ports?traffic_source=rss",
-      "published_date": "2026-04-13T08:54:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ghanaian footballer Dominic Frimpong killed in armed attack on team bus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/13/ghanaian-footballer-dominic-frimpong-killed-in-armed-attack-on-team-bus?traffic_source=rss",
-      "published_date": "2026-04-13T08:30:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia appoints female army chief for the first time in history",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/australia-appoints-female-army-chief-for-the-first-time-in-history?traffic_source=rss",
-      "published_date": "2026-04-13T08:22:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 45 of the US-Iran conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict?traffic_source=rss",
-      "published_date": "2026-04-13T07:30:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo says he does not fear Trump after attack over Iran peace appeal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss",
-      "published_date": "2026-04-13T05:42:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "These are people Israel killed in Lebanon on a single day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
-      "published_date": "2026-04-12T21:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could the Iran war pose lasting risks to global food security?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss",
-      "published_date": "2026-04-12T20:44:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkish fighter jets fly over Mogadishu for Somalia army anniversary",
+      "title": "Somalia’s president gives special thanks to Turkey for military support",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/turkish-fighter-jets-fly-over-mogadishu-for-somalia-army-anniversary/",
-      "published_date": "2026-04-12T20:36:16+00:00",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-president-gives-special-thanks-to-turkey-for-military-support/",
+      "published_date": "2026-04-13T12:48:39+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-04-14T05:47:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Waist-deep floodwaters force hundreds to evacuate Java, Indonesia",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Turkish Deep-Sea Drilling Vessel Çağrı Bey Arrives in Mogadishu, Launching Somalia’s Energy Exploration Era",
+      "title": "World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss",
+      "published_date": "2026-04-14T08:52:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Engages World Bank on Economic Priorities During Spring Meetings in Washington",
       "source": "SONNA",
-      "url": "https://sonna.so/en/turkish-deep-sea-drilling-vessel-cagri-bey-arrives-in-mogadishu-launching-somalias-energy-exploration-era/",
-      "published_date": "2026-04-09T07:00:17+00:00",
-      "category": "Energy"
+      "url": "https://sonna.so/en/somalia-engages-world-bank-on-economic-priorities-during-spring-meetings-in-washington/",
+      "published_date": "2026-04-14T08:30:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "New White House report has plans to fix US housing shortage of 10 million",
@@ -508,11 +522,39 @@
       "category": "Economy"
     },
     {
-      "title": "Iraq’s Chief Justice Discusses Practical Training for Law Students with American University Leadership",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/iraqs-chief-justice-discusses-practical-training-for-law-students-with-american-university-leadership/",
-      "published_date": "2026-04-07T09:58:34+00:00",
-      "category": "Economy"
+      "title": "Somalia parliament term ends with no elections planned, raising fears of political crisis",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-term-ends-with-no-elections-planned-raising-fears-of-political-crisis/",
+      "published_date": "2026-04-14T09:10:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Officials, Partners Discuss Women’s Role in State-Building",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-officials-partners-discuss-womens-role-in-state-building/",
+      "published_date": "2026-04-14T08:19:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cirro: Waxaan diyaar u nahay nabad dhexmarta Somaliland iyo Waqooyi Bari",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/14/cirro-waxaan-diyaar-u-nahay-nabad-dhexmarta-somaliland-iyo-waqooyi-bari/",
+      "published_date": "2026-04-14T08:16:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amar laga soo saaray Garowe iyo Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/14/amar-laga-soo-saaray-garowe-iyo-boosaaso/",
+      "published_date": "2026-04-14T06:50:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Super Typhoon Sinlaku bears down on Northern Mariana Islands, Guam",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/super-typhoon-sinlaku-bears-down-on-northern-mariana-islands-guam?traffic_source=rss",
+      "published_date": "2026-04-14T04:08:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
@@ -617,41 +659,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/voter-registration-for-one-person-one-vote-elections-launched-in-awdheegle/",
       "published_date": "2026-04-12T18:15:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Labour Strengthens Coordination to Accelerate Key Priorities",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/ministry-of-labour-strengthens-coordination-to-accelerate-key-priorities/",
-      "published_date": "2026-04-12T15:45:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali lower house speaker chairs standing committee meeting, new members sworn in",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-lower-house-speaker-chairs-standing-committee-meeting-new-members-sworn-in/",
-      "published_date": "2026-04-12T14:05:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security chiefs hold talks in Baidoa to boost cooperation with local authorities and media",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/security-chiefs-hold-talks-in-baidoa-to-boost-cooperation-with-local-authorities-and-media/",
-      "published_date": "2026-04-12T14:03:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speaker the Parliament Chairs Extraordinary Meeting of the Standing Committee",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/speaker-the-parliament-chairs-extraordinary-meeting-of-the-standing-committee/",
-      "published_date": "2026-04-12T11:17:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 500 people arrested at London rally for Palestine Action",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss",
-      "published_date": "2026-04-12T09:36:42+00:00",
       "category": "Local Events"
     }
   ]
