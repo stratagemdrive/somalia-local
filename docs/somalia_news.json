@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-14T23:39:52.605094+00:00",
+  "last_updated": "2026-04-15T11:59:31.152241+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "What you need to know about Israel’s ambassador to the US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-you-need-to-know-about-israels-ambassador-to-the-us?traffic_source=rss",
+      "published_date": "2026-04-15T10:10:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Makhzoumi Submits Somalia’s Child Rights Charter Ratification to African Union",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/al-makhzoumi-submits-somalias-child-rights-charter-ratification-to-african-union/",
+      "published_date": "2026-04-15T08:55:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia information minister meets UN official to discuss progress and cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-information-minister-meets-un-official-to-discuss-progress-and-cooperation/",
+      "published_date": "2026-04-15T08:30:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China’s Xi meets Russian FM Lavrov, calls relations with Moscow ‘precious’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/chinas-xi-meets-russian-fm-lavrov-calls-relations-with-moscow-precious?traffic_source=rss",
+      "published_date": "2026-04-15T06:37:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Africa appoints former apartheid-era negotiator as US ambassador",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/south-africa-appoints-former-apartheid-era-negotiator-as-us-ambassador?traffic_source=rss",
+      "published_date": "2026-04-15T04:26:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hundreds missing after Rohingya boat capsizes in Andaman Sea: UN",
       "source": "Al Jazeera",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Starmer announces talks to address the Strait of Hormuz crisis",
+      "title": "Italy suspends long-standing defence agreement with Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/starmer-announces-talks-to-address-the-strait-of-hormuz-crisis?traffic_source=rss",
-      "published_date": "2026-04-13T17:46:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/italy-suspends-long-standing-defence-agreement-with-israel?traffic_source=rss",
+      "published_date": "2026-04-15T10:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Livestock Minister presides over Director General handover ceremony",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/livestock-minister-presides-over-director-general-handover-ceremony/",
-      "published_date": "2026-04-13T16:26:21+00:00",
-      "category": "Diplomacy"
+      "title": "Palestinian leader Barghouti endures ‘violent’ assaults in Israeli prisons",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/palestinian-leader-barghouti-endures-violent-assaults-in-israeli-prisons?traffic_source=rss",
+      "published_date": "2026-04-15T08:42:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "President Hassan discusses strengthening relations with Chinese Special Envoy",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-discusses-strengthening-relations-with-chinese-special-envoy/",
-      "published_date": "2026-04-13T15:11:05+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war: What is happening on day 47 of the US-Iran conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/iran-war-what-is-happening-on-day-47-of-the-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-04-15T07:41:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia and China Strengthen Strategic Cooperation on Maritime Resources and Security",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-china-strengthen-strategic-cooperation-on-maritime-resources-and-security/",
-      "published_date": "2026-04-13T14:12:48+00:00",
-      "category": "Diplomacy"
+      "title": "Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-15T07:05:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Cabinet Appoints New Immigration Chief, Approves General Pardon Decree",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-cabinet-appoints-new-immigration-chief-approves-general-pardon-decree/",
-      "published_date": "2026-04-13T14:08:02+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says $270bn war loss must be compensated, as fresh talks with US loom",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/iran-says-270bn-war-loss-must-be-compensated-as-fresh-talks-with-us-loom?traffic_source=rss",
+      "published_date": "2026-04-15T06:28:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military says blockade of Iran ports ‘completely’ halts economic trade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss",
+      "published_date": "2026-04-15T05:17:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US forces kill 4 people in latest strike on vessels in eastern Pacific",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/us-forces-kill-4-people-in-latest-strike-on-vessels-in-eastern-pacific?traffic_source=rss",
+      "published_date": "2026-04-15T02:54:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
@@ -232,55 +281,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/farmaajo-oo-sheegay-in-dalka-uu-galay-marxad-halis-ah/",
       "published_date": "2026-04-14T08:28:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestine weekly wrap: ‘Master of the house’ says Ben-Gvir as Al-Aqsa opens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/palestine-weekly-wrap-master-of-the-house-says-ben-gvir-as-al-aqsa-opens?traffic_source=rss",
-      "published_date": "2026-04-14T08:12:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 46 of the US-Iran conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/iran-war-what-is-happening-on-day-46-of-the-us-iran-conflict?traffic_source=rss",
-      "published_date": "2026-04-14T06:58:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesia, US sign ‘major’ defence cooperation agreement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss",
-      "published_date": "2026-04-14T05:10:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three babies born into Sudan war every minute, charity warns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss",
-      "published_date": "2026-04-14T04:52:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military kills two men in new strike on vessel in eastern Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/us-military-kills-two-men-in-new-strike-on-vessel-in-eastern-pacific?traffic_source=rss",
-      "published_date": "2026-04-14T02:47:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man charged with attempted murder after attack on OpenAI CEO Altman’s home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/14/man-charged-with-attempted-murder-after-attack-on-openai-ceo-altmans-home?traffic_source=rss",
-      "published_date": "2026-04-14T02:27:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anti-war protesters arrested in New York urging end to Israel weapon sales",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss",
-      "published_date": "2026-04-14T02:13:16+00:00",
       "category": "Military"
     },
     {
@@ -529,6 +529,76 @@
       "category": "Economy"
     },
     {
+      "title": "Gaas: Dowlad goboleedyada waxay noqdeen ‘maxmiyado’",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/15/gaas-dowlad-goboleedyada-waxay-noqdeen-maxmiyado/",
+      "published_date": "2026-04-15T11:05:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ciidamada Puntland oo Howlgallo Ka Dhan ah Daacish Ka Fuliyay Gobolka Bari",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-puntland-oo-howlgallo-ka-dhan-ah-daacish-ka-fuliyay-gobolka-bari/",
+      "published_date": "2026-04-15T10:02:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali officials brief diplomats as political uncertainty grows over elections",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-officials-brief-diplomats-as-political-uncertainty-grows-over-elections/",
+      "published_date": "2026-04-15T08:32:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali PM hosts Puntland elders for talks on stability and cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-hosts-puntland-elders-for-talks-on-stability-and-cooperation/",
+      "published_date": "2026-04-15T08:28:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia faces “constitutional vacuum” as parliament mandate expires, ex-PM warns",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-faces-constitutional-vacuum-as-parliament-mandate-expires-ex-pm-warns/",
+      "published_date": "2026-04-15T08:21:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Food is unifying’: How Lebanon’s migrants are feeding the war-displaced",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/15/food-is-unifying-how-lebanons-migrants-are-feeding-the-war-displaced?traffic_source=rss",
+      "published_date": "2026-04-15T08:21:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Families across Sudan endure years of displacement, hunger, loss",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss",
+      "published_date": "2026-04-15T08:02:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamsa oo hoygiisa ku qaabilay Isimada Puntland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-hoygiisa-ku-qaabilay-isimada-puntland/",
+      "published_date": "2026-04-15T05:41:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Candidate calls for new election in Peru, claiming fraud without evidence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss",
+      "published_date": "2026-04-15T05:24:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamse oo la kulmay qaar ka mid ah isimada Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/15/raiisul-wasaare-xamse-oo-la-kulmay-qaar-ka-mid-ah-isimada-puntland/",
+      "published_date": "2026-04-15T00:25:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Askar ku dhimatay is-rasaaseyn ka dhacday Gaalkacyo",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/15/askar-ku-dhimatay-is-rasaaseyn-ka-dhacday-gaalkacyo/",
@@ -596,76 +666,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/former-president-warns-somalia-entering-dangerous-phase-amid-electoral-uncertainty/",
       "published_date": "2026-04-14T11:26:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Enters Political Uncertainty as Parliament Term Expires",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-enters-political-uncertainty-as-parliament-term-expires/",
-      "published_date": "2026-04-14T11:24:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament term ends with no elections planned, raising fears of political crisis",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-term-ends-with-no-elections-planned-raising-fears-of-political-crisis/",
-      "published_date": "2026-04-14T09:10:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Officials, Partners Discuss Women’s Role in State-Building",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-officials-partners-discuss-womens-role-in-state-building/",
-      "published_date": "2026-04-14T08:19:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cirro: Waxaan diyaar u nahay nabad dhexmarta Somaliland iyo Waqooyi Bari",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/14/cirro-waxaan-diyaar-u-nahay-nabad-dhexmarta-somaliland-iyo-waqooyi-bari/",
-      "published_date": "2026-04-14T08:16:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amar laga soo saaray Garowe iyo Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/14/amar-laga-soo-saaray-garowe-iyo-boosaaso/",
-      "published_date": "2026-04-14T06:50:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Super Typhoon Sinlaku bears down on Northern Mariana Islands, Guam",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/super-typhoon-sinlaku-bears-down-on-northern-mariana-islands-guam?traffic_source=rss",
-      "published_date": "2026-04-14T04:08:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss",
-      "published_date": "2026-04-13T21:35:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government candidate Wadagni on course to win Benin presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss",
-      "published_date": "2026-04-13T21:34:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry’s Director General Highlights Vital Role of Somali Women in State-Building and Development",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/interior-ministrys-director-general-highlights-vital-role-of-somali-women-in-state-building-and-development/",
-      "published_date": "2026-04-13T18:59:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo soo qabatay qaar ka mid ah xoolo ay dhacday Daacish",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/13/puntland-oo-soo-qabatay-qaar-ka-mid-ah-xoolo-ay-dhacday-daacish/",
-      "published_date": "2026-04-13T12:35:10+00:00",
       "category": "Local Events"
     }
   ]
