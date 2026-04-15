@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-15T11:59:31.152241+00:00",
+  "last_updated": "2026-04-15T23:39:16.952333+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "Could the EU’s alliance with Israel soon change?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss",
+      "published_date": "2026-04-15T21:09:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel appoints first ambassador to Somaliland",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
+      "published_date": "2026-04-15T21:05:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary’s Magyar urges president to quit, vows to overhaul state media",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/hungarys-magyar-urges-president-to-quit-vows-to-overhaul-state-media?traffic_source=rss",
+      "published_date": "2026-04-15T19:56:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Countries pledge $1.5bn for Sudan crisis as war enters fourth year",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/countries-pledge-1-5bn-for-sudan-crisis-as-war-enters-fourth-year?traffic_source=rss",
+      "published_date": "2026-04-15T17:57:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN experts urge member states to suspend Israel arms transfers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/un-experts-urge-member-states-to-suspend-israel-arms-transfers?traffic_source=rss",
+      "published_date": "2026-04-15T17:07:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu sees Lebanon as his last chance for a ‘win’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/4/15/netanyahu-sees-lebanon-as-his-last-chance-for-a?traffic_source=rss",
+      "published_date": "2026-04-15T16:38:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, U.S. Deepen Partnership on Media Reform, Counterterrorism Awareness, and Tourism",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-u-s-deepen-partnership-on-media-reform-counterterrorism-awareness-and-tourism/",
+      "published_date": "2026-04-15T15:13:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What you need to know about Israel’s ambassador to the US",
       "source": "Al Jazeera",
@@ -95,53 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia and Azerbaijan Strengthen Bilateral Relations as New Ambassador Presents Credentials in Baku",
+      "title": "Israel bombs homes in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-15T22:53:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Brazil’s police open a probe into presidential candidate Flavio Bolsonaro",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss",
+      "published_date": "2026-04-15T21:45:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guterres urges end to arms flow as Sudan war enters fourth year",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/guterres-urges-end-to-arms-flow-as-sudan-war-enters-fourth?traffic_source=rss",
+      "published_date": "2026-04-15T19:56:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Senate rejects another war powers resolution to limit Trump on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/us-senate-rejects-another-war-powers-resolution-to-limit-trump-on-iran?traffic_source=rss",
+      "published_date": "2026-04-15T19:53:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistani army chief in Tehran amid bid to restart US talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/pakistani-army-chief-in-tehran-amid-bid-to-restart-us-talks?traffic_source=rss",
+      "published_date": "2026-04-15T19:29:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan army chief in Tehran to advance next round of US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/pakistan-army-chief-in-tehran-to-advance-next-round-of-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-04-15T19:27:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo visits Cameroon with message of peace amid attacks from Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/pope-leo-visits-cameroon-with-message-of-peace-amid-attacks-from-trump?traffic_source=rss",
+      "published_date": "2026-04-15T18:57:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why has Italy’s Giorgia Meloni suspended a defence pact with Israel?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/why-has-italys-giorgia-meloni-suspended-a-defence-pact-with-israel?traffic_source=rss",
+      "published_date": "2026-04-15T16:10:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Airstrikes Kill 54 Al-Shabaab Militants Across Four Regions",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-and-azerbaijan-strengthen-bilateral-relations-as-new-ambassador-presents-credentials-in-baku/",
-      "published_date": "2026-04-14T11:58:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/airstrikes-kill-54-al-shabaab-militants-across-four-regions/",
+      "published_date": "2026-04-15T13:29:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia President Meets Chinese Delegation to Boost Security, Trade Ties",
+      "title": "Duqeymo ka dhacay dhowr gobol oo katirsan Soomaaliya",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-president-meets-chinese-delegation-to-boost-security-trade-ties/",
-      "published_date": "2026-04-14T08:16:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China dismisses Vice Minister of Foreign Affairs Sun Weidong",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/china-dismisses-vice-minister-of-foreign-affairs-sun-weidong?traffic_source=rss",
-      "published_date": "2026-04-14T06:31:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-04-13T22:33:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN experts slam attacks on Gaza shelters, forced displacement in West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/un-experts-slam-attacks-on-gaza-shelters-forced-displacement-in-west-bank?traffic_source=rss",
-      "published_date": "2026-04-13T22:04:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What’s behind Viktor Orban’s defeat in Hungary’s election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/13/whats-behind-viktor-orbans-defeat?traffic_source=rss",
-      "published_date": "2026-04-13T21:58:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is Magyar’s election win the end of the EU’s troubles with Hungary?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary?traffic_source=rss",
-      "published_date": "2026-04-13T19:13:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/duqeymo-ka-dhacay-dhowr-gobol-oo-katirsan-soomaaliya/",
+      "published_date": "2026-04-15T12:38:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Italy suspends long-standing defence agreement with Israel",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israeli strike on Gaza police car kills child",
+      "title": "Could the US oil blockade snuff out the Cuban cigar?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-strike-on-gaza-police-car-kills-child?traffic_source=rss",
-      "published_date": "2026-04-14T19:16:19+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss",
+      "published_date": "2026-04-15T20:08:28+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Drones, Iran war escalating horror as Sudan war enters fourth year",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss",
-      "published_date": "2026-04-14T18:27:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xisbiga Himilo Qaran oo Ka Digay Dhammaadka Muddo-xileedka Hay’adaha Dastuuriga ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xisbiga-himilo-qaran-oo-ka-digay-dhammaadka-muddo-xileedka-hayadaha-dastuuriga-ah/",
-      "published_date": "2026-04-14T13:25:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army, Jubaland Forces Launch Major Operations in Jubba Regions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-jubaland-forces-launch-major-operations-in-jubba-regions/",
-      "published_date": "2026-04-14T11:19:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kumaandooska Danab iyo Ciidanka Jubaland oo howlgal ka fuliyay Jubbooyinka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kumaandooska-danab-iyo-ciidanka-jubaland-oo-howlgal-ka-fuliyay-jubbooyinka/",
-      "published_date": "2026-04-14T11:17:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions?traffic_source=rss",
-      "published_date": "2026-04-14T10:59:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SNA and Jubbaland Forces Inflict Heavy Losses on Al-Shabaab in Juba Regions Offensive",
+      "title": "Information Minister, Daud Aweis Jama Joins Tree-Planting Campaign in Mogadishu",
       "source": "SONNA",
-      "url": "https://sonna.so/en/sna-and-jubbaland-forces-inflict-heavy-losses-on-al-shabaab-in-juba-regions-offensive/",
-      "published_date": "2026-04-14T10:46:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
-      "published_date": "2026-04-14T10:16:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
-      "published_date": "2026-04-14T09:08:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Farmaajo oo sheegay in dalka uu galay marxad Halis ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/farmaajo-oo-sheegay-in-dalka-uu-galay-marxad-halis-ah/",
-      "published_date": "2026-04-14T08:28:54+00:00",
-      "category": "Military"
+      "url": "https://sonna.so/en/information-minister-daud-aweis-jama-joins-tree-planting-campaign-in-mogadishu/",
+      "published_date": "2026-04-15T12:01:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "How US blockade on Iran will worsen energy crisis",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia says operational activities halted at several energy sites",
+      "title": "Trump threatens to fire Fed Chair Powell if he doesn’t step down by May 15",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/saudi-arabia-says-operational-activities-halted-at-several-energy-sites?traffic_source=rss",
-      "published_date": "2026-04-09T20:09:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Turkish drillship docks in Mogadishu for Somalia’s first offshore oil well",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/turkish-drillship-docks-in-mogadishu-for-somalias-first-offshore-oil-well/",
-      "published_date": "2026-04-09T14:47:04+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss",
+      "published_date": "2026-04-15T15:44:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Aid groups bidding to boost relief shipments into Iran",
@@ -522,11 +529,46 @@
       "category": "Economy"
     },
     {
-      "title": "Mumbai’s historic dock quietens as fuel crisis chokes fishing trade",
+      "title": "Israa’iil oo safiir u magacowday Somaliland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/16/israaiil-oo-safiir-u-magacowday-somaliland/",
+      "published_date": "2026-04-15T23:08:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru’s ballot count drags on amid frustration with presidential election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/8/mumbais-historic-dock-quietens-as-fuel-crisis-chokes-fishing-trade?traffic_source=rss",
-      "published_date": "2026-04-08T12:29:43+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/4/15/perus-ballot-count-drags-on-amid-frustration-with-presidential-election?traffic_source=rss",
+      "published_date": "2026-04-15T23:06:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is Trump-backed SAVE America Act and what could it mean for US vote?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/what-is-trump-backed-save-america-act-and-what-could-it-mean-for-us-vote?traffic_source=rss",
+      "published_date": "2026-04-15T18:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s High Court hears petitions to oust Ben-Gvir",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israels-high-court-hears-petitions-to-oust-ben-gvir?traffic_source=rss",
+      "published_date": "2026-04-15T16:46:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali army, allies conduct airstrikes against al-Shabab in several regions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-allies-conduct-airstrikes-against-al-shabab-in-several-regions/",
+      "published_date": "2026-04-15T12:39:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland launches operations against Islamic State fighters in Somalia’s Bari region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-launches-operations-against-islamic-state-fighters-in-somalias-bari-region/",
+      "published_date": "2026-04-15T12:24:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gaas: Dowlad goboleedyada waxay noqdeen ‘maxmiyado’",
@@ -624,48 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/spains-bangladeshi-community-cheers-migrant-amnesty-programme?traffic_source=rss",
       "published_date": "2026-04-14T20:32:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court blocks contempt case over Trump deportation flights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/us-appeals-court-blocks-contempt-case-over-trump-deportation-flights?traffic_source=rss",
-      "published_date": "2026-04-14T20:21:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carney vows focus on affordability after winning Canada’s special election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/carney-vows-focus-on-affordability-after-winning-canadas-special-election?traffic_source=rss",
-      "published_date": "2026-04-14T18:16:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Officials Brief International Diplomats on National Progress and State-Building Efforts",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-officials-brief-international-diplomats-on-national-progress-and-state-building-efforts/",
-      "published_date": "2026-04-14T16:10:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxtooyada Puntland oo amar cusub soo saartay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/14/madaxtooyada-puntland-oo-amar-cusub-soo-saartay/",
-      "published_date": "2026-04-14T14:52:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN Delegation Visits Baidoa for Talks with SouthWest State Leader",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-delegation-visits-baidoa-for-talks-with-southwest-state-leader/",
-      "published_date": "2026-04-14T11:58:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former President Warns Somalia Entering “Dangerous Phase” Amid Electoral Uncertainty",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-president-warns-somalia-entering-dangerous-phase-amid-electoral-uncertainty/",
-      "published_date": "2026-04-14T11:26:06+00:00",
       "category": "Local Events"
     }
   ]
