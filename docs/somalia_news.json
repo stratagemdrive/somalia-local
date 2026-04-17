@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-17T11:56:27.031321+00:00",
-  "story_count": 95,
+  "last_updated": "2026-04-17T23:36:44.735595+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Record number of Rohingya refugees died at sea last year, UNHCR says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/17/record-number-of-rohingya-refugees-died-at-sea-last-year-unhcr-says?traffic_source=rss",
+      "published_date": "2026-04-17T15:50:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "National Independent Electoral Commission Initiates Voter Registration in Qansaxdheere, Bay Region",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-independent-electoral-commission-initiates-voter-registration-in-qansaxdheere-bay-region/",
+      "published_date": "2026-04-17T12:46:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan’s Prime Minister: This is the path out of the horrors of war",
       "source": "Al Jazeera",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel Designates Its First Ambassador to Somaliland, Triggering Diplomatic Festivities in Hargeisa",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/israel-designates-its-first-ambassador-to-somaliland-triggering-diplomatic-festivities-in-hargeisa/",
-      "published_date": "2026-04-16T05:12:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Could the EU’s alliance with Israel soon change?",
+      "title": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss",
-      "published_date": "2026-04-15T21:09:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-04-17T19:10:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli attacks kill several over two days in Gaza despite ‘ceasefire’",
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "SNA Gorgor Commandos Execute Emergency Humanitarian and Medical Relief Operations in Bay Region",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sna-gorgor-commandos-execute-emergency-humanitarian-and-medical-relief-operations-in-bay-region/",
-      "published_date": "2026-04-16T14:55:24+00:00",
-      "category": "Military"
+      "title": "Inside Kharg Island, Iran’s oil lifeline under threat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/17/aje-onl-tt_irn_kharg_av_v3-170426?traffic_source=rss",
+      "published_date": "2026-04-17T18:07:58+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Ukraine’s long-range strikes prompt new Russian threat against Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/17/ukraines-long-range-strikes-prompt-new-russian-threat-against-europe?traffic_source=rss",
+      "published_date": "2026-04-17T15:46:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Somali senator labels Turkey ‘resources pirate’, says public will not forget ‘deception’",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Musician performs inside melting glacier to highlight climate crisis",
+      "title": "UN warns South Sudan at risk of ‘full-scale famine’ as fighting intensifies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/musician-performs-inside-melting-glacier-to-highlight-climate-crisis?traffic_source=rss",
-      "published_date": "2026-04-12T05:01:41+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/4/17/un-warns-south-sudan-at-risk-of-full-scale-famine-as-fighting-intensifies?traffic_source=rss",
+      "published_date": "2026-04-17T19:59:26+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-12T05:00:33+00:00",
-      "category": "Energy"
+      "title": "Somali Finance Minister Outlines Domestic Revenue and Investment Strategy at World Bank Plenary in Washington",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-finance-minister-outlines-domestic-revenue-and-investment-strategy-at-world-bank-plenary-in-washington/",
+      "published_date": "2026-04-17T12:52:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia Finance Minister Urges Revenue Reforms at World Bank Meeting",
@@ -522,11 +536,53 @@
       "category": "Economy"
     },
     {
-      "title": "Colombia responds to Ecuador’s tariff hike with 100-percent import tax",
+      "title": "Pressure mounts on Peru’s election authorities amid presidential race delay",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/colombia-responds-to-ecuadors-tariff-hike-with-100-percent-import-tax?traffic_source=rss",
-      "published_date": "2026-04-10T23:36:40+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay?traffic_source=rss",
+      "published_date": "2026-04-17T22:47:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US judge blocks Justice Department bid to seize voter data in Rhode Island",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/17/us-judge-blocks-justice-department-bid-to-seize-voter-data-in-rhode-island?traffic_source=rss",
+      "published_date": "2026-04-17T22:07:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Displaced family reunited with grandfather in Lebanon’s Tyre",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/displaced-family-reunited-with-grandfather-in-lebanons-tyre?traffic_source=rss",
+      "published_date": "2026-04-17T20:10:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scholar Rumeysa Ozturk returns to Turkiye following Trump deportation push",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/17/scholar-rumeysa-ozturk-returns-to-turkiye-following-trump-deportation-push?traffic_source=rss",
+      "published_date": "2026-04-17T18:50:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What has Trump said before possible US-Iran talks and what could it mean?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/17/what-has-trump-said-ahead-of-possible-us-iran-talks-and-what-could-it-mean?traffic_source=rss",
+      "published_date": "2026-04-17T18:24:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Southern Lebanon’s only functioning hospital damaged by Israeli strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/southern-lebanons-only-functioning-hospital-damaged-by-israeli-strikes?traffic_source=rss",
+      "published_date": "2026-04-17T15:48:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NIEC Expands Democratic Infrastructure with Voter Registration Launch in Hobyo",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/niec-expands-democratic-infrastructure-with-voter-registration-launch-in-hobyo/",
+      "published_date": "2026-04-17T13:00:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Canada T20 World Cup game in India under ICC scrutiny amid corruption claim",
@@ -617,55 +673,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal?traffic_source=rss",
       "published_date": "2026-04-16T07:51:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Rejects Israeli Move Undermining Its Sovereignty and Territorial Integrity",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-rejects-israeli-move-undermining-its-sovereignty-and-territorial-integrity/",
-      "published_date": "2026-04-16T06:16:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Curry scores 35 as Warriors upset Clippers to extend playoff run",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/16/warriors-upset-clippers-in-nba-west-play-in-extend-playoff-run?traffic_source=rss",
-      "published_date": "2026-04-16T05:59:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israa’iil oo Markii ugu Horreysay Danjire u Magacawday Somaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/israaiil-oo-markii-ugu-horreysay-danjire-u-magacawday-somaliland/",
-      "published_date": "2026-04-16T05:50:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soomaaliya oo cambaaraysay Israa’iil",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/16/soomaaliya-oo-cambaaraysay-israaiil/",
-      "published_date": "2026-04-15T23:30:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israa’iil oo safiir u magacowday Somaliland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/16/israaiil-oo-safiir-u-magacowday-somaliland/",
-      "published_date": "2026-04-15T23:08:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru’s ballot count drags on amid frustration with presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/15/perus-ballot-count-drags-on-amid-frustration-with-presidential-election?traffic_source=rss",
-      "published_date": "2026-04-15T23:06:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is Trump-backed SAVE America Act and what could it mean for US vote?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/15/what-is-trump-backed-save-america-act-and-what-could-it-mean-for-us-vote?traffic_source=rss",
-      "published_date": "2026-04-15T18:29:00+00:00",
       "category": "Local Events"
     }
   ]
