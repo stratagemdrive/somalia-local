@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-16T23:37:46.635627+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-17T11:56:27.031321+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Sudan’s Prime Minister: This is the path out of the horrors of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/4/17/sudans-prime-minister-this-is-the-path-out-of-the-horrors-of-war?traffic_source=rss",
+      "published_date": "2026-04-17T06:58:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World Athletics blocks 11 athlete transfer requests to Turkiye",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/17/world-athletics-deliver-nationality-switch-hammer-blow-to-turkiye?traffic_source=rss",
+      "published_date": "2026-04-17T06:42:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministry of Youth and Sports Executes Strategic Coordination Summit Ahead of National Youth Day",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ministry-of-youth-and-sports-executes-strategic-coordination-summit-ahead-of-national-youth-day/",
+      "published_date": "2026-04-17T05:58:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Erdogan, Hassan Sheikh meet in Istanbul to bolster Turkey-Somalia ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/erdogan-hassan-sheikh-meet-in-istanbul-to-bolster-turkey-somalia-ties/",
+      "published_date": "2026-04-17T04:50:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar hosts talks aimed at putting Iran peace process back on track",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel appoints first ambassador to Somaliland",
+      "title": "Israeli attacks kill several over two days in Gaza despite ‘ceasefire’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
-      "published_date": "2026-04-15T21:05:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/17/israeli-attacks-kill-several-over-two-days-in-gaza-despite-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-17T11:11:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary’s Magyar urges president to quit, vows to overhaul state media",
+      "title": "Rapper d4vd arrested on suspicion of murdering 14-year-old girl",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/15/hungarys-magyar-urges-president-to-quit-vows-to-overhaul-state-media?traffic_source=rss",
-      "published_date": "2026-04-15T19:56:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/17/rapper-d4vd-arrested-on-suspicion-of-murdering-14-year-old-girl?traffic_source=rss",
+      "published_date": "2026-04-17T08:23:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Countries pledge $1.5bn for Sudan crisis as war enters fourth year",
+      "title": "Iran war’s big winners: Wall Street, weapons firms, AI and green energy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/15/countries-pledge-1-5bn-for-sudan-crisis-as-war-enters-fourth-year?traffic_source=rss",
-      "published_date": "2026-04-15T17:57:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy?traffic_source=rss",
+      "published_date": "2026-04-17T07:42:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN experts urge member states to suspend Israel arms transfers",
+      "title": "Burkina Faso dissolves more than 100 NGOs and civil society groups",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/15/un-experts-urge-member-states-to-suspend-israel-arms-transfers?traffic_source=rss",
-      "published_date": "2026-04-15T17:07:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/17/burkina-faso-dissolves-more-than-100-ngos-and-civil-society-groups?traffic_source=rss",
+      "published_date": "2026-04-17T06:38:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 49 of the US-Iran conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/17/iran-war-day-49?traffic_source=rss",
+      "published_date": "2026-04-17T06:23:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Vengeance for all’: How Iran’s Lego videos won narrative war against Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/17/vengeance-for-all-how-irans-lego-videos-won-narrative-war-against-trump?traffic_source=rss",
+      "published_date": "2026-04-17T05:43:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why are anti-war protests in the West muted on Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/17/why-are-anti-war-protests-in-the-west-muted-on-iran?traffic_source=rss",
+      "published_date": "2026-04-17T05:40:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump calls war on Iran a ‘little diversion’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/trump-calls-war-on-iran-a-little?traffic_source=rss",
+      "published_date": "2026-04-17T05:03:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australian ex-soldier Roberts-Smith granted bail in Afghan war crimes case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/17/australian-ex-soldier-roberts-smith-granted-bail-in-afghan-war-crimes-case?traffic_source=rss",
+      "published_date": "2026-04-17T04:56:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ceasefire in Lebanon ‘as important’ as in Iran, says Ghalibaf",
+      "title": "Somali senator labels Turkey ‘resources pirate’, says public will not forget ‘deception’",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-senator-labels-turkey-resources-pirate-says-public-will-not-forget-deception/",
+      "published_date": "2026-04-17T10:45:53+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Australia scrambles to secure energy as war on Iran fuels uncertainty",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/ceasefire-in-lebanon-as-important-as-in-iran-says-ghalibaf?traffic_source=rss",
-      "published_date": "2026-04-16T11:44:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army says soldiers accused of abusing Palestinian to return to duty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/israeli-army-says-soldiers-accused-of-abusing-palestinian-to-return-to-duty?traffic_source=rss",
-      "published_date": "2026-04-16T11:17:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Sent to be killed’: How Russia forces migrants to fight in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/16/sent-to-be-killed-how-russia-forces-migrants-to-fight-in-ukraine?traffic_source=rss",
-      "published_date": "2026-04-16T10:45:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Forced to drop out: Yemen’s children trade school for survival",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/16/forced-to-drop-out-yemens-children-trade-school-for-survival?traffic_source=rss",
-      "published_date": "2026-04-16T10:36:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air attack destroys buildings around south Lebanon hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-air-attack-destroys-buildings-around-south-lebanon-hospital?traffic_source=rss",
-      "published_date": "2026-04-16T08:55:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fire at key Australian refinery deepens fuel risks amid Iran war shortages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/fire-at-key-australian-refinery-deepens-fuel-risks-amid-iran-war-shortages?traffic_source=rss",
-      "published_date": "2026-04-16T08:04:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SNA Land Forces Commander Directs Frontline Security Assessment in Liberated Lower Shabelle Territories",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sna-land-forces-commander-directs-frontline-security-assessment-in-liberated-lower-shabelle-territories/",
-      "published_date": "2026-04-16T07:12:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SNA Executes Sustained Humanitarian Water Relief Operations in Lower Shabelle Following Khawaarij Sabotage",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sna-executes-sustained-humanitarian-water-relief-operations-in-lower-shabelle-following-khawaarij-sabotage/",
-      "published_date": "2026-04-16T07:03:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why many Kashmiris are donating gold, breaking piggy banks for Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/why-many-kashmiris-are-donating-gold-breaking-piggy-banks-for-iran?traffic_source=rss",
-      "published_date": "2026-04-16T06:56:55+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/4/17/australia-scrambles-to-secure-energy-as-war-on-iran-fuels-uncertainty?traffic_source=rss",
+      "published_date": "2026-04-17T10:09:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuban president defiant amid US pressure and energy blockade threats",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Somalia welcomes Turkish drillship for first major offshore oil project",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-welcomes-turkish-drillship-for-first-major-offshore-oil-project/",
-      "published_date": "2026-04-11T08:40:26+00:00",
-      "category": "Energy"
+      "title": "Somalia Finance Minister Urges Revenue Reforms at World Bank Meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-finance-minister-urges-revenue-reforms-at-world-bank-meeting/",
+      "published_date": "2026-04-17T07:45:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Artemis II marks historic lunar return with Pacific splashdown success",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
-      "published_date": "2026-04-11T07:23:43+00:00",
-      "category": "Energy"
+      "title": "Wasiirka Maaliyadda Soomaaliya Oo Khudbad Ka Jeediyay Shir Muhiim Ah Oo Bangiga Adduunka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirka-maaliyadda-soomaaliya-oo-khudbad-ka-jeediyay-shir-muhiim-ah-oo-bangiga-adduunka/",
+      "published_date": "2026-04-17T07:00:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Afghan villagers turn to gold-panning to sustain livelihoods",
@@ -515,11 +529,11 @@
       "category": "Economy"
     },
     {
-      "title": "Will Israel and Lebanon start ceasefire talks?",
+      "title": "Canada T20 World Cup game in India under ICC scrutiny amid corruption claim",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss",
-      "published_date": "2026-04-10T10:34:34+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/4/17/canada-t20-world-cup-game-under-icc-scrutiny-after-corruption-claim?traffic_source=rss",
+      "published_date": "2026-04-17T10:18:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel and Lebanon’s 10-day ceasefire goes into effect",
@@ -652,13 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/15/what-is-trump-backed-save-america-act-and-what-could-it-mean-for-us-vote?traffic_source=rss",
       "published_date": "2026-04-15T18:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s High Court hears petitions to oust Ben-Gvir",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israels-high-court-hears-petitions-to-oust-ben-gvir?traffic_source=rss",
-      "published_date": "2026-04-15T16:46:47+00:00",
       "category": "Local Events"
     }
   ]
