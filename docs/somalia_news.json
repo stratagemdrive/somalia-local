@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-17T23:36:44.735595+00:00",
-  "story_count": 96,
+  "last_updated": "2026-04-18T11:40:26.689079+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Somalia threatens Bab el-Mandeb action after Israel appoints envoy to Somaliland",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-threatens-bab-el-mandeb-action-after-israel-appoints-envoy-to-somaliland/",
+      "published_date": "2026-04-18T08:48:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt pledges continued support for Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/egypt-pledges-continued-support-for-somalia/",
+      "published_date": "2026-04-18T08:22:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yemen’s Ministry of Foreign Affairs warns Israeli enemy entity against continuing its schemes in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/yemens-ministry-of-foreign-affairs-warns-israeli-enemy-entity-against-continuing-its-schemes-in-somalia/",
+      "published_date": "2026-04-18T07:37:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran foreign minister says Strait of Hormuz ‘completely open’",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/iran-foreign-minister-says-strait-of-hormuz-completely-open/",
+      "published_date": "2026-04-18T07:34:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia President Highlights Diplomacy at Antalya Forum",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-president-highlights-diplomacy-at-antalya-forum/",
+      "published_date": "2026-04-18T06:52:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Record number of Rohingya refugees died at sea last year, UNHCR says",
       "source": "Al Jazeera",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Federal Government Validates 2026-2030 National Anti-Corruption Strategy to Enforce Institutional Integrity",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/federal-government-validates-2026-2030-national-anti-corruption-strategy-to-enforce-institutional-integrity/",
-      "published_date": "2026-04-16T11:42:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is Iran’s economy buckling under war pressure or holding up?",
+      "title": "Hormuz: Spin in the Strait",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/16/is-irans-economy-buckling-under-war-pressure-or-holding-up?traffic_source=rss",
-      "published_date": "2026-04-16T10:19:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/18/hormuz-spin-in-the-strait?traffic_source=rss",
+      "published_date": "2026-04-18T10:48:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Condemns Israeli Move to Appoint Diplomatic Envoy to Northern Regions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-israeli-move-to-appoint-diplomatic-envoy-to-northern-regions/",
-      "published_date": "2026-04-16T09:51:20+00:00",
-      "category": "Diplomacy"
+      "title": "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/ambulance-crew-in-south-lebanon-describes-israels-triple-tap-attack?traffic_source=rss",
+      "published_date": "2026-04-18T10:39:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel appoints first-ever ambassador to Somaliland following recognition",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/israel-appoints-first-ever-ambassador-to-somaliland-following-recognition/",
-      "published_date": "2026-04-16T09:28:56+00:00",
-      "category": "Diplomacy"
+      "title": "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/18/pakistan-pm-army-chief-wrap-up-key-trips-in-push-for-more-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-04-18T09:27:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Deputy Minister Al-Adala Attends Somalia National Pavilion Preview for the 2026 Venice Biennale",
+      "title": "Iran has learned that the Strait of Hormuz is its strongest deterrent",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss",
+      "published_date": "2026-04-18T08:25:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia deploys elite forces around Mogadishu camp to avert rebellion as president’s term nears end",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-deploys-elite-forces-around-mogadishu-camp-to-avert-rebellion-as-presidents-term-nears-end/",
+      "published_date": "2026-04-18T08:06:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali National Army Delivers Food Aid to Drought-Affected Communities in Middle Shabelle",
       "source": "SONNA",
-      "url": "https://sonna.so/en/deputy-minister-al-adala-attends-somalia-national-pavilion-preview-for-the-2026-venice-biennale/",
-      "published_date": "2026-04-16T06:57:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/somali-national-army-delivers-food-aid-to-drought-affected-communities-in-middle-shabelle/",
+      "published_date": "2026-04-18T07:48:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jubaland: Waan is difaacaynaa, haddii Federaalku isku dayo in uu doorasho ka qabto Gedo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/18/jubaland-waan-is-difaacaynaa-haddii-federaalku-isku-dayo-in-uu-doorasho-ka-qabto-gedo/",
+      "published_date": "2026-04-18T07:03:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/israeli-police-destroy-childrens-footballs-at-al-aqsa-mosque?traffic_source=rss",
+      "published_date": "2026-04-18T06:52:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 50 of the US-Iran conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-04-18T06:07:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Hormuz Strait shut down again over US ‘piracy’, says Tehran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss",
+      "published_date": "2026-04-18T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
+      "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
-      "published_date": "2026-04-16T22:04:10+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
+      "published_date": "2026-04-18T10:29:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Turkiye grieves students killed in school shooting",
+      "title": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/turkiye-grieves-students-killed-in-school-shooting?traffic_source=rss",
-      "published_date": "2026-04-16T21:15:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo urges peace in visit to Cameroon’s conflict-hit northwest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pope-leo-urges-peace-in-visit-to-cameroons-conflict-hit-northwest?traffic_source=rss",
-      "published_date": "2026-04-16T21:11:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is keeping the fight alive in Sudan’s war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-sdn_anniversary26_av_v2-1404266?traffic_source=rss",
-      "published_date": "2026-04-16T20:46:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than $5 trillion in US taxes. Who gets it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-tt_usa_taxday_v3_soundmix-150426?traffic_source=rss",
-      "published_date": "2026-04-16T20:40:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sectarian fears increase as a Beirut area says no to displacement centre",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/sectarian-fears-increase-as-a-beirut-area-says-no-to-displacement-centre?traffic_source=rss",
-      "published_date": "2026-04-16T20:08:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senate vote on arms sale shows ‘massive cracks’ in US support for Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/senate-vote-on-arms-sale-shows-massive-cracks-in-us-support-for-israel?traffic_source=rss",
-      "published_date": "2026-04-16T20:03:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah strikes north Israel ahead of Lebanon ceasefire announcement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss",
-      "published_date": "2026-04-16T19:19:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sheekh Shariif oo cambaareeyay xariga iyo tacaddiyada ay ku kaceyso dowladda",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sheekh-shariif-oo-cambaareeyay-xariga-iyo-tacaddiyada-lagu-eedeeyay-dowladda/",
-      "published_date": "2026-04-16T15:50:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Farmaajo oo dowladda ku eedeeyay tacaddiyo, kuna baaqay joojinta barakicinta shacabka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/farmaajo-oo-dowladda-ku-eedeeyay-tacaddiyo-kuna-baaqay-joojinta-barakicinta-shacabka/",
-      "published_date": "2026-04-16T15:35:47+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/18/pope-leo-heads-to-angola-in-landmark-africa-visit-amid-trump-clash?traffic_source=rss",
+      "published_date": "2026-04-18T08:10:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "Inside Kharg Island, Iran’s oil lifeline under threat",
@@ -410,18 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Video: Severe flooding closes schools in Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/video-severe-flooding-closes-schools-in-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-04-12T16:21:31+00:00",
-      "category": "Energy"
+      "title": "Somalia Convenes Seventh Fisheries Management and Development Council Meeting to Advance Blue Economy Frameworks",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-convenes-seventh-fisheries-management-and-development-council-meeting-to-advance-blue-economy-frameworks/",
+      "published_date": "2026-04-18T09:36:45+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
+      "title": "Somalia Convenes Seventh Fisheries Council Meeting to Advance Sustainable Blue Economy",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-convenes-seventh-fisheries-council-meeting-to-advance-sustainable-blue-economy/",
+      "published_date": "2026-04-18T09:33:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Highlights Economic Progress and Secures Support at World Bank–IMF Spring Meetings",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-highlights-economic-progress-and-secures-support-at-world-bank-imf-spring-meetings/",
+      "published_date": "2026-04-18T08:38:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Finance Minister Addresses World Bank Africa Constituency Meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-finance-minister-addresses-world-bank-africa-constituency-meeting/",
+      "published_date": "2026-04-18T06:57:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Al-Noor centre: A lifeline for blind children in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss",
-      "published_date": "2026-04-12T09:47:24+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/al-noor-centre-a-lifeline-for-blind-children-in-gaza?traffic_source=rss",
+      "published_date": "2026-04-18T04:42:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UN aid chief warns of possible ‘full-scale famine’ in South Sudan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss",
+      "published_date": "2026-04-18T00:18:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "UN warns South Sudan at risk of ‘full-scale famine’ as fighting intensifies",
@@ -522,18 +564,11 @@
       "category": "Economy"
     },
     {
-      "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
+      "title": "Death penalty law proves the EU must treat Israel as an apartheid state",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss",
-      "published_date": "2026-04-11T17:29:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What’s at stake in Benin’s presidential election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
-      "published_date": "2026-04-11T09:00:39+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/quotable/2026/4/18/death-penalty-law-proves-the-eu-must-treat-israel-as-an-apartheid-state?traffic_source=rss",
+      "published_date": "2026-04-18T10:07:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pressure mounts on Peru’s election authorities amid presidential race delay",
@@ -666,13 +701,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalias-president-anoints-sole-candidate-for-southwest-presidency/",
       "published_date": "2026-04-16T09:43:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muslims the target? Fury as millions lose voting rights in India’s Bengal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal?traffic_source=rss",
-      "published_date": "2026-04-16T07:51:30+00:00",
       "category": "Local Events"
     }
   ]
