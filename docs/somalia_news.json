@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-22T12:02:27.858035+00:00",
+  "last_updated": "2026-04-22T23:42:54.300275+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/22/man-city-topple-arsenal-at-premier-league-summit-with-win-at-burnley?traffic_source=rss",
+      "published_date": "2026-04-22T21:27:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mexico’s Sheinbaum demands answers over CIA agents in Chihuahua",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/mexicos-sheinbaum-demands-answers-over-cia-agents-in-chihuahua?traffic_source=rss",
+      "published_date": "2026-04-22T19:33:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran blames Trump’s blockade for diplomatic impasse as fragile truce holds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/iran-blames-trumps-blockade-for-diplomatic-impasse-as-fragile-truce-holds?traffic_source=rss",
+      "published_date": "2026-04-22T19:25:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Somali President Raises Concerns Over Government Term Dispute",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-president-raises-concerns-over-government-term-dispute/",
+      "published_date": "2026-04-22T14:05:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali President Opens New Ports Ministry Headquarters",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-opens-new-ports-ministry-headquarters/",
+      "published_date": "2026-04-22T14:03:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia to Intensify Anti-Terror Operations, Defence Minister Says",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-to-intensify-anti-terror-operations-defence-minister-says/",
+      "published_date": "2026-04-22T14:01:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Hassan Sheikh Mohamud Inaugurates New Ministry of Ports Headquarters to Accelerate Maritime Economic Strategy",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-inaugurates-new-ministry-of-ports-headquarters-to-accelerate-maritime-economic-strategy/",
+      "published_date": "2026-04-22T13:33:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali President Inaugurates New Ministry of Ports and Maritime Transport Headquarters in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-president-inaugurates-new-ministry-of-ports-and-maritime-transport-headquarters-in-mogadishu/",
+      "published_date": "2026-04-22T13:24:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU Missions in Somalia Host Dutch Delegation for High-Level Talks in Mogadishu",
       "source": "SONNA",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Prime Minister Hamza Abdi Barre Lays Foundation Stone for National Curriculum Development Center",
+      "title": "Prediction market Kalshi docks three US candidates for betting on own races",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/prediction-market-kalshi-docks-three-us-candidates-for-betting-on-own-races?traffic_source=rss",
+      "published_date": "2026-04-22T22:03:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yamal scores but injured as Barcelona beat Celta to restore La Liga lead",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/22/yamal-scores-then-limps-off-as-barcelona-beat-celta-to-restore-la-liga-lead?traffic_source=rss",
+      "published_date": "2026-04-22T21:52:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Did UK universities pay to ‘spy’ on pro‑Palestine students?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/22/aje-onl-tt_gbr_unispying_av_v2-220426?traffic_source=rss",
+      "published_date": "2026-04-22T18:21:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on Lebanon kill at least five people, including journalist",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
+      "published_date": "2026-04-22T18:10:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defense Minister Fiqi Details Major Security Advancements and Territorial Stabilization at National Coordination Forum",
       "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-abdi-barre-lays-foundation-stone-for-national-curriculum-development-center/",
-      "published_date": "2026-04-21T11:27:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain, Slovenia, Ireland push EU to debate Israel pact suspension",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/spain-slovenia-ireland-push-eu-to-debate-israel-pact-suspension?traffic_source=rss",
-      "published_date": "2026-04-21T09:32:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Restores Relations with Sri Lanka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-restores-relations-with-sri-lanka/",
-      "published_date": "2026-04-21T09:08:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenya’s John Korir, Sharon Lokedi win Boston Marathon on record-breaking day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/21/kenyas-john-korir-sharon-lokedi-win-boston-marathon-on-record-breaking-day?traffic_source=rss",
-      "published_date": "2026-04-21T09:06:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali government officials defect to opposition as president’s term nears end",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-government-officials-defect-to-opposition-as-presidents-term-nears-end/",
-      "published_date": "2026-04-21T09:00:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali PM Lays Foundation Stone for Curriculum Development Centre",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pm-lays-foundation-stone-for-curriculum-development-centre/",
-      "published_date": "2026-04-21T08:52:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran denounces Israeli violation of Somalia’s sovereignty",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/iran-denounces-israeli-violation-of-somalias-sovereignty/",
-      "published_date": "2026-04-21T08:26:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fears over Ethiopia peace deal as TPLF restores Tigray government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/20/fears-over-ethiopia-peace-deal-as-tplf-restores-tigray-government?traffic_source=rss",
-      "published_date": "2026-04-20T22:05:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/defense-minister-fiqi-details-major-security-advancements-and-territorial-stabilization-at-national-coordination-forum/",
+      "published_date": "2026-04-22T13:48:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Five major issues affecting the FIFA World Cup with 50 days to go",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Flu vaccine no longer mandatory for soldiers, says US military chief",
+      "title": "Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/flu-vaccine-no-longer-mandatory-for-soldiers-says-us-military-chief?traffic_source=rss",
-      "published_date": "2026-04-21T18:04:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Army Chief Visits Frontline Positions in Bay Region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-army-chief-visits-frontline-positions-in-bay-region/",
-      "published_date": "2026-04-21T17:04:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli sexual violence is pushing Palestinians from West Bank: Report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss",
-      "published_date": "2026-04-21T16:38:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Afghans displaced by Pakistan conflict survive in tent camps",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/afghans-displaced-by-pakistan-conflict-survive-in-tent-camps?traffic_source=rss",
-      "published_date": "2026-04-21T10:45:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Iran crisis drags on, fears of global food catastrophe grow",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/21/as-iran-crisis-drags-on-fears-of-global-food-crisis-grow?traffic_source=rss",
-      "published_date": "2026-04-21T09:02:55+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/22/ukraine-restarts-russian-oil-flows-to-europe-unblocking-90bn-eu-loan?traffic_source=rss",
+      "published_date": "2026-04-22T16:12:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "US halts shipment of Iraq’s oil dollars to curb Iran-linked groups: WSJ",
@@ -410,11 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "Could the US oil blockade snuff out the Cuban cigar?",
+      "title": "A 42bn-euro dilemma: What is stopping EU from holding Israel to account?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss",
-      "published_date": "2026-04-15T20:08:28+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/4/22/a-42bn-euro-dilemma-what-is-stopping-eu-from-holding-israel-to-account?traffic_source=rss",
+      "published_date": "2026-04-22T16:33:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Puntland Launches Campaign Against Illegal Fishing",
@@ -550,11 +557,46 @@
       "category": "Economy"
     },
     {
-      "title": "UN aid chief warns of possible ‘full-scale famine’ in South Sudan",
+      "title": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss",
-      "published_date": "2026-04-18T00:18:17+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss",
+      "published_date": "2026-04-22T20:30:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump calls for Republicans to unify around budget reconciliation push",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/trump-calls-for-republicans-to-unify-around-budget-reconciliation-push?traffic_source=rss",
+      "published_date": "2026-04-22T20:25:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US suspect accused of stealing Kristi Noem’s purse sentenced to three years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/us-suspect-accused-of-stealing-kristi-noems-purse-sentenced-to-three-years?traffic_source=rss",
+      "published_date": "2026-04-22T20:23:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump calls Virginia election ‘rigged’ after redistricting referendum",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/trump-calls-virginia-election-rigged-after-redistricting-referendum?traffic_source=rss",
+      "published_date": "2026-04-22T20:09:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Federal Apparatus Demonstrates the Absolute Capability to Execute Complex Civic Operations in Regional Jurisdictions",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/the-federal-apparatus-demonstrates-the-absolute-capability-to-execute-complex-civic-operations-in-regional-jurisdictions/",
+      "published_date": "2026-04-22T16:07:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ku dhawaaqday la dagaalanka kalluumeysiga sharci-darrada ah",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/22/puntland-oo-ku-dhawaaqday-la-dagaalanka-kalluumeysiga-sharci-darrada-ah/",
+      "published_date": "2026-04-22T12:50:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli settlers set Palestinian home on fire in occupied West Bank",
@@ -568,6 +610,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/4/22/kyrie-irving-changes-instagram-photo-to-show-solidarity-with-palestine?traffic_source=rss",
       "published_date": "2026-04-22T11:20:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taliyaha cusub ee Madaxtooyada Puntland oo xilka la wareegay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/22/taliyaha-cusub-ee-madaxtooyada-puntland-oo-xilka-la-wareegay/",
+      "published_date": "2026-04-22T11:00:00+00:00",
       "category": "Local Events"
     },
     {
@@ -645,55 +694,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/21/maxay-tahay-ujeedada-uu-islaan-ciise-u-tagay-muqdisho/",
       "published_date": "2026-04-21T11:26:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NUSOJ, US Embassy discuss media freedom and governance reforms",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nusoj-us-embassy-discuss-media-freedom-and-governance-reforms/",
-      "published_date": "2026-04-21T09:20:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran oo cambaareysay tallaabo Israel ee Somaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/iran-oo-cambaareysay-tallaabo-israel-ee-somaliland/",
-      "published_date": "2026-04-21T08:37:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Algeria’s ex-minister of industry jailed in high-profile corruption case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/algerias-ex-minister-of-industry-jailed-in-high-profile-corruption-case?traffic_source=rss",
-      "published_date": "2026-04-21T03:59:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary’s incoming PM says Netanyahu would be arrested if he visits",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/hungarys-incoming-pm-says-netanyahu-would-be-arrested-if-he-visits?traffic_source=rss",
-      "published_date": "2026-04-20T23:08:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia opposition, clan elders weigh ‘national salvation’ plan as presidential term nears end",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-clan-elders-weigh-national-salvation-plan-as-presidential-term-nears-end/",
-      "published_date": "2026-04-20T17:50:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Moves to Rehabilitate Key Lower Shabelle Bridges, Boost Agricultural Transport",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-moves-to-rehabilitate-key-lower-shabelle-bridges-boost-agricultural-transport/",
-      "published_date": "2026-04-20T17:37:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Nothing left’: Hong Kong fire survivors return to burnt homes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/nothing-left-hong-kong-fire-survivors-return-to-burnt-homes?traffic_source=rss",
-      "published_date": "2026-04-20T17:35:33+00:00",
       "category": "Local Events"
     }
   ]
