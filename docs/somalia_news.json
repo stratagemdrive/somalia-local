@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-21T23:32:31.216748+00:00",
+  "last_updated": "2026-04-22T12:02:27.858035+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "EU Missions in Somalia Host Dutch Delegation for High-Level Talks in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/eu-missions-in-somalia-host-dutch-delegation-for-high-level-talks-in-mogadishu/",
+      "published_date": "2026-04-22T11:52:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s opposition says president loses legitimacy after May 15",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-opposition-says-president-loses-legitimacy-after-may-15/",
+      "published_date": "2026-04-22T09:45:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/russian-drone-attacks-in-ukraine-strike-odesa-port-and-kill-railway-worker?traffic_source=rss",
+      "published_date": "2026-04-22T09:16:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Opposition Rejects Any Term Extension for President",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-opposition-rejects-any-term-extension-for-president/",
+      "published_date": "2026-04-22T07:43:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s UN ambassador responds to US ceasefire extension",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss",
+      "published_date": "2026-04-22T07:33:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nearly 8,000 people died or disappeared on migration routes in 2025: IOM",
       "source": "Al Jazeera",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
+      "title": "Five major issues affecting the FIFA World Cup with 50 days to go",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss",
-      "published_date": "2026-04-20T21:30:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/4/22/five-major-issues-affecting-the-fifa-world-cup-with-50-days-to-go?traffic_source=rss",
+      "published_date": "2026-04-22T11:33:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Report finds Gaza needs more than $71bn in next decade for recovery",
+      "title": "Why is India’s Manipur burning for three years?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/20/report-finds-gaza-needs-more-than-71bn-in-next-decade-for-recovery?traffic_source=rss",
-      "published_date": "2026-04-20T19:05:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/4/22/why-is-indias-manipur-burning-for-three-years?traffic_source=rss",
+      "published_date": "2026-04-22T10:58:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany summons Russian ambassador, citing ‘direct threats’",
+      "title": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/20/germany-summons-russian-ambassador-citing-direct-threats?traffic_source=rss",
-      "published_date": "2026-04-20T17:55:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss",
+      "published_date": "2026-04-22T09:02:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Netherlands Advance Strategic Cooperation",
+      "title": "How China is gaining from Iran war by showing it is different from US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss",
+      "published_date": "2026-04-22T08:24:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia Security Forces Kill 33 Al-Shabaab Militants in Operation in Middle Shabelle",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-netherlands-advance-strategic-cooperation/",
-      "published_date": "2026-04-20T17:52:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/somalia-security-forces-kill-33-al-shabaab-militants-in-operation-in-middle-shabelle/",
+      "published_date": "2026-04-22T07:52:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s Ambassador Meets Sri Lankan President to Strengthen Bilateral Ties",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalias-ambassador-meets-sri-lankan-president-to-strengthen-bilateral-ties/",
-      "published_date": "2026-04-20T17:03:06+00:00",
-      "category": "Diplomacy"
+      "title": "Somalia Says Intelligence Operation Kills 33 Al-Shabaab Fighters",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-says-intelligence-operation-kills-33-al-shabaab-fighters/",
+      "published_date": "2026-04-22T07:47:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World Cup host Mexico pledges security at tourist sites after shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/22/world-cup-host-mexico-pledges-security-at-tourist-sites-after-shooting?traffic_source=rss",
+      "published_date": "2026-04-22T07:15:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NISA oo sheegtay in howlgal ay ku dishay 33 xubnood oo ka tirsanaa kooxda Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nisa-oo-sheegtay-in-howlgal-ay-ku-dishay-33-xubnood-oo-ka-tirsanaa-kooxda-al-shabaab/",
+      "published_date": "2026-04-22T05:54:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-22T05:25:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tehran held military parades as ceasefire was set to end",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/tehran-held-military-parades-as-ceasefire-was-set-to-end?traffic_source=rss",
+      "published_date": "2026-04-22T03:21:22+00:00",
+      "category": "Military"
     },
     {
       "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "SNA Gorgor Commandos Conduct Security Operations in Jowhar to Safeguard Public Safety",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sna-gorgor-commandos-conduct-security-operations-in-jowhar-to-safeguard-public-safety/",
-      "published_date": "2026-04-21T07:39:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s Board of Peace holds Gaza reconstruction talks with UAE’s DP World",
+      "title": "US halts shipment of Iraq’s oil dollars to curb Iran-linked groups: WSJ",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/trumps-board-of-peace-holds-gaza-reconstruction-talks-with-uaes-dp-world?traffic_source=rss",
-      "published_date": "2026-04-21T07:18:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 53 of the US-Israel conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/iran-war-what-is-happening-on-day-53-of-the-us-israel-conflict?traffic_source=rss",
-      "published_date": "2026-04-21T07:10:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli police arrest two ultra-Orthodox Jews for removing Israeli flags",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/israeli-police-arrest-two-ultra-orthodox-jews-for-removing-israeli-flags?traffic_source=rss",
-      "published_date": "2026-04-21T06:54:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya iyo Sri Lanka oo dib u soo celiyay xiriirkooda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/21/soomaaliya-iyo-sri-lanka-oo-dib-u-soo-celiyay-xiriirkooda/",
-      "published_date": "2026-04-21T06:13:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war forces job losses, reverse migration in India’s ceramic hub",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/iran-war-forces-job-losses-reverse-migration-in-indias-ceramic-hub?traffic_source=rss",
-      "published_date": "2026-04-21T06:05:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US will provide dollar loan to UAE if economy is jolted by war on Iran, US official says",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/21/us-will-provide-dollar-loan-to-uae-if-economy-is-jolted-by-war-on-iran-us-official-says/",
-      "published_date": "2026-04-21T05:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US veterans arrested in Capitol during protest against the war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/us-veterans-arrested-in-capitol-during-protest-against-the-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-21T05:20:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amnesty International slams ‘predatory world order’ led by US and Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/amnesty-international-slams-predatory-world-order-led-by-us-and-israel?traffic_source=rss",
-      "published_date": "2026-04-21T04:55:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japan lifts ban on lethal weapons exports in major shift of pacifist policy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy?traffic_source=rss",
-      "published_date": "2026-04-21T04:46:17+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss",
+      "published_date": "2026-04-22T07:18:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Clean electricity meets all new demand, curbing fossil fuels, says Ember",
@@ -410,11 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "Information Minister, Daud Aweis Jama Joins Tree-Planting Campaign in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/information-minister-daud-aweis-jama-joins-tree-planting-campaign-in-mogadishu/",
-      "published_date": "2026-04-15T12:01:49+00:00",
-      "category": "Energy"
+      "title": "Puntland Launches Campaign Against Illegal Fishing",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-launches-campaign-against-illegal-fishing/",
+      "published_date": "2026-04-22T07:49:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump administration sues Southern Poverty Law Center on fraud charges",
@@ -550,11 +557,67 @@
       "category": "Economy"
     },
     {
-      "title": "UN warns South Sudan at risk of ‘full-scale famine’ as fighting intensifies",
+      "title": "Israeli settlers set Palestinian home on fire in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/17/un-warns-south-sudan-at-risk-of-full-scale-famine-as-fighting-intensifies?traffic_source=rss",
-      "published_date": "2026-04-17T19:59:26+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-settlers-set-palestinian-home-on-fire-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-04-22T11:30:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyrie Irving changes Instagram photo to show solidarity with Palestine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/22/kyrie-irving-changes-instagram-photo-to-show-solidarity-with-palestine?traffic_source=rss",
+      "published_date": "2026-04-22T11:20:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK bill bans anyone born after 2008 from ever buying tobacco",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/new-uk-bill-bans-anyone-born-after-2008-from-buying-tobacco?traffic_source=rss",
+      "published_date": "2026-04-22T10:48:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru’s election chief steps down amid chaotic general election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/perus-election-chief-steps-down-amid-chaotic-general-election?traffic_source=rss",
+      "published_date": "2026-04-22T10:15:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran seizes two vessels in Strait of Hormuz after ship comes under fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/iranian-gunboat-fires-on-container-ship-off-oman-coast?traffic_source=rss",
+      "published_date": "2026-04-22T09:32:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Virginia redistricting election results: Key takeaways from Democrats’ win",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/virginia-redistricting-election-results-key-takeaways-from-democrats-win?traffic_source=rss",
+      "published_date": "2026-04-22T09:19:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo xoojisay la dagaallanka kalluumeysiga sharci darrada ah",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-oo-xoojisay-la-dagaallanka-kalluumeysiga-sharci-darrada-ah/",
+      "published_date": "2026-04-22T07:25:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Bangladesh killing reforms introduced after student-led protests?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/is-bangladesh-killing-reforms-introduced-after-student-led-protests?traffic_source=rss",
+      "published_date": "2026-04-22T07:03:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo magacaabis sameeyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/22/madaxweyne-deni-oo-magacaabis-sameeyay-7/",
+      "published_date": "2026-04-22T06:01:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Peru’s election chief steps down amid frustration over long vote count",
@@ -631,69 +694,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/nothing-left-hong-kong-fire-survivors-return-to-burnt-homes?traffic_source=rss",
       "published_date": "2026-04-20T17:35:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opposition Leaders, Hawiye Elders Hold Political Meeting in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/opposition-leaders-hawiye-elders-hold-political-meeting-in-mogadishu/",
-      "published_date": "2026-04-20T14:13:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hirshabelle Presidential Hopeful Adawe Holds Consultations with Regional Politicians",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hirshabelle-presidential-hopeful-adawe-holds-consultations-with-regional-politicians/",
-      "published_date": "2026-04-20T14:11:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former President Declines Meeting Request from Hassan Sheikh Amid Election Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-president-declines-meeting-request-from-hassan-sheikh-amid-election-tensions/",
-      "published_date": "2026-04-20T14:09:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Press Release: Constitutional Review Commission Issues Key Directives on Governance Compliance",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/press-release-constitutional-review-commission-issues-key-directives-on-governance-compliance/",
-      "published_date": "2026-04-20T10:20:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian children protest against siege on their school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/palestinian-children-protest-against-siege-on-their-school?traffic_source=rss",
-      "published_date": "2026-04-20T08:50:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidamada Puntland oo fashiliyay weerar ay Daacish ku qaaday Dhaadaar",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/20/ciidamada-puntland-oo-fashiliyay-weerar-ay-daacish-ku-qaaday-dhaadaar/",
-      "published_date": "2026-04-20T06:36:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As barbed wire blocks kids from class, Palestinians stage ‘Freedom School’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/20/as-barbed-wire-blocks-kids-from-class-palestinians-stage-freedom-school?traffic_source=rss",
-      "published_date": "2026-04-20T05:44:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/schools-shops-shut-in-northern-israel-to-protest-the-lebanon-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-19T21:21:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exit poll shows former President Radev’s party set to win Bulgaria election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election?traffic_source=rss",
-      "published_date": "2026-04-19T20:47:12+00:00",
       "category": "Local Events"
     }
   ]
