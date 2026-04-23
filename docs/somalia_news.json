@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-22T23:42:54.300275+00:00",
-  "story_count": 99,
+  "last_updated": "2026-04-23T12:02:41.473835+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Somali opposition holds closed-door talks with Turkish ambassador in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-opposition-holds-closed-door-talks-with-turkish-ambassador-in-mogadishu/",
+      "published_date": "2026-04-23T10:52:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia cabinet approves one-stop public service centre, backs UN ocean pact",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-cabinet-approves-one-stop-public-service-centre-backs-un-ocean-pact/",
+      "published_date": "2026-04-23T09:31:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia and China Institutionalize Strategic Knowledge Exchange with New Diplomatic Research Center",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-and-china-institutionalize-strategic-knowledge-exchange-with-new-diplomatic-research-center/",
+      "published_date": "2026-04-23T07:56:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
       "source": "Al Jazeera",
@@ -123,25 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine says Druzhba pipeline running Russian oil to Europe can resume work",
+      "title": "How Iran raised Hormuz stakes by capturing ships",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work?traffic_source=rss",
-      "published_date": "2026-04-21T18:27:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships?traffic_source=rss",
+      "published_date": "2026-04-23T11:25:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "What’s the bill to rebuild Gaza, and who will pay?",
+      "title": "Israeli strike near mosque kills five in Gaza, including three children",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/21/whats-the-bill-to-rebuild-gaza-and-who-will-pay?traffic_source=rss",
-      "published_date": "2026-04-21T17:29:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-strike-near-mosque-kills-five-in-gaza-including-three-children?traffic_source=rss",
+      "published_date": "2026-04-23T11:22:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Prime Minister Hamza Abdi Barre Launches Construction of Energy and Water Ministry Headquarters",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-abdi-barre-launches-construction-of-energy-and-water-ministry-headquarters/",
-      "published_date": "2026-04-21T17:20:36+00:00",
-      "category": "Diplomacy"
+      "title": "Africa’s abandoned workers in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/africa-now/2026/4/23/africas-abandoned-workers-in-lebanon?traffic_source=rss",
+      "published_date": "2026-04-23T10:59:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidamo taabacsan Lafta-Gareen oo isku dhiibay Maamulka Jubaland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamo-taabacsan-lafta-gareen-oo-isku-dhiibay-jubaland/",
+      "published_date": "2026-04-23T10:48:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss",
+      "published_date": "2026-04-23T10:29:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What we know about Israel killing Lebanese journalist Amal Khalil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss",
+      "published_date": "2026-04-23T10:02:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is John Phelan, the US Navy Secretary fired by Pete Hegseth?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss",
+      "published_date": "2026-04-23T09:49:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir?traffic_source=rss",
+      "published_date": "2026-04-23T09:34:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike kills five in Gaza, including three children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/israeli-strike-kills-five-in-gaza-including-three-children?traffic_source=rss",
+      "published_date": "2026-04-23T07:53:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-23T07:34:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Democrats up in Virginia, but US voters may pay price for redistricting war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/democrats-up-in-virginia-but-us-voters-may-pay-price-for-redistricting-war?traffic_source=rss",
+      "published_date": "2026-04-23T05:09:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Protesters stabbed at London rally against war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protesters-stabbed-at-london-rally-against-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-23T04:53:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel kills journalist and wounds another in south Lebanon targeted attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss",
+      "published_date": "2026-04-23T03:27:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss",
+      "published_date": "2026-04-23T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Prediction market Kalshi docks three US candidates for betting on own races",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Why is India’s Manipur burning for three years?",
+      "title": "Iran war: How big is the global energy shock?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/22/why-is-indias-manipur-burning-for-three-years?traffic_source=rss",
-      "published_date": "2026-04-22T10:58:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss",
-      "published_date": "2026-04-22T09:02:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How China is gaining from Iran war by showing it is different from US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss",
-      "published_date": "2026-04-22T08:24:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Security Forces Kill 33 Al-Shabaab Militants in Operation in Middle Shabelle",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-security-forces-kill-33-al-shabaab-militants-in-operation-in-middle-shabelle/",
-      "published_date": "2026-04-22T07:52:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Says Intelligence Operation Kills 33 Al-Shabaab Fighters",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-says-intelligence-operation-kills-33-al-shabaab-fighters/",
-      "published_date": "2026-04-22T07:47:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World Cup host Mexico pledges security at tourist sites after shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/22/world-cup-host-mexico-pledges-security-at-tourist-sites-after-shooting?traffic_source=rss",
-      "published_date": "2026-04-22T07:15:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NISA oo sheegtay in howlgal ay ku dishay 33 xubnood oo ka tirsanaa kooxda Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nisa-oo-sheegtay-in-howlgal-ay-ku-dishay-33-xubnood-oo-ka-tirsanaa-kooxda-al-shabaab/",
-      "published_date": "2026-04-22T05:54:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-22T05:25:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran held military parades as ceasefire was set to end",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/tehran-held-military-parades-as-ceasefire-was-set-to-end?traffic_source=rss",
-      "published_date": "2026-04-22T03:21:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss",
-      "published_date": "2026-04-21T20:33:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump announces Iran ceasefire extension but says blockade remains",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
-      "published_date": "2026-04-21T20:22:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two CIA agents reportedly killed in car crash in Mexican state of Chihuahua",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/two-cia-agents-reportedly-killed-in-car-crash-in-mexican-state-of-chihuahua?traffic_source=rss",
-      "published_date": "2026-04-21T19:49:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian police raid book publisher accused of pushing ‘gay propaganda’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/russian-police-raid-book-publisher-accused-of-pushing-gay-propaganda?traffic_source=rss",
-      "published_date": "2026-04-21T19:05:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nicaragua’s president says Trump ‘mentally deranged’ over war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/nicaraguas-president-says-trump-mentally-deranged-over-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-21T18:47:11+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/23/iran-war-how-big-is-the-global-energy-shock?traffic_source=rss",
+      "published_date": "2026-04-23T11:08:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan",
@@ -389,32 +396,11 @@
       "category": "Energy"
     },
     {
-      "title": "Sudan power crisis: Studying using candles, counting gas station trips",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/sudan-power-crisis-studying-using-candles-counting-gas-station-trips?traffic_source=rss",
-      "published_date": "2026-04-16T10:33:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why are fuel price protests sweeping the Republic of Ireland?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/16/why-are-fuel-price-protests-sweeping-the-republic-of-ireland?traffic_source=rss",
-      "published_date": "2026-04-16T09:47:35+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Turkey eyes Somali oil to shore up domestic energy security",
+      "title": "Somalia eyes maritime sector as backbone of economic growth, president says",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/turkey-eyes-somali-oil-to-shore-up-domestic-energy-security/",
-      "published_date": "2026-04-16T09:14:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fire breaks out at crucial Australian refinery, raising fuel supply fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/fire-breaks-out-at-crucial-australian-refinery-raising-fuel-supply-fears?traffic_source=rss",
-      "published_date": "2026-04-16T08:44:46+00:00",
-      "category": "Energy"
+      "url": "https://shabellemedia.com/somalia-eyes-maritime-sector-as-backbone-of-economic-growth-president-says/",
+      "published_date": "2026-04-23T09:37:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "A 42bn-euro dilemma: What is stopping EU from holding Israel to account?",
@@ -550,11 +536,81 @@
       "category": "Economy"
     },
     {
-      "title": "Al-Noor centre: A lifeline for blind children in Gaza",
+      "title": "Somaliland president travels to UAE as Somalia-Abu Dhabi relations remain strained",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-travels-to-uae-as-somalia-abu-dhabi-relations-remain-strained/",
+      "published_date": "2026-04-23T11:26:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rival party workers fight on election day in India’s West Bengal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/al-noor-centre-a-lifeline-for-blind-children-in-gaza?traffic_source=rss",
-      "published_date": "2026-04-18T04:42:42+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/rival-party-workers-fight-on-election-day-in-indias-west-bengal?traffic_source=rss",
+      "published_date": "2026-04-23T11:09:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lafta Gareen-aligned forces move into Gedo, heightening political tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/lafta-gareen-aligned-forces-move-into-gedo-heightening-political-tensions/",
+      "published_date": "2026-04-23T10:51:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka hadashay afduubka Dr Faarax Cabdi Maxamed",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/23/puntland-oo-ka-hadashay-afduubka-dr-faarax-cabdi-maxamed/",
+      "published_date": "2026-04-23T10:39:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia urges unified curriculum, tighter teacher standards amid federal challenges",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-urges-unified-curriculum-tighter-teacher-standards-amid-federal-challenges/",
+      "published_date": "2026-04-23T09:35:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xildhibaan Mukhtaar: Puntland waxay ku sii socotaa wadadii 1998-dii",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/23/xildhibaan-mukhtaar-puntland-waxay-ku-sii-socotaa-wadadii-1998-dii/",
+      "published_date": "2026-04-23T09:27:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza’s second front: The battle against disease-carrying rats",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss",
+      "published_date": "2026-04-23T09:07:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will another film star be able to sway the election in India’s Tamil Nadu?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/will-another-film-star-be-able-to-sway-the-election-in-indias-tamil-nadu?traffic_source=rss",
+      "published_date": "2026-04-23T07:42:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo bixiyay amar la xiriira gobolka Mudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/23/madaxweyne-deni-oo-bixiyay-amar-la-xiriira-gobolka-mudug/",
+      "published_date": "2026-04-23T05:42:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can fish hook voters in India’s West Bengal elections?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/can-fish-hook-voters-in-indias-bengal-elections?traffic_source=rss",
+      "published_date": "2026-04-23T05:05:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss",
+      "published_date": "2026-04-23T02:02:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
@@ -617,83 +673,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/22/taliyaha-cusub-ee-madaxtooyada-puntland-oo-xilka-la-wareegay/",
       "published_date": "2026-04-22T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK bill bans anyone born after 2008 from ever buying tobacco",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/new-uk-bill-bans-anyone-born-after-2008-from-buying-tobacco?traffic_source=rss",
-      "published_date": "2026-04-22T10:48:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru’s election chief steps down amid chaotic general election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/perus-election-chief-steps-down-amid-chaotic-general-election?traffic_source=rss",
-      "published_date": "2026-04-22T10:15:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran seizes two vessels in Strait of Hormuz after ship comes under fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/iranian-gunboat-fires-on-container-ship-off-oman-coast?traffic_source=rss",
-      "published_date": "2026-04-22T09:32:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Virginia redistricting election results: Key takeaways from Democrats’ win",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/virginia-redistricting-election-results-key-takeaways-from-democrats-win?traffic_source=rss",
-      "published_date": "2026-04-22T09:19:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo xoojisay la dagaallanka kalluumeysiga sharci darrada ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-oo-xoojisay-la-dagaallanka-kalluumeysiga-sharci-darrada-ah/",
-      "published_date": "2026-04-22T07:25:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Bangladesh killing reforms introduced after student-led protests?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/is-bangladesh-killing-reforms-introduced-after-student-led-protests?traffic_source=rss",
-      "published_date": "2026-04-22T07:03:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo magacaabis sameeyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/22/madaxweyne-deni-oo-magacaabis-sameeyay-7/",
-      "published_date": "2026-04-22T06:01:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru’s election chief steps down amid frustration over long vote count",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss",
-      "published_date": "2026-04-21T22:14:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Myanmar’s military government rebuffed on peace talks offer",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss",
-      "published_date": "2026-04-21T21:21:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU court rules Hungary’s LGBTQ law violates human rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss",
-      "published_date": "2026-04-21T16:36:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxay tahay ujeedada uu Islaan Ciise u tagay Muqdisho?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/21/maxay-tahay-ujeedada-uu-islaan-ciise-u-tagay-muqdisho/",
-      "published_date": "2026-04-21T11:26:29+00:00",
       "category": "Local Events"
     }
   ]
