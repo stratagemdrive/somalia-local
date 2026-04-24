@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-23T23:42:01.507958+00:00",
-  "story_count": 96,
+  "last_updated": "2026-04-24T12:01:29.632001+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Former Somali PM Accuses Government of Politicizing Security Forces",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-pm-accuses-government-of-politicizing-security-forces/",
+      "published_date": "2026-04-24T07:59:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 17 Somali migrants die after boat capsizes off Algeria",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/at-least-17-somali-migrants-die-after-boat-capsizes-off-algeria/",
+      "published_date": "2026-04-24T07:52:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister Hamza Launches Urban Resilience Project for Displaced and Host Communities in Doolow",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/prime-minister-hamza-launches-urban-resilience-project-for-displaced-and-host-communities-in-doolow/",
+      "published_date": "2026-04-24T06:10:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
       "source": "Al Jazeera",
@@ -123,25 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia to Intensify Anti-Terror Operations, Defence Minister Says",
+      "title": "US considers suspending Spain from NATO, reported internal email suggests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss",
+      "published_date": "2026-04-24T11:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Environmental crisis in Russian city after drone attack on refinery",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/environmental-crisis-in-russian-city-after-drone-attack-on-refinery?traffic_source=rss",
+      "published_date": "2026-04-24T09:27:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Global hunger report warns of rising malnutrition and famine risks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/global-hunger-report-warns-of-rising-malnutrition-and-famine-risks?traffic_source=rss",
+      "published_date": "2026-04-24T09:02:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is there a political deadlock in Lebanon?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/why-is-there-a-political-deadlock-in-lebanon?traffic_source=rss",
+      "published_date": "2026-04-24T08:49:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Baby twins attend their father’s funeral after Israeli settler attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/baby-twins-attend-their-fathers-funeral-after-israeli-settler-attack?traffic_source=rss",
+      "published_date": "2026-04-24T08:34:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Minneapolis man sentenced to 8½ years in prison for trying to join ISIS in Somalia",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-to-intensify-anti-terror-operations-defence-minister-says/",
-      "published_date": "2026-04-22T14:01:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/minneapolis-man-sentenced-to-8%c2%bd-years-in-prison-for-trying-to-join-isis-in-somalia/",
+      "published_date": "2026-04-24T07:57:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "President Hassan Sheikh Mohamud Inaugurates New Ministry of Ports Headquarters to Accelerate Maritime Economic Strategy",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-inaugurates-new-ministry-of-ports-headquarters-to-accelerate-maritime-economic-strategy/",
-      "published_date": "2026-04-22T13:33:01+00:00",
-      "category": "Diplomacy"
+      "title": "Japan builds up its ‘southern shield’ as faith in US security cover falters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/japan-builds-up-its-southern-shield-as-faith-in-us-security-cover-falters?traffic_source=rss",
+      "published_date": "2026-04-24T07:34:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali President Inaugurates New Ministry of Ports and Maritime Transport Headquarters in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-president-inaugurates-new-ministry-of-ports-and-maritime-transport-headquarters-in-mogadishu/",
-      "published_date": "2026-04-22T13:24:06+00:00",
-      "category": "Diplomacy"
+      "title": "Ukrainian married couple aged 75 killed in Russian attack on Odesa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship?traffic_source=rss",
+      "published_date": "2026-04-24T07:10:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/does-israels-yellow-line-violate-the-lebanon-ceasefire-2?traffic_source=rss",
+      "published_date": "2026-04-24T06:56:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump’s May 1 deadline: Can he continue war on Iran after that?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that?traffic_source=rss",
+      "published_date": "2026-04-24T06:20:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-24T06:11:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-04-24T02:50:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
+      "published_date": "2026-04-24T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
@@ -190,97 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/23/mixed-views-in-lebanon-ahead-of-controversial-talks-with-israel?traffic_source=rss",
       "published_date": "2026-04-23T18:09:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces kill Palestinian teenager in occupied West Bank raid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/israeli-forces-kill-palestinian-teenager-in-occupied-west-bank-raid?traffic_source=rss",
-      "published_date": "2026-04-23T17:45:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost?traffic_source=rss",
-      "published_date": "2026-04-23T17:35:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Iran raised Hormuz stakes by capturing ships",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships?traffic_source=rss",
-      "published_date": "2026-04-23T11:25:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike near mosque kills five in Gaza, including three children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-strike-near-mosque-kills-five-in-gaza-including-three-children?traffic_source=rss",
-      "published_date": "2026-04-23T11:22:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Africa’s abandoned workers in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/africa-now/2026/4/23/africas-abandoned-workers-in-lebanon?traffic_source=rss",
-      "published_date": "2026-04-23T10:59:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidamo taabacsan Lafta-Gareen oo isku dhiibay Maamulka Jubaland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamo-taabacsan-lafta-gareen-oo-isku-dhiibay-jubaland/",
-      "published_date": "2026-04-23T10:48:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss",
-      "published_date": "2026-04-23T10:29:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What we know about Israel killing Lebanese journalist Amal Khalil",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss",
-      "published_date": "2026-04-23T10:02:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is John Phelan, the US Navy Secretary fired by Pete Hegseth?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss",
-      "published_date": "2026-04-23T09:49:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir?traffic_source=rss",
-      "published_date": "2026-04-23T09:34:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills five in Gaza, including three children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/israeli-strike-kills-five-in-gaza-including-three-children?traffic_source=rss",
-      "published_date": "2026-04-23T07:53:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-23T07:34:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Democrats up in Virginia, but US voters may pay price for redistricting war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/democrats-up-in-virginia-but-us-voters-may-pay-price-for-redistricting-war?traffic_source=rss",
-      "published_date": "2026-04-23T05:09:34+00:00",
       "category": "Military"
     },
     {
@@ -382,18 +382,11 @@
       "category": "Energy"
     },
     {
-      "title": "Somali senator labels Turkey ‘resources pirate’, says public will not forget ‘deception’",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-senator-labels-turkey-resources-pirate-says-public-will-not-forget-deception/",
-      "published_date": "2026-04-17T10:45:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Australia scrambles to secure energy as war on Iran fuels uncertainty",
+      "title": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/17/australia-scrambles-to-secure-energy-as-war-on-iran-fuels-uncertainty?traffic_source=rss",
-      "published_date": "2026-04-17T10:09:09+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss",
+      "published_date": "2026-04-24T11:20:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "US Senate passes ICE funding resolution after ‘vote-a-rama’: What’s next?",
@@ -529,11 +522,18 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia Highlights Economic Progress and Secures Support at World Bank–IMF Spring Meetings",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-highlights-economic-progress-and-secures-support-at-world-bank-imf-spring-meetings/",
-      "published_date": "2026-04-18T08:38:17+00:00",
-      "category": "Economy"
+      "title": "US says Iran can play at 2026 World Cup but bars those with ‘IRGC ties’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/24/us-says-iran-can-play-at-2026-world-cup-but-bars-those-with-irgc-ties?traffic_source=rss",
+      "published_date": "2026-04-24T08:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burcad-badeed qabsatay markab u rarnaa dekedda Garacad",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/24/burcad-badeed-qabsatay-markab-u-rarnaa-dekedda-garacad/",
+      "published_date": "2026-04-24T01:31:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US professors sue university over arrest during pro-Palestine protest",
@@ -659,20 +659,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/the-federal-apparatus-demonstrates-the-absolute-capability-to-execute-complex-civic-operations-in-regional-jurisdictions/",
       "published_date": "2026-04-22T16:07:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ku dhawaaqday la dagaalanka kalluumeysiga sharci-darrada ah",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/22/puntland-oo-ku-dhawaaqday-la-dagaalanka-kalluumeysiga-sharci-darrada-ah/",
-      "published_date": "2026-04-22T12:50:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers set Palestinian home on fire in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-settlers-set-palestinian-home-on-fire-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-04-22T11:30:50+00:00",
       "category": "Local Events"
     }
   ]
