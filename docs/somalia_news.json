@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-24T12:01:29.632001+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-24T23:36:52.932153+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
+      "published_date": "2026-04-24T20:54:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can Europe help the Middle East resolve the war on Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-24T19:05:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli attacks on Lebanon may violate international law, UN warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss",
+      "published_date": "2026-04-24T18:24:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian oil exports slump as Ukraine hammers ports and refineries",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss",
+      "published_date": "2026-04-24T16:52:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former Somali PM Accuses Government of Politicizing Security Forces",
       "source": "Shabelle Media",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mexico’s Sheinbaum demands answers over CIA agents in Chihuahua",
+      "title": "Israel continues attacks on Lebanon despite extension of ceasefire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/mexicos-sheinbaum-demands-answers-over-cia-agents-in-chihuahua?traffic_source=rss",
-      "published_date": "2026-04-22T19:33:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-24T20:46:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran blames Trump’s blockade for diplomatic impasse as fragile truce holds",
+      "title": "Kosovo court jails three Serb separatists over 2023 Banjska attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/iran-blames-trumps-blockade-for-diplomatic-impasse-as-fragile-truce-holds?traffic_source=rss",
-      "published_date": "2026-04-22T19:25:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/24/kosovo-court-jails-three-serb-separatists-over-2023-banjska-attack?traffic_source=rss",
+      "published_date": "2026-04-24T17:49:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former Somali President Raises Concerns Over Government Term Dispute",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-president-raises-concerns-over-government-term-dispute/",
-      "published_date": "2026-04-22T14:05:22+00:00",
-      "category": "Diplomacy"
+      "title": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss",
+      "published_date": "2026-04-24T17:14:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali President Opens New Ports Ministry Headquarters",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-opens-new-ports-ministry-headquarters/",
-      "published_date": "2026-04-22T14:03:39+00:00",
-      "category": "Diplomacy"
+      "title": "US has three aircraft carriers in the Middle East for first time since 2003",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
+      "published_date": "2026-04-24T16:04:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PM Sanchez rebuffs US idea of suspending Spain from NATO",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss",
+      "published_date": "2026-04-24T15:58:46+00:00",
+      "category": "Military"
     },
     {
       "title": "US considers suspending Spain from NATO, reported internal email suggests",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "War-driven demand boosts profits for weapons and aircraft manufacturers",
+      "title": "Trump government extends Jones Act waiver by 90 days to dampen oil prices",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/23/war-driven-demand-boosts-profits-for-weapons-and-aircraft-manufacturers?traffic_source=rss",
-      "published_date": "2026-04-23T21:00:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will complex EU loan deal intensify conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/23/will-complex-eu-loan-deal-intensify-conflict?traffic_source=rss",
-      "published_date": "2026-04-23T20:55:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Trump’s Iran war is driving military dissent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
-      "published_date": "2026-04-23T19:08:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Africa president suspends police chief over $21m contract",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/south-africa-president-suspends-police-chief-over-21m-contract?traffic_source=rss",
-      "published_date": "2026-04-23T18:43:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mixed views in Lebanon ahead of controversial talks with Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/mixed-views-in-lebanon-ahead-of-controversial-talks-with-israel?traffic_source=rss",
-      "published_date": "2026-04-23T18:09:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices?traffic_source=rss",
+      "published_date": "2026-04-24T18:47:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "More than 6 million Somalis face hunger amid climate shocks and conflict",
@@ -365,20 +372,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/18/pope-leo-heads-to-angola-in-landmark-africa-visit-amid-trump-clash?traffic_source=rss",
       "published_date": "2026-04-18T08:10:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Inside Kharg Island, Iran’s oil lifeline under threat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/17/aje-onl-tt_irn_kharg_av_v3-170426?traffic_source=rss",
-      "published_date": "2026-04-17T18:07:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukraine’s long-range strikes prompt new Russian threat against Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/17/ukraines-long-range-strikes-prompt-new-russian-threat-against-europe?traffic_source=rss",
-      "published_date": "2026-04-17T15:46:03+00:00",
       "category": "Energy"
     },
     {
@@ -522,6 +515,34 @@
       "category": "Economy"
     },
     {
+      "title": "Madaxweyne Deni: Puntland ma aqoonsana Waqooyi Bari",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/25/madaxweyne-deni-puntland-ma-aqoonsana-waqooyi-bari/",
+      "published_date": "2026-04-24T22:11:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-24T21:42:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/us-appeals-court-rejects-trumps-ban-on-asylum-seekers-teeing-up-appeal?traffic_source=rss",
+      "published_date": "2026-04-24T19:25:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Finalizes National Comprehensive Postabortion Care Guideline Package to Strengthen Maternal Health Services",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-finalizes-national-comprehensive-postabortion-care-guideline-package-to-strengthen-maternal-health-services/",
+      "published_date": "2026-04-24T17:43:38+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "US says Iran can play at 2026 World Cup but bars those with ‘IRGC ties’",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/4/24/us-says-iran-can-play-at-2026-world-cup-but-bars-those-with-irgc-ties?traffic_source=rss",
@@ -532,6 +553,13 @@
       "title": "Burcad-badeed qabsatay markab u rarnaa dekedda Garacad",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/24/burcad-badeed-qabsatay-markab-u-rarnaa-dekedda-garacad/",
+      "published_date": "2026-04-24T01:31:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burcad-badeed qabsatay markab laga leeyahay Pakistan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/24/burcad-badeed-qabsatay-markab-laga-leeyahay-pakistan/",
       "published_date": "2026-04-24T01:31:30+00:00",
       "category": "Local Events"
     },
@@ -624,41 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss",
       "published_date": "2026-04-23T02:02:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss",
-      "published_date": "2026-04-22T20:30:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump calls for Republicans to unify around budget reconciliation push",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/trump-calls-for-republicans-to-unify-around-budget-reconciliation-push?traffic_source=rss",
-      "published_date": "2026-04-22T20:25:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US suspect accused of stealing Kristi Noem’s purse sentenced to three years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/us-suspect-accused-of-stealing-kristi-noems-purse-sentenced-to-three-years?traffic_source=rss",
-      "published_date": "2026-04-22T20:23:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump calls Virginia election ‘rigged’ after redistricting referendum",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/trump-calls-virginia-election-rigged-after-redistricting-referendum?traffic_source=rss",
-      "published_date": "2026-04-22T20:09:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Federal Apparatus Demonstrates the Absolute Capability to Execute Complex Civic Operations in Regional Jurisdictions",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/the-federal-apparatus-demonstrates-the-absolute-capability-to-execute-complex-civic-operations-in-regional-jurisdictions/",
-      "published_date": "2026-04-22T16:07:32+00:00",
       "category": "Local Events"
     }
   ]
