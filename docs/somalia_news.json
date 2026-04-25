@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-25T11:43:07.343514+00:00",
-  "story_count": 91,
+  "last_updated": "2026-04-25T23:34:50.540365+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "France defends abstention on UN slave trade resolution",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/france-defends-abstention-on-un-slave-trade-resolution?traffic_source=rss",
+      "published_date": "2026-04-25T18:58:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia and Oman Strengthen Bilateral Ties During High-Level Talks in Muscat",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-and-oman-strengthen-bilateral-ties-during-high-level-talks-in-muscat/",
+      "published_date": "2026-04-25T18:39:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss",
+      "published_date": "2026-04-25T18:16:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Denies Reports of a Ban on Israeli-Linked Ships in the Bab al-Mandab.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalia-denies-reports-of-a-ban-on-israeli-linked-ships-in-the-bab-al-mandab/",
+      "published_date": "2026-04-25T17:22:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Oman Hold Talks to Boost Bilateral Ties and Regional Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-oman-hold-talks-to-boost-bilateral-ties-and-regional-cooperation/",
+      "published_date": "2026-04-25T17:01:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia Marks World Immunization Week with Renewed Push to Protect Children’s Health",
       "source": "SONNA",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Did Somalia close the Bab el-Mandeb Strait to Israeli ships?",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/did-somalia-close-the-bab-el-mandeb-strait-to-israeli-ships/",
-      "published_date": "2026-04-23T17:44:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Italy slams Trump envoy proposal of taking Iran’s place in World Cup 2026",
+      "title": "How serious is the rift in NATO?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/23/italy-officials-say-replacing-iran-at-world-cup-2026-would-be-shameful?traffic_source=rss",
-      "published_date": "2026-04-23T17:34:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/25/how-serious-is-the-rift-in-nato?traffic_source=rss",
+      "published_date": "2026-04-25T20:55:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU pledges €75m to African Union mission in Somalia",
+      "title": "Police arrest demonstrators at pro-Palestine rally in Berlin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss",
+      "published_date": "2026-04-25T19:51:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CIA agents reported killed in Mexico were not authorised to operate: Gov’t",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss",
+      "published_date": "2026-04-25T17:26:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
+      "published_date": "2026-04-25T16:21:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia Signs Civilian Protection Agreement With CIVIC to Strengthen Safeguards During Military Operations",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/eu-pledges-e75m-to-african-union-mission-in-somalia/",
-      "published_date": "2026-04-23T16:04:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalia-signs-civilian-protection-agreement-with-civic-to-strengthen-safeguards-during-military-operations/",
+      "published_date": "2026-04-25T14:30:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Federal Cabinet Approves the “Halmeel” Unified Service Center to Overhaul Public Service Delivery",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/federal-cabinet-approves-the-halmeel-unified-service-center-to-overhaul-public-service-delivery/",
-      "published_date": "2026-04-23T12:26:20+00:00",
-      "category": "Diplomacy"
+      "title": "Deporting soldiers? Why immigrant veterans fear removal from the US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/4/25/deporting-soldiers-why-immigrant-veterans-fear-removal-from-the-us?traffic_source=rss",
+      "published_date": "2026-04-25T14:25:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali opposition holds closed-door talks with Turkish ambassador in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-opposition-holds-closed-door-talks-with-turkish-ambassador-in-mogadishu/",
-      "published_date": "2026-04-23T10:52:43+00:00",
-      "category": "Diplomacy"
+      "title": "‘Scale and coordination of Mali attacks appear unprecedented’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/scale-and-coordination-of-mali-attacks-appear-unprecedented?traffic_source=rss",
+      "published_date": "2026-04-25T12:40:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indonesian UN peacekeeper becomes sixth killed in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/indonesian-un-peacekeeper-becomes-sixth-killed-in-lebanon?traffic_source=rss",
+      "published_date": "2026-04-25T12:32:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
+      "published_date": "2026-04-25T12:23:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran resumes commercial flights from Tehran airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss",
+      "published_date": "2026-04-25T11:58:53+00:00",
+      "category": "Military"
     },
     {
       "title": "SNA Ground Forces Commander Sees Off Troops Joining Nationwide Anti-Terror Operations",
@@ -211,76 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/24/kosovo-court-jails-three-serb-separatists-over-2023-banjska-attack?traffic_source=rss",
       "published_date": "2026-04-24T17:49:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Israel targeted and killed Lebanese journalist Amal Khalil",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss",
-      "published_date": "2026-04-24T17:14:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US has three aircraft carriers in the Middle East for first time since 2003",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
-      "published_date": "2026-04-24T16:04:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Sanchez rebuffs US idea of suspending Spain from NATO",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss",
-      "published_date": "2026-04-24T15:58:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US considers suspending Spain from NATO, reported internal email suggests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss",
-      "published_date": "2026-04-24T11:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Environmental crisis in Russian city after drone attack on refinery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/environmental-crisis-in-russian-city-after-drone-attack-on-refinery?traffic_source=rss",
-      "published_date": "2026-04-24T09:27:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Global hunger report warns of rising malnutrition and famine risks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/global-hunger-report-warns-of-rising-malnutrition-and-famine-risks?traffic_source=rss",
-      "published_date": "2026-04-24T09:02:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is there a political deadlock in Lebanon?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/why-is-there-a-political-deadlock-in-lebanon?traffic_source=rss",
-      "published_date": "2026-04-24T08:49:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Baby twins attend their father’s funeral after Israeli settler attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/baby-twins-attend-their-fathers-funeral-after-israeli-settler-attack?traffic_source=rss",
-      "published_date": "2026-04-24T08:34:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Minneapolis man sentenced to 8½ years in prison for trying to join ISIS in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/minneapolis-man-sentenced-to-8%c2%bd-years-in-prison-for-trying-to-join-isis-in-somalia/",
-      "published_date": "2026-04-24T07:57:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japan builds up its ‘southern shield’ as faith in US security cover falters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/japan-builds-up-its-southern-shield-as-faith-in-us-security-cover-falters?traffic_source=rss",
-      "published_date": "2026-04-24T07:34:34+00:00",
       "category": "Military"
     },
     {
@@ -358,20 +358,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/banadir-administration-concludes-national-tree-planting-week-to-advance-greener-somalia/",
       "published_date": "2026-04-19T08:23:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Turkey Deploys Special Forces to Protect Oil Exploration in Somalia",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/turkey-deploys-special-forces-to-protect-oil-exploration-in-somalia/",
-      "published_date": "2026-04-18T20:52:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How Somalia’s First Oil Strike Reshapes Global Energy and East African Power",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/how-somalias-first-oil-strike-reshapes-global-energy-and-east-african-power/",
-      "published_date": "2026-04-18T19:54:12+00:00",
       "category": "Energy"
     },
     {
@@ -487,18 +473,53 @@
       "category": "Economy"
     },
     {
-      "title": "Mexico, Spain and Brazil call for Cuba’s sovereignty to be protected",
+      "title": "Explosion in southwest Colombia kills at least seven, state governor says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/18/mexico-spain-and-brazil-call-for-cubas-sovereignty-to-be-protected?traffic_source=rss",
-      "published_date": "2026-04-18T21:05:50+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says?traffic_source=rss",
+      "published_date": "2026-04-25T21:03:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Slavery reparations are just, but who exactly owes whom?",
+      "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/18/slavery-reparations-are-just-but-who-exactly-owes-whom?traffic_source=rss",
-      "published_date": "2026-04-18T13:00:34+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss",
+      "published_date": "2026-04-25T19:40:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Senate Speaker says will clarify position amid election impasse",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-senate-speaker-says-will-clarify-position-amid-election-impasse/",
+      "published_date": "2026-04-25T18:53:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Communications Authority Holds Consultation Meeting on Cybersecurity Risk Management and Compliance Framework",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-communications-authority-holds-consultation-meeting-on-cybersecurity-risk-management-and-compliance-framework/",
+      "published_date": "2026-04-25T14:20:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Booliska Garowe oo khamri qabtay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/25/booliska-garowe-oo-khamri-qabtay/",
+      "published_date": "2026-04-25T14:18:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Sheikh Mohamud Leads Inauguration of Ugaas Abdirisaq, Emphasizes Role of Traditional Leadership in State-Building",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-leads-inauguration-of-ugaas-abdirisaq-emphasizes-role-of-traditional-leadership-in-state-building/",
+      "published_date": "2026-04-25T13:39:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel kills four in Lebanon as it escalates ceasefire breaches",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-25T13:25:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Grand Inauguration Ceremony of Murusade Clan Chief Underway in Mogadishu",
@@ -589,55 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/4/24/us-says-iran-can-play-at-2026-world-cup-but-bars-those-with-irgc-ties?traffic_source=rss",
       "published_date": "2026-04-24T08:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burcad-badeed qabsatay markab u rarnaa dekedda Garacad",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/24/burcad-badeed-qabsatay-markab-u-rarnaa-dekedda-garacad/",
-      "published_date": "2026-04-24T01:31:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burcad-badeed qabsatay markab laga leeyahay Pakistan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/24/burcad-badeed-qabsatay-markab-laga-leeyahay-pakistan/",
-      "published_date": "2026-04-24T01:31:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US professors sue university over arrest during pro-Palestine protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss",
-      "published_date": "2026-04-23T23:20:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government of Somalia Facilitates the Repatriation of 174 Somali Nationals from Libya",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/government-of-somalia-facilitates-the-repatriation-of-174-somali-nationals-from-libya/",
-      "published_date": "2026-04-23T12:36:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland president travels to UAE as Somalia-Abu Dhabi relations remain strained",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-travels-to-uae-as-somalia-abu-dhabi-relations-remain-strained/",
-      "published_date": "2026-04-23T11:26:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rival party workers fight on election day in India’s West Bengal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/rival-party-workers-fight-on-election-day-in-indias-west-bengal?traffic_source=rss",
-      "published_date": "2026-04-23T11:09:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lafta Gareen-aligned forces move into Gedo, heightening political tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/lafta-gareen-aligned-forces-move-into-gedo-heightening-political-tensions/",
-      "published_date": "2026-04-23T10:51:20+00:00",
       "category": "Local Events"
     }
   ]
