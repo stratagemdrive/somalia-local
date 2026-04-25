@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-24T23:36:52.932153+00:00",
-  "story_count": 93,
+  "last_updated": "2026-04-25T11:43:07.343514+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Somalia Marks World Immunization Week with Renewed Push to Protect Children’s Health",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-marks-world-immunization-week-with-renewed-push-to-protect-childrens-health/",
+      "published_date": "2026-04-25T10:56:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss",
+      "published_date": "2026-04-25T07:10:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What’s at stake for Iran and the US in Islamabad?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss",
+      "published_date": "2026-04-25T04:30:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
       "source": "Al Jazeera",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia cabinet approves one-stop public service centre, backs UN ocean pact",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-cabinet-approves-one-stop-public-service-centre-backs-un-ocean-pact/",
-      "published_date": "2026-04-23T09:31:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia and China Institutionalize Strategic Knowledge Exchange with New Diplomatic Research Center",
+      "title": "SNA Ground Forces Commander Sees Off Troops Joining Nationwide Anti-Terror Operations",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-and-china-institutionalize-strategic-knowledge-exchange-with-new-diplomatic-research-center/",
-      "published_date": "2026-04-23T07:56:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/sna-ground-forces-commander-sees-off-troops-joining-nationwide-anti-terror-operations/",
+      "published_date": "2026-04-25T11:05:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
+      "title": "Gunmen stage simultaneous attacks across Mali, army says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/22/man-city-topple-arsenal-at-premier-league-summit-with-win-at-burnley?traffic_source=rss",
-      "published_date": "2026-04-22T21:27:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss",
+      "published_date": "2026-04-25T09:21:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Polls open in Gaza area in first municipal election in 20 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
+      "published_date": "2026-04-25T08:37:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tribute to Advocate Tahlil Haji Hussein, a Fearless Fighter for Justice, Rights and Freedom",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/tribute-to-advocate-tahlil-haji-hussein-a-fearless-fighter-for-justice-rights-and-freedom/",
+      "published_date": "2026-04-25T05:11:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel escalates attacks in Gaza, killing 12 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
+      "published_date": "2026-04-25T03:23:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss",
+      "published_date": "2026-04-25T02:58:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
+      "published_date": "2026-04-25T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police raid Peru’s election authorities after outcry over slow vote count",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
+      "published_date": "2026-04-24T23:22:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel continues attacks on Lebanon despite extension of ceasefire",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ukrainian married couple aged 75 killed in Russian attack on Odesa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship?traffic_source=rss",
-      "published_date": "2026-04-24T07:10:51+00:00",
-      "category": "Military"
+      "title": "Somali Pirates Seize Fuel Tanker Carrying 17 Crew Off Coast, Officials Say",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pirates-seize-fuel-tanker-carrying-17-crew-off-coast-officials-say/",
+      "published_date": "2026-04-25T09:15:09+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
+      "title": "West Bank scepticism as Palestinians doubt local elections will change much",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/does-israels-yellow-line-violate-the-lebanon-ceasefire-2?traffic_source=rss",
-      "published_date": "2026-04-24T06:56:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s May 1 deadline: Can he continue war on Iran after that?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that?traffic_source=rss",
-      "published_date": "2026-04-24T06:20:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-24T06:11:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-04-24T02:50:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
-      "published_date": "2026-04-24T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/23/us-soldier-charged-with-using-polymarket-to-bet-on-nicolas-maduro-abduction?traffic_source=rss",
-      "published_date": "2026-04-23T23:04:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funeral held for journalist killed in targeted Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss",
-      "published_date": "2026-04-23T21:11:59+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
+      "published_date": "2026-04-25T07:16:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump government extends Jones Act waiver by 90 days to dampen oil prices",
@@ -358,20 +372,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/how-somalias-first-oil-strike-reshapes-global-energy-and-east-african-power/",
       "published_date": "2026-04-18T19:54:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
-      "published_date": "2026-04-18T10:29:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/18/pope-leo-heads-to-angola-in-landmark-africa-visit-amid-trump-clash?traffic_source=rss",
-      "published_date": "2026-04-18T08:10:17+00:00",
       "category": "Energy"
     },
     {
@@ -501,18 +501,60 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia Convenes Seventh Fisheries Management and Development Council Meeting to Advance Blue Economy Frameworks",
+      "title": "Grand Inauguration Ceremony of Murusade Clan Chief Underway in Mogadishu",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-convenes-seventh-fisheries-management-and-development-council-meeting-to-advance-blue-economy-frameworks/",
-      "published_date": "2026-04-18T09:36:45+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/grand-inauguration-ceremony-of-murusade-clan-chief-underway-in-mogadishu/",
+      "published_date": "2026-04-25T11:41:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia Convenes Seventh Fisheries Council Meeting to Advance Sustainable Blue Economy",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-convenes-seventh-fisheries-council-meeting-to-advance-sustainable-blue-economy/",
-      "published_date": "2026-04-18T09:33:59+00:00",
-      "category": "Economy"
+      "title": "No government in Somalia, former custodial corps chief says",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/no-government-in-somalia-former-custodial-corps-chief-says/",
+      "published_date": "2026-04-25T10:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians cast their ballots as Gaza holds first election in 21 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
+      "published_date": "2026-04-25T09:55:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drought displaces 62,000 in Somalia as IOM warns of worsening crisis",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/drought-displaces-62000-in-somalia-as-iom-warns-of-worsening-crisis/",
+      "published_date": "2026-04-25T09:01:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ireland to demand Israel pay for settler demolition of Palestinian school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss",
+      "published_date": "2026-04-25T08:06:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ‘dhibaato’ uga timid doorashooyinkii qof iyo cod",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/25/puntland-oo-dhibaato-uga-timid-doorashooyinkii-qof-iyo-cod/",
+      "published_date": "2026-04-25T07:52:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elections without sovereignty: What Palestine’s local vote represents",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/4/25/elections-without-sovereignty-what-palestines-local-vote-really-represent?traffic_source=rss",
+      "published_date": "2026-04-25T05:50:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni oo sheegay in uusan faragelin doonin xuslista xildhibaanada Federaalka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/25/deni-oo-sheegay-in-uusan-faragelin-doonin-xuslista-xildhibaanada-federaalka/",
+      "published_date": "2026-04-25T00:23:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Madaxweyne Deni: Puntland ma aqoonsana Waqooyi Bari",
@@ -596,62 +638,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/lafta-gareen-aligned-forces-move-into-gedo-heightening-political-tensions/",
       "published_date": "2026-04-23T10:51:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka hadashay afduubka Dr Faarax Cabdi Maxamed",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/23/puntland-oo-ka-hadashay-afduubka-dr-faarax-cabdi-maxamed/",
-      "published_date": "2026-04-23T10:39:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia urges unified curriculum, tighter teacher standards amid federal challenges",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-urges-unified-curriculum-tighter-teacher-standards-amid-federal-challenges/",
-      "published_date": "2026-04-23T09:35:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xildhibaan Mukhtaar: Puntland waxay ku sii socotaa wadadii 1998-dii",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/23/xildhibaan-mukhtaar-puntland-waxay-ku-sii-socotaa-wadadii-1998-dii/",
-      "published_date": "2026-04-23T09:27:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza’s second front: The battle against disease-carrying rats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss",
-      "published_date": "2026-04-23T09:07:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will another film star be able to sway the election in India’s Tamil Nadu?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/will-another-film-star-be-able-to-sway-the-election-in-indias-tamil-nadu?traffic_source=rss",
-      "published_date": "2026-04-23T07:42:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo bixiyay amar la xiriira gobolka Mudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/23/madaxweyne-deni-oo-bixiyay-amar-la-xiriira-gobolka-mudug/",
-      "published_date": "2026-04-23T05:42:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can fish hook voters in India’s West Bengal elections?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/can-fish-hook-voters-in-indias-bengal-elections?traffic_source=rss",
-      "published_date": "2026-04-23T05:05:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss",
-      "published_date": "2026-04-23T02:02:29+00:00",
       "category": "Local Events"
     }
   ]
