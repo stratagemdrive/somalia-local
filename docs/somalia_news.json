@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-26T11:44:10.144427+00:00",
-  "story_count": 89,
+  "last_updated": "2026-04-26T23:36:15.287783+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
+      "published_date": "2026-04-26T20:47:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss",
+      "published_date": "2026-04-26T20:05:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya’s Sawe shatters two-hour marathon barrier",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss",
+      "published_date": "2026-04-26T18:43:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "National Security Advisor Holds Talks with UNSOS Acting Deputy Special Representative",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-security-advisor-holds-talks-with-unsos-acting-deputy-special-representative/",
+      "published_date": "2026-04-26T16:18:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Oman Advance Strategic Investment Cooperation Across Priority Sectors",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-oman-advance-strategic-investment-cooperation-across-priority-sectors/",
+      "published_date": "2026-04-26T13:13:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sebastian Sawe breaks London marathon record with first run under two hours",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/26/kenyas-sawe-is-worlds-first-man-to-run-a-sub-two-hour-marathon-in-london?traffic_source=rss",
+      "published_date": "2026-04-26T11:27:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "AU condemns coordinated attacks on Malian cities",
       "source": "Shabelle Media",
@@ -102,46 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russian oil exports slump as Ukraine hammers ports and refineries",
+      "title": "Israeli settler attacks Hebron activist’s home as soldier looks on",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss",
-      "published_date": "2026-04-24T16:52:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss",
+      "published_date": "2026-04-26T20:27:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former Somali PM Accuses Government of Politicizing Security Forces",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-pm-accuses-government-of-politicizing-security-forces/",
-      "published_date": "2026-04-24T07:59:42+00:00",
-      "category": "Diplomacy"
+      "title": "Bomb attack on Colombia highway kills 19 ahead of election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss",
+      "published_date": "2026-04-26T20:15:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "At least 17 Somali migrants die after boat capsizes off Algeria",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/at-least-17-somali-migrants-die-after-boat-capsizes-off-algeria/",
-      "published_date": "2026-04-24T07:52:40+00:00",
-      "category": "Diplomacy"
+      "title": "Has Iran exposed the limits of what US can achieve by force?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/26/has-iran-exposed-the-limits-of-what-us-can-achieve-by-force?traffic_source=rss",
+      "published_date": "2026-04-26T19:55:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Prime Minister Hamza Launches Urban Resilience Project for Displaced and Host Communities in Doolow",
+      "title": "Thai police arrest Indonesian wanted for $10m cyberfraud",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/thai-police-arrest-indonesian-wanted-for-10m-cyberfraud?traffic_source=rss",
+      "published_date": "2026-04-26T17:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali National Army Deputy Chief Receives Turkish Military Commander to Strengthen Cooperation",
       "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-launches-urban-resilience-project-for-displaced-and-host-communities-in-doolow/",
-      "published_date": "2026-04-24T06:10:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/somali-national-army-deputy-chief-receives-turkish-military-commander-to-strengthen-cooperation/",
+      "published_date": "2026-04-26T17:20:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
+      "title": "Iran shifts economic focus to essentials during war uncertainty",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia?traffic_source=rss",
-      "published_date": "2026-04-23T21:03:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
+      "published_date": "2026-04-26T17:00:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sanctions Cambodian senator over purported scam network links",
+      "title": "New footage shows moment of deadly bus bombing in Colombia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/us-sanctions-cambodian-senator-over-purported-scam-network-links?traffic_source=rss",
-      "published_date": "2026-04-23T20:52:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss",
+      "published_date": "2026-04-26T15:38:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘State of war’: Why Israel has escalated attacks in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
+      "published_date": "2026-04-26T15:32:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War, the Gulf & Rethinking Money in Sport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/game-theory/2026/4/26/aje-onl-gulf-sport_v3-260426?traffic_source=rss",
+      "published_date": "2026-04-26T15:06:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia Strengthens Civilian Protection as NIHRC Engages Centre for Civilians in Conflict in High-Level Talks",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-strengthens-civilian-protection-as-nihrc-engages-centre-for-civilians-in-conflict-in-high-level-talks/",
+      "published_date": "2026-04-26T14:44:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
+      "published_date": "2026-04-26T14:01:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali defense minister killed as coordinated attacks hit multiple cities: sources",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/mali-defense-minister-killed-as-coordinated-attacks-hit-multiple-cities-sources/",
+      "published_date": "2026-04-26T13:55:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel feared Amal Khalil, just as it did Shireen Abu Akleh",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/4/26/israel-feared-amal-khalil-just-as-it-did-shireen-abu-akleh?traffic_source=rss",
+      "published_date": "2026-04-26T13:45:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali defence minister killed after coordinated attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss",
+      "published_date": "2026-04-26T13:42:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jubaland Forces Prepare Major Security Operations in Gedo Region, Commander Says",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jubaland-forces-prepare-major-security-operations-in-gedo-region-commander-says/",
+      "published_date": "2026-04-26T13:40:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jubaland oo dhaq-dhaqaaq Ciidan ka billowday gobolka Gedo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jubaland-oo-dhaq-dhaqaaq-ciidan-ka-billowday-gobolka-gedo/",
+      "published_date": "2026-04-26T13:36:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
+      "published_date": "2026-04-26T13:20:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
@@ -162,125 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
       "published_date": "2026-04-26T10:20:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chornobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion?traffic_source=rss",
-      "published_date": "2026-04-26T08:52:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How American taxpayers fund Trump’s wars",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/26/how-american-taxpayers-fund-trumps-wars-3?traffic_source=rss",
-      "published_date": "2026-04-26T07:57:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World reacts to shooting at White House correspondents’ dinner",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
-      "published_date": "2026-04-26T07:57:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss",
-      "published_date": "2026-04-26T06:29:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Colombia blames dissident FARC rebel for deadly bus bomb",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss",
-      "published_date": "2026-04-26T03:37:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss",
-      "published_date": "2026-04-26T02:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How serious is the rift in NATO?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/25/how-serious-is-the-rift-in-nato?traffic_source=rss",
-      "published_date": "2026-04-25T20:55:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police arrest demonstrators at pro-Palestine rally in Berlin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss",
-      "published_date": "2026-04-25T19:51:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CIA agents reported killed in Mexico were not authorised to operate: Gov’t",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss",
-      "published_date": "2026-04-25T17:26:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
-      "published_date": "2026-04-25T16:21:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Signs Civilian Protection Agreement With CIVIC to Strengthen Safeguards During Military Operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-signs-civilian-protection-agreement-with-civic-to-strengthen-safeguards-during-military-operations/",
-      "published_date": "2026-04-25T14:30:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deporting soldiers? Why immigrant veterans fear removal from the US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/4/25/deporting-soldiers-why-immigrant-veterans-fear-removal-from-the-us?traffic_source=rss",
-      "published_date": "2026-04-25T14:25:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Scale and coordination of Mali attacks appear unprecedented’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/scale-and-coordination-of-mali-attacks-appear-unprecedented?traffic_source=rss",
-      "published_date": "2026-04-25T12:40:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesian UN peacekeeper becomes sixth killed in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/indonesian-un-peacekeeper-becomes-sixth-killed-in-lebanon?traffic_source=rss",
-      "published_date": "2026-04-25T12:32:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
-      "published_date": "2026-04-25T12:23:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran resumes commercial flights from Tehran airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss",
-      "published_date": "2026-04-25T11:58:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SNA Ground Forces Commander Sees Off Troops Joining Nationwide Anti-Terror Operations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sna-ground-forces-commander-sees-off-troops-joining-nationwide-anti-terror-operations/",
-      "published_date": "2026-04-25T11:05:20+00:00",
       "category": "Military"
     },
     {
@@ -365,13 +365,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/4/20/kenyan-women-defy-fishing-taboos-as-climate-change-threatens-lake-victoria?traffic_source=rss",
       "published_date": "2026-04-20T10:32:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Somalia Warns Oil Firms to Start Exploration or Risk Losing Licenses",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalia-warns-oil-firms-to-start-exploration-or-risk-losing-licenses/",
-      "published_date": "2026-04-19T17:59:42+00:00",
       "category": "Energy"
     },
     {
@@ -473,18 +466,39 @@
       "category": "Economy"
     },
     {
-      "title": "Canadian PM says close economic ties with US have become a ‘weakness’",
+      "title": "First trial of Assad-era Syrian official starts in Damascus",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/19/canadian-pm-says-close-economic-ties-with-us-have-become-a?traffic_source=rss",
-      "published_date": "2026-04-19T20:42:41+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/first-trial-of-assad-era-syrian-official-starts-in-damascus?traffic_source=rss",
+      "published_date": "2026-04-26T17:49:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "DRC government, M23 rebels commit to protect civilians, aid deliveries",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/19/drc-government-m23-rebels-commit-to-protect-civilians-aid-deliveries?traffic_source=rss",
-      "published_date": "2026-04-19T14:30:54+00:00",
-      "category": "Economy"
+      "title": "Second Phase of Youth, Peace and Security Consultations Concludes in Northeast States of Somalia",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/second-phase-of-youth-peace-and-security-consultations-concludes-in-northeast-states-of-somalia/",
+      "published_date": "2026-04-26T17:04:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banadir Emergency Department Leads Rescue Operations After Heavy Rains in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/banadir-emergency-department-leads-rescue-operations-after-heavy-rains-in-mogadishu/",
+      "published_date": "2026-04-26T16:36:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Puntland Lost Its Federal Crown",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/26/how-puntland-lost-its-federal-crown/",
+      "published_date": "2026-04-26T16:06:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sheikh Adan Madobe arrives in Baidoa for Southwest state leadership race",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/villa-somalia-backed-presidential-candidate-adan-madobe-arrives-in-baidoa-for-southwest-state-race/",
+      "published_date": "2026-04-26T14:12:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Speaker of the Parliament Arrives in Baidoa for Political Consultations Ahead of South West Elections",
@@ -589,41 +603,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/drought-displaces-62000-in-somalia-as-iom-warns-of-worsening-crisis/",
       "published_date": "2026-04-25T09:01:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ireland to demand Israel pay for settler demolition of Palestinian school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss",
-      "published_date": "2026-04-25T08:06:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ‘dhibaato’ uga timid doorashooyinkii qof iyo cod",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/25/puntland-oo-dhibaato-uga-timid-doorashooyinkii-qof-iyo-cod/",
-      "published_date": "2026-04-25T07:52:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elections without sovereignty: What Palestine’s local vote represents",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/25/elections-without-sovereignty-what-palestines-local-vote-really-represent?traffic_source=rss",
-      "published_date": "2026-04-25T05:50:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni oo sheegay in uusan faragelin doonin xuslista xildhibaanada Federaalka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/25/deni-oo-sheegay-in-uusan-faragelin-doonin-xuslista-xildhibaanada-federaalka/",
-      "published_date": "2026-04-25T00:23:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni: Puntland ma aqoonsana Waqooyi Bari",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/25/madaxweyne-deni-puntland-ma-aqoonsana-waqooyi-bari/",
-      "published_date": "2026-04-24T22:11:26+00:00",
       "category": "Local Events"
     }
   ]
