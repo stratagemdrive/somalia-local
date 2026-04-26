@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-25T23:34:50.540365+00:00",
-  "story_count": 87,
+  "last_updated": "2026-04-26T11:44:10.144427+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "AU condemns coordinated attacks on Malian cities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/au-condemns-coordinated-attacks-on-malian-cities/",
+      "published_date": "2026-04-26T06:58:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Strengthens Housing Partnerships in Nairobi to Support Vulnerable Communities",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-strengthens-housing-partnerships-in-nairobi-to-support-vulnerable-communities/",
+      "published_date": "2026-04-26T06:08:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Iran says no talks under siege as FM expected in Pakistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
+      "published_date": "2026-04-26T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France defends abstention on UN slave trade resolution",
       "source": "Al Jazeera",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Senator Ted Cruz Urges U.S. Recognition of Somaliland Ahead of Trump Exit",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/senator-ted-cruz-urges-u-s-recognition-of-somaliland-ahead-of-trump-exit/",
-      "published_date": "2026-04-23T20:10:42+00:00",
-      "category": "Diplomacy"
+      "title": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss",
+      "published_date": "2026-04-26T10:50:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Opposition Warns Turkish Ambassador Over Repeated Political Interference",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-opposition-warns-turkish-ambassador-over-repeated-political-interference/",
-      "published_date": "2026-04-23T19:56:15+00:00",
-      "category": "Diplomacy"
+      "title": "Somali Army Chief Visits Frontline Troops in Wajid to Boost Anti-Terror Operations",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-army-chief-visits-frontline-troops-in-wajid-to-boost-anti-terror-operations/",
+      "published_date": "2026-04-26T10:32:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia repatriates 174 migrants from Libya after harsh detention conditions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-repatriates-174-migrants-from-libya-after-harsh-detention-conditions/",
-      "published_date": "2026-04-23T17:56:49+00:00",
-      "category": "Diplomacy"
+      "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
+      "published_date": "2026-04-26T10:20:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chornobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion?traffic_source=rss",
+      "published_date": "2026-04-26T08:52:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How American taxpayers fund Trump’s wars",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/26/how-american-taxpayers-fund-trumps-wars-3?traffic_source=rss",
+      "published_date": "2026-04-26T07:57:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World reacts to shooting at White House correspondents’ dinner",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
+      "published_date": "2026-04-26T07:57:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss",
+      "published_date": "2026-04-26T06:29:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Colombia blames dissident FARC rebel for deadly bus bomb",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss",
+      "published_date": "2026-04-26T03:37:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss",
+      "published_date": "2026-04-26T02:00:32+00:00",
+      "category": "Military"
     },
     {
       "title": "How serious is the rift in NATO?",
@@ -221,67 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Gunmen stage simultaneous attacks across Mali, army says",
+      "title": "Israel destroys solar panels in south Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss",
-      "published_date": "2026-04-25T09:21:24+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss",
+      "published_date": "2026-04-26T10:17:53+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Polls open in Gaza area in first municipal election in 20 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
-      "published_date": "2026-04-25T08:37:39+00:00",
-      "category": "Military"
+      "title": "The Republic of Korea provides US$2.7 million to expand lifesaving immunization for children in Somalia",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/the-republic-of-korea-provides-us2-7-million-to-expand-lifesaving-immunization-for-children-in-somalia/",
+      "published_date": "2026-04-26T08:25:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Tribute to Advocate Tahlil Haji Hussein, a Fearless Fighter for Justice, Rights and Freedom",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/tribute-to-advocate-tahlil-haji-hussein-a-fearless-fighter-for-justice-rights-and-freedom/",
-      "published_date": "2026-04-25T05:11:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel escalates attacks in Gaza, killing 12 people",
+      "title": "We can make sure another Chornobyl disaster does not happen, here is how",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
-      "published_date": "2026-04-25T03:23:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss",
-      "published_date": "2026-04-25T02:58:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
-      "published_date": "2026-04-25T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police raid Peru’s election authorities after outcry over slow vote count",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
-      "published_date": "2026-04-24T23:22:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel continues attacks on Lebanon despite extension of ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-24T20:46:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kosovo court jails three Serb separatists over 2023 Banjska attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/kosovo-court-jails-three-serb-separatists-over-2023-banjska-attack?traffic_source=rss",
-      "published_date": "2026-04-24T17:49:51+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss",
+      "published_date": "2026-04-26T07:16:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Somali Pirates Seize Fuel Tanker Carrying 17 Crew Off Coast, Officials Say",
@@ -354,11 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Banadir Administration Concludes National Tree-Planting Week to Advance Greener Somalia",
+      "title": "Russian attacks on Ukraine kill at least five, damage ship in port",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/russian-strikes-kill-at-least-five-civilians-across-ukraine?traffic_source=rss",
+      "published_date": "2026-04-26T08:41:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Advances Aviation Investment Drive Through Strategic Stakeholder Engagement",
       "source": "SONNA",
-      "url": "https://sonna.so/en/banadir-administration-concludes-national-tree-planting-week-to-advance-greener-somalia/",
-      "published_date": "2026-04-19T08:23:29+00:00",
-      "category": "Energy"
+      "url": "https://sonna.so/en/somalia-advances-aviation-investment-drive-through-strategic-stakeholder-engagement/",
+      "published_date": "2026-04-26T08:23:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
@@ -459,18 +487,32 @@
       "category": "Economy"
     },
     {
-      "title": "The GCC has unity, it now needs joint defence and development",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/19/the-gcc-has-unity-it-now-needs-joint-defence-and-development?traffic_source=rss",
-      "published_date": "2026-04-19T10:32:42+00:00",
-      "category": "Economy"
+      "title": "Speaker of the Parliament Arrives in Baidoa for Political Consultations Ahead of South West Elections",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/speaker-of-the-parliament-arrives-in-baidoa-for-political-consultations-ahead-of-south-west-elections/",
+      "published_date": "2026-04-26T10:30:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fire razes 200 homes in Sabah, leaving hundreds homeless",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/19/fire-razes-200-homes-in-sabah-leaving-hundreds-homeless?traffic_source=rss",
-      "published_date": "2026-04-19T09:50:44+00:00",
-      "category": "Economy"
+      "title": "Electoral Commission Trains Poll Workers Ahead of Local Elections",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/electoral-commission-trains-poll-workers-ahead-of-local-elections/",
+      "published_date": "2026-04-26T08:09:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s president clears field for ally in Southwest leadership race",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-president-clears-field-for-ally-in-southwest-leadership-race/",
+      "published_date": "2026-04-26T07:19:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "17 Somali Migrants Die in Tragic Mediterranean Crossing, Disaster Agency Confirms",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/17-somali-migrants-die-in-tragic-mediterranean-crossing-disaster-agency-confirms/",
+      "published_date": "2026-04-26T06:02:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Explosion in southwest Colombia kills at least seven, state governor says",
@@ -582,34 +624,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/25/madaxweyne-deni-puntland-ma-aqoonsana-waqooyi-bari/",
       "published_date": "2026-04-24T22:11:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-24T21:42:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/us-appeals-court-rejects-trumps-ban-on-asylum-seekers-teeing-up-appeal?traffic_source=rss",
-      "published_date": "2026-04-24T19:25:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Finalizes National Comprehensive Postabortion Care Guideline Package to Strengthen Maternal Health Services",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-finalizes-national-comprehensive-postabortion-care-guideline-package-to-strengthen-maternal-health-services/",
-      "published_date": "2026-04-24T17:43:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US says Iran can play at 2026 World Cup but bars those with ‘IRGC ties’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/24/us-says-iran-can-play-at-2026-world-cup-but-bars-those-with-irgc-ties?traffic_source=rss",
-      "published_date": "2026-04-24T08:00:57+00:00",
       "category": "Local Events"
     }
   ]
