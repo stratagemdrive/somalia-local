@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-26T23:36:15.287783+00:00",
-  "story_count": 86,
+  "last_updated": "2026-04-27T12:22:07.446433+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Somalia, China Deepen Cooperation on Natural Resources and Technical Capacity Building",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-china-deepen-cooperation-on-natural-resources-and-technical-capacity-building/",
+      "published_date": "2026-04-27T11:12:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s foreign minister in Russia for talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/irans-foreign-minister-in-russia-for-talks?traffic_source=rss",
+      "published_date": "2026-04-27T10:23:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Oman Strengthen Cooperation in Transport, Communications and ICT",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-oman-strengthen-cooperation-in-transport-communications-and-ict/",
+      "published_date": "2026-04-27T08:21:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deputy Foreign Minister Receives UN Humanitarian Chief in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/deputy-foreign-minister-receives-un-humanitarian-chief-in-mogadishu/",
+      "published_date": "2026-04-27T07:54:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Humanitarian Chief arrives in Somalia for high-level aid talks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-humanitarian-chief-arrives-in-somalia-for-high-level-aid-talks/",
+      "published_date": "2026-04-27T07:42:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Senior Somali Presidential Adviser Resigns Amid Political Tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/senior-somali-presidential-adviser-resigns-amid-political-tensions/",
+      "published_date": "2026-04-27T07:33:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Araghchi to meet Putin; Strait of Hormuz remains shut",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss",
+      "published_date": "2026-04-27T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
       "source": "Al Jazeera",
@@ -95,53 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia, Oman Hold Talks to Boost Bilateral Ties and Regional Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-oman-hold-talks-to-boost-bilateral-ties-and-regional-cooperation/",
-      "published_date": "2026-04-25T17:01:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Marks World Immunization Week with Renewed Push to Protect Children’s Health",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-marks-world-immunization-week-with-renewed-push-to-protect-childrens-health/",
-      "published_date": "2026-04-25T10:56:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
+      "title": "Fighting over access to water in Chad kills at least 42, army intervenes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss",
-      "published_date": "2026-04-25T07:10:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/27/chad-clashes-over-water-resources-kill-at-least-42-in-eastern-province?traffic_source=rss",
+      "published_date": "2026-04-27T11:46:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "What’s at stake for Iran and the US in Islamabad?",
+      "title": "Varoufakis on Palantir, AI warfare, and the rise of tech lordism",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss",
-      "published_date": "2026-04-25T04:30:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/upfront/2026/4/27/varoufakis-on-palantir-ai-warfare-and-the-rise-of-tech-lordism?traffic_source=rss",
+      "published_date": "2026-04-27T11:12:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
+      "title": "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
-      "published_date": "2026-04-24T20:54:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/27/russia-attacks-odesa-claims-ukraine-hit-zaporizhzhia-nuclear-plant?traffic_source=rss",
+      "published_date": "2026-04-27T09:16:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Europe help the Middle East resolve the war on Iran?",
+      "title": "North Korea opens museum commemorating troops killed fighting for Russia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-24T19:05:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/gallery/2026/4/27/north-korea-opens-museum-for-troops-killed-fighting-for-russia?traffic_source=rss",
+      "published_date": "2026-04-27T09:01:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli attacks on Lebanon may violate international law, UN warns",
+      "title": "The war on Iran is eroding nuclear non-proliferation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss",
-      "published_date": "2026-04-24T18:24:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/4/27/the-war-on-iran-is-eroding-nuclear-non-proliferation?traffic_source=rss",
+      "published_date": "2026-04-27T08:43:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s top diplomat visits Russia as part of efforts to end the war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks?traffic_source=rss",
+      "published_date": "2026-04-27T08:10:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War and neglect fuel deadly measles epidemic in Sudan’s Darfur",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/war-and-neglect-fuel-deadly-measles-epidemic-in-sudans-darfur?traffic_source=rss",
+      "published_date": "2026-04-27T08:04:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 59 amid diplomatic push to end conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/iran-war-whats-happening-on-day-59-amid-diplomatic-push-to-end-conflict?traffic_source=rss",
+      "published_date": "2026-04-27T07:22:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Activists accused of raiding Israeli weapons factory face trial in Germany",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss",
+      "published_date": "2026-04-27T06:36:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From Australia to Vietnam, the Iran war is fuelling demand for EVs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss",
+      "published_date": "2026-04-27T04:46:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Satellite images show scale of Israeli destruction of south Lebanon towns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss",
+      "published_date": "2026-04-27T02:29:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli settler attacks Hebron activist’s home as soldier looks on",
@@ -186,6 +263,13 @@
       "category": "Military"
     },
     {
+      "title": "Somalia’s fight against Al-Shabaab weakened by mistrust in intelligence sharing, ex-spy boss says",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-fight-against-al-shabaab-weakened-by-mistrust-in-intelligence-sharing-ex-spy-boss-says/",
+      "published_date": "2026-04-26T16:34:50+00:00",
+      "category": "Military"
+    },
+    {
       "title": "New footage shows moment of deadly bus bombing in Colombia",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "War, the Gulf & Rethinking Money in Sport",
+      "title": "Oil prices rise amid stalled US-Iran peace talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/game-theory/2026/4/26/aje-onl-gulf-sport_v3-260426?traffic_source=rss",
-      "published_date": "2026-04-26T15:06:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Strengthens Civilian Protection as NIHRC Engages Centre for Civilians in Conflict in High-Level Talks",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-strengthens-civilian-protection-as-nihrc-engages-centre-for-civilians-in-conflict-in-high-level-talks/",
-      "published_date": "2026-04-26T14:44:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
-      "published_date": "2026-04-26T14:01:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali defense minister killed as coordinated attacks hit multiple cities: sources",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mali-defense-minister-killed-as-coordinated-attacks-hit-multiple-cities-sources/",
-      "published_date": "2026-04-26T13:55:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel feared Amal Khalil, just as it did Shireen Abu Akleh",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/26/israel-feared-amal-khalil-just-as-it-did-shireen-abu-akleh?traffic_source=rss",
-      "published_date": "2026-04-26T13:45:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali defence minister killed after coordinated attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss",
-      "published_date": "2026-04-26T13:42:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jubaland Forces Prepare Major Security Operations in Gedo Region, Commander Says",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jubaland-forces-prepare-major-security-operations-in-gedo-region-commander-says/",
-      "published_date": "2026-04-26T13:40:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jubaland oo dhaq-dhaqaaq Ciidan ka billowday gobolka Gedo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jubaland-oo-dhaq-dhaqaaq-ciidan-ka-billowday-gobolka-gedo/",
-      "published_date": "2026-04-26T13:36:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
-      "published_date": "2026-04-26T13:20:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss",
-      "published_date": "2026-04-26T10:50:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief Visits Frontline Troops in Wajid to Boost Anti-Terror Operations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-army-chief-visits-frontline-troops-in-wajid-to-boost-anti-terror-operations/",
-      "published_date": "2026-04-26T10:32:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
-      "published_date": "2026-04-26T10:20:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss",
+      "published_date": "2026-04-27T02:06:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "Israel destroys solar panels in south Lebanon",
@@ -361,11 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "Kenyan women defy fishing taboos as climate change threatens Lake Victoria",
+      "title": "World Cup 2026 prize money, fees to be increased for all teams: FIFA",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/20/kenyan-women-defy-fishing-taboos-as-climate-change-threatens-lake-victoria?traffic_source=rss",
-      "published_date": "2026-04-20T10:32:16+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/sports/2026/4/27/world-cup-2026-prize-money-fees-to-be-increased-for-all-teams-fifa?traffic_source=rss",
+      "published_date": "2026-04-27T10:52:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Taiwan court hands down jail terms in TSMC trade secrets case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss",
+      "published_date": "2026-04-27T05:43:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "Russian attacks on Ukraine kill at least five, damage ship in port",
@@ -459,11 +473,53 @@
       "category": "Economy"
     },
     {
-      "title": "A match made in opposition: Venezuela’s Machado courts Spain’s right wing",
+      "title": "Somalia Launches Bulsho Project to Strengthen Governance and Peacebuilding",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-launches-bulsho-project-to-strengthen-governance-and-peacebuilding/",
+      "published_date": "2026-04-27T12:18:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia, Oman discuss stronger cooperation in transport and digital infrastructure",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-oman-discuss-stronger-cooperation-in-transport-and-digital-infrastructure/",
+      "published_date": "2026-04-27T11:09:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia hunger crisis worsens as drought displaces more than 500,000 people",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/20/spain-venezuela-opposition?traffic_source=rss",
-      "published_date": "2026-04-20T11:20:53+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/gallery/2026/4/27/somalia-hunger-crisis-worsens-as-drought-displaces-over-500000-people?traffic_source=rss",
+      "published_date": "2026-04-27T10:57:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Electoral Commission Launches Training for One-Person-One-Vote Elections Staff in Afgooye",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-electoral-commission-launches-training-for-one-person-one-vote-elections-staff-in-afgooye/",
+      "published_date": "2026-04-27T09:29:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Convenes National Peace Education Steering Committee Meeting in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-convenes-national-peace-education-steering-committee-meeting-in-mogadishu/",
+      "published_date": "2026-04-27T09:27:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ku-xigeenka Xoghayaha Guud ee QM oo lagu soo dhaweeyay Muqdisho",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ku-xigeenka-xoghayaha-guud-ee-qm-oo-lagu-soo-dhaweeyay-muqdisho/",
+      "published_date": "2026-04-27T07:44:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burcad-badeed markab ku qabsaday xeebaha gobolka Mudug ee Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/27/burcad-badeed-markab-ku-qabsaday-xeebaha-gobolka-mudug-ee-puntland/",
+      "published_date": "2026-04-27T00:14:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "First trial of Assad-era Syrian official starts in Damascus",
@@ -554,55 +610,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/national-communications-authority-holds-consultation-meeting-on-cybersecurity-risk-management-and-compliance-framework/",
       "published_date": "2026-04-25T14:20:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Booliska Garowe oo khamri qabtay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/25/booliska-garowe-oo-khamri-qabtay/",
-      "published_date": "2026-04-25T14:18:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Mohamud Leads Inauguration of Ugaas Abdirisaq, Emphasizes Role of Traditional Leadership in State-Building",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-leads-inauguration-of-ugaas-abdirisaq-emphasizes-role-of-traditional-leadership-in-state-building/",
-      "published_date": "2026-04-25T13:39:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel kills four in Lebanon as it escalates ceasefire breaches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-04-25T13:25:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grand Inauguration Ceremony of Murusade Clan Chief Underway in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/grand-inauguration-ceremony-of-murusade-clan-chief-underway-in-mogadishu/",
-      "published_date": "2026-04-25T11:41:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No government in Somalia, former custodial corps chief says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/no-government-in-somalia-former-custodial-corps-chief-says/",
-      "published_date": "2026-04-25T10:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians cast their ballots as Gaza holds first election in 21 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
-      "published_date": "2026-04-25T09:55:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drought displaces 62,000 in Somalia as IOM warns of worsening crisis",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/drought-displaces-62000-in-somalia-as-iom-warns-of-worsening-crisis/",
-      "published_date": "2026-04-25T09:01:48+00:00",
       "category": "Local Events"
     }
   ]
