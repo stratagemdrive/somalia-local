@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-27T12:22:07.446433+00:00",
-  "story_count": 87,
+  "last_updated": "2026-04-27T23:51:21.084760+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Iran FM in Russia says US has offered new round of talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks?traffic_source=rss",
+      "published_date": "2026-04-27T20:59:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China seeks to block US tech giant Meta from AI acquisition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus?traffic_source=rss",
+      "published_date": "2026-04-27T20:27:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Launches WPP-II JP to Strengthen Women’s Role in Peacebuilding",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-launches-wpp-ii-jp-to-strengthen-womens-role-in-peacebuilding/",
+      "published_date": "2026-04-27T19:47:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, ASYAD Group Discuss Strategic Cooperation on Ports and Logistics",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-asyad-group-discuss-strategic-cooperation-on-ports-and-logistics/",
+      "published_date": "2026-04-27T17:06:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/analysis-bennett-lapid-alliance-attempt-to-unseat-israels-netanyahu?traffic_source=rss",
+      "published_date": "2026-04-27T16:48:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Foreign Affairs Visits Oman National Museum During Official Trip",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-foreign-affairs-visits-oman-national-museum-during-official-trip/",
+      "published_date": "2026-04-27T16:30:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada’s Carney announces a sovereign wealth fund",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/canadas-carney-announces-a-sovereign-wealth-fund?traffic_source=rss",
+      "published_date": "2026-04-27T15:52:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran offers Hormuz deal without nuclear talks, as it seeks broader buy-in",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/iran-offers-hormuz-deal-without-nuclear-talks-as-it-seeks-broader-buy-in?traffic_source=rss",
+      "published_date": "2026-04-27T15:50:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, China Deepen Cooperation on Natural Resources and Technical Capacity Building",
       "source": "SONNA",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sebastian Sawe breaks London marathon record with first run under two hours",
+      "title": "Who holds the cards in Iran-US talks?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/26/kenyas-sawe-is-worlds-first-man-to-run-a-sub-two-hour-marathon-in-london?traffic_source=rss",
-      "published_date": "2026-04-26T11:27:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss",
+      "published_date": "2026-04-27T21:00:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "AU condemns coordinated attacks on Malian cities",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/au-condemns-coordinated-attacks-on-malian-cities/",
-      "published_date": "2026-04-26T06:58:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Strengthens Housing Partnerships in Nairobi to Support Vulnerable Communities",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-strengthens-housing-partnerships-in-nairobi-to-support-vulnerable-communities/",
-      "published_date": "2026-04-26T06:08:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war live: Iran says no talks under siege as FM expected in Pakistan",
+      "title": "King Charles and Queen Camilla arrive for high-profile US state visit",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
-      "published_date": "2026-04-26T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss",
+      "published_date": "2026-04-27T20:09:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "France defends abstention on UN slave trade resolution",
+      "title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/france-defends-abstention-on-un-slave-trade-resolution?traffic_source=rss",
-      "published_date": "2026-04-25T18:58:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
+      "published_date": "2026-04-27T19:58:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia and Oman Strengthen Bilateral Ties During High-Level Talks in Muscat",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-and-oman-strengthen-bilateral-ties-during-high-level-talks-in-muscat/",
-      "published_date": "2026-04-25T18:39:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
+      "title": "US press gala shooting suspect charged with attempting to kill Trump",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss",
-      "published_date": "2026-04-25T18:16:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss",
+      "published_date": "2026-04-27T18:07:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Denies Reports of a Ban on Israeli-Linked Ships in the Bab al-Mandab.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalia-denies-reports-of-a-ban-on-israeli-linked-ships-in-the-bab-al-mandab/",
-      "published_date": "2026-04-25T17:22:18+00:00",
-      "category": "Diplomacy"
+      "title": "Will the Iran war push millions back into poverty?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss",
+      "published_date": "2026-04-27T16:23:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Fighting over access to water in Chad kills at least 42, army intervenes",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Somali National Army Deputy Chief Receives Turkish Military Commander to Strengthen Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-national-army-deputy-chief-receives-turkish-military-commander-to-strengthen-cooperation/",
-      "published_date": "2026-04-26T17:20:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran shifts economic focus to essentials during war uncertainty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
-      "published_date": "2026-04-26T17:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s fight against Al-Shabaab weakened by mistrust in intelligence sharing, ex-spy boss says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-fight-against-al-shabaab-weakened-by-mistrust-in-intelligence-sharing-ex-spy-boss-says/",
-      "published_date": "2026-04-26T16:34:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New footage shows moment of deadly bus bombing in Colombia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss",
-      "published_date": "2026-04-26T15:38:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘State of war’: Why Israel has escalated attacks in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
-      "published_date": "2026-04-26T15:32:20+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil prices rise amid stalled US-Iran peace talks",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss",
@@ -366,6 +366,20 @@
       "url": "https://www.aljazeera.com/news/2026/4/21/clean-electricity-meets-all-new-demand-curbing-fossil-fuels-says-ember?traffic_source=rss",
       "published_date": "2026-04-21T10:11:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Khatarta Burcad-badeedda oo Korortay Xeebaha Soomaaliya kadib Markab Kale oo La Afduubtay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/khatarta-burcad-badeedda-oo-korortay-xeebaha-soomaaliya-kadib-markab-kale-oo-la-afduubtay/",
+      "published_date": "2026-04-27T12:46:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pirates seize another vessel off Somali coast as threat level increased",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/pirates-seize-another-vessel-off-somali-coast-as-threat-level-increased/",
+      "published_date": "2026-04-27T12:43:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "World Cup 2026 prize money, fees to be increased for all teams: FIFA",
@@ -473,6 +487,55 @@
       "category": "Economy"
     },
     {
+      "title": "US Supreme Court reinstates Republican-favoured Texas electoral map",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map?traffic_source=rss",
+      "published_date": "2026-04-27T22:48:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Sheikh Hosts State Dinner for Somali Traditional Leaders",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-hosts-state-dinner-for-somali-traditional-leaders/",
+      "published_date": "2026-04-27T21:51:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali minister warns Mogadishu may face renewed bombings as govt-opposition rift widens",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-minister-warns-mogadishu-may-face-renewed-bombings-as-govt-opposition-rift-widens/",
+      "published_date": "2026-04-27T19:34:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Electoral Commission Extends Deadline, Sets South West Election Date",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-electoral-commission-extends-deadline-sets-south-west-election-date/",
+      "published_date": "2026-04-27T17:11:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banadir Regional Administration, National Human Rights Commission Hold Talks on Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/banadir-regional-administration-national-human-rights-commission-hold-talks-on-cooperation/",
+      "published_date": "2026-04-27T17:02:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cabdi Madoobe oo u hanjabay Somaliland iyo Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/27/cabdi-madoobe-oo-u-hanjabay-somaliland-iyo-puntland/",
+      "published_date": "2026-04-27T15:27:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo tagay Badhan, lana kulmay suldaan Siciid",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/27/madaxweyne-deni-oo-tagay-badhan-lana-kulmay-suldaan-siciid/",
+      "published_date": "2026-04-27T14:28:27+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Somalia Launches Bulsho Project to Strengthen Governance and Peacebuilding",
       "source": "SONNA",
       "url": "https://sonna.so/en/somalia-launches-bulsho-project-to-strengthen-governance-and-peacebuilding/",
@@ -561,55 +624,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/speaker-of-the-parliament-arrives-in-baidoa-for-political-consultations-ahead-of-south-west-elections/",
       "published_date": "2026-04-26T10:30:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electoral Commission Trains Poll Workers Ahead of Local Elections",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/electoral-commission-trains-poll-workers-ahead-of-local-elections/",
-      "published_date": "2026-04-26T08:09:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s president clears field for ally in Southwest leadership race",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-president-clears-field-for-ally-in-southwest-leadership-race/",
-      "published_date": "2026-04-26T07:19:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "17 Somali Migrants Die in Tragic Mediterranean Crossing, Disaster Agency Confirms",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/17-somali-migrants-die-in-tragic-mediterranean-crossing-disaster-agency-confirms/",
-      "published_date": "2026-04-26T06:02:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosion in southwest Colombia kills at least seven, state governor says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says?traffic_source=rss",
-      "published_date": "2026-04-25T21:03:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss",
-      "published_date": "2026-04-25T19:40:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Senate Speaker says will clarify position amid election impasse",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-senate-speaker-says-will-clarify-position-amid-election-impasse/",
-      "published_date": "2026-04-25T18:53:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Communications Authority Holds Consultation Meeting on Cybersecurity Risk Management and Compliance Framework",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-communications-authority-holds-consultation-meeting-on-cybersecurity-risk-management-and-compliance-framework/",
-      "published_date": "2026-04-25T14:20:28+00:00",
       "category": "Local Events"
     }
   ]
