@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-28T12:26:20.649948+00:00",
-  "story_count": 86,
+  "last_updated": "2026-04-28T23:55:37.579889+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Can the Nuclear Non-Proliferation Treaty prevent a disaster?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/28/can-the-nuclear-non-proliferation-treaty-prevent-a-disaster?traffic_source=rss",
+      "published_date": "2026-04-28T19:32:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Environment Minister participates in the Africa Regional Forum on Sustainable Development in Ethiopia",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/environment-minister-participates-in-the-africa-regional-forum-on-sustainable-development-in-ethiopia/",
+      "published_date": "2026-04-28T18:27:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Custodial Corps Chief Meets Chinese Ambassador to Boost Prison Support and Training",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-custodial-corps-chief-meets-chinese-ambassador-to-boost-prison-support-and-training/",
+      "published_date": "2026-04-28T16:14:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "State Minister for Foreign Affairs Receives UNTMIS Delegation to Strengthen Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/state-minister-for-foreign-affairs-receives-untmis-delegation-to-strengthen-cooperation/",
+      "published_date": "2026-04-28T16:12:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deputy PM Receives UN Women Delegation to Strengthen Cooperation on Women’s Empowerment",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/deputy-pm-receives-un-women-delegation-to-strengthen-cooperation-on-womens-empowerment/",
+      "published_date": "2026-04-28T14:38:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Hassan Sheikh Mohamud Meets UN Humanitarian Chief, Emphasizes Coordinated Response to Somalia’s Priorities",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-meets-un-humanitarian-chief-emphasizes-coordinated-response-to-somalias-priorities/",
+      "published_date": "2026-04-28T13:46:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali President Meets UN Humanitarian Chief to Discuss Aid Response",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-meets-un-humanitarian-chief-to-discuss-aid-response/",
+      "published_date": "2026-04-28T13:09:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "State Minister for Foreign Affairs Receives UNTMIS Delegation, Reaffirms Somalia-Led Transition",
       "source": "SONNA",
@@ -95,53 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia, China Deepen Cooperation on Natural Resources and Technical Capacity Building",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-china-deepen-cooperation-on-natural-resources-and-technical-capacity-building/",
-      "published_date": "2026-04-27T11:12:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s foreign minister in Russia for talks",
+      "title": "Israeli soldier shows Gaza’s Beit Hanoon completely flattened",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/irans-foreign-minister-in-russia-for-talks?traffic_source=rss",
-      "published_date": "2026-04-27T10:23:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/israeli-soldier-shows-gazas-beit-hanoon-completely-flattened?traffic_source=rss",
+      "published_date": "2026-04-28T22:50:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Oman Strengthen Cooperation in Transport, Communications and ICT",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-oman-strengthen-cooperation-in-transport-communications-and-ict/",
-      "published_date": "2026-04-27T08:21:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deputy Foreign Minister Receives UN Humanitarian Chief in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/deputy-foreign-minister-receives-un-humanitarian-chief-in-mogadishu/",
-      "published_date": "2026-04-27T07:54:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN Humanitarian Chief arrives in Somalia for high-level aid talks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-humanitarian-chief-arrives-in-somalia-for-high-level-aid-talks/",
-      "published_date": "2026-04-27T07:42:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Senior Somali Presidential Adviser Resigns Amid Political Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/senior-somali-presidential-adviser-resigns-amid-political-tensions/",
-      "published_date": "2026-04-27T07:33:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war live: Araghchi to meet Putin; Strait of Hormuz remains shut",
+      "title": "The biggest military spenders",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss",
-      "published_date": "2026-04-27T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/the-biggest-military-spenders?traffic_source=rss",
+      "published_date": "2026-04-28T21:49:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump scolds Germany’s Merz for criticism of Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/trump-scolds-germanys-merz-for-criticism-of-iran-war?traffic_source=rss",
+      "published_date": "2026-04-28T19:59:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After 60 days of war in Iran, does US Congress want a say?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say?traffic_source=rss",
+      "published_date": "2026-04-28T19:40:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Massive explosion from Israeli operation seen in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/massive-explosion-from-israeli-operation-seen-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-28T19:34:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/austrian-pleads-guilty-to-isil-planned-attack-on-taylor-swift-concert?traffic_source=rss",
+      "published_date": "2026-04-28T19:06:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump approval dips to record low amid Iran war, inflation woes: Poll",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss",
+      "published_date": "2026-04-28T19:02:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali military leader Goita emerges as Russia declares it halted coup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/malis-military-leader-goita-emerges-as-russia-declares-it-halted-coup?traffic_source=rss",
+      "published_date": "2026-04-28T18:48:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Amnesty calls for US strike on Yemen to be investigated as war crime",
@@ -228,60 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Will the Iran war push millions back into poverty?",
+      "title": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss",
-      "published_date": "2026-04-27T16:23:27+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/4/28/as-us-iran-talks-remain-stalled-experts-warn-of-long-term-disruptions?traffic_source=rss",
+      "published_date": "2026-04-28T22:08:54+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Fighting over access to water in Chad kills at least 42, army intervenes",
+      "title": "What are OPEC and OPEC +, and why has the UAE quit?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/chad-clashes-over-water-resources-kill-at-least-42-in-eastern-province?traffic_source=rss",
-      "published_date": "2026-04-27T11:46:03+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/28/what-are-opec-and-opec-and-why-has-the-uae-quit?traffic_source=rss",
+      "published_date": "2026-04-28T18:05:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Varoufakis on Palantir, AI warfare, and the rise of tech lordism",
+      "title": "Bosnia signs up to Trump-linked pipeline to reduce Russian gas dependence",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/upfront/2026/4/27/varoufakis-on-palantir-ai-warfare-and-the-rise-of-tech-lordism?traffic_source=rss",
-      "published_date": "2026-04-27T11:12:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/russia-attacks-odesa-claims-ukraine-hit-zaporizhzhia-nuclear-plant?traffic_source=rss",
-      "published_date": "2026-04-27T09:16:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea opens museum commemorating troops killed fighting for Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/27/north-korea-opens-museum-for-troops-killed-fighting-for-russia?traffic_source=rss",
-      "published_date": "2026-04-27T09:01:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The war on Iran is eroding nuclear non-proliferation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/27/the-war-on-iran-is-eroding-nuclear-non-proliferation?traffic_source=rss",
-      "published_date": "2026-04-27T08:43:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s top diplomat visits Russia as part of efforts to end the war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks?traffic_source=rss",
-      "published_date": "2026-04-27T08:10:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War and neglect fuel deadly measles epidemic in Sudan’s Darfur",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/war-and-neglect-fuel-deadly-measles-epidemic-in-sudans-darfur?traffic_source=rss",
-      "published_date": "2026-04-27T08:04:35+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/28/bosnia-signs-up-to-trump-linked-pipeline-to-reduce-russian-gas-dependence?traffic_source=rss",
+      "published_date": "2026-04-28T17:17:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices rise amid stalled US-Iran peace talks",
@@ -359,6 +380,20 @@
       "url": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss",
       "published_date": "2026-04-22T07:18:26+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Nearly eight million people in South Sudan at risk of acute hunger: NGOs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/nearly-eight-million-people-in-south-sudan-at-risk-of-acute-hunger-ngos?traffic_source=rss",
+      "published_date": "2026-04-28T20:03:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Families forced into displacement by famine in Sudan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/families-forced-into-displacement-by-famine-in-sudan?traffic_source=rss",
+      "published_date": "2026-04-28T19:14:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia seeks port investment partnership with Oman’s ASYAD Group",
@@ -445,25 +480,39 @@
       "category": "Economy"
     },
     {
-      "title": "Trump administration sues Southern Poverty Law Center on fraud charges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/trump-administration-sues-southern-poverty-law-center-on-fraud-charges?traffic_source=rss",
-      "published_date": "2026-04-21T23:08:16+00:00",
-      "category": "Economy"
+      "title": "First Lady Sahro Omar Hassan Hosts Orphaned Children in Jazeera Visit",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/first-lady-sahro-omar-hassan-hosts-orphaned-children-in-jazeera-visit/",
+      "published_date": "2026-04-28T17:40:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pro-Palestine legal aid requests stay high in 2025 amid US campus pressure",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/pro-palestine-legal-aid-requests-stay-high-in-2025-amid-us-campus-pressure?traffic_source=rss",
-      "published_date": "2026-04-21T20:48:47+00:00",
-      "category": "Economy"
+      "title": "Minister of Defence Attends Security Sector Governance Review, Emphasises Accountability and Institutional Reform",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-defence-attends-security-sector-governance-review-emphasises-accountability-and-institutional-reform/",
+      "published_date": "2026-04-28T14:43:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany, Italy block bid to suspend EU-Israel trade agreement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/germany-italy-block-bid-to-suspend-eu-israel-trade-agreement?traffic_source=rss",
-      "published_date": "2026-04-21T20:16:19+00:00",
-      "category": "Economy"
+      "title": "National Human Rights Commission, UNICEF Discuss Strengthening Child Rights Protection",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-human-rights-commission-unicef-discuss-strengthening-child-rights-protection/",
+      "published_date": "2026-04-28T14:42:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West Interim Leader Meets Presidential Candidate to Discuss Elections and Political Process",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-interim-leader-meets-presidential-candidate-to-discuss-elections-and-political-process/",
+      "published_date": "2026-04-28T14:40:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amnesty demands release of Somali activist ‘Sacdiya Bajaj’",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/amnesty-demands-release-of-somali-activist-sacdiya-bajaj/",
+      "published_date": "2026-04-28T12:56:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia’s Puntland leader warns federal government ‘will no longer be considered in existence’ after May 15",
@@ -568,41 +617,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-oman-discuss-stronger-cooperation-in-transport-and-digital-infrastructure/",
       "published_date": "2026-04-27T11:09:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia hunger crisis worsens as drought displaces more than 500,000 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/27/somalia-hunger-crisis-worsens-as-drought-displaces-over-500000-people?traffic_source=rss",
-      "published_date": "2026-04-27T10:57:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Electoral Commission Launches Training for One-Person-One-Vote Elections Staff in Afgooye",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-electoral-commission-launches-training-for-one-person-one-vote-elections-staff-in-afgooye/",
-      "published_date": "2026-04-27T09:29:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Convenes National Peace Education Steering Committee Meeting in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-convenes-national-peace-education-steering-committee-meeting-in-mogadishu/",
-      "published_date": "2026-04-27T09:27:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ku-xigeenka Xoghayaha Guud ee QM oo lagu soo dhaweeyay Muqdisho",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ku-xigeenka-xoghayaha-guud-ee-qm-oo-lagu-soo-dhaweeyay-muqdisho/",
-      "published_date": "2026-04-27T07:44:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burcad-badeed markab ku qabsaday xeebaha gobolka Mudug ee Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/27/burcad-badeed-markab-ku-qabsaday-xeebaha-gobolka-mudug-ee-puntland/",
-      "published_date": "2026-04-27T00:14:18+00:00",
       "category": "Local Events"
     }
   ]
