@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-27T23:51:21.084760+00:00",
-  "story_count": 89,
+  "last_updated": "2026-04-28T12:26:20.649948+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "State Minister for Foreign Affairs Receives UNTMIS Delegation, Reaffirms Somalia-Led Transition",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/state-minister-for-foreign-affairs-receives-untmis-delegation-reaffirms-somalia-led-transition/",
+      "published_date": "2026-04-28T11:04:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq appoints new prime minister-designate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/iraq-appoints-new-prime-minister-designate?traffic_source=rss",
+      "published_date": "2026-04-28T09:30:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SoDMA Chairman Receives UN Humanitarian Chief in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/sodma-chairman-receives-un-humanitarian-chief-in-mogadishu/",
+      "published_date": "2026-04-28T08:40:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss",
+      "published_date": "2026-04-28T07:34:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia vows stronger protection for commercial shipping amid maritime security concerns",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-vows-stronger-protection-for-commercial-shipping-amid-maritime-security-concerns/",
+      "published_date": "2026-04-28T06:12:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran FM in Russia says US has offered new round of talks",
       "source": "Al Jazeera",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
+      "title": "Amnesty calls for US strike on Yemen to be investigated as war crime",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
-      "published_date": "2026-04-26T20:47:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/28/amnesty-calls-for-us-strike-on-yemen-to-be-investigated-as-war-crime?traffic_source=rss",
+      "published_date": "2026-04-28T11:27:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
+      "title": "How the US-Israeli war is collapsing the sanctions regime on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss",
-      "published_date": "2026-04-26T20:05:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran?traffic_source=rss",
+      "published_date": "2026-04-28T11:19:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya’s Sawe shatters two-hour marathon barrier",
+      "title": "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss",
-      "published_date": "2026-04-26T18:43:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again?traffic_source=rss",
+      "published_date": "2026-04-28T11:18:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "National Security Advisor Holds Talks with UNSOS Acting Deputy Special Representative",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-security-advisor-holds-talks-with-unsos-acting-deputy-special-representative/",
-      "published_date": "2026-04-26T16:18:56+00:00",
-      "category": "Diplomacy"
+      "title": "Born during Israel’s genocide: Gaza’s child survivors bear the scars of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/28/born-during-israels-genocide-gazas-child-survivors-bear-the-scars-of-war?traffic_source=rss",
+      "published_date": "2026-04-28T10:52:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Oman Advance Strategic Investment Cooperation Across Priority Sectors",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-oman-advance-strategic-investment-cooperation-across-priority-sectors/",
-      "published_date": "2026-04-26T13:13:54+00:00",
-      "category": "Diplomacy"
+      "title": "How Iran has changed, and how it hasn’t, in two months of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss",
+      "published_date": "2026-04-28T09:15:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss",
+      "published_date": "2026-04-28T08:24:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
+      "published_date": "2026-04-28T08:20:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK appeals High Court ruling that granted Palestine Action a victory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/uk-to-appeal-high-court-ruling-that-granted-palestine-action-a-victory?traffic_source=rss",
+      "published_date": "2026-04-28T07:34:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Who holds the cards in Iran-US talks?",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran war: What’s happening on day 59 amid diplomatic push to end conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/iran-war-whats-happening-on-day-59-amid-diplomatic-push-to-end-conflict?traffic_source=rss",
-      "published_date": "2026-04-27T07:22:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Activists accused of raiding Israeli weapons factory face trial in Germany",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss",
-      "published_date": "2026-04-27T06:36:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Australia to Vietnam, the Iran war is fuelling demand for EVs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss",
-      "published_date": "2026-04-27T04:46:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Satellite images show scale of Israeli destruction of south Lebanon towns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss",
-      "published_date": "2026-04-27T02:29:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settler attacks Hebron activist’s home as soldier looks on",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss",
-      "published_date": "2026-04-26T20:27:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb attack on Colombia highway kills 19 ahead of election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss",
-      "published_date": "2026-04-26T20:15:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has Iran exposed the limits of what US can achieve by force?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/26/has-iran-exposed-the-limits-of-what-us-can-achieve-by-force?traffic_source=rss",
-      "published_date": "2026-04-26T19:55:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thai police arrest Indonesian wanted for $10m cyberfraud",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/thai-police-arrest-indonesian-wanted-for-10m-cyberfraud?traffic_source=rss",
-      "published_date": "2026-04-26T17:38:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil prices rise amid stalled US-Iran peace talks",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss",
@@ -361,11 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Clean electricity meets all new demand, curbing fossil fuels, says Ember",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/clean-electricity-meets-all-new-demand-curbing-fossil-fuels-says-ember?traffic_source=rss",
-      "published_date": "2026-04-21T10:11:07+00:00",
-      "category": "Energy"
+      "title": "Somalia seeks port investment partnership with Oman’s ASYAD Group",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-seeks-port-investment-partnership-with-omans-asyad-group/",
+      "published_date": "2026-04-28T06:08:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Khatarta Burcad-badeedda oo Korortay Xeebaha Soomaaliya kadib Markab Kale oo La Afduubtay",
@@ -466,25 +466,46 @@
       "category": "Economy"
     },
     {
-      "title": "Strait of Hormuz: How a threat became a playbook",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/4/21/strait-of-hormuz-how-a-threat-became-a-playbook?traffic_source=rss",
-      "published_date": "2026-04-21T11:11:04+00:00",
-      "category": "Economy"
+      "title": "Somalia’s Puntland leader warns federal government ‘will no longer be considered in existence’ after May 15",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-puntland-leader-warns-federal-government-will-no-longer-be-considered-in-existence-after-may-15/",
+      "published_date": "2026-04-28T09:21:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Is China a winner of the Iran war or facing economic risks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/21/is-china-a-winner-of-the-iran-war-or-facing-economic-risks?traffic_source=rss",
-      "published_date": "2026-04-21T10:40:38+00:00",
-      "category": "Economy"
+      "title": "Voter Registration Underway in Galbarwaqo as Electoral Commission Expands Outreach in Mudug",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/voter-registration-underway-in-galbarwaqo-as-electoral-commission-expands-outreach-in-mudug/",
+      "published_date": "2026-04-28T09:15:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US, Iran exchange threats as fragile ceasefire set to expire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire?traffic_source=rss",
-      "published_date": "2026-04-21T07:55:38+00:00",
-      "category": "Economy"
+      "title": "Voter Registration Kicks Off in Galbarwaaqo, Mudug Region",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/voter-registration-kicks-off-in-galbarwaaqo-mudug-region/",
+      "published_date": "2026-04-28T08:32:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muddo kordhin loo sameeyay goleyaasha wakiilada iyo deegaanka Somaliland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/28/muddo-kordhin-loo-sameeyay-goleyaasha-wakiilada-iyo-deegaanka-somaliland/",
+      "published_date": "2026-04-28T07:13:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni: Dowlad Federaal ah ma jirto wixii ka dambeeya 15 Maajo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/28/deni-dowlad-federaal-ah-ma-jirto-wixii-ka-dambeeya-15-maajo/",
+      "published_date": "2026-04-28T06:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali president hosts traditional elders, reaffirms commitment to elections",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-hosts-traditional-elders-reaffirms-commitment-to-elections/",
+      "published_date": "2026-04-28T06:15:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US Supreme Court reinstates Republican-favoured Texas electoral map",
@@ -582,48 +603,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/27/burcad-badeed-markab-ku-qabsaday-xeebaha-gobolka-mudug-ee-puntland/",
       "published_date": "2026-04-27T00:14:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First trial of Assad-era Syrian official starts in Damascus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/first-trial-of-assad-era-syrian-official-starts-in-damascus?traffic_source=rss",
-      "published_date": "2026-04-26T17:49:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second Phase of Youth, Peace and Security Consultations Concludes in Northeast States of Somalia",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/second-phase-of-youth-peace-and-security-consultations-concludes-in-northeast-states-of-somalia/",
-      "published_date": "2026-04-26T17:04:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banadir Emergency Department Leads Rescue Operations After Heavy Rains in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/banadir-emergency-department-leads-rescue-operations-after-heavy-rains-in-mogadishu/",
-      "published_date": "2026-04-26T16:36:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Puntland Lost Its Federal Crown",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/26/how-puntland-lost-its-federal-crown/",
-      "published_date": "2026-04-26T16:06:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sheikh Adan Madobe arrives in Baidoa for Southwest state leadership race",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/villa-somalia-backed-presidential-candidate-adan-madobe-arrives-in-baidoa-for-southwest-state-race/",
-      "published_date": "2026-04-26T14:12:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speaker of the Parliament Arrives in Baidoa for Political Consultations Ahead of South West Elections",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/speaker-of-the-parliament-arrives-in-baidoa-for-political-consultations-ahead-of-south-west-elections/",
-      "published_date": "2026-04-26T10:30:07+00:00",
       "category": "Local Events"
     }
   ]
