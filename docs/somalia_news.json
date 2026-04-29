@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-28T23:55:37.579889+00:00",
-  "story_count": 88,
+  "last_updated": "2026-04-29T12:20:04.432764+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Somalia and China Strengthen Media, Culture Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-and-china-strengthen-media-culture-cooperation/",
+      "published_date": "2026-04-29T12:11:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s president says open to opposition dialogue amid political tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-says-open-to-opposition-dialogue-amid-political-tensions/",
+      "published_date": "2026-04-29T11:55:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How US and Iran are playing a crypto cat-and-mouse game over sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/29/how-us-and-iran-are-playing-a-crypto-cat-and-mouse-game-over-sanctions?traffic_source=rss",
+      "published_date": "2026-04-29T11:44:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali PM, Kenyan Envoy Discuss Security and Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-pm-kenyan-envoy-discuss-security-and-cooperation/",
+      "published_date": "2026-04-29T10:55:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Commission president calls for diplomacy to end Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/european-commission-president-calls-for-diplomacy-to-end-iran-war?traffic_source=rss",
+      "published_date": "2026-04-29T10:20:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe named ‘fastest-warming continent’ in latest climate change report",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/29/europe-named-fastest-warming-continent-in-latest-climate-change-report?traffic_source=rss",
+      "published_date": "2026-04-29T06:33:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Can the Nuclear Non-Proliferation Treaty prevent a disaster?",
       "source": "Al Jazeera",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Launches WPP-II JP to Strengthen Women’s Role in Peacebuilding",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-launches-wpp-ii-jp-to-strengthen-womens-role-in-peacebuilding/",
-      "published_date": "2026-04-27T19:47:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia, ASYAD Group Discuss Strategic Cooperation on Ports and Logistics",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-asyad-group-discuss-strategic-cooperation-on-ports-and-logistics/",
-      "published_date": "2026-04-27T17:06:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
+      "title": "Indonesia puts four soldiers on trial over acid attack on activist",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/analysis-bennett-lapid-alliance-attempt-to-unseat-israels-netanyahu?traffic_source=rss",
-      "published_date": "2026-04-27T16:48:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/29/indonesia-court-starts-trial-of-soldiers-accused-of-acid-attack-on-activist?traffic_source=rss",
+      "published_date": "2026-04-29T08:55:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Minister of Foreign Affairs Visits Oman National Museum During Official Trip",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-foreign-affairs-visits-oman-national-museum-during-official-trip/",
-      "published_date": "2026-04-27T16:30:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada’s Carney announces a sovereign wealth fund",
+      "title": "‘Particularly badly exposed’: How the Iran war is hitting the UK",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/canadas-carney-announces-a-sovereign-wealth-fund?traffic_source=rss",
-      "published_date": "2026-04-27T15:52:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk?traffic_source=rss",
+      "published_date": "2026-04-29T08:25:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran offers Hormuz deal without nuclear talks, as it seeks broader buy-in",
+      "title": "Two Kashmir brothers: One killed by rebels, another by army 26 years later",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/iran-offers-hormuz-deal-without-nuclear-talks-as-it-seeks-broader-buy-in?traffic_source=rss",
-      "published_date": "2026-04-27T15:50:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/29/two-kashmir-brothers-one-killed-by-rebels-another-by-army-26-years-later?traffic_source=rss",
+      "published_date": "2026-04-29T07:00:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Life in limbo: How Iranians navigate a state of ‘no war, no peace’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/29/life-in-limbo-how-iranians-navigate-a-state-of-no-war-no-peace?traffic_source=rss",
+      "published_date": "2026-04-29T06:58:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 61 as UAE exits OPEC?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/29/iran-war-whats-happening-on-day-61-as-uae-exits-opec?traffic_source=rss",
+      "published_date": "2026-04-29T06:58:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Afghan students recount harrowing university strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/afghan-students-recount-harrowing-university-strike?traffic_source=rss",
+      "published_date": "2026-04-29T05:10:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Senate blocks bid to stop Trump using military against Cuba",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba?traffic_source=rss",
+      "published_date": "2026-04-29T05:06:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli soldier shows Gaza’s Beit Hanoon completely flattened",
@@ -235,53 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
+      "title": "The UAE’s OPEC exit is not about oil; it is the end of Gulf solidarity",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss",
-      "published_date": "2026-04-28T08:24:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/4/29/the-uaes-opec-exit-is-not-about-oil-it-is-the-end-of-gulf-solidarity?traffic_source=rss",
+      "published_date": "2026-04-29T11:22:55+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
+      "title": "Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
-      "published_date": "2026-04-28T08:20:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu?traffic_source=rss",
+      "published_date": "2026-04-29T09:20:28+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK appeals High Court ruling that granted Palestine Action a victory",
+      "title": "‘Encouraging’: Global rainforest loss slows in 2025 after record year",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/28/uk-to-appeal-high-court-ruling-that-granted-palestine-action-a-victory?traffic_source=rss",
-      "published_date": "2026-04-28T07:34:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who holds the cards in Iran-US talks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss",
-      "published_date": "2026-04-27T21:00:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "King Charles and Queen Camilla arrive for high-profile US state visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss",
-      "published_date": "2026-04-27T20:09:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
-      "published_date": "2026-04-27T19:58:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US press gala shooting suspect charged with attempting to kill Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss",
-      "published_date": "2026-04-27T18:07:25+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/29/tropical-forest-loss-slows-in-2025-after-record-year-report?traffic_source=rss",
+      "published_date": "2026-04-29T07:48:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’",
@@ -375,11 +396,25 @@
       "category": "Energy"
     },
     {
-      "title": "US halts shipment of Iraq’s oil dollars to curb Iran-linked groups: WSJ",
+      "title": "Humanitarian crisis deepens in Somalia as hunger, drought and displacement worsen",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/humanitarian-crisis-deepens-in-somalia-as-hunger-drought-and-displacement-worsen/",
+      "published_date": "2026-04-29T11:52:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Is India’s Chabahar dream in Iran dead?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss",
-      "published_date": "2026-04-22T07:18:26+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/features/2026/4/29/is-indias-chabahar-dream-in-iran-dead?traffic_source=rss",
+      "published_date": "2026-04-29T07:46:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade?traffic_source=rss",
+      "published_date": "2026-04-29T06:02:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "Nearly eight million people in South Sudan at risk of acute hunger: NGOs",
@@ -473,11 +508,74 @@
       "category": "Economy"
     },
     {
-      "title": "Puntland Launches Campaign Against Illegal Fishing",
+      "title": "UN humanitarian chief visits Baidoa as South West State seeks more drought aid",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-launches-campaign-against-illegal-fishing/",
-      "published_date": "2026-04-22T07:49:19+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/un-humanitarian-chief-visits-baidoa-as-south-west-state-seeks-more-drought-aid/",
+      "published_date": "2026-04-29T11:57:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia pushes security sector reforms to strengthen governance and accountability",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pushes-security-sector-reforms-to-strengthen-governance-and-accountability/",
+      "published_date": "2026-04-29T11:54:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State Leadership Advances Humanitarian Coordination with UN Under-Secretary-General in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-state-leadership-advances-humanitarian-coordination-with-un-under-secretary-general-in-baidoa/",
+      "published_date": "2026-04-29T09:58:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afghan women’s refugee team allowed to play in FIFA tournaments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/29/afghan-womens-refugee-team-allowed-to-play-in-fifa-tournaments?traffic_source=rss",
+      "published_date": "2026-04-29T09:48:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Somalia’s president losing support as key allies abandon his camp?",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/is-somalias-president-losing-support-as-key-allies-abandon-his-camp/",
+      "published_date": "2026-04-29T09:48:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian football body appeals FIFA ruling on Israel at top sports court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/29/palestinian-football-body-appeals-fifa-ruling-on-israel-at-top-sports-court?traffic_source=rss",
+      "published_date": "2026-04-29T09:46:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red card for players covering their mouths in World Cup matches",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/29/red-card-for-players-covering-their-mouths-in-world-cup-matches?traffic_source=rss",
+      "published_date": "2026-04-29T08:23:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Beelaha Dir iyo Shiikhaal oo gaaray heshiis hordhac ah",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/29/puntland-beelaha-dir-iyo-shiikhaal-oo-gaaray-heshiis-hordhac-ah/",
+      "published_date": "2026-04-29T06:07:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "White House hails ‘two kings’ as King Charles delivers pointed remarks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/white-house-hails-two-kings-as-king-charles-delivers-pointed-remarks?traffic_source=rss",
+      "published_date": "2026-04-29T05:11:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s ousted Southwest leader Laftagaren plans comeback as federal forces tighten grip on Baidoa",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-ousted-southwest-leader-laftagaren-plans-comeback-as-federal-forces-tighten-grip-on-baidoa/",
+      "published_date": "2026-04-29T04:23:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "First Lady Sahro Omar Hassan Hosts Orphaned Children in Jazeera Visit",
@@ -547,76 +645,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/04/28/deni-dowlad-federaal-ah-ma-jirto-wixii-ka-dambeeya-15-maajo/",
       "published_date": "2026-04-28T06:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali president hosts traditional elders, reaffirms commitment to elections",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-hosts-traditional-elders-reaffirms-commitment-to-elections/",
-      "published_date": "2026-04-28T06:15:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court reinstates Republican-favoured Texas electoral map",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map?traffic_source=rss",
-      "published_date": "2026-04-27T22:48:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Hosts State Dinner for Somali Traditional Leaders",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-hosts-state-dinner-for-somali-traditional-leaders/",
-      "published_date": "2026-04-27T21:51:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali minister warns Mogadishu may face renewed bombings as govt-opposition rift widens",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-minister-warns-mogadishu-may-face-renewed-bombings-as-govt-opposition-rift-widens/",
-      "published_date": "2026-04-27T19:34:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Electoral Commission Extends Deadline, Sets South West Election Date",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-electoral-commission-extends-deadline-sets-south-west-election-date/",
-      "published_date": "2026-04-27T17:11:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banadir Regional Administration, National Human Rights Commission Hold Talks on Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/banadir-regional-administration-national-human-rights-commission-hold-talks-on-cooperation/",
-      "published_date": "2026-04-27T17:02:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cabdi Madoobe oo u hanjabay Somaliland iyo Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/27/cabdi-madoobe-oo-u-hanjabay-somaliland-iyo-puntland/",
-      "published_date": "2026-04-27T15:27:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo tagay Badhan, lana kulmay suldaan Siciid",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/27/madaxweyne-deni-oo-tagay-badhan-lana-kulmay-suldaan-siciid/",
-      "published_date": "2026-04-27T14:28:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Launches Bulsho Project to Strengthen Governance and Peacebuilding",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-launches-bulsho-project-to-strengthen-governance-and-peacebuilding/",
-      "published_date": "2026-04-27T12:18:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia, Oman discuss stronger cooperation in transport and digital infrastructure",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-oman-discuss-stronger-cooperation-in-transport-and-digital-infrastructure/",
-      "published_date": "2026-04-27T11:09:17+00:00",
       "category": "Local Events"
     }
   ]
