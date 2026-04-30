@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-30T12:17:47.436717+00:00",
-  "story_count": 98,
+  "last_updated": "2026-04-30T23:50:45.552193+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss",
+      "published_date": "2026-04-30T21:31:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya’s Sawe hailed at State House after historic marathon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/kenyas-sawe-hailed-at-state-house-after-historic-marathon?traffic_source=rss",
+      "published_date": "2026-04-30T21:17:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN chief calls for immediate reopening of the Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/un-chief-calls-for-immediate-reopening-of-the-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-04-30T18:02:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia Escalates Ideological Warfare Against Terrorism at High-Level TUBSAN Coordination Forum",
       "source": "SONNA",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Custodial Corps Chief Meets Chinese Ambassador to Boost Prison Support and Training",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-custodial-corps-chief-meets-chinese-ambassador-to-boost-prison-support-and-training/",
-      "published_date": "2026-04-28T16:14:06+00:00",
-      "category": "Diplomacy"
+      "title": "Palestinians mourn football loving teenager killed by Israeli army",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss",
+      "published_date": "2026-04-30T21:24:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "State Minister for Foreign Affairs Receives UNTMIS Delegation to Strengthen Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/state-minister-for-foreign-affairs-receives-untmis-delegation-to-strengthen-cooperation/",
-      "published_date": "2026-04-28T16:12:53+00:00",
-      "category": "Diplomacy"
+      "title": "Hegseth testifies on Iran war before Senate committee: Key takeaways",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss",
+      "published_date": "2026-04-30T21:09:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Deputy PM Receives UN Women Delegation to Strengthen Cooperation on Women’s Empowerment",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/deputy-pm-receives-un-women-delegation-to-strengthen-cooperation-on-womens-empowerment/",
-      "published_date": "2026-04-28T14:38:49+00:00",
-      "category": "Diplomacy"
+      "title": "Flotilla activist: Israel’s ‘brutal attack’ will not deter us",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss",
+      "published_date": "2026-04-30T21:05:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran will play World Cup games in US according to FIFA chief Infantino",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss",
+      "published_date": "2026-04-30T19:10:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss",
+      "published_date": "2026-04-30T18:59:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese girl mourns paramedic father killed in Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss",
+      "published_date": "2026-04-30T18:38:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three civilians killed in Somalia eviction clash in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/three-civilians-killed-in-somalia-eviction-clash-in-mogadishu/",
+      "published_date": "2026-04-30T14:44:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Somali forces kill 22 Al-Shabaab fighters, including senior commander, in Lower Shabelle operation",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "CCTV footage shows moment Israeli strike targets Palestinians",
+      "title": "UAE exit signals OPEC’s declining grip on oil markets",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/cctv-footage-shows-moment-israeli-strike-targets-palestinians?traffic_source=rss",
-      "published_date": "2026-04-29T19:08:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK’s ‘terrorism’ laws risk overreach, watchdog warns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/uks-terrorism-laws-risk-overreach-watchdog-warns?traffic_source=rss",
-      "published_date": "2026-04-29T18:51:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Forces Kill 22 Al-Shabaab Militants, Including Commander, in Lower Shabelle Region",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-forces-kill-22-al-shabaab-militants-including-commander-in-lower-shabelle-region/",
-      "published_date": "2026-04-29T12:58:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesia puts four soldiers on trial over acid attack on activist",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/indonesia-court-starts-trial-of-soldiers-accused-of-acid-attack-on-activist?traffic_source=rss",
-      "published_date": "2026-04-29T08:55:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Particularly badly exposed’: How the Iran war is hitting the UK",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk?traffic_source=rss",
-      "published_date": "2026-04-29T08:25:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Kashmir brothers: One killed by rebels, another by army 26 years later",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/two-kashmir-brothers-one-killed-by-rebels-another-by-army-26-years-later?traffic_source=rss",
-      "published_date": "2026-04-29T07:00:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Life in limbo: How Iranians navigate a state of ‘no war, no peace’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/29/life-in-limbo-how-iranians-navigate-a-state-of-no-war-no-peace?traffic_source=rss",
-      "published_date": "2026-04-29T06:58:36+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/quotable/2026/4/30/uae-exit-signals-opecs-declining-grip-on-oil-markets?traffic_source=rss",
+      "published_date": "2026-04-30T17:50:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Will the Iran war reshape the global energy order?",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "More than 6 million Somalis face hunger amid climate shocks and conflict",
+      "title": "RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/more-than-6-million-somalis-face-hunger-amid-climate-shocks-and-conflict?traffic_source=rss",
-      "published_date": "2026-04-23T17:45:35+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss",
+      "published_date": "2026-04-30T20:26:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US passes law to resume DHS funding and end partial government shutdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/30/us-congress-passes-bill-to-resume-funding-for-dhs-and-end-partial-shutdown?traffic_source=rss",
+      "published_date": "2026-04-30T20:12:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan opens up road trade routes into Iran amid Hormuz blockade",
@@ -543,11 +557,39 @@
       "category": "Economy"
     },
     {
-      "title": "US Senate passes ICE funding resolution after ‘vote-a-rama’: What’s next?",
+      "title": "Uganda court sentences man to death for killing four children at nursery",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/us-senate-passes-ice-funding-resolution-after-vote-a-rama-whats-next?traffic_source=rss",
-      "published_date": "2026-04-23T18:55:10+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/4/30/uganda-court-sentences-man-to-death-for-killing-four-children-at-nursery?traffic_source=rss",
+      "published_date": "2026-04-30T20:05:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxaa looga hadlay shirkii golaha wasiirrada Puntland?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/04/30/maxaa-looga-hadlay-shirkii-golaha-wasiirrada-puntland-2/",
+      "published_date": "2026-04-30T19:55:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New NCRI Commissioner Liban Abdi Igal Assumes Office in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/new-ncri-commissioner-liban-abdi-igal-assumes-office-in-mogadishu/",
+      "published_date": "2026-04-30T17:58:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State Cabinet Approves Housing and Building Permit Policies in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-state-cabinet-approves-housing-and-building-permit-policies-in-baidoa/",
+      "published_date": "2026-04-30T17:45:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel rights group petitions top court to order release of 14 Gaza doctors",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors?traffic_source=rss",
+      "published_date": "2026-04-30T17:35:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland oo ka hadashay iska hor-imaad ka dhacay Garacad",
@@ -652,41 +694,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/is-somalias-president-losing-support-as-key-allies-abandon-his-camp/",
       "published_date": "2026-04-29T09:48:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian football body appeals FIFA ruling on Israel at top sports court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/29/palestinian-football-body-appeals-fifa-ruling-on-israel-at-top-sports-court?traffic_source=rss",
-      "published_date": "2026-04-29T09:46:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red card for players covering their mouths in World Cup matches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/29/red-card-for-players-covering-their-mouths-in-world-cup-matches?traffic_source=rss",
-      "published_date": "2026-04-29T08:23:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Beelaha Dir iyo Shiikhaal oo gaaray heshiis hordhac ah",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/29/puntland-beelaha-dir-iyo-shiikhaal-oo-gaaray-heshiis-hordhac-ah/",
-      "published_date": "2026-04-29T06:07:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "White House hails ‘two kings’ as King Charles delivers pointed remarks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/white-house-hails-two-kings-as-king-charles-delivers-pointed-remarks?traffic_source=rss",
-      "published_date": "2026-04-29T05:11:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s ousted Southwest leader Laftagaren plans comeback as federal forces tighten grip on Baidoa",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-ousted-southwest-leader-laftagaren-plans-comeback-as-federal-forces-tighten-grip-on-baidoa/",
-      "published_date": "2026-04-29T04:23:07+00:00",
       "category": "Local Events"
     }
   ]
