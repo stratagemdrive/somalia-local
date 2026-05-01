@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-04-30T23:50:45.552193+00:00",
-  "story_count": 99,
+  "last_updated": "2026-05-01T12:02:42.407683+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Iran vows ‘long, painful’ response if US renews attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/iran-vows-long-painful-response-if-us-renews-attacks?traffic_source=rss",
+      "published_date": "2026-05-01T07:32:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
       "source": "Al Jazeera",
@@ -137,11 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Environment Minister participates in the Africa Regional Forum on Sustainable Development in Ethiopia",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/environment-minister-participates-in-the-africa-regional-forum-on-sustainable-development-in-ethiopia/",
-      "published_date": "2026-04-28T18:27:49+00:00",
-      "category": "Diplomacy"
+      "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss",
+      "published_date": "2026-05-01T11:31:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
+      "published_date": "2026-05-01T10:56:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who profits big from the war on Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss",
+      "published_date": "2026-05-01T10:13:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil prices rise again with little sign of war on Iran ending",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss",
+      "published_date": "2026-05-01T10:11:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "May Day in the age of AI: The new war on workers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/1/may-day-in-the-age-of-ai-the-new-war-on-workers?traffic_source=rss",
+      "published_date": "2026-05-01T09:54:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 40 Iranian seafarers killed during US-Israeli war: Union leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/more-than-40-iranian-seafarers-killed-during-us-israeli-war-union?traffic_source=rss",
+      "published_date": "2026-05-01T09:49:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rallies under way as workers gather for International Labour Day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/1/rallies-under-way-as-workers-gather-for-international-labour-day?traffic_source=rss",
+      "published_date": "2026-05-01T09:33:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine begins to flex muscle as an emerging air power, angering Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/ukraine-begins-to-flex-muscle-as-an-emerging-air-power-angering-russia?traffic_source=rss",
+      "published_date": "2026-05-01T08:02:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK police charge man over stabbing of two Jewish men in London",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/uk-police-charge-man-over-stabbing-of-two-jewish-men-in-london?traffic_source=rss",
+      "published_date": "2026-05-01T08:01:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What do Ukraine’s robot soldiers mean for the future of warfare?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/what-do-ukraines-robot-soldiers-mean-for-the-future-of-warfare?traffic_source=rss",
+      "published_date": "2026-05-01T06:29:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is piracy rising off Somalia again — and is the Iran war responsible?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/why-is-piracy-rising-off-somalia-again-and-is-the-iran-war?traffic_source=rss",
+      "published_date": "2026-05-01T06:10:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan army says 13 militants killed in northwest operations near Afghan border",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/pakistan-army-says-13-militants-killed-in-northwest-operations-near-afghan-border/",
+      "published_date": "2026-05-01T06:02:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British police named a man arrested in connection with London stabbing attack",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-man-in-uk-capital-attack/",
+      "published_date": "2026-05-01T05:50:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Over 80 Congolese soldiers face trial for fleeing battles against rebels",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/over-80-congolese-soldiers-face-trial-for-fleeing-battles-against-rebels/",
+      "published_date": "2026-05-01T05:47:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks?traffic_source=rss",
+      "published_date": "2026-05-01T05:37:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Condemnation and protests against Israel’s raid of Gaza aid flotilla",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss",
+      "published_date": "2026-05-01T02:31:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
+      "published_date": "2026-05-01T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Palestinians mourn football loving teenager killed by Israeli army",
@@ -162,125 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss",
       "published_date": "2026-04-30T21:05:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran will play World Cup games in US according to FIFA chief Infantino",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss",
-      "published_date": "2026-04-30T19:10:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss",
-      "published_date": "2026-04-30T18:59:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese girl mourns paramedic father killed in Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss",
-      "published_date": "2026-04-30T18:38:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three civilians killed in Somalia eviction clash in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/three-civilians-killed-in-somalia-eviction-clash-in-mogadishu/",
-      "published_date": "2026-04-30T14:44:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali forces kill 22 Al-Shabaab fighters, including senior commander, in Lower Shabelle operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-forces-kill-22-al-shabaab-fighters-including-senior-commander-in-lower-shabelle-operation/",
-      "published_date": "2026-04-30T09:34:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Howlgal lagu dilay xubno ka tirsanaa Al-Shabaab oo ka dhacay Shabeellaha Hoose",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/howlgal-lagu-dilay-xubno-ka-tirsanaa-al-shabaab-oo-ka-dhacay-shabeellaha-hoose/",
-      "published_date": "2026-04-30T08:18:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What’s happening on day 62 as Trump asks Iran to ‘give up’?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/30/iran-war-whats-happening-on-day-62-as-trump-asks-iran-to-give-up?traffic_source=rss",
-      "published_date": "2026-04-30T07:30:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could the US-Iran war become a protracted ‘frozen’ conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict?traffic_source=rss",
-      "published_date": "2026-04-30T07:03:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe’s little-known mutual defence clause: Is it a NATO substitute?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss",
-      "published_date": "2026-04-30T05:23:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "London police release bodycam of arrest after two Jewish men stabbed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/london-police-release-bodycam-of-arrest-after-two-jewish-men-stabbed?traffic_source=rss",
-      "published_date": "2026-04-30T04:32:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video emerges of heavy firefight in Mali",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/video-emerges-of-heavy-firefight-in-mali?traffic_source=rss",
-      "published_date": "2026-04-30T04:25:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss",
-      "published_date": "2026-04-29T21:59:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali’s Tuareg rebels say Russian fighters must withdraw from country",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/malis-tuareg-rebels-say-russian-fighters-must-withdraw-from-country?traffic_source=rss",
-      "published_date": "2026-04-29T20:17:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US lawmakers question Pete Hegseth over budget for war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/us-lawmakers-question-pete-hegseth-over-budget-for-war-on-iran?traffic_source=rss",
-      "published_date": "2026-04-29T19:39:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss",
-      "published_date": "2026-04-29T19:38:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Jewish men stabbed in London ‘terrorist attack’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss",
-      "published_date": "2026-04-29T19:32:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesian soldiers on trial after acid attack on activist",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss",
-      "published_date": "2026-04-29T19:24:08+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Despite growth and pay rises, Greek workers are among the poorest in Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/despite-growth-and-pay-rises-greek-workers-are-among-the-poorest-in-europe?traffic_source=rss",
+      "published_date": "2026-05-01T10:04:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "On May Day, Gaza’s workers find whatever source of income they can",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can?traffic_source=rss",
+      "published_date": "2026-05-01T06:21:31+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss",
@@ -550,11 +564,11 @@
       "category": "Economy"
     },
     {
-      "title": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss",
-      "published_date": "2026-04-24T11:20:46+00:00",
-      "category": "Economy"
+      "title": "National Independent Electoral and Boundaries Commission Initiates Voter Registration in Wargalo, Mudug",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-independent-electoral-and-boundaries-commission-initiates-voter-registration-in-wargalo-mudug/",
+      "published_date": "2026-05-01T09:40:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Uganda court sentences man to death for killing four children at nursery",
@@ -687,13 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/4/29/afghan-womens-refugee-team-allowed-to-play-in-fifa-tournaments?traffic_source=rss",
       "published_date": "2026-04-29T09:48:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Somalia’s president losing support as key allies abandon his camp?",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/is-somalias-president-losing-support-as-key-allies-abandon-his-camp/",
-      "published_date": "2026-04-29T09:48:30+00:00",
       "category": "Local Events"
     }
   ]
