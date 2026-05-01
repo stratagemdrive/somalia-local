@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-01T12:02:42.407683+00:00",
+  "last_updated": "2026-05-01T23:49:04.785669+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Photos: Cuba holds May Day celebrations amid US threats",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/5/1/photos-cuba-holds-may-day-celebrations-amid-us-threats?traffic_source=rss",
+      "published_date": "2026-05-01T19:07:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss",
+      "published_date": "2026-05-01T18:10:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran vows ‘long, painful’ response if US renews attacks",
       "source": "Al Jazeera",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Europe named ‘fastest-warming continent’ in latest climate change report",
+      "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/europe-named-fastest-warming-continent-in-latest-climate-change-report?traffic_source=rss",
-      "published_date": "2026-04-29T06:33:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
+      "published_date": "2026-05-01T22:54:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can the Nuclear Non-Proliferation Treaty prevent a disaster?",
+      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/28/can-the-nuclear-non-proliferation-treaty-prevent-a-disaster?traffic_source=rss",
-      "published_date": "2026-04-28T19:32:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
+      "published_date": "2026-05-01T21:10:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rebel checkpoints reported around Mali’s capital, northern town seized",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/rebel-checkpoints-reported-mali-capital-town-seized?traffic_source=rss",
+      "published_date": "2026-05-01T19:38:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss",
+      "published_date": "2026-05-01T17:51:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pentagon announces deal with seven AI companies for classified systems",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss",
+      "published_date": "2026-05-01T15:57:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkish police fire tear gas, arrest hundreds at May Day rally",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss",
+      "published_date": "2026-05-01T15:34:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
+      "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks?traffic_source=rss",
-      "published_date": "2026-05-01T05:37:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Condemnation and protests against Israel’s raid of Gaza aid flotilla",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss",
-      "published_date": "2026-05-01T02:31:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
-      "published_date": "2026-05-01T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians mourn football loving teenager killed by Israeli army",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss",
-      "published_date": "2026-04-30T21:24:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth testifies on Iran war before Senate committee: Key takeaways",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss",
-      "published_date": "2026-04-30T21:09:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Flotilla activist: Israel’s ‘brutal attack’ will not deter us",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss",
-      "published_date": "2026-04-30T21:05:11+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss",
+      "published_date": "2026-05-01T16:32:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE exit signals OPEC’s declining grip on oil markets",
@@ -417,11 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Trump government extends Jones Act waiver by 90 days to dampen oil prices",
+      "title": "Trump expands red snapper fishing as critics warn of overfishing",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices?traffic_source=rss",
-      "published_date": "2026-04-24T18:47:42+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/1/trump-expands-red-snapper-fishing-as-critics-warn-of-overfishing?traffic_source=rss",
+      "published_date": "2026-05-01T21:12:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "May Day rallies sweep US, demanding reforms for working-class rights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights?traffic_source=rss",
+      "published_date": "2026-05-01T20:57:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Narrative Control in “Horufadhi” Interview with Farmaajo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/01/the-narrative-control-in-horufadhi-interview-with-farmaajo/",
+      "published_date": "2026-05-01T19:50:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
+      "published_date": "2026-05-01T16:03:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Howe says Saudi owners’ desire for success at Newcastle remains unchanged",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss",
+      "published_date": "2026-05-01T13:36:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Despite growth and pay rises, Greek workers are among the poorest in Europe",
@@ -529,39 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Pirates seize another vessel off Somali coast as threat level increased",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/pirates-seize-another-vessel-off-somali-coast-as-threat-level-increased/",
-      "published_date": "2026-04-27T12:43:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World Cup 2026 prize money, fees to be increased for all teams: FIFA",
+      "title": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/27/world-cup-2026-prize-money-fees-to-be-increased-for-all-teams-fifa?traffic_source=rss",
-      "published_date": "2026-04-27T10:52:24+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations?traffic_source=rss",
+      "published_date": "2026-05-01T17:18:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Taiwan court hands down jail terms in TSMC trade secrets case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss",
-      "published_date": "2026-04-27T05:43:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Russian attacks on Ukraine kill at least five, damage ship in port",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/russian-strikes-kill-at-least-five-civilians-across-ukraine?traffic_source=rss",
-      "published_date": "2026-04-26T08:41:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somalia Advances Aviation Investment Drive Through Strategic Stakeholder Engagement",
+      "title": "First Contingent of 432 Somali Pilgrims Departs for Hajj from Mogadishu and Hargeisa",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-advances-aviation-investment-drive-through-strategic-stakeholder-engagement/",
-      "published_date": "2026-04-26T08:23:31+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/first-contingent-of-432-somali-pilgrims-departs-for-hajj-from-mogadishu-and-hargeisa/",
+      "published_date": "2026-05-01T13:54:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "National Independent Electoral and Boundaries Commission Initiates Voter Registration in Wargalo, Mudug",
@@ -687,20 +701,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-pushes-security-sector-reforms-to-strengthen-governance-and-accountability/",
       "published_date": "2026-04-29T11:54:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Leadership Advances Humanitarian Coordination with UN Under-Secretary-General in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-state-leadership-advances-humanitarian-coordination-with-un-under-secretary-general-in-baidoa/",
-      "published_date": "2026-04-29T09:58:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afghan women’s refugee team allowed to play in FIFA tournaments",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/29/afghan-womens-refugee-team-allowed-to-play-in-fifa-tournaments?traffic_source=rss",
-      "published_date": "2026-04-29T09:48:42+00:00",
       "category": "Local Events"
     }
   ]
