@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-01T23:49:04.785669+00:00",
+  "last_updated": "2026-05-02T11:51:56.194293+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Somalia Marks International Workers’ Day with Focus on Skills and Decent Employment",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-marks-international-workers-day-with-focus-on-skills-and-decent-employment/",
+      "published_date": "2026-05-02T11:15:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss",
+      "published_date": "2026-05-02T07:37:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK ambassador to Somalia describes life under tight security in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uk-ambassador-to-somalia-describes-life-under-tight-security-in-mogadishu/",
+      "published_date": "2026-05-02T06:41:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Ambassador to Saudi Arabia Inspects Hajj Services in Medina",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-ambassador-to-saudi-arabia-inspects-hajj-services-in-medina/",
+      "published_date": "2026-05-02T06:35:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US embassy warns citizens in UK as threat level raised to ‘severe’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe?traffic_source=rss",
+      "published_date": "2026-05-02T06:04:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
+      "published_date": "2026-05-02T04:06:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Photos: Cuba holds May Day celebrations amid US threats",
       "source": "Al Jazeera",
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia, Jordan Foreign Ministers Discuss Regional Stability and Bilateral Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-jordan-foreign-ministers-discuss-regional-stability-and-bilateral-cooperation/",
-      "published_date": "2026-04-29T18:55:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia and China Strengthen Media, Culture Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-and-china-strengthen-media-culture-cooperation/",
-      "published_date": "2026-04-29T12:11:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia’s president says open to opposition dialogue amid political tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-president-says-open-to-opposition-dialogue-amid-political-tensions/",
-      "published_date": "2026-04-29T11:55:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How US and Iran are playing a crypto cat-and-mouse game over sanctions",
+      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/how-us-and-iran-are-playing-a-crypto-cat-and-mouse-game-over-sanctions?traffic_source=rss",
-      "published_date": "2026-04-29T11:44:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
+      "published_date": "2026-05-02T06:47:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali PM, Kenyan Envoy Discuss Security and Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-pm-kenyan-envoy-discuss-security-and-cooperation/",
-      "published_date": "2026-04-29T10:55:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European Commission president calls for diplomacy to end Iran war",
+      "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/european-commission-president-calls-for-diplomacy-to-end-iran-war?traffic_source=rss",
-      "published_date": "2026-04-29T10:20:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
+      "published_date": "2026-05-02T06:27:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
+      "published_date": "2026-05-02T04:17:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Military says conflict with US ‘likely’ to restart",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
+      "published_date": "2026-05-02T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Why is piracy rising off Somalia again — and is the Iran war responsible?",
+      "title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/why-is-piracy-rising-off-somalia-again-and-is-the-iran-war?traffic_source=rss",
-      "published_date": "2026-05-01T06:10:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss",
+      "published_date": "2026-05-02T09:16:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pakistan army says 13 militants killed in northwest operations near Afghan border",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/pakistan-army-says-13-militants-killed-in-northwest-operations-near-afghan-border/",
-      "published_date": "2026-05-01T06:02:22+00:00",
-      "category": "Military"
+      "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
+      "published_date": "2026-05-02T08:09:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "British police named a man arrested in connection with London stabbing attack",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-man-in-uk-capital-attack/",
-      "published_date": "2026-05-01T05:50:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Over 80 Congolese soldiers face trial for fleeing battles against rebels",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/over-80-congolese-soldiers-face-trial-for-fleeing-battles-against-rebels/",
-      "published_date": "2026-05-01T05:47:31+00:00",
-      "category": "Military"
+      "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+      "published_date": "2026-05-02T04:35:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "We can make sure another Chornobyl disaster does not happen, here is how",
+      "title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss",
-      "published_date": "2026-04-26T07:16:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Somali Pirates Seize Fuel Tanker Carrying 17 Crew Off Coast, Officials Say",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pirates-seize-fuel-tanker-carrying-17-crew-off-coast-officials-say/",
-      "published_date": "2026-04-25T09:15:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "West Bank scepticism as Palestinians doubt local elections will change much",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
-      "published_date": "2026-04-25T07:16:54+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss",
+      "published_date": "2026-05-02T03:14:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump expands red snapper fishing as critics warn of overfishing",
@@ -557,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Khatarta Burcad-badeedda oo Korortay Xeebaha Soomaaliya kadib Markab Kale oo La Afduubtay",
+      "title": "Education Minister Orders Evacuation of Somali National University Land for Redevelopment",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/education-minister-orders-evacuation-of-somali-national-university-land-for-redevelopment/",
+      "published_date": "2026-05-02T08:35:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia launches pilot phase of aviation payment system with IATA support",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/khatarta-burcad-badeedda-oo-korortay-xeebaha-soomaaliya-kadib-markab-kale-oo-la-afduubtay/",
-      "published_date": "2026-04-27T12:46:05+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalia-launches-pilot-phase-of-aviation-payment-system-with-iata-support/",
+      "published_date": "2026-05-02T07:23:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump reignites controversy with remarks targeting Somalia and Ilhan Omar",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/trump-reignites-controversy-with-remarks-targeting-somalia-and-ilhan-omar/",
+      "published_date": "2026-05-02T07:20:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo go’doomisay burcad-badeeda haysata maraakiibta",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/02/puntland-oo-godoomisay-burcad-badeeda-haysata-maraakiibta/",
+      "published_date": "2026-05-02T06:00:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
@@ -673,34 +701,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/community-police-hold-dialogue-on-combating-drug-abuse-in-mogadishu/",
       "published_date": "2026-04-29T19:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali National Army Chief Opens EAC Intelligence Chiefs Meeting in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-national-army-chief-opens-eac-intelligence-chiefs-meeting-in-mogadishu/",
-      "published_date": "2026-04-29T18:58:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo soo bandhigtay Boolis si gaar ah u tababaran",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/29/puntland-oo-soo-bandhigtay-boolis-si-gaar-ah-u-tababaran/",
-      "published_date": "2026-04-29T14:40:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN humanitarian chief visits Baidoa as South West State seeks more drought aid",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-humanitarian-chief-visits-baidoa-as-south-west-state-seeks-more-drought-aid/",
-      "published_date": "2026-04-29T11:57:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia pushes security sector reforms to strengthen governance and accountability",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pushes-security-sector-reforms-to-strengthen-governance-and-accountability/",
-      "published_date": "2026-04-29T11:54:27+00:00",
       "category": "Local Events"
     }
   ]
