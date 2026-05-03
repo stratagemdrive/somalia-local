@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-02T23:39:28.427431+00:00",
+  "last_updated": "2026-05-03T11:50:59.169861+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK Supports Somali Government’s Call for Dialogue with Opposition",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uk-supports-somali-governments-call-for-dialogue-with-opposition/",
+      "published_date": "2026-05-03T11:06:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Mission Welcomes Somali President’s Call for National Dialogue",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-mission-welcomes-somali-presidents-call-for-national-dialogue/",
+      "published_date": "2026-05-03T08:53:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UNTMIS and UK Ambassador Welcome Somali Future Council Talks, Urge Inclusive Dialogue",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/untmis-and-uk-ambassador-welcome-somali-future-council-talks-urge-inclusive-dialogue/",
+      "published_date": "2026-05-03T07:30:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China blocks US sanctions against five ‘teapot’ refineries",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
+      "published_date": "2026-05-03T06:57:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK Envoy Describes Mogadishu as One of World’s Most Dangerous Diplomatic Posts",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/uk-envoy-describes-mogadishu-as-one-of-worlds-most-dangerous-diplomatic-posts/",
+      "published_date": "2026-05-03T00:02:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali Opposition Says President’s Mandate Ends May 15 Without Elections",
       "source": "Somali Dispatch",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kenya’s Sawe hailed at State House after historic marathon",
+      "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/kenyas-sawe-hailed-at-state-house-after-historic-marathon?traffic_source=rss",
-      "published_date": "2026-04-30T21:17:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
+      "published_date": "2026-05-03T11:10:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN chief calls for immediate reopening of the Strait of Hormuz",
+      "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/un-chief-calls-for-immediate-reopening-of-the-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-04-30T18:02:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss",
+      "published_date": "2026-05-03T10:36:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Escalates Ideological Warfare Against Terrorism at High-Level TUBSAN Coordination Forum",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-escalates-ideological-warfare-against-terrorism-at-high-level-tubsan-coordination-forum/",
-      "published_date": "2026-04-30T10:44:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia shapes its own destiny in global security forums",
+      "title": "Ukraine drone attack hits Russian Baltic port, governor says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/30/somalia-shapes-its-own-destiny-in-global-security-forums?traffic_source=rss",
-      "published_date": "2026-04-30T10:21:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
+      "published_date": "2026-05-03T09:57:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "African Union reaffirms commitment to Somalia peace mission AUSSOM",
+      "title": "Somali pirates hijack oil tanker in Gulf of Aden, second strike in weeks",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-reaffirms-commitment-to-somalia-peace-mission-aussom/",
-      "published_date": "2026-04-30T09:36:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-pirates-hijack-oil-tanker-in-gulf-of-aden-second-strike-in-weeks/",
+      "published_date": "2026-05-03T08:04:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Austrian police arrest man after discovery of rat poison in baby food",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/austrian-police-arrest-man-after-discovery-of-rat-poison-in-baby-food?traffic_source=rss",
+      "published_date": "2026-05-03T07:48:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man charged with murder of five-year-old Australian Indigenous girl",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/man-charged-over-murder-of-australian-indigenous-girl-that-sparked-riots?traffic_source=rss",
+      "published_date": "2026-05-03T07:34:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
+      "published_date": "2026-05-03T07:02:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
+      "published_date": "2026-05-03T04:35:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
@@ -225,62 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/1/rebel-checkpoints-reported-mali-capital-town-seized?traffic_source=rss",
       "published_date": "2026-05-01T19:38:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss",
-      "published_date": "2026-05-01T17:51:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon announces deal with seven AI companies for classified systems",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss",
-      "published_date": "2026-05-01T15:57:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkish police fire tear gas, arrest hundreds at May Day rally",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss",
-      "published_date": "2026-05-01T15:34:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss",
-      "published_date": "2026-05-01T11:31:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
-      "published_date": "2026-05-01T10:56:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who profits big from the war on Iran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss",
-      "published_date": "2026-05-01T10:13:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices rise again with little sign of war on Iran ending",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss",
-      "published_date": "2026-05-01T10:11:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "May Day in the age of AI: The new war on workers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/1/may-day-in-the-age-of-ai-the-new-war-on-workers?traffic_source=rss",
-      "published_date": "2026-05-01T09:54:12+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/taiwan-leader-visits-eswatini-despite-chinas-attempts-to-block-trip?traffic_source=rss",
+      "published_date": "2026-05-03T06:36:26+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Prices surge, jobs disappear as war strains Iran’s economy",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
@@ -557,11 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Is India’s Chabahar dream in Iran dead?",
+      "title": "The Minister of Information Extends Congratulations to Somali Journalists on World Press Freedom Day",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/the-minister-of-information-extends-congratulations-to-somali-journalists-on-world-press-freedom-day/",
+      "published_date": "2026-05-03T11:35:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State Presidency Director General Chairs Meeting to Boost Government Performance",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-state-presidency-director-general-chairs-meeting-to-boost-government-performance/",
+      "published_date": "2026-05-03T11:30:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister of Information Opens Workshop on Preventing Hate Speech in Election Reporting",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-information-opens-workshop-on-preventing-hate-speech-in-election-reporting/",
+      "published_date": "2026-05-03T11:24:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laftagaren says he is still president of Somalia’s Southwest region",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/laftagaren-says-he-is-still-president-of-somalias-southwest-region/",
+      "published_date": "2026-05-03T09:37:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Korea holds pro-Palestine protest in solidarity with Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/29/is-indias-chabahar-dream-in-iran-dead?traffic_source=rss",
-      "published_date": "2026-04-29T07:46:21+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/south-korea-holds-pro-palestine-protest-in-solidarity-with-gaza?traffic_source=rss",
+      "published_date": "2026-05-03T07:39:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxamed Shiino: DFS waxay Waqooyi Bari uga roontahay Somaliland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/03/maxamed-shiino-dfs-waxay-waqooyi-bari-uga-roontahay-somaliland/",
+      "published_date": "2026-05-03T05:38:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US approves $8.6bn in arms sales to Middle East allies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss",
+      "published_date": "2026-05-03T04:05:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UAE Hosts Somaliland President with High-Level Protocol During Working Visit",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/uae-hosts-somaliland-president-with-high-level-protocol-during-working-visit/",
+      "published_date": "2026-05-03T00:23:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
@@ -645,62 +701,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/first-contingent-of-432-somali-pilgrims-departs-for-hajj-from-mogadishu-and-hargeisa/",
       "published_date": "2026-05-01T13:54:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Independent Electoral and Boundaries Commission Initiates Voter Registration in Wargalo, Mudug",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-independent-electoral-and-boundaries-commission-initiates-voter-registration-in-wargalo-mudug/",
-      "published_date": "2026-05-01T09:40:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uganda court sentences man to death for killing four children at nursery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/30/uganda-court-sentences-man-to-death-for-killing-four-children-at-nursery?traffic_source=rss",
-      "published_date": "2026-04-30T20:05:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxaa looga hadlay shirkii golaha wasiirrada Puntland?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/30/maxaa-looga-hadlay-shirkii-golaha-wasiirrada-puntland-2/",
-      "published_date": "2026-04-30T19:55:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New NCRI Commissioner Liban Abdi Igal Assumes Office in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/new-ncri-commissioner-liban-abdi-igal-assumes-office-in-mogadishu/",
-      "published_date": "2026-04-30T17:58:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Cabinet Approves Housing and Building Permit Policies in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-state-cabinet-approves-housing-and-building-permit-policies-in-baidoa/",
-      "published_date": "2026-04-30T17:45:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel rights group petitions top court to order release of 14 Gaza doctors",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors?traffic_source=rss",
-      "published_date": "2026-04-30T17:35:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka hadashay iska hor-imaad ka dhacay Garacad",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/04/30/puntland-oo-ka-hadashay-iska-hor-imaad-ka-dhacay-garacad/",
-      "published_date": "2026-04-30T10:35:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali clan leaders step in to mediate election standoff as president’s term nears end",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-clan-leaders-step-in-to-mediate-election-standoff-as-presidents-term-nears-end/",
-      "published_date": "2026-04-30T08:40:10+00:00",
       "category": "Local Events"
     }
   ]
