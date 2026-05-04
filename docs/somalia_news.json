@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-03T23:41:13.495784+00:00",
+  "last_updated": "2026-05-04T12:22:37.420902+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Somalia, UNDP step up cooperation on elections, development and humanitarian response",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-undp-step-up-cooperation-on-elections-development-and-humanitarian-response/",
+      "published_date": "2026-05-04T09:28:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, UN discuss strengthening media cooperation on humanitarian response",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-un-discuss-strengthening-media-cooperation-on-humanitarian-response/",
+      "published_date": "2026-05-04T09:23:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ku dhowaad 20 qof oo ku geeriyooday roobab mahiigaan ah oo ka da’ay Kenya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ku-dhowaad-20-qof-oo-ku-geeriyooday-roobab-mahiigaan-ah-oo-ka-daay-kenya/",
+      "published_date": "2026-05-04T06:25:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Acting Minister of Labour Participates in International Labour Day Commemoration in Mogadishu",
       "source": "SONNA",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK ambassador to Somalia describes life under tight security in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uk-ambassador-to-somalia-describes-life-under-tight-security-in-mogadishu/",
-      "published_date": "2026-05-02T06:41:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Ambassador to Saudi Arabia Inspects Hajj Services in Medina",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-ambassador-to-saudi-arabia-inspects-hajj-services-in-medina/",
-      "published_date": "2026-05-02T06:35:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US embassy warns citizens in UK as threat level raised to ‘severe’",
+      "title": "Winning peace in Lebanon is harder than winning war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe?traffic_source=rss",
-      "published_date": "2026-05-02T06:04:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war?traffic_source=rss",
+      "published_date": "2026-05-04T11:18:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss",
+      "published_date": "2026-05-04T10:55:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss",
+      "published_date": "2026-05-04T09:57:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
+      "published_date": "2026-05-04T09:11:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/4/how-to-escape-russias-army-soldiers-serving-in-ukraine-seek-a-way-out?traffic_source=rss",
+      "published_date": "2026-05-04T06:15:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss",
+      "published_date": "2026-05-04T03:37:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/illegal-free-party-at-french-military-site-draws-up-to-40000-ravers?traffic_source=rss",
+      "published_date": "2026-05-04T00:40:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: US denies frigate hit by missiles in Hormuz Strait",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
+      "published_date": "2026-05-04T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
+      "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss",
-      "published_date": "2026-05-03T10:36:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine drone attack hits Russian Baltic port, governor says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
-      "published_date": "2026-05-03T09:57:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali pirates hijack oil tanker in Gulf of Aden, second strike in weeks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pirates-hijack-oil-tanker-in-gulf-of-aden-second-strike-in-weeks/",
-      "published_date": "2026-05-03T08:04:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Austrian police arrest man after discovery of rat poison in baby food",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/austrian-police-arrest-man-after-discovery-of-rat-poison-in-baby-food?traffic_source=rss",
-      "published_date": "2026-05-03T07:48:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man charged with murder of five-year-old Australian Indigenous girl",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/man-charged-over-murder-of-australian-indigenous-girl-that-sparked-riots?traffic_source=rss",
-      "published_date": "2026-05-03T07:34:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
-      "published_date": "2026-05-03T07:02:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
-      "published_date": "2026-05-03T04:35:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
-      "published_date": "2026-05-02T20:28:12+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
+      "published_date": "2026-05-04T06:45:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Bosnia signs up to Trump-linked pipeline to reduce Russian gas dependence",
+      "title": "China Extends Zero-Tariff Trade to All 53 African Countries, Boosting Somali Exports in a New Africa-China Era",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/china-extends-zero-tariff-trade-to-all-53-african-countries-boosting-somali-exports-in-a-new-africa-china-era/",
+      "published_date": "2026-05-04T08:14:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Livestock Ministry launches ACALS project in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/livestock-ministry-launches-acals-project-in-mogadishu/",
+      "published_date": "2026-05-04T07:38:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Detained Gaza aid flotilla activists arrive in Netherlands",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/28/bosnia-signs-up-to-trump-linked-pipeline-to-reduce-russian-gas-dependence?traffic_source=rss",
-      "published_date": "2026-04-28T17:17:43+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/detained-gaza-aid-flotilla-activists-arrive-in-netherlands?traffic_source=rss",
+      "published_date": "2026-05-04T04:45:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
@@ -543,25 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Israel intercepts Global Sumud boats, demands activists halt their mission",
+      "title": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss",
-      "published_date": "2026-04-29T21:46:23+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank?traffic_source=rss",
+      "published_date": "2026-05-04T09:44:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Is the US forcing Zambia to trade minerals for lives?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/4/29/is-the-us-forcing-zambia-to-trade-minerals-for-lives?traffic_source=rss",
-      "published_date": "2026-04-29T18:28:10+00:00",
-      "category": "Economy"
+      "title": "National Electoral Commission announces voting stations in the upcoming elections in the South West State",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-electoral-commission-announces-voting-stations-in-the-upcoming-elections-in-the-south-west-state/",
+      "published_date": "2026-05-04T08:44:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Humanitarian crisis deepens in Somalia as hunger, drought and displacement worsen",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/humanitarian-crisis-deepens-in-somalia-as-hunger-drought-and-displacement-worsen/",
-      "published_date": "2026-04-29T11:52:58+00:00",
-      "category": "Economy"
+      "title": "Calmiskaad: Ciidan jabiyay digniin uu jeediyay madaxweye Deni",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/04/calmiskaad-ciidan-jabiyay-digniin-uu-jeediyay-madaxweye-deni/",
+      "published_date": "2026-05-04T06:52:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Advances Road Safety and Traffic Reforms Through High-Level Consultative Meeting in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-advances-road-safety-and-traffic-reforms-through-high-level-consultative-meeting-in-mogadishu/",
+      "published_date": "2026-05-04T06:41:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ku eedeeysay Federaalka soo laabashada Burcad-badeeda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/04/puntland-oo-ku-eedeeysay-federaalka-soo-laabashada-burcad-badeeda/",
+      "published_date": "2026-05-04T06:05:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands in India’s Manipur mark three years since ethnic clashes began",
@@ -666,41 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/2/mexicos-sinaloa-state-governor-resigns-amid-us-drug-trafficking-charges?traffic_source=rss",
       "published_date": "2026-05-02T15:52:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss",
-      "published_date": "2026-05-02T14:23:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boosaaso: Deni oo furay carwo lagu soo bandhigay hal-abuur tiknoolajiyadeed",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/02/boosaaso-deni-oo-furay-carwo-lagu-soo-bandhigay-hal-abuur-tiknoolajiyadeed/",
-      "published_date": "2026-05-02T12:50:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Education Minister Orders Evacuation of Somali National University Land for Redevelopment",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/education-minister-orders-evacuation-of-somali-national-university-land-for-redevelopment/",
-      "published_date": "2026-05-02T08:35:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia launches pilot phase of aviation payment system with IATA support",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-launches-pilot-phase-of-aviation-payment-system-with-iata-support/",
-      "published_date": "2026-05-02T07:23:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump reignites controversy with remarks targeting Somalia and Ilhan Omar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/trump-reignites-controversy-with-remarks-targeting-somalia-and-ilhan-omar/",
-      "published_date": "2026-05-02T07:20:12+00:00",
       "category": "Local Events"
     }
   ]
