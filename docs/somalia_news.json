@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-04T23:52:23.672352+00:00",
+  "last_updated": "2026-05-05T12:07:16.201977+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Somali Ambassador to India Meets Sri Lankan Counterpart in New Delhi",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-ambassador-to-india-meets-sri-lankan-counterpart-in-new-delhi/",
+      "published_date": "2026-05-05T11:57:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron sings as Armenia’s leader drums in unusual moment at state dinner",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/macron-sings-as-armenias-leader-drums-in-unusual-moment-at-state-dinner?traffic_source=rss",
+      "published_date": "2026-05-05T09:24:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia denies expulsion of UAE ambassador, warns against misinformation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-denies-expulsion-of-uae-ambassador-warns-against-misinformation/",
+      "published_date": "2026-05-05T08:10:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia may extend government tenure by two years, minister says amid election row",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-may-extend-government-tenure-by-two-years-minister-says-amid-election-row/",
+      "published_date": "2026-05-05T07:18:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministry of Foreign Affairs refutes false claims regarding the status of the UAE Ambassador",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ministry-of-foreign-affairs-refutes-false-claims-regarding-the-status-of-the-uae-ambassador/",
+      "published_date": "2026-05-05T06:09:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Video: Modi’s BJP poised to take control in India’s West Bengal",
       "source": "Al Jazeera",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Acting Minister of Labour Participates in International Labour Day Commemoration in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/acting-minister-of-labour-participates-in-international-labour-day-commemoration-in-mogadishu/",
-      "published_date": "2026-05-03T18:09:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Information Minister Meets UN Deputy Special Representative to Strengthen Media and Humanitarian Coordination",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/information-minister-meets-un-deputy-special-representative-to-strengthen-media-and-humanitarian-coordination/",
-      "published_date": "2026-05-03T18:02:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Floods and landslides kill at least 18 in Kenya",
+      "title": "UK counterterrorism police investigate arson attack at former synagogue",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/floods-and-landslides-kill-at-least-18-in-kenya?traffic_source=rss",
-      "published_date": "2026-05-03T17:04:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/5/uk-counterterrorism-police-investigate-arson-attack-at-former-synagogue?traffic_source=rss",
+      "published_date": "2026-05-05T12:00:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Strengthens Strategic Cooperation with UNDP Leadership",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-strengthens-strategic-cooperation-with-undp-leadership/",
-      "published_date": "2026-05-03T16:09:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "It does not make sense to invest more Arab resources in a US alliance",
+      "title": "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/3/it-does-not-make-sense-to-invest-more-arab-resources-in-a-us-alliance?traffic_source=rss",
-      "published_date": "2026-05-03T13:31:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/5/russian-attack-kills-five-at-ukraines-naftogaz-gas-facility?traffic_source=rss",
+      "published_date": "2026-05-05T09:14:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What Iran is saying about attack on UAE",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
+      "published_date": "2026-05-05T08:29:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss",
+      "published_date": "2026-05-05T08:15:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nine workers killed in Colombia coal mine explosion",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion?traffic_source=rss",
+      "published_date": "2026-05-05T07:04:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Explosion at fireworks factory in China kills 26, injures 61",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/explosion-at-fireworks-factory-in-china-kills-26-injures-61?traffic_source=rss",
+      "published_date": "2026-05-05T06:41:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mareykanka oo ka hadlay duqeyn uu ka fuliyay Calmiskaad",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/05/mareykanka-oo-ka-hadlay-duqeyn-uu-ka-fuliyay-calmiskaad/",
+      "published_date": "2026-05-05T06:33:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Soomaaliya oo beenisay wararka ku saabsan eryidda Safiirka Imaaraadka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-beenisay-wararka-ku-saabsan-eryidda-safiirka-imaaraadka/",
+      "published_date": "2026-05-05T06:31:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali police chief meets Turkish military delegation to boost security cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-police-chief-meets-turkish-military-delegation-to-boost-security-cooperation/",
+      "published_date": "2026-05-05T05:50:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+      "title": "Can central banks curb inflation as energy costs rise?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
-      "published_date": "2026-05-04T09:11:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/4/how-to-escape-russias-army-soldiers-serving-in-ukraine-seek-a-way-out?traffic_source=rss",
-      "published_date": "2026-05-04T06:15:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss",
-      "published_date": "2026-05-04T03:37:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/illegal-free-party-at-french-military-site-draws-up-to-40000-ravers?traffic_source=rss",
-      "published_date": "2026-05-04T00:40:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US denies frigate hit by missiles in Hormuz Strait",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
-      "published_date": "2026-05-04T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss",
-      "published_date": "2026-05-03T20:51:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US will ‘help free up’ ships stuck in Hormuz Strait",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/trump-says-us-will-help-free-up-ships-stuck-in-hormuz-strait?traffic_source=rss",
-      "published_date": "2026-05-03T20:47:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is Mali’s military government losing control?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/3/is-malis-military-government-losing-control?traffic_source=rss",
-      "published_date": "2026-05-03T20:30:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World Press Freedom Day marked in Gaza as journalist death toll rises",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss",
-      "published_date": "2026-05-03T20:07:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/5/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss",
+      "published_date": "2026-05-05T11:24:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tackling methane emissions key for climate change and energy security: IEA",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’",
+      "title": "Thiago Ávila’s letter from Israeli prison to his daughter",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/28/as-us-iran-talks-remain-stalled-experts-warn-of-long-term-disruptions?traffic_source=rss",
-      "published_date": "2026-04-28T22:08:54+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/opinions/2026/5/5/thiago-avilas-letter-from-israeli-prison-to-his-daughter?traffic_source=rss",
+      "published_date": "2026-05-05T06:48:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Zambia delaying US deals over minerals and data demands",
@@ -557,11 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "US passes law to resume DHS funding and end partial government shutdown",
+      "title": "What Modi’s big win in Indian state elections could mean for its democracy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/30/us-congress-passes-bill-to-resume-funding-for-dhs-and-end-partial-shutdown?traffic_source=rss",
-      "published_date": "2026-04-30T20:12:34+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/5/what-modis-big-win-in-indian-state-elections-could-mean-for-its-democracy?traffic_source=rss",
+      "published_date": "2026-05-05T11:29:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Starmer’s referendum’: How local elections could expose a fractured UK",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/starmers-referendum-how-local-elections-could-expose-a-fractured-uk?traffic_source=rss",
+      "published_date": "2026-05-05T11:04:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golaha Mustaqbalka oo shuruudo ku xiray gogosha uu dhigay madaxweyne Xasan Sheekh",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/05/golaha-mustaqbalka-oo-shuruudo-ku-xiray-gogosha-uu-dhigay-madaxweyne-xasan-sheekh/",
+      "published_date": "2026-05-05T10:43:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Secret Service shoots gunman near White House",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/us-secret-service-shoots-gunman-near-white-house?traffic_source=rss",
+      "published_date": "2026-05-05T09:37:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What to know ahead of the Ohio primary election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/what-to-know-ahead-of-the-ohio-primary-election?traffic_source=rss",
+      "published_date": "2026-05-05T08:15:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As summer approaches, skin diseases spread through Gaza’s refugee camps",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/as-summer-approaches-skin-diseases-spread-through-gazas-refugee-camps?traffic_source=rss",
+      "published_date": "2026-05-05T08:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Mauritania, push to phase out private schools divides opinion",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/5/education-reform-mauritania?traffic_source=rss",
+      "published_date": "2026-05-05T07:54:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers?traffic_source=rss",
+      "published_date": "2026-05-05T07:44:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia human rights chief meets justice minister to strengthen cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-human-rights-chief-meets-justice-minister-to-strengthen-cooperation/",
+      "published_date": "2026-05-05T05:58:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US Supreme Court temporarily lifts ban on abortion pill mail delivery",
@@ -638,69 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/thousands-in-indias-manipur-mark-three-years-since-ethnic-clashes-began?traffic_source=rss",
       "published_date": "2026-05-03T23:04:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo xarigga ka jaray garoonka kubadda cagta Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/04/madaxweyne-deni-oo-xarigga-ka-jaray-garoonka-kubadda-cagta-boosaaso/",
-      "published_date": "2026-05-03T21:53:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Report Suggests UAE Could Move Toward Recognizing Somaliland",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/report-suggests-uae-could-move-toward-recognizing-somaliland/",
-      "published_date": "2026-05-03T19:33:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Minister of Information Extends Congratulations to Somali Journalists on World Press Freedom Day",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/the-minister-of-information-extends-congratulations-to-somali-journalists-on-world-press-freedom-day/",
-      "published_date": "2026-05-03T11:35:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Presidency Director General Chairs Meeting to Boost Government Performance",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-state-presidency-director-general-chairs-meeting-to-boost-government-performance/",
-      "published_date": "2026-05-03T11:30:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Information Opens Workshop on Preventing Hate Speech in Election Reporting",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-information-opens-workshop-on-preventing-hate-speech-in-election-reporting/",
-      "published_date": "2026-05-03T11:24:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laftagaren says he is still president of Somalia’s Southwest region",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/laftagaren-says-he-is-still-president-of-somalias-southwest-region/",
-      "published_date": "2026-05-03T09:37:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Korea holds pro-Palestine protest in solidarity with Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/south-korea-holds-pro-palestine-protest-in-solidarity-with-gaza?traffic_source=rss",
-      "published_date": "2026-05-03T07:39:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxamed Shiino: DFS waxay Waqooyi Bari uga roontahay Somaliland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/03/maxamed-shiino-dfs-waxay-waqooyi-bari-uga-roontahay-somaliland/",
-      "published_date": "2026-05-03T05:38:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US approves $8.6bn in arms sales to Middle East allies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss",
-      "published_date": "2026-05-03T04:05:28+00:00",
       "category": "Local Events"
     }
   ]
