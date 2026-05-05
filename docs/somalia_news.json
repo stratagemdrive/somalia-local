@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-05T12:07:16.201977+00:00",
+  "last_updated": "2026-05-05T23:44:21.016951+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/5/us-plans-to-hike-tariffs-on-eu-cars-to-25-will-hit-luxury-market-the-most?traffic_source=rss",
+      "published_date": "2026-05-05T19:50:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/sudan-recalls-ethiopia-ambassador-after-strikes-on-khartoum?traffic_source=rss",
+      "published_date": "2026-05-05T18:57:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia bids farewell to Djibouti ambassador after end of tenure",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-bids-farewell-to-djibouti-ambassador-after-end-of-tenure/",
+      "published_date": "2026-05-05T18:37:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan accuses Ethiopia, UAE of being behind recent drone attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/sudan-accuses-ethiopia-uae-of-being-behind-recent-drone-attacks?traffic_source=rss",
+      "published_date": "2026-05-05T15:23:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Defence Meets Turkish Counterpart at SAHA 2026 Defence Fair",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-defence-meets-turkish-counterpart-at-saha-2026-defence-fair/",
+      "published_date": "2026-05-05T13:14:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Djibouti’s Ambassador Bids Farewell as Somalia Reaffirms Strategic Ties",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/djiboutis-ambassador-bids-farewell-as-somalia-reaffirms-strategic-ties/",
+      "published_date": "2026-05-05T12:15:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali Ambassador to India Meets Sri Lankan Counterpart in New Delhi",
       "source": "SONNA",
@@ -102,46 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Former Somalia ruling party secretary Odowa appears at opposition meeting after resignation",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/former-somalia-ruling-party-secretary-odowa-appears-at-opposition-meeting-after-resignation/",
-      "published_date": "2026-05-04T12:52:30+00:00",
-      "category": "Diplomacy"
+      "title": "Israel kills one boy, injures officers in strike on Gaza police station",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
+      "published_date": "2026-05-05T20:45:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Aadan Barre Ducaale: Dib baa loo furayaa xadka Kenya iyo Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aadan-barre-ducaale-dib-baa-loo-furayaa-xadka-kenya-iyo-soomaaliya/",
-      "published_date": "2026-05-04T11:56:43+00:00",
-      "category": "Diplomacy"
+      "title": "US Army says ‘Project Freedom’ in blockaded Hormuz has ‘just begun’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2?traffic_source=rss",
+      "published_date": "2026-05-05T20:42:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenyan health minister urges reopening of Somalia border, citing economic losses",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenyan-health-minister-urges-reopening-of-somalia-border-citing-economic-losses/",
-      "published_date": "2026-05-04T11:55:12+00:00",
-      "category": "Diplomacy"
+      "title": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss",
+      "published_date": "2026-05-05T19:45:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, UNDP step up cooperation on elections, development and humanitarian response",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-undp-step-up-cooperation-on-elections-development-and-humanitarian-response/",
-      "published_date": "2026-05-04T09:28:46+00:00",
-      "category": "Diplomacy"
+      "title": "Video: Trump says Iran should ‘wave the white flag’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss",
+      "published_date": "2026-05-05T18:48:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, UN discuss strengthening media cooperation on humanitarian response",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-un-discuss-strengthening-media-cooperation-on-humanitarian-response/",
-      "published_date": "2026-05-04T09:23:14+00:00",
-      "category": "Diplomacy"
+      "title": "UK convicts four Palestine Action activists over break-in at Israeli firm",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss",
+      "published_date": "2026-05-05T17:36:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ku dhowaad 20 qof oo ku geeriyooday roobab mahiigaan ah oo ka da’ay Kenya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ku-dhowaad-20-qof-oo-ku-geeriyooday-roobab-mahiigaan-ah-oo-ka-daay-kenya/",
-      "published_date": "2026-05-04T06:25:57+00:00",
-      "category": "Diplomacy"
+      "title": "Boko Haram attack kills 23 soldiers in Chad’s Lake Chad region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/boko-haram-attack-kills-23-soldiers-in-chads-lake-chad-region?traffic_source=rss",
+      "published_date": "2026-05-05T15:47:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What’s the significance of UAE’s Fujairah, hit on Monday?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/whats-the-significance-of-uaes-fujairah-hit-on-monday?traffic_source=rss",
+      "published_date": "2026-05-05T15:27:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What’s happening in Mali one week after attack by armed groups? All we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/whats-happening-in-mali-one-week-after-attack-by-armed-groups-all-we-know?traffic_source=rss",
+      "published_date": "2026-05-05T15:25:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth says US ‘hasn’t capitulated on anything’ regarding Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/hegseth-says-us-hasnt-capitulated-on-anything-regarding-iran?traffic_source=rss",
+      "published_date": "2026-05-05T15:21:42+00:00",
+      "category": "Military"
     },
     {
       "title": "UK counterterrorism police investigate arson attack at former synagogue",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Mali leader Goita takes defence post after minister killed",
+      "title": "Could OPEC break lead to era of energy volatility?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/4/mali-leader-goita-takes-defence-post-after-minister-killed?traffic_source=rss",
-      "published_date": "2026-05-04T19:42:54+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/5/aje-onl-tt_uae_opec_video_v1-050526?traffic_source=rss",
+      "published_date": "2026-05-05T20:23:16+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Gangland wars killing dozens of bystanders, report Swedish police",
+      "title": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/4/gangland-wars-killing-dozens-of-bystanders-report-swedish-police?traffic_source=rss",
-      "published_date": "2026-05-04T19:12:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran-US clash over alleged warship attack in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-05-04T19:02:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Car-ramming incident kills at least two people in Germany",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/4/car-ramming-kills-at-least-two-people-in-germany?traffic_source=rss",
-      "published_date": "2026-05-04T17:57:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE reports missile and drone strikes incoming from Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss",
-      "published_date": "2026-05-04T15:37:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Satellite imagery reveals how Sudan’s war scorched its ‘breadbasket’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/4/satellite-imagery-reveals-how-sudans-war-scorched-its-breadbasket?traffic_source=rss",
-      "published_date": "2026-05-04T15:03:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Winning peace in Lebanon is harder than winning war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war?traffic_source=rss",
-      "published_date": "2026-05-04T11:18:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss",
-      "published_date": "2026-05-04T10:55:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss",
-      "published_date": "2026-05-04T09:57:05+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss",
+      "published_date": "2026-05-05T16:50:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can central banks curb inflation as energy costs rise?",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu?traffic_source=rss",
-      "published_date": "2026-04-29T09:20:28+00:00",
-      "category": "Energy"
+      "title": "Puntland vice president meets WFP delegation over drought and aid challenges",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-vice-president-meets-wfp-delegation-over-drought-and-aid-challenges/",
+      "published_date": "2026-05-05T18:41:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "‘Encouraging’: Global rainforest loss slows in 2025 after record year",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/tropical-forest-loss-slows-in-2025-after-record-year-report?traffic_source=rss",
-      "published_date": "2026-04-29T07:48:31+00:00",
-      "category": "Energy"
+      "title": "Hormuud Telecom, Get-Phone Launch Somalia’s Largest Smartphone Financing Program to Bridge Digital Divide",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hormuud-telecom-get-phone-launch-somalias-largest-smartphone-financing-program-to-bridge-digital-divide/",
+      "published_date": "2026-05-05T18:11:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Thiago Ávila’s letter from Israeli prison to his daughter",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "On May Day, Gaza’s workers find whatever source of income they can",
+      "title": "West Bengal Chief refuses to resign after ‘dirty’ election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can?traffic_source=rss",
-      "published_date": "2026-05-01T06:21:31+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/west-bengal-chief-refuses-to-resign-after-dirty-election?traffic_source=rss",
+      "published_date": "2026-05-05T16:39:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss",
-      "published_date": "2026-04-30T20:26:08+00:00",
-      "category": "Economy"
+      "title": "Garowe: Taliye saldhig oo shil gaari ku geeriyooday",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/05/garowe-taliye-saldhig-oo-shil-gaari-ku-geeriyooday/",
+      "published_date": "2026-05-05T16:10:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo kulan la qaatay waxgaradka gobolka Bari",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/05/madaxweyne-deni-oo-kulan-la-qaatay-waxgaradka-gobolka-bari/",
+      "published_date": "2026-05-05T14:26:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What Modi’s big win in Indian state elections could mean for its democracy",
@@ -680,27 +701,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/05/04/calmiskaad-ciidan-jabiyay-digniin-uu-jeediyay-madaxweye-deni/",
       "published_date": "2026-05-04T06:52:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Advances Road Safety and Traffic Reforms Through High-Level Consultative Meeting in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-advances-road-safety-and-traffic-reforms-through-high-level-consultative-meeting-in-mogadishu/",
-      "published_date": "2026-05-04T06:41:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ku eedeeysay Federaalka soo laabashada Burcad-badeeda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/04/puntland-oo-ku-eedeeysay-federaalka-soo-laabashada-burcad-badeeda/",
-      "published_date": "2026-05-04T06:05:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands in India’s Manipur mark three years since ethnic clashes began",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/thousands-in-indias-manipur-mark-three-years-since-ethnic-clashes-began?traffic_source=rss",
-      "published_date": "2026-05-03T23:04:52+00:00",
       "category": "Local Events"
     }
   ]
