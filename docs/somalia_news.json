@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-07T12:59:41.956664+00:00",
-  "story_count": 96,
+  "last_updated": "2026-05-07T23:50:55.641804+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation?traffic_source=rss",
+      "published_date": "2026-05-07T20:10:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inside the Israeli bloc that could topple Netanyahu",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/7/aje-onl-isr_bibipressure_av_v1-070526?traffic_source=rss",
+      "published_date": "2026-05-07T18:51:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales?traffic_source=rss",
+      "published_date": "2026-05-07T18:19:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministry of Foreign Affairs Strengthens Cooperation on Passport and Immigration Services",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ministry-of-foreign-affairs-strengthens-cooperation-on-passport-and-immigration-services/",
+      "published_date": "2026-05-07T13:08:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali Cabinet Approves Private Security Services Regulation Amid Rising Economic Pressures",
       "source": "SONNA",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sudan blames Ethiopia, UAE for recent drone attacks: What we know",
+      "title": "Videos show interceptions over the skies of Tehran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/sudan-blames-ethiopia-uae-for-recent-drone-attacks-what-we-know?traffic_source=rss",
-      "published_date": "2026-05-06T11:13:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
+      "published_date": "2026-05-07T22:20:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Prime Minister Appoints New Information Minister",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-prime-minister-appoints-new-information-minister/",
-      "published_date": "2026-05-06T10:21:10+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
+      "published_date": "2026-05-07T21:11:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Qatar discuss boosting human rights cooperation",
+      "title": "Senators press US military on Israel’s displacement campaign in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
+      "published_date": "2026-05-07T20:53:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian boy mourns father killed in Israeli strike on security post",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss",
+      "published_date": "2026-05-07T20:10:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE secretly moves hidden oil tankers through strait of Hormuz amid rising Gulf tensions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/world/uae-hidden-oil-tankers-strait-of-hormuz-gulf-tensions/",
+      "published_date": "2026-05-07T19:36:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can China help end the Iran war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/7/can-china-help-end-the-iran-war?traffic_source=rss",
+      "published_date": "2026-05-07T19:02:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s attacks and pressure sowing seeds for division in tense Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/israels-attacks-and-pressure-sowing-seeds-for-division-in-tense-lebanon?traffic_source=rss",
+      "published_date": "2026-05-07T18:41:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man pleads guilty to Colorado firebombing, groups call for family reprieve",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/man-pleads-guilty-to-colorado-firebombing-groups-call-for-family-reprieve?traffic_source=rss",
+      "published_date": "2026-05-07T18:20:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Defence Minister Holds Talks With Turkish Defence Industries Chief at SAHA 2026",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-qatar-discuss-boosting-human-rights-cooperation/",
-      "published_date": "2026-05-06T09:21:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Soomaaliya iyo Qatar oo xoojinaya iskaashiga Arrimaha Xuquuqda Aadanaha",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kulanka-muqdisho-soomaaliya-iyo-qatar-oo-xoojinaya-iskaashiga-xuquuqda-aadanaha/",
-      "published_date": "2026-05-06T09:20:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-defence-minister-holds-talks-with-turkish-defence-industries-chief-at-saha-2026/",
+      "published_date": "2026-05-07T13:47:01+00:00",
+      "category": "Military"
     },
     {
       "title": "MSF accuses Israel of manufacturing a malnutrition crisis in Gaza",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
+      "title": "Kenyan villagers sue BP over pollution from 1980s oil exploration",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-05-07T04:48:38+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/kenyan-villagers-sue-bp-over-pollution-from-1980s-oil-exploration?traffic_source=rss",
+      "published_date": "2026-05-07T20:22:54+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli strikes kill five Palestinians across Gaza in one day",
+      "title": "Protests in Bolivia escalate amid economic turmoil and policy demands",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss",
-      "published_date": "2026-05-06T23:20:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
-      "published_date": "2026-05-06T22:05:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
-      "published_date": "2026-05-06T21:17:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Minister of Internal Security Abdullahi Sheikh Ismail Fartaag Meets Burkina Faso Leader Captain Ibrahim Traore to Discuss Counter-Terrorism",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-internal-security-abdullahi-sheikh-ismail-fartaag-meets-burkina-faso-leader-captain-ibrahim-traore-to-discuss-counter-terrorism/",
-      "published_date": "2026-05-06T20:43:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss",
-      "published_date": "2026-05-06T19:43:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss",
-      "published_date": "2026-05-06T19:31:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard?traffic_source=rss",
-      "published_date": "2026-05-06T18:18:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss",
-      "published_date": "2026-05-06T17:35:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/5/7/protests-in-bolivia-escalate-amid-economic-turmoil-and-policy-demands?traffic_source=rss",
+      "published_date": "2026-05-07T18:17:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "What’s behind the secessionist movement in the Canadian province Alberta?",
@@ -389,11 +403,39 @@
       "category": "Energy"
     },
     {
-      "title": "UAE exit signals OPEC’s declining grip on oil markets",
+      "title": "US trade court rules against Trump’s 10 percent global tariffs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/4/30/uae-exit-signals-opecs-declining-grip-on-oil-markets?traffic_source=rss",
-      "published_date": "2026-04-30T17:50:50+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss",
+      "published_date": "2026-05-07T21:34:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gulf states urge UN action to ensure Strait of Hormuz safety",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/gulf-states-urge-un-action-to-ensure-strait-of-hormuz-safety?traffic_source=rss",
+      "published_date": "2026-05-07T19:32:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Brazil’s Lula meets Trump amid efforts to avert new US trade tariffs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/brazils-lula-meets-trump-amid-efforts-to-avert-new-us-trade-tariffs?traffic_source=rss",
+      "published_date": "2026-05-07T18:33:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UNDP calls for greater investment in jobs and services to support Somalia’s recovery",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/undp-calls-for-greater-investment-in-jobs-and-services-to-support-somalias-recovery/",
+      "published_date": "2026-05-07T17:50:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somali Cabinet approves security regulations amid rising economic pressures",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-cabinet-approves-security-regulations-amid-rising-economic-pressures/",
+      "published_date": "2026-05-07T13:49:23+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ra’iisul Wasaaraha Soomaaliya oo la kulmay wafdi ka socday Hay’adda WFP",
@@ -501,39 +543,25 @@
       "category": "Economy"
     },
     {
-      "title": "Rallies under way as workers gather for International Labour Day",
+      "title": "Tennessee approves new congressional map in latest redistricting flurry",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/rallies-under-way-as-workers-gather-for-international-labour-day-2?traffic_source=rss",
-      "published_date": "2026-05-02T12:39:15+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/7/tennessee-approves-new-congressional-map-in-latest-redistricting-flurry?traffic_source=rss",
+      "published_date": "2026-05-07T21:19:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
+      "title": "Armed fighters kill at least 30 people in attacks in central Mali",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss",
-      "published_date": "2026-05-02T03:14:46+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/7/armed-fighters-kill-at-least-30-people-in-attacks-in-central-mali?traffic_source=rss",
+      "published_date": "2026-05-07T20:48:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump expands red snapper fishing as critics warn of overfishing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/trump-expands-red-snapper-fishing-as-critics-warn-of-overfishing?traffic_source=rss",
-      "published_date": "2026-05-01T21:12:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "May Day rallies sweep US, demanding reforms for working-class rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights?traffic_source=rss",
-      "published_date": "2026-05-01T20:57:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Narrative Control in “Horufadhi” Interview with Farmaajo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/01/the-narrative-control-in-horufadhi-interview-with-farmaajo/",
-      "published_date": "2026-05-01T19:50:07+00:00",
-      "category": "Economy"
+      "title": "Khilaaf Siyaasadeed oo Soo Kala Dhex Galay Dowladda Federaalka iyo Maamulka Galmudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/khilaaf-siyaasadeed-oo-soo-kala-dhex-galay-dowladda-federaalka-iyo-maamulka-galmudug/",
+      "published_date": "2026-05-07T14:03:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UK voters head to the polls in local elections",
@@ -652,27 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/6/canary-islands-refuses-to-allow-mv-hondius-with-hantavirus-to-dock?traffic_source=rss",
       "published_date": "2026-05-06T12:05:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo tababar u soo xiray saraakiil hoggaamin doonta howlgallada Calmiskaad iyo Calmadow",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/06/madaxweyne-deni-oo-tababar-u-soo-xiray-saraakiil-hoggaamin-doonta-howlgallada-calmiskaad-iyo-calmadow/",
-      "published_date": "2026-05-06T11:26:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shopping centre fire kills at least eight people in Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/shopping-centre-fire-kills-at-least-eight-people-in-iran?traffic_source=rss",
-      "published_date": "2026-05-06T08:26:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia opposition sets conditions for attending president’s election talks",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-sets-conditions-for-attending-presidents-election-talks/",
-      "published_date": "2026-05-06T01:18:19+00:00",
       "category": "Local Events"
     }
   ]
