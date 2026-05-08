@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-07T23:50:55.641804+00:00",
-  "story_count": 97,
+  "last_updated": "2026-05-08T12:13:02.491512+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Somalia, UK Hold Talks on Strengthening Human Rights Cooperation in Geneva",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-uk-hold-talks-on-strengthening-human-rights-cooperation-in-geneva/",
+      "published_date": "2026-05-08T08:29:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia replaces Mogadishu troops ahead of opposition protests and political tensions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-replaces-mogadishu-troops-opposition-protests-political-tensions/",
+      "published_date": "2026-05-08T07:34:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss",
+      "published_date": "2026-05-08T07:11:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia and United Kingdom Hold Talks on Human Rights Cooperation During High-Level Geneva Summit",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-and-united-kingdom-hold-talks-on-human-rights-cooperation-during-high-level-geneva-summit/",
+      "published_date": "2026-05-08T03:20:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM Hamza sends a strong warning to opposition politicians.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/pm-hamza-sends-a-strong-warning-to-opposition-politicians/",
+      "published_date": "2026-05-08T03:11:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
       "source": "Al Jazeera",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia and Sudan Formalize Strategic Alignment During Executive Diplomatic Session",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-and-sudan-formalize-strategic-alignment-during-executive-diplomatic-session/",
-      "published_date": "2026-05-06T15:39:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia, Egypt advance strategic partnership",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-egypt-advance-strategic-partnership/",
-      "published_date": "2026-05-06T15:35:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Hassan Sheikh Sends Congratulatory Message to the New President of Iraq",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-sends-congratulatory-message-to-the-new-president-of-iraq/",
-      "published_date": "2026-05-06T15:26:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Low US hotel bookings paint grim hospitality picture at the World Cup",
+      "title": "Ukraine may have turned tide of Russian territorial gains, says think tank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/6/low-us-hotel-bookings-paint-grim-hospitality-picture-at-the-world-cup?traffic_source=rss",
-      "published_date": "2026-05-06T11:46:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/8/ukraine-may-have-turned-tide-of-russian-territorial-gains-says-think-tank?traffic_source=rss",
+      "published_date": "2026-05-08T10:45:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali PM replaces information minister",
+      "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss",
+      "published_date": "2026-05-08T09:22:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Sudan’s President Kiir sacks army chief, finance minister in latest reshuffle",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pm-replaces-information-minister/",
-      "published_date": "2026-05-06T11:38:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/south-sudans-president-kiir-sacks-army-chief-finance-minister-in-latest-reshuffle/",
+      "published_date": "2026-05-08T08:39:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Amid Ukraine’s daring assaults, Russia scales back Victory Day celebrations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/amid-ukraines-daring-assaults-russia-scales-back-victory-day-celebrations?traffic_source=rss",
+      "published_date": "2026-05-08T07:40:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss",
+      "published_date": "2026-05-08T06:32:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Videos show interceptions over the skies of Tehran",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "French warship moves towards Red Sea as Paris eyes Hormuz mission",
+      "title": "Yemen fuel price hikes deepen hardship as transport costs rise",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
-      "published_date": "2026-05-07T08:36:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/5/8/yemen-fuel-price-hikes-deepen-hardship-as-transport-costs-rise?traffic_source=rss",
+      "published_date": "2026-05-08T08:47:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Gaza journalist killed on the day his daughter was born",
+      "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
-      "published_date": "2026-05-07T08:12:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
-      "published_date": "2026-05-07T08:01:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack on Gaza kills son of Hamas leader Khalil al-Hayya",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
-      "published_date": "2026-05-07T06:37:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivian police fire tear gas at protesting teachers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/bolivian-police-fire-tear-gas-at-protesting-teachers?traffic_source=rss",
-      "published_date": "2026-05-07T04:51:35+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-05-08T03:03:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Kenyan villagers sue BP over pollution from 1980s oil exploration",
@@ -401,6 +415,13 @@
       "url": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss",
       "published_date": "2026-05-01T16:32:01+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Russia, Ukraine trade fire, blame despite Victory Day ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/russia-ukraine-trade-fire-despite-victory-day-ceasefire?traffic_source=rss",
+      "published_date": "2026-05-08T07:44:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "US trade court rules against Trump’s 10 percent global tariffs",
@@ -536,11 +557,46 @@
       "category": "Economy"
     },
     {
-      "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
+      "title": "Miami host committee assured ICE will not be at World Cup games",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss",
-      "published_date": "2026-05-02T12:46:01+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/5/8/miami-host-committee-assured-ice-will-not-be-at-world-cup-games?traffic_source=rss",
+      "published_date": "2026-05-08T11:25:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rubio meets Pope Leo: Can they heal White House-Vatican rift?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/rubio-meets-pope-leo-can-they-heal-white-house-vatican-rift?traffic_source=rss",
+      "published_date": "2026-05-08T10:38:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Opposition MP Condemns Evictions in Mogadishu, Calls for Protest",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-opposition-mp-condemns-evictions-in-mogadishu-calls-for-protest/",
+      "published_date": "2026-05-08T08:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK’s Labour set for heavy losses in elections as Reform makes early gains",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/uks-labour-set-for-heavy-losses-in-elections-as-reform-makes-early-gains?traffic_source=rss",
+      "published_date": "2026-05-08T08:28:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK elections – early results and takeaways; will Starmer have to resign?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/uk-elections-early-results-and-takeaways-will-starmer-have-to-resign?traffic_source=rss",
+      "published_date": "2026-05-08T08:18:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal Government Showcases Justice Sector Advancements at Executive Gala in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/federal-government-showcases-justice-sector-advancements-at-executive-gala-in-mogadishu/",
+      "published_date": "2026-05-08T03:31:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tennessee approves new congressional map in latest redistricting flurry",
@@ -638,48 +694,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/ministry-of-public-works-and-iom-strengthen-collaboration-on-reconstruction-and-resettlement/",
       "published_date": "2026-05-06T16:01:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amputee football grows in Rwanda, fostering unity and resilience",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/6/amputee-football-grows-in-rwanda-fostering-unity-and-resilience?traffic_source=rss",
-      "published_date": "2026-05-06T15:57:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four killed in post-election violence in India’s West Bengal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss",
-      "published_date": "2026-05-06T15:03:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia, Burkina Faso Boost Counterterrorism Ties During Security Talks",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-burkina-faso-boost-counterterrorism-ties-during-security-talks/",
-      "published_date": "2026-05-06T13:30:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shabelle Media Network Marks 24th Anniversary",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/shabelle-media-network-marks-24th-anniversary/",
-      "published_date": "2026-05-06T13:27:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA Issues Rainfall Forecast and Flood Warning Across Somalia",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sodma-issues-rainfall-forecast-and-flood-warning-across-somalia/",
-      "published_date": "2026-05-06T13:12:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canary Islands refuses to allow MV Hondius with hantavirus to dock",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/canary-islands-refuses-to-allow-mv-hondius-with-hantavirus-to-dock?traffic_source=rss",
-      "published_date": "2026-05-06T12:05:46+00:00",
       "category": "Local Events"
     }
   ]
