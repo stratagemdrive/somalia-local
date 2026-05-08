@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-08T12:13:02.491512+00:00",
-  "story_count": 99,
+  "last_updated": "2026-05-08T23:54:15.791288+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Somalia Highlights Human Rights Progress at UN Review in Geneva",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-highlights-human-rights-progress-at-un-review-in-geneva/",
+      "published_date": "2026-05-08T19:48:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could Labour and Conservative party dominance in UK politics be ending?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/8/could-labours-and-the-conservatives-dominance-in-uk-politics-be-ending?traffic_source=rss",
+      "published_date": "2026-05-08T19:21:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss",
+      "published_date": "2026-05-08T16:19:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, UK Hold Talks on Strengthening Human Rights Cooperation in Geneva",
       "source": "Shabelle Media",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Ambassador to Algeria Presents Non-Resident Credentials to Tunisia, Advancing Bilateral Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-ambassador-to-algeria-presents-non-resident-credentials-to-tunisia-advancing-bilateral-cooperation/",
-      "published_date": "2026-05-06T17:12:55+00:00",
-      "category": "Diplomacy"
+      "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
+      "published_date": "2026-05-08T18:15:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN demands Israel immediately releases flotilla activists",
+      "title": "More than a dozen reported killed in Israeli attacks on south Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss",
-      "published_date": "2026-05-06T16:09:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
+      "published_date": "2026-05-08T17:18:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "It’s not cricket: Pakistan athletes allowed in India for multilateral sport",
+      "title": "Rubio says Iranian boats firing at Americans will be ‘blown up’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss",
-      "published_date": "2026-05-06T16:08:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
+      "published_date": "2026-05-08T15:33:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine may have turned tide of Russian territorial gains, says think tank",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Africa sees winners and losers as Iran war pushes up oil prices",
+      "title": "Pentagon releases video of strikes on Iranian oil tankers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices?traffic_source=rss",
-      "published_date": "2026-05-07T11:29:43+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
+      "published_date": "2026-05-08T22:31:37+00:00",
+      "category": "Energy"
     },
     {
-      "title": "What are US proposals to end war, and will Iran agree to them?",
+      "title": "Libya’s largest oil refinery halts operations during fighting",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them?traffic_source=rss",
-      "published_date": "2026-05-07T10:45:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s stance on US war negotiations explained",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/irans-stance-on-us-war-negotiations-explained?traffic_source=rss",
-      "published_date": "2026-05-07T09:37:04+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
+      "published_date": "2026-05-08T18:47:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "Yemen fuel price hikes deepen hardship as transport costs rise",
@@ -410,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
+      "title": "Protests in the Canary Islands as virus-stricken ship heads for port",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss",
-      "published_date": "2026-05-01T16:32:01+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss",
+      "published_date": "2026-05-08T18:56:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
+      "published_date": "2026-05-08T18:07:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Russia, Ukraine trade fire, blame despite Victory Day ceasefire",
@@ -543,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Prices surge, jobs disappear as war strains Iran’s economy",
+      "title": "FIFPRO in ‘landmark’ win as European body admits football calendar failings",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
-      "published_date": "2026-05-02T16:58:30+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/5/8/fifpro-in-landmark-win-as-european-body-admits-football-calendar-failings?traffic_source=rss",
+      "published_date": "2026-05-08T15:48:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia PM praises workers on Labour Day, pledges job creation and rights protection",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pm-praises-workers-on-labour-day-pledges-job-creation-and-rights-protection/",
-      "published_date": "2026-05-02T16:53:27+00:00",
-      "category": "Economy"
+      "title": "‘Leader of the pack’: Reform UK makes election gains, humiliating Labour",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/leader-of-the-pack-what-next-as-reform-makes-huge-election-gains?traffic_source=rss",
+      "published_date": "2026-05-08T15:35:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa’s top court revives impeachment inquiry against president",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/south-africas-top-court-revives-impeachment-inquiry-against-president?traffic_source=rss",
+      "published_date": "2026-05-08T15:19:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Virginia Supreme Court strikes down Democrats’ redistricting plan in US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/virginia-supreme-court-strikes-down-democrats-redistricting-plan-in-us?traffic_source=rss",
+      "published_date": "2026-05-08T15:08:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka hadashay colaadda Sanaag",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/08/puntland-oo-ka-hadashay-colaadda-sanaag/",
+      "published_date": "2026-05-08T13:11:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Miami host committee assured ICE will not be at World Cup games",
@@ -659,41 +701,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/deadly-mogadishu-clashes-somali-security-forces-forced-evictions-somalia/",
       "published_date": "2026-05-07T07:56:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aid cuts, drought and conflict leave Somalis desperate",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/7/aid-cuts-drought-and-conflict-leave-somalis-desperate?traffic_source=rss",
-      "published_date": "2026-05-07T07:23:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: In ka badan 20 qof oo  ku dhintay dagaal beeleed ka dhacay Sanaag",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/07/puntland-in-ka-badan-20-qof-oo-ku-dhintay-dagaal-beeleed-ka-dhacay-sanaag/",
-      "published_date": "2026-05-07T01:51:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What does the BJP’s victory in West Bengal mean for India’s democracy?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/6/what-does-the-bjps-victory-in-west-bengal-mean-for-indias-democracy?traffic_source=rss",
-      "published_date": "2026-05-06T19:34:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indiana, Ohio primaries draw midterm battle lines, reinforce Trump’s pull",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/indiana-ohio-primaries-draw-midterm-battle-lines-reinforce-trumps-pull?traffic_source=rss",
-      "published_date": "2026-05-06T18:30:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Public Works and IOM Strengthen Collaboration on Reconstruction and Resettlement",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/ministry-of-public-works-and-iom-strengthen-collaboration-on-reconstruction-and-resettlement/",
-      "published_date": "2026-05-06T16:01:38+00:00",
       "category": "Local Events"
     }
   ]
