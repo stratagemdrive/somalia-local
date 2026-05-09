@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-08T23:54:15.791288+00:00",
-  "story_count": 100,
+  "last_updated": "2026-05-09T11:55:38.058025+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Somali PM, Qatari envoy discuss strengthening bilateral ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-qatari-envoy-discuss-strengthening-bilateral-ties/",
+      "published_date": "2026-05-09T11:37:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister Hamza Meets Qatari Ambassador to Strengthen Bilateral Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/prime-minister-hamza-meets-qatari-ambassador-to-strengthen-bilateral-cooperation/",
+      "published_date": "2026-05-09T11:35:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamsa oo Qaabilay Danjiraha Qatar ee Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-qaabilay-danjiraha-qatar-ee-soomaaliya/",
+      "published_date": "2026-05-09T11:09:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ex-President denounces detention of anti-government youths in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ex-president-denounces-detention-of-anti-government-youths-in-mogadishu/",
+      "published_date": "2026-05-09T09:23:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Somali PM condemns arrest of youth activists in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-pm-condemns-arrest-of-youth-activists-in-mogadishu/",
+      "published_date": "2026-05-09T09:20:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali president visits Djibouti amid rising political tensions at home",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-visits-djibouti-amid-rising-political-tensions-at-home/",
+      "published_date": "2026-05-09T09:14:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia: Mogadishu braces for mass protests over forced evictions and demolitions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-mass-protests-forced-evictions-demolitions/",
+      "published_date": "2026-05-09T09:09:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Hassan Sheikh Arrives in Djibouti for President Guelleh’s Inauguration",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-arrives-in-djibouti-for-president-guellehs-inauguration/",
+      "published_date": "2026-05-09T06:24:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia Highlights Human Rights Progress at UN Review in Geneva",
       "source": "Shabelle Media",
@@ -88,60 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Cabinet Approves Private Security Services Regulation Amid Rising Economic Pressures",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-cabinet-approves-private-security-services-regulation-amid-rising-economic-pressures/",
-      "published_date": "2026-05-07T11:02:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Explosive claims link Somalia president Mohamud to Minnesota welfare fraud funds",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-mohamud-minnesota-fraud-explosive-claims/",
-      "published_date": "2026-05-07T10:25:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Defence Minister Meets Turkish Defence Industries Chief at SAHA 2026",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-defence-minister-meets-turkish-defence-industries-chief-at-saha-2026/",
-      "published_date": "2026-05-07T10:25:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What is China’s anti-sanctions law and how does it work?",
+      "title": "US military kills two people in new eastern Pacific Ocean attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
-      "published_date": "2026-05-07T09:50:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss",
+      "published_date": "2026-05-09T10:32:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s Non-Resident Ambassador to Tunisia Presents Credentials Copy",
+      "title": "Taliyaha Ciidanka Xooga Soomaaliya oo Guddoomiyey Shir Amniga Muqdisho looga hadlayey",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-non-resident-ambassador-to-tunisia-presents-credentials-copy/",
-      "published_date": "2026-05-07T07:06:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/taliyaha-ciidanka-xooga-soomaaliya-oo-guddoomiyey-shir-amniga-muqdisho-looga-hadlayey/",
+      "published_date": "2026-05-09T10:30:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Defense Minister Meets Sudanese Counterpart for Security Talks at SAHA EXPO in Istanbul",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-defense-minister-meets-sudanese-counterpart-for-security-talks-at-saha-expo-in-istanbul/",
-      "published_date": "2026-05-06T21:17:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Minister of Defense Ahmed Moallim Fiqi Meets Turkish Defense Industry President at SAHA EXPO 2026",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-defense-ahmed-moallim-fiqi-meets-turkish-defense-industry-president-at-saha-expo-2026/",
-      "published_date": "2026-05-06T21:06:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran ‘has attained an elevated international standing’ says FM",
+      "title": "Scaled-back Victory Day parade held in Moscow",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iran-has-attained-an-elevated-international-standing-says-fm?traffic_source=rss",
-      "published_date": "2026-05-06T17:56:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow?traffic_source=rss",
+      "published_date": "2026-05-09T10:04:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The war on Iran will likely end in American retreat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
+      "published_date": "2026-05-09T09:14:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia holds downsized Victory Day parade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
+      "published_date": "2026-05-09T08:07:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Financial struggles burden Yemen’s army as soldiers wait for wages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss",
+      "published_date": "2026-05-09T07:11:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
+      "published_date": "2026-05-09T01:23:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
+      "published_date": "2026-05-09T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
@@ -225,62 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss",
       "published_date": "2026-05-07T20:10:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE secretly moves hidden oil tankers through strait of Hormuz amid rising Gulf tensions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/world/uae-hidden-oil-tankers-strait-of-hormuz-gulf-tensions/",
-      "published_date": "2026-05-07T19:36:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can China help end the Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/7/can-china-help-end-the-iran-war?traffic_source=rss",
-      "published_date": "2026-05-07T19:02:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s attacks and pressure sowing seeds for division in tense Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/israels-attacks-and-pressure-sowing-seeds-for-division-in-tense-lebanon?traffic_source=rss",
-      "published_date": "2026-05-07T18:41:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man pleads guilty to Colorado firebombing, groups call for family reprieve",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/man-pleads-guilty-to-colorado-firebombing-groups-call-for-family-reprieve?traffic_source=rss",
-      "published_date": "2026-05-07T18:20:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Defence Minister Holds Talks With Turkish Defence Industries Chief at SAHA 2026",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-defence-minister-holds-talks-with-turkish-defence-industries-chief-at-saha-2026/",
-      "published_date": "2026-05-07T13:47:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "MSF accuses Israel of manufacturing a malnutrition crisis in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/msf-accuses-israel-of-manufacturing-a-malnutrition-crisis-in-gaza?traffic_source=rss",
-      "published_date": "2026-05-07T12:21:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Irish footballers and celebrities urge boycott of Israel matches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/7/irish-footballers-and-celebrities-urge-boycott-of-israel-match?traffic_source=rss",
-      "published_date": "2026-05-07T11:42:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Asian economies cope with the fallout from the Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
-      "published_date": "2026-05-07T11:35:57+00:00",
       "category": "Military"
     },
     {
@@ -400,27 +400,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
       "published_date": "2026-05-02T17:10:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss",
-      "published_date": "2026-05-02T09:16:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
-      "published_date": "2026-05-02T08:09:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
-      "published_date": "2026-05-02T04:35:54+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +543,48 @@
       "category": "Economy"
     },
     {
+      "title": "Displaced Lebanese children keep learning amid displacement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss",
+      "published_date": "2026-05-09T11:33:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State Prepares for Local Elections Across 13 Districts",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-state-prepares-for-local-elections-across-13-districts/",
+      "published_date": "2026-05-09T08:08:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
+      "published_date": "2026-05-09T07:18:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo booqday dekedda Boosaaso oo aan lahayn dab-damis",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/09/madaxweyne-deni-oo-booqday-dekedda-boosaaso-oo-aan-lahayn-dab-damis/",
+      "published_date": "2026-05-09T06:47:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mogadishu Mayor Chairs Security Meeting Focused on Strengthening Capital’s Stability",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/mogadishu-mayor-chairs-security-meeting-focused-on-strengthening-capitals-stability/",
+      "published_date": "2026-05-09T06:30:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Electoral Commission Oversees Training of South West Election Staff",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-electoral-commission-oversees-training-of-south-west-election-staff/",
+      "published_date": "2026-05-09T06:27:45+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "FIFPRO in ‘landmark’ win as European body admits football calendar failings",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/5/8/fifpro-in-landmark-win-as-european-body-admits-football-calendar-failings?traffic_source=rss",
@@ -659,48 +680,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/khilaaf-siyaasadeed-oo-soo-kala-dhex-galay-dowladda-federaalka-iyo-maamulka-galmudug/",
       "published_date": "2026-05-07T14:03:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK voters head to the polls in local elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/uk-voters-head-to-the-polls-in-local-elections?traffic_source=rss",
-      "published_date": "2026-05-07T12:34:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khilaaf ka dhex qarxay Galmudug iyo Federaalka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/07/khilaaf-ka-dhex-qarxay-galmudug-iyo-federaalka/",
-      "published_date": "2026-05-07T12:04:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West Interim Leader Receives National Electoral Commission Delegation in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-interim-leader-receives-national-electoral-commission-delegation-in-baidoa/",
-      "published_date": "2026-05-07T11:43:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PUNSAA oo baaq ka soo saartay colaadda Sanaag",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/07/punsaa-oo-baaq-ka-soo-saartay-colaadda-sanaag/",
-      "published_date": "2026-05-07T11:26:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rubio arrives at Vatican to meet Pope Leo amid Trump attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/rubio-arrives-at-vatican-to-meet-pope-leo-amid-trump-attacks?traffic_source=rss",
-      "published_date": "2026-05-07T09:22:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly Mogadishu clashes as Somali security forces split over forced evictions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/deadly-mogadishu-clashes-somali-security-forces-forced-evictions-somalia/",
-      "published_date": "2026-05-07T07:56:50+00:00",
       "category": "Local Events"
     }
   ]
