@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-10T11:57:24.115734+00:00",
+  "last_updated": "2026-05-10T23:49:55.834588+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "Somalia Needs Unity, Not Endless Political Disputes, PM Hamza Says at Europe Day Event",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-needs-unity-not-endless-political-disputes-pm-hamza-says-at-europe-day-event/",
+      "published_date": "2026-05-10T20:21:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Hassan Sheikh Mohamud Speaks on the Situation in Mogadishu and the Platform Provided by the Government to the Opposition",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/president-hassan-sheikh-mohamud-speaks-on-the-situation-in-mogadishu-and-the-platform-provided-by-the-government-to-the-opposition/",
+      "published_date": "2026-05-10T15:53:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia attends global transport forum for first time",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-attends-global-transport-forum-for-first-time/",
+      "published_date": "2026-05-10T13:43:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Deputy Prime Minister Chairs Meeting with EU Ambassadors, Highlights Progress on Direct Elections",
       "source": "SONNA",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Former Somali PM condemns arrest of youth activists in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-pm-condemns-arrest-of-youth-activists-in-mogadishu/",
-      "published_date": "2026-05-09T09:20:51+00:00",
-      "category": "Diplomacy"
+      "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
+      "published_date": "2026-05-10T21:12:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali president visits Djibouti amid rising political tensions at home",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-visits-djibouti-amid-rising-political-tensions-at-home/",
-      "published_date": "2026-05-09T09:14:59+00:00",
-      "category": "Diplomacy"
+      "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
+      "published_date": "2026-05-10T19:01:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia: Mogadishu braces for mass protests over forced evictions and demolitions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-mass-protests-forced-evictions-demolitions/",
-      "published_date": "2026-05-09T09:09:21+00:00",
-      "category": "Diplomacy"
+      "title": "Food inflation hammers households in war-hit Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
+      "published_date": "2026-05-10T16:37:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
+      "published_date": "2026-05-10T15:53:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Football on ruins: Gaza’s orphans find refuge on the pitch",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
+      "published_date": "2026-05-10T13:52:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
+      "published_date": "2026-05-10T13:52:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Ukraine has momentum in war with Russia’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
+      "published_date": "2026-05-10T13:27:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Asian economies cope with the fallout from the Iran war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
+      "published_date": "2026-05-10T13:11:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran replies to US proposal to end war, Trump finds response ‘unacceptable’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
+      "published_date": "2026-05-10T12:40:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Why is Iran taking time to respond to the US proposal to end the war?",
@@ -218,69 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war?traffic_source=rss",
       "published_date": "2026-05-10T05:11:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Person dies after being hit by plane at Denver airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/person-dies-after-being-hit-by-plane-at-denver-airport?traffic_source=rss",
-      "published_date": "2026-05-10T04:25:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
-      "published_date": "2026-05-10T04:17:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
-      "published_date": "2026-05-10T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
-      "published_date": "2026-05-09T21:10:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three police officers killed in car bomb attack in northwest Pakistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
-      "published_date": "2026-05-09T20:29:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NUSOJ Raises Alarm Over Arrests and Harassment of Journalists Amid Rising Political Tensions in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nusoj-raises-alarm-over-arrests-and-harassment-of-journalists-amid-rising-political-tensions-in-mogadishu/",
-      "published_date": "2026-05-09T20:06:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
-      "published_date": "2026-05-09T16:35:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision?traffic_source=rss",
-      "published_date": "2026-05-09T15:53:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military kills two people in new eastern Pacific Ocean attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss",
-      "published_date": "2026-05-09T10:32:48+00:00",
       "category": "Military"
     },
     {
@@ -387,6 +387,13 @@
       "url": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
       "published_date": "2026-05-04T06:45:13+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "With food benefit cuts looming in the US, Californians eye billionaire tax",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/10/with-food-benefit-cuts-looming-in-the-us-californians-eye-billionaire?traffic_source=rss",
+      "published_date": "2026-05-10T15:45:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Israel deports two abducted Gaza aid flotilla activists",
@@ -522,11 +529,60 @@
       "category": "Economy"
     },
     {
-      "title": "Livestock Ministry launches ACALS project in Mogadishu",
+      "title": "Electoral Commission Hails Historic South West Elections, Announces Next Phase of One-Person, One-Vote Polls",
       "source": "SONNA",
-      "url": "https://sonna.so/en/livestock-ministry-launches-acals-project-in-mogadishu/",
-      "published_date": "2026-05-04T07:38:33+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/electoral-commission-hails-historic-south-west-elections-announces-next-phase-of-one-person-one-vote-polls/",
+      "published_date": "2026-05-10T20:31:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland Says Captured ISIS Fighters in Al-Miskaad Would Face Death Penalty",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-says-captured-isis-fighters-in-al-miskaad-would-face-death-penalty/",
+      "published_date": "2026-05-10T19:11:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
+      "published_date": "2026-05-10T19:01:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Federal Government Blocks Opposition Figures From Attending Mogadishu Protest",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalias-federal-government-blocks-opposition-figures-from-attending-mogadishu-protest/",
+      "published_date": "2026-05-10T18:50:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Sheikh Hails Peaceful South West Elections, Warns Against Destabilizing Protests",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-hails-peaceful-south-west-elections-warns-against-destabilizing-protests/",
+      "published_date": "2026-05-10T16:55:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia launches first direct local elections in South West state",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-launches-first-direct-local-elections-in-south-west-state/",
+      "published_date": "2026-05-10T14:03:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soomaaliya oo Markii Ugu Horreysay Ka Qeybgashay Shirweynaha ITF ee Jarmalka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-markii-ugu-horreysay-ka-qeybgashay-shirweynaha-itf-ee-jarmalka/",
+      "published_date": "2026-05-10T13:43:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos: Elderly Citizens Lead Turnout in South West State Local Council Elections",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/photos-elderly-citizens-lead-turnout-in-south-west-state-local-council-elections/",
+      "published_date": "2026-05-10T13:10:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "SouthWest State leader inspects voting as local elections underway",
@@ -610,62 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss",
       "published_date": "2026-05-09T11:33:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Prepares for Local Elections Across 13 Districts",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-state-prepares-for-local-elections-across-13-districts/",
-      "published_date": "2026-05-09T08:08:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
-      "published_date": "2026-05-09T07:18:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo booqday dekedda Boosaaso oo aan lahayn dab-damis",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/09/madaxweyne-deni-oo-booqday-dekedda-boosaaso-oo-aan-lahayn-dab-damis/",
-      "published_date": "2026-05-09T06:47:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mogadishu Mayor Chairs Security Meeting Focused on Strengthening Capital’s Stability",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/mogadishu-mayor-chairs-security-meeting-focused-on-strengthening-capitals-stability/",
-      "published_date": "2026-05-09T06:30:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Electoral Commission Oversees Training of South West Election Staff",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-electoral-commission-oversees-training-of-south-west-election-staff/",
-      "published_date": "2026-05-09T06:27:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFPRO in ‘landmark’ win as European body admits football calendar failings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/8/fifpro-in-landmark-win-as-european-body-admits-football-calendar-failings?traffic_source=rss",
-      "published_date": "2026-05-08T15:48:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Leader of the pack’: Reform UK makes election gains, humiliating Labour",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/leader-of-the-pack-what-next-as-reform-makes-huge-election-gains?traffic_source=rss",
-      "published_date": "2026-05-08T15:35:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa’s top court revives impeachment inquiry against president",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/south-africas-top-court-revives-impeachment-inquiry-against-president?traffic_source=rss",
-      "published_date": "2026-05-08T15:19:39+00:00",
       "category": "Local Events"
     }
   ]
