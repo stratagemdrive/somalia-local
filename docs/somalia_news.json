@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-09T23:43:41.154814+00:00",
-  "story_count": 94,
+  "last_updated": "2026-05-10T11:57:24.115734+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Deputy Prime Minister Chairs Meeting with EU Ambassadors, Highlights Progress on Direct Elections",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/deputy-prime-minister-chairs-meeting-with-eu-ambassadors-highlights-progress-on-direct-elections/",
+      "published_date": "2026-05-10T11:29:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, EU envoys discuss security and elections as direct voting begins in regions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-eu-envoys-discuss-security-and-elections-as-direct-voting-begins-in-regions/",
+      "published_date": "2026-05-10T11:09:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Participates for the First Time in the International Transport Forum (ITF) Summit",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-participates-for-the-first-time-in-the-international-transport-forum-itf-summit/",
+      "published_date": "2026-05-10T10:46:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AFC Asian Cup 2027: Japan to face defending champions Qatar in tough draw",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/10/afc-asian-cup-2027-japan-land-defending-champions-qatar-in-tough-draw?traffic_source=rss",
+      "published_date": "2026-05-10T09:20:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Federal Government Reaffirms Right to Peaceful Assembly and Warns Against Violent Political Mobilization",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/federal-government-reaffirms-right-to-peaceful-assembly-and-warns-against-violent-political-mobilization/",
+      "published_date": "2026-05-10T08:21:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey F-16 jets fly over Mogadishu as Somalia opposition protests begin",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-f16-jets-mogadishu-somalia-opposition-protests/",
+      "published_date": "2026-05-10T07:00:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli settlers force Palestinian family to exhume and rebury their father",
       "source": "Al Jazeera",
@@ -102,46 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "President Hassan Sheikh Arrives in Djibouti for President Guelleh’s Inauguration",
+      "title": "Why is Iran taking time to respond to the US proposal to end the war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war?traffic_source=rss",
+      "published_date": "2026-05-10T10:56:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran military warns of ‘surprising’ methods of warfare if attacked again",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss",
+      "published_date": "2026-05-10T10:10:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mogadishu wakes up under curfew as security forces deploy ahead of planned opposition protest",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/mogadishu-wakes-up-under-curfew-as-security-forces-deploy-ahead-of-planned-opposition-protest/",
+      "published_date": "2026-05-10T09:50:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rebel fighters kill at least 69 people in northeastern DR Congo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/rebel-fighters-kill-at-least-69-people-in-northeastern-dr-congo?traffic_source=rss",
+      "published_date": "2026-05-10T08:42:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "JNIM and Tuareg fighters join forces",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/5/10/jnim-and-tuareg-fighters-join-forces?traffic_source=rss",
+      "published_date": "2026-05-10T08:32:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss",
+      "published_date": "2026-05-10T08:21:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss",
+      "published_date": "2026-05-10T08:18:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Shifting Continental Perspective: How African Media is Reassessing Somalia’s Security and Leadership Trajectory",
       "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-arrives-in-djibouti-for-president-guellehs-inauguration/",
-      "published_date": "2026-05-09T06:24:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/the-shifting-continental-perspective-how-african-media-is-reassessing-somalias-security-and-leadership-trajectory/",
+      "published_date": "2026-05-10T06:49:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Highlights Human Rights Progress at UN Review in Geneva",
+      "title": "Ugu yaraan lix qof oo lagu dilay weerar ka dhacay xadka Soomaaliya iyo Kenya",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-highlights-human-rights-progress-at-un-review-in-geneva/",
-      "published_date": "2026-05-08T19:48:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/ugu-yaraan-lix-qof-oo-lagu-dilay-weerar-ka-dhacay-xadka-soomaaliya-iyo-kenya/",
+      "published_date": "2026-05-10T05:26:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Could Labour and Conservative party dominance in UK politics be ending?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/8/could-labours-and-the-conservatives-dominance-in-uk-politics-be-ending?traffic_source=rss",
-      "published_date": "2026-05-08T19:21:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss",
-      "published_date": "2026-05-08T16:19:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia, UK Hold Talks on Strengthening Human Rights Cooperation in Geneva",
+      "title": "At least 6 killed in road ambush in Kenya’s border region",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-uk-hold-talks-on-strengthening-human-rights-cooperation-in-geneva/",
-      "published_date": "2026-05-08T08:29:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/at-least-6-killed-in-road-ambush-in-kenyas-border-region/",
+      "published_date": "2026-05-10T05:24:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia replaces Mogadishu troops ahead of opposition protests and political tensions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-replaces-mogadishu-troops-opposition-protests-political-tensions/",
-      "published_date": "2026-05-08T07:34:20+00:00",
-      "category": "Diplomacy"
+      "title": "Two wins, two losses: What India, Pakistan have learned a year after war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war?traffic_source=rss",
+      "published_date": "2026-05-10T05:11:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Person dies after being hit by plane at Denver airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/person-dies-after-being-hit-by-plane-at-denver-airport?traffic_source=rss",
+      "published_date": "2026-05-10T04:25:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
+      "published_date": "2026-05-10T04:17:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
+      "published_date": "2026-05-10T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Taliyaha Ciidanka Xooga Soomaaliya oo Guddoomiyey Shir Amniga Muqdisho looga hadlayey",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-xooga-soomaaliya-oo-guddoomiyey-shir-amniga-muqdisho-looga-hadlayey/",
-      "published_date": "2026-05-09T10:30:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Scaled-back Victory Day parade held in Moscow",
+      "title": "Satellite images show likely oil slick off Iran’s Kharg Island",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow?traffic_source=rss",
-      "published_date": "2026-05-09T10:04:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The war on Iran will likely end in American retreat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
-      "published_date": "2026-05-09T09:14:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia holds downsized Victory Day parade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
-      "published_date": "2026-05-09T08:07:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Financial struggles burden Yemen’s army as soldiers wait for wages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss",
-      "published_date": "2026-05-09T07:11:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
-      "published_date": "2026-05-09T01:23:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
-      "published_date": "2026-05-09T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
-      "published_date": "2026-05-08T18:15:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than a dozen reported killed in Israeli attacks on south Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
-      "published_date": "2026-05-08T17:18:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio says Iranian boats firing at Americans will be ‘blown up’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
-      "published_date": "2026-05-08T15:33:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine may have turned tide of Russian territorial gains, says think tank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/ukraine-may-have-turned-tide-of-russian-territorial-gains-says-think-tank?traffic_source=rss",
-      "published_date": "2026-05-08T10:45:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss",
-      "published_date": "2026-05-08T09:22:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Sudan’s President Kiir sacks army chief, finance minister in latest reshuffle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-sudans-president-kiir-sacks-army-chief-finance-minister-in-latest-reshuffle/",
-      "published_date": "2026-05-08T08:39:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amid Ukraine’s daring assaults, Russia scales back Victory Day celebrations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/amid-ukraines-daring-assaults-russia-scales-back-victory-day-celebrations?traffic_source=rss",
-      "published_date": "2026-05-08T07:40:55+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+      "published_date": "2026-05-10T01:23:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pentagon releases video of strikes on Iranian oil tankers",
@@ -380,6 +387,20 @@
       "url": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
       "published_date": "2026-05-04T06:45:13+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Israel deports two abducted Gaza aid flotilla activists",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss",
+      "published_date": "2026-05-10T07:13:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Macron tours East Africa amid push to redefine France’s role in Africa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/macron-tours-east-africa-amid-push-to-redefine-frances-role-in-africa?traffic_source=rss",
+      "published_date": "2026-05-10T05:38:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Protests in the Canary Islands as virus-stricken ship heads for port",
@@ -508,18 +529,32 @@
       "category": "Economy"
     },
     {
-      "title": "Detained Gaza aid flotilla activists arrive in Netherlands",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/detained-gaza-aid-flotilla-activists-arrive-in-netherlands?traffic_source=rss",
-      "published_date": "2026-05-04T04:45:52+00:00",
-      "category": "Economy"
+      "title": "SouthWest State leader inspects voting as local elections underway",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/southwest-state-leader-inspects-voting-as-local-elections-underway/",
+      "published_date": "2026-05-10T09:48:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
+      "title": "Senior Somali Leaders Participate in South West State Elections as Public Turns Out in Large Numbers",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/senior-somali-leaders-participate-in-south-west-state-elections-as-public-turns-out-in-large-numbers/",
+      "published_date": "2026-05-10T09:22:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State Officially Commences Historic Universal Suffrage Elections Across Multiple Districts to Establish Direct Local Governance",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-state-officially-commences-historic-universal-suffrage-elections-across-multiple-districts-to-establish-direct-local-governance/",
+      "published_date": "2026-05-10T07:19:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘No Kings’ protest outside Buckingham Palace",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/taiwan-leader-visits-eswatini-despite-chinas-attempts-to-block-trip?traffic_source=rss",
-      "published_date": "2026-05-03T06:36:26+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/aje-onl-nf_clip-no-kings-protest-090526?traffic_source=rss",
+      "published_date": "2026-05-10T02:22:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Brazil judge bars law that could reduce Bolsonaro’s 27-year prison sentence",
@@ -631,34 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/8/south-africas-top-court-revives-impeachment-inquiry-against-president?traffic_source=rss",
       "published_date": "2026-05-08T15:19:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Virginia Supreme Court strikes down Democrats’ redistricting plan in US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/virginia-supreme-court-strikes-down-democrats-redistricting-plan-in-us?traffic_source=rss",
-      "published_date": "2026-05-08T15:08:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka hadashay colaadda Sanaag",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/08/puntland-oo-ka-hadashay-colaadda-sanaag/",
-      "published_date": "2026-05-08T13:11:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miami host committee assured ICE will not be at World Cup games",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/8/miami-host-committee-assured-ice-will-not-be-at-world-cup-games?traffic_source=rss",
-      "published_date": "2026-05-08T11:25:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rubio meets Pope Leo: Can they heal White House-Vatican rift?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/rubio-meets-pope-leo-can-they-heal-white-house-vatican-rift?traffic_source=rss",
-      "published_date": "2026-05-08T10:38:54+00:00",
       "category": "Local Events"
     }
   ]
