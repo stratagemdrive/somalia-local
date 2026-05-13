@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-13T13:20:36.002750+00:00",
-  "story_count": 92,
+  "last_updated": "2026-05-13T23:54:26.608259+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "New eye scan detects diseases years before symptoms appear",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/new-eye-scan-detects-diseases-years-before-symptoms-appear?traffic_source=rss",
+      "published_date": "2026-05-13T19:37:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can Macron’s Kenya visit revive French influence in Africa?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/13/can-macrons-kenya-visit-revive-french-influence-in-africa?traffic_source=rss",
+      "published_date": "2026-05-13T17:43:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s rivals gather in Mogadishu for U.S.-mediated talks as nation faces a constitutional crisis",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-rivals-gather-in-mogadishu-for-u-s-mediated-talks-as-nation-faces-a-constitutional-crisis/",
+      "published_date": "2026-05-13T14:44:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Photos : Djibouti’s New Ambassador to Somalia Receives Warm Welcome in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/photos-djiboutis-new-ambassador-to-somalia-receives-warm-welcome-in-mogadishu/",
+      "published_date": "2026-05-13T14:08:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wadahadallada Siyaasadeed ee Soomaaliya oo ku Fashilmay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wadahadallada-siyaasadeed-ee-soomaaliya-oo-ku-fashilmay/",
+      "published_date": "2026-05-13T13:03:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
       "source": "Al Jazeera",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Foreign Minister Attends Africa Forward Summit in Nairobi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-foreign-minister-attends-africa-forward-summit-in-nairobi/",
-      "published_date": "2026-05-12T12:51:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Human Rights Commission Chief Meets UK Envoy on Institutional Support",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-human-rights-commission-chief-meets-uk-envoy-on-institutional-support/",
-      "published_date": "2026-05-12T12:48:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
+      "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss",
-      "published_date": "2026-05-12T12:17:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
+      "published_date": "2026-05-13T21:15:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "In Mogadishu, fear grows of a return to Somalia’s violent political past",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/mogadishu-fear-return-somalia-political-crisis/",
-      "published_date": "2026-05-12T12:11:19+00:00",
-      "category": "Diplomacy"
+      "title": "Republicans break ranks, but Senate fails to curb Trump’s Iran war powers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss",
+      "published_date": "2026-05-13T19:53:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Dowladda Soomaaliya oo Ka Qeyb Gashay Shirka Afrika iyo Faransiiska ee Nairobi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-ka-qeyb-gashay-shirka-afrika-iyo-faransiiska-ee-nairobi/",
-      "published_date": "2026-05-12T12:08:44+00:00",
-      "category": "Diplomacy"
+      "title": "UAE denies Netanyahu visited in ‘secret’ during US-Israel war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss",
+      "published_date": "2026-05-13T19:06:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "There’s an app for that: Gaza’s developers use tech to solve war problems",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/13/theres-an-app-for-that-gazas-developers-use-tech-to-solve-war-problems?traffic_source=rss",
+      "published_date": "2026-05-13T19:06:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How US donor bodies were sold for Israeli military training",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_israelcadavers_v4-130526?traffic_source=rss",
+      "published_date": "2026-05-13T18:30:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Danab Commandos Rescue Civilians in Middle Shabelle Operation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-danab-commandos-rescue-civilians-in-middle-shabelle-operation/",
+      "published_date": "2026-05-13T16:44:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Gunshots ring out at Philippine Senate where lawmaker is holed up",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Moment taxi driver wrestles armed man during police chase in Turkiye",
+      "title": "Trump administration offers $100m in aid to Cuba in exchange for reform",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/moment-taxi-driver-wrestles-armed-man-during-police-chase-in-turkey?traffic_source=rss",
-      "published_date": "2026-05-12T19:31:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serbia hosts first joint military exercise with NATO",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss",
-      "published_date": "2026-05-12T18:02:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US faces rising costs with Iran war driving energy prices, inflation higher",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss",
-      "published_date": "2026-05-12T17:37:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s war creating a ‘lost generation’ of Lebanese students",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
-      "published_date": "2026-05-12T16:33:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why the Iran war is threatening whales near South Africa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/why-the-iran-war-is-threatening-whales-near-south-africa?traffic_source=rss",
-      "published_date": "2026-05-12T12:42:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Philippine senator flees ICC arrest over role in drug war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/video-philippine-senator-flees-icc-arrest-over-role-in-drug-war?traffic_source=rss",
-      "published_date": "2026-05-12T11:44:58+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/13/trump-administration-offers-100m-in-aid-to-cuba-in-exchange-for-reform?traffic_source=rss",
+      "published_date": "2026-05-13T23:01:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "A daring step forward: The courage behind Türkiye-Somalia energy cooperation",
@@ -368,11 +375,11 @@
       "category": "Energy"
     },
     {
-      "title": "What’s behind the secessionist movement in the Canadian province Alberta?",
+      "title": "As Trump readies to meet Xi, experts say he is ‘desperate for a win’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta?traffic_source=rss",
-      "published_date": "2026-05-06T21:05:29+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/5/13/as-trump-readies-to-meet-xi-experts-say-he-is-desperate-for-a-win?traffic_source=rss",
+      "published_date": "2026-05-13T21:12:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Gang violence displaces hundreds in Haiti’s capital",
@@ -508,6 +515,62 @@
       "category": "Economy"
     },
     {
+      "title": "Memphis residents file lawsuit alleging abuses by Trump-backed task force",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/memphis-residents-file-lawsuit-alleging-abuses-by-trump-backed-task-force?traffic_source=rss",
+      "published_date": "2026-05-13T22:58:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
+      "published_date": "2026-05-13T21:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Louisiana paused its US House primary election amid redistricting push",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/why-louisiana-paused-its-us-house-primary-election-amid-redistricting-push?traffic_source=rss",
+      "published_date": "2026-05-13T21:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kevin Warsh confirmed as new US Federal Reserve chair amid controversy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/13/kevin-warsh-confirmed-as-new-us-federal-reserve-chair-amid-controversy?traffic_source=rss",
+      "published_date": "2026-05-13T18:55:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Carolina court tosses murder conviction in Alex Murdaugh case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/south-carolina-court-tosses-murder-conviction-in-alex-murdaugh-case?traffic_source=rss",
+      "published_date": "2026-05-13T17:38:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxaa ka soo baxay shirkii Xalane?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/13/maxaa-ka-soo-baxay-shirkii-xalane/",
+      "published_date": "2026-05-13T13:47:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Election Talks Stall in Mogadishu as Dispute Deepens",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-election-talks-stall-in-mogadishu-as-dispute-deepens/",
+      "published_date": "2026-05-13T12:51:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Army Chief Meets South West State Leader in Baidoa Over Security Drive",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-meets-south-west-state-leader-in-baidoa-over-security-drive/",
+      "published_date": "2026-05-13T12:44:49+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Key Zelenskyy aides under corruption cloud: What are they accused of?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/13/key-zelenskyy-aides-under-corruption-cloud-what-are-they-accused-of?traffic_source=rss",
@@ -589,62 +652,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/05/12/madaxweyne-deni-oo-gaaray-muqdisho/",
       "published_date": "2026-05-12T15:54:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "United States Urges Somali Leaders and Opposition to Reach an Election Agreement",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/united-states-urges-somali-leaders-and-opposition-to-reach-an-election-agreement/",
-      "published_date": "2026-05-12T15:51:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo siidaysay ajaaniib lagu qabtay Calmiskaad",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/12/puntland-oo-siidaysay-ajaaniib-lagu-qabtay-calmiskaad/",
-      "published_date": "2026-05-12T15:31:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA Issues Urgent Thunderstorm Warning for Bari and Nugaal Regions",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sodma-issues-urgent-thunderstorm-warning-for-bari-and-nugaal-regions/",
-      "published_date": "2026-05-12T14:47:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hope Amid the Waves: Young Somali Boy Braves the Sea for Survival in Barawe",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/hope-amid-the-waves-young-somali-boy-braves-the-sea-for-survival-in-barawe/",
-      "published_date": "2026-05-12T13:50:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khilaaf ka dhex qarxay madaxda Galmudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/12/khilaaf-ka-dhex-qarxay-madaxda-galmudug/",
-      "published_date": "2026-05-12T12:51:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliyaha Ciidanka Xoogga Dalka oo Ciidamada Kula Dardaarmay Adkeynta Amniga Jowhar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-xoogga-dalka-oo-ciidamada-kula-dardaarmay-adkeynta-amniga-jowhar/",
-      "published_date": "2026-05-12T12:15:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunman arrested after opening fire on busy street near Harvard University",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/gunman-arrested-after-opening-fire-on-busy-street-near-harvard-university-2?traffic_source=rss",
-      "published_date": "2026-05-12T07:44:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexico cancels plan to cut school year for World Cup after backlash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/12/mexico-cancels-plan-to-cut-school-year-for-world-cup-after-backlash?traffic_source=rss",
-      "published_date": "2026-05-12T07:37:56+00:00",
       "category": "Local Events"
     }
   ]
