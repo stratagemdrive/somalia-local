@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-14T12:57:10.053458+00:00",
-  "story_count": 93,
+  "last_updated": "2026-05-14T23:54:53.129909+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "‘China is gaining from what the US is doing in Iran’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
+      "published_date": "2026-05-14T20:56:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
+      "published_date": "2026-05-14T20:25:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
+      "published_date": "2026-05-14T20:20:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya Keeps Somalia Border Closed Over Security Concerns, Ruto Says",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenya-keeps-somalia-border-closed-over-security-concerns-ruto-says/",
+      "published_date": "2026-05-14T14:19:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali Interior Minister Delivers Presidential Message to Algerian President Abdelmadjid Tebboune in Algiers",
       "source": "SONNA",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN urges independent probes into deadly Nigeria, Chad air attacks",
+      "title": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss",
-      "published_date": "2026-05-13T11:40:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
+      "published_date": "2026-05-14T19:34:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s New Information Minister Inspects Ministry Operations Following Assumption of Office",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalias-new-information-minister-inspects-ministry-operations-following-assumption-of-office/",
-      "published_date": "2026-05-13T10:58:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN resolution calls for freedom of navigation in the Strait of Hormuz",
+      "title": "US Air Force rescues 11 after plane crashes into waters off Florida coast",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/un-resolution-calls-for-freedom-of-navigation-in-the-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-05-13T09:33:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss",
+      "published_date": "2026-05-14T19:16:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "All Eyes on Mogadishu as Somali Leaders, Opposition Meet Over Electoral Crisis",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/all-eyes-on-mogadishu-as-somali-leaders-opposition-and-foreign-partners-meet-over-political-crisis/",
-      "published_date": "2026-05-13T09:05:18+00:00",
-      "category": "Diplomacy"
+      "title": "Iran expands tiered internet access amid continued online blackout",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
+      "published_date": "2026-05-14T19:00:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
+      "published_date": "2026-05-14T18:39:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Acute hunger grips nearly 20 million people in war-battered Sudan, says IPC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
+      "published_date": "2026-05-14T18:23:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss",
+      "published_date": "2026-05-14T17:50:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran urges BRICS nations to condemn US-Israeli war aggression",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss",
+      "published_date": "2026-05-14T17:29:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
+      "title": "Cuba’s Diaz-Canel open to US aid amid worsening fuel crisis, blackouts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
-      "published_date": "2026-05-13T12:39:17+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss",
+      "published_date": "2026-05-14T22:30:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "At least eight killed in Israeli drone strikes on Lebanon highway",
+      "title": "Cuba plunged deeper into fuel crisis amid 22-hour blackouts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
-      "published_date": "2026-05-13T09:53:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army, Clan Fighters Launch Operation Against Al-Shabaab in Central Region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-clan-fighters-launch-operation-against-al-shabaab-in-central-region/",
-      "published_date": "2026-05-13T08:57:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Silicon Valley giants are turning into war contractors",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
-      "published_date": "2026-05-13T08:41:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss",
-      "published_date": "2026-05-13T07:45:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-China head-to-head: Explained in 11 maps and charts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/us-china-head-to-head-explained-in-11-maps-and-charts?traffic_source=rss",
-      "published_date": "2026-05-13T06:47:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidamada Xoogga Dalka iyo Kuwa Deegaanka oo Howlgal Ka Fuliyay Gobolka Hiiraan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-xoogga-dalka-iyo-kuwa-deegaanka-oo-howlgal-ka-fuliyay-gobolka-hiiraan/",
-      "published_date": "2026-05-13T06:15:17+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/cuba-plunged-deeper-into-fuel-crisis-amid-22-hour-blackouts?traffic_source=rss",
+      "published_date": "2026-05-14T18:13:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump administration offers $100m in aid to Cuba in exchange for reform",
@@ -361,18 +375,25 @@
       "category": "Energy"
     },
     {
-      "title": "Kenyan villagers sue BP over pollution from 1980s oil exploration",
+      "title": "Explosions heard as mining groups stage anti-government protest in Bolivia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/kenyan-villagers-sue-bp-over-pollution-from-1980s-oil-exploration?traffic_source=rss",
-      "published_date": "2026-05-07T20:22:54+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
+      "published_date": "2026-05-14T23:28:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Protests in Bolivia escalate amid economic turmoil and policy demands",
+      "title": "UN aid convoy hit by drone strikes in Ukraine’s Kherson",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/7/protests-in-bolivia-escalate-amid-economic-turmoil-and-policy-demands?traffic_source=rss",
-      "published_date": "2026-05-07T18:17:11+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss",
+      "published_date": "2026-05-14T23:22:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump administration pledges $1.8bn in additional humanitarian aid to UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/trump-administration-pledges-1-8bn-in-additional-humanitarian-aid-to-un?traffic_source=rss",
+      "published_date": "2026-05-14T18:24:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Labour’s Angela Rayner says she has been cleared over UK tax affairs",
@@ -487,32 +508,32 @@
       "category": "Economy"
     },
     {
-      "title": "US trade court rules against Trump’s 10 percent global tariffs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss",
-      "published_date": "2026-05-07T21:34:37+00:00",
-      "category": "Economy"
+      "title": "South West Electoral Commission Announces Regional Election Results",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/south-west-electoral-commission-announces-regional-election-results/",
+      "published_date": "2026-05-14T21:53:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gulf states urge UN action to ensure Strait of Hormuz safety",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/gulf-states-urge-un-action-to-ensure-strait-of-hormuz-safety?traffic_source=rss",
-      "published_date": "2026-05-07T19:32:23+00:00",
-      "category": "Economy"
+      "title": "Somali Leaders’ Talks in Halane End Without Breakthrough",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-leaders-talks-in-halane-end-without-breakthrough/",
+      "published_date": "2026-05-14T21:36:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Brazil’s Lula meets Trump amid efforts to avert new US trade tariffs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/brazils-lula-meets-trump-amid-efforts-to-avert-new-us-trade-tariffs?traffic_source=rss",
-      "published_date": "2026-05-07T18:33:36+00:00",
-      "category": "Economy"
+      "title": "Heavy Fighting Erupts Near Baidoa Between Somali Government Forces and Troops Loyal to Ex-South West Leader",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/heavy-fighting-erupts-near-baidoa-between-somali-government-forces-and-troops-loyal-to-ex-south-west-leader/",
+      "published_date": "2026-05-14T14:16:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UNDP calls for greater investment in jobs and services to support Somalia’s recovery",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/undp-calls-for-greater-investment-in-jobs-and-services-to-support-somalias-recovery/",
-      "published_date": "2026-05-07T17:50:51+00:00",
-      "category": "Economy"
+      "title": "With foreign mediators receding, Somalia’s election talks enter a fraught second day of deadlock",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-election-talks-fraught-second-day-deadlock/",
+      "published_date": "2026-05-14T13:56:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Opposition-Government Conference Breaks Up Again",
@@ -624,34 +645,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/13/key-zelenskyy-aides-under-corruption-cloud-what-are-they-accused-of?traffic_source=rss",
       "published_date": "2026-05-13T12:11:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The class politics of modern outbreaks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/13/the-class-politics-of-modern-outbreaks?traffic_source=rss",
-      "published_date": "2026-05-13T09:51:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Human Rights Commission, EU Discuss Stronger Cooperation on Rights and Governance",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-human-rights-commission-eu-discuss-stronger-cooperation-on-rights-and-governance/",
-      "published_date": "2026-05-13T08:44:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands protest in Argentina over Milei university cuts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/13/tens-of-thousands-protest-in-argentina-over-milei-university-cuts?traffic_source=rss",
-      "published_date": "2026-05-13T06:52:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo soo saartay digniin la xiriirta tartanka ciyaaraha ee ka socda Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/13/puntland-oo-soo-saartay-digniin-la-xiriirta-tartanka-ciyaaraha-ee-ka-socda-boosaaso/",
-      "published_date": "2026-05-13T06:41:17+00:00",
       "category": "Local Events"
     }
   ]
