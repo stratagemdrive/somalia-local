@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-15T12:58:44.023242+00:00",
+  "last_updated": "2026-05-15T23:53:17.527967+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "What did Trump and Xi discuss during the China summit?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss",
+      "published_date": "2026-05-15T20:43:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says lack of trust is the main obstacle in US negotiations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/iran-says-lack-of-trust-is-the-main-obstacle-in-us-negotiations?traffic_source=rss",
+      "published_date": "2026-05-15T16:31:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump and Xi move towards business-first relationship after Beijing summit",
       "source": "Al Jazeera",
@@ -15,6 +29,27 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss",
       "published_date": "2026-05-15T09:01:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Government-Opposition Talks End in Deadlock Over Elections",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-government-opposition-talks-end-in-deadlock-over-elections/",
+      "published_date": "2026-05-15T08:07:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali President Marks SYL Anniversary, Urges Youth to Defend National Unity",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-marks-syl-anniversary-urges-youth-to-defend-national-unity/",
+      "published_date": "2026-05-15T08:05:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Envoy Expresses Hope Despite Collapse of Somalia Political Talks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/eu-envoy-expresses-hope-despite-collapse-of-somalia-political-talks/",
+      "published_date": "2026-05-15T08:02:02+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How China changed Rubio name to let him join Trump summit despite sanctions",
+      "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions?traffic_source=rss",
-      "published_date": "2026-05-14T08:11:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+      "published_date": "2026-05-15T21:05:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump in China for talks with Xi Jinping",
+      "title": "Trump calls journalist’s Iran reporting ‘treasonous’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping?traffic_source=rss",
-      "published_date": "2026-05-14T06:56:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
+      "published_date": "2026-05-15T20:01:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "New eye scan detects diseases years before symptoms appear",
+      "title": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/new-eye-scan-detects-diseases-years-before-symptoms-appear?traffic_source=rss",
-      "published_date": "2026-05-13T19:37:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
+      "published_date": "2026-05-15T18:08:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Macron’s Kenya visit revive French influence in Africa?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/13/can-macrons-kenya-visit-revive-french-influence-in-africa?traffic_source=rss",
-      "published_date": "2026-05-13T17:43:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia’s rivals gather in Mogadishu for U.S.-mediated talks as nation faces a constitutional crisis",
+      "title": "Senior Somali commanders killed in Al-Shabaab ambush near Baidoa as Southwest crisis deepens",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-rivals-gather-in-mogadishu-for-u-s-mediated-talks-as-nation-faces-a-constitutional-crisis/",
-      "published_date": "2026-05-13T14:44:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/senior-somali-commanders-killed-alshabaab-baidoa/",
+      "published_date": "2026-05-15T18:05:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
+      "published_date": "2026-05-15T17:46:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "BRICS talks end without joint statement as divisions over Iran war deepen",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss",
+      "published_date": "2026-05-15T16:39:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India and UAE sign defence pacts, as Iran war tensions simmer",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss",
+      "published_date": "2026-05-15T15:44:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Why the Iran conflict is becoming a problem for BRICS",
@@ -235,53 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
+      "title": "Cuba hit by protests, blackouts amid oil shortage",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss",
-      "published_date": "2026-05-14T11:27:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cuba-hit-by-protests-blackouts-amid-oil-shortage?traffic_source=rss",
+      "published_date": "2026-05-15T20:40:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Zimbabweans lured into Russia’s war as families plead for their return",
+      "title": "Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/14/zimbabweans-lured-into-russias-war-as-families-plead-for-their-return?traffic_source=rss",
-      "published_date": "2026-05-14T11:22:23+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss",
+      "published_date": "2026-05-15T17:32:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Somali National Army and Turkisom Execute Joint Humanitarian Operation to Stabilize Recently Liberated Mubarak District",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-national-army-and-turkisom-execute-joint-humanitarian-operation-to-stabilize-recently-liberated-mubarak-district/",
-      "published_date": "2026-05-14T10:03:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japanese snacks go black-and-white: Why Iran war is driving up ink prices",
+      "title": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices?traffic_source=rss",
-      "published_date": "2026-05-14T08:49:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
-      "published_date": "2026-05-14T07:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
-      "published_date": "2026-05-13T21:15:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Republicans break ranks, but Senate fails to curb Trump’s Iran war powers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss",
-      "published_date": "2026-05-13T19:53:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/15/uae-to-accelerate-oil-pipeline-project-to-bypass-hormuz?traffic_source=rss",
+      "published_date": "2026-05-15T16:48:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "India hikes fuel prices as Iran crisis bites",
@@ -354,18 +375,11 @@
       "category": "Energy"
     },
     {
-      "title": "Pentagon releases video of strikes on Iranian oil tankers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
-      "published_date": "2026-05-08T22:31:37+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Libya’s largest oil refinery halts operations during fighting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
-      "published_date": "2026-05-08T18:47:02+00:00",
-      "category": "Energy"
+      "title": "Modern Urban Development Project Launched in Mindhob Area of Warsheikh District",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/modern-urban-development-project-launched-in-mindhob-area-of-warsheikh-district/",
+      "published_date": "2026-05-15T16:13:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "US seeks indictment of former Cuban leader Raul Castro",
@@ -487,18 +501,18 @@
       "category": "Economy"
     },
     {
-      "title": "Protests in the Canary Islands as virus-stricken ship heads for port",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss",
-      "published_date": "2026-05-08T18:56:11+00:00",
-      "category": "Economy"
+      "title": "Madaxweyne Deni oo ka hadlay shirkii fashilmay ee Xalane",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/16/madaxweyne-deni-oo-ka-hadlay-shirkii-fashilmay-ee-xalane/",
+      "published_date": "2026-05-15T21:59:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
+      "title": "Canada’s Carney travels to Alberta as separatists face legal setback",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
-      "published_date": "2026-05-08T18:07:49+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/15/canadas-carney-travels-to-alberta-as-separatists-face-legal-setback?traffic_source=rss",
+      "published_date": "2026-05-15T18:40:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South West Electoral Commission Announces Regional Election Results",
@@ -624,20 +638,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-election-talks-stall-in-mogadishu-as-dispute-deepens/",
       "published_date": "2026-05-13T12:51:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Army Chief Meets South West State Leader in Baidoa Over Security Drive",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-meets-south-west-state-leader-in-baidoa-over-security-drive/",
-      "published_date": "2026-05-13T12:44:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Key Zelenskyy aides under corruption cloud: What are they accused of?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/key-zelenskyy-aides-under-corruption-cloud-what-are-they-accused-of?traffic_source=rss",
-      "published_date": "2026-05-13T12:11:01+00:00",
       "category": "Local Events"
     }
   ]
