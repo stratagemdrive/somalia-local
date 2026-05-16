@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-15T23:53:17.527967+00:00",
-  "story_count": 91,
+  "last_updated": "2026-05-16T11:56:13.255874+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "President Hassan Sheikh Mohamud Receives Turkish Ambassador at Villa Somalia",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-receives-turkish-ambassador-at-villa-somalia/",
+      "published_date": "2026-05-16T11:53:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Hassan Sheikh Mohamud Highlights Constitutional Progress, Elections, and Somalia’s Global Standing",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-highlights-constitutional-progress-elections-and-somalias-global-standing/",
+      "published_date": "2026-05-16T08:36:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia president says government term runs until May 2027 under new constitution",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-president-says-government-term-runs-until-may-2027-under-new-constitution/",
+      "published_date": "2026-05-16T08:31:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia president says term not expired as opposition rejects his legitimacy",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-political-crisis-president-legitimacy-dispute/",
+      "published_date": "2026-05-16T06:05:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What did Trump and Xi discuss during the China summit?",
       "source": "Al Jazeera",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Could Iran war trigger a hunger crisis?",
+      "title": "At least eight killed, 25 injured as train hits bus in Bangkok",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
-      "published_date": "2026-05-14T09:28:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/16/at-least-eight-killed-25-injured-as-train-hits-bus-in-bangkok?traffic_source=rss",
+      "published_date": "2026-05-16T10:43:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Federal judge blocks US sanctions against UN rapporteur Francesca Albanese",
+      "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese?traffic_source=rss",
-      "published_date": "2026-05-14T09:16:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
+      "published_date": "2026-05-16T10:34:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Madaxweynaha Kenya oo ka Hadlay Khilaafka Siyaasadeed ee Soomaaliya",
+      "title": "Senior Al-Shabaab commanders wounded in fresh operation in central Somalia – NISA",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynaha-kenya-oo-ka-hadlay-khilaafka-siyaasadeed-ee-soomaaliya/",
-      "published_date": "2026-05-14T08:56:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/senior-al-shabaab-commanders-wounded-in-fresh-operation-in-central-somalia-nisa/",
+      "published_date": "2026-05-16T08:36:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nepal in a bind as US-China drone war reaches Everest",
+      "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest?traffic_source=rss",
-      "published_date": "2026-05-14T08:23:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
+      "published_date": "2026-05-16T08:02:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gunmen kidnap dozens of students in Nigeria’s Borno State",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss",
+      "published_date": "2026-05-16T07:58:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man killed in great white shark attack in western Australia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss",
+      "published_date": "2026-05-16T07:13:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss",
+      "published_date": "2026-05-16T06:16:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Madaxweyne Farmaajo oo ka digay xaalad siyaasadeed oo halis ah",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweyne-farmaajo-oo-ka-digay-xaalad-siyaasadeed-oo-halis-ah/",
+      "published_date": "2026-05-16T05:42:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Howlgallo ka dhan ah Al-Shabaab oo ka dhacay Gobolka Hiiraan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/howlgallo-ka-dhan-ah-al-shabaab-oo-ka-dhacay-gobolka-hiiraan/",
+      "published_date": "2026-05-16T05:35:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel launches deadly air strikes on Gaza City apartment building",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
+      "published_date": "2026-05-16T03:37:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tehran warns more economic woes for US over ‘war of choice’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "published_date": "2026-05-16T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
@@ -204,83 +281,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/howlgal-ka-dhacay-duleedka-baydhabo-oo-lagu-dilay-ku-dhawaad-50-xubnood-ooka-tirsanaa-al-shabaab/",
       "published_date": "2026-05-15T11:26:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Finland ends drone alert amid regional fears of Ukraine war spillover",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss",
-      "published_date": "2026-05-15T10:57:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss",
-      "published_date": "2026-05-15T06:18:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India slams “unacceptable” attack on merchant vessel off Oman",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/india-slams-unacceptable-attack-on-merchant-vessel-off-oman/",
-      "published_date": "2026-05-15T05:44:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Top US admiral: Strikes severely degraded Iran’s military, defence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss",
-      "published_date": "2026-05-15T04:26:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
-      "published_date": "2026-05-14T19:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Air Force rescues 11 after plane crashes into waters off Florida coast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss",
-      "published_date": "2026-05-14T19:16:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran expands tiered internet access amid continued online blackout",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
-      "published_date": "2026-05-14T19:00:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
-      "published_date": "2026-05-14T18:39:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Acute hunger grips nearly 20 million people in war-battered Sudan, says IPC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
-      "published_date": "2026-05-14T18:23:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss",
-      "published_date": "2026-05-14T17:50:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran urges BRICS nations to condemn US-Israeli war aggression",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss",
-      "published_date": "2026-05-14T17:29:53+00:00",
       "category": "Military"
     },
     {
@@ -373,6 +373,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
       "published_date": "2026-05-10T01:23:32+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Gaza aid convoy in Libya prepares to head to Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
+      "published_date": "2026-05-16T01:59:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Modern Urban Development Project Launched in Mindhob Area of Warsheikh District",
@@ -501,6 +508,20 @@
       "category": "Economy"
     },
     {
+      "title": "Farmaajo warns of political tensions amid Somalia election disputes",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/farmaajo-warns-of-political-tensions-amid-somalia-election-disputes/",
+      "published_date": "2026-05-16T07:54:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo ka digay muddo kororsiga dowladda",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweyne-deni-oo-ka-digay-muddo-kororsiga-dowladda/",
+      "published_date": "2026-05-16T06:11:58+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Madaxweyne Deni oo ka hadlay shirkii fashilmay ee Xalane",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/05/16/madaxweyne-deni-oo-ka-hadlay-shirkii-fashilmay-ee-xalane/",
@@ -624,20 +645,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/13/south-carolina-court-tosses-murder-conviction-in-alex-murdaugh-case?traffic_source=rss",
       "published_date": "2026-05-13T17:38:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxaa ka soo baxay shirkii Xalane?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/13/maxaa-ka-soo-baxay-shirkii-xalane/",
-      "published_date": "2026-05-13T13:47:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Election Talks Stall in Mogadishu as Dispute Deepens",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-election-talks-stall-in-mogadishu-as-dispute-deepens/",
-      "published_date": "2026-05-13T12:51:19+00:00",
       "category": "Local Events"
     }
   ]
