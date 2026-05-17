@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-16T23:50:17.857410+00:00",
-  "story_count": 94,
+  "last_updated": "2026-05-17T12:01:45.479587+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "The Deputy Information Minister Meets Diaspora Community in Sweden",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/the-deputy-information-minister-meets-diaspora-community-in-sweden/",
+      "published_date": "2026-05-17T10:41:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia opposition warns Turkey over support for Hassan Sheikh",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-turkey-hassan-sheikh-constitutional-crisis/",
+      "published_date": "2026-05-17T10:41:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two Nepali Sherpa climbers break own records on Mount Everest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/17/two-nepali-sherpa-climbers-break-own-records-on-mount-everest?traffic_source=rss",
+      "published_date": "2026-05-17T10:05:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AU, UN warn of deepening Somalia crisis after election talks collapse",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/au-un-warn-of-deepening-somalia-crisis-after-election-talks-collapse/",
+      "published_date": "2026-05-17T07:45:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss",
+      "published_date": "2026-05-17T07:24:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Endowment Inspects Services Provided to Somali Pilgrims in Madinah",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-endowment-inspects-services-provided-to-somali-pilgrims-in-madinah/",
+      "published_date": "2026-05-17T06:58:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IGAD Secretariat Calls for Continued Dialogue in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/igad-secretariat-calls-for-continued-dialogue-in-somalia/",
+      "published_date": "2026-05-17T06:05:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IGAD oo ku baaqday in la sii wado wadahadalka mucaraadka dowlada feraalka Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/igad-oo-ku-baaqday-in-la-sii-wado-wadahadalka-mucaraadka-dowlada-feraalka-soomaaliya/",
+      "published_date": "2026-05-17T05:38:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spanish Foreign Minister on Spain’s clash with the Trump administration",
       "source": "Al Jazeera",
@@ -88,60 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What did Trump and Xi discuss during the China summit?",
+      "title": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss",
-      "published_date": "2026-05-15T20:43:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss",
+      "published_date": "2026-05-17T10:29:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says lack of trust is the main obstacle in US negotiations",
+      "title": "The strike that changed the geometry of war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/iran-says-lack-of-trust-is-the-main-obstacle-in-us-negotiations?traffic_source=rss",
-      "published_date": "2026-05-15T16:31:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
+      "published_date": "2026-05-17T10:13:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump and Xi move towards business-first relationship after Beijing summit",
+      "title": "At least four killed in Ukrainian drone attacks on Russia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss",
-      "published_date": "2026-05-15T09:46:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
+      "published_date": "2026-05-17T09:14:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "How Xi-Trump summit failed to yield Iran war breakthrough",
+      "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss",
-      "published_date": "2026-05-15T09:01:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss",
+      "published_date": "2026-05-17T08:42:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Government-Opposition Talks End in Deadlock Over Elections",
+      "title": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
+      "published_date": "2026-05-17T07:19:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Chief Visits Troops Undergoing Training in Central Somalia",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-government-opposition-talks-end-in-deadlock-over-elections/",
-      "published_date": "2026-05-15T08:07:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali President Marks SYL Anniversary, Urges Youth to Defend National Unity",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-marks-syl-anniversary-urges-youth-to-defend-national-unity/",
-      "published_date": "2026-05-15T08:05:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Envoy Expresses Hope Despite Collapse of Somalia Political Talks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/eu-envoy-expresses-hope-despite-collapse-of-somalia-political-talks/",
-      "published_date": "2026-05-15T08:02:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "After Trump’s pledge to ‘open up’ China, low expectations for trade deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/15/after-trumps-pledge-to-open-up-china-low-expectations-for-summit-deal?traffic_source=rss",
-      "published_date": "2026-05-15T03:05:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-army-chief-visits-troops-undergoing-training-in-central-somalia/",
+      "published_date": "2026-05-17T06:29:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Bolivia launches early-morning crackdown on roadblocks outside La Paz",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Gunmen kidnap dozens of students in Nigeria’s Borno State",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss",
-      "published_date": "2026-05-16T07:58:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man killed in great white shark attack in western Australia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss",
-      "published_date": "2026-05-16T07:13:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss",
-      "published_date": "2026-05-16T06:16:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Madaxweyne Farmaajo oo ka digay xaalad siyaasadeed oo halis ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweyne-farmaajo-oo-ka-digay-xaalad-siyaasadeed-oo-halis-ah/",
-      "published_date": "2026-05-16T05:42:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Howlgallo ka dhan ah Al-Shabaab oo ka dhacay Gobolka Hiiraan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/howlgallo-ka-dhan-ah-al-shabaab-oo-ka-dhacay-gobolka-hiiraan/",
-      "published_date": "2026-05-16T05:35:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel launches deadly air strikes on Gaza City apartment building",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
-      "published_date": "2026-05-16T03:37:28+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Al Jazeera’s exclusive report from the Strait of Hormuz",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss",
@@ -375,11 +375,25 @@
       "category": "Energy"
     },
     {
-      "title": "Satellite images show likely oil slick off Iran’s Kharg Island",
+      "title": "Federal funding for Trump ballroom in trouble after Senate ruling",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
-      "published_date": "2026-05-10T01:23:32+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/17/federal-funding-for-trump-ballroom-in-trouble-after-senate-ruling?traffic_source=rss",
+      "published_date": "2026-05-17T08:37:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Ranked World’s Top ICT Regulatory Reformer by ITU",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-ranked-worlds-top-ict-regulatory-reformer-by-itu/",
+      "published_date": "2026-05-17T08:31:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tunisians rally amid economic crisis and political arrests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/tunisians-rally-amid-economic-crisis-and-political-arrests?traffic_source=rss",
+      "published_date": "2026-05-17T01:18:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
@@ -501,25 +515,25 @@
       "category": "Economy"
     },
     {
-      "title": "With food benefit cuts looming in the US, Californians eye billionaire tax",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/10/with-food-benefit-cuts-looming-in-the-us-californians-eye-billionaire?traffic_source=rss",
-      "published_date": "2026-05-10T15:45:09+00:00",
-      "category": "Economy"
+      "title": "Egypt, Eritrea sign maritime transport pact, declare Red Sea security exclusive to littoral states",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/egypt-eritrea-sign-maritime-transport-pact-declare-red-sea-security-exclusive-to-littoral-states/",
+      "published_date": "2026-05-17T10:49:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Israel deports two abducted Gaza aid flotilla activists",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss",
-      "published_date": "2026-05-10T07:13:50+00:00",
-      "category": "Economy"
+      "title": "Speaker of the House Hosts Political Alliance Talks Following South West Elections",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/speaker-of-the-house-hosts-political-alliance-talks-following-south-west-elections/",
+      "published_date": "2026-05-17T06:50:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Macron tours East Africa amid push to redefine France’s role in Africa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/macron-tours-east-africa-amid-push-to-redefine-frances-role-in-africa?traffic_source=rss",
-      "published_date": "2026-05-10T05:38:12+00:00",
-      "category": "Economy"
+      "title": "Xog: Xuutiyiinta iyo burcad-badeeda oo iska kaashaday afduubka markabka M/T Eureka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/17/xog-xuutiyiinta-iyo-burcad-badeeda-oo-iska-kaashaday-afduubka-markabka-m-t-eureka/",
+      "published_date": "2026-05-17T05:23:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Latvia’s president asks opposition leader to form new government",
@@ -638,27 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/5/14/irans-us-bound-world-cup-squad-given-public-sendoff-in-tehran?traffic_source=rss",
       "published_date": "2026-05-14T06:33:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo beenisay xogtii SoDMA ee saadaasha cimilada",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/14/puntland-oo-beenisay-xogtii-sodma-ee-saadaasha-cimilada/",
-      "published_date": "2026-05-14T05:14:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Memphis residents file lawsuit alleging abuses by Trump-backed task force",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/memphis-residents-file-lawsuit-alleging-abuses-by-trump-backed-task-force?traffic_source=rss",
-      "published_date": "2026-05-13T22:58:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
-      "published_date": "2026-05-13T21:07:45+00:00",
       "category": "Local Events"
     }
   ]
