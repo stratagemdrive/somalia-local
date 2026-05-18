@@ -1,8 +1,71 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-17T23:55:27.327898+00:00",
+  "last_updated": "2026-05-18T14:35:07.682316+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Somalia PM, Italian envoy discuss strengthening cooperation and development projects",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-italian-envoy-discuss-strengthening-cooperation-and-development-projects/",
+      "published_date": "2026-05-18T14:03:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister Hamza meets Italian Ambassador",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/prime-minister-hamza-meets-italian-ambassador/",
+      "published_date": "2026-05-18T13:18:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Security Minister launches 10-day training program for instructors of the Somali Police Force",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/security-minister-launches-10-day-training-program-for-instructors-of-the-somali-police-force/",
+      "published_date": "2026-05-18T13:11:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Foreign Affairs Discusses Bilateral Cooperation with Malawian Counterpart",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-foreign-affairs-discusses-bilateral-cooperation-with-malawian-counterpart/",
+      "published_date": "2026-05-18T13:00:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran sends response to US proposal to end war via mediator Pakistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan-2?traffic_source=rss",
+      "published_date": "2026-05-18T12:44:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Federal Government of Somalia Strongly Condemns Attempted Drone Attack on The Kingdom of Saudi Arabia",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/federal-government-of-somalia-strongly-condemns-attempted-drone-attack-on-the-kingdom-of-saudi-arabia/",
+      "published_date": "2026-05-18T10:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
+      "published_date": "2026-05-18T09:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU pushes dialogue after Somalia talks collapse",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/eu-pushes-dialogue-after-somalia-talks-collapse/",
+      "published_date": "2026-05-18T06:08:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia president accused of crossing ‘dangerous red line’ after extending term",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-accused-of-crossing-dangerous-red-line-after-extending-term/",
+      "published_date": "2026-05-18T05:37:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali Cabinet Approves Promotion of Mohamed Rabiic Yusuf to Ambassador Rank",
       "source": "SONNA",
@@ -81,67 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AU, UN warn of deepening Somalia crisis after election talks collapse",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/au-un-warn-of-deepening-somalia-crisis-after-election-talks-collapse/",
-      "published_date": "2026-05-17T07:45:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit",
+      "title": "The world cannot afford to fail women, children and adolescents",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss",
-      "published_date": "2026-05-17T07:24:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/5/18/the-world-cannot-afford-to-fail-women-children-and-adolescents?traffic_source=rss",
+      "published_date": "2026-05-18T14:00:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Minister of Endowment Inspects Services Provided to Somali Pilgrims in Madinah",
+      "title": "Iran eyes challenging stock market reopening after lengthy war closure",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/18/iran-eyes-challenging-stock-market-reopening-after-lengthy-war-closure?traffic_source=rss",
+      "published_date": "2026-05-18T13:03:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Gulf does not have to choose Iran or Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/18/the-gulf-does-not-have-to-choose-iran-or-israel?traffic_source=rss",
+      "published_date": "2026-05-18T12:49:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Defense Minister, Turkish Ambassador Discuss Strengthening Military Cooperation",
       "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-endowment-inspects-services-provided-to-somali-pilgrims-in-madinah/",
-      "published_date": "2026-05-17T06:58:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/somali-defense-minister-turkish-ambassador-discuss-strengthening-military-cooperation/",
+      "published_date": "2026-05-18T11:05:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "IGAD Secretariat Calls for Continued Dialogue in Somalia",
+      "title": "Maxkamadda Sare ee dalka oo beenisay in loo gudbiyay natiijada doorashada Koonfur Galbeed",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/igad-secretariat-calls-for-continued-dialogue-in-somalia/",
-      "published_date": "2026-05-17T06:05:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/maxkamadda-sare-ee-dalka-oo-beenisay-in-loo-gudbiyay-natiijada-doorashada-koonfur-galbeed/",
+      "published_date": "2026-05-18T10:06:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "IGAD oo ku baaqday in la sii wado wadahadalka mucaraadka dowlada feraalka Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/igad-oo-ku-baaqday-in-la-sii-wado-wadahadalka-mucaraadka-dowlada-feraalka-soomaaliya/",
-      "published_date": "2026-05-17T05:38:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spanish Foreign Minister on Spain’s clash with the Trump administration",
+      "title": "How war affects civilians for generations",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/upfront/2026/5/16/spanish-foreign-minister-on-spains-clash-with-the-trump-administration?traffic_source=rss",
-      "published_date": "2026-05-16T18:41:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/all-hail/2026/5/18/how-war-affects-civilians-for-generations?traffic_source=rss",
+      "published_date": "2026-05-18T09:55:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Statement of the African Union Commission on Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/statement-of-the-african-union-commission-on-somalia/",
-      "published_date": "2026-05-16T17:47:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK ex-health minister says will run to replace Prime Minister Keir Starmer",
+      "title": "US military carries out more strikes against ISIL fighters in Nigeria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/uk-ex-health-minister-says-will-run-to-replace-prime-minister-keir-starmer?traffic_source=rss",
-      "published_date": "2026-05-16T17:32:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/18/us-military-carries-out-more-strikes-against-isil-fighters-in-nigeria?traffic_source=rss",
+      "published_date": "2026-05-18T09:39:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Prime Minister Hamza Receives Yemeni Ambassador to Discuss Bilateral Cooperation",
+      "title": "Israel built two military bases in Iraq before war on Iran: New York Times",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
+      "published_date": "2026-05-18T08:57:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deputy Commander of Somali Ground Forces Inspects Army Bases in Baidoa",
       "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-receives-yemeni-ambassador-to-discuss-bilateral-cooperation/",
-      "published_date": "2026-05-16T16:59:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/deputy-commander-of-somali-ground-forces-inspects-army-bases-in-baidoa/",
+      "published_date": "2026-05-18T06:09:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Chief Inspects Near-Completed Danab Military Base in Dhusamareb",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-army-chief-inspects-near-completed-danab-military-base-in-dhusamareb/",
+      "published_date": "2026-05-18T06:05:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
+      "title": "What is the UAE’s Barakah nuclear plant, nearly hit by a drone?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
-      "published_date": "2026-05-17T07:19:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief Visits Troops Undergoing Training in Central Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-visits-troops-undergoing-training-in-central-somalia/",
-      "published_date": "2026-05-17T06:29:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivia launches early-morning crackdown on roadblocks outside La Paz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz?traffic_source=rss",
-      "published_date": "2026-05-16T23:24:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German police assault protesters at Nakba anniversary rally",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/german-police-assault-protesters-at-nakba-anniversary-rally?traffic_source=rss",
-      "published_date": "2026-05-16T22:59:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two presidential campaign staffers killed in Colombia as elections near",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
-      "published_date": "2026-05-16T21:42:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivian army attempts to clear roads after 11 days of protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/bolivian-army-attempts-to-clear-roads-after-11-days-of-protests?traffic_source=rss",
-      "published_date": "2026-05-16T20:44:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands protest at Eurovision final as five countries boycott over Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
-      "published_date": "2026-05-16T20:31:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief Visits Troops Undergoing Training in Cabudwaaq",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-army-chief-visits-troops-undergoing-training-in-cabudwaaq/",
-      "published_date": "2026-05-16T16:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudanese army captures key town near Ethiopian border from RSF",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/sudanese-army-captures-key-town-near-ethiopian-border-from-rsf?traffic_source=rss",
-      "published_date": "2026-05-16T16:35:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
-      "published_date": "2026-05-16T16:02:33+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/18/what-is-the-uaes-barakah-nuclear-plant-nearly-hit-by-a-drone?traffic_source=rss",
+      "published_date": "2026-05-18T14:09:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Al Jazeera’s exclusive report from the Strait of Hormuz",
@@ -368,11 +375,46 @@
       "category": "Energy"
     },
     {
-      "title": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
+      "title": "Ebola, hantavirus: Is the world prepared for the next pandemic?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold?traffic_source=rss",
-      "published_date": "2026-05-11T14:30:26+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/18/ebola-hantavirus-is-the-world-prepared-for-the-next-pandemic?traffic_source=rss",
+      "published_date": "2026-05-18T13:11:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss",
+      "published_date": "2026-05-18T10:50:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hantavirus-hit cruise ship docks in the Netherlands",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/hantavirus-hit-cruise-ship-docks-in-the-netherlands?traffic_source=rss",
+      "published_date": "2026-05-18T10:01:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Showcases Urban Development Plans at Global Cities Forum in Baku",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-showcases-urban-development-plans-at-global-cities-forum-in-baku/",
+      "published_date": "2026-05-18T09:42:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Israeli settlers run over livestock in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-05-18T09:09:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Israeli forces storm Gaza-bound aid flotilla off Cyprus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss",
+      "published_date": "2026-05-18T08:23:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "DRC faces deadly Ebola resurgence amid worsening humanitarian crisis",
@@ -473,46 +515,60 @@
       "category": "Economy"
     },
     {
-      "title": "Gang violence displaces hundreds in Haiti’s capital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/13/gang-violence-displaces-hundreds-in-haitis-capital?traffic_source=rss",
-      "published_date": "2026-05-13T10:58:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US court pauses decision blocking Trump’s 10 percent global tariff",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss",
-      "published_date": "2026-05-12T21:00:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Africa Forward Summit Adopts Nairobi Declaration on Peace, Innovation and Economic Transformation",
+      "title": "SoDMA, Custodial Corps Strengthen Cooperation on Humanitarian Support for Prisoners and Vulnerable Families",
       "source": "SONNA",
-      "url": "https://sonna.so/en/africa-forward-summit-adopts-nairobi-declaration-on-peace-innovation-and-economic-transformation/",
-      "published_date": "2026-05-12T19:40:52+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/sodma-custodial-corps-strengthen-cooperation-on-humanitarian-support-for-prisoners-and-vulnerable-families/",
+      "published_date": "2026-05-18T13:15:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Can China counter US sanctions with its trade power?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss",
-      "published_date": "2026-05-12T11:39:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The crisis is Sudan is much worse than what is acknowledged",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/12/the-crisis-is-sudan-is-much-worse-than-what-is-acknowledged?traffic_source=rss",
-      "published_date": "2026-05-12T10:54:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somalia and European Union Hold High-Level Partnership Dialogue in Mogadishu",
+      "title": "Banadir Administration Launches Heart Surgery Campaign for 11 Children in Mogadishu",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-and-european-union-hold-high-level-partnership-dialogue-in-mogadishu/",
-      "published_date": "2026-05-12T08:42:57+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/banadir-administration-launches-heart-surgery-campaign-for-11-children-in-mogadishu/",
+      "published_date": "2026-05-18T10:42:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At Least 17 Migrants Die After Boat Washes Ashore on Egypt’s Mediterranean Coast",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/at-least-17-migrants-die-after-boat-washes-ashore-on-egypts-mediterranean-coast/",
+      "published_date": "2026-05-18T09:47:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Approves Investment Protection Deal With Saudi Arabia Amid Cabinet Reforms",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-approves-investment-protection-deal-with-saudi-arabia-amid-cabinet-reforms/",
+      "published_date": "2026-05-18T09:46:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Western Diplomats Renew Efforts to Break Somalia Election Deadlock",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/western-diplomats-renew-efforts-to-break-somalia-election-deadlock/",
+      "published_date": "2026-05-18T09:36:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "International Calls Grow for Dialogue as Somalia Faces Political Uncertainty",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/international-calls-grow-for-dialogue-as-somalia-faces-political-uncertainty/",
+      "published_date": "2026-05-18T09:29:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Hindu order runs India’: Court declares another medieval mosque a temple",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/18/hindu-order-runs-india-court-declares-another-medieval-mosque-a-temple?traffic_source=rss",
+      "published_date": "2026-05-18T08:34:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo wafdi u dirtay Hargeysa",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/18/puntland-oo-wafdi-u-dirtay-hargeysa/",
+      "published_date": "2026-05-18T06:03:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump holds prayer rally to ‘rededicate’ US as ‘one nation under God’",
@@ -596,62 +652,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/speaker-of-the-house-hosts-political-alliance-talks-following-south-west-elections/",
       "published_date": "2026-05-17T06:50:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xog: Xuutiyiinta iyo burcad-badeeda oo iska kaashaday afduubka markabka M/T Eureka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/17/xog-xuutiyiinta-iyo-burcad-badeeda-oo-iska-kaashaday-afduubka-markabka-m-t-eureka/",
-      "published_date": "2026-05-17T05:23:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latvia’s president asks opposition leader to form new government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/latvias-president-asks-opposition-leader-to-form-new-government?traffic_source=rss",
-      "published_date": "2026-05-16T19:22:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo caawa ku hoyday Qardho",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/16/madaxweyne-deni-oo-caawa-ku-hoyday-qardho/",
-      "published_date": "2026-05-16T19:17:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland Leader Warns Against Political Crisis Over Somalia Term Extension Dispute",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-leader-warns-against-political-crisis-over-somalia-term-extension-dispute/",
-      "published_date": "2026-05-16T15:05:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farmaajo warns of political tensions amid Somalia election disputes",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/farmaajo-warns-of-political-tensions-amid-somalia-election-disputes/",
-      "published_date": "2026-05-16T07:54:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo ka digay muddo kororsiga dowladda",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweyne-deni-oo-ka-digay-muddo-kororsiga-dowladda/",
-      "published_date": "2026-05-16T06:11:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo ka hadlay shirkii fashilmay ee Xalane",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/16/madaxweyne-deni-oo-ka-hadlay-shirkii-fashilmay-ee-xalane/",
-      "published_date": "2026-05-15T21:59:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada’s Carney travels to Alberta as separatists face legal setback",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/canadas-carney-travels-to-alberta-as-separatists-face-legal-setback?traffic_source=rss",
-      "published_date": "2026-05-15T18:40:05+00:00",
       "category": "Local Events"
     }
   ]
