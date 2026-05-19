@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-18T14:35:07.682316+00:00",
-  "story_count": 93,
+  "last_updated": "2026-05-19T00:03:18.992679+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "‘Not for sale’: Greenland premier tells US envoy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/not-for-sale-greenland-premier-tells-us-envoy?traffic_source=rss",
+      "published_date": "2026-05-18T21:11:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Croatian president rejects new Israeli ambassador",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
+      "published_date": "2026-05-18T21:03:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland Representative presents his credentials to the President of Israel in a Diplomatic Ceremony",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/israeli-president-receives-somaliland-representative-in-diplomatic-ceremony/",
+      "published_date": "2026-05-18T19:49:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Turkey discuss expanding military cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-turkey-discuss-expanding-military-cooperation/",
+      "published_date": "2026-05-18T14:44:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia PM, Italian envoy discuss strengthening cooperation and development projects",
       "source": "Shabelle Media",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali President Receives Credentials of New Djibouti Ambassador",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-receives-credentials-of-new-djibouti-ambassador/",
-      "published_date": "2026-05-17T13:17:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Deputy Information Minister Meets Diaspora Community in Sweden",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/the-deputy-information-minister-meets-diaspora-community-in-sweden/",
-      "published_date": "2026-05-17T10:41:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia opposition warns Turkey over support for Hassan Sheikh",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-turkey-hassan-sheikh-constitutional-crisis/",
-      "published_date": "2026-05-17T10:41:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Two Nepali Sherpa climbers break own records on Mount Everest",
+      "title": "US suspends joint defence effort with Canada dating back to World War II",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/two-nepali-sherpa-climbers-break-own-records-on-mount-everest?traffic_source=rss",
-      "published_date": "2026-05-17T10:05:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
+      "published_date": "2026-05-18T23:40:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Venezuelan protesters clash with police at rally for political prisoners",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/venezuelan-protesters-clash-with-police-at-rally-for-political-prisoners?traffic_source=rss",
+      "published_date": "2026-05-18T21:17:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump pauses possible Iran strike after Gulf intervention",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
+      "published_date": "2026-05-18T21:11:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq launches desert sweep after reports of secret Israeli bases",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss",
+      "published_date": "2026-05-18T21:09:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Cuba be forced to accept the US president’s demands?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/18/will-cuba-be-forced-to-accept-the-us-presidents-demands?traffic_source=rss",
+      "published_date": "2026-05-18T21:02:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police respond to shooting at US mosque",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/police-respond-to-shooting-at-us-mosque?traffic_source=rss",
+      "published_date": "2026-05-18T20:52:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+      "published_date": "2026-05-18T20:12:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Four reported killed, 30 injured, in Kenyan fuel price protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/four-reported-killed-30-injured-in-kenyan-fuel-price-protests?traffic_source=rss",
+      "published_date": "2026-05-18T20:12:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gunmen kill 3 people at San Diego Islamic centre in suspected hate crime",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center?traffic_source=rss",
+      "published_date": "2026-05-18T19:42:17+00:00",
+      "category": "Military"
     },
     {
       "title": "The world cannot afford to fail women, children and adolescents",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Sudanese army advances in Blue Nile state deepen displacement crisis",
+      "title": "Is the US trying to force regime change in Cuba?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/sudanese-army-advances-in-blue-nile-state-deepen-displacement-crisis?traffic_source=rss",
-      "published_date": "2026-05-17T17:40:04+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss",
+      "published_date": "2026-05-18T21:57:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Three community kitchen workers among eight killed by Israel in Gaza",
+      "title": "US drops fraud charges after billionaire Adani pledges $10bn investment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
-      "published_date": "2026-05-17T16:31:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian civilians get defence training",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
-      "published_date": "2026-05-17T16:08:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taiwan not to give up ‘free way of life under pressure’: President",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/taiwan-not-to-give-up-free-way-of-life-under-pressure-president?traffic_source=rss",
-      "published_date": "2026-05-17T15:37:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
-      "published_date": "2026-05-17T14:07:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss",
-      "published_date": "2026-05-17T10:29:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The strike that changed the geometry of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
-      "published_date": "2026-05-17T10:13:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least four killed in Ukrainian drone attacks on Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
-      "published_date": "2026-05-17T09:14:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss",
-      "published_date": "2026-05-17T08:42:47+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/5/18/us-drops-fraud-charges-after-billionaire-adani-pledges-10bn-investment?traffic_source=rss",
+      "published_date": "2026-05-18T21:02:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "What is the UAE’s Barakah nuclear plant, nearly hit by a drone?",
@@ -368,11 +382,18 @@
       "category": "Energy"
     },
     {
-      "title": "Trump says he will suspend petrol tax amid soaring US fuel prices",
+      "title": "Clashes as Morales-allied protesters march on Bolivian capital",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss",
-      "published_date": "2026-05-11T20:59:21+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/18/clashes-as-morales-allied-protesters-march-on-bolivian-capital?traffic_source=rss",
+      "published_date": "2026-05-18T21:16:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
+      "published_date": "2026-05-18T21:13:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ebola, hantavirus: Is the world prepared for the next pandemic?",
@@ -501,18 +522,25 @@
       "category": "Economy"
     },
     {
-      "title": "Labour’s Angela Rayner says she has been cleared over UK tax affairs",
+      "title": "A redistricting re-do? What to know about Alabama’s primary elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/labours-angela-rayner-says-she-has-been-cleared-over-uk-tax-affairs?traffic_source=rss",
-      "published_date": "2026-05-14T11:31:30+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss",
+      "published_date": "2026-05-18T22:13:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "As Trump readies to meet Xi, experts say he is ‘desperate for a win’",
+      "title": "Indian court declares another historical mosque a temple",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/13/as-trump-readies-to-meet-xi-experts-say-he-is-desperate-for-a-win?traffic_source=rss",
-      "published_date": "2026-05-13T21:12:41+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/indian-court-declares-another-historical-mosque-a-temple?traffic_source=rss",
+      "published_date": "2026-05-18T21:05:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Marks 35th Anniversary of Independence Declaration With Major Celebrations in Hargeisa",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-marks-35th-anniversary-of-independence-declaration-with-major-celebrations-in-hargeisa/",
+      "published_date": "2026-05-18T20:11:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "SoDMA, Custodial Corps Strengthen Cooperation on Humanitarian Support for Prisoners and Vulnerable Families",
@@ -631,27 +659,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/interior-minister-chairs-meeting-on-banadir-district-councils-bill/",
       "published_date": "2026-05-17T13:50:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliye Ku-xigeenka Ciidanka Boliiska Soomaaliyeed oo booqasho shaqo ku tagay Xerodhagaxleey",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliye-ku-xigeenka-ciidanka-boliiska-soomaaliyeed-oo-booqasho-shaqo-ku-tagay-xerodhagaxleey/",
-      "published_date": "2026-05-17T12:10:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egypt, Eritrea sign maritime transport pact, declare Red Sea security exclusive to littoral states",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/egypt-eritrea-sign-maritime-transport-pact-declare-red-sea-security-exclusive-to-littoral-states/",
-      "published_date": "2026-05-17T10:49:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speaker of the House Hosts Political Alliance Talks Following South West Elections",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/speaker-of-the-house-hosts-political-alliance-talks-following-south-west-elections/",
-      "published_date": "2026-05-17T06:50:38+00:00",
       "category": "Local Events"
     }
   ]
