@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-20T00:01:17.188950+00:00",
+  "last_updated": "2026-05-20T13:45:57.555493+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss",
+      "published_date": "2026-05-20T13:02:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia PM receives new Djibouti ambassador, pledges to strengthen bilateral ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-receives-new-djibouti-ambassador-pledges-to-strengthen-bilateral-ties/",
+      "published_date": "2026-05-20T12:01:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister Hamza Receives New Djiboutian Ambassador to Somalia",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/prime-minister-hamza-receives-new-djiboutian-ambassador-to-somalia/",
+      "published_date": "2026-05-20T10:24:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss",
+      "published_date": "2026-05-20T08:45:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland to become second Muslim country to open Jerusalem embassy in deal with Israel",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-second-muslim-country-jerusalem-embassy-israel-somalia/",
+      "published_date": "2026-05-20T06:16:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Democratic Momentum in Somalia Is Irreversible",
       "source": "Puntland Post",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU announces fresh €138 million support package for Somalia amid security and humanitarian challenges",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/eu-announces-fresh-e138-million-support-package-for-somalia-amid-security-and-humanitarian-challenges/",
-      "published_date": "2026-05-19T06:29:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN says closely monitoring Somalia political talks, urges continued dialogue",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-says-closely-monitoring-somalia-political-talks-urges-continued-dialogue/",
-      "published_date": "2026-05-19T06:25:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Afar qof oo ku dhintay mudaaharaadyo ka dhacay Kenya kadib kororka qiimaha shidaalka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/afar-qof-oo-ku-dhintay-mudaaharaadyo-ka-dhacay-kenya-kadib-kororka-qiimaha-shidaalka/",
-      "published_date": "2026-05-19T06:25:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Not for sale’: Greenland premier tells US envoy",
+      "title": "New York City hotels avert labour strike threat before FIFA World Cup",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/not-for-sale-greenland-premier-tells-us-envoy?traffic_source=rss",
-      "published_date": "2026-05-18T21:11:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/5/20/new-york-city-hotels-avert-labour-strike-threat-before-fifa-world-cup?traffic_source=rss",
+      "published_date": "2026-05-20T13:11:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Croatian president rejects new Israeli ambassador",
+      "title": "Arsenal’s first Premier League title in 22 years: How did they do it?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
-      "published_date": "2026-05-18T21:03:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/5/20/top-five-factors-behind-arsenals-first-premier-league-title-in-22-years?traffic_source=rss",
+      "published_date": "2026-05-20T10:51:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Philippines top court rejects bid to block arrest of senator wanted by ICC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/philippines-top-court-rejects-bid-to-block-arrest-of-senator-wanted-by-icc?traffic_source=rss",
+      "published_date": "2026-05-20T10:41:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kenya transport strike paused after deadly protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/5/20/kenya-transport-strike-paused-after-deadly-protests?traffic_source=rss",
+      "published_date": "2026-05-20T09:28:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Danab Commandos Conduct Security Operation in Bay Region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-danab-commandos-conduct-security-operation-in-bay-region/",
+      "published_date": "2026-05-20T09:27:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali National Army Ramps Up Bay Region Operations",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-national-army-ramps-up-bay-region-operations/",
+      "published_date": "2026-05-20T08:32:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jaamacadda Carabta oo ka digtay khatarta faragelinta Israa’iil ee Soomaaliya iyo Geeska Afrika",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jaamacadda-carabta-oo-ka-digtay-khatarta-faragelinta-israaiil-ee-soomaaliya-iyo-geeska-afrika/",
+      "published_date": "2026-05-20T08:19:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
+      "published_date": "2026-05-20T07:47:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss",
+      "published_date": "2026-05-20T07:16:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Danab oo howlgal qorsheysan ka fuliyay deegaanno hoostaga Buurhakaba",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-danab-oo-howlgal-qorsheysan-ka-fuliyay-deegaanno-hoostaga-buurhakaba/",
+      "published_date": "2026-05-20T06:38:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Video shows oil spill on Iranian island after refinery attack last month",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Starbucks Korea CEO fired over promotion that evoked military crackdown",
+      "title": "UK eases sanctions on Russian oil imports as fuel prices soar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/19/starbucks-korea-ceo-fired-over-promotion-that-evoked-military-crackdown?traffic_source=rss",
-      "published_date": "2026-05-19T09:25:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Child survivor of San Diego mosque shooting describes ordeal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/child-survivor-of-san-diego-mosque-shooting-describes-ordeal?traffic_source=rss",
-      "published_date": "2026-05-19T09:13:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia ex-spy chief says talks only way to end Al-Shabaab insurgency",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-spy-chief-says-talks-only-way-to-end-al-shabaab-insurgency18518/",
-      "published_date": "2026-05-19T08:41:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "San Diego mosque shooting: What we know about the victims and the attackers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/san-diego-mosque-shooting-what-we-know-about-the-victims-and-the-attackers?traffic_source=rss",
-      "published_date": "2026-05-19T08:15:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US suspends joint defence effort with Canada dating back to World War II",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
-      "published_date": "2026-05-18T23:40:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venezuelan protesters clash with police at rally for political prisoners",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/venezuelan-protesters-clash-with-police-at-rally-for-political-prisoners?traffic_source=rss",
-      "published_date": "2026-05-18T21:17:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump pauses possible Iran strike after Gulf intervention",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
-      "published_date": "2026-05-18T21:11:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq launches desert sweep after reports of secret Israeli bases",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss",
-      "published_date": "2026-05-18T21:09:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Cuba be forced to accept the US president’s demands?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/18/will-cuba-be-forced-to-accept-the-us-presidents-demands?traffic_source=rss",
-      "published_date": "2026-05-18T21:02:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police respond to shooting at US mosque",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/police-respond-to-shooting-at-us-mosque?traffic_source=rss",
-      "published_date": "2026-05-18T20:52:51+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/20/uk-eases-sanctions-on-russian-oil-imports-as-fuel-prices-soar?traffic_source=rss",
+      "published_date": "2026-05-20T10:46:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Is the US trying to force regime change in Cuba?",
@@ -361,11 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "A daring step forward: The courage behind Türkiye-Somalia energy cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/a-daring-step-forward-the-courage-behind-turkiye-somalia-energy-cooperation/",
-      "published_date": "2026-05-13T06:07:24+00:00",
-      "category": "Energy"
+      "title": "Somalia, GCC discuss infrastructure and reconstruction cooperation in Baku",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-gcc-discuss-infrastructure-and-reconstruction-cooperation-in-baku/",
+      "published_date": "2026-05-20T09:35:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Foreign fishing vessels empty Mauritanian waters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/africa-now/2026/5/20/foreign-fishing-vessels-empty-mauritanian-waters?traffic_source=rss",
+      "published_date": "2026-05-20T07:07:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Thousands of protesters demand president’s resignation in Bolivia’s La Paz",
@@ -494,18 +508,74 @@
       "category": "Economy"
     },
     {
-      "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
+      "title": "Israeli lawmakers advance bill to dissolve parliament",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss",
-      "published_date": "2026-05-16T21:05:10+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/20/israeli-lawmakers-advance-bill-to-dissolve-parliament?traffic_source=rss",
+      "published_date": "2026-05-20T13:08:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gaza aid convoy in Libya prepares to head to Gaza",
+      "title": "Why are nearly 50,000 Samsung workers about to strike in South Korea?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
-      "published_date": "2026-05-16T01:59:52+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/20/why-are-nearly-50000-samsung-workers-about-to-strike-in-south-korea?traffic_source=rss",
+      "published_date": "2026-05-20T11:40:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump critic Massie defeated: Takeaways from US primary election results",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/trump-critic-massie-defeated-takeaways-from-us-primary-election-results?traffic_source=rss",
+      "published_date": "2026-05-20T11:38:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garoowe: Madaxweyne Deni oo la kulmay wafdi ka socda dowladda Maraykanka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/20/garoowe-madaxweyne-deni-oo-la-kulmay-wafdi-ka-socda-dowladda-maraykanka/",
+      "published_date": "2026-05-20T11:02:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Mas’uul hore oo ka hadlay xaaladda cakiran ee Soomaaliya",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/20/puntland-masuul-hore-oo-ka-hadlay-xaaladda-cakiran-ee-soomaaliya/",
+      "published_date": "2026-05-20T10:53:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Announces Dates for National Secondary School Examinations",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-announces-dates-for-national-secondary-school-examinations/",
+      "published_date": "2026-05-20T10:51:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali military officers discuss security in Bay region ahead of elections",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-military-officers-discuss-security-in-bay-region-ahead-of-elections/",
+      "published_date": "2026-05-20T09:31:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/at-least-87-gaza-aid-flotilla-activists-abducted-by-israel-on-hunger-strike?traffic_source=rss",
+      "published_date": "2026-05-20T08:36:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arab League warns of danger of Israeli intervention in Somalia and the Horn of Africa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/arab-league-warns-of-danger-of-israeli-intervention-in-somalia-and-the-horn-of-africa/",
+      "published_date": "2026-05-20T08:26:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo siidaysay dhalinyaro dhawaan la xirxiray",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/20/puntland-oo-siidaysay-dhalinyaro-dhawaan-la-xirxiray/",
+      "published_date": "2026-05-20T06:29:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NAACP urges athletes to boycott southern US universities over voting rights",
@@ -575,76 +645,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/international-partners-draw-red-line-on-somalias-one-sided-path-to-elections/",
       "published_date": "2026-05-19T05:23:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A redistricting re-do? What to know about Alabama’s primary elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss",
-      "published_date": "2026-05-18T22:13:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian court declares another historical mosque a temple",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/indian-court-declares-another-historical-mosque-a-temple?traffic_source=rss",
-      "published_date": "2026-05-18T21:05:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Marks 35th Anniversary of Independence Declaration With Major Celebrations in Hargeisa",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-marks-35th-anniversary-of-independence-declaration-with-major-celebrations-in-hargeisa/",
-      "published_date": "2026-05-18T20:11:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA, Custodial Corps Strengthen Cooperation on Humanitarian Support for Prisoners and Vulnerable Families",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sodma-custodial-corps-strengthen-cooperation-on-humanitarian-support-for-prisoners-and-vulnerable-families/",
-      "published_date": "2026-05-18T13:15:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banadir Administration Launches Heart Surgery Campaign for 11 Children in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/banadir-administration-launches-heart-surgery-campaign-for-11-children-in-mogadishu/",
-      "published_date": "2026-05-18T10:42:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At Least 17 Migrants Die After Boat Washes Ashore on Egypt’s Mediterranean Coast",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/at-least-17-migrants-die-after-boat-washes-ashore-on-egypts-mediterranean-coast/",
-      "published_date": "2026-05-18T09:47:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Approves Investment Protection Deal With Saudi Arabia Amid Cabinet Reforms",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-approves-investment-protection-deal-with-saudi-arabia-amid-cabinet-reforms/",
-      "published_date": "2026-05-18T09:46:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Western Diplomats Renew Efforts to Break Somalia Election Deadlock",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/western-diplomats-renew-efforts-to-break-somalia-election-deadlock/",
-      "published_date": "2026-05-18T09:36:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "International Calls Grow for Dialogue as Somalia Faces Political Uncertainty",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/international-calls-grow-for-dialogue-as-somalia-faces-political-uncertainty/",
-      "published_date": "2026-05-18T09:29:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Hindu order runs India’: Court declares another medieval mosque a temple",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/18/hindu-order-runs-india-court-declares-another-medieval-mosque-a-temple?traffic_source=rss",
-      "published_date": "2026-05-18T08:34:35+00:00",
       "category": "Local Events"
     }
   ]
