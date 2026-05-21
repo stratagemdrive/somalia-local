@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-20T13:45:57.555493+00:00",
-  "story_count": 92,
+  "last_updated": "2026-05-21T00:05:11.707163+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "China and Russia unite after Trump’s Beijing visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/china-and-russia-unite-after-trumps-beijing-visit?traffic_source=rss",
+      "published_date": "2026-05-20T19:25:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Hassan Sheikh receives Chinese Ambassador to Somalia",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-receives-chinese-ambassador-to-somalia/",
+      "published_date": "2026-05-20T17:13:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump jokes about running for Israeli prime minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss",
+      "published_date": "2026-05-20T16:51:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Human Rights Commission, UN Peacebuilding Fund Discuss Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-human-rights-commission-un-peacebuilding-fund-discuss-cooperation/",
+      "published_date": "2026-05-20T13:36:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
       "source": "Al Jazeera",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘King of the North’: Who is Andy Burnham, a potential UK prime minister?",
+      "title": "US police officers sue Trump over $1.8bn ‘anti-weaponisation’ fund",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/king-of-the-north-who-is-andy-burnham-a-potential-uk-prime-minister?traffic_source=rss",
-      "published_date": "2026-05-19T08:27:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/20/us-police-officers-sue-trump-over-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+      "published_date": "2026-05-20T23:32:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia launches 10-day police trainers’ programme in Mogadishu with Japan support",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-launches-10-day-police-trainers-programme-in-mogadishu-with-japan-support/",
-      "published_date": "2026-05-19T06:35:00+00:00",
-      "category": "Diplomacy"
+      "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-05-20T15:47:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia and Sudan pledge to deepen cooperation during talks in Baku",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-sudan-pledge-to-deepen-cooperation-during-talks-in-baku/",
-      "published_date": "2026-05-19T06:33:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia participates in Arab Health Ministers’ meeting in Geneva",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-participates-in-arab-health-ministers-meeting-in-geneva/",
-      "published_date": "2026-05-19T06:31:42+00:00",
-      "category": "Diplomacy"
+      "title": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
+      "published_date": "2026-05-20T15:34:01+00:00",
+      "category": "Military"
     },
     {
       "title": "New York City hotels avert labour strike threat before FIFA World Cup",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israeli far-right minister Smotrich says ICC seeks his arrest",
+      "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest?traffic_source=rss",
-      "published_date": "2026-05-19T12:26:06+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
+      "published_date": "2026-05-20T17:18:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran squad in race against time for World Cup readiness amid US-Israel war",
+      "title": "What is the Power of Siberia 2 pipeline that Russia, China are planning?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
-      "published_date": "2026-05-19T10:00:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Khartoum’s slow recovery amid cautious return",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/khartoums-slow-recovery-amid-cautious-return?traffic_source=rss",
-      "published_date": "2026-05-19T09:41:34+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/5/20/what-is-the-power-of-siberia-2-pipeline-that-russia-china-are-planning?traffic_source=rss",
+      "published_date": "2026-05-20T15:30:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK eases sanctions on Russian oil imports as fuel prices soar",
@@ -361,11 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Trump administration offers $100m in aid to Cuba in exchange for reform",
+      "title": "Bolivian president to reshuffle cabinet amid antigovernment protests",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/trump-administration-offers-100m-in-aid-to-cuba-in-exchange-for-reform?traffic_source=rss",
-      "published_date": "2026-05-13T23:01:57+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
+      "published_date": "2026-05-20T21:07:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Meta cuts 8,000 jobs in sweeping global layoffs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/20/meta-cuts-8000-jobs-in-sweeping-global-layoffs?traffic_source=rss",
+      "published_date": "2026-05-20T17:44:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia, GCC discuss infrastructure and reconstruction cooperation in Baku",
@@ -494,18 +515,18 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia Ranked World’s Top ICT Regulatory Reformer by ITU",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-ranked-worlds-top-ict-regulatory-reformer-by-itu/",
-      "published_date": "2026-05-17T08:31:30+00:00",
-      "category": "Economy"
+      "title": "Mogadishu to Silicon Valley: How Somalia weaponized an Italian proxy to silence independent media on Meta platforms",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-media-crackdown-digital-bot-attacks/",
+      "published_date": "2026-05-20T17:02:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tunisians rally amid economic crisis and political arrests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/tunisians-rally-amid-economic-crisis-and-political-arrests?traffic_source=rss",
-      "published_date": "2026-05-17T01:18:49+00:00",
-      "category": "Economy"
+      "title": "Somalia Condemns Unauthorized Move to Open So-Called Somaliland Embassy in Jerusalem",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-condemns-unauthorized-move-to-open-so-called-somaliland-embassy-in-jerusalem/",
+      "published_date": "2026-05-20T16:28:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli lawmakers advance bill to dissolve parliament",
@@ -631,20 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/5/19/los-angeles-world-cup-stadium-workers-threaten-strike-over-ice-deployment?traffic_source=rss",
       "published_date": "2026-05-19T07:37:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wasiir Cali Xoosh oo si dadban u eedeeyay Madaxweyne Deni",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/19/wasiir-cali-xoosh-oo-si-dadban-u-eedeeyay-madaxweyne-deni/",
-      "published_date": "2026-05-19T07:01:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "International partners draw red line on Somalia’s one-sided path to elections",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/international-partners-draw-red-line-on-somalias-one-sided-path-to-elections/",
-      "published_date": "2026-05-19T05:23:37+00:00",
       "category": "Local Events"
     }
   ]
