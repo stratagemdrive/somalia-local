@@ -1,8 +1,78 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-21T14:15:42.770129+00:00",
-  "story_count": 94,
+  "last_updated": "2026-05-21T23:59:40.435943+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
+      "published_date": "2026-05-21T21:10:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
+      "published_date": "2026-05-21T20:09:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump shifts between diplomacy and threats in Iran standoff",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
+      "published_date": "2026-05-21T19:11:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Ambassador Yusuf Ahmed Hassan Presents Credentials to Mauritanian President in Nouakchott",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-ambassador-yusuf-ahmed-hassan-presents-credentials-to-mauritanian-president-in-nouakchott/",
+      "published_date": "2026-05-21T18:51:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Drives Counter-Terrorism Strategy and AI Governance Frameworks at Madrid Dialogue",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-drives-counter-terrorism-strategy-and-ai-governance-frameworks-at-madrid-dialogue/",
+      "published_date": "2026-05-21T18:45:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s World Cup hopes hit US visa hurdles",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss",
+      "published_date": "2026-05-21T18:19:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey Steps Up Mediation Efforts Between Somalia’s Federal Government and Opposition",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/turkey-steps-up-mediation-efforts-between-somalias-federal-government-and-opposition/",
+      "published_date": "2026-05-21T17:27:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty?traffic_source=rss",
+      "published_date": "2026-05-21T17:05:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Ambassador Presents Credentials to President of Mauritania",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-ambassador-presents-credentials-to-president-of-mauritania/",
+      "published_date": "2026-05-21T15:37:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Turkey discuss stronger media and cultural cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-turkey-discuss-stronger-media-and-cultural-cooperation/",
+      "published_date": "2026-05-21T14:37:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali Ambassador to Mauritania Presents Copies of Letters of Credence in Nouakchott",
       "source": "SONNA",
@@ -74,74 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "President Hassan Sheikh receives Chinese Ambassador to Somalia",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-receives-chinese-ambassador-to-somalia/",
-      "published_date": "2026-05-20T17:13:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump jokes about running for Israeli prime minister",
+      "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss",
-      "published_date": "2026-05-20T16:51:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss",
+      "published_date": "2026-05-21T23:14:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Human Rights Commission, UN Peacebuilding Fund Discuss Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-human-rights-commission-un-peacebuilding-fund-discuss-cooperation/",
-      "published_date": "2026-05-20T13:36:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
+      "title": "At least 16 people killed in two attacks in northern Honduras",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss",
-      "published_date": "2026-05-20T13:02:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras?traffic_source=rss",
+      "published_date": "2026-05-21T22:46:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia PM receives new Djibouti ambassador, pledges to strengthen bilateral ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pm-receives-new-djibouti-ambassador-pledges-to-strengthen-bilateral-ties/",
-      "published_date": "2026-05-20T12:01:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prime Minister Hamza Receives New Djiboutian Ambassador to Somalia",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-receives-new-djiboutian-ambassador-to-somalia/",
-      "published_date": "2026-05-20T10:24:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
+      "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss",
-      "published_date": "2026-05-20T08:45:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss",
+      "published_date": "2026-05-21T18:05:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somaliland to become second Muslim country to open Jerusalem embassy in deal with Israel",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-second-muslim-country-jerusalem-embassy-israel-somalia/",
-      "published_date": "2026-05-20T06:16:28+00:00",
-      "category": "Diplomacy"
+      "title": "‘Lingering shock from tragedy’ weeks after Minab school bombing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/lingering-shock-from-tragedy-weeks-after-minab-school-bombing?traffic_source=rss",
+      "published_date": "2026-05-21T16:38:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Democratic Momentum in Somalia Is Irreversible",
+      "title": "Puntland oo war ka soo saartay xaaladda kala guurka ah ee Soomaaliya",
       "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/19/the-democratic-momentum-in-somalia-is-irreversible/",
-      "published_date": "2026-05-19T19:24:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump’s Board of Peace urges fix to ‘gap’ in funding",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss",
-      "published_date": "2026-05-19T18:46:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://puntlandpost.net/2026/05/21/puntland-oo-war-ka-soo-saartay-xaaladda-kala-guurka-ah-ee-soomaaliya/",
+      "published_date": "2026-05-21T14:53:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza sisters win Earth Prize for turning war rubble into bricks",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Somali National Army Ramps Up Bay Region Operations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-national-army-ramps-up-bay-region-operations/",
-      "published_date": "2026-05-20T08:32:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jaamacadda Carabta oo ka digtay khatarta faragelinta Israa’iil ee Soomaaliya iyo Geeska Afrika",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jaamacadda-carabta-oo-ka-digtay-khatarta-faragelinta-israaiil-ee-soomaaliya-iyo-geeska-afrika/",
-      "published_date": "2026-05-20T08:19:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
-      "published_date": "2026-05-20T07:47:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss",
-      "published_date": "2026-05-20T07:16:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Danab oo howlgal qorsheysan ka fuliyay deegaanno hoostaga Buurhakaba",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-danab-oo-howlgal-qorsheysan-ka-fuliyay-deegaanno-hoostaga-buurhakaba/",
-      "published_date": "2026-05-20T06:38:07+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Flooding in southern China washes away cars and destroys bridge",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flooding-in-southern-china-washes-away-cars-and-destroys-bridge?traffic_source=rss",
@@ -368,18 +368,11 @@
       "category": "Energy"
     },
     {
-      "title": "Cuba’s Diaz-Canel open to US aid amid worsening fuel crisis, blackouts",
+      "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss",
-      "published_date": "2026-05-14T22:30:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba plunged deeper into fuel crisis amid 22-hour blackouts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/cuba-plunged-deeper-into-fuel-crisis-amid-22-hour-blackouts?traffic_source=rss",
-      "published_date": "2026-05-14T18:13:48+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss",
+      "published_date": "2026-05-21T19:01:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Activists take part in a land convoy from Libya to bring aid to Gaza",
@@ -515,11 +508,32 @@
       "category": "Economy"
     },
     {
-      "title": "Israeli forces storm Gaza-bound aid flotilla off Cyprus",
+      "title": "Ebola treatment hospital burned down in DRC as outbreak spreads",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss",
-      "published_date": "2026-05-18T08:23:22+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss",
+      "published_date": "2026-05-21T20:48:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
+      "published_date": "2026-05-21T19:14:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rageh Omaar Is Wrong About “Somaliland” and South Sudan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/21/rageh-omaar-is-wrong-about-somaliland-and-south-sudan/",
+      "published_date": "2026-05-21T18:17:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Displaced Lebanese woman bakes 3,000 loaves daily for war-hit community",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/displaced-lebanese-woman-bakes-3000-loaves-daily-for-war-hit-community?traffic_source=rss",
+      "published_date": "2026-05-21T18:04:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mauritania’s female Islamic guides: Leading the fight against ‘extremism’",
@@ -631,34 +645,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-military-officers-discuss-security-in-bay-region-ahead-of-elections/",
       "published_date": "2026-05-20T09:31:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/at-least-87-gaza-aid-flotilla-activists-abducted-by-israel-on-hunger-strike?traffic_source=rss",
-      "published_date": "2026-05-20T08:36:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab League warns of danger of Israeli intervention in Somalia and the Horn of Africa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/arab-league-warns-of-danger-of-israeli-intervention-in-somalia-and-the-horn-of-africa/",
-      "published_date": "2026-05-20T08:26:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo siidaysay dhalinyaro dhawaan la xirxiray",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/20/puntland-oo-siidaysay-dhalinyaro-dhawaan-la-xirxiray/",
-      "published_date": "2026-05-20T06:29:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NAACP urges athletes to boycott southern US universities over voting rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/naacp-urges-athletes-to-boycott-southern-us-universities-over-voting-rights?traffic_source=rss",
-      "published_date": "2026-05-19T21:09:01+00:00",
       "category": "Local Events"
     }
   ]
