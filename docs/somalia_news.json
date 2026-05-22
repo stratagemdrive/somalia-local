@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-21T23:59:40.435943+00:00",
-  "story_count": 92,
+  "last_updated": "2026-05-22T13:34:14.726973+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "OIC condemns reported Somaliland plan to open Jerusalem office",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/oic-condemns-reported-somaliland-plan-to-open-jerusalem-office/",
+      "published_date": "2026-05-22T12:26:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali envoy attends Madrid conference on counter-terrorism in Africa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-envoy-attends-madrid-conference-on-counter-terrorism-in-africa/",
+      "published_date": "2026-05-22T12:21:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s new ambassador formally takes up post in Mauritania after presenting credentials",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-new-envoy-formally-takes-up-post-in-mauritania-after-presenting-credentials/",
+      "published_date": "2026-05-22T12:20:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "British climber sets record with 20th Everest summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/british-climber-sets-record-with-20th-everest-summit?traffic_source=rss",
+      "published_date": "2026-05-22T11:30:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Activates National Emergency Protocols Following Regional Ebola Outbreak",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-activates-national-emergency-protocols-following-regional-ebola-outbreak/",
+      "published_date": "2026-05-22T09:48:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
       "source": "Al Jazeera",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Horn’s new fault line: Inside the diplomatic firestorm as Somaliland heads to Jerusalem and Somalia fights back",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-jerusalem-embassy-mogadishu-condemns-israel-pact/",
-      "published_date": "2026-05-21T09:56:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kite carrying Palestinian children’s messages reaches Mount Everest summit",
+      "title": "Israeli attacks kill several in Lebanon, with health workers targeted",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/21/kite-carrying-palestinian-childrens-messages-reaches-mount-everest-summit?traffic_source=rss",
-      "published_date": "2026-05-21T09:49:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/22/israeli-attacks-kill-several-in-lebanon-with-health-workers-targeted?traffic_source=rss",
+      "published_date": "2026-05-22T13:11:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Reaffirms One-China Policy During Meeting With Chinese Envoy",
+      "title": "Somali special forces arrest Al-Shabaab suspects in operation near Afgoye town",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-reaffirms-one-china-policy-during-meeting-with-chinese-envoy/",
-      "published_date": "2026-05-21T09:24:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-special-forces-arrest-al-shabaab-suspects-in-operation-near-afgoye-town/",
+      "published_date": "2026-05-22T12:18:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "A British MP appointed as head of an institute working on Somaliland recognition",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/a-british-mp-appointed-as-head-of-an-institute-working-on-somaliland-recognition/",
-      "published_date": "2026-05-21T03:38:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China and Russia unite after Trump’s Beijing visit",
+      "title": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/china-and-russia-unite-after-trumps-beijing-visit?traffic_source=rss",
-      "published_date": "2026-05-20T19:25:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss",
+      "published_date": "2026-05-22T08:51:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon’s economy struggles under renewed war and global fuel crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss",
+      "published_date": "2026-05-22T08:49:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US raises threat of military action against Cuba",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss",
+      "published_date": "2026-05-22T07:22:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 84: US-Iran talks advance amid mediation push",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss",
+      "published_date": "2026-05-22T06:55:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
+      "title": "India is being left to die in the heat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
-      "published_date": "2026-05-20T15:34:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/5/22/india-is-being-left-to-die-in-the-heat?traffic_source=rss",
+      "published_date": "2026-05-22T12:19:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "New York City hotels avert labour strike threat before FIFA World Cup",
+      "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/20/new-york-city-hotels-avert-labour-strike-threat-before-fifa-world-cup?traffic_source=rss",
-      "published_date": "2026-05-20T13:11:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arsenal’s first Premier League title in 22 years: How did they do it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/20/top-five-factors-behind-arsenals-first-premier-league-title-in-22-years?traffic_source=rss",
-      "published_date": "2026-05-20T10:51:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Philippines top court rejects bid to block arrest of senator wanted by ICC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/philippines-top-court-rejects-bid-to-block-arrest-of-senator-wanted-by-icc?traffic_source=rss",
-      "published_date": "2026-05-20T10:41:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kenya transport strike paused after deadly protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/20/kenya-transport-strike-paused-after-deadly-protests?traffic_source=rss",
-      "published_date": "2026-05-20T09:28:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Danab Commandos Conduct Security Operation in Bay Region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-danab-commandos-conduct-security-operation-in-bay-region/",
-      "published_date": "2026-05-20T09:27:41+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss",
+      "published_date": "2026-05-22T11:11:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Flooding in southern China washes away cars and destroys bridge",
@@ -361,11 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "India hikes fuel prices as Iran crisis bites",
+      "title": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss",
-      "published_date": "2026-05-15T10:14:47+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/22/russia-falters-in-ukraine?traffic_source=rss",
+      "published_date": "2026-05-22T12:46:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia and Turkey agree to boost cooperation in infrastructure and housing development",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-turkey-agree-to-boost-cooperation-in-infrastructure-and-housing-development/",
+      "published_date": "2026-05-22T12:24:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
@@ -494,18 +515,39 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia Showcases Urban Development Plans at Global Cities Forum in Baku",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-showcases-urban-development-plans-at-global-cities-forum-in-baku/",
-      "published_date": "2026-05-18T09:42:18+00:00",
-      "category": "Economy"
+      "title": "South Korean activists smash Starbucks cups to protest ‘Tank Day’ campaign",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/south-korean-activists-smash-starbucks-cups-to-protest-tank-day-campaign?traffic_source=rss",
+      "published_date": "2026-05-22T13:12:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Israeli settlers run over livestock in occupied West Bank",
+      "title": "Gang violence kills at least 25 in Honduras",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-05-18T09:09:18+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/22/gang-violence-kills-at-least-25-in-honduras?traffic_source=rss",
+      "published_date": "2026-05-22T11:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds protest Ireland’s ‘George Floyd moment’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/hundreds-protest-irelands-george-floyd?traffic_source=rss",
+      "published_date": "2026-05-22T11:13:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ururka Iskaashiga Islaamka Oo Cambaareysay  Furitaanka Safaarad Ay Somaliland Ka Yeelaneyso Qudus",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ururka-iskaashiga-islaamka-oo-cambaareysay-furitaanka-safaarad-ay-somaliland-ka-yeelaneyso-qudus/",
+      "published_date": "2026-05-22T05:52:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia and Türkiye Establish Joint Technical Committee to Revolutionize Infrastructure through Modern PPP and Housing Models",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-and-turkiye-establish-joint-technical-committee-to-revolutionize-infrastructure-through-modern-ppp-and-housing-models/",
+      "published_date": "2026-05-22T04:22:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ebola treatment hospital burned down in DRC as outbreak spreads",
@@ -610,41 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/20/why-are-nearly-50000-samsung-workers-about-to-strike-in-south-korea?traffic_source=rss",
       "published_date": "2026-05-20T11:40:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump critic Massie defeated: Takeaways from US primary election results",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/trump-critic-massie-defeated-takeaways-from-us-primary-election-results?traffic_source=rss",
-      "published_date": "2026-05-20T11:38:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garoowe: Madaxweyne Deni oo la kulmay wafdi ka socda dowladda Maraykanka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/20/garoowe-madaxweyne-deni-oo-la-kulmay-wafdi-ka-socda-dowladda-maraykanka/",
-      "published_date": "2026-05-20T11:02:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Mas’uul hore oo ka hadlay xaaladda cakiran ee Soomaaliya",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/20/puntland-masuul-hore-oo-ka-hadlay-xaaladda-cakiran-ee-soomaaliya/",
-      "published_date": "2026-05-20T10:53:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Announces Dates for National Secondary School Examinations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-announces-dates-for-national-secondary-school-examinations/",
-      "published_date": "2026-05-20T10:51:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali military officers discuss security in Bay region ahead of elections",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-military-officers-discuss-security-in-bay-region-ahead-of-elections/",
-      "published_date": "2026-05-20T09:31:39+00:00",
       "category": "Local Events"
     }
   ]
