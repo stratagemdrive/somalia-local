@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-23T12:02:27.116404+00:00",
+  "last_updated": "2026-05-23T23:54:33.556260+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Sheikh Umal Threatens Somaliland with False Equivalency over Opening of Embassy in Jerusalem",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/sheikh-umal-threatens-somaliland-with-false-arguments-over-opening-of-embassy-in-jerusalem/",
+      "published_date": "2026-05-23T18:59:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
+      "published_date": "2026-05-23T17:56:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thousands march in Madrid demanding Spanish PM quit over graft allegations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/thousands-march-in-madrid-demanding-spanish-pm-quit-over-graft-allegations?traffic_source=rss",
+      "published_date": "2026-05-23T17:40:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A Lawyer warns Somaliland Administration Against Defying UN Resolution on Jerusalem",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/23/a-lawyer-warns-somaliland-administration-against-defying-un-resolution-on-jerusalem/",
+      "published_date": "2026-05-23T14:09:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Senegal’s President Faye sacks PM Sonko as deepening rift erupts",
       "source": "Al Jazeera",
@@ -116,32 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Drives Counter-Terrorism Strategy and AI Governance Frameworks at Madrid Dialogue",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-drives-counter-terrorism-strategy-and-ai-governance-frameworks-at-madrid-dialogue/",
-      "published_date": "2026-05-21T18:45:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s World Cup hopes hit US visa hurdles",
+      "title": "US police responding to dozens of shots fired near White House",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss",
-      "published_date": "2026-05-21T18:19:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss",
+      "published_date": "2026-05-23T22:52:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkey Steps Up Mediation Efforts Between Somalia’s Federal Government and Opposition",
+      "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-05-23T21:14:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is pragmatism replacing ideology in international affairs?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international?traffic_source=rss",
+      "published_date": "2026-05-23T19:56:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Senator Abdi Qaybdiid Warns Against Military Deployment Ahead of June 4 Protest",
       "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/turkey-steps-up-mediation-efforts-between-somalias-federal-government-and-opposition/",
-      "published_date": "2026-05-21T17:27:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somalidispatch.com/latest-news/senator-abdi-qaybdiid-warns-against-military-deployment-ahead-of-june-4-protest/",
+      "published_date": "2026-05-23T19:37:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
+      "title": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty?traffic_source=rss",
-      "published_date": "2026-05-21T17:05:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
+      "published_date": "2026-05-23T18:37:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police beat and detain Gaza flotilla activists at airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
+      "published_date": "2026-05-23T18:30:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands rally in Taiwan to boost defence spending amid China tensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/thousands-rally-in-taiwan-to-boost-defence-spending-amid-china-tensions?traffic_source=rss",
+      "published_date": "2026-05-23T17:14:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss",
+      "published_date": "2026-05-23T16:06:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Secretary of State kicks off India visit, invites Modi to White House",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss",
+      "published_date": "2026-05-23T15:52:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces arrest two children in occupied West Bank village",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss",
+      "published_date": "2026-05-23T15:42:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza?traffic_source=rss",
+      "published_date": "2026-05-23T15:00:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali police chief, human rights commission discuss cooperation on rights protection",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-police-chief-human-rights-commission-discuss-cooperation-on-rights-protection/",
+      "published_date": "2026-05-23T13:21:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Somali Police Commissioner Meets National Human Rights Commission to Strengthen Cooperation on Rights Protection",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Gas explosion at Chinese coal mine kills at least 90",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
-      "published_date": "2026-05-23T06:57:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 85: Tehran says major gaps remain in US talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
-      "published_date": "2026-05-23T06:51:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces attack central Gaza despite ceasefire agreement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
-      "published_date": "2026-05-23T06:40:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Badda Soomaaliya oo sii wada howlaha ilaalinta maraakiibta  soo saaraya kheyraadka Gaaska",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-badda-soomaaliya-oo-sii-wada-howlaha-ilaalinta-maraakiibta-taageerada/",
-      "published_date": "2026-05-23T06:30:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Duqeyn lagu dilay xubno ka tirsan Al-Shabaab ayaa ka dhacday gobolka Shabeellaha Hoose.",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/duqeyn-lagu-dilay-xubno-ka-tirsan-al-shabaab-ayaa-ka-dhacday-gobolka-shabeellaha-hoose/",
-      "published_date": "2026-05-23T06:25:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South West State Leadership and Somali National Army Align to Accelerate Counter-Terrorism Operations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-state-leadership-and-somali-national-army-align-to-accelerate-counter-terrorism-operations/",
-      "published_date": "2026-05-23T06:17:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali National Army and International Allies Neutralize Al-Shabaab Terrorist Cells in Targeted Lower Shabelle Precision Strike",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-national-army-and-international-allies-neutralize-al-shabaab-terrorist-cells-in-targeted-lower-shabelle-precision-strike/",
-      "published_date": "2026-05-23T06:12:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks?traffic_source=rss",
-      "published_date": "2026-05-22T19:11:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘I always hear them before I see them’: Drones strike fear in Colombia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/5/22/i-always-hear-them-before-i-see-them-drones-strike-fear-in-colombia?traffic_source=rss",
-      "published_date": "2026-05-22T18:49:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s October 7 tribunal: Show trial of Palestinians or justice?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/israel-october-7-tribunal-show-trial-palestinians?traffic_source=rss",
-      "published_date": "2026-05-22T18:04:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows Israeli strike on Lebanese child and paramedics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/video-shows-israeli-strike-on-lebanese-child-and-paramedics?traffic_source=rss",
-      "published_date": "2026-05-22T17:04:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks kill several in Lebanon, with health workers targeted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/israeli-attacks-kill-several-in-lebanon-with-health-workers-targeted?traffic_source=rss",
-      "published_date": "2026-05-22T13:11:41+00:00",
-      "category": "Military"
+      "title": "Erdogan sets 9-month deadline for Turkey’s historic Somalia oil drilling",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/erdogan-somalia-oil-drilling/",
+      "published_date": "2026-05-23T18:22:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "India is being left to die in the heat",
@@ -344,13 +351,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/18/what-is-the-uaes-barakah-nuclear-plant-nearly-hit-by-a-drone?traffic_source=rss",
       "published_date": "2026-05-18T14:09:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Al Jazeera’s exclusive report from the Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-05-16T16:59:26+00:00",
       "category": "Energy"
     },
     {
@@ -494,6 +494,13 @@
       "category": "Economy"
     },
     {
+      "title": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
+      "published_date": "2026-05-23T15:53:50+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Interior Ministry Launches Training Program for Banadir Local Council Members",
       "source": "SONNA",
       "url": "https://sonna.so/en/interior-ministry-launches-training-program-for-banadir-local-council-members/",
@@ -624,13 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
       "published_date": "2026-05-21T19:14:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rageh Omaar Is Wrong About “Somaliland” and South Sudan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/21/rageh-omaar-is-wrong-about-somaliland-and-south-sudan/",
-      "published_date": "2026-05-21T18:17:59+00:00",
       "category": "Local Events"
     }
   ]
