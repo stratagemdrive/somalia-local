@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-23T00:04:04.440339+00:00",
+  "last_updated": "2026-05-23T12:02:27.116404+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Senegal’s President Faye sacks PM Sonko as deepening rift erupts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/senegals-president-faye-sacks-pm-sonko-as-deepening-rift-erupts?traffic_source=rss",
+      "published_date": "2026-05-23T10:19:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
+      "published_date": "2026-05-23T09:26:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Senior Federal and South West State Officials Visit Diinsoor District to Assess Security and Development Needs",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/senior-federal-and-south-west-state-officials-visit-diinsoor-district-to-assess-security-and-development-needs/",
+      "published_date": "2026-05-23T08:37:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkish Support for Somali President Could Deepen Political Tensions, Opposition Figure Warns",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/turkish-support-for-somali-president-could-deepen-political-tensions-opposition-figure-warns/",
+      "published_date": "2026-05-23T07:13:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What are the implications of US sanctions in Lebanon?",
       "source": "Al Jazeera",
@@ -116,32 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Ambassador Presents Credentials to President of Mauritania",
+      "title": "Somali Police Commissioner Meets National Human Rights Commission to Strengthen Cooperation on Rights Protection",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somali-ambassador-presents-credentials-to-president-of-mauritania/",
-      "published_date": "2026-05-21T15:37:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/somali-police-commissioner-meets-national-human-rights-commission-to-strengthen-cooperation-on-rights-protection/",
+      "published_date": "2026-05-23T11:13:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Turkey discuss stronger media and cultural cooperation",
+      "title": "China coal mine blast kills at least 90, leaves nine missing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/china-coal-mine-blast-kills-at-least-90-leaves-nine-missing?traffic_source=rss",
+      "published_date": "2026-05-23T10:59:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss",
+      "published_date": "2026-05-23T10:10:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Missiles to munitions: Does the US risk running out of key weapons?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss",
+      "published_date": "2026-05-23T09:22:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
+      "published_date": "2026-05-23T08:16:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
+      "published_date": "2026-05-23T07:56:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Navy Escorting Turkish Support Vessels Off Somali Coast, Ankara Says",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-turkey-discuss-stronger-media-and-cultural-cooperation/",
-      "published_date": "2026-05-21T14:37:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-navy-escorting-turkish-support-vessels-off-somali-coast-ankara-says/",
+      "published_date": "2026-05-23T07:55:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Ambassador to Mauritania Presents Copies of Letters of Credence in Nouakchott",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-ambassador-to-mauritania-presents-copies-of-letters-of-credence-in-nouakchott/",
-      "published_date": "2026-05-21T14:03:02+00:00",
-      "category": "Diplomacy"
+      "title": "Somali Army Says Air Strike Kills Six Al-Shabaab Fighters in Lower Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-says-air-strike-kills-six-al-shabaab-fighters-in-lower-shabelle/",
+      "published_date": "2026-05-23T07:24:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ambassador of Türkiye to Somalia, H.E. Alper Aktaş, Pays Courtesy Visit to Ministry of Information Headquarters",
+      "title": "Gas explosion at Chinese coal mine kills at least 90",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
+      "published_date": "2026-05-23T06:57:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 85: Tehran says major gaps remain in US talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
+      "published_date": "2026-05-23T06:51:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces attack central Gaza despite ceasefire agreement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
+      "published_date": "2026-05-23T06:40:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Badda Soomaaliya oo sii wada howlaha ilaalinta maraakiibta  soo saaraya kheyraadka Gaaska",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-badda-soomaaliya-oo-sii-wada-howlaha-ilaalinta-maraakiibta-taageerada/",
+      "published_date": "2026-05-23T06:30:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Duqeyn lagu dilay xubno ka tirsan Al-Shabaab ayaa ka dhacday gobolka Shabeellaha Hoose.",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/duqeyn-lagu-dilay-xubno-ka-tirsan-al-shabaab-ayaa-ka-dhacday-gobolka-shabeellaha-hoose/",
+      "published_date": "2026-05-23T06:25:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South West State Leadership and Somali National Army Align to Accelerate Counter-Terrorism Operations",
       "source": "SONNA",
-      "url": "https://sonna.so/en/ambassador-of-turkiye-to-somalia-h-e-alper-aktas-pays-courtesy-visit-to-ministry-of-information-headquarters/",
-      "published_date": "2026-05-21T13:30:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/south-west-state-leadership-and-somali-national-army-align-to-accelerate-counter-terrorism-operations/",
+      "published_date": "2026-05-23T06:17:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali National Army and International Allies Neutralize Al-Shabaab Terrorist Cells in Targeted Lower Shabelle Precision Strike",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-national-army-and-international-allies-neutralize-al-shabaab-terrorist-cells-in-targeted-lower-shabelle-precision-strike/",
+      "published_date": "2026-05-23T06:12:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
@@ -176,111 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/22/israeli-attacks-kill-several-in-lebanon-with-health-workers-targeted?traffic_source=rss",
       "published_date": "2026-05-22T13:11:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali special forces arrest Al-Shabaab suspects in operation near Afgoye town",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-special-forces-arrest-al-shabaab-suspects-in-operation-near-afgoye-town/",
-      "published_date": "2026-05-22T12:18:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss",
-      "published_date": "2026-05-22T08:51:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon’s economy struggles under renewed war and global fuel crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss",
-      "published_date": "2026-05-22T08:49:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US raises threat of military action against Cuba",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss",
-      "published_date": "2026-05-22T07:22:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 84: US-Iran talks advance amid mediation push",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss",
-      "published_date": "2026-05-22T06:55:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss",
-      "published_date": "2026-05-21T23:14:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 16 people killed in two attacks in northern Honduras",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras?traffic_source=rss",
-      "published_date": "2026-05-21T22:46:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss",
-      "published_date": "2026-05-21T18:05:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Lingering shock from tragedy’ weeks after Minab school bombing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/lingering-shock-from-tragedy-weeks-after-minab-school-bombing?traffic_source=rss",
-      "published_date": "2026-05-21T16:38:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland oo war ka soo saartay xaaladda kala guurka ah ee Soomaaliya",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/21/puntland-oo-war-ka-soo-saartay-xaaladda-kala-guurka-ah-ee-soomaaliya/",
-      "published_date": "2026-05-21T14:53:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza sisters win Earth Prize for turning war rubble into bricks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/gaza-sisters-win-earth-prize-for-turning-war-rubble-into-bricks?traffic_source=rss",
-      "published_date": "2026-05-21T12:05:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada is using its borders to police Palestine solidarity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/21/canada-is-using-its-borders-to-police-palestine-solidarity?traffic_source=rss",
-      "published_date": "2026-05-21T11:02:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Masar oo cambaareysay tallaabada maamulka Somaliland xafiiska uga furanayo Qudus",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/masar-oo-cambaareysay-tallaabada-maamulka-somaliland-xafiiska-uga-furanayo-qudus/",
-      "published_date": "2026-05-21T11:00:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Homeland or death’: How Cuba would defend itself against a US attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/21/homeland-or-death-how-cuba-would-defend-itself-against-a-us-attack?traffic_source=rss",
-      "published_date": "2026-05-21T10:04:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What options do the US and Iran have left to bring war to an end?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss",
-      "published_date": "2026-05-21T09:54:51+00:00",
       "category": "Military"
     },
     {
@@ -494,6 +494,55 @@
       "category": "Economy"
     },
     {
+      "title": "Interior Ministry Launches Training Program for Banadir Local Council Members",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/interior-ministry-launches-training-program-for-banadir-local-council-members/",
+      "published_date": "2026-05-23T11:54:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: Haiti fans feel excluded from first tournament since 1974",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/23/world-cup-2026-haiti-fans-feel-excluded-from-first-tournament-since-1974?traffic_source=rss",
+      "published_date": "2026-05-23T11:48:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cabdi Qaybdiid: Galmudug ma aha Baydhabo oo kale",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/23/cabdi-qaybdiid-galmudug-ma-aha-baydhabo-oo-kale/",
+      "published_date": "2026-05-23T10:44:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo qabatay tahriibayaal",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/23/puntland-oo-qabatay-tahriibayaal/",
+      "published_date": "2026-05-23T06:34:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland disowns Somalia’s president, says legitimate term ended",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-disowns-somalia-president/",
+      "published_date": "2026-05-23T05:51:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
+      "published_date": "2026-05-23T05:46:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia president decrees close ally as sole candidate for Galmudug leadership",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-ally-galmudug-candidate/",
+      "published_date": "2026-05-23T04:15:31+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Mahmoud Khalil to appeal US deportation case to Supreme Court",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
@@ -582,55 +631,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/05/21/rageh-omaar-is-wrong-about-somaliland-and-south-sudan/",
       "published_date": "2026-05-21T18:17:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced Lebanese woman bakes 3,000 loaves daily for war-hit community",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/displaced-lebanese-woman-bakes-3000-loaves-daily-for-war-hit-community?traffic_source=rss",
-      "published_date": "2026-05-21T18:04:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mauritania’s female Islamic guides: Leading the fight against ‘extremism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/mauritanias-female-islamic-guides-leading-the-fight-against-extremism?traffic_source=rss",
-      "published_date": "2026-05-21T12:27:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Cabinet Discusses Security and Development in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-cabinet-discusses-security-and-development-in-baidoa/",
-      "published_date": "2026-05-21T10:58:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Council of Ministers Convenes to Accelerate Security, Infrastructure, and Public Service Delivery",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/south-west-state-council-of-ministers-convenes-to-accelerate-security-infrastructure-and-public-service-delivery/",
-      "published_date": "2026-05-21T10:55:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Condemns Planned Somaliland ‘Embassy’ in Jerusalem",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-planned-somaliland-embassy-in-jerusalem/",
-      "published_date": "2026-05-21T09:22:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xanuun ku soo badanaya Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/21/xanuun-ku-soo-badanaya-puntland/",
-      "published_date": "2026-05-21T06:50:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo ka hortimid go’aan ay ku dhawaaqday Somaliland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/21/dowladda-soomaaliya-oo-ka-hortimid-goaan-ay-ku-dhawaaqday-somaliland/",
-      "published_date": "2026-05-21T05:55:10+00:00",
       "category": "Local Events"
     }
   ]
