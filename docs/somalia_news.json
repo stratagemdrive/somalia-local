@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-22T13:34:14.726973+00:00",
-  "story_count": 93,
+  "last_updated": "2026-05-23T00:04:04.440339+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "What are the implications of US sanctions in Lebanon?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss",
+      "published_date": "2026-05-22T20:00:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thousands in Cuba rally for Raul Castro to protest US indictment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-in-cuba-rally-for-raul-castro-to-protest-us-indictment?traffic_source=rss",
+      "published_date": "2026-05-22T19:55:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Slovenia’s parliament approves right-wing Janez Jansa as prime minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/slovenias-parliament-approves-right-wing-janez-jansa-as-prime-minister?traffic_source=rss",
+      "published_date": "2026-05-22T19:42:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "OIC condemns reported Somaliland plan to open Jerusalem office",
       "source": "Shabelle Media",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "India-Africa summit postponed as Ebola spreads to M23-held DR Congo area",
+      "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/india-africa-summit-postponed-as-ebola-spreads-to-m23-held-dr-congo-area?traffic_source=rss",
-      "published_date": "2026-05-21T13:18:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks?traffic_source=rss",
+      "published_date": "2026-05-22T19:11:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran World Cup squad members apply for US, Canada visas in Turkiye",
+      "title": "‘I always hear them before I see them’: Drones strike fear in Colombia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/21/iran-world-cup-squad-members-apply-for-us-canada-visas-in-turkiye?traffic_source=rss",
-      "published_date": "2026-05-21T13:01:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/longform/2026/5/22/i-always-hear-them-before-i-see-them-drones-strike-fear-in-colombia?traffic_source=rss",
+      "published_date": "2026-05-22T18:49:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt condemns opening of so-called Somaliland embassy in Al-Quds",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/egypt-condemns-opening-of-so-called-somaliland-embassy-in-al-quds/",
-      "published_date": "2026-05-21T11:01:00+00:00",
-      "category": "Diplomacy"
+      "title": "Israel’s October 7 tribunal: Show trial of Palestinians or justice?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/israel-october-7-tribunal-show-trial-palestinians?traffic_source=rss",
+      "published_date": "2026-05-22T18:04:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video shows Israeli strike on Lebanese child and paramedics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/video-shows-israeli-strike-on-lebanese-child-and-paramedics?traffic_source=rss",
+      "published_date": "2026-05-22T17:04:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli attacks kill several in Lebanon, with health workers targeted",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran reviews US proposal to end war as Pakistan steps up mediation efforts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/iran-reviews-us-proposal-to-end-war-as-pakistan-steps-up-mediation-efforts?traffic_source=rss",
-      "published_date": "2026-05-21T09:26:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DFS oo cambaareysay qorshaha lagu sheegay in safaarad looga furayo Qudus",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dfs-oo-cambaareysay-qorshaha-lagu-sheegay-in-safaarad-looga-furayo-qudus/",
-      "published_date": "2026-05-21T04:55:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US police officers sue Trump over $1.8bn ‘anti-weaponisation’ fund",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/us-police-officers-sue-trump-over-1-8bn-anti-weaponisation-fund?traffic_source=rss",
-      "published_date": "2026-05-20T23:32:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-05-20T15:47:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "India is being left to die in the heat",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/5/22/india-is-being-left-to-die-in-the-heat?traffic_source=rss",
@@ -351,27 +351,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss",
       "published_date": "2026-05-16T16:59:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba hit by protests, blackouts amid oil shortage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cuba-hit-by-protests-blackouts-amid-oil-shortage?traffic_source=rss",
-      "published_date": "2026-05-15T20:40:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss",
-      "published_date": "2026-05-15T17:32:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/uae-to-accelerate-oil-pipeline-project-to-bypass-hormuz?traffic_source=rss",
-      "published_date": "2026-05-15T16:48:22+00:00",
       "category": "Energy"
     },
     {
@@ -515,6 +494,41 @@
       "category": "Economy"
     },
     {
+      "title": "Mahmoud Khalil to appeal US deportation case to Supreme Court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
+      "published_date": "2026-05-22T21:08:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "San Diego’s Muslims, a mosque, and a city shaken",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/22/aje-onl-usa_sandiegomosque_av_v2-220526?traffic_source=rss",
+      "published_date": "2026-05-22T20:03:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Displaced Lebanese amputee asks ‘where am I supposed to go’?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/displaced-lebanese-amputee-asks-where-am-i-supposed-to?traffic_source=rss",
+      "published_date": "2026-05-22T19:09:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Administration Likely to Accept eVisa Revenue-Sharing Deal With Mogadishu",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/22/somaliland-administration-likely-to-accept-evisa-revenue-sharing-deal-with-mogadishu/",
+      "published_date": "2026-05-22T16:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garoowe iyo Qardho oo isugu soo haray tartanka magaalo madaxyada gobollada Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/22/garoowe-iyo-qardho-oo-isugu-soo-haray-tartanka-magaalo-madaxyada-gobollada-puntland/",
+      "published_date": "2026-05-22T13:50:15+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "South Korean activists smash Starbucks cups to protest ‘Tank Day’ campaign",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/south-korean-activists-smash-starbucks-cups-to-protest-tank-day-campaign?traffic_source=rss",
@@ -617,41 +631,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/05/21/dowladda-soomaaliya-oo-ka-hortimid-goaan-ay-ku-dhawaaqday-somaliland/",
       "published_date": "2026-05-21T05:55:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland President Holds Talks With Senior U.S. Delegation in Garowe",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/puntland-president-deni-holds-talks-with-senior-u-s-delegation-in-garowe/",
-      "published_date": "2026-05-21T03:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mogadishu to Silicon Valley: How Somalia weaponized an Italian proxy to silence independent media on Meta platforms",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-media-crackdown-digital-bot-attacks/",
-      "published_date": "2026-05-20T17:02:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Condemns Unauthorized Move to Open So-Called Somaliland Embassy in Jerusalem",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-condemns-unauthorized-move-to-open-so-called-somaliland-embassy-in-jerusalem/",
-      "published_date": "2026-05-20T16:28:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli lawmakers advance bill to dissolve parliament",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/israeli-lawmakers-advance-bill-to-dissolve-parliament?traffic_source=rss",
-      "published_date": "2026-05-20T13:08:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why are nearly 50,000 Samsung workers about to strike in South Korea?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/why-are-nearly-50000-samsung-workers-about-to-strike-in-south-korea?traffic_source=rss",
-      "published_date": "2026-05-20T11:40:29+00:00",
       "category": "Local Events"
     }
   ]
