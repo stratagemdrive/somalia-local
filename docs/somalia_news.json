@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-23T23:54:33.556260+00:00",
+  "last_updated": "2026-05-24T12:04:20.683899+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Somalia Temporarily Suspends Travel to Egypt Under “OK-to-Board” Authorization",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-temporarily-suspends-travel-to-egypt-under-ok-to-board-authorization/",
+      "published_date": "2026-05-24T11:26:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Embassy in China Hosts African Day Celebration in Beijing",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-embassy-in-china-hosts-african-day-celebration-in-beijing/",
+      "published_date": "2026-05-24T11:10:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Joint Statement Condemning Illegal “Somaliland” Embassy Opening in Occupied Jerusalem",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/joint-statement-condemning-illegal-somaliland-embassy-opening-in-occupied-jerusalem/",
+      "published_date": "2026-05-24T10:31:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia: US begins direct engagement with regional states",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-regions/",
+      "published_date": "2026-05-24T08:21:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“They don’t like each other:” Is Russia and Iran’s alliance falling apart?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss",
+      "published_date": "2026-05-24T08:10:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Participates in Madrid Counterterrorism Dialogue in Spain",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-participates-in-madrid-counterterrorism-dialogue-in-spain/",
+      "published_date": "2026-05-24T06:17:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian sources lay out Iran-US deal details",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
+      "published_date": "2026-05-24T02:16:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sheikh Umal Threatens Somaliland with False Equivalency over Opening of Embassy in Jerusalem",
       "source": "Somali Dispatch",
@@ -95,53 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia’s new ambassador formally takes up post in Mauritania after presenting credentials",
+      "title": "Israeli attack on Gaza kills three family members, including infant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
+      "published_date": "2026-05-24T11:41:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somaliland troops return from Israel training: report",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-new-envoy-formally-takes-up-post-in-mauritania-after-presenting-credentials/",
-      "published_date": "2026-05-22T12:20:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somaliland-troops-return-from-israel-training-report/",
+      "published_date": "2026-05-24T11:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "British climber sets record with 20th Everest summit",
+      "title": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/british-climber-sets-record-with-20th-everest-summit?traffic_source=rss",
-      "published_date": "2026-05-22T11:30:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+      "published_date": "2026-05-24T10:25:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Activates National Emergency Protocols Following Regional Ebola Outbreak",
+      "title": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+      "published_date": "2026-05-24T10:01:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran inch closer to deal to end the war: What to know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+      "published_date": "2026-05-24T09:37:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US and Iran deal to end war is ‘largely negotiated’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
+      "published_date": "2026-05-24T09:10:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gunman shot dead by Secret Service agents near White House: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/gunman-shot-dead-by-secret-service-agents-near-white-house-what-we-know?traffic_source=rss",
+      "published_date": "2026-05-24T09:06:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attacks on Ukraine’s Kyiv kill at least four people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
+      "published_date": "2026-05-24T08:22:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Suicide car bomb attack on train in Pakistan kills at least 24",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss",
+      "published_date": "2026-05-24T08:21:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Xubin ka tirsan Al-shabaab oo isku soo diibay DFS",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/24/xubin-ka-tirsan-al-shabaab-oo-isku-soo-diibay-dfs/",
+      "published_date": "2026-05-24T07:42:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Shabaab Militant Surrenders to Somali National Army in Lower Shabelle",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-activates-national-emergency-protocols-following-regional-ebola-outbreak/",
-      "published_date": "2026-05-22T09:48:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/al-shabaab-militant-surrenders-to-somali-national-army-in-lower-shabelle/",
+      "published_date": "2026-05-24T07:34:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+      "title": "Man dies in northeast Australia after shark attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
-      "published_date": "2026-05-21T21:10:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
-      "published_date": "2026-05-21T20:09:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump shifts between diplomacy and threats in Iran standoff",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
-      "published_date": "2026-05-21T19:11:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Ambassador Yusuf Ahmed Hassan Presents Credentials to Mauritanian President in Nouakchott",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-ambassador-yusuf-ahmed-hassan-presents-credentials-to-mauritanian-president-in-nouakchott/",
-      "published_date": "2026-05-21T18:51:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
+      "published_date": "2026-05-24T07:13:57+00:00",
+      "category": "Military"
     },
     {
       "title": "US police responding to dozens of shots fired near White House",
@@ -197,90 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss",
       "published_date": "2026-05-23T16:06:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Secretary of State kicks off India visit, invites Modi to White House",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss",
-      "published_date": "2026-05-23T15:52:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces arrest two children in occupied West Bank village",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss",
-      "published_date": "2026-05-23T15:42:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza?traffic_source=rss",
-      "published_date": "2026-05-23T15:00:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali police chief, human rights commission discuss cooperation on rights protection",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-police-chief-human-rights-commission-discuss-cooperation-on-rights-protection/",
-      "published_date": "2026-05-23T13:21:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Police Commissioner Meets National Human Rights Commission to Strengthen Cooperation on Rights Protection",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-police-commissioner-meets-national-human-rights-commission-to-strengthen-cooperation-on-rights-protection/",
-      "published_date": "2026-05-23T11:13:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China coal mine blast kills at least 90, leaves nine missing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/china-coal-mine-blast-kills-at-least-90-leaves-nine-missing?traffic_source=rss",
-      "published_date": "2026-05-23T10:59:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss",
-      "published_date": "2026-05-23T10:10:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Missiles to munitions: Does the US risk running out of key weapons?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss",
-      "published_date": "2026-05-23T09:22:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
-      "published_date": "2026-05-23T08:16:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
-      "published_date": "2026-05-23T07:56:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Navy Escorting Turkish Support Vessels Off Somali Coast, Ankara Says",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-navy-escorting-turkish-support-vessels-off-somali-coast-ankara-says/",
-      "published_date": "2026-05-23T07:55:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Says Air Strike Kills Six Al-Shabaab Fighters in Lower Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-says-air-strike-kills-six-al-shabaab-fighters-in-lower-shabelle/",
-      "published_date": "2026-05-23T07:24:15+00:00",
       "category": "Military"
     },
     {
@@ -352,6 +352,20 @@
       "url": "https://www.aljazeera.com/news/2026/5/18/what-is-the-uaes-barakah-nuclear-plant-nearly-hit-by-a-drone?traffic_source=rss",
       "published_date": "2026-05-18T14:09:47+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Senegal football fans return home after royal pardon in Morocco",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss",
+      "published_date": "2026-05-24T10:13:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Yemen war sees scramble for scant resources between displaced and locals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
+      "published_date": "2026-05-24T08:47:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
@@ -480,18 +494,39 @@
       "category": "Economy"
     },
     {
-      "title": "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss",
-      "published_date": "2026-05-18T10:50:52+00:00",
-      "category": "Economy"
+      "title": "Israa’iil oo Ciidamo gaar ah u tababartay Somaliland, kuna wareejisay gantaalada difaaca hawada ee ‘Iron Dome’",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/israaiil-oo-ciidamo-gaar-ah-u-tababartay-somaliland-kuna-wareejisay-gantaalada-difaaca-hawada-ee-iron-dome/",
+      "published_date": "2026-05-24T11:18:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Hantavirus-hit cruise ship docks in the Netherlands",
+      "title": "Kulanka Garoowe iyo Qardho oo dib loo dhigay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/24/kulanka-garoowe-iyo-qardho-oo-dib-loo-dhigay/",
+      "published_date": "2026-05-24T10:21:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia president pardons six graft convicts: document",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-graft-pardon/",
+      "published_date": "2026-05-24T09:56:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rubio says ‘significant progress’ made in US-Iran negotiations",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/hantavirus-hit-cruise-ship-docks-in-the-netherlands?traffic_source=rss",
-      "published_date": "2026-05-18T10:01:49+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss",
+      "published_date": "2026-05-24T08:51:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali minister visits key district, urges support for security efforts",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-minister-visits-baidoa-region-district-urges-support-for-security-efforts/",
+      "published_date": "2026-05-24T07:56:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
@@ -596,41 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/22/gang-violence-kills-at-least-25-in-honduras?traffic_source=rss",
       "published_date": "2026-05-22T11:30:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds protest Ireland’s ‘George Floyd moment’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/hundreds-protest-irelands-george-floyd?traffic_source=rss",
-      "published_date": "2026-05-22T11:13:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ururka Iskaashiga Islaamka Oo Cambaareysay  Furitaanka Safaarad Ay Somaliland Ka Yeelaneyso Qudus",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ururka-iskaashiga-islaamka-oo-cambaareysay-furitaanka-safaarad-ay-somaliland-ka-yeelaneyso-qudus/",
-      "published_date": "2026-05-22T05:52:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia and Türkiye Establish Joint Technical Committee to Revolutionize Infrastructure through Modern PPP and Housing Models",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-and-turkiye-establish-joint-technical-committee-to-revolutionize-infrastructure-through-modern-ppp-and-housing-models/",
-      "published_date": "2026-05-22T04:22:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola treatment hospital burned down in DRC as outbreak spreads",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss",
-      "published_date": "2026-05-21T20:48:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
-      "published_date": "2026-05-21T19:14:34+00:00",
       "category": "Local Events"
     }
   ]
