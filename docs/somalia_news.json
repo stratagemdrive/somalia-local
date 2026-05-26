@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-25T14:12:33.718094+00:00",
-  "story_count": 90,
+  "last_updated": "2026-05-26T00:02:57.253030+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss",
+      "published_date": "2026-05-25T20:49:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Minister of Information Holds Fruitful Meeting with the Chinese Ambassador to Somalia",
       "source": "SONNA",
@@ -137,11 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
+      "title": "Czech police detain Russian priest over ‘white substance’ find",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
-      "published_date": "2026-05-23T17:56:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/25/czech-police-detain-russian-priest-over-white-substance-find?traffic_source=rss",
+      "published_date": "2026-05-25T20:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-pays-tribute-to-us-troops-killed-in-war-on-iran-on-memorial-day?traffic_source=rss",
+      "published_date": "2026-05-25T20:24:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv’s Chornobyl Museum devastated in overnight Russian missile attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/kyivs-chornobyl-museum-devastated-in-overnight-russian-missile-attack?traffic_source=rss",
+      "published_date": "2026-05-25T19:19:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Father mourns daughter killed in Israeli strike on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+      "published_date": "2026-05-25T19:12:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Lebanon, everything and nothing has changed since 2000",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss",
+      "published_date": "2026-05-25T18:56:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ground Forces Commander Launches Training for Danab Commandos",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ground-forces-commander-launches-training-for-danab-commandos/",
+      "published_date": "2026-05-25T18:50:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Banaadir Police Commander Warns Against Attempts to Destabilize Mogadishu Security",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/banaadir-police-commander-warns-against-attempts-to-destabilize-mogadishu-security/",
+      "published_date": "2026-05-25T18:48:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia Condemns Terrorist Attack in Pakistan and Expresses Solidarity with the Pakistani People",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-condemns-terrorist-attack-in-pakistan-and-expresses-solidarity-with-the-pakistani-people/",
+      "published_date": "2026-05-25T18:46:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes?traffic_source=rss",
+      "published_date": "2026-05-25T16:12:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Train bomb in Pakistan’s Baloch region: Why violence is on the rise",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/25/train-bomb-in-pakistans-baloch-region-why-violence-is-on-the-rise?traffic_source=rss",
+      "published_date": "2026-05-25T15:43:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
@@ -214,76 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss",
-      "published_date": "2026-05-24T18:22:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkish police storm main opposition CHP’s party headquarters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/turkish-police-storm-main-opposition-chps-party-headquarters?traffic_source=rss",
-      "published_date": "2026-05-24T16:28:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack on Gaza kills three family members, including infant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
-      "published_date": "2026-05-24T11:41:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somaliland troops return from Israel training: report",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-troops-return-from-israel-training-report/",
-      "published_date": "2026-05-24T11:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
-      "published_date": "2026-05-24T10:25:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
-      "published_date": "2026-05-24T10:01:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran inch closer to deal to end the war: What to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
-      "published_date": "2026-05-24T09:37:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US and Iran deal to end war is ‘largely negotiated’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
-      "published_date": "2026-05-24T09:10:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunman shot dead by Secret Service agents near White House: What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/gunman-shot-dead-by-secret-service-agents-near-white-house-what-we-know?traffic_source=rss",
-      "published_date": "2026-05-24T09:06:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attacks on Ukraine’s Kyiv kill at least four people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
-      "published_date": "2026-05-24T08:22:40+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Cuba thanks China for rice shipment amid worsening humanitarian conditions",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss",
@@ -340,18 +340,11 @@
       "category": "Energy"
     },
     {
-      "title": "Is the US trying to force regime change in Cuba?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss",
-      "published_date": "2026-05-18T21:57:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US drops fraud charges after billionaire Adani pledges $10bn investment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/18/us-drops-fraud-charges-after-billionaire-adani-pledges-10bn-investment?traffic_source=rss",
-      "published_date": "2026-05-18T21:02:25+00:00",
-      "category": "Energy"
+      "title": "EAC Advances Development of a Regional Mobile Roaming Framework to Enhance Cross-Border Connectivity and Trade",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/eac-advances-development-of-a-regional-mobile-roaming-framework-to-enhance-cross-border-connectivity-and-trade/",
+      "published_date": "2026-05-25T15:20:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
@@ -487,11 +480,74 @@
       "category": "Economy"
     },
     {
-      "title": "Israel’s far-right Finance Minister Smotrich says ICC seeking his arrest",
+      "title": "Hundreds of Banaadir Youth Hold Peaceful “Voice of the Capital” Demonstration in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/hundreds-of-banaadir-youth-hold-peaceful-voice-of-the-capital-demonstration-in-mogadishu/",
+      "published_date": "2026-05-25T20:29:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-Scottish National Party chief pleads guilty to embezzling funds",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israels-far-right-finance-minister-smotrich-says-icc-seeking-his-arrest?traffic_source=rss",
-      "published_date": "2026-05-19T17:35:16+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/25/ex-scottish-national-party-chief-pleads-guilty-to-embezzling-funds?traffic_source=rss",
+      "published_date": "2026-05-25T20:07:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mogadishu: A City Once Defined by Insecurity, Now Safer Than Washington D.C.",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/mogadishu-a-city-once-defined-by-insecurity-now-safer-than-washington-d-c/",
+      "published_date": "2026-05-25T18:14:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
+      "published_date": "2026-05-25T17:46:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tunisian court hands presidential critic Sonia Dahmani new jail term",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/25/tunisian-court-hands-presidential-critic-sonia-dahmani-new-jail-term?traffic_source=rss",
+      "published_date": "2026-05-25T17:39:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Holds Consultative Meeting with Somali Poets on National Awareness and Cultural Revival",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-holds-consultative-meeting-with-somali-poets-on-national-awareness-and-cultural-revival/",
+      "published_date": "2026-05-25T16:02:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Supreme Court Ratifies Final South West State Election Results",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalias-supreme-court-ratifies-final-south-west-state-election-results/",
+      "published_date": "2026-05-25T16:00:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garoowe oo qaaday koobka magaalo madaxyada gobollada Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/25/garoowe-oo-qaaday-koobka-magaalo-madaxyada-gobollada-puntland/",
+      "published_date": "2026-05-25T15:13:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Supreme Court Formally Certifies South West State Local Council and Legislative Election Results",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalias-supreme-court-formally-certifies-south-west-state-local-council-and-legislative-election-results/",
+      "published_date": "2026-05-25T15:12:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Hassan Sheikh Mohamud Rallies Somali Poets to Spearhead National Awareness and State-Building Campaign",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-rallies-somali-poets-to-spearhead-national-awareness-and-state-building-campaign/",
+      "published_date": "2026-05-25T15:03:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somali president meets civil society leaders over democracy and state-building",
@@ -561,76 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/24/senegal-parliament-speaker-steps-down-as-political-crisis-worsens?traffic_source=rss",
       "published_date": "2026-05-24T20:43:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland President Urges Britain to Recognize Somaliland in Interview with The Telegraph",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-irro-urges-britain-to-recognize-somaliland-in-interview-with-the-telegraph/",
-      "published_date": "2026-05-24T18:12:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fatou Bensouda on Israeli threats against her and the ICC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss",
-      "published_date": "2026-05-24T18:04:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will the Texas primary run-off give Democrats a chance to flip the state?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/will-the-texas-primary-run-off-give-democrats-a-chance-to-flip-the-state?traffic_source=rss",
-      "published_date": "2026-05-24T13:30:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxtooyada Puntland oo gaadiid ku wareejisay guddoomiyeyaasha gobollada",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/24/madaxtooyada-puntland-oo-gaadiid-ku-wareejisay-guddoomiyeyaasha-gobollada/",
-      "published_date": "2026-05-24T12:51:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security Minister Chairs Monthly Meeting Discussing Administration Reform",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/security-minister-chairs-monthly-meeting-discussing-administration-reform/",
-      "published_date": "2026-05-24T12:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israa’iil oo Ciidamo gaar ah u tababartay Somaliland, kuna wareejisay gantaalada difaaca hawada ee ‘Iron Dome’",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/israaiil-oo-ciidamo-gaar-ah-u-tababartay-somaliland-kuna-wareejisay-gantaalada-difaaca-hawada-ee-iron-dome/",
-      "published_date": "2026-05-24T11:18:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kulanka Garoowe iyo Qardho oo dib loo dhigay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/24/kulanka-garoowe-iyo-qardho-oo-dib-loo-dhigay/",
-      "published_date": "2026-05-24T10:21:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia president pardons six graft convicts: document",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-graft-pardon/",
-      "published_date": "2026-05-24T09:56:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rubio says ‘significant progress’ made in US-Iran negotiations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss",
-      "published_date": "2026-05-24T08:51:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali minister visits key district, urges support for security efforts",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-minister-visits-baidoa-region-district-urges-support-for-security-efforts/",
-      "published_date": "2026-05-24T07:56:32+00:00",
       "category": "Local Events"
     }
   ]
