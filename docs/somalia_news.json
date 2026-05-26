@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-26T00:02:57.253030+00:00",
-  "story_count": 88,
+  "last_updated": "2026-05-26T13:58:05.510868+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "The Mali crisis could have a dangerous spillover effect",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/26/the-mali-crisis-could-have-a-dangerous-spillover-effect?traffic_source=rss",
+      "published_date": "2026-05-26T11:05:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese ambassador addresses Somali National University students on safeguarding sovereignty",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/chinese-ambassador-addresses-somali-national-university-students-on-safeguarding-sovereignty/",
+      "published_date": "2026-05-26T05:52:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Future Council Accuses Somali Government of Political Repression and Intimidation",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/future-council-accuses-somali-government-of-political-repression-and-intimidation/",
+      "published_date": "2026-05-26T02:55:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
       "source": "Al Jazeera",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Participates in Madrid Counterterrorism Dialogue in Spain",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-participates-in-madrid-counterterrorism-dialogue-in-spain/",
-      "published_date": "2026-05-24T06:17:41+00:00",
-      "category": "Diplomacy"
+      "title": "Axmed Madoobe oo lacago ka bixiyay maxabiis ku xirnayd Kismaayo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/26/axmed-madoobe-oo-lacago-ka-bixiyay-maxabiis-ku-xirnayd-kismaayo/",
+      "published_date": "2026-05-26T13:46:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian sources lay out Iran-US deal details",
+      "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
-      "published_date": "2026-05-24T02:16:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss",
+      "published_date": "2026-05-26T13:26:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sheikh Umal Threatens Somaliland with False Equivalency over Opening of Embassy in Jerusalem",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/sheikh-umal-threatens-somaliland-with-false-arguments-over-opening-of-embassy-in-jerusalem/",
-      "published_date": "2026-05-23T18:59:36+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli air attacks kill seven Palestinians in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss",
+      "published_date": "2026-05-26T12:34:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Libyan forces detain Gaza land convoy activists at Sirte checkpoint",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/libyan-forces-detain-gaza-land-convoy-activists-at-sirte-checkpoint?traffic_source=rss",
+      "published_date": "2026-05-26T11:37:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guddiga Madaxa-bannaan ee Xuquuqul Insaanka Oo walaac ka muujiyey Dhacdo  Ka Dhacday Jubbada Hoose",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/guddiga-madaxa-bannaan-ee-xuquuqul-insaanka-oo-walaac-ka-muujiyey-dhacdo-ka-dhacday-jubbada-hoose/",
+      "published_date": "2026-05-26T10:15:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anticipation in Iran as talks with US continue amid attacks, war of words",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/anticipation-in-iran-as-talks-with-us-continue-amid-attacks-war-of-words?traffic_source=rss",
+      "published_date": "2026-05-26T10:08:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army launches training for new Danab commandos in Balidogle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-launches-training-for-new-danab-commandos-in-balidogle/",
+      "published_date": "2026-05-26T09:43:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali security minister warns against criticism of national forces amid political tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-security-minister-warns-against-criticism-of-national-forces-amid-political-tensions/",
+      "published_date": "2026-05-26T09:42:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Banaadir police chief warns opposition against actions threatening Mogadishu security",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/banaadir-police-chief-warns-opposition-against-actions-threatening-mogadishu-security/",
+      "published_date": "2026-05-26T09:37:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidamada Dawladda Sudan Oo Guulo Ka Sheegtay Dagaallo Ka Dhacay Agagaarka Xadka Itoobiya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-dawladda-sudan-oo-guulo-ka-sheegtay-dagaallo-ka-dhacay-agagaarka-xadka-itoobiya/",
+      "published_date": "2026-05-26T06:40:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Czech police detain Russian priest over ‘white substance’ find",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
+      "title": "Can the US and India repair ties over trade and China?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss",
-      "published_date": "2026-05-25T13:00:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s war loop: Escalate, retreat, repeat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss",
-      "published_date": "2026-05-25T11:12:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Surveillance video shows moment of China coal mine blast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/surveillance-video-shows-moment-of-china-coal-mine-blast?traffic_source=rss",
-      "published_date": "2026-05-25T10:42:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali military officials discuss security operations in Bay region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-military-officials-discuss-security-operations-in-bay-region/",
-      "published_date": "2026-05-25T09:47:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Messi at the World Cup: Inter Miami injury update, substitution",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/25/messi-at-the-world-cup-inter-miami-injury-update-substitution?traffic_source=rss",
-      "published_date": "2026-05-25T09:14:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
-      "published_date": "2026-05-25T07:50:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside a Beirut barbershop shaped by war and crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss",
-      "published_date": "2026-05-24T21:40:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan’s Eid livestock traders losing as war on Iran pushes up prices",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/pakistans-eid-livestock-traders-losing-as-war-on-iran-pushes-up-prices?traffic_source=rss",
-      "published_date": "2026-05-24T21:03:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How will Iran war fallout impact upcoming US elections?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
-      "published_date": "2026-05-24T19:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NISA Operation in Hiiraan Kills Five Al-Shabaab Militants",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/nisa-operation-in-hiiraan-kills-five-al-shabaab-militants/",
-      "published_date": "2026-05-24T18:55:29+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
+      "published_date": "2026-05-26T11:23:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba thanks China for rice shipment amid worsening humanitarian conditions",
@@ -338,6 +345,20 @@
       "url": "https://www.aljazeera.com/news/2026/5/20/uk-eases-sanctions-on-russian-oil-imports-as-fuel-prices-soar?traffic_source=rss",
       "published_date": "2026-05-20T10:46:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pakistan and China reach ‘new broad consensus’ on boosting ties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/26/pakistan-and-china-reach-new-broad-consensus-on-boosting-ties?traffic_source=rss",
+      "published_date": "2026-05-26T10:16:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Palestine weekly wrap: Ben-Gvir’s abuse of flotilla detainees causes outcry",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/palestine-weekly-wrap-ben-gvirs-abuse-of-flotilla-detainees-causes-outcry?traffic_source=rss",
+      "published_date": "2026-05-26T09:29:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "EAC Advances Development of a Regional Mobile Roaming Framework to Enhance Cross-Border Connectivity and Trade",
@@ -466,18 +487,60 @@
       "category": "Economy"
     },
     {
-      "title": "Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss",
-      "published_date": "2026-05-19T18:55:32+00:00",
-      "category": "Economy"
+      "title": "Somalia’s Human Rights Commission Calls for Protection of Civilians After Reported Killings",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalias-human-rights-commission-calls-for-protection-of-civilians-after-reported-killings/",
+      "published_date": "2026-05-26T13:19:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "High prices in Iran’s stunted housing market leave tenants with few options",
+      "title": "Report warns pro-Palestine protesters face legal crackdown: What to know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss",
-      "published_date": "2026-05-19T18:50:18+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/26/report-warns-pro-palestine-protesters-face-legal-crackdown-what-to-know?traffic_source=rss",
+      "published_date": "2026-05-26T13:18:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegal lawmakers elect ousted PM Sonko as new parliament speaker",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/senegal-lawmakers-elect-ousted-pm-sonko-as-new-parliament-speaker?traffic_source=rss",
+      "published_date": "2026-05-26T12:44:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Faces Rising Ebola Threat as US Imposes Temporary Travel Restrictions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-faces-rising-ebola-threat-as-us-imposes-temporary-travel-restrictions/",
+      "published_date": "2026-05-26T10:36:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I was actually depressed’: France tries to deport immigrant students",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/i-was-actually-depressed-france-tries-to-deport-immigrant-students?traffic_source=rss",
+      "published_date": "2026-05-26T10:17:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Youth rally in Mogadishu backs government and stability amid political tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/youth-rally-in-mogadishu-backs-government-and-stability-amid-political-tensions/",
+      "published_date": "2026-05-26T09:39:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Electoral Commission Announces 92 Southwest State Lawmakers, Sets Presidential Election for June 10",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-electoral-commission-announces-92-southwest-state-lawmakers-sets-presidential-election-for-june-10/",
+      "published_date": "2026-05-26T08:20:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Khilaaf ka dhex taagan hay’adaha garsoorka Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/26/khilaaf-ka-dhex-taagan-hayadaha-garsoorka-puntland/",
+      "published_date": "2026-05-26T07:06:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hundreds of Banaadir Youth Hold Peaceful “Voice of the Capital” Demonstration in Mogadishu",
@@ -561,62 +624,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/president-hassan-sheikh-meets-somali-civil-society-leaders-on-democratization-and-state-building/",
       "published_date": "2026-05-25T11:49:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Human Rights Commission Holds Talks with Judiciary Leaders on Rule of Law and Human Rights Protection",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-human-rights-commission-holds-talks-with-judiciary-leaders-on-rule-of-law-and-human-rights-protection/",
-      "published_date": "2026-05-25T11:45:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cattle market empties as fear grips Eid preparations in India’s West Bengal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/cattle-market-empties-as-fear-grips-eid-preparations-in-indias-west-bengal?traffic_source=rss",
-      "published_date": "2026-05-25T11:23:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mogadishu Mayor Inaugurates Renovated Shangani District Headquarters",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/mogadishu-mayor-inaugurates-renovated-shangani-district-headquarters/",
-      "published_date": "2026-05-25T09:31:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mogadishu mayor criticizes Puntland leader over planned protests in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mogadishu-mayor-criticizes-puntland-leader-over-planned-protests-in-mogadishu/",
-      "published_date": "2026-05-25T09:20:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo amar dul-dhigtay reer miyiga iyo xijiyaysatada Calmiskaad",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/25/puntland-oo-amar-dul-dhigtay-reer-miyiga-iyo-xijiyaysatada-calmiskaad/",
-      "published_date": "2026-05-25T07:37:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland backs UK over Falklands, warns London is losing vital African foothold to rivals",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-uk-falklands-losing-african-foothold/",
-      "published_date": "2026-05-25T05:27:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ecuador’s Noboa pledges to extradite criminals in State of the Union speech",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss",
-      "published_date": "2026-05-24T22:04:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal parliament speaker steps down as political crisis worsens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/senegal-parliament-speaker-steps-down-as-political-crisis-worsens?traffic_source=rss",
-      "published_date": "2026-05-24T20:43:21+00:00",
       "category": "Local Events"
     }
   ]
