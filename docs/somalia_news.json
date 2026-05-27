@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-27T14:31:00.557323+00:00",
+  "last_updated": "2026-05-27T23:58:46.023549+00:00",
   "story_count": 87,
   "stories": [
+    {
+      "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss",
+      "published_date": "2026-05-27T19:04:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada chooses Swedish early warning planes rather than US model",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model?traffic_source=rss",
+      "published_date": "2026-05-27T18:44:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What is the Lobito Corridor, cited by US Africa envoy as model for ties?",
       "source": "Al Jazeera",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AUSSOM Reaffirms Commitment to Somalia’s Peace and Stability on Africa Day",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/aussom-reaffirms-commitment-to-somalias-peace-and-stability-on-africa-day/",
-      "published_date": "2026-05-25T10:23:59+00:00",
-      "category": "Diplomacy"
+      "title": "Raid on Indian opposition leader triggers violence in Kerala",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/raid-on-indian-opposition-leader-triggers-violence-in-kerala?traffic_source=rss",
+      "published_date": "2026-05-27T20:00:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali deputy foreign minister meets new UNFPA representative",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-deputy-foreign-minister-meets-new-unfpa-representative/",
-      "published_date": "2026-05-25T09:30:02+00:00",
-      "category": "Diplomacy"
+      "title": "Family mourn ‘Hamas leader’ killed in Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
+      "published_date": "2026-05-27T14:48:09+00:00",
+      "category": "Military"
     },
     {
       "title": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Czech police detain Russian priest over ‘white substance’ find",
+      "title": "Can the US and India repair ties over trade and China?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/czech-police-detain-russian-priest-over-white-substance-find?traffic_source=rss",
-      "published_date": "2026-05-25T20:55:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
+      "published_date": "2026-05-27T20:15:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
+      "title": "Will the AI race fuel another boom or another bubble?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-pays-tribute-to-us-troops-killed-in-war-on-iran-on-memorial-day?traffic_source=rss",
-      "published_date": "2026-05-25T20:24:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
+      "published_date": "2026-05-27T17:05:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can the US and India repair ties over trade and China?",
@@ -326,18 +340,18 @@
       "category": "Energy"
     },
     {
-      "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
+      "title": "Markets rally amid hopes of US-Iran deal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
-      "published_date": "2026-05-20T17:18:12+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
+      "published_date": "2026-05-27T21:14:12+00:00",
+      "category": "Economy"
     },
     {
-      "title": "What is the Power of Siberia 2 pipeline that Russia, China are planning?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/20/what-is-the-power-of-siberia-2-pipeline-that-russia-china-are-planning?traffic_source=rss",
-      "published_date": "2026-05-20T15:30:43+00:00",
-      "category": "Energy"
+      "title": "Somali Finance Minister Highlights Reform Gains at AfDB Meetings in Congo",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-finance-minister-highlights-reform-gains-at-afdb-meetings-in-congo/",
+      "published_date": "2026-05-27T16:58:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
@@ -459,18 +473,32 @@
       "category": "Economy"
     },
     {
-      "title": "Bolivian president to reshuffle cabinet amid antigovernment protests",
+      "title": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
-      "published_date": "2026-05-20T21:07:38+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss",
+      "published_date": "2026-05-27T23:24:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Meta cuts 8,000 jobs in sweeping global layoffs",
+      "title": "Sadaq John Warns Villa Somalia as Galmudug Tensions Deepen",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/28/sadaq-john-warns-villa-somalia-as-galmudug-tensions-deepen/",
+      "published_date": "2026-05-27T21:07:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alabama pushes US Supreme Court to approve congressional map for midterms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/20/meta-cuts-8000-jobs-in-sweeping-global-layoffs?traffic_source=rss",
-      "published_date": "2026-05-20T17:44:37+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms?traffic_source=rss",
+      "published_date": "2026-05-27T20:40:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Irro Calls on Somalia and Djibouti to Respect Somaliland’s Independence during Eid al-Adha celebrations",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/president-irro-calls-on-somalia-and-djibouti-to-respect-somalilands-independence-during-eid-al-adha-celebrations/",
+      "published_date": "2026-05-27T18:42:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Senegal became genuine World Cup 2026 contenders – at a cost",
@@ -484,6 +512,13 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/05/27/qoorqoor-oo-ka-horyimid-qorshaha-villa-somalia-ee-doorashooyinka/",
       "published_date": "2026-05-27T09:45:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Somali President Extends Eid al-Adha Greetings, Warns Against Illegal Detentions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-president-extends-eid-al-adha-greetings-warns-against-illegal-detentions/",
+      "published_date": "2026-05-27T08:02:26+00:00",
       "category": "Local Events"
     },
     {
@@ -575,41 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/26/i-was-actually-depressed-france-tries-to-deport-immigrant-students?traffic_source=rss",
       "published_date": "2026-05-26T10:17:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Youth rally in Mogadishu backs government and stability amid political tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/youth-rally-in-mogadishu-backs-government-and-stability-amid-political-tensions/",
-      "published_date": "2026-05-26T09:39:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Electoral Commission Announces 92 Southwest State Lawmakers, Sets Presidential Election for June 10",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-electoral-commission-announces-92-southwest-state-lawmakers-sets-presidential-election-for-june-10/",
-      "published_date": "2026-05-26T08:20:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khilaaf ka dhex taagan hay’adaha garsoorka Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/26/khilaaf-ka-dhex-taagan-hayadaha-garsoorka-puntland/",
-      "published_date": "2026-05-26T07:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of Banaadir Youth Hold Peaceful “Voice of the Capital” Demonstration in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/hundreds-of-banaadir-youth-hold-peaceful-voice-of-the-capital-demonstration-in-mogadishu/",
-      "published_date": "2026-05-25T20:29:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-Scottish National Party chief pleads guilty to embezzling funds",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/ex-scottish-national-party-chief-pleads-guilty-to-embezzling-funds?traffic_source=rss",
-      "published_date": "2026-05-25T20:07:52+00:00",
       "category": "Local Events"
     }
   ]
