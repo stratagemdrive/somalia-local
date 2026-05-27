@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-26T13:58:05.510868+00:00",
-  "story_count": 89,
+  "last_updated": "2026-05-27T00:01:24.763838+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Climber carries kite with Palestinian children’s dreams to Everest summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/climber-carries-kite-with-palestinian-childrens-dreams-to-everest-summit?traffic_source=rss",
+      "published_date": "2026-05-26T20:59:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
+      "published_date": "2026-05-26T20:22:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Did Trump oversell a broken Iran ceasefire deal?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
+      "published_date": "2026-05-26T19:50:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali President Extends Eid al-Adha Greetings, Praises Security Forces",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-extends-eid-al-adha-greetings-praises-security-forces/",
+      "published_date": "2026-05-26T19:20:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia slams US for not granting visa to diplomat for UN meeting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss",
+      "published_date": "2026-05-26T18:54:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Hassan Sheikh Extends Eid al-Adha Greetings to Somali People",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-extends-eid-al-adha-greetings-to-somali-people/",
+      "published_date": "2026-05-26T18:38:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Mali crisis could have a dangerous spillover effect",
       "source": "Al Jazeera",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia welcomes Muslim nations’ condemnation of Somaliland Jerusalem embassy plan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-welcomes-muslim-nations-condemnation-of-somaliland-jerusalem-embassy-plan/",
-      "published_date": "2026-05-24T13:33:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Temporarily Suspends Travel to Egypt Under “OK-to-Board” Authorization",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-temporarily-suspends-travel-to-egypt-under-ok-to-board-authorization/",
-      "published_date": "2026-05-24T11:26:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Embassy in China Hosts African Day Celebration in Beijing",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-embassy-in-china-hosts-african-day-celebration-in-beijing/",
-      "published_date": "2026-05-24T11:10:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Joint Statement Condemning Illegal “Somaliland” Embassy Opening in Occupied Jerusalem",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/joint-statement-condemning-illegal-somaliland-embassy-opening-in-occupied-jerusalem/",
-      "published_date": "2026-05-24T10:31:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia: US begins direct engagement with regional states",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-regions/",
-      "published_date": "2026-05-24T08:21:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“They don’t like each other:” Is Russia and Iran’s alliance falling apart?",
+      "title": "Four people killed after minibus collides with train in Belgium",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss",
-      "published_date": "2026-05-24T08:10:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss",
+      "published_date": "2026-05-26T21:02:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US picks potential partners for using Cold War-era plutonium as fuel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
+      "published_date": "2026-05-26T20:33:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hajj pilgrims gather at Mount Arafat under scorching desert sun",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/5/26/hajj-pilgrims-gather-at-mount-arafat-under-scorching-desert-sun?traffic_source=rss",
+      "published_date": "2026-05-26T15:08:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Axmed Madoobe oo lacago ka bixiyay maxabiis ku xirnayd Kismaayo",
@@ -260,27 +281,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/banaadir-police-commander-warns-against-attempts-to-destabilize-mogadishu-security/",
       "published_date": "2026-05-25T18:48:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Condemns Terrorist Attack in Pakistan and Expresses Solidarity with the Pakistani People",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-condemns-terrorist-attack-in-pakistan-and-expresses-solidarity-with-the-pakistani-people/",
-      "published_date": "2026-05-25T18:46:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes?traffic_source=rss",
-      "published_date": "2026-05-25T16:12:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Train bomb in Pakistan’s Baloch region: Why violence is on the rise",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/train-bomb-in-pakistans-baloch-region-why-violence-is-on-the-rise?traffic_source=rss",
-      "published_date": "2026-05-25T15:43:21+00:00",
       "category": "Military"
     },
     {
@@ -480,11 +480,53 @@
       "category": "Economy"
     },
     {
-      "title": "Thousands of protesters demand president’s resignation in Bolivia’s La Paz",
+      "title": "Chemical tank rupture kills multiple people in US state of Washington",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/19/thousands-of-protesters-demand-presidents-resignation-in-bolivias-la-paz?traffic_source=rss",
-      "published_date": "2026-05-19T21:29:27+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington?traffic_source=rss",
+      "published_date": "2026-05-26T22:15:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
+      "published_date": "2026-05-26T20:33:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
+      "published_date": "2026-05-26T19:47:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Human Rights Commission, Raoul Wallenberg Institute Sign Key Cooperation Agreement",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-human-rights-commission-raoul-wallenberg-institute-sign-key-cooperation-agreement/",
+      "published_date": "2026-05-26T18:32:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia signs strategic partnership deal with US as election approaches",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss",
+      "published_date": "2026-05-26T17:27:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albert Manifold ousted as BP chair over governance and conduct concerns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/26/albert-manifold-ousted-as-bp-chair-over-governance-and-conduct-concerns?traffic_source=rss",
+      "published_date": "2026-05-26T16:19:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scotland fans book 20 school buses for games at ‘inaccessible’ US World Cup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/26/scotland-fans-book-school-bus-for-matches-at-inaccessible-world-cup?traffic_source=rss",
+      "published_date": "2026-05-26T16:02:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia’s Human Rights Commission Calls for Protection of Civilians After Reported Killings",
@@ -575,55 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/25/tunisian-court-hands-presidential-critic-sonia-dahmani-new-jail-term?traffic_source=rss",
       "published_date": "2026-05-25T17:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Holds Consultative Meeting with Somali Poets on National Awareness and Cultural Revival",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-holds-consultative-meeting-with-somali-poets-on-national-awareness-and-cultural-revival/",
-      "published_date": "2026-05-25T16:02:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Supreme Court Ratifies Final South West State Election Results",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalias-supreme-court-ratifies-final-south-west-state-election-results/",
-      "published_date": "2026-05-25T16:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garoowe oo qaaday koobka magaalo madaxyada gobollada Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/25/garoowe-oo-qaaday-koobka-magaalo-madaxyada-gobollada-puntland/",
-      "published_date": "2026-05-25T15:13:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Supreme Court Formally Certifies South West State Local Council and Legislative Election Results",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalias-supreme-court-formally-certifies-south-west-state-local-council-and-legislative-election-results/",
-      "published_date": "2026-05-25T15:12:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Mohamud Rallies Somali Poets to Spearhead National Awareness and State-Building Campaign",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-rallies-somali-poets-to-spearhead-national-awareness-and-state-building-campaign/",
-      "published_date": "2026-05-25T15:03:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali president meets civil society leaders over democracy and state-building",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-meets-civil-society-leaders-over-democracy-and-state-building/",
-      "published_date": "2026-05-25T13:42:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Meets Somali Civil Society Leaders on Democratization and State-Building",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-meets-somali-civil-society-leaders-on-democratization-and-state-building/",
-      "published_date": "2026-05-25T11:49:56+00:00",
       "category": "Local Events"
     }
   ]
