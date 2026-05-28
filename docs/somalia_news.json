@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-27T23:58:46.023549+00:00",
-  "story_count": 87,
+  "last_updated": "2026-05-28T14:40:01.200645+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Hottest year on record almost certain to occur by end of 2030, UN warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/hottest-year-in-history-almost-certain-to-occur-by-end-of-2030-un-warns?traffic_source=rss",
+      "published_date": "2026-05-28T12:43:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany’s Voeller urges players to avoid political statements at World Cup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/germany-urge-players-to-avoid-political-statements-at-world-cup?traffic_source=rss",
+      "published_date": "2026-05-28T09:44:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
       "source": "Al Jazeera",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China’s Xi praises ‘unbreakable’ Pakistan ties as Sharif visits Beijing",
+      "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/chinas-xi-praises-unbreakable-pakistan-ties-as-sharif-visits-beijing?traffic_source=rss",
-      "published_date": "2026-05-25T11:23:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
+      "published_date": "2026-05-28T12:54:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Launches National Coordination Meeting on Ebola Preparedness",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-launches-national-coordination-meeting-on-ebola-preparedness/",
-      "published_date": "2026-05-25T11:15:31+00:00",
-      "category": "Diplomacy"
+      "title": "For Gaza, Eid joy is now a form of resistance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
+      "published_date": "2026-05-28T11:18:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ireland football coach urges players to ‘win this war’ against Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
+      "published_date": "2026-05-28T10:42:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says it has a new air defence system. How significant is it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
+      "published_date": "2026-05-28T09:56:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Children with Down syndrome struggle with devastation of war in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/children-with-down-syndrome-struggle-with-devastation-of-war-in-gaza-2?traffic_source=rss",
+      "published_date": "2026-05-28T09:35:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attack on Gaza City kills at least 10, including four children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/israeli-attack-on-gaza-city-kills-at-least-10-including-four-children?traffic_source=rss",
+      "published_date": "2026-05-28T09:10:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Raid on Indian opposition leader triggers violence in Kerala",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Guddiga Madaxa-bannaan ee Xuquuqul Insaanka Oo walaac ka muujiyey Dhacdo  Ka Dhacday Jubbada Hoose",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddiga-madaxa-bannaan-ee-xuquuqul-insaanka-oo-walaac-ka-muujiyey-dhacdo-ka-dhacday-jubbada-hoose/",
-      "published_date": "2026-05-26T10:15:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anticipation in Iran as talks with US continue amid attacks, war of words",
+      "title": "Italy seizes $232m in Mafia assets tied to Cosa Nostra",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/anticipation-in-iran-as-talks-with-us-continue-amid-attacks-war-of-words?traffic_source=rss",
-      "published_date": "2026-05-26T10:08:28+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/28/italy-seizes-232m-in-mafia-assets-tied-to-cosa-nostra?traffic_source=rss",
+      "published_date": "2026-05-28T13:20:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Somali army launches training for new Danab commandos in Balidogle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-launches-training-for-new-danab-commandos-in-balidogle/",
-      "published_date": "2026-05-26T09:43:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali security minister warns against criticism of national forces amid political tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-security-minister-warns-against-criticism-of-national-forces-amid-political-tensions/",
-      "published_date": "2026-05-26T09:42:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Banaadir police chief warns opposition against actions threatening Mogadishu security",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/banaadir-police-chief-warns-opposition-against-actions-threatening-mogadishu-security/",
-      "published_date": "2026-05-26T09:37:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidamada Dawladda Sudan Oo Guulo Ka Sheegtay Dagaallo Ka Dhacay Agagaarka Xadka Itoobiya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-dawladda-sudan-oo-guulo-ka-sheegtay-dagaallo-ka-dhacay-agagaarka-xadka-itoobiya/",
-      "published_date": "2026-05-26T06:40:18+00:00",
-      "category": "Military"
+      "title": "China’s secret weapon in AI race with US? Lots of cheap energy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/28/chinas-secret-weapon-in-ai-race-with-us-lots-of-cheap-energy?traffic_source=rss",
+      "published_date": "2026-05-28T09:15:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can the US and India repair ties over trade and China?",
@@ -333,11 +347,11 @@
       "category": "Energy"
     },
     {
-      "title": "Flooding in southern China washes away cars and destroys bridge",
+      "title": "The West Bank’s Youth Unemployment Crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flooding-in-southern-china-washes-away-cars-and-destroys-bridge?traffic_source=rss",
-      "published_date": "2026-05-21T09:36:53+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/the-west-banks-youth-unemployment-crisis?traffic_source=rss",
+      "published_date": "2026-05-28T10:51:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Markets rally amid hopes of US-Iran deal",
@@ -452,25 +466,53 @@
       "category": "Economy"
     },
     {
-      "title": "Activists take part in a land convoy from Libya to bring aid to Gaza",
+      "title": "South African president to face impeachment probe over ‘Farmgate’ scandal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/activists-take-part-in-a-land-convoy-from-libya-to-bring-aid-to-gaza?traffic_source=rss",
-      "published_date": "2026-05-21T13:40:23+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/28/south-african-president-to-face-impeachment-probe-over-farmgate-scandal?traffic_source=rss",
+      "published_date": "2026-05-28T13:57:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Israel begins deporting Gaza aid flotilla activists amid global outcry",
+      "title": "The kingmakers of Makerfield: English town braces for crucial by-election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/israel-begins-deporting-gaza-aid-flotilla-activists-amid-global-outcry?traffic_source=rss",
-      "published_date": "2026-05-21T12:12:32+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/28/the-kingmakers-of-makerfield-english-town-braces-for-crucial-by-election?traffic_source=rss",
+      "published_date": "2026-05-28T12:52:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia’s Submarine Fiber Networks Ready to Power a Unified East African Marketplace",
+      "title": "Tensions Rise in Galmudug as Somali Leaders Dispute Regional Election Process",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/tensions-rise-in-galmudug-as-somali-leaders-dispute-regional-election-process/",
+      "published_date": "2026-05-28T11:36:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentina’s ‘El Loco’ faces Uruguay mutiny ahead of World Cup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/former-chelsea-boss-biesla-facing-world-cup-mutiny-with-uruguay?traffic_source=rss",
+      "published_date": "2026-05-28T10:20:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xiisad siyaasadeed iyo mid ciidan oo laga soo sheegayo Dhuusamareeb",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/xiisad-siyaasadeed-iyo-mid-ciidan-oo-laga-soo-sheegayo-dhuusamareeb/",
+      "published_date": "2026-05-28T09:50:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 16 students killed in fire at Kenya girls school dorm",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/at-least-16-students-killed-in-fire-at-kenya-girls-school-dorm?traffic_source=rss",
+      "published_date": "2026-05-28T09:44:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal Government Enforces Security Mandate, Rules Out Return to Indirect Electoral Systems",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalias-submarine-fiber-networks-ready-to-power-a-unified-east-african-marketplace/",
-      "published_date": "2026-05-21T09:06:00+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/federal-government-enforces-security-mandate-rules-out-return-to-indirect-electoral-systems/",
+      "published_date": "2026-05-28T06:40:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
@@ -561,55 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss",
       "published_date": "2026-05-26T17:27:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albert Manifold ousted as BP chair over governance and conduct concerns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/26/albert-manifold-ousted-as-bp-chair-over-governance-and-conduct-concerns?traffic_source=rss",
-      "published_date": "2026-05-26T16:19:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scotland fans book 20 school buses for games at ‘inaccessible’ US World Cup",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/26/scotland-fans-book-school-bus-for-matches-at-inaccessible-world-cup?traffic_source=rss",
-      "published_date": "2026-05-26T16:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Human Rights Commission Calls for Protection of Civilians After Reported Killings",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalias-human-rights-commission-calls-for-protection-of-civilians-after-reported-killings/",
-      "published_date": "2026-05-26T13:19:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Report warns pro-Palestine protesters face legal crackdown: What to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/report-warns-pro-palestine-protesters-face-legal-crackdown-what-to-know?traffic_source=rss",
-      "published_date": "2026-05-26T13:18:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal lawmakers elect ousted PM Sonko as new parliament speaker",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/senegal-lawmakers-elect-ousted-pm-sonko-as-new-parliament-speaker?traffic_source=rss",
-      "published_date": "2026-05-26T12:44:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Faces Rising Ebola Threat as US Imposes Temporary Travel Restrictions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-faces-rising-ebola-threat-as-us-imposes-temporary-travel-restrictions/",
-      "published_date": "2026-05-26T10:36:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I was actually depressed’: France tries to deport immigrant students",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/i-was-actually-depressed-france-tries-to-deport-immigrant-students?traffic_source=rss",
-      "published_date": "2026-05-26T10:17:43+00:00",
       "category": "Local Events"
     }
   ]
