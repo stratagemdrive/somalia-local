@@ -1,8 +1,78 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-29T00:08:37.152279+00:00",
-  "story_count": 89,
+  "last_updated": "2026-05-29T14:11:32.055033+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Somali police arrest youths accused of planning illegal migration through Kenya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-police-arrest-youths-accused-of-planning-illegal-migration-through-kenya/",
+      "published_date": "2026-05-29T12:34:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU urges Somali leaders to resume talks on elections amid political tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/eu-urges-somali-leaders-to-resume-talks-on-elections-amid-political-tensions/",
+      "published_date": "2026-05-29T12:29:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN urges ‘urgent’ action to protect children online",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/un-urges-urgent-action-to-protect-children-online?traffic_source=rss",
+      "published_date": "2026-05-29T12:12:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French prosecutors to probe Israeli treatment of flotilla activists",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/french-prosecutors-to-probe-israeli-treatment-of-flotilla-activists?traffic_source=rss",
+      "published_date": "2026-05-29T12:00:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran 60-day proposal: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
+      "published_date": "2026-05-29T10:23:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenyan court suspends US Ebola quarantine facility plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan?traffic_source=rss",
+      "published_date": "2026-05-29T10:12:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A visual guide to Ethiopia’s ethnic groups and conflict areas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/a-visual-guide-to-ethiopias-ethnic-groups-and-conflict-areas?traffic_source=rss",
+      "published_date": "2026-05-29T09:18:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/29/israel-football-dispute-to-heat-up-further-from-ireland-qatar-protests?traffic_source=rss",
+      "published_date": "2026-05-29T07:39:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
+      "published_date": "2026-05-29T07:22:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya oo Mareykanka u Oggolaatay Furashada Xarun Karantiil oo Loogu Talagalay Dadka uu Ebola Ku Dhaco",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenya-oo-mareykanka-u-oggolaatay-furashada-xarun-karantiil-oo-loogu-talagalay-dadka-uu-ebola-ku-dhaco/",
+      "published_date": "2026-05-29T06:15:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
       "source": "Al Jazeera",
@@ -74,74 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Christian Pulisic, Tyler Adams headline US World Cup squad",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/27/pulisic-and-adams-lead-us-26-man-world-cup-squad?traffic_source=rss",
-      "published_date": "2026-05-27T09:52:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Madaxweynaha Soomaaliya oo Salaadda Ciidda Carafo kumaan shacabka kula tukaday Muqdisho",
+      "title": "Madaxweynaha Jubaland oo booqday ciidamada Daraawiishta, kuna dhawaaqay howl-gallo cusub oo ka dhan ah Al-Shabaab",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynaha-soomaaliya-oo-salaadda-ciidda-carafo-kula-tukaday-shacabka/",
-      "published_date": "2026-05-27T07:38:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/madaxweynaha-jubaland-oo-booqday-ciidamada-daraawiishta-kuna-dhawaaqay-howl-gallo-cusub-oo-ka-dhan-ah-al-shabaab/",
+      "published_date": "2026-05-29T14:03:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Leaders Join Worshippers for Eid al-Adha Prayers, Call for Unity and Solidarity",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-leaders-join-worshippers-for-eid-al-adha-prayers-call-for-unity-and-solidarity/",
-      "published_date": "2026-05-27T07:29:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Climber carries kite with Palestinian children’s dreams to Everest summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/climber-carries-kite-with-palestinian-childrens-dreams-to-everest-summit?traffic_source=rss",
-      "published_date": "2026-05-26T20:59:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
-      "published_date": "2026-05-26T20:22:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Did Trump oversell a broken Iran ceasefire deal?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
-      "published_date": "2026-05-26T19:50:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali President Extends Eid al-Adha Greetings, Praises Security Forces",
+      "title": "WHO chief heads to Congo as Ebola outbreak spreads and deaths rise",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-extends-eid-al-adha-greetings-praises-security-forces/",
-      "published_date": "2026-05-26T19:20:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/who-chief-heads-to-congo-as-ebola-outbreak-spreads-and-deaths-rise/",
+      "published_date": "2026-05-29T12:32:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia slams US for not granting visa to diplomat for UN meeting",
+      "title": "NATO states slam Russia after drone crashes in Romania",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss",
-      "published_date": "2026-05-26T18:54:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss",
+      "published_date": "2026-05-29T07:50:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "President Hassan Sheikh Extends Eid al-Adha Greetings to Somali People",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-extends-eid-al-adha-greetings-to-somali-people/",
-      "published_date": "2026-05-26T18:38:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Mali crisis could have a dangerous spillover effect",
+      "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/26/the-mali-crisis-could-have-a-dangerous-spillover-effect?traffic_source=rss",
-      "published_date": "2026-05-26T11:05:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss",
+      "published_date": "2026-05-29T07:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "State of trauma: Israel wrestles with mental aftershocks of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war?traffic_source=rss",
+      "published_date": "2026-05-29T06:39:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Tense protests erupt outside Delaney Hall immigrant detention centre in US",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Raid on Indian opposition leader triggers violence in Kerala",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/raid-on-indian-opposition-leader-triggers-violence-in-kerala?traffic_source=rss",
-      "published_date": "2026-05-27T20:00:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Family mourn ‘Hamas leader’ killed in Israeli attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
-      "published_date": "2026-05-27T14:48:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss",
-      "published_date": "2026-05-27T13:24:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
-      "published_date": "2026-05-27T13:05:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four civilians killed in northeastern Somalia airstrike as civilian toll rises from protracted air war",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-strike-qandala/",
-      "published_date": "2026-05-27T12:25:39+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Italy seizes $232m in Mafia assets tied to Cosa Nostra",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/28/italy-seizes-232m-in-mafia-assets-tied-to-cosa-nostra?traffic_source=rss",
@@ -333,23 +333,16 @@
       "category": "Energy"
     },
     {
-      "title": "India is being left to die in the heat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/22/india-is-being-left-to-die-in-the-heat?traffic_source=rss",
-      "published_date": "2026-05-22T12:19:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss",
-      "published_date": "2026-05-22T11:11:11+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "SOMALI FINANCE MINISTER ENGAGES AFRICAN DEVELOPMENT BANK PRESIDENT IN BRAZZAVILLE TO ACCELERATE ECONOMIC REFORMS AND INVESTMENT INFLOWS",
       "source": "SONNA",
       "url": "https://sonna.so/en/somali-finance-minister-engages-african-development-bank-president-in-brazzaville-to-accelerate-economic-reforms-and-investment-inflows/",
+      "published_date": "2026-05-28T23:09:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somali Finance Minister Engages AFDB To Accelerate Economic Reforms and Investment Inflows",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-finance-minister-engages-afdb-to-accelerate-economic-reforms-and-investment-inflows/",
       "published_date": "2026-05-28T23:09:34+00:00",
       "category": "Economy"
     },
@@ -473,18 +466,39 @@
       "category": "Economy"
     },
     {
-      "title": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
+      "title": "Harvard Medical School graduate dedicates speech to Lebanon and Palestine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/russia-falters-in-ukraine?traffic_source=rss",
-      "published_date": "2026-05-22T12:46:27+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/harvard-medical-school-graduate-dedicates-speech-to-lebanon-and-palestine?traffic_source=rss",
+      "published_date": "2026-05-29T13:06:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia and Turkey agree to boost cooperation in infrastructure and housing development",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-turkey-agree-to-boost-cooperation-in-infrastructure-and-housing-development/",
-      "published_date": "2026-05-22T12:24:49+00:00",
-      "category": "Economy"
+      "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss",
+      "published_date": "2026-05-29T10:37:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO chief visits DRC amidst Ebola crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
+      "published_date": "2026-05-29T10:24:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How the end of the nuclear file could reshape Iran, and the region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/29/how-the-end-of-the-nuclear-file-could-reshape-iran-and-the-region?traffic_source=rss",
+      "published_date": "2026-05-29T10:05:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PROPOSED US-KENYA EBOLA QUARANTINE PROTOCOL TRIGGERS REGIONAL BIOSECURITY ALARMS FOR SOMALIA",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/proposed-us-kenya-ebola-quarantine-protocol-triggers-regional-biosecurity-alarms-for-somalia/",
+      "published_date": "2026-05-29T09:28:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Fabricated Antisemitism Smear Against Somalia President",
@@ -589,41 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/5/27/how-senegal-became-genuine-world-cup-2026-contenders-at-a-cost?traffic_source=rss",
       "published_date": "2026-05-27T11:18:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qoorqoor oo ka horyimid qorshaha Villa Somalia ee doorashooyinka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/27/qoorqoor-oo-ka-horyimid-qorshaha-villa-somalia-ee-doorashooyinka/",
-      "published_date": "2026-05-27T09:45:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Somali President Extends Eid al-Adha Greetings, Warns Against Illegal Detentions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-president-extends-eid-al-adha-greetings-warns-against-illegal-detentions/",
-      "published_date": "2026-05-27T08:02:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shariif Sheekh Axmed oo shacabka ugu hambalyeeyey munaasabadda Ciidda Carafo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/shariif-sheekh-axmed-oo-shacabka-ugu-hambalyeeyey-munaasabadda-ciidda-carafo/",
-      "published_date": "2026-05-27T06:25:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chemical tank rupture kills multiple people in US state of Washington",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington?traffic_source=rss",
-      "published_date": "2026-05-26T22:15:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
-      "published_date": "2026-05-26T20:33:10+00:00",
       "category": "Local Events"
     }
   ]
