@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-28T14:40:01.200645+00:00",
-  "story_count": 86,
+  "last_updated": "2026-05-29T00:08:37.152279+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
+      "published_date": "2026-05-28T23:18:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ireland and Qatar halted twice by protests against upcoming Israel fixtures",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
+      "published_date": "2026-05-28T22:42:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-05-28T20:31:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
+      "published_date": "2026-05-28T17:16:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hottest year on record almost certain to occur by end of 2030, UN warns",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Chinese ambassador addresses Somali National University students on safeguarding sovereignty",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/chinese-ambassador-addresses-somali-national-university-students-on-safeguarding-sovereignty/",
-      "published_date": "2026-05-26T05:52:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Future Council Accuses Somali Government of Political Repression and Intimidation",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/future-council-accuses-somali-government-of-political-repression-and-intimidation/",
-      "published_date": "2026-05-26T02:55:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
+      "title": "Tense protests erupt outside Delaney Hall immigrant detention centre in US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss",
-      "published_date": "2026-05-25T20:49:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss",
+      "published_date": "2026-05-28T23:10:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Minister of Information Holds Fruitful Meeting with the Chinese Ambassador to Somalia",
+      "title": "Three wounded in Swiss train station stabbing labelled ‘act of terror’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/three-wounded-in-swiss-train-station-stabbing-labelled-act-of-terror?traffic_source=rss",
+      "published_date": "2026-05-28T20:00:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
+      "published_date": "2026-05-28T19:03:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
+      "published_date": "2026-05-28T18:36:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How War Changed Eid in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/how-war-changed-eid-in-lebanon?traffic_source=rss",
+      "published_date": "2026-05-28T17:40:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Smoke rises over Beirut after Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss",
+      "published_date": "2026-05-28T16:42:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Infantry Commander Hosts Italian Military Delegation to Advance Defense Cooperation",
       "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-information-holds-fruitful-meeting-with-the-chinese-ambassador-to-somalia/",
-      "published_date": "2026-05-25T13:13:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/somali-infantry-commander-hosts-italian-military-delegation-to-advance-defense-cooperation/",
+      "published_date": "2026-05-28T14:50:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Commander Meets Italian Delegation to Boost Military Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-commander-meets-italian-delegation-to-boost-military-cooperation/",
+      "published_date": "2026-05-28T14:20:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taliyaha Ciidanka Dhulka XDS oo Muqdisho ku qaabilay wafdi ka socda Dowladda Talyaaniga",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-xds-oo-muqdisho-ku-qaabilay-wafdi-ka-socda-dowladda-talyaaniga/",
+      "published_date": "2026-05-28T14:15:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
@@ -221,69 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Spain police enter PM Sanchez’s Socialist Party HQ in corruption probe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/27/spain-police-enter-pm-sanchezs-socialist-party-hq-in-corruption-probe?traffic_source=rss",
-      "published_date": "2026-05-27T12:06:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strike on alleged drug boat in Pacific kills one",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/27/us-strike-on-alleged-drug-boat-in-pacific-kills-one?traffic_source=rss",
-      "published_date": "2026-05-27T10:12:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four people killed after minibus collides with train in Belgium",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss",
-      "published_date": "2026-05-26T21:02:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US picks potential partners for using Cold War-era plutonium as fuel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
-      "published_date": "2026-05-26T20:33:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hajj pilgrims gather at Mount Arafat under scorching desert sun",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/26/hajj-pilgrims-gather-at-mount-arafat-under-scorching-desert-sun?traffic_source=rss",
-      "published_date": "2026-05-26T15:08:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Axmed Madoobe oo lacago ka bixiyay maxabiis ku xirnayd Kismaayo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/26/axmed-madoobe-oo-lacago-ka-bixiyay-maxabiis-ku-xirnayd-kismaayo/",
-      "published_date": "2026-05-26T13:46:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss",
-      "published_date": "2026-05-26T13:26:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air attacks kill seven Palestinians in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss",
-      "published_date": "2026-05-26T12:34:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Libyan forces detain Gaza land convoy activists at Sirte checkpoint",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/libyan-forces-detain-gaza-land-convoy-activists-at-sirte-checkpoint?traffic_source=rss",
-      "published_date": "2026-05-26T11:37:07+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Italy seizes $232m in Mafia assets tied to Cosa Nostra",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/28/italy-seizes-232m-in-mafia-assets-tied-to-cosa-nostra?traffic_source=rss",
@@ -345,6 +345,34 @@
       "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss",
       "published_date": "2026-05-22T11:11:11+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "SOMALI FINANCE MINISTER ENGAGES AFRICAN DEVELOPMENT BANK PRESIDENT IN BRAZZAVILLE TO ACCELERATE ECONOMIC REFORMS AND INVESTMENT INFLOWS",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-finance-minister-engages-african-development-bank-president-in-brazzaville-to-accelerate-economic-reforms-and-investment-inflows/",
+      "published_date": "2026-05-28T23:09:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Colombia’s first left-wing gov’t has reduced poverty, but has pile of debt",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/28/colombias-first-left-wing-govt-has-reduced-poverty-but-has-pile-of-debt?traffic_source=rss",
+      "published_date": "2026-05-28T21:56:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Finance Minister Meets AfDB President at Brazzaville Annual Meetings",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-finance-minister-meets-afdb-president-at-brazzaville-annual-meetings/",
+      "published_date": "2026-05-28T20:48:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US inflation surges to three-year high amid tensions with Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
+      "published_date": "2026-05-28T16:54:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "The West Bank’s Youth Unemployment Crisis",
@@ -459,11 +487,25 @@
       "category": "Economy"
     },
     {
-      "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
+      "title": "The Fabricated Antisemitism Smear Against Somalia President",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/29/the-fabricated-antisemitism-smear-against-somalia-president/",
+      "published_date": "2026-05-28T21:51:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia president, spy chief lock horns over flashpoint Galmudug vote",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-spy-chief-dispute/",
+      "published_date": "2026-05-28T18:43:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Latvia parliament approves new gov’t after drone dispute toppled coalition",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss",
-      "published_date": "2026-05-21T19:01:24+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/28/latvia-parliament-approves-new-govt-after-drone-dispute-toppled-coalition?traffic_source=rss",
+      "published_date": "2026-05-28T17:00:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South African president to face impeachment probe over ‘Farmgate’ scandal",
@@ -582,27 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
       "published_date": "2026-05-26T20:33:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
-      "published_date": "2026-05-26T19:47:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Human Rights Commission, Raoul Wallenberg Institute Sign Key Cooperation Agreement",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-human-rights-commission-raoul-wallenberg-institute-sign-key-cooperation-agreement/",
-      "published_date": "2026-05-26T18:32:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia signs strategic partnership deal with US as election approaches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss",
-      "published_date": "2026-05-26T17:27:32+00:00",
       "category": "Local Events"
     }
   ]
