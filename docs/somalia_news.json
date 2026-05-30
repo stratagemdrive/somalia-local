@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-30T12:06:57.608149+00:00",
-  "story_count": 88,
+  "last_updated": "2026-05-30T23:58:28.397178+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Iran and Houthis Threatened by US-Somaliland Alliance Over Red Sea Control, Fox News Reports",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/iran-and-houthis-threatened-by-us-somaliland-alliance-over-red-sea-control-fox-news-reports/",
+      "published_date": "2026-05-30T18:44:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar says temporary charges ‘negotiable’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss",
+      "published_date": "2026-05-30T18:42:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya oo Joojisay Munaasabad Lagu Xusayay 18-ka May oo Ka Dhici Lahayd Nairobi",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenya-oo-joojisay-munaasabad-lagu-xusayay-18-ka-may-oo-ka-dhici-lahayd-nairobi/",
+      "published_date": "2026-05-30T14:16:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya Halts Somaliland Independence Day Event in Nairobi – sources",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenya-halts-somaliland-independence-day-event-in-nairobi-sources/",
+      "published_date": "2026-05-30T14:13:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy",
       "source": "Al Jazeera",
@@ -116,32 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kenya oo Mareykanka u Oggolaatay Furashada Xarun Karantiil oo Loogu Talagalay Dadka uu Ebola Ku Dhaco",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenya-oo-mareykanka-u-oggolaatay-furashada-xarun-karantiil-oo-loogu-talagalay-dadka-uu-ebola-ku-dhaco/",
-      "published_date": "2026-05-29T06:15:31+00:00",
-      "category": "Diplomacy"
+      "title": "US Congress advances American-Israeli military integration plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
+      "published_date": "2026-05-30T22:28:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
+      "title": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
-      "published_date": "2026-05-28T23:18:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
+      "published_date": "2026-05-30T21:54:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ireland and Qatar halted twice by protests against upcoming Israel fixtures",
+      "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
-      "published_date": "2026-05-28T22:42:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
+      "published_date": "2026-05-30T21:36:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+      "title": "Is the war in Ukraine entering a new phase?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-05-28T20:31:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
+      "published_date": "2026-05-30T20:12:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
+      "published_date": "2026-05-30T19:48:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "22 killed as truck carrying refugees overturns in Afghanistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss",
+      "published_date": "2026-05-30T18:06:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "SNA and EUTM-Somalia Launch Second Basic Officers Course at General Dhagabadan Training Centre",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/sna-and-eutm-somalia-launch-second-basic-officers-course-at-general-dhagabadan-training-centre/",
+      "published_date": "2026-05-30T17:34:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
+      "published_date": "2026-05-30T17:04:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/liverpool-sack-arne-slot-after-disastrous-premier-league-title-defence?traffic_source=rss",
+      "published_date": "2026-05-30T17:01:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
+      "published_date": "2026-05-30T16:44:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
+      "published_date": "2026-05-30T13:50:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Holds Emergency Security Talks After Clashes in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-army-holds-emergency-security-talks-after-clashes-in-baidoa/",
+      "published_date": "2026-05-30T13:26:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Iran war is dividing Muslims in the Philippines",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
+      "published_date": "2026-05-30T12:49:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cuba Calls Guantanamo Talks with U.S. General ‘Positive’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/cuba-calls-guantanamo-talks-with-u-s-general-positive?traffic_source=rss",
+      "published_date": "2026-05-30T12:49:12+00:00",
+      "category": "Military"
     },
     {
       "title": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
@@ -183,104 +281,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/somalia-seeks-closer-defense-partnership-with-russia-during-official-visit/",
       "published_date": "2026-05-30T08:38:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
-      "published_date": "2026-05-30T07:30:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Donates $2.3 Million in Military Equipment to Niger to Support Counterterrorism Efforts",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-donates-2-3-million-in-military-equipment-to-niger-to-support-counterterrorism-efforts/",
-      "published_date": "2026-05-30T05:56:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Claims Seizure of Weapons, Military Vehicles After Clashes in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-claims-seizure-of-weapons-military-vehicles-after-clashes-in-baidoa/",
-      "published_date": "2026-05-30T05:53:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Xoogga Dalka oo Sheegay inay Hub iyo Gaadiid Dagaal ku Qabsadeen Dagaalkii Baydhabo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-xoogga-dalka-oo-sheegay-inay-hub-iyo-gaadiid-dagaal-ku-qabsadeen-dagaalkii-baydhabo/",
-      "published_date": "2026-05-30T05:51:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya oo Cambaaraysay Weerar Gantaallo ah oo Lala Beegsaday Kuwait",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-cambaaraysay-weerar-gantaallo-ah-oo-lala-beegsaday-kuwait/",
-      "published_date": "2026-05-30T05:38:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AFRICOM Confirms 63 Strikes in Somalia in 2026",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/africom-confirms-63-strikes-in-somalia-in-2026/",
-      "published_date": "2026-05-30T05:26:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AFRICOM oo Sheegtay Inay 63 Duqeyn Ka Fulisay Soomaaliya Sanadkan 2026",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/africom-oo-sheegtay-inay-63-duqeyn-ka-fulisay-soomaaliya-sanadkan-2026/",
-      "published_date": "2026-05-30T05:23:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Frustration in Lebanon as Israel expands invasion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
-      "published_date": "2026-05-30T04:36:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
-      "published_date": "2026-05-30T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ICE agent arrested over shooting of Venezuelan man in US immigration raid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss",
-      "published_date": "2026-05-29T22:52:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polish president threatens to strip Ukraine’s Zelenskyy of top state honour",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/polish-president-threatens-to-strip-ukraines-zelenskyy-of-top-state-honour?traffic_source=rss",
-      "published_date": "2026-05-29T20:56:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian rate of losses in Ukraine almost triples in one year",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
-      "published_date": "2026-05-29T18:28:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romania to expel Russian consul after residential drone strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/romania-to-expel-russian-consul-after-residential-drone-strike?traffic_source=rss",
-      "published_date": "2026-05-29T18:18:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli fighter jets strike village in south Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss",
-      "published_date": "2026-05-29T18:15:07+00:00",
       "category": "Military"
     },
     {
@@ -330,13 +330,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss",
       "published_date": "2026-05-24T21:53:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Erdogan sets 9-month deadline for Turkey’s historic Somalia oil drilling",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/erdogan-somalia-oil-drilling/",
-      "published_date": "2026-05-23T18:22:12+00:00",
       "category": "Energy"
     },
     {
@@ -480,6 +473,48 @@
       "category": "Economy"
     },
     {
+      "title": "Somalia: Laftagaren forces briefly seize Baidoa after gunfight with army",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-fighting/",
+      "published_date": "2026-05-30T20:58:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Speaker of the Federal Parliament Receives Comprehensive Security Briefing Following Successful Containment of Militia Disturbance in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/speaker-of-the-federal-parliament-receives-comprehensive-security-briefing-following-successful-containment-of-militia-disturbance-in-baidoa/",
+      "published_date": "2026-05-30T18:35:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NISA Chief and Former President Sheikh Sharif Hold Security Talks Ahead of the Planned June 4 Demonstrations.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/nisa-chief-and-former-president-sheikh-sharif-hold-security-talks-ahead-of-the-planned-june-4-demonstrations/",
+      "published_date": "2026-05-30T18:00:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voters in Malta head to polls for early elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections?traffic_source=rss",
+      "published_date": "2026-05-30T17:20:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
+      "published_date": "2026-05-30T16:21:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New South West State Lawmakers Sworn In Ahead of Regional Leadership Elections",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/new-south-west-state-lawmakers-sworn-in-ahead-of-regional-leadership-elections/",
+      "published_date": "2026-05-30T14:25:58+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "In ka badan 25 kun oo arday oo u fariistay Imtixaanka Shahaadiga ah ee Puntland",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/05/30/in-ka-badan-25-kun-oo-arday-oo-u-fariistay-imtixaanka-shahaadiga-ah-ee-puntland/",
@@ -575,48 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
       "published_date": "2026-05-29T10:24:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How the end of the nuclear file could reshape Iran, and the region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/29/how-the-end-of-the-nuclear-file-could-reshape-iran-and-the-region?traffic_source=rss",
-      "published_date": "2026-05-29T10:05:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PROPOSED US-KENYA EBOLA QUARANTINE PROTOCOL TRIGGERS REGIONAL BIOSECURITY ALARMS FOR SOMALIA",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/proposed-us-kenya-ebola-quarantine-protocol-triggers-regional-biosecurity-alarms-for-somalia/",
-      "published_date": "2026-05-29T09:28:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Fabricated Antisemitism Smear Against Somalia President",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/29/the-fabricated-antisemitism-smear-against-somalia-president/",
-      "published_date": "2026-05-28T21:51:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia president, spy chief lock horns over flashpoint Galmudug vote",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-spy-chief-dispute/",
-      "published_date": "2026-05-28T18:43:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latvia parliament approves new gov’t after drone dispute toppled coalition",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/latvia-parliament-approves-new-govt-after-drone-dispute-toppled-coalition?traffic_source=rss",
-      "published_date": "2026-05-28T17:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South African president to face impeachment probe over ‘Farmgate’ scandal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/south-african-president-to-face-impeachment-probe-over-farmgate-scandal?traffic_source=rss",
-      "published_date": "2026-05-28T13:57:49+00:00",
       "category": "Local Events"
     }
   ]
