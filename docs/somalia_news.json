@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-29T14:11:32.055033+00:00",
-  "story_count": 86,
+  "last_updated": "2026-05-30T00:07:17.702488+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "UN: “100% of Gaza” should be for Palestinians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/un-100-of-gaza-should-be-for-palestinians?traffic_source=rss",
+      "published_date": "2026-05-29T21:49:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/netanyahu-says-israeli-forces-have-crossed-lebanons-litani-river?traffic_source=rss",
+      "published_date": "2026-05-29T19:48:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
+      "published_date": "2026-05-29T19:13:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Shabaab claims Somalia political crisis proves US, EU pull strings in Mogadishu",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-somalia-political-crisis-foreign-rule/",
+      "published_date": "2026-05-29T17:40:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali police arrest youths accused of planning illegal migration through Kenya",
       "source": "Shabelle Media",
@@ -116,38 +144,59 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+      "title": "ICE agent arrested over shooting of Venezuelan man in US immigration raid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss",
-      "published_date": "2026-05-27T19:04:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss",
+      "published_date": "2026-05-29T22:52:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada chooses Swedish early warning planes rather than US model",
+      "title": "Polish president threatens to strip Ukraine’s Zelenskyy of top state honour",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model?traffic_source=rss",
-      "published_date": "2026-05-27T18:44:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/29/polish-president-threatens-to-strip-ukraines-zelenskyy-of-top-state-honour?traffic_source=rss",
+      "published_date": "2026-05-29T20:56:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "What is the Lobito Corridor, cited by US Africa envoy as model for ties?",
+      "title": "Russian rate of losses in Ukraine almost triples in one year",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/27/what-is-the-lobito-corridor-cited-by-us-africa-envoy-as-model-for-ties?traffic_source=rss",
-      "published_date": "2026-05-27T13:48:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
+      "published_date": "2026-05-29T18:28:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hakimi leads nine returning Morocco players from Qatar 2022 at World Cup",
+      "title": "Romania to expel Russian consul after residential drone strike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/27/hakimi-leads-nine-returning-morocco-players-from-qatar-2022-at-world-cup?traffic_source=rss",
-      "published_date": "2026-05-27T09:53:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/romania-to-expel-russian-consul-after-residential-drone-strike?traffic_source=rss",
+      "published_date": "2026-05-29T18:18:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli fighter jets strike village in south Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss",
+      "published_date": "2026-05-29T18:15:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks kill 14 in Lebanon as Pentagon hosts security talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river?traffic_source=rss",
+      "published_date": "2026-05-29T15:59:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Madaxweynaha Jubaland oo booqday ciidamada Daraawiishta, kuna dhawaaqay howl-gallo cusub oo ka dhan ah Al-Shabaab",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/madaxweynaha-jubaland-oo-booqday-ciidamada-daraawiishta-kuna-dhawaaqay-howl-gallo-cusub-oo-ka-dhan-ah-al-shabaab/",
       "published_date": "2026-05-29T14:03:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Axmed Madoobe oo ku dhawaaqay dagaal ka dhan ah Al-shabaab",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/05/29/axmed-madoobe-oo-ku-dhawaaqay-dagaal-ka-dhan-ah-al-shabaab/",
+      "published_date": "2026-05-29T13:35:22+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Taliyaha Ciidanka Dhulka XDS oo Muqdisho ku qaabilay wafdi ka socda Dowladda Talyaaniga",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-xds-oo-muqdisho-ku-qaabilay-wafdi-ka-socda-dowladda-talyaaniga/",
-      "published_date": "2026-05-28T14:15:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+      "title": "Will the AI race fuel another boom or another bubble?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
-      "published_date": "2026-05-28T12:54:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "For Gaza, Eid joy is now a form of resistance",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
-      "published_date": "2026-05-28T11:18:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ireland football coach urges players to ‘win this war’ against Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
-      "published_date": "2026-05-28T10:42:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it has a new air defence system. How significant is it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
-      "published_date": "2026-05-28T09:56:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Children with Down syndrome struggle with devastation of war in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/children-with-down-syndrome-struggle-with-devastation-of-war-in-gaza-2?traffic_source=rss",
-      "published_date": "2026-05-28T09:35:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack on Gaza City kills at least 10, including four children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/israeli-attack-on-gaza-city-kills-at-least-10-including-four-children?traffic_source=rss",
-      "published_date": "2026-05-28T09:10:33+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/29/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
+      "published_date": "2026-05-29T17:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Italy seizes $232m in Mafia assets tied to Cosa Nostra",
@@ -331,6 +338,13 @@
       "url": "https://www.somaliguardian.com/news/somalia-news/erdogan-somalia-oil-drilling/",
       "published_date": "2026-05-23T18:22:12+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Canada sidelined in USMCA renegotiations as domestic economy dips",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/29/canada-sidelined-in-usmca-renegotiations-as-domestic-economy-dips?traffic_source=rss",
+      "published_date": "2026-05-29T20:41:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "SOMALI FINANCE MINISTER ENGAGES AFRICAN DEVELOPMENT BANK PRESIDENT IN BRAZZAVILLE TO ACCELERATE ECONOMIC REFORMS AND INVESTMENT INFLOWS",
@@ -466,6 +480,34 @@
       "category": "Economy"
     },
     {
+      "title": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/trump-pledges-to-withdraw-from-kennedy-center-after-court-strikes-his-name?traffic_source=rss",
+      "published_date": "2026-05-29T23:41:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/arbitrary-measures-lula-slams-us-terror-designation-for-brazil-gangs?traffic_source=rss",
+      "published_date": "2026-05-29T21:54:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘A landmark’: Brazil’s prosecutors hail court ruling to preserve Fordlandia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/a-landmark-brazils-prosecutors-hail-court-ruling-to-preserve-fordlandia?traffic_source=rss",
+      "published_date": "2026-05-29T18:14:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight students arrested in deadly Kenyan school dorm fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/eight-students-arrested-in-deadly-kenyan-school-dorm-fire?traffic_source=rss",
+      "published_date": "2026-05-29T17:34:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Harvard Medical School graduate dedicates speech to Lebanon and Palestine",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/harvard-medical-school-graduate-dedicates-speech-to-lebanon-and-palestine?traffic_source=rss",
@@ -575,34 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss",
       "published_date": "2026-05-27T23:24:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sadaq John Warns Villa Somalia as Galmudug Tensions Deepen",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/28/sadaq-john-warns-villa-somalia-as-galmudug-tensions-deepen/",
-      "published_date": "2026-05-27T21:07:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alabama pushes US Supreme Court to approve congressional map for midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms?traffic_source=rss",
-      "published_date": "2026-05-27T20:40:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Irro Calls on Somalia and Djibouti to Respect Somaliland’s Independence during Eid al-Adha celebrations",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/president-irro-calls-on-somalia-and-djibouti-to-respect-somalilands-independence-during-eid-al-adha-celebrations/",
-      "published_date": "2026-05-27T18:42:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Senegal became genuine World Cup 2026 contenders – at a cost",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/27/how-senegal-became-genuine-world-cup-2026-contenders-at-a-cost?traffic_source=rss",
-      "published_date": "2026-05-27T11:18:38+00:00",
       "category": "Local Events"
     }
   ]
