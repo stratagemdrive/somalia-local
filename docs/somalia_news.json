@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-05-31T12:14:36.429754+00:00",
-  "story_count": 86,
+  "last_updated": "2026-06-01T00:03:35.846346+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Ethiopia to vote in first elections since Tigray peace deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
+      "published_date": "2026-05-31T20:57:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia recalls ambassador to Kenya after photo with Israeli envoy triggers diplomatic crisis",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-israel-somaliland-diplomatic-crisis-ambassador-kenya/",
+      "published_date": "2026-05-31T20:46:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
+      "published_date": "2026-05-31T20:28:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia’s election is about affirming national commitment to democracy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss",
+      "published_date": "2026-05-31T20:28:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What’s at stake in Ethiopia’s elections?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/31/whats-at-stake-in-ethiopias-elections?traffic_source=rss",
+      "published_date": "2026-05-31T19:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministry of Youth, UNDP officially sign dive year partnership agreement in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ministry-of-youth-undp-officially-sign-dive-year-partnership-agreement-in-mogadishu/",
+      "published_date": "2026-05-31T17:16:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia’s election: Parties, coalitions and candidates explained",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss",
+      "published_date": "2026-05-31T16:40:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The OIC Welcomes the Inclusion of the Israeli Occupation and its Entities in the UN Blacklist of Perpetrators of Sexual Violence in Conflict Zones",
       "source": "SONNA",
@@ -95,53 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
+      "title": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
-      "published_date": "2026-05-29T19:13:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
+      "published_date": "2026-05-31T20:12:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Al-Shabaab claims Somalia political crisis proves US, EU pull strings in Mogadishu",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-somalia-political-crisis-foreign-rule/",
-      "published_date": "2026-05-29T17:40:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali police arrest youths accused of planning illegal migration through Kenya",
+      "title": "Somali Army Kills Senior Al-Shabaab Commander in Lower Shabelle Operation",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-police-arrest-youths-accused-of-planning-illegal-migration-through-kenya/",
-      "published_date": "2026-05-29T12:34:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-army-kills-senior-al-shabaab-commander-in-lower-shabelle-operation/",
+      "published_date": "2026-05-31T20:04:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU urges Somali leaders to resume talks on elections amid political tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/eu-urges-somali-leaders-to-resume-talks-on-elections-amid-political-tensions/",
-      "published_date": "2026-05-29T12:29:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN urges ‘urgent’ action to protect children online",
+      "title": "US measure to deepen Israel military cooperation faces bipartisan pushback",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/un-urges-urgent-action-to-protect-children-online?traffic_source=rss",
-      "published_date": "2026-05-29T12:12:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
+      "published_date": "2026-05-31T18:52:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "French prosecutors to probe Israeli treatment of flotilla activists",
+      "title": "US Congress moves to deepen military ties with Israel: Why it matters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/french-prosecutors-to-probe-israeli-treatment-of-flotilla-activists?traffic_source=rss",
-      "published_date": "2026-05-29T12:00:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
+      "published_date": "2026-05-31T18:40:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "US-Iran 60-day proposal: What we know",
+      "title": "The largest Israeli advance into Lebanon in years",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
-      "published_date": "2026-05-29T10:23:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
+      "published_date": "2026-05-31T18:36:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dozens killed in explosives depot blast in northeast Myanmar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/dozens-killed-in-blast-at-explosives-depot-in-northeastern-myanmar?traffic_source=rss",
+      "published_date": "2026-05-31T17:42:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Juan Manuel Santos on Colombia’s peace process, 10 years on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/31/juan-manuel-santos-on-colombias-peace-process-10-years-on?traffic_source=rss",
+      "published_date": "2026-05-31T15:44:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Rio’s Forever War",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
+      "title": "Iran ⁠restores some gas production at South Pars facility",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
-      "published_date": "2026-05-30T19:48:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "22 killed as truck carrying refugees overturns in Afghanistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss",
-      "published_date": "2026-05-30T18:06:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SNA and EUTM-Somalia Launch Second Basic Officers Course at General Dhagabadan Training Centre",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sna-and-eutm-somalia-launch-second-basic-officers-course-at-general-dhagabadan-training-centre/",
-      "published_date": "2026-05-30T17:34:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
-      "published_date": "2026-05-30T17:04:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/liverpool-sack-arne-slot-after-disastrous-premier-league-title-defence?traffic_source=rss",
-      "published_date": "2026-05-30T17:01:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
-      "published_date": "2026-05-30T16:44:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
-      "published_date": "2026-05-30T13:50:57+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
+      "published_date": "2026-05-31T16:38:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "Will the AI race fuel another boom or another bubble?",
@@ -323,13 +330,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
       "published_date": "2026-05-26T11:23:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba thanks China for rice shipment amid worsening humanitarian conditions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss",
-      "published_date": "2026-05-24T21:53:15+00:00",
       "category": "Energy"
     },
     {
@@ -459,11 +459,39 @@
       "category": "Economy"
     },
     {
-      "title": "China sends aid to Cuba amid a harsh US blockade",
+      "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/china-sends-aid-to-cuba-amid-a-harsh-us-blockade?traffic_source=rss",
-      "published_date": "2026-05-24T15:14:10+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss",
+      "published_date": "2026-05-31T23:02:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polls open in Colombia’s pivotal presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss",
+      "published_date": "2026-05-31T18:23:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bazaar of Return in Aida Refugee Camp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-bazaar-of-return-in-aida-refugee-camp?traffic_source=rss",
+      "published_date": "2026-05-31T17:15:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Data Protection Authority Launches Registration for Data Controllers and Data Processors",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-data-protection-authority-launches-registration-for-data-controllers-and-data-processors/",
+      "published_date": "2026-05-31T17:10:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could Democrats be shut out of the California governor’s race?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/5/31/could-democrats-be-shut-out-of-the-california-governors-race?traffic_source=rss",
+      "published_date": "2026-05-31T15:19:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland oo daahfurtay todobaadka dhaqanka",
@@ -568,41 +596,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/eakc-opens-call-for-abstracts-focusing-on-artificial-intelligence-and-kiswahili-integration/",
       "published_date": "2026-05-30T06:56:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Condemns Missile and Drone Attacks on Kuwait, Urges Regional Stability",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-missile-and-drone-attacks-on-kuwait-urges-regional-stability/",
-      "published_date": "2026-05-30T05:54:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Expresses Solidarity with Kuwait Following Missile and Drone Attacks",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-expresses-solidarity-with-kuwait-following-missile-and-drone-attacks/",
-      "published_date": "2026-05-30T05:35:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Louisiana lawmakers pass congressional map favouring Republicans",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans?traffic_source=rss",
-      "published_date": "2026-05-30T00:27:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/trump-pledges-to-withdraw-from-kennedy-center-after-court-strikes-his-name?traffic_source=rss",
-      "published_date": "2026-05-29T23:41:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/arbitrary-measures-lula-slams-us-terror-designation-for-brazil-gangs?traffic_source=rss",
-      "published_date": "2026-05-29T21:54:36+00:00",
       "category": "Local Events"
     }
   ]
