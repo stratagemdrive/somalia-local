@@ -1,8 +1,78 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-01T00:03:35.846346+00:00",
-  "story_count": 85,
+  "last_updated": "2026-06-01T16:43:35.180441+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Somalia election crisis: UN, EU and 17 nations issue urgent war warning",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-election-crisis/",
+      "published_date": "2026-06-01T13:23:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Foreign Affairs addresses the Korea-Africa Foreign Ministers meeting, calls for stronger cooperation on food security",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-foreign-affairs-addresses-the-korea-africa-foreign-ministers-meeting-calls-for-stronger-cooperation-on-food-security/",
+      "published_date": "2026-06-01T11:14:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French navy, backed by the UK, intercepts Russian oil tanker",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss",
+      "published_date": "2026-06-01T10:24:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia holds elections with PM Abiy’s party expected to dominate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/ethiopia-holds-elections-with-pm-abiys-party-expected-to-dominate?traffic_source=rss",
+      "published_date": "2026-06-01T10:23:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s president Hassan Sheikh Mohamud is Somaliland’s biggest independence supporter, former U.S. ambassador Larry Andre says",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-hassan-sheikh-mohamud-somaliland-independence-supporter-us-ambassador-larry-andre/",
+      "published_date": "2026-06-01T09:42:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Foreign Affairs meets his Egyptian counterpart in Seoul",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-foreign-affairs-meets-his-egyptian-counterpart-in-seoul/",
+      "published_date": "2026-06-01T09:33:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Participates in Korea–Africa Ministerial Meeting in Seoul",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-participates-in-korea-africa-ministerial-meeting-in-seoul-2/",
+      "published_date": "2026-06-01T08:34:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia votes as ruling party eyes landslide win",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ethiopia-votes-as-ruling-party-eyes-landslide-win/",
+      "published_date": "2026-06-01T08:09:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "African Union and IGAD Observer Missions Report Positive Start to Ethiopia’s General Election",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/african-union-and-igad-observer-missions-report-positive-start-to-ethiopias-general-election/",
+      "published_date": "2026-06-01T07:29:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia Commences Seventh General Election as Millions Turn Out at the Polls Nationwide",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ethiopia-commences-seventh-general-election-as-millions-turn-out-at-the-polls-nationwide/",
+      "published_date": "2026-06-01T07:16:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ethiopia to vote in first elections since Tigray peace deal",
       "source": "Al Jazeera",
@@ -74,74 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia scolds Washington over direct engagement with Somali regions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-rebukes-us-direct-engagement-somali-regions/",
-      "published_date": "2026-05-31T08:39:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran and Houthis Threatened by US-Somaliland Alliance Over Red Sea Control, Fox News Reports",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/iran-and-houthis-threatened-by-us-somaliland-alliance-over-red-sea-control-fox-news-reports/",
-      "published_date": "2026-05-30T18:44:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar says temporary charges ‘negotiable’",
+      "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss",
-      "published_date": "2026-05-30T18:42:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks?traffic_source=rss",
+      "published_date": "2026-06-01T16:15:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya oo Joojisay Munaasabad Lagu Xusayay 18-ka May oo Ka Dhici Lahayd Nairobi",
+      "title": "Indian PM Modi meets Myanmar military gov’t leader in New Delhi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss",
+      "published_date": "2026-06-01T14:45:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Huge explosion at Malta fireworks factory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/huge-explosion-at-malta-fireworks-factory?traffic_source=rss",
+      "published_date": "2026-06-01T14:23:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss",
+      "published_date": "2026-06-01T13:27:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the world failed Ryan and Yaman",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/1/how-the-world-failed-ryan-and-yaman?traffic_source=rss",
+      "published_date": "2026-06-01T12:58:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French Navy seizes Russian oil tanker",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/french-navy-seizes-russian-oil-tanker?traffic_source=rss",
+      "published_date": "2026-06-01T11:05:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss",
+      "published_date": "2026-06-01T10:58:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes?traffic_source=rss",
+      "published_date": "2026-06-01T10:45:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ultra-Orthodox Jewish demonstrators storm Israeli police station",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss",
+      "published_date": "2026-06-01T09:14:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Officials Visit Troops Near Baidoa Amid Rising Political Tensions",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenya-oo-joojisay-munaasabad-lagu-xusayay-18-ka-may-oo-ka-dhici-lahayd-nairobi/",
-      "published_date": "2026-05-30T14:16:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenya Halts Somaliland Independence Day Event in Nairobi – sources",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenya-halts-somaliland-independence-day-event-in-nairobi-sources/",
-      "published_date": "2026-05-30T14:13:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/what-hegseths-comments-at-shangri-la-dialogue-say-about-us-foreign-policy?traffic_source=rss",
-      "published_date": "2026-05-30T11:07:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rubio says Trump envoy Barrack to step down from Syria post",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
-      "published_date": "2026-05-30T10:34:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss",
-      "published_date": "2026-05-30T06:29:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN: “100% of Gaza” should be for Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/un-100-of-gaza-should-be-for-palestinians?traffic_source=rss",
-      "published_date": "2026-05-29T21:49:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/netanyahu-says-israeli-forces-have-crossed-lebanons-litani-river?traffic_source=rss",
-      "published_date": "2026-05-29T19:48:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-officials-visit-troops-near-baidoa-amid-rising-political-tensions/",
+      "published_date": "2026-06-01T08:04:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ciidanka Xoogga Dalka oo Howlgal ka dhacay Shabeellaha Hoose ku Dilay Xubin ka tirsanaa Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-xoogga-dalka-oo-howlgal-ka-dhacay-shabeellaha-hoose-ku-dilay-xubin-ka-tirsanaa-al-shabaab/",
-      "published_date": "2026-05-31T06:03:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidamada Xoogga Dalka oo howlgallo ka dhan ah Al-Shabaab ka fuliyay Shabeellaha Dhexe",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-xoogga-dalka-oo-howlgallo-ka-dhan-ah-al-shabaab-ka-fuliyay-shabeellaha-dhexe/",
-      "published_date": "2026-05-31T05:50:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali troops conduct planned operations against militants in Middle Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-troops-conduct-planned-operations-against-militants-in-middle-shabelle/",
-      "published_date": "2026-05-31T05:48:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maamulka Caafimaadka Congo iyo WHO oo Beeniyey Digniintii MSF, Sheegayna in Xaaladda Ebola La Xakameeyey",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/maamulka-caafimaadka-congo-iyo-who-oo-beeniyey-digniintii-msf-sheegayna-in-xaaladda-ebola-la-xakameeyey/",
-      "published_date": "2026-05-31T05:44:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Parliament Speaker Briefed on Security Operation in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-speaker-briefed-on-security-operation-in-baidoa/",
-      "published_date": "2026-05-31T05:25:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Israel to expand Lebanon invasion; US-Tehran deal in limbo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
-      "published_date": "2026-05-31T00:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Congress advances American-Israeli military integration plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
-      "published_date": "2026-05-30T22:28:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
-      "published_date": "2026-05-30T21:54:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
-      "published_date": "2026-05-30T21:36:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is the war in Ukraine entering a new phase?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
-      "published_date": "2026-05-30T20:12:44+00:00",
-      "category": "Military"
+      "title": "National Climate Fund Endorses $25.8 Million Urban Water Security Project and $232 Million Water Investment Programme",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-climate-fund-endorses-25-8-million-urban-water-security-project-and-232-million-water-investment-programme/",
+      "published_date": "2026-06-01T11:03:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran ⁠restores some gas production at South Pars facility",
@@ -331,6 +338,13 @@
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
       "published_date": "2026-05-26T11:23:17+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "US, Iran trade new attacks amid talks: Here’s what we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss",
+      "published_date": "2026-06-01T10:13:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Voting ongoing in snap elections in Malta, governing party expected to win",
@@ -431,32 +445,60 @@
       "category": "Economy"
     },
     {
-      "title": "EAC Advances Development of a Regional Mobile Roaming Framework to Enhance Cross-Border Connectivity and Trade",
+      "title": "Who will replace Newsom? What to know about California’s primary elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/who-will-replace-newsom-what-to-know-about-californias-primary-elections?traffic_source=rss",
+      "published_date": "2026-06-01T16:30:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Electoral Commission Announces South West State Leadership Election Schedule",
       "source": "SONNA",
-      "url": "https://sonna.so/en/eac-advances-development-of-a-regional-mobile-roaming-framework-to-enhance-cross-border-connectivity-and-trade/",
-      "published_date": "2026-05-25T15:20:31+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/national-electoral-commission-announces-south-west-state-leadership-election-schedule/",
+      "published_date": "2026-06-01T16:10:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss",
-      "published_date": "2026-05-25T09:14:27+00:00",
-      "category": "Economy"
+      "title": "SoDMA Leads Workshop to Strengthen National Disaster Management Coordination",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/sodma-leads-workshop-to-strengthen-national-disaster-management-coordination/",
+      "published_date": "2026-06-01T14:21:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gaza flotilla activists return to Australia, describing abuse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/gaza-flotilla-activists-return-to-australia-describing-abuse?traffic_source=rss",
-      "published_date": "2026-05-25T07:16:14+00:00",
-      "category": "Economy"
+      "title": "NCA Launches Somali Cybersecurity Terminology Initiative to Strengthen Digital Awareness",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/nca-launches-somali-cybersecurity-terminology-initiative-to-strengthen-digital-awareness/",
+      "published_date": "2026-06-01T14:10:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Singapore’s economy beats expectations as gov’t warns of Iran war fallout",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout?traffic_source=rss",
-      "published_date": "2026-05-25T06:40:08+00:00",
-      "category": "Economy"
+      "title": "International Community Urges Dialogue as Somalia Political Tensions Rise",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/international-community-urges-dialogue-as-somalia-political-tensions-rise/",
+      "published_date": "2026-06-01T09:09:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arday ku dhaawacmay isku dhac ka dhacay Buurtinle",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/01/arday-ku-dhaawacmay-isku-dhac-ka-dhacay-buurtinle/",
+      "published_date": "2026-06-01T08:33:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Security Concerns Rise in Jowhar After Grenade Attack and Soldier Killing",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/security-concerns-rise-in-jowhar-after-grenade-attack-and-soldier-killing/",
+      "published_date": "2026-06-01T07:58:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Gaadiid biyo kula tageen Ceeldaahir",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/01/puntland-gaadiid-biyo-kula-tageen-ceeldaahir/",
+      "published_date": "2026-06-01T06:26:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
@@ -540,62 +582,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/speaker-of-the-federal-parliament-receives-comprehensive-security-briefing-following-successful-containment-of-militia-disturbance-in-baidoa/",
       "published_date": "2026-05-30T18:35:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NISA Chief and Former President Sheikh Sharif Hold Security Talks Ahead of the Planned June 4 Demonstrations.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/nisa-chief-and-former-president-sheikh-sharif-hold-security-talks-ahead-of-the-planned-june-4-demonstrations/",
-      "published_date": "2026-05-30T18:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voters in Malta head to polls for early elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections?traffic_source=rss",
-      "published_date": "2026-05-30T17:20:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
-      "published_date": "2026-05-30T16:21:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New South West State Lawmakers Sworn In Ahead of Regional Leadership Elections",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/new-south-west-state-lawmakers-sworn-in-ahead-of-regional-leadership-elections/",
-      "published_date": "2026-05-30T14:25:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In ka badan 25 kun oo arday oo u fariistay Imtixaanka Shahaadiga ah ee Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/30/in-ka-badan-25-kun-oo-arday-oo-u-fariistay-imtixaanka-shahaadiga-ah-ee-puntland/",
-      "published_date": "2026-05-30T10:33:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police fire tear gas during protest outside New Jersey ICE facility",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/police-fire-tear-gas-during-protest-outside-new-jersey-ice-facility?traffic_source=rss",
-      "published_date": "2026-05-30T09:28:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo taageero u muujisay Galmudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/30/puntland-oo-taageero-u-muujisay-galmudug/",
-      "published_date": "2026-05-30T07:28:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EAKC Opens Call for Abstracts Focusing on Artificial Intelligence and Kiswahili Integration",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/eakc-opens-call-for-abstracts-focusing-on-artificial-intelligence-and-kiswahili-integration/",
-      "published_date": "2026-05-30T06:56:30+00:00",
       "category": "Local Events"
     }
   ]
