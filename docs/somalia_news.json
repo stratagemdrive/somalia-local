@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-01T16:43:35.180441+00:00",
-  "story_count": 83,
+  "last_updated": "2026-06-02T00:10:59.752037+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "Kenyans protest Ebola quarantine centre for US citizens",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kenyans-protest-ebola-quarantine-centre-for-us-citizens?traffic_source=rss",
+      "published_date": "2026-06-01T20:23:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SoDMA Commissioner meets officials from Sweden to discuss strengthening cooperation on disaster management",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/sodma-commissioner-meets-officials-from-sweden-to-discuss-strengthening-cooperation-on-disaster-management/",
+      "published_date": "2026-06-01T18:20:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Protest outside Kenya’s planned US Ebola quarantine centre",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/1/protest-outside-kenyas-planned-us-ebola-quarantine-centre?traffic_source=rss",
+      "published_date": "2026-06-01T16:42:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia election crisis: UN, EU and 17 nations issue urgent war warning",
       "source": "Somali Guardian",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The OIC Welcomes the Inclusion of the Israeli Occupation and its Entities in the UN Blacklist of Perpetrators of Sexual Violence in Conflict Zones",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/the-oic-welcomes-the-inclusion-of-the-israeli-occupation-and-its-entities-in-the-un-blacklist-of-perpetrators-of-sexual-violence-in-conflict-zones/",
-      "published_date": "2026-05-31T11:16:41+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
+      "published_date": "2026-06-02T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Labour triumphs in Malta election, preliminary results show",
+      "title": "Ultra-Orthodox protesters clash with Israeli police over army draft",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/labour-triumphs-in-malta-election-preliminary-results-show?traffic_source=rss",
-      "published_date": "2026-05-31T10:48:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss",
+      "published_date": "2026-06-01T23:36:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump tightens terms on Iran war deal, US media say",
+      "title": "US court upholds injunction against Trump policy banning transgender troops",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
-      "published_date": "2026-05-31T09:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/1/us-court-upholds-injunction-against-trump-policy-banning-transgender-troops?traffic_source=rss",
+      "published_date": "2026-06-01T23:22:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike damages hospital in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-06-01T18:05:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Juan Manuel Santos on Colombia’s peace process, 10 years on",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/31/juan-manuel-santos-on-colombias-peace-process-10-years-on?traffic_source=rss",
-      "published_date": "2026-05-31T15:44:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rio’s Forever War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
-      "published_date": "2026-05-31T11:24:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
-      "published_date": "2026-05-31T08:49:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
-      "published_date": "2026-05-31T08:29:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "National Climate Fund Endorses $25.8 Million Urban Water Security Project and $232 Million Water Investment Programme",
       "source": "SONNA",
       "url": "https://sonna.so/en/national-climate-fund-endorses-25-8-million-urban-water-security-project-and-232-million-water-investment-programme/",
@@ -338,6 +338,13 @@
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
       "published_date": "2026-05-26T11:23:17+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Gaza-bound aid ship begins voyage from Sweden",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/gaza-bound-aid-ship-begins-voyage-from-sweden?traffic_source=rss",
+      "published_date": "2026-06-01T19:09:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "US, Iran trade new attacks amid talks: Here’s what we know",
@@ -445,6 +452,55 @@
       "category": "Economy"
     },
     {
+      "title": "Violent protests erupt in Chile over government cuts of social programmes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_clip_violent-protests-erupt-in-chile-010626?traffic_source=rss",
+      "published_date": "2026-06-01T23:22:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Presidential election has Colombia on edge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/video-presidential-election-has-colombia-on-edge?traffic_source=rss",
+      "published_date": "2026-06-01T21:08:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Denmark gets new government as Greenland crisis persists",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss",
+      "published_date": "2026-06-01T20:56:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former election clerk Tina Peters released after Trump pressure campaign",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/former-election-clerk-tina-peters-released-after-trump-pressure-campaign?traffic_source=rss",
+      "published_date": "2026-06-01T19:38:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenyans protest planned US Ebola quarantine facility",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/kenyans-protest-planned-us-ebola-quarantine-facility?traffic_source=rss",
+      "published_date": "2026-06-01T19:07:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "International court rejects Rwanda’s claim over UK migration deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/1/international-court-rejects-rwandas-claim-over-uk-migration-deal?traffic_source=rss",
+      "published_date": "2026-06-01T16:54:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Ciidamo tababar loogu soo xiray Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/01/puntland-ciidamo-tababar-loogu-soo-xiray-gaalkacyo/",
+      "published_date": "2026-06-01T16:37:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Who will replace Newsom? What to know about California’s primary elections",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/1/who-will-replace-newsom-what-to-know-about-californias-primary-elections?traffic_source=rss",
@@ -533,55 +589,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/longform/2026/5/31/could-democrats-be-shut-out-of-the-california-governors-race?traffic_source=rss",
       "published_date": "2026-05-31T15:19:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo daahfurtay todobaadka dhaqanka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/31/puntland-oo-daahfurtay-todobaadka-dhaqanka/",
-      "published_date": "2026-05-31T11:03:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banadir Education Directorate Announces Grade 8 National Examination Schedule",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/banadir-education-directorate-announces-grade-8-national-examination-schedule/",
-      "published_date": "2026-05-31T08:16:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo farriin u dirtay mucaaradkeeda  xiriirka la leh Villa Somalia",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/05/31/puntland-oo-farriin-u-dirtay-mucaaradkeeda-xiriirka-la-leh-villa-somalia/",
-      "published_date": "2026-05-31T06:52:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands in Peru protest Fujimori presidential run",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_clip-thousands-in-peru-protest-fujimori-run-300526?traffic_source=rss",
-      "published_date": "2026-05-31T03:58:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescues in eastern Syria after the Euphrates River bursts its banks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
-      "published_date": "2026-05-31T00:27:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Laftagaren forces briefly seize Baidoa after gunfight with army",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-fighting/",
-      "published_date": "2026-05-30T20:58:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speaker of the Federal Parliament Receives Comprehensive Security Briefing Following Successful Containment of Militia Disturbance in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/speaker-of-the-federal-parliament-receives-comprehensive-security-briefing-following-successful-containment-of-militia-disturbance-in-baidoa/",
-      "published_date": "2026-05-30T18:35:56+00:00",
       "category": "Local Events"
     }
   ]
