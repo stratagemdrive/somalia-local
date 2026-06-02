@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-02T00:10:59.752037+00:00",
-  "story_count": 84,
+  "last_updated": "2026-06-02T14:57:44.323043+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Somalia, Eswatini Pledge Stronger Ties at Korea-Africa Ministerial Meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-eswatini-pledge-stronger-ties-at-korea-africa-ministerial-meeting/",
+      "published_date": "2026-06-02T13:13:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Korea President Lee Jae-myung Receives African Foreign Ministers, Including Somalia’s FM Abdisalam",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-korea-president-lee-jae-myung-receives-african-foreign-ministers-including-somalias-fm-abdisalam/",
+      "published_date": "2026-06-02T12:15:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, EUCAP Discuss Boosting Country’s Security Framework",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-eucap-discuss-boosting-countrys-security-framework/",
+      "published_date": "2026-06-02T12:10:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Every world leader who has visited China in 2026 in one chart",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart?traffic_source=rss",
+      "published_date": "2026-06-02T11:28:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kenyans protest Ebola quarantine centre for US citizens",
       "source": "Al Jazeera",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopia’s election is about affirming national commitment to democracy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss",
-      "published_date": "2026-05-31T20:28:26+00:00",
-      "category": "Diplomacy"
+      "title": "Ciidanka Kumaandooska Danab oo Howlgallo Amni ka Fuliyey Deegaanno ka Tirsan Gobolka Shabeellaha Dhexe",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-kumaandooska-danab-oo-howlgallo-amni-ka-fuliyey-deegaanno-ka-tirsan-gobolka-shabeellaha-dhexe-2/",
+      "published_date": "2026-06-02T14:25:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "What’s at stake in Ethiopia’s elections?",
+      "title": "Belgian NGO urges India to arrest Israeli reservist over alleged war crimes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/31/whats-at-stake-in-ethiopias-elections?traffic_source=rss",
-      "published_date": "2026-05-31T19:38:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/2/belgian-ngo-urges-india-to-arrest-israeli-reservist-over-alleged-war-crimes?traffic_source=rss",
+      "published_date": "2026-06-02T13:57:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ministry of Youth, UNDP officially sign dive year partnership agreement in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/ministry-of-youth-undp-officially-sign-dive-year-partnership-agreement-in-mogadishu/",
-      "published_date": "2026-05-31T17:16:35+00:00",
-      "category": "Diplomacy"
+      "title": "UK Athletics fined over death of UAE Paralympian Abdullah Hayayei",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/2/uk-athletics-fined-over-death-of-uae-paralympic-athlete-abdullah-hayayei?traffic_source=rss",
+      "published_date": "2026-06-02T13:21:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia’s election: Parties, coalitions and candidates explained",
+      "title": "Somali Special Forces Conduct Security Operations in Middle Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-special-forces-conduct-security-operations-in-middle-shabelle/",
+      "published_date": "2026-06-02T13:06:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Kumaandooska Danab oo howlgallo amni ka fuliyey deegaanno ka tirsan Gobolka Shabeellaha Dhexe",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-kumaandooska-danab-oo-howlgallo-amni-ka-fuliyey-deegaanno-ka-tirsan-gobolka-shabeellaha-dhexe/",
+      "published_date": "2026-06-02T12:11:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Underground drug smuggling tunnel discovered from Tijuana to San Diego",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss",
-      "published_date": "2026-05-31T16:40:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/underground-drug-smuggling-tunnel-discovered-from-tijuana-to-san-diego?traffic_source=rss",
+      "published_date": "2026-06-02T11:44:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the war has made Iran’s water crisis worse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse?traffic_source=rss",
+      "published_date": "2026-06-02T11:13:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Somali Officials Visit Troops Near Baidoa Amid Rising Political Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-officials-visit-troops-near-baidoa-amid-rising-political-tensions/",
-      "published_date": "2026-06-01T08:04:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
-      "published_date": "2026-05-31T20:12:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Kills Senior Al-Shabaab Commander in Lower Shabelle Operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-kills-senior-al-shabaab-commander-in-lower-shabelle-operation/",
-      "published_date": "2026-05-31T20:04:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US measure to deepen Israel military cooperation faces bipartisan pushback",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
-      "published_date": "2026-05-31T18:52:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Congress moves to deepen military ties with Israel: Why it matters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
-      "published_date": "2026-05-31T18:40:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The largest Israeli advance into Lebanon in years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
-      "published_date": "2026-05-31T18:36:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens killed in explosives depot blast in northeast Myanmar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/dozens-killed-in-blast-at-explosives-depot-in-northeastern-myanmar?traffic_source=rss",
-      "published_date": "2026-05-31T17:42:32+00:00",
-      "category": "Military"
-    },
-    {
       "title": "National Climate Fund Endorses $25.8 Million Urban Water Security Project and $232 Million Water Investment Programme",
       "source": "SONNA",
       "url": "https://sonna.so/en/national-climate-fund-endorses-25-8-million-urban-water-security-project-and-232-million-water-investment-programme/",
@@ -333,11 +333,18 @@
       "category": "Energy"
     },
     {
-      "title": "Can the US and India repair ties over trade and China?",
+      "title": "Swedish Delegation Visits Somalia Disaster Agency to Discuss Risk Management Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/swedish-delegation-visits-somalia-disaster-agency-to-discuss-risk-management-cooperation/",
+      "published_date": "2026-06-02T13:11:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Refugee women in CAR face childbirth risks amid US funding cuts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
-      "published_date": "2026-05-26T11:23:17+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/gallery/2026/6/2/refugee-women-in-car-face-childbirth-risks-amid-us-funding-cuts?traffic_source=rss",
+      "published_date": "2026-06-02T11:14:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Gaza-bound aid ship begins voyage from Sweden",
@@ -438,18 +445,53 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan and China reach ‘new broad consensus’ on boosting ties",
+      "title": "How social media is turning African life into content at a cost",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/26/pakistan-and-china-reach-new-broad-consensus-on-boosting-ties?traffic_source=rss",
-      "published_date": "2026-05-26T10:16:12+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss",
+      "published_date": "2026-06-02T11:19:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Palestine weekly wrap: Ben-Gvir’s abuse of flotilla detainees causes outcry",
+      "title": "𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐭𝐲 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐬 𝐒𝐨𝐦𝐚𝐥𝐢 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐥𝐨𝐠𝐲 𝐆𝐥𝐨𝐬𝐬𝐚𝐫𝐲",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/461017-2/",
+      "published_date": "2026-06-02T10:37:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Massive fire engulfs Jakarta market leaving hundreds homeless",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/palestine-weekly-wrap-ben-gvirs-abuse-of-flotilla-detainees-causes-outcry?traffic_source=rss",
-      "published_date": "2026-05-26T09:29:58+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/massive-fire-engulfs-jakarta-market-leaving-hundreds-homeless?traffic_source=rss",
+      "published_date": "2026-06-02T10:27:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US hands diplomatic win to Somalia by affirming sovereignty over Somaliland",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/us-hands-win-to-somalia-sovereignty-somaliland/",
+      "published_date": "2026-06-02T09:57:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Reaffirms Recognition of Somalia’s Territorial Integrity, Including Somaliland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/us-reaffirms-recognition-of-somalias-territorial-integrity-including-somaliland/",
+      "published_date": "2026-06-02T09:50:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maamulka Trump: Iskaashiga Somaliland ma dhaawacayo Midnimada Jamhuuriyadda Federaalka Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/maamulka-trump-iskaashiga-somaliland-ma-dhaawacayo-midnimada-jamhuuriyadda-federaalka-soomaaliya/",
+      "published_date": "2026-06-02T09:48:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "High Court orders Kenya government to release details of Ebola facility",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/2/high-court-orders-kenya-government-to-release-details-of-ebola-facility?traffic_source=rss",
+      "published_date": "2026-06-02T09:20:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Violent protests erupt in Chile over government cuts of social programmes",
@@ -540,55 +582,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/06/01/arday-ku-dhaawacmay-isku-dhac-ka-dhacay-buurtinle/",
       "published_date": "2026-06-01T08:33:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security Concerns Rise in Jowhar After Grenade Attack and Soldier Killing",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/security-concerns-rise-in-jowhar-after-grenade-attack-and-soldier-killing/",
-      "published_date": "2026-06-01T07:58:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Gaadiid biyo kula tageen Ceeldaahir",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/01/puntland-gaadiid-biyo-kula-tageen-ceeldaahir/",
-      "published_date": "2026-06-01T06:26:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss",
-      "published_date": "2026-05-31T23:02:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polls open in Colombia’s pivotal presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss",
-      "published_date": "2026-05-31T18:23:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bazaar of Return in Aida Refugee Camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-bazaar-of-return-in-aida-refugee-camp?traffic_source=rss",
-      "published_date": "2026-05-31T17:15:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Data Protection Authority Launches Registration for Data Controllers and Data Processors",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-data-protection-authority-launches-registration-for-data-controllers-and-data-processors/",
-      "published_date": "2026-05-31T17:10:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could Democrats be shut out of the California governor’s race?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/5/31/could-democrats-be-shut-out-of-the-california-governors-race?traffic_source=rss",
-      "published_date": "2026-05-31T15:19:33+00:00",
       "category": "Local Events"
     }
   ]
