@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-02T14:57:44.323043+00:00",
-  "story_count": 83,
+  "last_updated": "2026-06-03T00:25:31.836356+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
+      "published_date": "2026-06-02T21:59:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deputy Prime Minister Joins Italy’s Republic Day Celebrations",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/deputy-prime-minister-joins-italys-republic-day-celebrations/",
+      "published_date": "2026-06-02T19:31:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SoDMA, UN Review Humanitarian Situation and Strengthen Aid Coordination Efforts",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/sodma-un-review-humanitarian-situation-and-strengthen-aid-coordination-efforts/",
+      "published_date": "2026-06-02T19:29:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What Trump ‘telling off’ means for Netanyahu",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss",
+      "published_date": "2026-06-02T18:47:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, Eswatini Pledge Stronger Ties at Korea-Africa Ministerial Meeting",
       "source": "Shabelle Media",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopia Commences Seventh General Election as Millions Turn Out at the Polls Nationwide",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/ethiopia-commences-seventh-general-election-as-millions-turn-out-at-the-polls-nationwide/",
-      "published_date": "2026-06-01T07:16:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ethiopia to vote in first elections since Tigray peace deal",
+      "title": "Russia launches massive overnight attack on Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
-      "published_date": "2026-05-31T20:57:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/russia-launches-massive-overnight-attack-on-ukraine?traffic_source=rss",
+      "published_date": "2026-06-02T21:01:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia recalls ambassador to Kenya after photo with Israeli envoy triggers diplomatic crisis",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-israel-somaliland-diplomatic-crisis-ambassador-kenya/",
-      "published_date": "2026-05-31T20:46:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
+      "title": "Ukraine’s Kostyuk blasts Russia stars in French Open outburst over war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
-      "published_date": "2026-05-31T20:28:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/6/2/ukraines-kostyuk-blasts-russia-stars-in-french-open-outburst-over-war?traffic_source=rss",
+      "published_date": "2026-06-02T18:26:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK police bodycam video shows wrongful arrest of dying teen",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/uk-police-bodycam-video-shows-wrongful-arrest-of-dying-teen-2?traffic_source=rss",
+      "published_date": "2026-06-02T17:13:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Ciidanka Kumaandooska Danab oo Howlgallo Amni ka Fuliyey Deegaanno ka Tirsan Gobolka Shabeellaha Dhexe",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss",
-      "published_date": "2026-06-01T10:58:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes?traffic_source=rss",
-      "published_date": "2026-06-01T10:45:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ultra-Orthodox Jewish demonstrators storm Israeli police station",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss",
-      "published_date": "2026-06-01T09:14:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "National Climate Fund Endorses $25.8 Million Urban Water Security Project and $232 Million Water Investment Programme",
       "source": "SONNA",
       "url": "https://sonna.so/en/national-climate-fund-endorses-25-8-million-urban-water-security-project-and-232-million-water-investment-programme/",
@@ -331,6 +331,27 @@
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
       "published_date": "2026-05-27T17:05:36+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Drones light up Taipei’s night sky for Computex trade show",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/drones-light-up-taipeis-night-sky-for-computex-trade-show?traffic_source=rss",
+      "published_date": "2026-06-02T21:59:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump administration scraps $1.8bn ‘anti-weaponisation fund’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+      "published_date": "2026-06-02T21:44:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inside the billion-dollar business of getting a visa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/2/aje-onl-tt_glb_vfs_video-020626?traffic_source=rss",
+      "published_date": "2026-06-02T19:43:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Swedish Delegation Visits Somalia Disaster Agency to Discuss Risk Management Cooperation",
@@ -445,6 +466,55 @@
       "category": "Economy"
     },
     {
+      "title": "Protesters use ‘Ebola coffin’ to rally against US quarantine centre",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/protesters-use-ebola-coffin-to-rally-against-us-quarantine-centre?traffic_source=rss",
+      "published_date": "2026-06-02T23:14:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "European election monitor dismisses rumours of fraud in Colombia’s election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/2/european-election-monitor-dismisses-rumours-of-fraud-in-colombias-election?traffic_source=rss",
+      "published_date": "2026-06-02T23:11:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo qabatay xubin ajnabi ah oo ka tirsan Daacish",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/03/puntland-oo-qabatay-xubin-ajnabi-ah-oo-ka-tirsan-daacish/",
+      "published_date": "2026-06-02T22:04:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Milestone’: Macron opens Paris monument honouring Rwanda genocide victims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/2/milestone-macron-opens-paris-monument-honouring-rwanda-genocide-victims?traffic_source=rss",
+      "published_date": "2026-06-02T20:18:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Assumes Leadership Role on GCERF Governing Board at Geneva Meeting",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-assumes-leadership-role-on-gcerf-governing-board-at-geneva-meeting/",
+      "published_date": "2026-06-02T19:27:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
+      "published_date": "2026-06-02T19:05:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
+      "published_date": "2026-06-02T17:53:14+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "How social media is turning African life into content at a cost",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss",
@@ -533,55 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/1/international-court-rejects-rwandas-claim-over-uk-migration-deal?traffic_source=rss",
       "published_date": "2026-06-01T16:54:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Ciidamo tababar loogu soo xiray Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/01/puntland-ciidamo-tababar-loogu-soo-xiray-gaalkacyo/",
-      "published_date": "2026-06-01T16:37:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who will replace Newsom? What to know about California’s primary elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/1/who-will-replace-newsom-what-to-know-about-californias-primary-elections?traffic_source=rss",
-      "published_date": "2026-06-01T16:30:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Electoral Commission Announces South West State Leadership Election Schedule",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-electoral-commission-announces-south-west-state-leadership-election-schedule/",
-      "published_date": "2026-06-01T16:10:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA Leads Workshop to Strengthen National Disaster Management Coordination",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sodma-leads-workshop-to-strengthen-national-disaster-management-coordination/",
-      "published_date": "2026-06-01T14:21:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCA Launches Somali Cybersecurity Terminology Initiative to Strengthen Digital Awareness",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/nca-launches-somali-cybersecurity-terminology-initiative-to-strengthen-digital-awareness/",
-      "published_date": "2026-06-01T14:10:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "International Community Urges Dialogue as Somalia Political Tensions Rise",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/international-community-urges-dialogue-as-somalia-political-tensions-rise/",
-      "published_date": "2026-06-01T09:09:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arday ku dhaawacmay isku dhac ka dhacay Buurtinle",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/01/arday-ku-dhaawacmay-isku-dhac-ka-dhacay-buurtinle/",
-      "published_date": "2026-06-01T08:33:20+00:00",
       "category": "Local Events"
     }
   ]
