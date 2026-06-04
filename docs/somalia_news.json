@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-03T15:49:24.749945+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-04T00:28:40.732914+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Federal Government of Somalia strongly condemns unfortunate incident in Mogadishu’s Howlwadaag district",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/federal-government-of-somalia-strongly-condemns-unfortunate-incident-in-mogadishus-howlwadaag-district/",
+      "published_date": "2026-06-03T19:48:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Ambassadors to Iraq and France Pay Tribute to Former Yemeni President Abdrabbuh Mansour Hadi",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-ambassadors-to-iraq-and-france-pay-tribute-to-former-yemeni-president-abdrabbuh-mansour-hadi/",
+      "published_date": "2026-06-03T18:56:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, EU and UNDP Discuss Expanding Access to Justice Across The Country",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-eu-and-undp-discuss-expanding-access-to-justice-across-the-country/",
+      "published_date": "2026-06-03T17:05:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FIFA World Cup 2026: Can Asian champions Qatar reach the knockouts?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/3/fifa-world-cup-2026-qatar-squad-team-players-group-knockouts?traffic_source=rss",
+      "published_date": "2026-06-03T17:05:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Justice Minister Engages European Union and UNDP Leadership To Advance 2025–2029 Strategic Legal Frameworks",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-justice-minister-engages-european-union-and-undp-leadership-to-advance-2025-2029-strategic-legal-frameworks/",
+      "published_date": "2026-06-03T16:53:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bangladesh’s top diplomat elected UN General Assembly leader in tight race",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race?traffic_source=rss",
+      "published_date": "2026-06-03T16:44:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali Deputy Prime Minister Attends Italy’s National Day Celebration in Mogadishu",
       "source": "Shabelle Media",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Minister of Foreign Affairs addresses the Korea-Africa Foreign Ministers meeting, calls for stronger cooperation on food security",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-foreign-affairs-addresses-the-korea-africa-foreign-ministers-meeting-calls-for-stronger-cooperation-on-food-security/",
-      "published_date": "2026-06-01T11:14:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French navy, backed by the UK, intercepts Russian oil tanker",
+      "title": "London activists try to erect statue of jailed Palestinian leader",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss",
-      "published_date": "2026-06-01T10:24:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/london-activists-try-to-erect-statue-of-jailed-palestinian-leader?traffic_source=rss",
+      "published_date": "2026-06-03T23:50:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia holds elections with PM Abiy’s party expected to dominate",
+      "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/1/ethiopia-holds-elections-with-pm-abiys-party-expected-to-dominate?traffic_source=rss",
-      "published_date": "2026-06-01T10:23:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss",
+      "published_date": "2026-06-03T23:22:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s president Hassan Sheikh Mohamud is Somaliland’s biggest independence supporter, former U.S. ambassador Larry Andre says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-hassan-sheikh-mohamud-somaliland-independence-supporter-us-ambassador-larry-andre/",
-      "published_date": "2026-06-01T09:42:54+00:00",
-      "category": "Diplomacy"
+      "title": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss",
+      "published_date": "2026-06-03T23:02:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Minister of Foreign Affairs meets his Egyptian counterpart in Seoul",
+      "title": "US House passes Iran war powers resolution in rare pushback against Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
+      "published_date": "2026-06-03T22:10:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kuwait labels Iran attack ‘heinous aggression’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
+      "published_date": "2026-06-03T21:16:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran faces a new energy imbalance, but its options are limited",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
+      "published_date": "2026-06-03T18:19:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Police Condemn Armed Attack on Police Facilities in Mogadishu",
       "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-foreign-affairs-meets-his-egyptian-counterpart-in-seoul/",
-      "published_date": "2026-06-01T09:33:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Participates in Korea–Africa Ministerial Meeting in Seoul",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-participates-in-korea-africa-ministerial-meeting-in-seoul-2/",
-      "published_date": "2026-06-01T08:34:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/somali-police-condemn-armed-attack-on-police-facilities-in-mogadishu/",
+      "published_date": "2026-06-03T17:17:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Turkiye’s top diplomat, Indonesia’s president discuss $10bn trade goal",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "UK Athletics fined over death of UAE Paralympian Abdullah Hayayei",
+      "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/2/uk-athletics-fined-over-death-of-uae-paralympic-athlete-abdullah-hayayei?traffic_source=rss",
-      "published_date": "2026-06-02T13:21:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Special Forces Conduct Security Operations in Middle Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-special-forces-conduct-security-operations-in-middle-shabelle/",
-      "published_date": "2026-06-02T13:06:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Kumaandooska Danab oo howlgallo amni ka fuliyey deegaanno ka tirsan Gobolka Shabeellaha Dhexe",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-kumaandooska-danab-oo-howlgallo-amni-ka-fuliyey-deegaanno-ka-tirsan-gobolka-shabeellaha-dhexe/",
-      "published_date": "2026-06-02T12:11:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Underground drug smuggling tunnel discovered from Tijuana to San Diego",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/underground-drug-smuggling-tunnel-discovered-from-tijuana-to-san-diego?traffic_source=rss",
-      "published_date": "2026-06-02T11:44:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the war has made Iran’s water crisis worse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse?traffic_source=rss",
-      "published_date": "2026-06-02T11:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
-      "published_date": "2026-06-02T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ultra-Orthodox protesters clash with Israeli police over army draft",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss",
-      "published_date": "2026-06-01T23:36:03+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
+      "published_date": "2026-06-03T21:15:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Is Asia facing a new currency crisis?",
@@ -333,18 +340,11 @@
       "category": "Energy"
     },
     {
-      "title": "Can the US and India repair ties over trade and China?",
+      "title": "US cites forced labour concerns as grounds for new tariffs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
-      "published_date": "2026-05-27T20:15:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Will the AI race fuel another boom or another bubble?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
-      "published_date": "2026-05-27T17:05:36+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss",
+      "published_date": "2026-06-03T17:10:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "U.S. Congressional Report Highlights Opportunities for Expanded Engagement with Somaliland",
@@ -459,18 +459,60 @@
       "category": "Economy"
     },
     {
-      "title": "Markets rally amid hopes of US-Iran deal",
+      "title": "Real Madrid will bring Mourinho back if Perez is re-elected",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
-      "published_date": "2026-05-27T21:14:12+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/6/3/real-madrid-will-bring-mourinho-back-if-perez-is-re-elected?traffic_source=rss",
+      "published_date": "2026-06-03T22:13:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somali Finance Minister Highlights Reform Gains at AfDB Meetings in Congo",
+      "title": "Deadly fire rips through New Delhi hotel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss",
+      "published_date": "2026-06-03T21:01:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss",
+      "published_date": "2026-06-03T20:38:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes near Tyre hospital put youngest patient at risk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
+      "published_date": "2026-06-03T19:37:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss",
+      "published_date": "2026-06-03T18:45:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia strongly condemns attacks on brotherly nation of Kuwait and the Kingdom of Bahrain",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somali-finance-minister-highlights-reform-gains-at-afdb-meetings-in-congo/",
-      "published_date": "2026-05-27T16:58:10+00:00",
-      "category": "Economy"
+      "url": "https://sonna.so/en/somalia-strongly-condemns-attacks-on-brotherly-nation-of-kuwait-and-the-kingdom-of-bahrain/",
+      "published_date": "2026-06-03T17:16:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West Parliament Speaker Candidates Receive Certificates Ahead of Election",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/south-west-parliament-speaker-candidates-receive-certificates-ahead-of-election/",
+      "published_date": "2026-06-03T17:01:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armed clashes erupt in Mogadishu as Somalia political crisis deepens",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/armed-clashes-erupt-in-mogadishu-as-somalia-political-crisis-deepens/",
+      "published_date": "2026-06-03T15:47:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mogadishu authorities approve opposition protest, designate three venues",
@@ -554,62 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
       "published_date": "2026-06-02T17:53:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How social media is turning African life into content at a cost",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss",
-      "published_date": "2026-06-02T11:19:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐭𝐲 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐬 𝐒𝐨𝐦𝐚𝐥𝐢 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐥𝐨𝐠𝐲 𝐆𝐥𝐨𝐬𝐬𝐚𝐫𝐲",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/461017-2/",
-      "published_date": "2026-06-02T10:37:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Massive fire engulfs Jakarta market leaving hundreds homeless",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/massive-fire-engulfs-jakarta-market-leaving-hundreds-homeless?traffic_source=rss",
-      "published_date": "2026-06-02T10:27:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US hands diplomatic win to Somalia by affirming sovereignty over Somaliland",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/us-hands-win-to-somalia-sovereignty-somaliland/",
-      "published_date": "2026-06-02T09:57:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Reaffirms Recognition of Somalia’s Territorial Integrity, Including Somaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-reaffirms-recognition-of-somalias-territorial-integrity-including-somaliland/",
-      "published_date": "2026-06-02T09:50:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maamulka Trump: Iskaashiga Somaliland ma dhaawacayo Midnimada Jamhuuriyadda Federaalka Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/maamulka-trump-iskaashiga-somaliland-ma-dhaawacayo-midnimada-jamhuuriyadda-federaalka-soomaaliya/",
-      "published_date": "2026-06-02T09:48:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High Court orders Kenya government to release details of Ebola facility",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/2/high-court-orders-kenya-government-to-release-details-of-ebola-facility?traffic_source=rss",
-      "published_date": "2026-06-02T09:20:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violent protests erupt in Chile over government cuts of social programmes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_clip_violent-protests-erupt-in-chile-010626?traffic_source=rss",
-      "published_date": "2026-06-01T23:22:52+00:00",
       "category": "Local Events"
     }
   ]
