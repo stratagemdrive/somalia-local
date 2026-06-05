@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-04T14:06:40.642285+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-05T00:03:35.418001+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "International Pressure Reportedly Helps Secure Ceasefire in Mogadishu Clashes",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/international-pressure-reportedly-helps-secure-ceasefire-in-mogadishu-clashes/",
+      "published_date": "2026-06-04T23:10:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenyan president defends US Ebola facility amid deadly protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/clip-kenyan-president-ebola-facility?traffic_source=rss",
+      "published_date": "2026-06-04T22:38:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
+      "published_date": "2026-06-04T21:40:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hundreds protest in Libya outside UN agency against undocumented migrants",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/hundreds-protest-in-libya-outside-un-agency-against-undocumented-migrants?traffic_source=rss",
+      "published_date": "2026-06-04T18:52:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia 2026 crisis: Heavy clashes rock Mogadishu for second day",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-2026-crisis-mogadishu-clashes-political-impasse/",
+      "published_date": "2026-06-04T17:02:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What do Turkiye and Indonesia want from bilateral talks?",
       "source": "Al Jazeera",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Deputy Prime Minister Attends Italy’s National Day Celebration in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-deputy-prime-minister-attends-italys-national-day-celebration-in-mogadishu/",
-      "published_date": "2026-06-03T08:33:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Disaster Agency, UN Officials Review Humanitarian Situation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-disaster-agency-un-officials-review-humanitarian-situation/",
-      "published_date": "2026-06-03T08:30:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
+      "title": "Democrat fails to block US measure to deepen Israel military cooperation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
-      "published_date": "2026-06-02T21:59:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss",
+      "published_date": "2026-06-04T23:28:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Deputy Prime Minister Joins Italy’s Republic Day Celebrations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/deputy-prime-minister-joins-italys-republic-day-celebrations/",
-      "published_date": "2026-06-02T19:31:33+00:00",
-      "category": "Diplomacy"
+      "title": "US defence secretary compares Bolivia protests to government ‘overthrow’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/us-defence-secretary-compares-bolivia-protests-to-government-overthrow?traffic_source=rss",
+      "published_date": "2026-06-04T21:01:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "SoDMA, UN Review Humanitarian Situation and Strengthen Aid Coordination Efforts",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sodma-un-review-humanitarian-situation-and-strengthen-aid-coordination-efforts/",
-      "published_date": "2026-06-02T19:29:58+00:00",
-      "category": "Diplomacy"
+      "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+      "published_date": "2026-06-04T18:59:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ecuador’s disappeared: Inside one family’s search for answers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/6/4/ecuadors-disappeared-inside-one-familys-search-for-answers?traffic_source=rss",
+      "published_date": "2026-06-04T17:11:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Midowga Afrika oo ku baaqay in la dejiyo xiisadaha ka taagan Muqdisho",
@@ -221,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "Somalia: Gun battles erupt in Mogadishu after raid on ex-PM’s home",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-clashes-government-opposition-forces-khaire/",
+      "published_date": "2026-06-03T17:54:42+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Somali Police Condemn Armed Attack on Police Facilities in Mogadishu",
       "source": "SONNA",
       "url": "https://sonna.so/en/somali-police-condemn-armed-attack-on-police-facilities-in-mogadishu/",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "WAR-SAXAAFADEED: Walaac laga qabo Xorriyadda Warbaahinta iyo Caburinta Saxaafadda ee Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/war-saxaafadeed-walaac-laga-qabo-xorriyadda-warbaahinta-iyo-caburinta-saxaafadda-ee-soomaaliya/",
-      "published_date": "2026-06-03T14:37:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel is building more military posts in Gaza, satellite imagery shows",
+      "title": "Saudi energy minister calls for ‘stable energy sector’ during Russia visit",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/israel-is-building-more-military-posts-in-gaza-satellite-imagery-shows?traffic_source=rss",
-      "published_date": "2026-06-03T12:01:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again?traffic_source=rss",
-      "published_date": "2026-06-03T11:42:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s invasion of southern Lebanon devastates centuries of history",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/israels-invasion-of-southern-lebanon-devastates-centuries-of-history?traffic_source=rss",
-      "published_date": "2026-06-03T10:41:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NISA, International Partners Kill 29 Al-Shabaab Militants in Central Somalia Operations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/nisa-international-partners-kill-29-al-shabaab-militants-in-central-somalia-operations/",
-      "published_date": "2026-06-03T06:29:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/4/saudi-energy-minister-call-for-stable-energy-sector-on-russia-visit?traffic_source=rss",
+      "published_date": "2026-06-04T18:30:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
@@ -331,6 +338,13 @@
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/29/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
       "published_date": "2026-05-29T17:00:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/democrats-force-vote-on-trumps-1-8bn-settlement-fund-in-vote-a-rama?traffic_source=rss",
+      "published_date": "2026-06-04T22:57:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Rights group sues South African government over US arms exports",
@@ -445,32 +459,25 @@
       "category": "Economy"
     },
     {
-      "title": "SOMALI FINANCE MINISTER ENGAGES AFRICAN DEVELOPMENT BANK PRESIDENT IN BRAZZAVILLE TO ACCELERATE ECONOMIC REFORMS AND INVESTMENT INFLOWS",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-finance-minister-engages-african-development-bank-president-in-brazzaville-to-accelerate-economic-reforms-and-investment-inflows/",
-      "published_date": "2026-05-28T23:09:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somali Finance Minister Engages AFDB To Accelerate Economic Reforms and Investment Inflows",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-finance-minister-engages-afdb-to-accelerate-economic-reforms-and-investment-inflows/",
-      "published_date": "2026-05-28T23:09:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Colombia’s first left-wing gov’t has reduced poverty, but has pile of debt",
+      "title": "Why is the US so invested in Colombia’s election?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/28/colombias-first-left-wing-govt-has-reduced-poverty-but-has-pile-of-debt?traffic_source=rss",
-      "published_date": "2026-05-28T21:56:47+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss",
+      "published_date": "2026-06-04T22:05:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia Finance Minister Meets AfDB President at Brazzaville Annual Meetings",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-finance-minister-meets-afdb-president-at-brazzaville-annual-meetings/",
-      "published_date": "2026-05-28T20:48:13+00:00",
-      "category": "Economy"
+      "title": "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss",
+      "published_date": "2026-06-04T16:38:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka hadashay dagaalkii Muqdisho",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/04/puntland-oo-ka-hadashay-dagaalkii-muqdisho/",
+      "published_date": "2026-06-04T16:16:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fighting in Somalia’s capital as anger over election delay erupts",
@@ -589,27 +596,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/mogadishu-authorities-approve-opposition-protest-designate-three-venues/",
       "published_date": "2026-06-03T15:41:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali opposition mobilises for planned Mogadishu protest",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-opposition-mobilises-for-planned-mogadishu-protest/",
-      "published_date": "2026-06-03T13:11:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is France so invested in the future of Lebanon?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/why-is-france-so-invested-in-the-future-of-lebanon?traffic_source=rss",
-      "published_date": "2026-06-03T13:09:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: Teachers in northern Nigeria protest abduction of school children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/video-teachers-in-northern-nigeria-protest-abduction-of-school-children?traffic_source=rss",
-      "published_date": "2026-06-03T12:23:23+00:00",
       "category": "Local Events"
     }
   ]
