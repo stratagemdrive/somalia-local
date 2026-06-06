@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-06T00:03:46.960382+00:00",
+  "last_updated": "2026-06-06T12:09:43.612967+00:00",
   "story_count": 87,
   "stories": [
+    {
+      "title": "Turkey Seeks to Mediate Between Somali Government and Opposition Amid Rising Tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/turkey-seeks-to-mediate-between-somali-government-and-opposition-amid-rising-tensions/",
+      "published_date": "2026-06-06T11:10:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
+      "published_date": "2026-06-06T09:18:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali FM praises Egypt’s support for Somalia in call with Abdelatty",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-fm-praises-egypts-support-for-somalia-in-call-with-abdelatty/",
+      "published_date": "2026-06-06T09:07:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali Ambassador to UN Geneva Engages in High-Level Global Labor and Social Protection Forums",
       "source": "SONNA",
@@ -123,25 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IGAD Calls for Immediate De-escalation to Protect Somalia’s Stability and Future",
+      "title": "Mucaaradka oo War Kasoo Saaray Howlgalka Hotel Elite iyo Xiisadda Ka Taagan Degmada Cabdicasiis",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/igad-calls-for-immediate-de-escalation-to-protect-somalias-stability-and-future/",
-      "published_date": "2026-06-04T08:39:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/mucaaradka-oo-war-kasoo-saaray-howlgalka-hotel-elite-iyo-xiisadda-ka-taagan-degmada-cabdicasiis/",
+      "published_date": "2026-06-06T11:46:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "IGAD oo walaac ka muujisay dagaallada ka socda Muqdisho",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/igad-oo-walaac-ka-muujisay-dagaallada-ka-socda-muqdisho/",
-      "published_date": "2026-06-04T08:36:49+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
+      "published_date": "2026-06-06T10:52:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN Urges Immediate End to Mogadishu Fighting, Calls for Return to Dialogue",
+      "title": "Somalia, government declares return of order. Tension remains high",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/06/somalia-government-declares-return-of-order-tension-remains-high/",
+      "published_date": "2026-06-06T10:00:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia launches sweeping security operation in Mogadishu",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-somali-mogadishu-security-operation-clashes/",
+      "published_date": "2026-06-06T09:22:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man dies in Western Australia after shark attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss",
+      "published_date": "2026-06-06T08:17:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
+      "published_date": "2026-06-06T07:51:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says Iranian radar sites hit in Goruk and Qeshm Island",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
+      "published_date": "2026-06-06T07:03:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea’s Kim orders navy to build 10,000-tonne destroyer: State media",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/north-koreas-kim-orders-navy-to-build-10000-tonne-destroyer-state-media?traffic_source=rss",
+      "published_date": "2026-06-06T06:55:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Police Launch Operation to Seize Illegal Weapons After Mogadishu Clashes",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-urges-immediate-end-to-mogadishu-fighting-calls-for-return-to-dialogue/",
-      "published_date": "2026-06-04T08:25:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-police-launch-operation-to-seize-illegal-weapons-after-mogadishu-clashes/",
+      "published_date": "2026-06-06T06:12:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Booliiska Banaadir oo Shaaciyay Qorshe Hub-Ururin ah oo laga Fuliyo Xaafadihii Lagu Dagaallamay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/booliiska-banaadir-oo-shaaciyay-qorshe-hub-ururin-ah-oo-laga-fuliyo-xaafadihii-lagu-dagaallamay/",
+      "published_date": "2026-06-06T05:43:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli soldier shoots Palestinian baby dead near Hebron",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss",
+      "published_date": "2026-06-06T04:58:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
+      "published_date": "2026-06-06T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
@@ -200,90 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Somalia Says Security Operation Ends After Clashes, Accuses Opposition-Linked Armed Groups",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-says-security-operation-ends-after-clashes-accuses-opposition-linked-armed-groups/",
-      "published_date": "2026-06-05T14:38:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo Sheegtay Inay Soo Afjartay Dhaqdhaqaaqyadii Hubeysnaa ee Muqdisho",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-sheegtay-inay-soo-afjartay-dhaqdhaqaaqyadii-hubeysnaa-ee-muqdisho/",
-      "published_date": "2026-06-05T14:13:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian marine drone explodes at Romanian port",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukrainian-marine-drone-explodes-at-romanian-port?traffic_source=rss",
-      "published_date": "2026-06-05T13:22:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues?traffic_source=rss",
-      "published_date": "2026-06-05T13:18:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone explosion in Romanian port spurs Ukraine war spillover fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/drone-explosion-in-romanian-port-spurs-ukraine-war-spillover-fears?traffic_source=rss",
-      "published_date": "2026-06-05T13:09:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside Syria’s fight against the Captagon trade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/inside-syrias-fight-against-the-captagon-trade?traffic_source=rss",
-      "published_date": "2026-06-05T13:08:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korean police break up 35-hour polling station protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/south-korean-police-break-up-35-hour-polling-station-protest?traffic_source=rss",
-      "published_date": "2026-06-05T12:38:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas says won’t surrender arms but only police will carry weapons in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-05T11:38:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IAEA brokers Ukraine ceasefire to allow nuclear plant repairs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/iaea-brokers-ukraine-ceasefire-to-allow-nuclear-plant-repairs?traffic_source=rss",
-      "published_date": "2026-06-05T11:01:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/zelenskyy-asks-putin-for-meeting-whats-he-offering-could-russia-accept?traffic_source=rss",
-      "published_date": "2026-06-05T10:56:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/how-the-world-failed-a-mothers-children-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-      "published_date": "2026-06-05T10:19:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US visa rejections, war on Iran keep fans away from World Cup",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/5/us-visa-rejections-war-on-iran-keep-fans-away-from-world-cup?traffic_source=rss",
-      "published_date": "2026-06-05T09:44:10+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump admin’s cancellation of wind energy projects causes business turmoil",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss",
@@ -338,6 +338,13 @@
       "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
       "published_date": "2026-05-31T16:38:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "The Golden Artery: How The China-Laos Railway is Re-Engineering Regional Trade and Infrastructure Economics",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/the-golden-artery-how-the-china-laos-railway-is-re-engineering-regional-trade-and-infrastructure-economics/",
+      "published_date": "2026-06-06T05:21:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump hails jobs surge, says Iran talks ‘going well’",
@@ -466,11 +473,46 @@
       "category": "Economy"
     },
     {
-      "title": "Voting ongoing in snap elections in Malta, governing party expected to win",
+      "title": "‘Cockroach Party’ leader returns to India for first New Delhi protest",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/voting-ongoing-in-snap-elections-in-malta-governing-party-expected-to-win?traffic_source=rss",
-      "published_date": "2026-05-30T08:22:40+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss",
+      "published_date": "2026-06-06T11:47:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo mamnuucday shirarka mucaaradka ee Qardho",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/06/puntland-oo-mamnuucday-shirarka-mucaaradka-ee-qardho/",
+      "published_date": "2026-06-06T10:02:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
+      "published_date": "2026-06-06T09:13:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNHCR Says Mogadishu Clashes Displaced 12,500 Families",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/unhcr-says-mogadishu-clashes-displaced-12500-families/",
+      "published_date": "2026-06-06T06:15:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qardho oo faras ku maamuustay Xasan Sheekh",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/06/qardho-oo-faras-ku-maamuustay-xasan-sheekh/",
+      "published_date": "2026-06-06T06:09:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Fiscal Cannibalism of Africa: How Punitive Taxation is Driving Industrial Capital to Asia and The Case for A Somali Industrial Revolution",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/the-fiscal-cannibalism-of-africa-how-punitive-taxation-is-driving-industrial-capital-to-asia-and-the-case-for-a-somali-industrial-revolution/",
+      "published_date": "2026-06-06T04:43:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Huge fire erupts at Honda warehouse in Barcelona",
@@ -568,48 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/4/nepali-mount-everest-guide-found-alive-after-being-missing-for-six-days?traffic_source=rss",
       "published_date": "2026-06-04T09:28:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "International Community Expresses Alarm Over Mogadishu Clashes",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/international-community-expresses-alarm-over-mogadishu-clashes/",
-      "published_date": "2026-06-04T08:21:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cabinet Ministers Attend Major Football Fixture at Mogadishu Stadium to Highlight Capital Stabilization Efforts",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/cabinet-ministers-attend-major-football-fixture-at-mogadishu-stadium-to-highlight-capital-stabilization-efforts/",
-      "published_date": "2026-06-04T05:20:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid will bring Mourinho back if Perez is re-elected",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/3/real-madrid-will-bring-mourinho-back-if-perez-is-re-elected?traffic_source=rss",
-      "published_date": "2026-06-03T22:13:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly fire rips through New Delhi hotel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss",
-      "published_date": "2026-06-03T21:01:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss",
-      "published_date": "2026-06-03T20:38:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes near Tyre hospital put youngest patient at risk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
-      "published_date": "2026-06-03T19:37:54+00:00",
       "category": "Local Events"
     }
   ]
