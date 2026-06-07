@@ -1,8 +1,71 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-07T00:02:00.041986+00:00",
-  "story_count": 89,
+  "last_updated": "2026-06-07T12:23:43.508092+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Minister of Foreign Affairs Meets Ministry Directors to Discuss Key Diplomatic Issues",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-foreign-affairs-meets-ministry-directors-to-discuss-key-diplomatic-issues/",
+      "published_date": "2026-06-07T11:30:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Security Council to Discuss Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-security-council-to-discuss-somalia/",
+      "published_date": "2026-06-07T11:10:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Golaha Ammaanka ee Qaramada Midoobay oo Ka Doodaya Xaaladda Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/golaha-ammaanka-ee-qaramada-midoobay-oo-ka-doodaya-xaaladda-soomaaliya/",
+      "published_date": "2026-06-07T10:59:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s President Appoints Veteran Politician Salad Ali Jeelle as Senior Adviser",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-appoints-veteran-politician-salah-ali-jeelle-as-senior-adviser/",
+      "published_date": "2026-06-07T09:39:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
+      "published_date": "2026-06-07T09:19:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia govt, opposition forces clash again near Mogadishu as political crisis deepens",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-govt-opposition-forces-clash-again-near-mogadishu-as-political-crisis-deepens/",
+      "published_date": "2026-06-07T09:08:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader?traffic_source=rss",
+      "published_date": "2026-06-07T08:45:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Health Ministry Releases Official Casualty Figures from Mogadishu Security Incidents",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/health-ministry-releases-official-casualty-figures-from-mogadishu-security-incidents/",
+      "published_date": "2026-06-07T08:44:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali President Appoints Veteran Diplomat Ambassador Salad Ali Jeelle as Senior Advisor",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-president-appoints-veteran-diplomat-ambassador-salad-ali-jeelle-as-senior-advisor/",
+      "published_date": "2026-06-07T07:59:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Federal Government Says It Has the Capacity to Extend Authority to Somaliland",
       "source": "Somali Dispatch",
@@ -81,67 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US raises pressure on Cuba as it sanctions President Diaz-Canel",
+      "title": "One killed, five wounded in shooting attack in Israel: Medics",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/us-raises-pressure-on-cuba-as-it-sanctions-president-diaz-canel?traffic_source=rss",
-      "published_date": "2026-06-05T09:17:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss",
+      "published_date": "2026-06-07T11:14:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "International Pressure Reportedly Helps Secure Ceasefire in Mogadishu Clashes",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/international-pressure-reportedly-helps-secure-ceasefire-in-mogadishu-clashes/",
-      "published_date": "2026-06-04T23:10:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenyan president defends US Ebola facility amid deadly protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/clip-kenyan-president-ebola-facility?traffic_source=rss",
-      "published_date": "2026-06-04T22:38:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
-      "published_date": "2026-06-04T21:40:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hundreds protest in Libya outside UN agency against undocumented migrants",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/hundreds-protest-in-libya-outside-un-agency-against-undocumented-migrants?traffic_source=rss",
-      "published_date": "2026-06-04T18:52:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia 2026 crisis: Heavy clashes rock Mogadishu for second day",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-2026-crisis-mogadishu-clashes-political-impasse/",
-      "published_date": "2026-06-04T17:02:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What do Turkiye and Indonesia want from bilateral talks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/what-do-turkiye-and-indonesia-want-from-bilateral-talks?traffic_source=rss",
-      "published_date": "2026-06-04T12:59:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "N Korea’s Kim Jong Un calls for ‘exponential’ expansion of nuclear arsenal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/n-koreas-kim-jong-un-calls-for-exponential-expansion-of-nuclear-arsenal?traffic_source=rss",
-      "published_date": "2026-06-04T12:50:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "African Union calls for calm in Mogadishu",
+      "title": "Dowlada oo beenisay war kasoo baxay Qaramada Midoobay ee xiisada ka dhacay Muqdisho",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-calls-for-calm-in-mogadishu/",
-      "published_date": "2026-06-04T11:16:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/dowlada-oo-beenisay-war-kasoo-baxay-qaramada-ee-xiisada-ka-dhacay-muqdisho/",
+      "published_date": "2026-06-07T10:54:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "1 killed and 5 injured in Israel shootings",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss",
+      "published_date": "2026-06-07T10:53:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hundred days of the US-Israel war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
+      "published_date": "2026-06-07T09:34:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidamada Danab oo Howlgallo Ka Fuliyay Gobolka Shabeellaha Hoose",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-danab-oo-howlgallo-ka-fuliyay-gobolka-shabeellaha-hoose/",
+      "published_date": "2026-06-07T09:33:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Commandos Target Al-Shabaab Sites in Lower Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-commandos-target-al-shabaab-sites-in-lower-shabelle/",
+      "published_date": "2026-06-07T09:32:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Clashes Erupt in Somalia Amid Tensions Linked to Former Security Minister",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/clashes-erupt-in-somalia-amid-tensions-linked-to-former-security-minister/",
+      "published_date": "2026-06-07T09:18:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The accomplishments of 100 days of war on Iran are undeniable",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
+      "published_date": "2026-06-07T08:55:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran after 100 days of war: The triumph of survival",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
+      "published_date": "2026-06-07T08:52:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Elite Commandos Dismantle Terrorist Extortion Network in Lower Shabelle Spec-Ops",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-elite-commandos-dismantle-terrorist-extortion-network-in-lower-shabelle-spec-ops/",
+      "published_date": "2026-06-07T08:23:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least a dozen injured from shooting attack near Ohio festival",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/at-least-a-dozen-injured-from-shooting-attack-near-ohio-festival?traffic_source=rss",
+      "published_date": "2026-06-07T08:18:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss",
+      "published_date": "2026-06-07T07:59:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Messi sits out Argentina’s pre-World Cup friendly due to hamstring strain",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/7/messi-sits-out-argentinas-pre-world-cup-friendly-due-to-hamstring-strain?traffic_source=rss",
+      "published_date": "2026-06-07T07:47:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
+      "published_date": "2026-06-07T07:33:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "When Mogadishu’s Elites Retreat to Marinaio",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/06/when-mogadishus-elites-retreat-to-marinaio/",
-      "published_date": "2026-06-06T17:27:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "100 days into the war on Iran, Trump fails to rally US support",
+      "title": "How have countries around the world responded to the US-Israel war on Iran?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
-      "published_date": "2026-06-06T17:04:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Opposition Warns Against Search of Former Army Chief’s Home",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-opposition-warns-against-search-of-former-army-chiefs-home/",
-      "published_date": "2026-06-06T16:16:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Activists disrupt German military exhibit over arms sales to Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss",
-      "published_date": "2026-06-06T15:34:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks in Lebanon kill 12 people, including high-ranking officers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
-      "published_date": "2026-06-06T15:30:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Banadir Police Command Conducts Targeted Raids in Abdiaziz District, Seizes Massive Weapons Cache from Opposition Residences",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/banadir-police-command-conducts-targeted-raids-in-abdiaziz-district-seizes-massive-weapons-cache-from-opposition-residences/",
-      "published_date": "2026-06-06T15:11:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss",
-      "published_date": "2026-06-06T15:09:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack on Gaza City tent camp kills at least seven",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-06T14:38:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon and Israel’s perpetual war machine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
-      "published_date": "2026-06-06T13:31:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President Hassan Appoints New Military Logistics Chief",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-appoints-new-military-logistics-chief/",
-      "published_date": "2026-06-06T12:24:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Madasha Samatabixinta oo Ka Digtay Qorshe Lagu Baarayo Guriga Gen. Odawaa Yuusuf Raage",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madasha-samatabixinta-oo-ka-digtay-qorshe-lagu-baarayo-guriga-gen-odawaa-yuusuf-raage/",
-      "published_date": "2026-06-06T11:56:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mucaaradka oo War Kasoo Saaray Howlgalka Hotel Elite iyo Xiisadda Ka Taagan Degmada Cabdicasiis",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mucaaradka-oo-war-kasoo-saaray-howlgalka-hotel-elite-iyo-xiisadda-ka-taagan-degmada-cabdicasiis/",
-      "published_date": "2026-06-06T11:46:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
-      "published_date": "2026-06-06T10:52:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia, government declares return of order. Tension remains high",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/06/somalia-government-declares-return-of-order-tension-remains-high/",
-      "published_date": "2026-06-06T10:00:36+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
+      "published_date": "2026-06-07T09:35:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Unacceptable situation’: Minister cries foul as Jamaica suffers blackout",
@@ -345,6 +352,20 @@
       "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
       "published_date": "2026-05-31T16:38:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Israeli settlers threaten to kill Palestinian farmer and harass sheep",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israeli-settlers-threaten-to-kill-palestinian-farmer-and-harass-sheep?traffic_source=rss",
+      "published_date": "2026-06-07T10:52:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss",
+      "published_date": "2026-06-07T09:39:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "What Afghanistan’s rotten apples tell us about its non-profit sector",
@@ -473,18 +494,25 @@
       "category": "Economy"
     },
     {
-      "title": "Gaza-bound aid ship begins voyage from Sweden",
+      "title": "Armenians go to polls in test of PM’s pivot to Europe amid Russian pressure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/gaza-bound-aid-ship-begins-voyage-from-sweden?traffic_source=rss",
-      "published_date": "2026-06-01T19:09:14+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/7/armenians-vote-in-election-testing-move-towards-west-amid-russian-backlash?traffic_source=rss",
+      "published_date": "2026-06-07T11:42:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US, Iran trade new attacks amid talks: Here’s what we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss",
-      "published_date": "2026-06-01T10:13:39+00:00",
-      "category": "Economy"
+      "title": "Interior Minister Receives Update on Progress of Civil Registration and Vital Statistics System",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/interior-minister-receives-update-on-progress-of-civil-registration-and-vital-statistics-system/",
+      "published_date": "2026-06-07T11:25:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ciidamo gadoodsan oo xirtay qaar ka mid ah waddooyinka Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/07/ciidamo-gadoodsan-oo-xirtay-qaar-ka-mid-ah-waddooyinka-garoowe/",
+      "published_date": "2026-06-07T10:43:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tunisians protest for press freedom and release of political prisoners",
@@ -603,27 +631,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/06/04/puntland-oo-ka-hadashay-dagaalkii-muqdisho/",
       "published_date": "2026-06-04T16:16:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fighting in Somalia’s capital as anger over election delay erupts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/fighting-in-somalias-capital-as-anger-over-election-delay-erupts?traffic_source=rss",
-      "published_date": "2026-06-04T13:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo si adag uga hadashay xaaladda Muqdisho, kuna baaqday xal siyaasadeed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-oo-si-adag-uga-hadashay-xaaladda-muqdisho-kuna-baaqday-xal-siyaasadeed/",
-      "published_date": "2026-06-04T12:15:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mahad Mohamed Sheikh Hassan Elected as New Speaker of South West State Parliament",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/mahad-mohamed-sheikh-hassan-elected-as-new-speaker-of-south-west-state-parliament/",
-      "published_date": "2026-06-04T11:34:52+00:00",
       "category": "Local Events"
     }
   ]
