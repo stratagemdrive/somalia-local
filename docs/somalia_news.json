@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-07T12:23:43.508092+00:00",
-  "story_count": 90,
+  "last_updated": "2026-06-08T00:04:03.273979+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "North Korea’s Kim Jong Un inspects munitions at weapons factory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss",
+      "published_date": "2026-06-07T22:38:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
+      "published_date": "2026-06-07T19:13:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Information launches National Workshop on UNESCO’s Memory of the World Programme",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-information-launches-national-workshop-on-unescos-memory-of-the-world-programme/",
+      "published_date": "2026-06-07T18:21:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Ambassador to Saudi Arabia Meets GCC Secretary-General to Strengthen Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-ambassador-to-saudi-arabia-meets-gcc-secretary-general-to-strengthen-cooperation/",
+      "published_date": "2026-06-07T17:02:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Somali President Warns of Deepening Political and Security Crisis",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-president-warns-of-deepening-political-and-security-crisis/",
+      "published_date": "2026-06-07T13:11:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Minister of Foreign Affairs Meets Ministry Directors to Discuss Key Diplomatic Issues",
       "source": "SONNA",
@@ -109,39 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Opposition Lawmaker Accuses President of Targeting Rivals Amid Mogadishu Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-opposition-lawmaker-accuses-president-of-targeting-rivals-amid-mogadishu-tensions/",
-      "published_date": "2026-06-05T13:11:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former Somali PM Khaire Says Ready to Fight Back if Attacked Again",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-pm-khaire-says-ready-to-fight-back-if-attacked-again/",
-      "published_date": "2026-06-05T13:09:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Federal Government of Somalia Restores Full Order in Mogadishu Districts Following Disarmament of Opposition Militias",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/federal-government-of-somalia-restores-full-order-in-mogadishu-districts-following-disarmament-of-opposition-militias/",
-      "published_date": "2026-06-05T12:11:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prime Minister Hamza Abdi Barre Nominates National Organizing Committee For 66th Independence and Unity Anniversaries",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-abdi-barre-nominates-national-organizing-committee-for-66th-independence-and-unity-anniversaries/",
-      "published_date": "2026-06-05T11:33:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-Iran war pushing millions into food crisis, warns UN",
+      "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/us-iran-war-pushing-millions-into-food-crisis-warns-un?traffic_source=rss",
-      "published_date": "2026-06-05T11:21:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss",
+      "published_date": "2026-06-07T21:33:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
+      "published_date": "2026-06-07T21:08:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran fires missiles at Israel after it attacked Beirut",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
+      "published_date": "2026-06-07T20:12:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian World Cup excitement dulled by war and economic crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
+      "published_date": "2026-06-07T19:43:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defense Ministry’s Permanent Secretary Chairs Key Meeting on Child Protection and Preventing Youth Exploitation in Conflict",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/defense-ministrys-permanent-secretary-chairs-key-meeting-on-child-protection-and-preventing-youth-exploitation-in-conflict/",
+      "published_date": "2026-06-07T18:43:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bolivia’s legislature passes law allowing use of troops against protesters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss",
+      "published_date": "2026-06-07T17:13:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
+      "published_date": "2026-06-07T16:49:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police say two suspects have been shot and killed in Israel gun attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss",
+      "published_date": "2026-06-07T16:17:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al Jazeera reports from Beirut after Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
+      "published_date": "2026-06-07T16:04:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss",
+      "published_date": "2026-06-07T15:44:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia Issues Official Casualty Figures After Mogadishu Clashes",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-issues-official-casualty-figures-after-mogadishu-clashes/",
+      "published_date": "2026-06-07T13:14:33+00:00",
+      "category": "Military"
     },
     {
       "title": "One killed, five wounded in shooting attack in Israel: Medics",
@@ -207,83 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Somali Elite Commandos Dismantle Terrorist Extortion Network in Lower Shabelle Spec-Ops",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-elite-commandos-dismantle-terrorist-extortion-network-in-lower-shabelle-spec-ops/",
-      "published_date": "2026-06-07T08:23:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least a dozen injured from shooting attack near Ohio festival",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/at-least-a-dozen-injured-from-shooting-attack-near-ohio-festival?traffic_source=rss",
-      "published_date": "2026-06-07T08:18:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss",
-      "published_date": "2026-06-07T07:59:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Messi sits out Argentina’s pre-World Cup friendly due to hamstring strain",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/7/messi-sits-out-argentinas-pre-world-cup-friendly-due-to-hamstring-strain?traffic_source=rss",
-      "published_date": "2026-06-07T07:47:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
-      "published_date": "2026-06-07T07:33:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
-      "published_date": "2026-06-06T21:10:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rights group says drone strike kills 11 in central Sudan market",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
-      "published_date": "2026-06-06T20:54:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s opposition accuses govt of deploying Turkish Kamikaze drones in assassination attempts",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-accuses-govt-turkish-drones/",
-      "published_date": "2026-06-06T20:16:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows Israeli soldier and settlers assaulting two Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss",
-      "published_date": "2026-06-06T19:48:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss",
-      "published_date": "2026-06-06T19:38:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
-      "published_date": "2026-06-06T19:25:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "How have countries around the world responded to the US-Israel war on Iran?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
@@ -344,13 +344,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/national-climate-fund-endorses-25-8-million-urban-water-security-project-and-232-million-water-investment-programme/",
       "published_date": "2026-06-01T11:03:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran ⁠restores some gas production at South Pars facility",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
-      "published_date": "2026-05-31T16:38:31+00:00",
       "category": "Energy"
     },
     {
@@ -494,6 +487,48 @@
       "category": "Economy"
     },
     {
+      "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
+      "published_date": "2026-06-07T21:12:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigerian forces rescue 360 captives from Boko Haram",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/nigerian-forces-rescue-360-captives-from-boko-haram?traffic_source=rss",
+      "published_date": "2026-06-07T16:58:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Somali Presidents Accuse Government of Targeting Opposition Leaders",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/former-somali-presidents-accuse-government-of-targeting-opposition-leaders/",
+      "published_date": "2026-06-07T16:57:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
+      "published_date": "2026-06-07T16:03:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo dib ugu soo laabtay Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/07/madaxweyne-deni-oo-dib-ugu-soo-laabtay-garoowe-4/",
+      "published_date": "2026-06-07T15:51:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
+      "published_date": "2026-06-07T15:20:11+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Armenians go to polls in test of PM’s pivot to Europe amid Russian pressure",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/7/armenians-vote-in-election-testing-move-towards-west-amid-russian-backlash?traffic_source=rss",
@@ -589,48 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu?traffic_source=rss",
       "published_date": "2026-06-05T17:03:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Somali President Meets Turkish Intelligence Official Amid Election Dispute",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-president-meets-turkish-intelligence-official-amid-election-dispute/",
-      "published_date": "2026-06-05T15:34:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fujimori vs Sanchez: What to know about Peru’s presidential run-off election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election?traffic_source=rss",
-      "published_date": "2026-06-05T13:25:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands protest in Albania over Kushner-linked resort project",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/thousands-protest-in-albania-over-kushner-linked-resort-project?traffic_source=rss",
-      "published_date": "2026-06-05T10:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is the US so invested in Colombia’s election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss",
-      "published_date": "2026-06-04T22:05:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss",
-      "published_date": "2026-06-04T16:38:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka hadashay dagaalkii Muqdisho",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/04/puntland-oo-ka-hadashay-dagaalkii-muqdisho/",
-      "published_date": "2026-06-04T16:16:18+00:00",
       "category": "Local Events"
     }
   ]
