@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-08T00:04:03.273979+00:00",
+  "last_updated": "2026-06-08T14:50:24.759999+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Somalia, China Discuss Expanding Defence and Security Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-china-discuss-expanding-defence-and-security-cooperation/",
+      "published_date": "2026-06-08T14:06:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Defence Minister, Chinese Ambassador Discuss Strengthening Defence and Security Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/defence-minister-chinese-ambassador-discuss-strengthening-defence-and-security-cooperation/",
+      "published_date": "2026-06-08T10:59:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Envoy Meets GCC Chief in Riyadh to Discuss Security and Economic Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-envoy-meets-gcc-chief-in-riyadh-to-discuss-security-and-economic-cooperation/",
+      "published_date": "2026-06-08T09:35:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Information Announces Preparations for Somalia’s Independence Week Celebrations",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-information-announces-preparations-for-somalias-independence-week-celebrations/",
+      "published_date": "2026-06-08T04:01:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "North Korea’s Kim Jong Un inspects munitions at weapons factory",
       "source": "Al Jazeera",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
+      "title": "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
-      "published_date": "2026-06-06T09:18:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/8/why-was-israel-spared-scrutiny-for-the-1967-uss-liberty-attack?traffic_source=rss",
+      "published_date": "2026-06-08T14:20:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali FM praises Egypt’s support for Somalia in call with Abdelatty",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-fm-praises-egypts-support-for-somalia-in-call-with-abdelatty/",
-      "published_date": "2026-06-06T09:07:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Ambassador to UN Geneva Engages in High-Level Global Labor and Social Protection Forums",
+      "title": "BANADIR POLICE COMMAND RECOVERS MASSIVE ILLEGAL ARMS CACHE AT HOTEL ELITE",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somali-ambassador-to-un-geneva-engages-in-high-level-global-labor-and-social-protection-forums/",
-      "published_date": "2026-06-05T16:25:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/banadir-police-command-recovers-massive-illegal-arms-cache-at-hotel-elite-2/",
+      "published_date": "2026-06-08T14:12:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran footballers hand passports to US embassy for World Cup visa approval",
+      "title": "Banadir Police Command Recovers Massive Illegal Arms Cache At Hotel Elite",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/banadir-police-command-recovers-massive-illegal-arms-cache-at-hotel-elite/",
+      "published_date": "2026-06-08T14:10:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 11 killed in Pakistan-administered Kashmir clashes before rally",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-hand-passports-to-us-embassy-for-world-cup-visa-approval?traffic_source=rss",
-      "published_date": "2026-06-05T13:27:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/8/at-least-11-killed-in-pakistan-administered-kashmir-clashes-before-rally?traffic_source=rss",
+      "published_date": "2026-06-08T12:59:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Smoke rises in illegal Israeli settlement after Iranian missile attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/smoke-rises-in-illegal-israeli-settlement-after-iranian-missile-attack?traffic_source=rss",
+      "published_date": "2026-06-08T11:56:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Israel claims strike on Iranian petrochemical complex",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/video-israel-claims-strike-on-iranian-petrochemical-complex?traffic_source=rss",
+      "published_date": "2026-06-08T11:50:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ohio police drag away football pitch invader in pre-World Cup friendly",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/ohio-police-drag-away-football-pitch-invader-in-pre-world-cup-friendly?traffic_source=rss",
+      "published_date": "2026-06-08T10:45:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kumaandooska DANAB oo Howlgal Ka Fuliyay Gobolka Baay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kumaandooska-danab-oo-howlgal-ka-fuliyay-gobolka-baay/",
+      "published_date": "2026-06-08T10:45:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran and Israel bomb each other: Is the ceasefire over?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/iran-and-israel-bomb-each-other-is-the-ceasefire-over?traffic_source=rss",
+      "published_date": "2026-06-08T10:38:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel kills 14 people in attacks across Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
+      "published_date": "2026-06-08T10:23:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss",
+      "published_date": "2026-06-08T08:49:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
+      "title": "How extreme weather and heat could affect players at World Cup 2026",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss",
-      "published_date": "2026-06-07T15:44:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Issues Official Casualty Figures After Mogadishu Clashes",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-issues-official-casualty-figures-after-mogadishu-clashes/",
-      "published_date": "2026-06-07T13:14:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed, five wounded in shooting attack in Israel: Medics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss",
-      "published_date": "2026-06-07T11:14:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowlada oo beenisay war kasoo baxay Qaramada Midoobay ee xiisada ka dhacay Muqdisho",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowlada-oo-beenisay-war-kasoo-baxay-qaramada-ee-xiisada-ka-dhacay-muqdisho/",
-      "published_date": "2026-06-07T10:54:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "1 killed and 5 injured in Israel shootings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss",
-      "published_date": "2026-06-07T10:53:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hundred days of the US-Israel war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
-      "published_date": "2026-06-07T09:34:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidamada Danab oo Howlgallo Ka Fuliyay Gobolka Shabeellaha Hoose",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-danab-oo-howlgallo-ka-fuliyay-gobolka-shabeellaha-hoose/",
-      "published_date": "2026-06-07T09:33:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Commandos Target Al-Shabaab Sites in Lower Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-commandos-target-al-shabaab-sites-in-lower-shabelle/",
-      "published_date": "2026-06-07T09:32:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Clashes Erupt in Somalia Amid Tensions Linked to Former Security Minister",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/clashes-erupt-in-somalia-amid-tensions-linked-to-former-security-minister/",
-      "published_date": "2026-06-07T09:18:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The accomplishments of 100 days of war on Iran are undeniable",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
-      "published_date": "2026-06-07T08:55:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran after 100 days of war: The triumph of survival",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
-      "published_date": "2026-06-07T08:52:20+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/sports/2026/6/8/how-extreme-weather-and-heat-could-affect-players-at-world-cup-2026?traffic_source=rss",
+      "published_date": "2026-06-08T13:38:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "How have countries around the world responded to the US-Israel war on Iran?",
@@ -340,11 +347,18 @@
       "category": "Energy"
     },
     {
-      "title": "National Climate Fund Endorses $25.8 Million Urban Water Security Project and $232 Million Water Investment Programme",
+      "title": "Somalia, Tanzania Reaffirm Commitment to Strengthening Trade and Investment Cooperation",
       "source": "SONNA",
-      "url": "https://sonna.so/en/national-climate-fund-endorses-25-8-million-urban-water-security-project-and-232-million-water-investment-programme/",
-      "published_date": "2026-06-01T11:03:11+00:00",
-      "category": "Energy"
+      "url": "https://sonna.so/en/somalia-tanzania-reaffirm-commitment-to-strengthening-trade-and-investment-cooperation/",
+      "published_date": "2026-06-08T09:34:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ukraine, Russia trade fire as Zelenskyy allies back call for direct talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks?traffic_source=rss",
+      "published_date": "2026-06-08T08:48:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Israeli settlers threaten to kill Palestinian farmer and harass sheep",
@@ -473,18 +487,74 @@
       "category": "Economy"
     },
     {
-      "title": "Swedish Delegation Visits Somalia Disaster Agency to Discuss Risk Management Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/swedish-delegation-visits-somalia-disaster-agency-to-discuss-risk-management-cooperation/",
-      "published_date": "2026-06-02T13:11:53+00:00",
-      "category": "Economy"
+      "title": "Constitutional Review Commission Issues Directive on Official Use of Somalia’s National Flag",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/constitutional-review-commission-issues-directive-on-official-use-of-somalias-national-flag/",
+      "published_date": "2026-06-08T14:10:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Refugee women in CAR face childbirth risks amid US funding cuts",
+      "title": "Puntland oo tababar u furmay ciidan magacooda lagu sheegay RRU",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/08/puntland-oo-tababar-u-furmay-ciidan-magacooda-lagu-sheegay-rru/",
+      "published_date": "2026-06-08T13:51:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran official says US to blame for resumption of hostilities",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/2/refugee-women-in-car-face-childbirth-risks-amid-us-funding-cuts?traffic_source=rss",
-      "published_date": "2026-06-02T11:14:18+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-spokesman-says-us-to-blame-for-resumption-of-hostilities?traffic_source=rss",
+      "published_date": "2026-06-08T10:40:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM Pashinyan’s party wins Armenia election, preliminary results show",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show?traffic_source=rss",
+      "published_date": "2026-06-08T10:32:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "China’s Xi Jinping arrives in North Korea on rare state visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/chinas-xi-jinping-arrives-in-north-korea-on-rare-state-visit?traffic_source=rss",
+      "published_date": "2026-06-08T09:55:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Launches UNESCO Workshop to Preserve Historical Archives",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-launches-unesco-workshop-to-preserve-historical-archives/",
+      "published_date": "2026-06-08T09:37:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Launches Preparations for 66th Independence Day Celebrations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-launches-preparations-for-66th-independence-day-celebrations/",
+      "published_date": "2026-06-08T09:21:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior Minister opens 3rd Somalia Mayors Forum in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/interior-minister-opens-3rd-somalia-mayors-forum-in-mogadishu/",
+      "published_date": "2026-06-08T09:17:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Hassan Sheikh accepts Farmajo appeal for final talks on election deadlock",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-farmajo-talks-electoral-deadlock/",
+      "published_date": "2026-06-08T07:56:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Third Somalia Mayors Forum Kicks Off in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/third-somalia-mayors-forum-kicks-off-in-mogadishu/",
+      "published_date": "2026-06-08T07:14:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
@@ -554,76 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
       "published_date": "2026-06-06T21:07:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US doctor recovers from Ebola in Germany as DRC cases surge to 488",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/us-doctor-recovers-from-ebola-in-germany-as-drc-cases-surge-to-488?traffic_source=rss",
-      "published_date": "2026-06-06T20:01:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/6/im-a-cockroach-gen-z-protest-movement-lands-in-indian-capital?traffic_source=rss",
-      "published_date": "2026-06-06T15:27:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Cockroach Party’ leader returns to India for first New Delhi protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss",
-      "published_date": "2026-06-06T11:47:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo mamnuucday shirarka mucaaradka ee Qardho",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/06/puntland-oo-mamnuucday-shirarka-mucaaradka-ee-qardho/",
-      "published_date": "2026-06-06T10:02:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
-      "published_date": "2026-06-06T09:13:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNHCR Says Mogadishu Clashes Displaced 12,500 Families",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/unhcr-says-mogadishu-clashes-displaced-12500-families/",
-      "published_date": "2026-06-06T06:15:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qardho oo faras ku maamuustay Xasan Sheekh",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/06/qardho-oo-faras-ku-maamuustay-xasan-sheekh/",
-      "published_date": "2026-06-06T06:09:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Fiscal Cannibalism of Africa: How Punitive Taxation is Driving Industrial Capital to Asia and The Case for A Somali Industrial Revolution",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/the-fiscal-cannibalism-of-africa-how-punitive-taxation-is-driving-industrial-capital-to-asia-and-the-case-for-a-somali-industrial-revolution/",
-      "published_date": "2026-06-06T04:43:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huge fire erupts at Honda warehouse in Barcelona",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/huge-fire-erupts-at-honda-warehouse-in-barcelona?traffic_source=rss",
-      "published_date": "2026-06-05T18:39:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia declares order restored after two days of fighting in Mogadishu",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu?traffic_source=rss",
-      "published_date": "2026-06-05T17:03:11+00:00",
       "category": "Local Events"
     }
   ]
