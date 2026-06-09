@@ -1,8 +1,78 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-09T00:02:50.539764+00:00",
+  "last_updated": "2026-06-09T13:45:51.069090+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Somalia, Türkiye Advance Strategic Cooperation on Spaceport Project",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-turkiye-advance-strategic-cooperation-on-spaceport-project/",
+      "published_date": "2026-06-09T13:34:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuelans flood capital Caracas streets, demanding free elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/venezuelans-flood-capital-caracas-streets-demanding-free-elections?traffic_source=rss",
+      "published_date": "2026-06-09T12:30:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/italys-foreign-minister-slams-israels-ben-gvir-over-flip-flop-comments?traffic_source=rss",
+      "published_date": "2026-06-09T12:00:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Somali minister claims Israel infiltrated Somalia’s institutions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-minister-israel-infiltrated-somalia-institutions/",
+      "published_date": "2026-06-09T11:55:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Regrets World Cup Absence of Referee Omar Artan After U.S. Entry Setback",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-regrets-world-cup-absence-of-referee-omar-artan-after-u-s-entry-setback/",
+      "published_date": "2026-06-09T11:51:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Referee Thanks Supporters After U.S. Entry Ban Derails World Cup Role",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-referee-thanks-supporters-after-u-s-entry-ban-derails-world-cup-role/",
+      "published_date": "2026-06-09T11:49:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Geopolitical Conflicts Exacerbate Inflation and Food Insecurity in the Horn of Africa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/geopolitical-conflicts-exacerbate-inflation-and-food-insecurity-in-the-horn-of-africa/",
+      "published_date": "2026-06-09T10:18:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss",
+      "published_date": "2026-06-09T10:18:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Information Launches Rehabilitation of Radio Mogadishu Archive to Advance Modernization Efforts",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-information-launches-rehabilitation-of-radio-mogadishu-archive-to-advance-modernization-efforts/",
+      "published_date": "2026-06-09T10:15:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Protests erupt in Kenya over US Ebola quarantine centre in Nanyuki",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/protests-erupt-in-kenya-over-us-ebola-quarantine-centre-in-nanyuki?traffic_source=rss",
+      "published_date": "2026-06-09T08:18:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
       "source": "Al Jazeera",
@@ -74,74 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Minister of Information Announces Preparations for Somalia’s Independence Week Celebrations",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-information-announces-preparations-for-somalias-independence-week-celebrations/",
-      "published_date": "2026-06-08T04:01:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "North Korea’s Kim Jong Un inspects munitions at weapons factory",
+      "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss",
-      "published_date": "2026-06-07T22:38:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/video-captures-russian-attack-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "published_date": "2026-06-09T12:05:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
+      "title": "Hundred days of Israel’s latest war on Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
-      "published_date": "2026-06-07T19:13:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss",
+      "published_date": "2026-06-09T10:37:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Minister of Information launches National Workshop on UNESCO’s Memory of the World Programme",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-information-launches-national-workshop-on-unescos-memory-of-the-world-programme/",
-      "published_date": "2026-06-07T18:21:02+00:00",
-      "category": "Diplomacy"
+      "title": "Indian crew rescued after attack on oil tanker off Oman",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/indian-crew-rescued-after-attack-on-oil-tanker-off-oman?traffic_source=rss",
+      "published_date": "2026-06-09T08:37:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Ambassador to Saudi Arabia Meets GCC Secretary-General to Strengthen Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-ambassador-to-saudi-arabia-meets-gcc-secretary-general-to-strengthen-cooperation/",
-      "published_date": "2026-06-07T17:02:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former Somali President Warns of Deepening Political and Security Crisis",
+      "title": "Dowladda Soomaaliya oo War Kasoo Saartay  Hor Istaagii Garsoore Cartan",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-president-warns-of-deepening-political-and-security-crisis/",
-      "published_date": "2026-06-07T13:11:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Minister of Foreign Affairs Meets Ministry Directors to Discuss Key Diplomatic Issues",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-foreign-affairs-meets-ministry-directors-to-discuss-key-diplomatic-issues/",
-      "published_date": "2026-06-07T11:30:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN Security Council to Discuss Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-security-council-to-discuss-somalia/",
-      "published_date": "2026-06-07T11:10:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Golaha Ammaanka ee Qaramada Midoobay oo Ka Doodaya Xaaladda Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/golaha-ammaanka-ee-qaramada-midoobay-oo-ka-doodaya-xaaladda-soomaaliya/",
-      "published_date": "2026-06-07T10:59:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia’s President Appoints Veteran Politician Salad Ali Jeelle as Senior Adviser",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-president-appoints-veteran-politician-salah-ali-jeelle-as-senior-adviser/",
-      "published_date": "2026-06-07T09:39:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-war-kasoo-saartay-hor-istaagii-garsoore-cumar-cartan-looga-hor-istaagay-ka-qeybgalka-tartanka-koobka-aduunka/",
+      "published_date": "2026-06-09T07:28:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp",
@@ -176,6 +204,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/8/nato-jets-shoot-down-drone-over-latvia-extending-ukraine-spillover-fears?traffic_source=rss",
       "published_date": "2026-06-08T18:54:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia police say weapons cache found in Mogadishu’s Elite Hotel",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-police-weapons-cache-mogadishu-elite-hotel-abdullahi-mohamed-nur/",
+      "published_date": "2026-06-08T17:58:00+00:00",
       "category": "Military"
     },
     {
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran and Israel bomb each other: Is the ceasefire over?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/iran-and-israel-bomb-each-other-is-the-ceasefire-over?traffic_source=rss",
-      "published_date": "2026-06-08T10:38:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills 14 people in attacks across Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
-      "published_date": "2026-06-08T10:23:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss",
-      "published_date": "2026-06-08T08:49:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss",
-      "published_date": "2026-06-07T21:33:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
-      "published_date": "2026-06-07T21:08:59+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Southern Philippines hit by 7.8-magnitude earthquake",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/gallery/2026/6/8/southern-philippines-hit-by-7-8-magnitude-earthquake?traffic_source=rss",
@@ -352,6 +352,13 @@
       "url": "https://sonna.so/en/korea-africa-senior-officials-meeting-strengthens-partnership-for-shared-prosperity/",
       "published_date": "2026-06-03T08:23:40+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
+      "published_date": "2026-06-09T09:17:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "How significant is Xi Jinping’s visit to North Korea?",
@@ -487,11 +494,67 @@
       "category": "Economy"
     },
     {
-      "title": "US cites forced labour concerns as grounds for new tariffs",
+      "title": "SoDMA launches consultative meeting on the establishment of National Disaster Risk Management Fund",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/sodma-launches-consultative-meeting-on-the-establishment-of-national-disaster-risk-management-fund/",
+      "published_date": "2026-06-09T12:54:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo 18 askari u xirty falkii ka dhacay Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/09/puntland-oo-18-askari-u-xirty-falkii-ka-dhacay-garoowe/",
+      "published_date": "2026-06-09T11:50:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior Ministry Director General Co-Chairs Somalia Stability Fund Technical Joint Steering Committee Meeting",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/interior-ministry-director-general-co-chairs-somalia-stability-fund-technical-joint-steering-committee-meeting/",
+      "published_date": "2026-06-09T10:04:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Electoral Commission Issues Strict Transparency Mandate Ahead of Southwest State Presidential Vote",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/electoral-commission-issues-strict-transparency-mandate-ahead-of-southwest-state-presidential-vote/",
+      "published_date": "2026-06-09T09:55:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Expresses Sorrow Over U.S. Entry Denial of Referee Omar Abdulkadir Artan",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-expresses-sorrow-over-u-s-entry-denial-of-referee-omar-abdulkadir-artan/",
+      "published_date": "2026-06-09T09:25:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: What time can fans in Europe, Middle East and Africa watch?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss",
-      "published_date": "2026-06-03T17:10:40+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/9/world-cup-2026-what-time-can-fans-in-europe-middle-east-and-africa-watch?traffic_source=rss",
+      "published_date": "2026-06-09T08:16:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nabadoon lagu xiray Qardho",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/09/nabadoon-lagu-xiray-qardho/",
+      "published_date": "2026-06-09T08:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hirshabelle regional President, AUSSOM Commander Discuss Security Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hirshabelle-regional-president-aussom-commander-discuss-security-cooperation/",
+      "published_date": "2026-06-09T07:48:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Workshop on UNESCO’s Memory of the World Programme Concludes in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-workshop-on-unescos-memory-of-the-world-programme-concludes-in-mogadishu/",
+      "published_date": "2026-06-09T05:19:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump nominates Todd Blanche as attorney general, setting up Senate fight",
@@ -568,69 +631,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-farmajo-talks-electoral-deadlock/",
       "published_date": "2026-06-08T07:56:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Third Somalia Mayors Forum Kicks Off in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/third-somalia-mayors-forum-kicks-off-in-mogadishu/",
-      "published_date": "2026-06-08T07:14:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
-      "published_date": "2026-06-07T21:12:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigerian forces rescue 360 captives from Boko Haram",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/nigerian-forces-rescue-360-captives-from-boko-haram?traffic_source=rss",
-      "published_date": "2026-06-07T16:58:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Somali Presidents Accuse Government of Targeting Opposition Leaders",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/former-somali-presidents-accuse-government-of-targeting-opposition-leaders/",
-      "published_date": "2026-06-07T16:57:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
-      "published_date": "2026-06-07T16:03:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo dib ugu soo laabtay Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/07/madaxweyne-deni-oo-dib-ugu-soo-laabtay-garoowe-4/",
-      "published_date": "2026-06-07T15:51:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
-      "published_date": "2026-06-07T15:20:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenians go to polls in test of PM’s pivot to Europe amid Russian pressure",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/armenians-vote-in-election-testing-move-towards-west-amid-russian-backlash?traffic_source=rss",
-      "published_date": "2026-06-07T11:42:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Minister Receives Update on Progress of Civil Registration and Vital Statistics System",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/interior-minister-receives-update-on-progress-of-civil-registration-and-vital-statistics-system/",
-      "published_date": "2026-06-07T11:25:57+00:00",
       "category": "Local Events"
     }
   ]
