@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-08T14:50:24.759999+00:00",
-  "story_count": 89,
+  "last_updated": "2026-06-09T00:02:50.539764+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/un-human-rights-leader-calls-for-cuba-sanctions-to-be-lifted-immediately?traffic_source=rss",
+      "published_date": "2026-06-08T21:43:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU planning to add to $1.5 trillion sanctions hit on Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss",
+      "published_date": "2026-06-08T21:25:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China’s Xi Jinping and North Korea’s Kim Jong Un meet in Pyongyang",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/chinas-xi-jinping-and-north-koreas-kim-jong-un-meet-in-pyongyang?traffic_source=rss",
+      "published_date": "2026-06-08T19:36:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Albanian PM Rama vows to push on with Kushner-linked luxury resort",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/albanian-pm-rama-vows-to-push-on-with-kushner-linked-luxury-resort?traffic_source=rss",
+      "published_date": "2026-06-08T19:30:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Security Minister meets Chinese Ambassador, discusses advancing shared priorities",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/security-minister-meets-chinese-ambassador-discusses-advancing-shared-priorities/",
+      "published_date": "2026-06-08T19:05:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US imposes restrictions on 100 Nicaraguan officials after activist’s death",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/us-imposes-restrictions-on-100-nicaraguan-officials-after-activists-death?traffic_source=rss",
+      "published_date": "2026-06-08T18:49:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AUSSOM Chief, EU Ambassador Discuss Security and Stabilisation Efforts in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/aussom-chief-eu-ambassador-discuss-security-and-stabilisation-efforts-in-somalia/",
+      "published_date": "2026-06-08T14:08:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, China Discuss Expanding Defence and Security Cooperation",
       "source": "Shabelle Media",
@@ -95,53 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
+      "title": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
-      "published_date": "2026-06-07T09:19:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss",
+      "published_date": "2026-06-08T22:58:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia govt, opposition forces clash again near Mogadishu as political crisis deepens",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-govt-opposition-forces-clash-again-near-mogadishu-as-political-crisis-deepens/",
-      "published_date": "2026-06-07T09:08:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
+      "title": "France and Germany scrap fighter jet in hit to European defence cooperation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader?traffic_source=rss",
-      "published_date": "2026-06-07T08:45:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/8/france-and-germany-scrap-fighter-jet-in-hit-to-european-defence-cooperation?traffic_source=rss",
+      "published_date": "2026-06-08T20:38:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Health Ministry Releases Official Casualty Figures from Mogadishu Security Incidents",
+      "title": "CCTV captures moment of deadly strike on Zaporizhzhia, Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/cctv-captures-moment-of-deadly-strike-on-zaporizhzhia-ukraine?traffic_source=rss",
+      "published_date": "2026-06-08T20:14:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US congressman demands probe into Israel’s 1967 attack on USS Liberty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/us-congressman-demands-probe-into-israels-1967-attack-on-uss-liberty?traffic_source=rss",
+      "published_date": "2026-06-08T20:03:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO jets shoot down drone over Latvia, extending Ukraine spillover fears",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/nato-jets-shoot-down-drone-over-latvia-extending-ukraine-spillover-fears?traffic_source=rss",
+      "published_date": "2026-06-08T18:54:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NISA, International Partners Eliminate Senior Al-Shabaab Leader in Lower Shabelle Operation",
       "source": "SONNA",
-      "url": "https://sonna.so/en/health-ministry-releases-official-casualty-figures-from-mogadishu-security-incidents/",
-      "published_date": "2026-06-07T08:44:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali President Appoints Veteran Diplomat Ambassador Salad Ali Jeelle as Senior Advisor",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-president-appoints-veteran-diplomat-ambassador-salad-ali-jeelle-as-senior-advisor/",
-      "published_date": "2026-06-07T07:59:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Federal Government Says It Has the Capacity to Extend Authority to Somaliland",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/federal-government-says-it-has-the-capacity-to-extend-authority-to-somaliland/",
-      "published_date": "2026-06-06T18:18:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkey Seeks to Mediate Between Somali Government and Opposition Amid Rising Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/turkey-seeks-to-mediate-between-somali-government-and-opposition-amid-rising-tensions/",
-      "published_date": "2026-06-06T11:10:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/nisa-international-partners-eliminate-senior-al-shabaab-leader-in-lower-shabelle-operation/",
+      "published_date": "2026-06-08T17:49:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
@@ -155,6 +197,13 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/banadir-police-command-recovers-massive-illegal-arms-cache-at-hotel-elite-2/",
       "published_date": "2026-06-08T14:12:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Special Forces Raid Al-Shabaab Positions in Bay Region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-special-forces-raid-al-shabaab-positions-in-bay-region/",
+      "published_date": "2026-06-08T14:10:40+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran fires missiles at Israel after it attacked Beirut",
+      "title": "Southern Philippines hit by 7.8-magnitude earthquake",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
-      "published_date": "2026-06-07T20:12:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian World Cup excitement dulled by war and economic crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
-      "published_date": "2026-06-07T19:43:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defense Ministry’s Permanent Secretary Chairs Key Meeting on Child Protection and Preventing Youth Exploitation in Conflict",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/defense-ministrys-permanent-secretary-chairs-key-meeting-on-child-protection-and-preventing-youth-exploitation-in-conflict/",
-      "published_date": "2026-06-07T18:43:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivia’s legislature passes law allowing use of troops against protesters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss",
-      "published_date": "2026-06-07T17:13:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
-      "published_date": "2026-06-07T16:49:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police say two suspects have been shot and killed in Israel gun attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss",
-      "published_date": "2026-06-07T16:17:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera reports from Beirut after Israeli attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
-      "published_date": "2026-06-07T16:04:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/gallery/2026/6/8/southern-philippines-hit-by-7-8-magnitude-earthquake?traffic_source=rss",
+      "published_date": "2026-06-08T19:10:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "How extreme weather and heat could affect players at World Cup 2026",
@@ -345,6 +352,34 @@
       "url": "https://sonna.so/en/korea-africa-senior-officials-meeting-strengthens-partnership-for-shared-prosperity/",
       "published_date": "2026-06-03T08:23:40+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "How significant is Xi Jinping’s visit to North Korea?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/8/how-significant-is-xi-jinpings-visit-to-north-korea?traffic_source=rss",
+      "published_date": "2026-06-08T20:42:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will the FIFA World Cup be the economic bonanza US cities were promised?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/8/will-the-fifa-world-cup-be-the-economic-bonanza-us-cities-were-promised?traffic_source=rss",
+      "published_date": "2026-06-08T20:35:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fisheries Minister Meets UNECA East Africa Director to Advance Blue Economy Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/fisheries-minister-meets-uneca-east-africa-director-to-advance-blue-economy-cooperation/",
+      "published_date": "2026-06-08T17:58:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Director General Opens Workshop to Validate Somalia’s Blue Economy Assessment Study",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/director-general-opens-workshop-to-validate-somalias-blue-economy-assessment-study/",
+      "published_date": "2026-06-08T17:32:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia, Tanzania Reaffirm Commitment to Strengthening Trade and Investment Cooperation",
@@ -459,32 +494,18 @@
       "category": "Economy"
     },
     {
-      "title": "U.S. Congressional Report Highlights Opportunities for Expanded Engagement with Somaliland",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/u-s-congressional-report-highlights-opportunities-for-expanded-engagement-with-somaliland/",
-      "published_date": "2026-06-03T03:39:31+00:00",
-      "category": "Economy"
+      "title": "Trump nominates Todd Blanche as attorney general, setting up Senate fight",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/trump-nominates-todd-blanche-as-attorney-general-setting-up-senate-fight?traffic_source=rss",
+      "published_date": "2026-06-08T23:17:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Drones light up Taipei’s night sky for Computex trade show",
+      "title": "Gaza cancer patient waits for a chance at life",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/drones-light-up-taipeis-night-sky-for-computex-trade-show?traffic_source=rss",
-      "published_date": "2026-06-02T21:59:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump administration scraps $1.8bn ‘anti-weaponisation fund’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
-      "published_date": "2026-06-02T21:44:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inside the billion-dollar business of getting a visa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/2/aje-onl-tt_glb_vfs_video-020626?traffic_source=rss",
-      "published_date": "2026-06-02T19:43:32+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/gaza-cancer-patient-waits-for-a-chance-at-life?traffic_source=rss",
+      "published_date": "2026-06-08T20:47:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Constitutional Review Commission Issues Directive on Official Use of Somalia’s National Flag",
@@ -610,20 +631,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/interior-minister-receives-update-on-progress-of-civil-registration-and-vital-statistics-system/",
       "published_date": "2026-06-07T11:25:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidamo gadoodsan oo xirtay qaar ka mid ah waddooyinka Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/07/ciidamo-gadoodsan-oo-xirtay-qaar-ka-mid-ah-waddooyinka-garoowe/",
-      "published_date": "2026-06-07T10:43:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tunisians protest for press freedom and release of political prisoners",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
-      "published_date": "2026-06-06T21:07:19+00:00",
       "category": "Local Events"
     }
   ]
