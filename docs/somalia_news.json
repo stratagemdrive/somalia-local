@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-10T00:09:57.085544+00:00",
-  "story_count": 91,
+  "last_updated": "2026-06-10T14:26:19.542780+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Somalia, EU Strengthen Cooperation on Media and Countering Misinformation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-eu-strengthen-cooperation-on-media-and-countering-misinformation/",
+      "published_date": "2026-06-10T14:22:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali PM Hails Referee Omar Artan as Symbol of Hope After World Cup Setback",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-hails-referee-omar-artan-as-symbol-of-hope-after-world-cup-setback/",
+      "published_date": "2026-06-10T11:58:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Safaaradda Soomaaliya ee Qatar oo Ka Qayb Gashay Xuska Maalinta Afrika ee Dooxa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/safaaradda-soomaaliya-ee-qatar-oo-ka-qayb-gashay-xuska-maalinta-afrika-ee-dooxa/",
+      "published_date": "2026-06-10T09:57:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Opposition Accuses Government of Targeting Political Rivals",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-opposition-accuses-government-of-targeting-political-rivals/",
+      "published_date": "2026-06-10T09:49:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Showcases Culture at Africa Day Celebration in Qatar",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-showcases-culture-at-africa-day-celebration-in-qatar/",
+      "published_date": "2026-06-10T09:19:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kenya’s police crack down on protest against US Ebola centre in Nanyuki",
       "source": "Al Jazeera",
@@ -109,39 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Albanian PM Rama vows to push on with Kushner-linked luxury resort",
+      "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/albanian-pm-rama-vows-to-push-on-with-kushner-linked-luxury-resort?traffic_source=rss",
-      "published_date": "2026-06-08T19:30:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/10/west-bank-ethnic-cleansing-settler-attacks-israels-state-policy-amnesty?traffic_source=rss",
+      "published_date": "2026-06-10T12:55:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Security Minister meets Chinese Ambassador, discusses advancing shared priorities",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/security-minister-meets-chinese-ambassador-discusses-advancing-shared-priorities/",
-      "published_date": "2026-06-08T19:05:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US imposes restrictions on 100 Nicaraguan officials after activist’s death",
+      "title": "7-month-old baby shot by Israeli soldier in Hebron",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/us-imposes-restrictions-on-100-nicaraguan-officials-after-activists-death?traffic_source=rss",
-      "published_date": "2026-06-08T18:49:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/7-month-old-baby-shot-by-israeli-soldier-in-hebron?traffic_source=rss",
+      "published_date": "2026-06-10T12:44:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "AUSSOM Chief, EU Ambassador Discuss Security and Stabilisation Efforts in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-chief-eu-ambassador-discuss-security-and-stabilisation-efforts-in-somalia/",
-      "published_date": "2026-06-08T14:08:22+00:00",
-      "category": "Diplomacy"
+      "title": "Pakistan military helicopter crashes in Kashmir, all on board killed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed?traffic_source=rss",
+      "published_date": "2026-06-10T12:30:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, China Discuss Expanding Defence and Security Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-china-discuss-expanding-defence-and-security-cooperation/",
-      "published_date": "2026-06-08T14:06:08+00:00",
-      "category": "Diplomacy"
+      "title": "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire?traffic_source=rss",
+      "published_date": "2026-06-10T11:57:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What’s happening at the World Cup one day before tournament starts?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/10/whats-happening-at-the-world-cup-one-day-before-tournament-starts?traffic_source=rss",
+      "published_date": "2026-06-10T11:40:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why has Belfast erupted in anti-immigrant violence after a knife attack?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack?traffic_source=rss",
+      "published_date": "2026-06-10T10:50:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss",
+      "published_date": "2026-06-10T10:09:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran fires missiles at US bases carrying images of killed commanders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss",
+      "published_date": "2026-06-10T09:45:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anti-immigration protests break out in Belfast after knife attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/10/anti-immigration-protests-break-out-in-belfast-after-knife-attack?traffic_source=rss",
+      "published_date": "2026-06-10T08:30:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss",
+      "published_date": "2026-06-10T08:27:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Twelve killed in Johannesburg mass shooting, manhunt under way",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/twelve-killed-in-johannesburg-mass-shooting-manhunt-under-way?traffic_source=rss",
+      "published_date": "2026-06-10T08:11:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
@@ -207,83 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Hundred days of Israel’s latest war on Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss",
-      "published_date": "2026-06-09T10:37:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian crew rescued after attack on oil tanker off Oman",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/indian-crew-rescued-after-attack-on-oil-tanker-off-oman?traffic_source=rss",
-      "published_date": "2026-06-09T08:37:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo War Kasoo Saartay  Hor Istaagii Garsoore Cartan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-war-kasoo-saartay-hor-istaagii-garsoore-cumar-cartan-looga-hor-istaagay-ka-qeybgalka-tartanka-koobka-aduunka/",
-      "published_date": "2026-06-09T07:28:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss",
-      "published_date": "2026-06-08T22:58:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France and Germany scrap fighter jet in hit to European defence cooperation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/france-and-germany-scrap-fighter-jet-in-hit-to-european-defence-cooperation?traffic_source=rss",
-      "published_date": "2026-06-08T20:38:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CCTV captures moment of deadly strike on Zaporizhzhia, Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/cctv-captures-moment-of-deadly-strike-on-zaporizhzhia-ukraine?traffic_source=rss",
-      "published_date": "2026-06-08T20:14:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US congressman demands probe into Israel’s 1967 attack on USS Liberty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/us-congressman-demands-probe-into-israels-1967-attack-on-uss-liberty?traffic_source=rss",
-      "published_date": "2026-06-08T20:03:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO jets shoot down drone over Latvia, extending Ukraine spillover fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/nato-jets-shoot-down-drone-over-latvia-extending-ukraine-spillover-fears?traffic_source=rss",
-      "published_date": "2026-06-08T18:54:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia police say weapons cache found in Mogadishu’s Elite Hotel",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-police-weapons-cache-mogadishu-elite-hotel-abdullahi-mohamed-nur/",
-      "published_date": "2026-06-08T17:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NISA, International Partners Eliminate Senior Al-Shabaab Leader in Lower Shabelle Operation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/nisa-international-partners-eliminate-senior-al-shabaab-leader-in-lower-shabelle-operation/",
-      "published_date": "2026-06-08T17:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/why-was-israel-spared-scrutiny-for-the-1967-uss-liberty-attack?traffic_source=rss",
-      "published_date": "2026-06-08T14:20:05+00:00",
-      "category": "Military"
-    },
-    {
       "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss",
@@ -344,20 +344,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
       "published_date": "2026-06-03T21:15:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Is Asia facing a new currency crisis?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/3/is-asia-facing-a-new-currency-crisis?traffic_source=rss",
-      "published_date": "2026-06-03T12:40:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Korea-Africa Senior Officials’ Meeting Strengthens Partnership for Shared Prosperity",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/korea-africa-senior-officials-meeting-strengthens-partnership-for-shared-prosperity/",
-      "published_date": "2026-06-03T08:23:40+00:00",
       "category": "Energy"
     },
     {
@@ -501,6 +487,90 @@
       "category": "Economy"
     },
     {
+      "title": "President Hassan Sheikh Mohamud Congratulates Sheikh Adan Mohamed Nur “Madobe” on Election as Southwest State Leader",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-congratulates-sheikh-adan-mohamed-nur-madobe-on-election-as-southwest-state-leader/",
+      "published_date": "2026-06-10T14:08:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo sheegtay in ay tallaabo ka qaadayso mucaaradka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/10/puntland-oo-sheegtay-in-ay-tallaabo-ka-qaadayso-mucaaradka/",
+      "published_date": "2026-06-10T13:38:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Talks to Free Egyptian Sailors Held by Somali Pirates Collapse Over Ransom Dispute",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/talks-to-free-egyptian-sailors-held-by-somali-pirates-collapse-over-ransom-dispute/",
+      "published_date": "2026-06-10T13:17:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Parliament Speaker Wins South West State Presidential Election",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-parliament-speaker-wins-south-west-state-presidential-election/",
+      "published_date": "2026-06-10T12:59:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kashmiri rights activist wins partial court victory but remains behind bars",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/kashmiri-rights-activist-wins-partial-court-victory-but-remains-behind-bars?traffic_source=rss",
+      "published_date": "2026-06-10T12:18:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hero’s welcome for Somali referee denied entry to US World Cup tournament",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/heros-welcome-for-somali-referee-denied-entry-to-us-world-cup-tournament?traffic_source=rss",
+      "published_date": "2026-06-10T12:15:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Accords Hero’s Welcome to Africa’s Best Referee Omar Abdulkadir Artan Amid World Cup Visa Controversy",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-accords-heros-welcome-to-africas-best-referee-omar-abdulkadir-artan-amid-world-cup-visa-controversy/",
+      "published_date": "2026-06-10T11:44:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Graham Platner wins Maine primary election: Results and key takeaways",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/graham-platner-wins-maine-primary-election-results-and-key-takeaways?traffic_source=rss",
+      "published_date": "2026-06-10T10:22:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Africa’s Best Referee Omar Abdulkadir Artan Receives Warm Welcome in Mogadishu",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/africas-best-referee-omar-abdulkadir-artan-receives-warm-welcome-in-mogadishu/",
+      "published_date": "2026-06-10T09:07:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali referee Omar Artan returns home to hero’s welcome after U.S. entry denial ends historic FIFA World Cup dream",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/omar-artan/",
+      "published_date": "2026-06-10T08:33:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Referee Omar Artan Returns to Hero’s Welcome After US Entry Denial",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-world-cup-referee-omar-artan-returns-to-heros-welcome-after-us-entry-denial/",
+      "published_date": "2026-06-10T07:03:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan iyo Soomaaliya oo ka wada hadlay markabka MT Honour 25 ee lagu haysto xeebaha Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/10/pakistan-iyo-soomaaliya-oo-ka-wada-hadlay-markabka-mt-honour-25-ee-lagu-haysto-xeebaha-puntland/",
+      "published_date": "2026-06-10T06:42:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Bear captured after days of panic and school closures in Japan",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss",
@@ -554,90 +624,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/somalia-expresses-sorrow-over-u-s-entry-denial-of-referee-omar-abdulkadir-artan/",
       "published_date": "2026-06-09T09:25:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: What time can fans in Europe, Middle East and Africa watch?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/world-cup-2026-what-time-can-fans-in-europe-middle-east-and-africa-watch?traffic_source=rss",
-      "published_date": "2026-06-09T08:16:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nabadoon lagu xiray Qardho",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/09/nabadoon-lagu-xiray-qardho/",
-      "published_date": "2026-06-09T08:00:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hirshabelle regional President, AUSSOM Commander Discuss Security Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hirshabelle-regional-president-aussom-commander-discuss-security-cooperation/",
-      "published_date": "2026-06-09T07:48:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Workshop on UNESCO’s Memory of the World Programme Concludes in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-workshop-on-unescos-memory-of-the-world-programme-concludes-in-mogadishu/",
-      "published_date": "2026-06-09T05:19:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump nominates Todd Blanche as attorney general, setting up Senate fight",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/trump-nominates-todd-blanche-as-attorney-general-setting-up-senate-fight?traffic_source=rss",
-      "published_date": "2026-06-08T23:17:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza cancer patient waits for a chance at life",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/gaza-cancer-patient-waits-for-a-chance-at-life?traffic_source=rss",
-      "published_date": "2026-06-08T20:47:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Constitutional Review Commission Issues Directive on Official Use of Somalia’s National Flag",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/constitutional-review-commission-issues-directive-on-official-use-of-somalias-national-flag/",
-      "published_date": "2026-06-08T14:10:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo tababar u furmay ciidan magacooda lagu sheegay RRU",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/08/puntland-oo-tababar-u-furmay-ciidan-magacooda-lagu-sheegay-rru/",
-      "published_date": "2026-06-08T13:51:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran official says US to blame for resumption of hostilities",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-spokesman-says-us-to-blame-for-resumption-of-hostilities?traffic_source=rss",
-      "published_date": "2026-06-08T10:40:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM Pashinyan’s party wins Armenia election, preliminary results show",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show?traffic_source=rss",
-      "published_date": "2026-06-08T10:32:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China’s Xi Jinping arrives in North Korea on rare state visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/chinas-xi-jinping-arrives-in-north-korea-on-rare-state-visit?traffic_source=rss",
-      "published_date": "2026-06-08T09:55:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Launches UNESCO Workshop to Preserve Historical Archives",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-launches-unesco-workshop-to-preserve-historical-archives/",
-      "published_date": "2026-06-08T09:37:24+00:00",
       "category": "Local Events"
     }
   ]
