@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-09T13:45:51.069090+00:00",
-  "story_count": 90,
+  "last_updated": "2026-06-10T00:09:57.085544+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Kenya’s police crack down on protest against US Ebola centre in Nanyuki",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/9/kenyas-police-crack-down-on-protest-against-us-ebola-centre-in-nanyuki?traffic_source=rss",
+      "published_date": "2026-06-09T16:16:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign Affairs Minister Holds Talks with Pakistani and Rwandan Counterparts",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/foreign-affairs-minister-holds-talks-with-pakistani-and-rwandan-counterparts/",
+      "published_date": "2026-06-09T16:06:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, Türkiye Advance Strategic Cooperation on Spaceport Project",
       "source": "SONNA",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Defence Minister, Chinese Ambassador Discuss Strengthening Defence and Security Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/defence-minister-chinese-ambassador-discuss-strengthening-defence-and-security-cooperation/",
-      "published_date": "2026-06-08T10:59:35+00:00",
-      "category": "Diplomacy"
+      "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss",
+      "published_date": "2026-06-09T22:03:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Envoy Meets GCC Chief in Riyadh to Discuss Security and Economic Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-envoy-meets-gcc-chief-in-riyadh-to-discuss-security-and-economic-cooperation/",
-      "published_date": "2026-06-08T09:35:43+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss",
+      "published_date": "2026-06-09T21:01:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What will the fallout be from the unrest in Pakistan-administered Kashmir?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+      "published_date": "2026-06-09T19:31:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why so many Americans haven’t heard about the USS Liberty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/why-so-many-americans-havent-heard-about-the-uss-liberty?traffic_source=rss",
+      "published_date": "2026-06-09T19:09:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NASA announces astronauts for Artemis III spaceflight, scheduled for 2027",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/nasa-announces-astronauts-for-artemis-iii-spaceflight-scheduled-for-2027?traffic_source=rss",
+      "published_date": "2026-06-09T18:35:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/israel-preventing-more-than-16500-palestinians-from-accessing-medical-treatment?traffic_source=rss",
+      "published_date": "2026-06-09T18:08:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Anything but normal’: Uncertainty as Iranians try to get by amid US war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/anything-but-normal-uncertainty-as-iranians-try-to-get-by-amid-us-war?traffic_source=rss",
+      "published_date": "2026-06-09T17:59:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US attacks Iran after Trump calls for response to Apache helicopter downing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
+      "published_date": "2026-06-09T16:54:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "BANADIR POLICE COMMAND RECOVERS MASSIVE ILLEGAL ARMS CACHE AT HOTEL ELITE",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/banadir-police-command-recovers-massive-illegal-arms-cache-at-hotel-elite-2/",
-      "published_date": "2026-06-08T14:12:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Special Forces Raid Al-Shabaab Positions in Bay Region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-special-forces-raid-al-shabaab-positions-in-bay-region/",
-      "published_date": "2026-06-08T14:10:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Banadir Police Command Recovers Massive Illegal Arms Cache At Hotel Elite",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/banadir-police-command-recovers-massive-illegal-arms-cache-at-hotel-elite/",
-      "published_date": "2026-06-08T14:10:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 11 killed in Pakistan-administered Kashmir clashes before rally",
+      "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/at-least-11-killed-in-pakistan-administered-kashmir-clashes-before-rally?traffic_source=rss",
-      "published_date": "2026-06-08T12:59:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Smoke rises in illegal Israeli settlement after Iranian missile attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/smoke-rises-in-illegal-israeli-settlement-after-iranian-missile-attack?traffic_source=rss",
-      "published_date": "2026-06-08T11:56:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Israel claims strike on Iranian petrochemical complex",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/video-israel-claims-strike-on-iranian-petrochemical-complex?traffic_source=rss",
-      "published_date": "2026-06-08T11:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ohio police drag away football pitch invader in pre-World Cup friendly",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/ohio-police-drag-away-football-pitch-invader-in-pre-world-cup-friendly?traffic_source=rss",
-      "published_date": "2026-06-08T10:45:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kumaandooska DANAB oo Howlgal Ka Fuliyay Gobolka Baay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kumaandooska-danab-oo-howlgal-ka-fuliyay-gobolka-baay/",
-      "published_date": "2026-06-08T10:45:12+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss",
+      "published_date": "2026-06-09T23:06:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Southern Philippines hit by 7.8-magnitude earthquake",
@@ -494,6 +501,27 @@
       "category": "Economy"
     },
     {
+      "title": "Bear captured after days of panic and school closures in Japan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss",
+      "published_date": "2026-06-09T20:58:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister of Education Inspects Progress of Gaheyr Campus Modernization Project",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/minister-of-education-inspects-progress-of-gaheyr-campus-modernization-project/",
+      "published_date": "2026-06-09T16:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on?traffic_source=rss",
+      "published_date": "2026-06-09T13:58:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "SoDMA launches consultative meeting on the establishment of National Disaster Risk Management Fund",
       "source": "SONNA",
       "url": "https://sonna.so/en/sodma-launches-consultative-meeting-on-the-establishment-of-national-disaster-risk-management-fund/",
@@ -610,27 +638,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-launches-unesco-workshop-to-preserve-historical-archives/",
       "published_date": "2026-06-08T09:37:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Launches Preparations for 66th Independence Day Celebrations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-launches-preparations-for-66th-independence-day-celebrations/",
-      "published_date": "2026-06-08T09:21:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Minister opens 3rd Somalia Mayors Forum in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/interior-minister-opens-3rd-somalia-mayors-forum-in-mogadishu/",
-      "published_date": "2026-06-08T09:17:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Hassan Sheikh accepts Farmajo appeal for final talks on election deadlock",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-farmajo-talks-electoral-deadlock/",
-      "published_date": "2026-06-08T07:56:35+00:00",
       "category": "Local Events"
     }
   ]
