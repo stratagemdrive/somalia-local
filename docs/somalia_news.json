@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-10T14:26:19.542780+00:00",
+  "last_updated": "2026-06-11T00:14:47.348547+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Israel kills 16 in Lebanon, UN to probe international law violations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss",
+      "published_date": "2026-06-10T20:46:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India summons US envoy over attack on ship carrying Indian sailors off Oman",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/india-summons-us-envoy-over-ship-attack-that-left-three-indians-missing?traffic_source=rss",
+      "published_date": "2026-06-10T20:05:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Voices Concern Over U.S. Travel Denial for Award-Winning Referee Omar Artan",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-voices-concern-over-u-s-travel-denial-for-award-winning-referee-omar-artan/",
+      "published_date": "2026-06-10T14:33:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, EU Strengthen Cooperation on Media and Countering Misinformation",
       "source": "SONNA",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
+      "title": "Iran war live: US launches attacks on ‘multiple’ Iranian targets",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/un-human-rights-leader-calls-for-cuba-sanctions-to-be-lifted-immediately?traffic_source=rss",
-      "published_date": "2026-06-08T21:43:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
+      "published_date": "2026-06-11T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU planning to add to $1.5 trillion sanctions hit on Russia",
+      "title": "Hegseth: Guantanamo Bay prisoners ‘should have been executed’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss",
-      "published_date": "2026-06-08T21:25:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/hegseth-guantanamo-bay-prisoners-should-have-been?traffic_source=rss",
+      "published_date": "2026-06-10T23:54:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "China’s Xi Jinping and North Korea’s Kim Jong Un meet in Pyongyang",
+      "title": "Israeli strike on a car kills two in Sidon, Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/chinas-xi-jinping-and-north-koreas-kim-jong-un-meet-in-pyongyang?traffic_source=rss",
-      "published_date": "2026-06-08T19:36:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss",
+      "published_date": "2026-06-10T19:23:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Lebanon remains caught up in the Israel-Iran conflict",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/10/aje-onl-aj_tt_irn_next100day-100626?traffic_source=rss",
+      "published_date": "2026-06-10T18:54:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military chief Hegseth warns Cuba against acquiring military arms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/us-military-chief-hegseth-warns-cuba-against-acquiring-military-arms?traffic_source=rss",
+      "published_date": "2026-06-10T18:09:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/uk-pm-starmer-slams-unjustified-anti-immigration-violence-in-belfast?traffic_source=rss",
+      "published_date": "2026-06-10T18:00:06+00:00",
+      "category": "Military"
     },
     {
       "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Why so many Americans haven’t heard about the USS Liberty",
+      "title": "Trump’s claim of escorting oil through Hormuz won’t ease crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/why-so-many-americans-havent-heard-about-the-uss-liberty?traffic_source=rss",
-      "published_date": "2026-06-09T19:09:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NASA announces astronauts for Artemis III spaceflight, scheduled for 2027",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/nasa-announces-astronauts-for-artemis-iii-spaceflight-scheduled-for-2027?traffic_source=rss",
-      "published_date": "2026-06-09T18:35:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/israel-preventing-more-than-16500-palestinians-from-accessing-medical-treatment?traffic_source=rss",
-      "published_date": "2026-06-09T18:08:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Anything but normal’: Uncertainty as Iranians try to get by amid US war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/anything-but-normal-uncertainty-as-iranians-try-to-get-by-amid-us-war?traffic_source=rss",
-      "published_date": "2026-06-09T17:59:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US attacks Iran after Trump calls for response to Apache helicopter downing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
-      "published_date": "2026-06-09T16:54:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/video-captures-russian-attack-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "published_date": "2026-06-09T12:05:19+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/quotable/2026/6/10/trumps-claim-of-escorting-oil-through-hormuz-wont-ease-crisis?traffic_source=rss",
+      "published_date": "2026-06-10T23:55:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
@@ -340,11 +347,18 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+      "title": "‘I love the inflation’ US President Trump dismisses price concerns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
-      "published_date": "2026-06-03T21:15:45+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/i-love-the-inflation-us-president-trump-dismisses-price-concerns?traffic_source=rss",
+      "published_date": "2026-06-10T20:31:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "After a Democrat standoff, Trump signs $70bn immigration enforcement bill",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill?traffic_source=rss",
+      "published_date": "2026-06-10T18:25:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
@@ -473,18 +487,25 @@
       "category": "Economy"
     },
     {
-      "title": "Monsoon rain reaches Kerala 3 days late but on time to save Indian harvests",
+      "title": "Trial begins for man accused of sparking Palisades Fire in California",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/monsoon-rain-reaches-kerala-3-days-late-but-on-time-to-save-indian-harvests?traffic_source=rss",
-      "published_date": "2026-06-04T11:10:33+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/10/trial-begins-for-man-accused-of-sparking-palisades-fire-in-california?traffic_source=rss",
+      "published_date": "2026-06-10T23:05:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Grossly unfair’: Meta slams Australia’s bid to make platforms pay for news",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/4/grossly-unfair-meta-slams-australias-bid-to-make-platforms-pay-for-news?traffic_source=rss",
-      "published_date": "2026-06-04T10:56:33+00:00",
-      "category": "Economy"
+      "title": "National Communications Authority and National IPv6 Center Hold Workshop on IPv6 Implementation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/national-communications-authority-and-national-ipv6-center-hold-workshop-on-ipv6-implementation/",
+      "published_date": "2026-06-10T18:13:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prime Minister Hamza Congratulates New Southwest State Leader",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/prime-minister-hamza-congratulates-new-southwest-state-leader/",
+      "published_date": "2026-06-10T14:31:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "President Hassan Sheikh Mohamud Congratulates Sheikh Adan Mohamed Nur “Madobe” on Election as Southwest State Leader",
@@ -603,27 +624,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/06/09/puntland-oo-18-askari-u-xirty-falkii-ka-dhacay-garoowe/",
       "published_date": "2026-06-09T11:50:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Ministry Director General Co-Chairs Somalia Stability Fund Technical Joint Steering Committee Meeting",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/interior-ministry-director-general-co-chairs-somalia-stability-fund-technical-joint-steering-committee-meeting/",
-      "published_date": "2026-06-09T10:04:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electoral Commission Issues Strict Transparency Mandate Ahead of Southwest State Presidential Vote",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/electoral-commission-issues-strict-transparency-mandate-ahead-of-southwest-state-presidential-vote/",
-      "published_date": "2026-06-09T09:55:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Expresses Sorrow Over U.S. Entry Denial of Referee Omar Abdulkadir Artan",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-expresses-sorrow-over-u-s-entry-denial-of-referee-omar-abdulkadir-artan/",
-      "published_date": "2026-06-09T09:25:59+00:00",
       "category": "Local Events"
     }
   ]
