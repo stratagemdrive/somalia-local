@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-11T00:14:47.348547+00:00",
-  "story_count": 89,
+  "last_updated": "2026-06-11T14:43:42.632043+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Ethiopia must not be dragged back into war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/11/ethiopia-must-not-be-dragged-back-into-war?traffic_source=rss",
+      "published_date": "2026-06-11T11:31:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Regrets U.S. Entry Denial for CAF Referee Omar Artan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-regrets-u-s-entry-denial-for-caf-referee-omar-artan/",
+      "published_date": "2026-06-11T08:16:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel kills 16 in Lebanon, UN to probe international law violations",
       "source": "Al Jazeera",
@@ -130,18 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Minister of Information Launches Rehabilitation of Radio Mogadishu Archive to Advance Modernization Efforts",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-information-launches-rehabilitation-of-radio-mogadishu-archive-to-advance-modernization-efforts/",
-      "published_date": "2026-06-09T10:15:03+00:00",
-      "category": "Diplomacy"
+      "title": "Mogadishu escapes another night of bloodshed as government troops pull back from opposition area",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/mogadishu-averts-crisis-government-troops-withdraw/",
+      "published_date": "2026-06-11T14:00:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Protests erupt in Kenya over US Ebola quarantine centre in Nanyuki",
+      "title": "Palestine Action activists could face UK ‘terror’ sentences: What we know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/protests-erupt-in-kenya-over-us-ebola-quarantine-centre-in-nanyuki?traffic_source=rss",
-      "published_date": "2026-06-09T08:18:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/11/palestine-action-activists-could-face-uk-terror-sentences-what-we-know?traffic_source=rss",
+      "published_date": "2026-06-11T12:58:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 22 killed as Pakistani military helicopter crashes in Kashmir",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/at-least-22-killed-as-pakistani-military-helicopter-crashes-in-kashmir?traffic_source=rss",
+      "published_date": "2026-06-11T12:51:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video shows aftermath of Iranian attack in Bahrain",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-aftermath-of-iranian-attack-in-bahrain?traffic_source=rss",
+      "published_date": "2026-06-11T12:39:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India says US hit another ship off Oman, confirms 3 dead in separate attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/india-says-incident-on-vessel-off-oman-confirms-3-dead-in-seperate-strike?traffic_source=rss",
+      "published_date": "2026-06-11T11:58:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Britain’s defence ⁠secretary Healey quits over defence spending",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/britains-defence-%e2%81%a0minister-healey-quits-over-defence-spending?traffic_source=rss",
+      "published_date": "2026-06-11T11:24:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
+      "published_date": "2026-06-11T11:23:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon: Life in Tripoli as War Displaces Over a Million",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
+      "published_date": "2026-06-11T11:07:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three Indian sailors killed in US strike on oil tanker",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/three-indian-sailors-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
+      "published_date": "2026-06-11T10:02:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "U.S., Nigeria Say Joint Operations Killed More Than 200 Boko Haram, ISWAP Fighters",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/u-s-nigeria-say-joint-operations-killed-more-than-200-boko-haram-iswap-fighters/",
+      "published_date": "2026-06-11T09:18:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AFRICOM iyo Militariga Nigeria oo Sheegay inay Dileen in Ka Badan 200 oo Boko Haram iyo Daacish ka Tirsan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/africom-iyo-militariga-nigeria-oo-sheegay-inay-dileen-in-ka-badan-200-oo-boko-haram-iyo-daacish-ka-tirsan/",
+      "published_date": "2026-06-11T08:22:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidamada Danab oo Howlgallo Amni iyo Dib-u-Heshiisiin ka Fuliyay Yaaqbariwayne",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-danab-oo-howlgallo-amni-iyo-dib-u-heshiisiin-ka-fuliyay-yaaqbariwayne/",
+      "published_date": "2026-06-11T07:42:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Soomaaliya oo Ka Hadashay Diidmada Gelitaanka Garsoore Cumar Cartan ee Mareykanka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-ka-hadashay-diidmada-gelitaanka-garsoore-cumar-cartan-ee-mareykanka/",
+      "published_date": "2026-06-11T07:26:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: US launches attacks on ‘multiple’ Iranian targets",
@@ -155,6 +246,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/hegseth-guantanamo-bay-prisoners-should-have-been?traffic_source=rss",
       "published_date": "2026-06-10T23:54:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Shabaab reacts to U.S. entry denial of Somali World Cup referee Omar Artan",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-al-shabaab-omar-artan-us-entry-denial/",
+      "published_date": "2026-06-10T19:34:14+00:00",
       "category": "Military"
     },
     {
@@ -186,102 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
+      "title": "Iran shuts Hormuz strait: But wasn’t it already closed?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/west-bank-ethnic-cleansing-settler-attacks-israels-state-policy-amnesty?traffic_source=rss",
-      "published_date": "2026-06-10T12:55:23+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed?traffic_source=rss",
+      "published_date": "2026-06-11T12:57:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "7-month-old baby shot by Israeli soldier in Hebron",
+      "title": "Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/7-month-old-baby-shot-by-israeli-soldier-in-hebron?traffic_source=rss",
-      "published_date": "2026-06-10T12:44:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan military helicopter crashes in Kashmir, all on board killed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed?traffic_source=rss",
-      "published_date": "2026-06-10T12:30:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire?traffic_source=rss",
-      "published_date": "2026-06-10T11:57:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s happening at the World Cup one day before tournament starts?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/10/whats-happening-at-the-world-cup-one-day-before-tournament-starts?traffic_source=rss",
-      "published_date": "2026-06-10T11:40:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why has Belfast erupted in anti-immigrant violence after a knife attack?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack?traffic_source=rss",
-      "published_date": "2026-06-10T10:50:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss",
-      "published_date": "2026-06-10T10:09:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran fires missiles at US bases carrying images of killed commanders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss",
-      "published_date": "2026-06-10T09:45:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anti-immigration protests break out in Belfast after knife attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/10/anti-immigration-protests-break-out-in-belfast-after-knife-attack?traffic_source=rss",
-      "published_date": "2026-06-10T08:30:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss",
-      "published_date": "2026-06-10T08:27:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Twelve killed in Johannesburg mass shooting, manhunt under way",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/twelve-killed-in-johannesburg-mass-shooting-manhunt-under-way?traffic_source=rss",
-      "published_date": "2026-06-10T08:11:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss",
-      "published_date": "2026-06-09T22:03:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss",
-      "published_date": "2026-06-09T21:01:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What will the fallout be from the unrest in Pakistan-administered Kashmir?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
-      "published_date": "2026-06-09T19:31:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims?traffic_source=rss",
+      "published_date": "2026-06-11T12:25:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump’s claim of escorting oil through Hormuz won’t ease crisis",
@@ -340,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
+      "title": "India’s workers are training AI robots to take their jobs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows?traffic_source=rss",
-      "published_date": "2026-06-04T11:04:16+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs?traffic_source=rss",
+      "published_date": "2026-06-11T10:50:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘I love the inflation’ US President Trump dismisses price concerns",
@@ -466,31 +480,73 @@
       "category": "Economy"
     },
     {
-      "title": "Rights group sues South African government over US arms exports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports?traffic_source=rss",
-      "published_date": "2026-06-04T13:23:17+00:00",
-      "category": "Economy"
+      "title": "President Hassan Sheikh Mohamud Inaugurates Critical Infrastructure and Governance Hubs in Jowhar",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-inaugurates-critical-infrastructure-and-governance-hubs-in-jowhar/",
+      "published_date": "2026-06-11T12:46:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "First US screwworm case in 60 years: Should America be worried?",
+      "title": "Embattled Palestinian president of Oxford Union: ‘I’m not resigning’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/first-us-screwworm-case-in-60-years-should-america-be-worried?traffic_source=rss",
-      "published_date": "2026-06-04T13:05:11+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/11/arwa-elrayyess-oxford?traffic_source=rss",
+      "published_date": "2026-06-11T12:02:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank",
+      "title": "SouthWest State Leader Sheikh Aden Madobe Formally Assumes Office in Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/southwest-state-leader-lafta-gareen-formally-assumes-office-in-baidoa/",
+      "published_date": "2026-06-11T11:51:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The university must not become a supply chain for AI",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/israels-smotrich-announces-plan-for-2162-homes-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-06-04T12:06:17+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/opinions/2026/6/11/the-university-must-not-become-a-supply-chain-for-ai?traffic_source=rss",
+      "published_date": "2026-06-11T11:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Detained Gaza doctor Hussam Abu Safia shows signs of torture, family says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/detained-gaza-doctor-hussam-abu-safia-shows-signs-of-torture-family-says?traffic_source=rss",
+      "published_date": "2026-06-11T11:08:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Elite Forces Conduct Security Operations, Reconciliation Efforts in Lower Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-elite-forces-conduct-security-operations-reconciliation-efforts-in-lower-shabelle/",
+      "published_date": "2026-06-11T09:16:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Shil gaari oo dhimasho iyo dhaawac sababay oo ka dhacay Cawsane",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/11/puntland-shil-gaari-oo-dhimasho-iyo-dhaawac-sababay-oo-ka-dhacay-cawsane/",
+      "published_date": "2026-06-11T06:48:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cawad oo ka falceliyey hadal uu jeediyay Lugatoor",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/11/cawad-oo-ka-falceliyey-hadal-uu-jeediyay-lugatoor/",
+      "published_date": "2026-06-11T06:16:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trial begins for man accused of sparking Palisades Fire in California",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/10/trial-begins-for-man-accused-of-sparking-palisades-fire-in-california?traffic_source=rss",
       "published_date": "2026-06-10T23:05:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia parliament speaker Adan Madobe elected Southwest state president",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-adan-madobe-elected-southwest-president/",
+      "published_date": "2026-06-10T18:17:48+00:00",
       "category": "Local Events"
     },
     {
@@ -561,69 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/10/graham-platner-wins-maine-primary-election-results-and-key-takeaways?traffic_source=rss",
       "published_date": "2026-06-10T10:22:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Africa’s Best Referee Omar Abdulkadir Artan Receives Warm Welcome in Mogadishu",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/africas-best-referee-omar-abdulkadir-artan-receives-warm-welcome-in-mogadishu/",
-      "published_date": "2026-06-10T09:07:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali referee Omar Artan returns home to hero’s welcome after U.S. entry denial ends historic FIFA World Cup dream",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/omar-artan/",
-      "published_date": "2026-06-10T08:33:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Referee Omar Artan Returns to Hero’s Welcome After US Entry Denial",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-world-cup-referee-omar-artan-returns-to-heros-welcome-after-us-entry-denial/",
-      "published_date": "2026-06-10T07:03:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan iyo Soomaaliya oo ka wada hadlay markabka MT Honour 25 ee lagu haysto xeebaha Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/10/pakistan-iyo-soomaaliya-oo-ka-wada-hadlay-markabka-mt-honour-25-ee-lagu-haysto-xeebaha-puntland/",
-      "published_date": "2026-06-10T06:42:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bear captured after days of panic and school closures in Japan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss",
-      "published_date": "2026-06-09T20:58:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Education Inspects Progress of Gaheyr Campus Modernization Project",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-education-inspects-progress-of-gaheyr-campus-modernization-project/",
-      "published_date": "2026-06-09T16:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on?traffic_source=rss",
-      "published_date": "2026-06-09T13:58:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA launches consultative meeting on the establishment of National Disaster Risk Management Fund",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/sodma-launches-consultative-meeting-on-the-establishment-of-national-disaster-risk-management-fund/",
-      "published_date": "2026-06-09T12:54:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo 18 askari u xirty falkii ka dhacay Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/09/puntland-oo-18-askari-u-xirty-falkii-ka-dhacay-garoowe/",
-      "published_date": "2026-06-09T11:50:58+00:00",
       "category": "Local Events"
     }
   ]
