@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-12T00:16:35.373266+00:00",
-  "story_count": 88,
+  "last_updated": "2026-06-12T14:11:45.659578+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "President Hassan Sheikh Mohamud Outlines Somalia’s Democratic Future, Calling for an End to Personality-Driven Politics",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-outlines-somalias-democratic-future-calling-for-an-end-to-personality-driven-politics/",
+      "published_date": "2026-06-12T14:07:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
       "source": "Al Jazeera",
@@ -137,11 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Referee Thanks Supporters After U.S. Entry Ban Derails World Cup Role",
+      "title": "Indonesian students protest gov’t policies amid economic strain",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/indonesian-students-protest-govt-policies-amid-economic-strain?traffic_source=rss",
+      "published_date": "2026-06-12T13:33:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss",
+      "published_date": "2026-06-12T12:08:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
+      "published_date": "2026-06-12T12:02:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A year after Air India crash killed 260: Do we know what happened?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/a-year-after-air-india-crash-killed-260-do-we-know-what-happened?traffic_source=rss",
+      "published_date": "2026-06-12T11:32:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigeria killed more than 13,000 ‘terrorists’ in past year, president says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/nigeria-killed-more-than-13000-terrorists-in-past-year-president-says?traffic_source=rss",
+      "published_date": "2026-06-12T11:11:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Riots, violence, hate: Anti-immigrant unrest spells danger in Belfast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast?traffic_source=rss",
+      "published_date": "2026-06-12T10:43:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Family mourn Indian sailor killed in US strike on oil tanker",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/family-mourn-indian-sailor-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
+      "published_date": "2026-06-12T09:51:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: What Iran’s football fans think about the World Cup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-what-irans-football-fans-think-about-the-world-cup?traffic_source=rss",
+      "published_date": "2026-06-12T09:34:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Intelligence Seizes Over 100 Barrels of Bomb-Making Chemicals Allegedly Bound for Al-Shabaab",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-referee-thanks-supporters-after-u-s-entry-ban-derails-world-cup-role/",
-      "published_date": "2026-06-09T11:49:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-intelligence-seizes-over-100-barrels-of-bomb-making-chemicals-allegedly-bound-for-al-shabaab/",
+      "published_date": "2026-06-12T09:20:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NISA oo Gacanta Ku Dhigtay Walxo Qaraxyo Laga Sameeyo oo Loo Wadey Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nisa-oo-gacanta-ku-dhigtay-walxo-qaraxyo-lagu-sameeyo-oo-loo-wadey-al-shabaab/",
+      "published_date": "2026-06-12T05:36:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Video shows aftermath of Iranian attack in Bahrain",
+      "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-aftermath-of-iranian-attack-in-bahrain?traffic_source=rss",
-      "published_date": "2026-06-11T12:39:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India says US hit another ship off Oman, confirms 3 dead in separate attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/india-says-incident-on-vessel-off-oman-confirms-3-dead-in-seperate-strike?traffic_source=rss",
-      "published_date": "2026-06-11T11:58:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Britain’s defence ⁠secretary Healey quits over defence spending",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/britains-defence-%e2%81%a0minister-healey-quits-over-defence-spending?traffic_source=rss",
-      "published_date": "2026-06-11T11:24:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
-      "published_date": "2026-06-11T11:23:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon: Life in Tripoli as War Displaces Over a Million",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
-      "published_date": "2026-06-11T11:07:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three Indian sailors killed in US strike on oil tanker",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/three-indian-sailors-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
-      "published_date": "2026-06-11T10:02:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "U.S., Nigeria Say Joint Operations Killed More Than 200 Boko Haram, ISWAP Fighters",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/u-s-nigeria-say-joint-operations-killed-more-than-200-boko-haram-iswap-fighters/",
-      "published_date": "2026-06-11T09:18:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AFRICOM iyo Militariga Nigeria oo Sheegay inay Dileen in Ka Badan 200 oo Boko Haram iyo Daacish ka Tirsan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/africom-iyo-militariga-nigeria-oo-sheegay-inay-dileen-in-ka-badan-200-oo-boko-haram-iyo-daacish-ka-tirsan/",
-      "published_date": "2026-06-11T08:22:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidamada Danab oo Howlgallo Amni iyo Dib-u-Heshiisiin ka Fuliyay Yaaqbariwayne",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-danab-oo-howlgallo-amni-iyo-dib-u-heshiisiin-ka-fuliyay-yaaqbariwayne/",
-      "published_date": "2026-06-11T07:42:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo Ka Hadashay Diidmada Gelitaanka Garsoore Cumar Cartan ee Mareykanka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-ka-hadashay-diidmada-gelitaanka-garsoore-cumar-cartan-ee-mareykanka/",
-      "published_date": "2026-06-11T07:26:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss",
+      "published_date": "2026-06-12T09:35:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran shuts Hormuz strait: But wasn’t it already closed?",
@@ -345,6 +352,13 @@
       "url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss",
       "published_date": "2026-06-05T18:12:44+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Turkish Shipping Firm Akkon Lines Launches Operations in Somalia Through Mogadishu Port",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/turkish-shipping-firm-akkon-lines-launches-operations-in-somalia-through-mogadishu-port/",
+      "published_date": "2026-06-12T09:24:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Israeli government mulling huge funding to expand West Bank settlement: NGO",
@@ -473,11 +487,39 @@
       "category": "Economy"
     },
     {
-      "title": "UN boosts Lebanon aid appeal as Israeli war drives humanitarian crisis",
+      "title": "Reports Suggest Somaliland President May Visit Israel This Week",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/reports-suggest-somaliland-president-may-visit-israel-this-week/",
+      "published_date": "2026-06-12T14:03:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Couples Regional Infrastructure Expansion with Historic Democratic Reforms",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-couples-regional-infrastructure-expansion-with-historic-democratic-reforms/",
+      "published_date": "2026-06-12T13:04:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strategic Infrastructure Expansion Secures Governance and Economic Horizons in Hirshabelle",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/strategic-infrastructure-expansion-secures-governance-and-economic-horizons-in-hirshabelle/",
+      "published_date": "2026-06-12T12:59:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/un-boosts-lebanon-aid-appeal-as-israeli-war-drives-humanitarian-crisis?traffic_source=rss",
-      "published_date": "2026-06-05T12:23:52+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/12/iraq-analysis-militias-disarm?traffic_source=rss",
+      "published_date": "2026-06-12T09:55:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Referee Omar Artan to Officiate UEFA Super Cup in Historic First for Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-referee-omar-artan-to-officiate-uefa-super-cup-in-historic-first-for-somalia/",
+      "published_date": "2026-06-12T09:22:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Musk’s $1.8 trillion SpaceX IPO could be ‘highly undesirable’ for some",
@@ -582,41 +624,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-adan-madobe-elected-southwest-president/",
       "published_date": "2026-06-10T18:17:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Communications Authority and National IPv6 Center Hold Workshop on IPv6 Implementation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/national-communications-authority-and-national-ipv6-center-hold-workshop-on-ipv6-implementation/",
-      "published_date": "2026-06-10T18:13:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prime Minister Hamza Congratulates New Southwest State Leader",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-congratulates-new-southwest-state-leader/",
-      "published_date": "2026-06-10T14:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Mohamud Congratulates Sheikh Adan Mohamed Nur “Madobe” on Election as Southwest State Leader",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-congratulates-sheikh-adan-mohamed-nur-madobe-on-election-as-southwest-state-leader/",
-      "published_date": "2026-06-10T14:08:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo sheegtay in ay tallaabo ka qaadayso mucaaradka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/10/puntland-oo-sheegtay-in-ay-tallaabo-ka-qaadayso-mucaaradka/",
-      "published_date": "2026-06-10T13:38:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Talks to Free Egyptian Sailors Held by Somali Pirates Collapse Over Ransom Dispute",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/talks-to-free-egyptian-sailors-held-by-somali-pirates-collapse-over-ransom-dispute/",
-      "published_date": "2026-06-10T13:17:50+00:00",
       "category": "Local Events"
     }
   ]
