@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-11T14:43:42.632043+00:00",
+  "last_updated": "2026-06-12T00:16:35.373266+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss",
+      "published_date": "2026-06-11T20:21:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Advances Bilateral Economic and Diplomatic Strategy as New Ambassador Presents Credentials in Pretoria",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-advances-bilateral-economic-and-diplomatic-strategy-as-new-ambassador-presents-credentials-in-pretoria/",
+      "published_date": "2026-06-11T17:57:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ethiopia must not be dragged back into war",
       "source": "Al Jazeera",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Geopolitical Conflicts Exacerbate Inflation and Food Insecurity in the Horn of Africa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/geopolitical-conflicts-exacerbate-inflation-and-food-insecurity-in-the-horn-of-africa/",
-      "published_date": "2026-06-09T10:18:38+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+      "published_date": "2026-06-12T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
+      "title": "Man pleads guilty to slaying top Democrat and her husband in Minnesota",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss",
-      "published_date": "2026-06-09T10:18:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/11/man-pleads-guilty-to-slaying-top-democrat-and-her-husband-in-minnesota?traffic_source=rss",
+      "published_date": "2026-06-11T21:37:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel deports French journalist accused of supporting Hamas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss",
+      "published_date": "2026-06-11T19:52:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China bars Philippines defence chief as South China Sea spat sails onwards",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards?traffic_source=rss",
+      "published_date": "2026-06-11T19:46:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Toronto police officer shot while investigating attack on US consulate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/toronto-police-officer-shot-while-investigating-attack-on-us-consulate?traffic_source=rss",
+      "published_date": "2026-06-11T18:35:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two sentenced to death in Bangkok bombing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss",
+      "published_date": "2026-06-11T18:24:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NISA Intercepts Massive Explosives Cache In Lower Shabelle",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/nisa-intercepts-massive-explosives-cache-in-lower-shabelle/",
+      "published_date": "2026-06-11T18:09:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Mogadishu escapes another night of bloodshed as government troops pull back from opposition area",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran war live: US launches attacks on ‘multiple’ Iranian targets",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
-      "published_date": "2026-06-11T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth: Guantanamo Bay prisoners ‘should have been executed’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/hegseth-guantanamo-bay-prisoners-should-have-been?traffic_source=rss",
-      "published_date": "2026-06-10T23:54:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Shabaab reacts to U.S. entry denial of Somali World Cup referee Omar Artan",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-al-shabaab-omar-artan-us-entry-denial/",
-      "published_date": "2026-06-10T19:34:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike on a car kills two in Sidon, Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss",
-      "published_date": "2026-06-10T19:23:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Lebanon remains caught up in the Israel-Iran conflict",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/10/aje-onl-aj_tt_irn_next100day-100626?traffic_source=rss",
-      "published_date": "2026-06-10T18:54:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military chief Hegseth warns Cuba against acquiring military arms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/us-military-chief-hegseth-warns-cuba-against-acquiring-military-arms?traffic_source=rss",
-      "published_date": "2026-06-10T18:09:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/uk-pm-starmer-slams-unjustified-anti-immigration-violence-in-belfast?traffic_source=rss",
-      "published_date": "2026-06-10T18:00:06+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Iran shuts Hormuz strait: But wasn’t it already closed?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed?traffic_source=rss",
@@ -347,11 +347,18 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi energy minister calls for ‘stable energy sector’ during Russia visit",
+      "title": "Israeli government mulling huge funding to expand West Bank settlement: NGO",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/saudi-energy-minister-call-for-stable-energy-sector-on-russia-visit?traffic_source=rss",
-      "published_date": "2026-06-04T18:30:49+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/6/11/israeli-government-mulling-huge-funding-to-expand-west-bank-settlement-ngo?traffic_source=rss",
+      "published_date": "2026-06-11T18:45:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pope Leo tells migrants: ‘I bow before your dignity’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/pope-leo-tells-migrants-i-bow-before-your?traffic_source=rss",
+      "published_date": "2026-06-11T18:14:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "India’s workers are training AI robots to take their jobs",
@@ -473,11 +480,39 @@
       "category": "Economy"
     },
     {
-      "title": "Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’",
+      "title": "Musk’s $1.8 trillion SpaceX IPO could be ‘highly undesirable’ for some",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/democrats-force-vote-on-trumps-1-8bn-settlement-fund-in-vote-a-rama?traffic_source=rss",
-      "published_date": "2026-06-04T22:57:15+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some?traffic_source=rss",
+      "published_date": "2026-06-11T23:00:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Global Criticism Follows U.S. Decision to Deny Entry to Somali World Cup Referee Omar Artan",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/global-criticism-follows-u-s-decision-to-deny-entry-to-somali-world-cup-referee-omar-artan/",
+      "published_date": "2026-06-11T22:16:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jose Mourinho named Real Madrid coach on three-year deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal?traffic_source=rss",
+      "published_date": "2026-06-11T19:09:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Advances Institutional State-Building with Massive Infrastructure Launch in Jowhar Alongside Global Sports Recognition",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somalia-advances-institutional-state-building-with-massive-infrastructure-launch-in-jowhar-alongside-global-sports-recognition/",
+      "published_date": "2026-06-11T17:49:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali President Inaugurates Development Projects During Visit to Hirshabelle Capital",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-inaugurates-development-projects-during-visit-to-hirshabelle-capital/",
+      "published_date": "2026-06-11T17:21:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "President Hassan Sheikh Mohamud Inaugurates Critical Infrastructure and Governance Hubs in Jowhar",
@@ -582,41 +617,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/talks-to-free-egyptian-sailors-held-by-somali-pirates-collapse-over-ransom-dispute/",
       "published_date": "2026-06-10T13:17:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Parliament Speaker Wins South West State Presidential Election",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-parliament-speaker-wins-south-west-state-presidential-election/",
-      "published_date": "2026-06-10T12:59:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kashmiri rights activist wins partial court victory but remains behind bars",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/kashmiri-rights-activist-wins-partial-court-victory-but-remains-behind-bars?traffic_source=rss",
-      "published_date": "2026-06-10T12:18:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hero’s welcome for Somali referee denied entry to US World Cup tournament",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/heros-welcome-for-somali-referee-denied-entry-to-us-world-cup-tournament?traffic_source=rss",
-      "published_date": "2026-06-10T12:15:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Accords Hero’s Welcome to Africa’s Best Referee Omar Abdulkadir Artan Amid World Cup Visa Controversy",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-accords-heros-welcome-to-africas-best-referee-omar-abdulkadir-artan-amid-world-cup-visa-controversy/",
-      "published_date": "2026-06-10T11:44:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Graham Platner wins Maine primary election: Results and key takeaways",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/graham-platner-wins-maine-primary-election-results-and-key-takeaways?traffic_source=rss",
-      "published_date": "2026-06-10T10:22:43+00:00",
       "category": "Local Events"
     }
   ]
