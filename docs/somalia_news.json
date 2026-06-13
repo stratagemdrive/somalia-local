@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-12T14:11:45.659578+00:00",
+  "last_updated": "2026-06-13T00:17:50.128775+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "UN adopts treaty setting standards for gig economy workers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/un-adopts-treaty-setting-standards-for-gig-economy-workers?traffic_source=rss",
+      "published_date": "2026-06-12T18:12:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "President Hassan Sheikh Mohamud Outlines Somalia’s Democratic Future, Calling for an End to Personality-Driven Politics",
       "source": "SONNA",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Regrets World Cup Absence of Referee Omar Artan After U.S. Entry Setback",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-regrets-world-cup-absence-of-referee-omar-artan-after-u-s-entry-setback/",
-      "published_date": "2026-06-09T11:51:54+00:00",
-      "category": "Diplomacy"
+      "title": "Will there be a deal to end the Iran war this time?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
+      "published_date": "2026-06-12T20:44:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Clashes break out at DRC rally against presidential term-limit change",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/violence-breaks-out-at-drc-rally-against-presidential-term-limit-change?traffic_source=rss",
+      "published_date": "2026-06-12T19:51:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK court jails Palestine Action activists on ‘terrorism’ charges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/uk-court-jails-palestinian-action-activists-on-terrorism-charges?traffic_source=rss",
+      "published_date": "2026-06-12T19:27:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the Gulf will manage collective security after the Iran war ends",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss",
+      "published_date": "2026-06-12T18:48:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least one killed and nine hospitalised in Midland, Texas shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/at-least-one-killed-and-nine-hospitalised-in-texas-shooting?traffic_source=rss",
+      "published_date": "2026-06-12T18:11:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Indonesian students protest gov’t policies amid economic strain",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Two sentenced to death in Bangkok bombing",
+      "title": "Putin admits Ukraine attacks hitting Russian economy, society",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss",
-      "published_date": "2026-06-11T18:24:48+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/12/putin-admits-ukraine-attacks-hitting-russian-economy-society?traffic_source=rss",
+      "published_date": "2026-06-12T19:30:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "NISA Intercepts Massive Explosives Cache In Lower Shabelle",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/nisa-intercepts-massive-explosives-cache-in-lower-shabelle/",
-      "published_date": "2026-06-11T18:09:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mogadishu escapes another night of bloodshed as government troops pull back from opposition area",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/mogadishu-averts-crisis-government-troops-withdraw/",
-      "published_date": "2026-06-11T14:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestine Action activists could face UK ‘terror’ sentences: What we know",
+      "title": "Venezuela hits out at Trinidad and Tobago in oil spill spat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/palestine-action-activists-could-face-uk-terror-sentences-what-we-know?traffic_source=rss",
-      "published_date": "2026-06-11T12:58:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 22 killed as Pakistani military helicopter crashes in Kashmir",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/at-least-22-killed-as-pakistani-military-helicopter-crashes-in-kashmir?traffic_source=rss",
-      "published_date": "2026-06-11T12:51:47+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/12/venezuela-hits-out-at-trinidad-and-tobago-in-oil-spill-spat?traffic_source=rss",
+      "published_date": "2026-06-12T18:25:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
@@ -347,11 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Trump admin’s cancellation of wind energy projects causes business turmoil",
+      "title": "US Congressman says Trump won’t send loads of money to Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss",
-      "published_date": "2026-06-05T18:12:44+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/us-congressman-says-trump-wont-send-loads-of-money-to-iran?traffic_source=rss",
+      "published_date": "2026-06-12T19:53:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Turkish Shipping Firm Akkon Lines Launches Operations in Somalia Through Mogadishu Port",
@@ -473,18 +487,18 @@
       "category": "Economy"
     },
     {
-      "title": "Trump hails jobs surge, says Iran talks ‘going well’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
-      "published_date": "2026-06-05T20:36:28+00:00",
-      "category": "Economy"
+      "title": "The Economist “Newspaper” Recycles Political Stereotypes About Somalia",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/12/the-economist-newspaper-recycles-political-stereotypes-about-somalia/",
+      "published_date": "2026-06-12T19:02:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US Senate passes $70bn ICE funding bill: What comes next?",
+      "title": "Amnesty calls for Israel boycott over aggression in the occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/us-senate-passes-70bn-ice-funding-bill-what-comes-next?traffic_source=rss",
-      "published_date": "2026-06-05T16:40:37+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/amnesty-calls-for-israel-boycott-over-aggression-in-the-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-06-12T17:59:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Reports Suggest Somaliland President May Visit Israel This Week",
@@ -610,20 +624,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/06/11/cawad-oo-ka-falceliyey-hadal-uu-jeediyay-lugatoor/",
       "published_date": "2026-06-11T06:16:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trial begins for man accused of sparking Palisades Fire in California",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/trial-begins-for-man-accused-of-sparking-palisades-fire-in-california?traffic_source=rss",
-      "published_date": "2026-06-10T23:05:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament speaker Adan Madobe elected Southwest state president",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-adan-madobe-elected-southwest-president/",
-      "published_date": "2026-06-10T18:17:48+00:00",
       "category": "Local Events"
     }
   ]
