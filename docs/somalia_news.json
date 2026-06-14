@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-14T00:03:40.736609+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-14T13:00:49.462118+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Somalia’s New Ambassador Presents Credentials in Libya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-new-ambassador-presents-credentials-in-libya/",
+      "published_date": "2026-06-14T11:36:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Romanian president picks Liberal former mayor as PM to form new government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/romanian-president-picks-liberal-former-mayor-as-pm-to-form-new-government?traffic_source=rss",
+      "published_date": "2026-06-14T09:31:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ambassador of the Federal Republic of Somalia to Libya Presents Credentials",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/ambassador-of-the-federal-republic-of-somalia-to-libya-presents-credentials/",
+      "published_date": "2026-06-14T08:19:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar earns first ever World Cup point",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_qatar-earns-first-ever-world-cup-point-140626?traffic_source=rss",
+      "published_date": "2026-06-14T05:14:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar net late against Switzerland to secure historic first World Cup point",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia, EU Strengthen Cooperation on Media and Countering Misinformation",
+      "title": "Somali Army Chief Chairs Security Meeting Ahead of AUSSOM Transition",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-chairs-security-meeting-ahead-of-aussom-transition/",
+      "published_date": "2026-06-14T11:32:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Chief Chairs Strategic Meeting on Security Transition and Military Readiness",
       "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-eu-strengthen-cooperation-on-media-and-countering-misinformation/",
-      "published_date": "2026-06-10T14:22:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://sonna.so/en/somali-army-chief-chairs-strategic-meeting-on-security-transition-and-military-readiness/",
+      "published_date": "2026-06-14T10:33:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali PM Hails Referee Omar Artan as Symbol of Hope After World Cup Setback",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pm-hails-referee-omar-artan-as-symbol-of-hope-after-world-cup-setback/",
-      "published_date": "2026-06-10T11:58:09+00:00",
-      "category": "Diplomacy"
+      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
+      "published_date": "2026-06-14T09:18:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Safaaradda Soomaaliya ee Qatar oo Ka Qayb Gashay Xuska Maalinta Afrika ee Dooxa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/safaaradda-soomaaliya-ee-qatar-oo-ka-qayb-gashay-xuska-maalinta-afrika-ee-dooxa/",
-      "published_date": "2026-06-10T09:57:19+00:00",
-      "category": "Diplomacy"
+      "title": "UK court to rule on Palestine Action ‘terrorist’ label: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/uk-court-to-rule-on-palestine-action-terrorist-label-what-we-know?traffic_source=rss",
+      "published_date": "2026-06-14T08:34:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Opposition Accuses Government of Targeting Political Rivals",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-opposition-accuses-government-of-targeting-political-rivals/",
-      "published_date": "2026-06-10T09:49:07+00:00",
-      "category": "Diplomacy"
+      "title": "UK forces seize suspected Russian shadow fleet tanker in English Channel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss",
+      "published_date": "2026-06-14T07:38:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+      "published_date": "2026-06-14T07:24:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Chief, Egyptian Defense Attaché Discuss Strengthening Military Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/somali-army-chief-egyptian-defense-attache-discuss-strengthening-military-cooperation/",
+      "published_date": "2026-06-14T02:12:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two killed in Israeli strike on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
+      "published_date": "2026-06-14T01:11:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is the price of gold trending down?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss",
+      "published_date": "2026-06-14T00:56:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Saddex Askari oo Ku Dhaawacmay Weerar Al-Shabaab ku Qaadday Xero Ciidamo oo ku Taalla Kenya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/saddex-askari-oo-ku-dhaawacmay-weerar-al-shabaab-ku-qaadday-xero-ciidamo-oo-ku-taalla-kenya/",
-      "published_date": "2026-06-13T09:29:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three officers injured as Al-Shabaab attacks elite SOG camp in Mandera",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/three-officers-injured-as-al-shabaab-attacks-elite-sog-camp-in-mandera/",
-      "published_date": "2026-06-13T09:26:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
+      "title": "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
-      "published_date": "2026-06-13T09:12:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
-      "published_date": "2026-06-13T08:04:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "England training equipment stolen ahead of squad’s arrival in Kansas City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/13/england-training-equipment-stolen-ahead-of-squads-arrival-in-kansas-city?traffic_source=rss",
-      "published_date": "2026-06-13T08:02:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon war victims among 117M people displaced worldwide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/lebanon-war-victims-among-117m-people-displaced-worldwide?traffic_source=rss",
-      "published_date": "2026-06-13T07:56:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five killed as Israel hits south Lebanon, issues forced displacement orders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
-      "published_date": "2026-06-13T07:33:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump seeks ‘off-ramp’ from war in ‘Iran deal’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss",
-      "published_date": "2026-06-13T07:23:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Officers Graduate from Rwanda Defence Command and Staff College",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-army-officers-graduate-from-rwanda-defence-command-and-staff-college/",
-      "published_date": "2026-06-13T07:23:02+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
+      "published_date": "2026-06-14T03:37:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Putin admits Ukraine attacks hitting Russian economy, society",
@@ -347,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "How have countries around the world responded to the US-Israel war on Iran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
-      "published_date": "2026-06-07T09:35:31+00:00",
-      "category": "Energy"
+      "title": "Ra’iisul Wasaare Ku Xigeenka XFS Oo Furay Toddobaadka Ganacsiga Talyaaniga iyo Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-ku-xigeenka-xfs-oo-furay-toddobaadka-ganacsiga-talyaaniga-iyo-soomaaliya/",
+      "published_date": "2026-06-14T05:52:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "Albania protests escalate over Kushner-backed coastal development",
@@ -459,18 +466,74 @@
       "category": "Economy"
     },
     {
-      "title": "Israeli settlers threaten to kill Palestinian farmer and harass sheep",
+      "title": "Israel attacks southern Beirut after alleged Hezbollah drone fire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israeli-settlers-threaten-to-kill-palestinian-farmer-and-harass-sheep?traffic_source=rss",
-      "published_date": "2026-06-07T10:52:50+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-06-14T10:25:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
+      "title": "AUSSOM Welcomes New Ghana Police Force",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/aussom-welcomes-new-ghana-police-force/",
+      "published_date": "2026-06-14T10:01:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cirro oo tagay Tel Aviv",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/14/cirro-oo-tagay-tel-aviv/",
+      "published_date": "2026-06-14T09:53:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AUSSOM oo Soo Dhaweysay Guutada Cusub ee Booliska Ghana",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/aussom-oo-soo-dhaweysay-guutada-cusub-ee-booliska-ghana/",
+      "published_date": "2026-06-14T09:51:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal Government Fosters Landmark Somalia–Rwanda Partnership for Peace Education and Regional Cooperation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/federal-government-fosters-landmark-somalia-rwanda-partnership-for-peace-education-and-regional-cooperation/",
+      "published_date": "2026-06-14T08:01:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo markale wax-ka-baddel ku sameynaysa Dastuurka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/14/puntland-oo-markale-wax-ka-baddel-ku-sameynaysa-dastuurka/",
+      "published_date": "2026-06-14T07:55:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hirshabelle President Honors Media Representatives at Farewell Dinner in Jowhar",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/hirshabelle-president-honors-media-representatives-at-farewell-dinner-in-jowhar/",
+      "published_date": "2026-06-14T06:41:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smiles all around as Morocco, Brazil share spoils and Knicks make history",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss",
-      "published_date": "2026-06-07T09:39:09+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/6/14/smiles-all-around-as-morocco-brazil-share-spoils-and-knicks-make-history?traffic_source=rss",
+      "published_date": "2026-06-14T06:30:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shangani Hosts Public Event Celebrating Somalia’s Independence and Unity Week",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/shangani-hosts-public-event-celebrating-somalias-independence-and-unity-week/",
+      "published_date": "2026-06-14T06:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents of Abudwaq Welcome Voter Registration for One-Person, One-Vote Elections",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/residents-of-abudwaq-welcome-voter-registration-for-one-person-one-vote-elections/",
+      "published_date": "2026-06-14T02:17:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
@@ -540,76 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
       "published_date": "2026-06-13T09:13:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doctors Without Borders investigation finds exploitation by staff in Chad",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/doctors-without-borders-investigation-finds-exploitation-by-staff-in-chad?traffic_source=rss",
-      "published_date": "2026-06-13T08:44:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Commerce Welcomes Italian Business Delegation to Somalia",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/minister-of-commerce-welcomes-italian-business-delegation-to-somalia/",
-      "published_date": "2026-06-13T07:16:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Holds Security and Community Consultations in Jowhar",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-holds-security-and-community-consultations-in-jowhar/",
-      "published_date": "2026-06-13T06:34:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Cirro Oo Booqasho Taariikhi Ah Ku Tagaya Israel",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweyne-cirro-oo-booqasho-taariikhi-ah-ku-tagaya-israel/",
-      "published_date": "2026-06-13T05:40:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Economist “Newspaper” Recycles Political Stereotypes About Somalia",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/12/the-economist-newspaper-recycles-political-stereotypes-about-somalia/",
-      "published_date": "2026-06-12T19:02:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amnesty calls for Israel boycott over aggression in the occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/amnesty-calls-for-israel-boycott-over-aggression-in-the-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-06-12T17:59:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reports Suggest Somaliland President May Visit Israel This Week",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/reports-suggest-somaliland-president-may-visit-israel-this-week/",
-      "published_date": "2026-06-12T14:03:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Couples Regional Infrastructure Expansion with Historic Democratic Reforms",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-couples-regional-infrastructure-expansion-with-historic-democratic-reforms/",
-      "published_date": "2026-06-12T13:04:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strategic Infrastructure Expansion Secures Governance and Economic Horizons in Hirshabelle",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/strategic-infrastructure-expansion-secures-governance-and-economic-horizons-in-hirshabelle/",
-      "published_date": "2026-06-12T12:59:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/iraq-analysis-militias-disarm?traffic_source=rss",
-      "published_date": "2026-06-12T09:55:11+00:00",
       "category": "Local Events"
     }
   ]
