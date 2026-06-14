@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-13T12:53:23.935019+00:00",
-  "story_count": 88,
+  "last_updated": "2026-06-14T00:03:40.736609+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Qatar net late against Switzerland to secure historic first World Cup point",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
+      "published_date": "2026-06-13T21:29:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit?traffic_source=rss",
+      "published_date": "2026-06-13T19:54:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar 1-1 Switzerland: World Cup 2026 – as it happened",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss",
+      "published_date": "2026-06-13T17:31:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "State Minister for Foreign Affairs Receives UNTMIS Delegation",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/state-minister-for-foreign-affairs-receives-untmis-delegation/",
+      "published_date": "2026-06-13T16:52:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Prime Minister Hamza Commends Ocean Queens Ahead of Historic CECAFA Women’s Cup Campaign",
       "source": "SONNA",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Showcases Culture at Africa Day Celebration in Qatar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-showcases-culture-at-africa-day-celebration-in-qatar/",
-      "published_date": "2026-06-10T09:19:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenya’s police crack down on protest against US Ebola centre in Nanyuki",
+      "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/9/kenyas-police-crack-down-on-protest-against-us-ebola-centre-in-nanyuki?traffic_source=rss",
-      "published_date": "2026-06-09T16:16:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
+      "published_date": "2026-06-13T20:46:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Foreign Affairs Minister Holds Talks with Pakistani and Rwandan Counterparts",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/foreign-affairs-minister-holds-talks-with-pakistani-and-rwandan-counterparts/",
-      "published_date": "2026-06-09T16:06:42+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine to keep targeting Russian energy after hitting sea terminal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/ukraine-to-keep-targeting-russian-energy-after-hitting-sea-terminal?traffic_source=rss",
+      "published_date": "2026-06-13T18:29:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Türkiye Advance Strategic Cooperation on Spaceport Project",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-turkiye-advance-strategic-cooperation-on-spaceport-project/",
-      "published_date": "2026-06-09T13:34:48+00:00",
-      "category": "Diplomacy"
+      "title": "Keepy-up cop wows fans with football skills at World Cup event in Boston",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/keepy-up-cop-wows-fans-with-football-skills-at-world-cup-event-in-boston?traffic_source=rss",
+      "published_date": "2026-06-13T18:29:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss",
+      "published_date": "2026-06-13T18:17:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oval Office octagon: How Trump turned combat sports into a political weapon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/oval-office-octagon-how-trump-turned-combat-sports-into-a-political-weapon?traffic_source=rss",
+      "published_date": "2026-06-13T16:25:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+      "published_date": "2026-06-13T15:43:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands attend anti-racism rallies following unrest in Belfast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss",
+      "published_date": "2026-06-13T15:34:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
+      "published_date": "2026-06-13T15:19:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Deadly military plane crash in India’s Assam",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump says US strike killed Tren de Aragua gang boss with Venezuelan help",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help?traffic_source=rss",
-      "published_date": "2026-06-13T06:50:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will there be a deal to end the Iran war this time?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
-      "published_date": "2026-06-12T20:44:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Clashes break out at DRC rally against presidential term-limit change",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/violence-breaks-out-at-drc-rally-against-presidential-term-limit-change?traffic_source=rss",
-      "published_date": "2026-06-12T19:51:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK court jails Palestine Action activists on ‘terrorism’ charges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/uk-court-jails-palestinian-action-activists-on-terrorism-charges?traffic_source=rss",
-      "published_date": "2026-06-12T19:27:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Gulf will manage collective security after the Iran war ends",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss",
-      "published_date": "2026-06-12T18:48:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least one killed and nine hospitalised in Midland, Texas shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/at-least-one-killed-and-nine-hospitalised-in-texas-shooting?traffic_source=rss",
-      "published_date": "2026-06-12T18:11:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesian students protest gov’t policies amid economic strain",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/indonesian-students-protest-govt-policies-amid-economic-strain?traffic_source=rss",
-      "published_date": "2026-06-12T13:33:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss",
-      "published_date": "2026-06-12T12:08:33+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Putin admits Ukraine attacks hitting Russian economy, society",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/12/putin-admits-ukraine-attacks-hitting-russian-economy-society?traffic_source=rss",
@@ -354,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "‘Unacceptable situation’: Minister cries foul as Jamaica suffers blackout",
+      "title": "Albania protests escalate over Kushner-backed coastal development",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/unacceptable-situation-minister-cries-foul-as-jamaica-suffers-blackout?traffic_source=rss",
-      "published_date": "2026-06-06T18:42:28+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/albania-protests-escalate-over-kushner-backed-coastal-development?traffic_source=rss",
+      "published_date": "2026-06-13T17:57:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "US Congressman says Trump won’t send loads of money to Iran",
@@ -473,11 +473,39 @@
       "category": "Economy"
     },
     {
-      "title": "What Afghanistan’s rotten apples tell us about its non-profit sector",
+      "title": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector?traffic_source=rss",
-      "published_date": "2026-06-06T14:16:56+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss",
+      "published_date": "2026-06-13T21:20:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary’s former PM Orban re-elected party leader despite election loss",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/hungarys-former-pm-orban-re-elected-party-leader-despite-election-loss?traffic_source=rss",
+      "published_date": "2026-06-13T18:54:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DDS oo ka hadashay dhalinyaro ay qabatay Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/13/dds-oo-ka-hadashay-dhalinyaro-ay-qabatay-puntland/",
+      "published_date": "2026-06-13T16:15:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli attacks kill three in Gaza as post-‘ceasefire’ deaths hit 983",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
+      "published_date": "2026-06-13T16:01:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Southwest State Announces New Security Measures in Baidoa",
+      "source": "SONNA",
+      "url": "https://sonna.so/en/southwest-state-announces-new-security-measures-in-baidoa/",
+      "published_date": "2026-06-13T13:09:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rag burcad-badeed ah oo isu soo dhiibay Puntland",
@@ -582,41 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/12/iraq-analysis-militias-disarm?traffic_source=rss",
       "published_date": "2026-06-12T09:55:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Referee Omar Artan to Officiate UEFA Super Cup in Historic First for Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-referee-omar-artan-to-officiate-uefa-super-cup-in-historic-first-for-somalia/",
-      "published_date": "2026-06-12T09:22:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Musk’s $1.8 trillion SpaceX IPO could be ‘highly undesirable’ for some",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some?traffic_source=rss",
-      "published_date": "2026-06-11T23:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Global Criticism Follows U.S. Decision to Deny Entry to Somali World Cup Referee Omar Artan",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/global-criticism-follows-u-s-decision-to-deny-entry-to-somali-world-cup-referee-omar-artan/",
-      "published_date": "2026-06-11T22:16:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jose Mourinho named Real Madrid coach on three-year deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal?traffic_source=rss",
-      "published_date": "2026-06-11T19:09:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Advances Institutional State-Building with Massive Infrastructure Launch in Jowhar Alongside Global Sports Recognition",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-advances-institutional-state-building-with-massive-infrastructure-launch-in-jowhar-alongside-global-sports-recognition/",
-      "published_date": "2026-06-11T17:49:04+00:00",
       "category": "Local Events"
     }
   ]
