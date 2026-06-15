@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-15T00:08:01.738155+00:00",
-  "story_count": 86,
+  "last_updated": "2026-06-15T16:20:08.245987+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "UK announces social media ban for under-16s",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/uk-announces-social-media-ban-for-under-16s?traffic_source=rss",
+      "published_date": "2026-06-15T10:56:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Hosts Second National AI Summit to Drive Digital Transformation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-hosts-second-national-ai-summit-to-drive-digital-transformation/",
+      "published_date": "2026-06-15T09:46:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
       "source": "Al Jazeera",
@@ -130,18 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Advances Bilateral Economic and Diplomatic Strategy as New Ambassador Presents Credentials in Pretoria",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-advances-bilateral-economic-and-diplomatic-strategy-as-new-ambassador-presents-credentials-in-pretoria/",
-      "published_date": "2026-06-11T17:57:00+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says Lebanon, assets release key parts of peace deal with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/iran-says-lebanon-assets-release-key-parts-of-peace-deal-with-us?traffic_source=rss",
+      "published_date": "2026-06-15T15:32:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia must not be dragged back into war",
+      "title": "World welcomes US-Iran ‘peace deal’ criticised by Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/11/ethiopia-must-not-be-dragged-back-into-war?traffic_source=rss",
-      "published_date": "2026-06-11T11:31:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/world-welcomes-us-iran-peace-deal-criticised-by-israel?traffic_source=rss",
+      "published_date": "2026-06-15T14:34:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says ships ‘starting to move’ through Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-06-15T14:28:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
+      "published_date": "2026-06-15T13:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Pakistan mediated a US-Iran agreement after more than 100 days of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/how-pakistan-mediated-a-us-iran-agreement-after-more-than-100-days-of-war?traffic_source=rss",
+      "published_date": "2026-06-15T13:06:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Island surrounded by war’: Crimeans panic amid Ukrainian attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/island-surrounded-by-war-crimeans-panic-amid-ukrainian-strikes?traffic_source=rss",
+      "published_date": "2026-06-15T11:38:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, US agree tentative deal to ‘end war’: Your questions answered",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered?traffic_source=rss",
+      "published_date": "2026-06-15T11:21:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK Court of Appeal upholds ban on Palestine Action as ‘terrorist’ group",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/uk-court-says-proscribing-palestine-action-as-terrorist-group-was-lawful?traffic_source=rss",
+      "published_date": "2026-06-15T10:37:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Geneva police use force as G7 protest escalates into violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/15/geneva-police-use-force-as-g7-protest-escalates-into-violence?traffic_source=rss",
+      "published_date": "2026-06-15T10:05:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss",
+      "published_date": "2026-06-15T10:05:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Elite Forces Kill 14 Al-Shabaab Fighters in Southern Operation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-elite-forces-kill-14-al-shabaab-fighters-in-southern-operation/",
+      "published_date": "2026-06-15T09:48:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
@@ -204,83 +281,6 @@
       "source": "SONNA",
       "url": "https://sonna.so/en/somali-army-chief-chairs-strategic-meeting-on-security-transition-and-military-readiness/",
       "published_date": "2026-06-14T10:33:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
-      "published_date": "2026-06-14T09:18:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK court to rule on Palestine Action ‘terrorist’ label: What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/uk-court-to-rule-on-palestine-action-terrorist-label-what-we-know?traffic_source=rss",
-      "published_date": "2026-06-14T08:34:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK forces seize suspected Russian shadow fleet tanker in English Channel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss",
-      "published_date": "2026-06-14T07:38:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
-      "published_date": "2026-06-14T07:24:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief, Egyptian Defense Attaché Discuss Strengthening Military Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-army-chief-egyptian-defense-attache-discuss-strengthening-military-cooperation/",
-      "published_date": "2026-06-14T02:12:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two killed in Israeli strike on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
-      "published_date": "2026-06-14T01:11:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is the price of gold trending down?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss",
-      "published_date": "2026-06-14T00:56:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss",
-      "published_date": "2026-06-13T20:46:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine to keep targeting Russian energy after hitting sea terminal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/ukraine-to-keep-targeting-russian-energy-after-hitting-sea-terminal?traffic_source=rss",
-      "published_date": "2026-06-13T18:29:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Keepy-up cop wows fans with football skills at World Cup event in Boston",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/keepy-up-cop-wows-fans-with-football-skills-at-world-cup-event-in-boston?traffic_source=rss",
-      "published_date": "2026-06-13T18:29:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss",
-      "published_date": "2026-06-13T18:17:43+00:00",
       "category": "Military"
     },
     {
@@ -347,11 +347,18 @@
       "category": "Energy"
     },
     {
-      "title": "How extreme weather and heat could affect players at World Cup 2026",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/8/how-extreme-weather-and-heat-could-affect-players-at-world-cup-2026?traffic_source=rss",
-      "published_date": "2026-06-08T13:38:51+00:00",
-      "category": "Energy"
+      "title": "Somali President Hosts Italian Investors to Promote Trade and Investment",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-hosts-italian-investors-to-promote-trade-and-investment/",
+      "published_date": "2026-06-15T09:45:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia famine risk: UN releases $10M in urgent aid to save millions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-famine-risk-un-aid/",
+      "published_date": "2026-06-15T05:56:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ra’iisul Wasaare Ku Xigeenka XFS Oo Furay Toddobaadka Ganacsiga Talyaaniga iyo Soomaaliya",
@@ -452,18 +459,81 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia, Tanzania Reaffirm Commitment to Strengthening Trade and Investment Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-tanzania-reaffirm-commitment-to-strengthening-trade-and-investment-cooperation/",
-      "published_date": "2026-06-08T09:34:22+00:00",
-      "category": "Economy"
+      "title": "Ciidamo ka tirsan Puntland oo galay shil sababay dhimasho iyo dhaawac",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/15/ciidamo-ka-tirsan-puntland-oo-galay-shil-sababay-dhimasho-iyo-dhaawac/",
+      "published_date": "2026-06-15T15:36:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ukraine, Russia trade fire as Zelenskyy allies back call for direct talks",
+      "title": "What a UK court’s backing of the Palestine Action ‘terror’ ban means",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks?traffic_source=rss",
-      "published_date": "2026-06-08T08:48:53+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/15/what-a-uk-courts-backing-of-the-palestine-action-terror-ban-means?traffic_source=rss",
+      "published_date": "2026-06-15T13:46:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo Furay Kal-fadhiga 58-aad ee Baarlamaanka Puntland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweyne-deni-oo-furay-kal-fadhiga-58-aad-ee-baarlamaanka-puntland/",
+      "published_date": "2026-06-15T12:06:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo diiday in ay su’aalo weydiiyaan xildhibaanada Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/15/madaxweyne-deni-oo-diiday-in-ay-suaalo-weydiiyaan-xildhibaanada-puntland/",
+      "published_date": "2026-06-15T10:52:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland president lays wreath at tomb of Zionism’s founder during Israel visit",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-israel-zionism-wreath/",
+      "published_date": "2026-06-15T09:52:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xoojinta Awoodaha Taakuleynta Ciidanka Soomaaliyeed",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/xoojinta-awoodaha-taakuleynta-ciidanka-soomaaliyeed/",
+      "published_date": "2026-06-15T08:20:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EUTM-Somalia Mission Force Commander Visits SNAF Sustainment Command at Villa Baidoa, Reaffirming EU Partnership",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/eutm-somalia-mission-force-commander-visits-snaf-sustainment-command-at-villa-baidoa-reaffirming-eu-partnership/",
+      "published_date": "2026-06-15T08:18:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni oo ku eedeeyay Xasan Sheekh in uu abuuray burcad-badeeda ka dilaacday Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/15/deni-oo-ku-eedeeyay-xasan-sheekh-in-uu-abuuray-burcad-badeeda-ka-dilaacday-puntland/",
+      "published_date": "2026-06-15T08:13:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "13 World Cup Nations Fire Scathing Response to UEFA Chief’s Surprise",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/13-world-cup-nations-fire-scathing-response-to-uefa-chiefs-surprise/",
+      "published_date": "2026-06-15T06:28:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo furaya kalfadhiga 58-aad ee Baarlamaanka Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/15/madaxweyne-deni-oo-furaya-kalfadhiga-58-aad-ee-baarlamaanka-puntland/",
+      "published_date": "2026-06-15T06:22:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA to pay Somali referee Omar Artan despite U.S. entry ban",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-referee-omar-artan-fifa-fee-us-ban/",
+      "published_date": "2026-06-15T04:55:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gaza mourns four killed in Israeli strike",
@@ -480,10 +550,24 @@
       "category": "Local Events"
     },
     {
+      "title": "President Hassan Sheikh: Somalia faces two options: military force or dialogue to resolve disputes over Somaliland.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/president-hassan-sheikh-somalia-faces-two-options-military-force-or-dialogue-to-resolve-disputes-over-somaliland/",
+      "published_date": "2026-06-14T19:13:59+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
       "published_date": "2026-06-14T18:51:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli President Receives Somaliland President on Historic Visit to Israel",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/israeli-president-receives-somaliland-president-on-historic-visit-to-israel/",
+      "published_date": "2026-06-14T18:50:45+00:00",
       "category": "Local Events"
     },
     {
@@ -508,101 +592,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Israel attacks southern Beirut after alleged Hezbollah drone fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-06-14T10:25:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AUSSOM Welcomes New Ghana Police Force",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-welcomes-new-ghana-police-force/",
-      "published_date": "2026-06-14T10:01:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cirro oo tagay Tel Aviv",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/14/cirro-oo-tagay-tel-aviv/",
-      "published_date": "2026-06-14T09:53:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AUSSOM oo Soo Dhaweysay Guutada Cusub ee Booliska Ghana",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-oo-soo-dhaweysay-guutada-cusub-ee-booliska-ghana/",
-      "published_date": "2026-06-14T09:51:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal Government Fosters Landmark Somalia–Rwanda Partnership for Peace Education and Regional Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/federal-government-fosters-landmark-somalia-rwanda-partnership-for-peace-education-and-regional-cooperation/",
-      "published_date": "2026-06-14T08:01:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo markale wax-ka-baddel ku sameynaysa Dastuurka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/14/puntland-oo-markale-wax-ka-baddel-ku-sameynaysa-dastuurka/",
-      "published_date": "2026-06-14T07:55:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hirshabelle President Honors Media Representatives at Farewell Dinner in Jowhar",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/hirshabelle-president-honors-media-representatives-at-farewell-dinner-in-jowhar/",
-      "published_date": "2026-06-14T06:41:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smiles all around as Morocco, Brazil share spoils and Knicks make history",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/14/smiles-all-around-as-morocco-brazil-share-spoils-and-knicks-make-history?traffic_source=rss",
-      "published_date": "2026-06-14T06:30:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shangani Hosts Public Event Celebrating Somalia’s Independence and Unity Week",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/shangani-hosts-public-event-celebrating-somalias-independence-and-unity-week/",
-      "published_date": "2026-06-14T06:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents of Abudwaq Welcome Voter Registration for One-Person, One-Vote Elections",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/residents-of-abudwaq-welcome-voter-registration-for-one-person-one-vote-elections/",
-      "published_date": "2026-06-14T02:17:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss",
-      "published_date": "2026-06-13T21:20:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary’s former PM Orban re-elected party leader despite election loss",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/hungarys-former-pm-orban-re-elected-party-leader-despite-election-loss?traffic_source=rss",
-      "published_date": "2026-06-13T18:54:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DDS oo ka hadashay dhalinyaro ay qabatay Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/13/dds-oo-ka-hadashay-dhalinyaro-ay-qabatay-puntland/",
-      "published_date": "2026-06-13T16:15:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attacks kill three in Gaza as post-‘ceasefire’ deaths hit 983",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
-      "published_date": "2026-06-13T16:01:15+00:00",
+      "title": "Somaliland president Irro arrives in Israel for state visit",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-israel-visit/",
+      "published_date": "2026-06-14T12:43:30+00:00",
       "category": "Local Events"
     }
   ]
