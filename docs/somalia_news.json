@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-14T13:00:49.462118+00:00",
+  "last_updated": "2026-06-15T00:08:01.738155+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss",
+      "published_date": "2026-06-14T20:45:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is the G7 still relevant?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/14/is-the-g7-still-relevant?traffic_source=rss",
+      "published_date": "2026-06-14T18:31:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss",
+      "published_date": "2026-06-14T16:49:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland, Israel agree to deepen cooperation after presidential talks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-israel-agree-to-deepen-cooperation-after-presidential-talks/",
+      "published_date": "2026-06-14T13:54:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia’s New Ambassador Presents Credentials in Libya",
       "source": "Shabelle Media",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Regrets U.S. Entry Denial for CAF Referee Omar Artan",
+      "title": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/six-people-killed-as-helicopters-collide-over-brazils-rio-de-janeiro?traffic_source=rss",
+      "published_date": "2026-06-14T20:10:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Twelve killed in plane crash in US state of Missouri",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/twelve-killed-in-plane-crash-in-us-state-of-missouri?traffic_source=rss",
+      "published_date": "2026-06-14T19:29:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
+      "published_date": "2026-06-14T19:21:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al Jazeera reports from Israeli attack site in southern Beirut",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
+      "published_date": "2026-06-14T16:49:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jubaland oo soo bandhigtay ciidan iyo hub",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/14/jubaland-oo-soo-bandhigtay-ciidan-iyo-hub/",
+      "published_date": "2026-06-14T14:26:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jubaland President Commissions Elite Duufaan Unit for Anti-Militant Operations",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-regrets-u-s-entry-denial-for-caf-referee-omar-artan/",
-      "published_date": "2026-06-11T08:16:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/jubaland-president-commissions-elite-duufaan-unit-for-anti-militant-operations/",
+      "published_date": "2026-06-14T13:36:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel kills 16 in Lebanon, UN to probe international law violations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss",
-      "published_date": "2026-06-10T20:46:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India summons US envoy over attack on ship carrying Indian sailors off Oman",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/india-summons-us-envoy-over-ship-attack-that-left-three-indians-missing?traffic_source=rss",
-      "published_date": "2026-06-10T20:05:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Voices Concern Over U.S. Travel Denial for Award-Winning Referee Omar Artan",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-voices-concern-over-u-s-travel-denial-for-award-winning-referee-omar-artan/",
-      "published_date": "2026-06-10T14:33:31+00:00",
-      "category": "Diplomacy"
+      "title": "Madaxweynaha Jubaland oo Tababar u Soo Xiray Ciidamo ka Tirsan Ururka Duufaan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweynaha-jubaland-oo-tababar-u-soo-xiray-ciidamo-ka-tirsan-ururka-duufaan/",
+      "published_date": "2026-06-14T13:18:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Somali Army Chief Chairs Security Meeting Ahead of AUSSOM Transition",
@@ -232,55 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss",
       "published_date": "2026-06-13T18:17:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oval Office octagon: How Trump turned combat sports into a political weapon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/oval-office-octagon-how-trump-turned-combat-sports-into-a-political-weapon?traffic_source=rss",
-      "published_date": "2026-06-13T16:25:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
-      "published_date": "2026-06-13T15:43:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands attend anti-racism rallies following unrest in Belfast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss",
-      "published_date": "2026-06-13T15:34:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
-      "published_date": "2026-06-13T15:19:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly military plane crash in India’s Assam",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
-      "published_date": "2026-06-13T12:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five Indian air force staff killed as transport plane crashes in Assam",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss",
-      "published_date": "2026-06-13T11:29:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel attacks Lebanon despite being included in potential peace deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss",
-      "published_date": "2026-06-13T10:13:54+00:00",
       "category": "Military"
     },
     {
@@ -466,6 +466,48 @@
       "category": "Economy"
     },
     {
+      "title": "Gaza mourns four killed in Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
+      "published_date": "2026-06-14T20:57:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel welcomes Somaliland president in ‘historic’ visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-welcomes-somaliland-president-in-historic-visit?traffic_source=rss",
+      "published_date": "2026-06-14T19:23:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
+      "published_date": "2026-06-14T18:51:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murusade Elders Issue Communiqué on June 3 Attack on Peace Meeting in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/murusade-elders-issue-communique-on-june-3-attack-on-peace-meeting-in-mogadishu/",
+      "published_date": "2026-06-14T17:24:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland iyo Israa’iil oo gaarey heshiisyo cusub",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-iyo-israaiil-oo-gaarey-heshiisyo-cusub/",
+      "published_date": "2026-06-14T13:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jaamacadda Ummadda Soomaaliyeed iyo Jaamacadda Ruwaanda oo Kala Saxiixday Heshiis Iskaashi",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jaamacadda-ummadda-soomaaliyeed-iyo-jaamacadda-ruwaanda-oo-kala-saxiixday-heshiis-iskaashi/",
+      "published_date": "2026-06-14T13:22:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israel attacks southern Beirut after alleged Hezbollah drone fire",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
@@ -561,48 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
       "published_date": "2026-06-13T16:01:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southwest State Announces New Security Measures in Baidoa",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/southwest-state-announces-new-security-measures-in-baidoa/",
-      "published_date": "2026-06-13T13:09:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rag burcad-badeed ah oo isu soo dhiibay Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/13/rag-burcad-badeed-ah-oo-isu-soo-dhiibay-puntland/",
-      "published_date": "2026-06-13T12:13:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Announces July 5 Banadir District Council Speaker Elections",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somalia-announces-july-5-banadir-district-council-speaker-elections/",
-      "published_date": "2026-06-13T11:41:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violence erupts at anti-government protest in DR Congo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/violence-erupts-at-anti-government-protest-in-dr-congo?traffic_source=rss",
-      "published_date": "2026-06-13T11:16:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali President Holds Security Talks in Jowhar, Urges Community Support for Elections",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-holds-security-talks-in-jowhar-urges-community-support-for-elections/",
-      "published_date": "2026-06-13T09:19:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
-      "published_date": "2026-06-13T09:13:29+00:00",
       "category": "Local Events"
     }
   ]
