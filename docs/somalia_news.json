@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-16T00:27:57.060888+00:00",
-  "story_count": 81,
+  "last_updated": "2026-06-16T16:00:32.209411+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Optics of peace first, details later: The US-Iran 60-day challenge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/16/optics-of-peace-first-details-later-the-us-iran-60-day-challenge?traffic_source=rss",
+      "published_date": "2026-06-16T15:39:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia threatens action over Israel-Somaliland ties",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-threatens-action-over-israel-somaliland-ties/",
+      "published_date": "2026-06-16T15:10:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland opens embassy in Jerusalem, signs strategic deal with Israel",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-jerusalem-embassy-israel-strategic-deal/",
+      "published_date": "2026-06-16T11:22:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Egypt Discuss Strengthening Defence and Security Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-egypt-discuss-strengthening-defence-and-security-cooperation/",
+      "published_date": "2026-06-16T08:30:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AUSSOM Reviews Security Situation in Beledweyne, Strengthens Coordination With Somali Forces",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/aussom-reviews-security-situation-in-beledweyne-strengthens-coordination-with-somali-forces/",
+      "published_date": "2026-06-16T08:29:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/oic-condemns-opening-of-somaliland-mission-in-jerusalem-reaffirms-support-for-somalia/",
+      "published_date": "2026-06-16T08:21:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir",
       "source": "Al Jazeera",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatar 1-1 Switzerland: World Cup 2026 – as it happened",
+      "title": "Brazil police arrest bungee jumping operators after woman dies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss",
-      "published_date": "2026-06-13T17:31:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/brazil-police-arrest-bungee-jumping-operators-after-woman-dies?traffic_source=rss",
+      "published_date": "2026-06-16T14:11:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "State Minister for Foreign Affairs Receives UNTMIS Delegation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/state-minister-for-foreign-affairs-receives-untmis-delegation/",
-      "published_date": "2026-06-13T16:52:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prime Minister Hamza Commends Ocean Queens Ahead of Historic CECAFA Women’s Cup Campaign",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/prime-minister-hamza-commends-ocean-queens-ahead-of-historic-cecafa-womens-cup-campaign/",
-      "published_date": "2026-06-13T11:31:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar vs Switzerland: World Cup group match – preview, team news, lineups",
+      "title": "Messi, Argentina begin World Cup title defence against Algeria: All to know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-vs-switzerland-world-cup-group-match-preview-team-news-lineups?traffic_source=rss",
-      "published_date": "2026-06-13T11:11:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/6/16/messi-argentina-begin-world-cup-title-defence-against-algeria-all-to-know?traffic_source=rss",
+      "published_date": "2026-06-16T11:43:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia president says Israel’s recognition of Somaliland was a ‘trap’",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-israel-recognition-somaliland-trap/",
-      "published_date": "2026-06-13T07:41:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN adopts treaty setting standards for gig economy workers",
+      "title": "Trump tells Netanyahu to be ‘more responsible with respect to Lebanon’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/un-adopts-treaty-setting-standards-for-gig-economy-workers?traffic_source=rss",
-      "published_date": "2026-06-12T18:12:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/16/trump-warns-all-hell-will-rain-down-if-iran-tries-to-get-a-nuclear-weapon?traffic_source=rss",
+      "published_date": "2026-06-16T11:41:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Soomaaliya oo ka walaacsan xiriirka Hargeysa iyo Tel Aviv",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/16/dowladda-soomaaliya-oo-ka-walaacsan-xiriirka-hargeysa-iyo-tel-aviv/",
+      "published_date": "2026-06-16T11:25:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ururka Iskaashiga Islaamka oo cambaareeyay Safaaradda Somaliland ka furayay Magaalada Quddus",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ururka-iskaashiga-islaamka-oo-cambaareeyay-safaaradda-somaliland-ka-furayay-magaalada-quddus/",
+      "published_date": "2026-06-16T08:19:30+00:00",
+      "category": "Military"
     },
     {
       "title": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Geneva police use force as G7 protest escalates into violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/15/geneva-police-use-force-as-g7-protest-escalates-into-violence?traffic_source=rss",
-      "published_date": "2026-06-15T10:05:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss",
-      "published_date": "2026-06-15T10:05:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Elite Forces Kill 14 Al-Shabaab Fighters in Southern Operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-elite-forces-kill-14-al-shabaab-fighters-in-southern-operation/",
-      "published_date": "2026-06-15T09:48:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/six-people-killed-as-helicopters-collide-over-brazils-rio-de-janeiro?traffic_source=rss",
-      "published_date": "2026-06-14T20:10:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Twelve killed in plane crash in US state of Missouri",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/twelve-killed-in-plane-crash-in-us-state-of-missouri?traffic_source=rss",
-      "published_date": "2026-06-14T19:29:29+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
@@ -338,6 +338,20 @@
       "url": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss",
       "published_date": "2026-06-09T23:06:39+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
+      "published_date": "2026-06-16T11:30:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somaliland, Israel Sign Security and Economic Cooperation Pact",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-israel-sign-security-and-economic-cooperation-pact/",
+      "published_date": "2026-06-16T10:49:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI",
@@ -424,11 +438,74 @@
       "category": "Economy"
     },
     {
-      "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
+      "title": "‘Justice prevailed’: Is the Netherlands shifting its stance on Israel?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
-      "published_date": "2026-06-09T09:17:42+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/16/justice-prevailed-is-the-netherlands-shifting-its-stance-on-israel?traffic_source=rss",
+      "published_date": "2026-06-16T14:10:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli court rules to keep prominent Palestinian doctor in detention",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/16/israeli-court-rules-to-keep-prominent-palestinian-doctor-in-detention?traffic_source=rss",
+      "published_date": "2026-06-16T13:24:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘There’s divergence between US and Israeli objectives in the region’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/theres-divergence-between-us-and-israeli-objectives-in-the?traffic_source=rss",
+      "published_date": "2026-06-16T13:09:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India blocks Telegram until Monday due to student exam fraud concerns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/16/india-blocks-telegram-until-monday-due-to-student-exam-fraud-concerns?traffic_source=rss",
+      "published_date": "2026-06-16T12:25:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Families return to shattered towns as fragile ceasefire holds in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/16/families-return-to-shattered-towns-as-fragile-ceasefire-holds-in-lebanon?traffic_source=rss",
+      "published_date": "2026-06-16T12:23:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suffragettes to Palestine Action: A history of direct-action protest in UK",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/16/suffragettes-to-palestine-action-a-history-of-direct-action-protest-in-uk?traffic_source=rss",
+      "published_date": "2026-06-16T12:07:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia condemns reported Israel contacts with Somaliland, calls move a violation of sovereignty",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-condemns-reported-israel-contacts-with-somaliland-calls-move-a-violation-of-sovereignty/",
+      "published_date": "2026-06-16T11:59:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soomaaliya oo Ka Digtay Xiriir Aan Sharci Ahayn oo Israa’iil La Yeelato Maamulka Somaliland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-ka-digtay-xiriir-aan-sharci-ahayn-oo-israaiil-la-yeelato-maamulka-somaliland/",
+      "published_date": "2026-06-16T11:14:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland oo heshiis amni la gashay Israel",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-oo-heshiis-amni-la-gashay-israel/",
+      "published_date": "2026-06-16T10:48:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "100 Jubaland Security Force Soldiers Complete Training in Kismayo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/100-jubaland-security-force-soldiers-complete-training-in-kismayo/",
+      "published_date": "2026-06-16T07:24:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iran vs New Zealand live: World Cup 2026",
@@ -498,76 +575,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/eutm-somalia-mission-force-commander-visits-snaf-sustainment-command-at-villa-baidoa-reaffirming-eu-partnership/",
       "published_date": "2026-06-15T08:18:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni oo ku eedeeyay Xasan Sheekh in uu abuuray burcad-badeeda ka dilaacday Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/15/deni-oo-ku-eedeeyay-xasan-sheekh-in-uu-abuuray-burcad-badeeda-ka-dilaacday-puntland/",
-      "published_date": "2026-06-15T08:13:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "13 World Cup Nations Fire Scathing Response to UEFA Chief’s Surprise",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/13-world-cup-nations-fire-scathing-response-to-uefa-chiefs-surprise/",
-      "published_date": "2026-06-15T06:28:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo furaya kalfadhiga 58-aad ee Baarlamaanka Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/15/madaxweyne-deni-oo-furaya-kalfadhiga-58-aad-ee-baarlamaanka-puntland/",
-      "published_date": "2026-06-15T06:22:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA to pay Somali referee Omar Artan despite U.S. entry ban",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-referee-omar-artan-fifa-fee-us-ban/",
-      "published_date": "2026-06-15T04:55:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza mourns four killed in Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
-      "published_date": "2026-06-14T20:57:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel welcomes Somaliland president in ‘historic’ visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-welcomes-somaliland-president-in-historic-visit?traffic_source=rss",
-      "published_date": "2026-06-14T19:23:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh: Somalia faces two options: military force or dialogue to resolve disputes over Somaliland.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/president-hassan-sheikh-somalia-faces-two-options-military-force-or-dialogue-to-resolve-disputes-over-somaliland/",
-      "published_date": "2026-06-14T19:13:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
-      "published_date": "2026-06-14T18:51:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli President Receives Somaliland President on Historic Visit to Israel",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/israeli-president-receives-somaliland-president-on-historic-visit-to-israel/",
-      "published_date": "2026-06-14T18:50:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murusade Elders Issue Communiqué on June 3 Attack on Peace Meeting in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/murusade-elders-issue-communique-on-june-3-attack-on-peace-meeting-in-mogadishu/",
-      "published_date": "2026-06-14T17:24:44+00:00",
       "category": "Local Events"
     }
   ]
