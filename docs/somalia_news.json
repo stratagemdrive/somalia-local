@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-15T16:20:08.245987+00:00",
-  "story_count": 85,
+  "last_updated": "2026-06-16T00:27:57.060888+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/eu-fails-to-agree-on-sanctions-for-far-right-israeli-minister-ben-gvir?traffic_source=rss",
+      "published_date": "2026-06-15T18:47:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland President Meets Israeli Prime Minister Netanyahu During Official Visit",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-meets-israeli-prime-minister-netanyahu-during-official-visit/",
+      "published_date": "2026-06-15T16:58:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK announces social media ban for under-16s",
       "source": "Al Jazeera",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "President Hassan Sheikh Mohamud Outlines Somalia’s Democratic Future, Calling for an End to Personality-Driven Politics",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/president-hassan-sheikh-mohamud-outlines-somalias-democratic-future-calling-for-an-end-to-personality-driven-politics/",
-      "published_date": "2026-06-12T14:07:09+00:00",
-      "category": "Diplomacy"
+      "title": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war?traffic_source=rss",
+      "published_date": "2026-06-16T00:13:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
+      "title": "US Air Force B-52 crashes in California",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss",
-      "published_date": "2026-06-11T20:21:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/us-air-force-b-52-crashes-in-california?traffic_source=rss",
+      "published_date": "2026-06-16T00:10:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Trump says MoU with Tehran signed electronically",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+      "published_date": "2026-06-16T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Journalist hit by Israeli strike while reporting in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
+      "published_date": "2026-06-15T21:36:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+      "published_date": "2026-06-15T20:55:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says?traffic_source=rss",
+      "published_date": "2026-06-15T19:27:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
+      "published_date": "2026-06-15T18:23:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran says Lebanon, assets release key parts of peace deal with US",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
-      "published_date": "2026-06-14T19:21:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera reports from Israeli attack site in southern Beirut",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
-      "published_date": "2026-06-14T16:49:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jubaland oo soo bandhigtay ciidan iyo hub",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/14/jubaland-oo-soo-bandhigtay-ciidan-iyo-hub/",
-      "published_date": "2026-06-14T14:26:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jubaland President Commissions Elite Duufaan Unit for Anti-Militant Operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jubaland-president-commissions-elite-duufaan-unit-for-anti-militant-operations/",
-      "published_date": "2026-06-14T13:36:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Madaxweynaha Jubaland oo Tababar u Soo Xiray Ciidamo ka Tirsan Ururka Duufaan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynaha-jubaland-oo-tababar-u-soo-xiray-ciidamo-ka-tirsan-ururka-duufaan/",
-      "published_date": "2026-06-14T13:18:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief Chairs Security Meeting Ahead of AUSSOM Transition",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-chairs-security-meeting-ahead-of-aussom-transition/",
-      "published_date": "2026-06-14T11:32:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief Chairs Strategic Meeting on Security Transition and Military Readiness",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/somali-army-chief-chairs-strategic-meeting-on-security-transition-and-military-readiness/",
-      "published_date": "2026-06-14T10:33:53+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
@@ -340,11 +340,11 @@
       "category": "Energy"
     },
     {
-      "title": "Southern Philippines hit by 7.8-magnitude earthquake",
+      "title": "US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/8/southern-philippines-hit-by-7-8-magnitude-earthquake?traffic_source=rss",
-      "published_date": "2026-06-08T19:10:00+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/6/15/us-judge-dismisses-musks-xai-trade-secret-lawsuit-against-openai?traffic_source=rss",
+      "published_date": "2026-06-15T19:11:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somali President Hosts Italian Investors to Promote Trade and Investment",
@@ -431,32 +431,25 @@
       "category": "Economy"
     },
     {
-      "title": "How significant is Xi Jinping’s visit to North Korea?",
+      "title": "Iran vs New Zealand live: World Cup 2026",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/8/how-significant-is-xi-jinpings-visit-to-north-korea?traffic_source=rss",
-      "published_date": "2026-06-08T20:42:43+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss",
+      "published_date": "2026-06-15T21:06:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Will the FIFA World Cup be the economic bonanza US cities were promised?",
+      "title": "Russian supersonic bomber crashes in Siberia during training exercise",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/8/will-the-fifa-world-cup-be-the-economic-bonanza-us-cities-were-promised?traffic_source=rss",
-      "published_date": "2026-06-08T20:35:01+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_russian-supersonic-bomber-crashes-in-siberia-150626?traffic_source=rss",
+      "published_date": "2026-06-15T19:41:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fisheries Minister Meets UNECA East Africa Director to Advance Blue Economy Cooperation",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/fisheries-minister-meets-uneca-east-africa-director-to-advance-blue-economy-cooperation/",
-      "published_date": "2026-06-08T17:58:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Director General Opens Workshop to Validate Somalia’s Blue Economy Assessment Study",
-      "source": "SONNA",
-      "url": "https://sonna.so/en/director-general-opens-workshop-to-validate-somalias-blue-economy-assessment-study/",
-      "published_date": "2026-06-08T17:32:02+00:00",
-      "category": "Economy"
+      "title": "Dutch court sentences Syrian to 26 years for torturing for al-Assad",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/dutch-court-sentences-syrian-to-26-years-for-torturing-on-behalf-of-al-assad?traffic_source=rss",
+      "published_date": "2026-06-15T19:36:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ciidamo ka tirsan Puntland oo galay shil sababay dhimasho iyo dhaawac",
@@ -575,27 +568,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/murusade-elders-issue-communique-on-june-3-attack-on-peace-meeting-in-mogadishu/",
       "published_date": "2026-06-14T17:24:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland iyo Israa’iil oo gaarey heshiisyo cusub",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-iyo-israaiil-oo-gaarey-heshiisyo-cusub/",
-      "published_date": "2026-06-14T13:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jaamacadda Ummadda Soomaaliyeed iyo Jaamacadda Ruwaanda oo Kala Saxiixday Heshiis Iskaashi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jaamacadda-ummadda-soomaaliyeed-iyo-jaamacadda-ruwaanda-oo-kala-saxiixday-heshiis-iskaashi/",
-      "published_date": "2026-06-14T13:22:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland president Irro arrives in Israel for state visit",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-israel-visit/",
-      "published_date": "2026-06-14T12:43:30+00:00",
       "category": "Local Events"
     }
   ]
