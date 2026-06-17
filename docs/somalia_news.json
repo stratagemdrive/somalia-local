@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-16T16:00:32.209411+00:00",
-  "story_count": 82,
+  "last_updated": "2026-06-17T00:13:07.903758+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Somaliland president visits Israeli Knesset on tour",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss",
+      "published_date": "2026-06-16T21:51:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Ukraine dominate G7 summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-ukraine-dominate-g7-summit?traffic_source=rss",
+      "published_date": "2026-06-16T20:36:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump slams Israeli attacks on Lebanon at G7 summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-slams-israeli-attacks-on-lebanon-at-g7-summit?traffic_source=rss",
+      "published_date": "2026-06-16T16:55:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Optics of peace first, details later: The US-Iran 60-day challenge",
       "source": "Al Jazeera",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatar earns first ever World Cup point",
+      "title": "What has Iran won and lost from this war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_qatar-earns-first-ever-world-cup-point-140626?traffic_source=rss",
-      "published_date": "2026-06-14T05:14:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/16/what-has-iran-won-and-lost-from-this-war?traffic_source=rss",
+      "published_date": "2026-06-16T19:16:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar net late against Switzerland to secure historic first World Cup point",
+      "title": "Repairs begin at 1,000-year-old Kyiv monastery after Russian attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
-      "published_date": "2026-06-13T21:29:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit?traffic_source=rss",
-      "published_date": "2026-06-13T19:54:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/repairs-begin-at-1000-year-old-kyiv-monastery-after-russian-attack?traffic_source=rss",
+      "published_date": "2026-06-16T18:27:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Brazil police arrest bungee jumping operators after woman dies",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran, US agree tentative deal to ‘end war’: Your questions answered",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered?traffic_source=rss",
-      "published_date": "2026-06-15T11:21:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK Court of Appeal upholds ban on Palestine Action as ‘terrorist’ group",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/15/uk-court-says-proscribing-palestine-action-as-terrorist-group-was-lawful?traffic_source=rss",
-      "published_date": "2026-06-15T10:37:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
@@ -330,13 +330,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/quotable/2026/6/10/trumps-claim-of-escorting-oil-through-hormuz-wont-ease-crisis?traffic_source=rss",
       "published_date": "2026-06-10T23:55:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss",
-      "published_date": "2026-06-09T23:06:39+00:00",
       "category": "Energy"
     },
     {
@@ -436,6 +429,20 @@
       "url": "https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill?traffic_source=rss",
       "published_date": "2026-06-10T18:25:07+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Brazilian court convicts Eduardo Bolsonaro of courting US interference",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/16/brazilian-court-convicts-eduardo-bolsonaro-of-courting-us-interference?traffic_source=rss",
+      "published_date": "2026-06-16T22:46:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel seizes power over occupied West Bank mosque from Palestinians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/16/israel-seizes-power-over-occupied-west-bank-mosque-from-palestinians?traffic_source=rss",
+      "published_date": "2026-06-16T17:23:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Justice prevailed’: Is the Netherlands shifting its stance on Israel?",
@@ -561,20 +568,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-israel-zionism-wreath/",
       "published_date": "2026-06-15T09:52:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xoojinta Awoodaha Taakuleynta Ciidanka Soomaaliyeed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xoojinta-awoodaha-taakuleynta-ciidanka-soomaaliyeed/",
-      "published_date": "2026-06-15T08:20:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EUTM-Somalia Mission Force Commander Visits SNAF Sustainment Command at Villa Baidoa, Reaffirming EU Partnership",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/eutm-somalia-mission-force-commander-visits-snaf-sustainment-command-at-villa-baidoa-reaffirming-eu-partnership/",
-      "published_date": "2026-06-15T08:18:43+00:00",
       "category": "Local Events"
     }
   ]
