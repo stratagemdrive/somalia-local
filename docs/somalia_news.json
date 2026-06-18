@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-18T00:14:08.197129+00:00",
-  "story_count": 81,
+  "last_updated": "2026-06-18T14:14:56.549911+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "African Union chief welcomes US-Iran peace deal, praises diplomacy",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/african-union-chief-welcomes-us-iran-peace-deal-praises-diplomacy/",
+      "published_date": "2026-06-18T12:44:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why do AI models struggle with online hate speech detection?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/why-do-ai-models-struggle-with-online-hate-speech-detection?traffic_source=rss",
+      "published_date": "2026-06-18T08:41:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World Cup predictions: Mexico vs South Korea, Canada vs Qatar and more",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/18/world-cup-predictions-mexico-vs-south-korea-canada-vs-qatar-and-more?traffic_source=rss",
+      "published_date": "2026-06-18T08:09:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IGAD oo cambaareysay Safaaradda Somaliland ee Qudus, kuna baaqday in la ixtiraamo madax-bannaanida Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/igad-oo-cambaareysay-safaaradda-somaliland-ee-qudus-kuna-baaqday-in-la-ixtiraamo-madax-bannaanida-soomaaliya/",
+      "published_date": "2026-06-18T07:12:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IGAD Condemns Somaliland’s Jerusalem Embassy, Reaffirms Respect for Somalia’s Sovereignty",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/igad-calls-for-restraint-and-respect-for-somalias-sovereignty-amid-emerging-developments/",
+      "published_date": "2026-06-18T07:10:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
       "source": "Al Jazeera",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AUSSOM Reviews Security Situation in Beledweyne, Strengthens Coordination With Somali Forces",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-reviews-security-situation-in-beledweyne-strengthens-coordination-with-somali-forces/",
-      "published_date": "2026-06-16T08:29:35+00:00",
-      "category": "Diplomacy"
+      "title": "Puntland oo war ka soo saartay ciidanka Federaalka ee ku sugan deegaannadeeda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/18/puntland-oo-war-ka-soo-saartay-ciidanka-federaalka-ee-ku-sugan-deegaannadeeda/",
+      "published_date": "2026-06-18T13:55:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/oic-condemns-opening-of-somaliland-mission-in-jerusalem-reaffirms-support-for-somalia/",
-      "published_date": "2026-06-16T08:21:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir",
+      "title": "In Britain, resisting a genocide is now treated as terrorism",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/15/eu-fails-to-agree-on-sanctions-for-far-right-israeli-minister-ben-gvir?traffic_source=rss",
-      "published_date": "2026-06-15T18:47:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/6/18/in-britain-resisting-a-genocide-is-now-treated-as-terrorism?traffic_source=rss",
+      "published_date": "2026-06-18T13:19:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somaliland President Meets Israeli Prime Minister Netanyahu During Official Visit",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-meets-israeli-prime-minister-netanyahu-during-official-visit/",
-      "published_date": "2026-06-15T16:58:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK announces social media ban for under-16s",
+      "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/uk-announces-social-media-ban-for-under-16s?traffic_source=rss",
-      "published_date": "2026-06-15T10:56:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal?traffic_source=rss",
+      "published_date": "2026-06-18T13:04:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Greece’s ‘war on Roma’ is Europe’s new blueprint for discrimination",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/18/greeces-war-on-roma-is-europes-new-blueprint-for-discrimination?traffic_source=rss",
+      "published_date": "2026-06-18T11:33:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss",
+      "published_date": "2026-06-18T08:11:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect?traffic_source=rss",
+      "published_date": "2026-06-18T07:38:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Al Jazeera journalist reunited with family in Khartoum after years of war",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "What has Iran won and lost from this war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/16/what-has-iran-won-and-lost-from-this-war?traffic_source=rss",
-      "published_date": "2026-06-16T19:16:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Repairs begin at 1,000-year-old Kyiv monastery after Russian attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/repairs-begin-at-1000-year-old-kyiv-monastery-after-russian-attack?traffic_source=rss",
-      "published_date": "2026-06-16T18:27:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brazil police arrest bungee jumping operators after woman dies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/brazil-police-arrest-bungee-jumping-operators-after-woman-dies?traffic_source=rss",
-      "published_date": "2026-06-16T14:11:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Messi, Argentina begin World Cup title defence against Algeria: All to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/16/messi-argentina-begin-world-cup-title-defence-against-algeria-all-to-know?traffic_source=rss",
-      "published_date": "2026-06-16T11:43:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump tells Netanyahu to be ‘more responsible with respect to Lebanon’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/trump-warns-all-hell-will-rain-down-if-iran-tries-to-get-a-nuclear-weapon?traffic_source=rss",
-      "published_date": "2026-06-16T11:41:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo ka walaacsan xiriirka Hargeysa iyo Tel Aviv",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/16/dowladda-soomaaliya-oo-ka-walaacsan-xiriirka-hargeysa-iyo-tel-aviv/",
-      "published_date": "2026-06-16T11:25:25+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump’s eyes on the prize in Africa",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/06/17/trumps-eyes-on-the-prize-in-africa/",
@@ -316,20 +316,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss",
       "published_date": "2026-06-12T09:35:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran shuts Hormuz strait: But wasn’t it already closed?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed?traffic_source=rss",
-      "published_date": "2026-06-11T12:57:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims?traffic_source=rss",
-      "published_date": "2026-06-11T12:25:21+00:00",
       "category": "Energy"
     },
     {
@@ -424,11 +410,46 @@
       "category": "Economy"
     },
     {
-      "title": "India’s workers are training AI robots to take their jobs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs?traffic_source=rss",
-      "published_date": "2026-06-11T10:50:39+00:00",
-      "category": "Economy"
+      "title": "South West State leader meets Chinese ambassador to discuss development cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-state-leader-meets-chinese-ambassador-to-discuss-development-cooperation/",
+      "published_date": "2026-06-18T12:41:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia condemns Somaliland leader’s Israel visit, approves rights commission member",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-condemns-somaliland-leaders-israel-visit-approves-rights-commission-member/",
+      "published_date": "2026-06-18T12:39:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golaha Wasiirrada Soomaaliya Oo Ka Hadlay Arrimaha maamulka Somaliland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/golaha-wasiirrada-soomaaliya-oo-ka-hadlay-arrimaha-maamulka-somaliland/",
+      "published_date": "2026-06-18T10:22:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland president visits children receiving life-saving heart surgeries in Israel",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/israel-somaliland-humanitarian-heart-care-partnership/",
+      "published_date": "2026-06-18T08:42:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel reveals years of secret security cooperation with Somaliland",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/israel-somaliland-secret-security-cooperation/",
+      "published_date": "2026-06-18T08:11:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muxuu yahay ajandaha kalfadhiga 58-aad ee Baarlamaanka Puntland?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/18/muxuu-yahay-ajandaha-kalfadhiga-58-aad-ee-baarlamaanka-puntland/",
+      "published_date": "2026-06-18T08:02:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections",
@@ -526,48 +547,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/16/israel-seizes-power-over-occupied-west-bank-mosque-from-palestinians?traffic_source=rss",
       "published_date": "2026-06-16T17:23:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Justice prevailed’: Is the Netherlands shifting its stance on Israel?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/justice-prevailed-is-the-netherlands-shifting-its-stance-on-israel?traffic_source=rss",
-      "published_date": "2026-06-16T14:10:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli court rules to keep prominent Palestinian doctor in detention",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/israeli-court-rules-to-keep-prominent-palestinian-doctor-in-detention?traffic_source=rss",
-      "published_date": "2026-06-16T13:24:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘There’s divergence between US and Israeli objectives in the region’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/theres-divergence-between-us-and-israeli-objectives-in-the?traffic_source=rss",
-      "published_date": "2026-06-16T13:09:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India blocks Telegram until Monday due to student exam fraud concerns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/india-blocks-telegram-until-monday-due-to-student-exam-fraud-concerns?traffic_source=rss",
-      "published_date": "2026-06-16T12:25:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Families return to shattered towns as fragile ceasefire holds in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/16/families-return-to-shattered-towns-as-fragile-ceasefire-holds-in-lebanon?traffic_source=rss",
-      "published_date": "2026-06-16T12:23:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suffragettes to Palestine Action: A history of direct-action protest in UK",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/suffragettes-to-palestine-action-a-history-of-direct-action-protest-in-uk?traffic_source=rss",
-      "published_date": "2026-06-16T12:07:04+00:00",
       "category": "Local Events"
     }
   ]
