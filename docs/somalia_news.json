@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-19T00:23:50.261376+00:00",
-  "story_count": 79,
+  "last_updated": "2026-06-19T14:15:24.446799+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss",
+      "published_date": "2026-06-19T12:08:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump hints at new approach to North Korea’s nuclear programme",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/trump-hints-at-new-approach-to-north-koreas-nuclear-programme?traffic_source=rss",
+      "published_date": "2026-06-19T11:07:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia envoy attends Arab League farewell ceremony in Cairo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-envoy-attends-arab-league-farewell-ceremony-in-cairo/",
+      "published_date": "2026-06-19T09:19:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia envoy joins Africa Day celebrations in Pakistan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-envoy-joins-africa-day-celebrations-in-pakistan/",
+      "published_date": "2026-06-19T09:17:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia signs African ocean science declaration at global oceans conference",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-signs-african-ocean-science-declaration-at-global-oceans-conference/",
+      "published_date": "2026-06-19T09:16:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya Oo Saxiixday Baaqa Wadajirka ah Ee Afrika Ee Horumarinta Sayniska Badaha",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-saxiixday-baaqa-wadajirka-ah-ee-afrika-ee-horumarinta-sayniska-badaha/",
+      "published_date": "2026-06-19T05:45:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Netanyahu says Israel must protect relationship with US",
       "source": "Al Jazeera",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kenyan Troops Honoured by African Union for Service in Somalia Mission",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenyan-troops-honoured-by-african-union-for-service-in-somalia-mission/",
-      "published_date": "2026-06-17T09:00:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AUSSOM, UN Mine Action Service Discuss Expanding Cooperation on Explosive Threats in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-un-mine-action-service-discuss-expanding-cooperation-on-explosive-threats-in-somalia/",
-      "published_date": "2026-06-17T08:56:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Participates in Indian Ocean Rim Association Senior Officials Meeting in New Delhi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-participates-in-indian-ocean-rim-association-senior-officials-meeting-in-new-delhi/",
-      "published_date": "2026-06-17T08:54:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+      "title": "Arsenal to begin Premier League title defence against promoted Coventry",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
-      "published_date": "2026-06-17T08:50:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/6/19/arsenal-to-begin-premier-league-title-defence-against-promoted-coventry?traffic_source=rss",
+      "published_date": "2026-06-19T10:50:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somaliland president visits Israeli Knesset on tour",
+      "title": "For one Yemeni, World Cup serves as a marker of war and peace",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss",
-      "published_date": "2026-06-16T21:51:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/6/19/for-one-yemeni-world-cup-serves-as-a-marker-of-war-and-peace?traffic_source=rss",
+      "published_date": "2026-06-19T08:49:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran, Ukraine dominate G7 summit",
+      "title": "US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-ukraine-dominate-g7-summit?traffic_source=rss",
-      "published_date": "2026-06-16T20:36:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss",
+      "published_date": "2026-06-19T08:23:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: JD Vance defends Iran deal as US says naval blockade lifted",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "‘He wanted to burn me alive’: 92-year-old recounts West Bank settler attack",
+      "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/17/he-wanted-to-burn-me-alive-92-year-old-recounts-west-bank-settler-attack?traffic_source=rss",
-      "published_date": "2026-06-17T14:03:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somaliland Leader Meets Israeli Defence Minister as Both Sides Signal Deeper Security Ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-leader-meets-israeli-defence-minister-as-both-sides-signal-deeper-security-ties/",
-      "published_date": "2026-06-17T11:09:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Shabaab issues sharp rebuke over Somaliland’s new Jerusalem embassy",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-rebukes-somaliland-jerusalem-embassy/",
-      "published_date": "2026-06-17T09:21:17+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss",
+      "published_date": "2026-06-19T07:19:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Are prices really dropping in the US, as Trump claims?",
@@ -316,13 +323,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/12/venezuela-hits-out-at-trinidad-and-tobago-in-oil-spill-spat?traffic_source=rss",
       "published_date": "2026-06-12T18:25:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss",
-      "published_date": "2026-06-12T09:35:08+00:00",
       "category": "Energy"
     },
     {
@@ -410,11 +410,32 @@
       "category": "Economy"
     },
     {
-      "title": "Turkish Shipping Firm Akkon Lines Launches Operations in Somalia Through Mogadishu Port",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/turkish-shipping-firm-akkon-lines-launches-operations-in-somalia-through-mogadishu-port/",
-      "published_date": "2026-06-12T09:24:33+00:00",
-      "category": "Economy"
+      "title": "British lawyers’ body suspends ICC Prosecutor Khan over misconduct claim",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/british-lawyers-body-suspends-icc-prosecutor-khan-over-misconduct-claim?traffic_source=rss",
+      "published_date": "2026-06-19T13:07:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can US-Iran peace ‘deal’ survive Israeli bombing of Lebanon?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/19/can-us-iran-peace-deal-survive-israeli-bombing-of-lebanon?traffic_source=rss",
+      "published_date": "2026-06-19T10:13:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian court rejects appeal over ban on Telegram app",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/indian-court-rejects-appeal-over-ban-on-telegram-app?traffic_source=rss",
+      "published_date": "2026-06-19T09:48:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Achraf Hakimi, Morocco’s World Cup captain, to stand trial on rape charge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/19/achraf-hakimi-moroccos-world-cup-captain-to-stand-trial-on-rape-charge?traffic_source=rss",
+      "published_date": "2026-06-19T09:36:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Zimbabwe bill to scrap presidential elections sparks backlash",
@@ -526,34 +547,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/israeli-settlers-set-fire-to-a-mosque-in-the-occupied-west-bank?traffic_source=rss",
       "published_date": "2026-06-17T14:04:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Canada’s ‘troubling’ shift on migrant, refugee rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/inside-canadas-troubling-shift-on-migrant-refugee-rights?traffic_source=rss",
-      "published_date": "2026-06-17T11:53:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cirro oo La Kulmay Wasiirka Difaaca Israa’iil, Iskaashi Amni oo Cusubna ka Wada Hadlay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/cirro-oo-la-kulmay-wasiirka-difaaca-israaiil-iskaashi-amni-oo-cusubna-ka-wada-hadlay/",
-      "published_date": "2026-06-17T11:09:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why UK’s Makerfield by-election matters far beyond one parliamentary seat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/why-uks-makerfield-by-election-matters-far-beyond-one-parliamentary-seat?traffic_source=rss",
-      "published_date": "2026-06-17T09:53:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kooxo burcadbadeed ah oo weeraray labo markab",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/17/kooxo-burcadbadeed-ah-oo-weeraray-labo-markab/",
-      "published_date": "2026-06-17T09:48:20+00:00",
       "category": "Local Events"
     }
   ]
