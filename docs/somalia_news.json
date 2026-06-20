@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-20T00:06:24.516207+00:00",
-  "story_count": 78,
+  "last_updated": "2026-06-20T12:53:45.033948+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Slave trade reenacted on Juneteenth as leaders demand reparations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/slave-trade-reenacted-on-juneteenth-as-leaders-demand-reparations?traffic_source=rss",
+      "published_date": "2026-06-20T11:50:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘We tasted the horrors of war’: Stories of refugees who returned home",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/6/20/we-tasted-the-horrors-of-war-stories-of-refugees-who-returned-home?traffic_source=rss",
+      "published_date": "2026-06-20T06:24:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss",
+      "published_date": "2026-06-20T04:30:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN meeting erupts over sexual violence allegations against Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/un-meeting-erupts-over-sexual-violence-allegations-against-israel?traffic_source=rss",
+      "published_date": "2026-06-20T04:26:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
       "source": "Al Jazeera",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "At least 29 countries raise alarm about atrocities in Sudan’s el-Obeid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/dozens-of-countries-warn-of-atrocities-amid-escalation-in-sudans-el-obeid?traffic_source=rss",
-      "published_date": "2026-06-18T19:52:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan signs US-Iran MoU",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss",
-      "published_date": "2026-06-18T18:14:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel says cutting ties with top EU diplomat over ‘apartheid’ comments",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/israel-says-cutting-ties-with-top-eu-diplomat-over-apartheid-comments?traffic_source=rss",
-      "published_date": "2026-06-18T18:01:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "African Union chief welcomes US-Iran peace deal, praises diplomacy",
+      "title": "Wasaaradda Arrimaha Gudaha oo ku baaqday in si degdeg ah loo joojiyo dagaallada ka socda Jalalaqsi",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-chief-welcomes-us-iran-peace-deal-praises-diplomacy/",
-      "published_date": "2026-06-18T12:44:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/wasaaradda-arrimaha-gudaha-oo-ku-baaqday-in-si-degdeg-ah-loo-joojiyo-dagaallada-ka-socda-jalalaqsi/",
+      "published_date": "2026-06-20T11:20:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Parents and two daughters killed in Israeli strike in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+      "published_date": "2026-06-20T08:18:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/mona-khalil-lebanons-turtle-advocate-dies-after-israeli-attack?traffic_source=rss",
+      "published_date": "2026-06-20T07:42:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+      "published_date": "2026-06-20T05:58:49+00:00",
+      "category": "Military"
     },
     {
       "title": "US announces new round of Israel-Lebanon talks in Washington next week",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
+      "title": "Why Tunisia’s renewable energy strategy is facing resistance",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect?traffic_source=rss",
-      "published_date": "2026-06-18T07:38:41+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
+      "published_date": "2026-06-20T12:06:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Al Jazeera journalist reunited with family in Khartoum after years of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
-      "published_date": "2026-06-17T21:34:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thieves with bulldozer carry out ATM heist in 4 minutes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thieves-with-bulldozer-carry-out-atm-heist-in-4-minutes?traffic_source=rss",
-      "published_date": "2026-06-17T21:11:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Guardian Investigation Alleges U.S. Drone Strike Killed Civilian Family in Somalia",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/the-guardian-investigation-alleges-u-s-drone-strike-killed-civilian-family-in-somalia/",
-      "published_date": "2026-06-17T21:01:39+00:00",
-      "category": "Military"
+      "title": "IMF urges Somalia to reform oil fiscal regime ahead of exploration boom",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/imf-urges-somalia-to-reform-oil-fiscal-regime-ahead-of-exploration-boom/",
+      "published_date": "2026-06-20T08:50:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
@@ -310,6 +324,13 @@
       "url": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
       "published_date": "2026-06-14T03:37:55+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "51 migrants reported dead or missing after boat sinks off Libya’s coast",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/51-migrants-reported-dead-or-missing-after-boat-sinks-off-libyas-coast/",
+      "published_date": "2026-06-20T08:37:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Norway Proposes Ban on Trade with Illegal Israeli Settlements in Palestine",
@@ -410,6 +431,55 @@
       "category": "Economy"
     },
     {
+      "title": "An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/an-israeli-court-has-convicted-seven-men-over-the-2021-lynching-of-said-mo?traffic_source=rss",
+      "published_date": "2026-06-20T12:05:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia urges immediate end to clan clashes in Hiraan, warns against online incitement",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-urges-immediate-end-to-clan-clashes-in-hiraan-warns-against-online-incitement/",
+      "published_date": "2026-06-20T11:19:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s 10th Human Rights Commission appointment faces legal challenge",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-human-rights-commission-legal-challenge/",
+      "published_date": "2026-06-20T09:53:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State leader, Somalia disaster agency chief discuss drought crisis and flood risks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-state-leader-somalia-disaster-agency-chief-discuss-drought-crisis-and-flood-risks/",
+      "published_date": "2026-06-20T08:12:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali PM launches 2026 national exams, says education remains key government priority",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-launches-2026-national-exams-says-education-remains-key-government-priority/",
+      "published_date": "2026-06-20T08:05:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo adkaysay ammaanka Garoowe, Gaalkacyo iyo Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/20/puntland-oo-adkaysay-ammaanka-garoowe-gaalkacyo-iyo-boosaaso/",
+      "published_date": "2026-06-20T07:24:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What pushed the number of displaced people down?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/20/what-pushed-the-number-of-displaced-people-down?traffic_source=rss",
+      "published_date": "2026-06-20T05:26:49+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Thirty dead at DRC displacement camp as Ebola threat grows",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss",
@@ -498,55 +568,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/international-media-highlights-growing-somaliland-israel-partnership/",
       "published_date": "2026-06-18T17:48:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland Rejects Any Deployment of Federal-Linked Troops Through Its Territory",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/puntland-rejects-any-deployment-of-federal-linked-troops-through-its-territory/",
-      "published_date": "2026-06-18T17:29:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland iyo Waqooyi Bari oo maxaabiis loo kala wareejiyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/18/somaliland-iyo-waqooyi-bari-oo-maxaabiis-loo-kala-wareejiyay/",
-      "published_date": "2026-06-18T13:50:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State leader meets Chinese ambassador to discuss development cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-leader-meets-chinese-ambassador-to-discuss-development-cooperation/",
-      "published_date": "2026-06-18T12:41:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia condemns Somaliland leader’s Israel visit, approves rights commission member",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-somaliland-leaders-israel-visit-approves-rights-commission-member/",
-      "published_date": "2026-06-18T12:39:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Golaha Wasiirrada Soomaaliya Oo Ka Hadlay Arrimaha maamulka Somaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/golaha-wasiirrada-soomaaliya-oo-ka-hadlay-arrimaha-maamulka-somaliland/",
-      "published_date": "2026-06-18T10:22:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland president visits children receiving life-saving heart surgeries in Israel",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/israel-somaliland-humanitarian-heart-care-partnership/",
-      "published_date": "2026-06-18T08:42:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel reveals years of secret security cooperation with Somaliland",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/israel-somaliland-secret-security-cooperation/",
-      "published_date": "2026-06-18T08:11:18+00:00",
       "category": "Local Events"
     }
   ]
