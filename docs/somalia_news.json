@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-20T12:53:45.033948+00:00",
-  "story_count": 81,
+  "last_updated": "2026-06-21T00:03:32.318612+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Are UK Prime Minister Keir Starmer’s political days numbered?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss",
+      "published_date": "2026-06-20T18:50:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Slave trade reenacted on Juneteenth as leaders demand reparations",
       "source": "Al Jazeera",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+      "title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss",
-      "published_date": "2026-06-18T20:26:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/20/ukraine-says-russian-attack-kills-five-people-in-zaporizhzhia?traffic_source=rss",
+      "published_date": "2026-06-20T19:31:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
+      "published_date": "2026-06-20T18:07:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike kills children in Gaza despite ceasefire claims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss",
+      "published_date": "2026-06-20T16:39:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump insists Italy’s Meloni sought photos with him to boost popularity",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/trump-insists-italys-meloni-sought-photos-with-him-to-boost?traffic_source=rss",
+      "published_date": "2026-06-20T15:58:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Golaha Mustaqbalka Soomaaliyeed Oo Ansixiyey Hannaan Doorasho Cusub",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/golaha-mustaqbalka-soomaaliyeed-oo-ansixiyey-hannaan-doorasho-cusub/",
+      "published_date": "2026-06-20T14:54:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nine left in critical condition after UK train collision that killed driver",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss",
+      "published_date": "2026-06-20T14:50:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Wasaaradda Arrimaha Gudaha oo ku baaqday in si degdeg ah loo joojiyo dagaallada ka socda Jalalaqsi",
@@ -239,48 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/gaza-fans-chase-world-cup-joy-amid-blackout-displacement-and-war?traffic_source=rss",
       "published_date": "2026-06-18T20:18:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military says it has lifted naval blockade of Iranian ports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss",
-      "published_date": "2026-06-18T19:43:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland oo war ka soo saartay ciidanka Federaalka ee ku sugan deegaannadeeda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/18/puntland-oo-war-ka-soo-saartay-ciidanka-federaalka-ee-ku-sugan-deegaannadeeda/",
-      "published_date": "2026-06-18T13:55:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Britain, resisting a genocide is now treated as terrorism",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/18/in-britain-resisting-a-genocide-is-now-treated-as-terrorism?traffic_source=rss",
-      "published_date": "2026-06-18T13:19:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal?traffic_source=rss",
-      "published_date": "2026-06-18T13:04:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Greece’s ‘war on Roma’ is Europe’s new blueprint for discrimination",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/18/greeces-war-on-roma-is-europes-new-blueprint-for-discrimination?traffic_source=rss",
-      "published_date": "2026-06-18T11:33:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss",
-      "published_date": "2026-06-18T08:11:58+00:00",
       "category": "Military"
     },
     {
@@ -424,11 +424,60 @@
       "category": "Economy"
     },
     {
-      "title": "Albania protests escalate over Kushner-backed coastal development",
+      "title": "Somalia’s Future Council Backs Transitional Election Model and Calls for National Consensus",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalias-future-council-backs-transitional-election-model-and-calls-for-national-consensus/",
+      "published_date": "2026-06-20T22:55:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolivia declares state of emergency to clear protest blockades",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/albania-protests-escalate-over-kushner-backed-coastal-development?traffic_source=rss",
-      "published_date": "2026-06-13T17:57:16+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
+      "published_date": "2026-06-20T20:42:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
+      "published_date": "2026-06-20T19:43:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolivia declares state of emergency amid blockade crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss",
+      "published_date": "2026-06-20T16:41:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss",
+      "published_date": "2026-06-20T16:04:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly inter-clan fighting enters third day in Hiran, central Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/hiran-inter-clan-clashes-somalia/",
+      "published_date": "2026-06-20T14:59:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland, Jubaland iyo mucaaradka Muqdisho oo isku raacay hannaan doorasho",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/20/puntland-jubaland-iyo-mucaaradka-muqdisho-oo-isku-raacay-hannaan-doorasho/",
+      "published_date": "2026-06-20T14:33:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court bans Spanish PM’s wife from leaving country amid corruption probe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/court-bans-spanish-pms-wife-from-leaving-country-amid-corruption-probe?traffic_source=rss",
+      "published_date": "2026-06-20T14:21:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo",
@@ -512,62 +561,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/taliyaha-nisa-oo-gaaray-dhuusamareeb-xilli-la-filayo-doorashooyinka-qof-iyo-codka-ah/",
       "published_date": "2026-06-19T14:20:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British lawyers’ body suspends ICC Prosecutor Khan over misconduct claim",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/british-lawyers-body-suspends-icc-prosecutor-khan-over-misconduct-claim?traffic_source=rss",
-      "published_date": "2026-06-19T13:07:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can US-Iran peace ‘deal’ survive Israeli bombing of Lebanon?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/19/can-us-iran-peace-deal-survive-israeli-bombing-of-lebanon?traffic_source=rss",
-      "published_date": "2026-06-19T10:13:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian court rejects appeal over ban on Telegram app",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/indian-court-rejects-appeal-over-ban-on-telegram-app?traffic_source=rss",
-      "published_date": "2026-06-19T09:48:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Achraf Hakimi, Morocco’s World Cup captain, to stand trial on rape charge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/19/achraf-hakimi-moroccos-world-cup-captain-to-stand-trial-on-rape-charge?traffic_source=rss",
-      "published_date": "2026-06-19T09:36:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zimbabwe bill to scrap presidential elections sparks backlash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/zimbabwe-bill-to-scrap-presidential-elections-sparks-backlash?traffic_source=rss",
-      "published_date": "2026-06-19T00:14:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vote counting begins in high-stakes UK by-election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/vote-counting-begins-in-high-stakes-uk-by-election?traffic_source=rss",
-      "published_date": "2026-06-18T23:32:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Administration and North East State of Somalia Swap Civilian Detainees",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/18/somaliland-administration-and-north-east-state-of-somalia-swap-civilian-detainees/",
-      "published_date": "2026-06-18T18:56:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "International Media Highlights Growing Somaliland–Israel Partnership",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/international-media-highlights-growing-somaliland-israel-partnership/",
-      "published_date": "2026-06-18T17:48:49+00:00",
       "category": "Local Events"
     }
   ]
