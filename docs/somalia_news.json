@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-21T00:03:32.318612+00:00",
-  "story_count": 80,
+  "last_updated": "2026-06-21T13:11:17.877883+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "Iran war day 114: US, Iranian delegations in Switzerland for key talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks?traffic_source=rss",
+      "published_date": "2026-06-21T07:22:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Are UK Prime Minister Keir Starmer’s political days numbered?",
       "source": "Al Jazeera",
@@ -137,11 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu says Israel must protect relationship with US",
+      "title": "Henry stars as New Zealand wrap up victory against England in second Test",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-says-israel-must-protect-relationship-with-us?traffic_source=rss",
-      "published_date": "2026-06-18T20:27:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/6/21/henry-stars-as-new-zealand-wrap-up-victory-against-england-in-second-test?traffic_source=rss",
+      "published_date": "2026-06-21T12:16:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
+      "published_date": "2026-06-21T10:30:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss",
+      "published_date": "2026-06-21T10:30:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Stop ‘Greater Israel’ to make peace",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss",
+      "published_date": "2026-06-21T10:11:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon’s ancient monuments remain at risk from Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/lebanons-ancient-monuments-remain-at-risk-from-israeli-attack?traffic_source=rss",
+      "published_date": "2026-06-21T10:06:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mother of Al Jazeera’s Ahmed Wishah mourns his killing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/mother-of-al-jazeeras-ahmed-wishah-mourns-his-killing?traffic_source=rss",
+      "published_date": "2026-06-21T10:01:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The deal with Iran may be imperfect but it is what the American people want",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/21/the-deal-with-iran-may-be-imperfect-but-it-is-what-the-american-people-want?traffic_source=rss",
+      "published_date": "2026-06-21T09:17:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran talks in Switzerland: Is Lebanon top of agenda; who is attending?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending?traffic_source=rss",
+      "published_date": "2026-06-21T09:10:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia govt, Puntland edge closer to armed conflict",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-armed-conflict/",
+      "published_date": "2026-06-21T09:06:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israa’iil oo qorsheynaysa inay gujisyada casriga ah geyso Somaliland, saldhig militari-na ka sameysato Berbera",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/israaiil-oo-qorsheynaysa-inay-gujisyada-casriga-ah-geyso-somaliland-saldhig-militari-na-ka-sameysato-berbera/",
+      "published_date": "2026-06-21T08:39:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Report says Israel could deploy submarines to Somaliland under security deal",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/report-says-israel-could-deploy-submarines-to-somaliland-under-security-deal/",
+      "published_date": "2026-06-21T08:34:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vance arrives in Switzerland for US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-06-21T07:39:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss",
+      "published_date": "2026-06-21T05:35:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
@@ -193,97 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Parents and two daughters killed in Israeli strike in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-      "published_date": "2026-06-20T08:18:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/mona-khalil-lebanons-turtle-advocate-dies-after-israeli-attack?traffic_source=rss",
-      "published_date": "2026-06-20T07:42:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
-      "published_date": "2026-06-20T05:58:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US announces new round of Israel-Lebanon talks in Washington next week",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
-      "published_date": "2026-06-19T21:02:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss",
-      "published_date": "2026-06-19T19:05:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One person killed, several injured as two trains collide north of London",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
-      "published_date": "2026-06-19T18:32:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel continues attacks on Lebanon despite agreeing to ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/israel-continues-attacks-on-lebanon-despite-agreeing-to-ceasefire?traffic_source=rss",
-      "published_date": "2026-06-19T15:47:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arsenal to begin Premier League title defence against promoted Coventry",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/19/arsenal-to-begin-premier-league-title-defence-against-promoted-coventry?traffic_source=rss",
-      "published_date": "2026-06-19T10:50:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "For one Yemeni, World Cup serves as a marker of war and peace",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/19/for-one-yemeni-world-cup-serves-as-a-marker-of-war-and-peace?traffic_source=rss",
-      "published_date": "2026-06-19T08:49:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss",
-      "published_date": "2026-06-19T08:23:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: JD Vance defends Iran deal as US says naval blockade lifted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/19/iran-war-live-jd-vance-defends-iran-deal-as-us-says-naval-blockade-lifted?traffic_source=rss",
-      "published_date": "2026-06-19T00:00:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar military airstrike kills seven civilians in Rakhine state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
-      "published_date": "2026-06-18T21:15:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza fans chase World Cup joy amid blackout, displacement and war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/gaza-fans-chase-world-cup-joy-amid-blackout-displacement-and-war?traffic_source=rss",
-      "published_date": "2026-06-18T20:18:08+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Why Tunisia’s renewable energy strategy is facing resistance",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
@@ -319,11 +319,11 @@
       "category": "Energy"
     },
     {
-      "title": "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
-      "published_date": "2026-06-14T03:37:55+00:00",
-      "category": "Energy"
+      "title": "Wasiirka Beeraha Oo Qaabilay Madaxa Cusub Ee Nidaamyada Cuntada Ee WFP Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirka-beeraha-oo-qaabilay-madaxa-cusub-ee-nidaamyada-cuntada-ee-wfp-soomaaliya/",
+      "published_date": "2026-06-21T12:26:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "51 migrants reported dead or missing after boat sinks off Libya’s coast",
@@ -417,11 +417,39 @@
       "category": "Economy"
     },
     {
-      "title": "Ra’iisul Wasaare Ku Xigeenka XFS Oo Furay Toddobaadka Ganacsiga Talyaaniga iyo Soomaaliya",
+      "title": "Heavy rains flood parts of Mogadishu, disrupt transport",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaare-ku-xigeenka-xfs-oo-furay-toddobaadka-ganacsiga-talyaaniga-iyo-soomaaliya/",
-      "published_date": "2026-06-14T05:52:54+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/heavy-rains-flood-parts-of-mogadishu-disrupt-transport/",
+      "published_date": "2026-06-21T11:51:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s parliament begins transition after speaker takes regional leadership role",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-parliament-begins-transition-after-speaker-takes-regional-leadership-role/",
+      "published_date": "2026-06-21T11:48:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombians to vote in presidential run-off pitting leftist against hardliner",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/colombians-to-vote-in-presidential-run-off-pitting-leftist-against-hardliner?traffic_source=rss",
+      "published_date": "2026-06-21T09:38:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests in Albania against Kushner resort swell to tens of thousands",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/protests-in-albania-against-kushner-resort-swell-to-tens-of-thousands?traffic_source=rss",
+      "published_date": "2026-06-21T09:19:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo ku dhawaaqay shaqaalaysiin dhalinyaro",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/21/madaxweyne-deni-oo-ku-dhawaaqay-shaqaalaysiin-dhalinyaro/",
+      "published_date": "2026-06-21T01:05:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia’s Future Council Backs Transitional Election Model and Calls for National Consensus",
@@ -526,41 +554,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/20/what-pushed-the-number-of-displaced-people-down?traffic_source=rss",
       "published_date": "2026-06-20T05:26:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thirty dead at DRC displacement camp as Ebola threat grows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss",
-      "published_date": "2026-06-19T22:27:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UK: No. 10 Revolving Door",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/the-uk-no-10-revolving-door?traffic_source=rss",
-      "published_date": "2026-06-19T20:19:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland President Announces Direct Hargeisa–Tel Aviv Flights to Launch Soon",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-announces-direct-hargeisa-tel-aviv-flights-to-launch-soon/",
-      "published_date": "2026-06-19T17:48:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dramatic rescue as fire rips through school in Japan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_dramatic-rescue-fire-rips-through-school-in-japan-190626?traffic_source=rss",
-      "published_date": "2026-06-19T17:35:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliyaha NISA Oo Gaaray Dhuusamareeb Xilli La Filayo Doorashooyinka Qof iyo Codka Ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-nisa-oo-gaaray-dhuusamareeb-xilli-la-filayo-doorashooyinka-qof-iyo-codka-ah/",
-      "published_date": "2026-06-19T14:20:23+00:00",
       "category": "Local Events"
     }
   ]
