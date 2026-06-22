@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-22T00:08:31.833567+00:00",
-  "story_count": 79,
+  "last_updated": "2026-06-22T15:57:43.826718+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Why has Keir Starmer resigned as UK prime minister, and who will take over?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over?traffic_source=rss",
+      "published_date": "2026-06-22T14:23:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar PM denies snubbing US vice president in viral video",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-denies-snubbing-us-vice-president-in-viral-video?traffic_source=rss",
+      "published_date": "2026-06-22T14:09:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Political turmoil: UK will see its seventh prime minister in 10 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/political-turmoil-uk-will-see-its-seventh-prime-minister-in-10-years?traffic_source=rss",
+      "published_date": "2026-06-22T11:08:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Takes Part in Islamic Data Protection Network Meeting in Turkey",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-takes-part-in-islamic-data-protection-network-meeting-in-turkey/",
+      "published_date": "2026-06-22T08:16:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s President Holds Talks with Kenya’s Ruto Amid AUSSOM Funding Concerns",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-holds-talks-with-kenyas-ruto-amid-aussom-funding-concerns/",
+      "published_date": "2026-06-22T08:09:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Media Leaders Commit to Fact-Based Migration Reporting Across Eastern Africa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/media-leaders-commit-to-fact-based-migration-reporting-across-eastern-africa/",
+      "published_date": "2026-06-22T07:29:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, UNFPA pledge closer cooperation on youth and women’s sports",
       "source": "Shabelle Media",
@@ -102,46 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
+      "title": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
-      "published_date": "2026-06-19T20:50:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
+      "published_date": "2026-06-22T15:26:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran deputy FM says ‘ready to move forward’ in deal with US",
+      "title": "Ukraine says it hit missile electronics plant in western Russia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us?traffic_source=rss",
-      "published_date": "2026-06-19T20:03:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/22/ukraine-says-it-hit-missile-electronics-plant-in-western-russia?traffic_source=rss",
+      "published_date": "2026-06-22T14:43:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story",
+      "title": "US strike on an alleged drug boat in eastern Pacific kills two",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/italys-top-diplomat-nixes-us-trip-after-meloni-says-trump-fabricated-story?traffic_source=rss",
-      "published_date": "2026-06-19T16:38:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/22/us-strike-on-an-alleged-drug-boat-in-eastern-pacific-kills-two?traffic_source=rss",
+      "published_date": "2026-06-22T12:27:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Two men jailed for arson attacks on property linked to UK prime minister",
+      "title": "Gaza’s surfers seek solace from war in the Mediterranean Sea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/two-men-jailed-for-arson-attacks-on-property-linked-to-uk-prime-minister?traffic_source=rss",
-      "published_date": "2026-06-19T16:04:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/6/22/gazas-surfers-seek-solace-from-war-in-the-mediterranean-sea?traffic_source=rss",
+      "published_date": "2026-06-22T12:16:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Guddiga Xuquuqul Insaanka Qaranka Oo Soo Gabagabeeyey Barnaamij Is-weydaarsi Aqooneed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddiga-xuquuqul-insaanka-qaranka-oo-soo-gabagabeeyey-barnaamij-is-weydaarsi-aqooneed/",
-      "published_date": "2026-06-19T14:24:41+00:00",
-      "category": "Diplomacy"
+      "title": "Israel kills turtle conservationist Mona Khalil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/israel-kills-turtle-conservationist-mona-khalil?traffic_source=rss",
+      "published_date": "2026-06-22T11:43:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
+      "title": "Why Coca-Cola and the US taxman are at war over a $20bn tax bill",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss",
-      "published_date": "2026-06-19T12:08:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/6/22/why-coca-cola-and-the-us-taxman-are-at-war-over-a-20bn-tax-bill?traffic_source=rss",
+      "published_date": "2026-06-22T10:59:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israa’iil oo qorsheynaysa inay gujisyada casriga ah geyso Somaliland, saldhig militari-na ka sameysato Berbera",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/israaiil-oo-qorsheynaysa-inay-gujisyada-casriga-ah-geyso-somaliland-saldhig-militari-na-ka-sameysato-berbera/",
-      "published_date": "2026-06-21T08:39:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Report says Israel could deploy submarines to Somaliland under security deal",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/report-says-israel-could-deploy-submarines-to-somaliland-under-security-deal/",
-      "published_date": "2026-06-21T08:34:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Vance arrives in Switzerland for US-Iran talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-06-21T07:39:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss",
-      "published_date": "2026-06-21T05:35:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/ukraine-says-russian-attack-kills-five-people-in-zaporizhzhia?traffic_source=rss",
-      "published_date": "2026-06-20T19:31:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-20T18:07:09+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Why Tunisia’s renewable energy strategy is facing resistance",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
@@ -317,6 +317,34 @@
       "url": "https://puntlandpost.net/2026/06/17/trumps-eyes-on-the-prize-in-africa/",
       "published_date": "2026-06-17T09:00:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/22/former-us-federal-reserve-chairman-alan-greenspan-dies-at-age-100?traffic_source=rss",
+      "published_date": "2026-06-22T15:12:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "National Communications Authority Convenes First Somalia Submarine Cable Technical Working Group Workshop",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/national-communications-authority-convenes-first-somalia-submarine-cable-technical-working-group-workshop/",
+      "published_date": "2026-06-22T13:24:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Vance’s warning to Israel signals a new phase in US-Israeli relations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/22/vances-warning-to-israel-signals-a-new-phase-in-us-israeli-relations?traffic_source=rss",
+      "published_date": "2026-06-22T10:43:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Condemns Abuse of Young Woman After Video Circulates Online",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-condemns-abuse-of-young-woman-after-video-circulates-online/",
+      "published_date": "2026-06-22T08:14:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Wasiirka Beeraha Oo Qaabilay Madaxa Cusub Ee Nidaamyada Cuntada Ee WFP Soomaaliya",
@@ -403,18 +431,67 @@
       "category": "Economy"
     },
     {
-      "title": "Somali President Hosts Italian Investors to Promote Trade and Investment",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-hosts-italian-investors-to-promote-trade-and-investment/",
-      "published_date": "2026-06-15T09:45:08+00:00",
-      "category": "Economy"
+      "title": "Israel deploys troops to Somaliland",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/israel-troops-somaliland/",
+      "published_date": "2026-06-22T14:11:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia famine risk: UN releases $10M in urgent aid to save millions",
+      "title": "Far-right de la Espriella elected Colombia president: What’s next?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/far-right-de-la-espriella-elected-colombia-president-whats-next?traffic_source=rss",
+      "published_date": "2026-06-22T12:54:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Canada’s Muslims face ‘perfect storm’ amid rising xenophobia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/how-canadas-muslims-face-perfect-storm-amid-rising-xenophobia?traffic_source=rss",
+      "published_date": "2026-06-22T12:09:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israaiil oo ciidamada usoo dirtay maamulka Soomaaliland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/israaiil-oo-ciidamada-usoo-dirtay-maamulka-soomaaliland/",
+      "published_date": "2026-06-22T11:25:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Mid ka mid ah mucaaradka xiriirka la leh Villa Somalia oo soo gaaray Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/22/puntland-mid-ka-mid-ah-mucaaradka-xiriirka-la-leh-villa-somalia-oo-soo-gaaray-garoowe/",
+      "published_date": "2026-06-22T10:23:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British parliament to debate Israeli influence on UK politics: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/british-parliament-to-debate-israeli-influence-on-uk-politics-what-we-know?traffic_source=rss",
+      "published_date": "2026-06-22T10:19:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia: Intense clashes in Baidoa as political tensions peak",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-famine-risk-un-aid/",
-      "published_date": "2026-06-15T05:56:27+00:00",
-      "category": "Economy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-clashes-political-tensions/",
+      "published_date": "2026-06-22T09:54:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clashes Erupt Near Baidoa Between SNA Forces and Fighters Loyal to Former Southwest Leader",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/clashes-erupt-near-baidoa-between-government-forces-and-fighters-loyal-to-former-southwest-leader/",
+      "published_date": "2026-06-22T08:12:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Nugaal oo laga mamnuucay dhalinyarada ciyaaraha ee lagu qaado sariirta basaska",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/22/puntland-nugaal-oo-laga-mamnuucay-dhalinyarada-ciyaaraha-ee-lagu-qaado-sariirta-basaska/",
+      "published_date": "2026-06-22T00:13:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
@@ -491,69 +568,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somalias-future-council-backs-transitional-election-model-and-calls-for-national-consensus/",
       "published_date": "2026-06-20T22:55:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivia declares state of emergency to clear protest blockades",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
-      "published_date": "2026-06-20T20:42:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
-      "published_date": "2026-06-20T19:43:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivia declares state of emergency amid blockade crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss",
-      "published_date": "2026-06-20T16:41:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss",
-      "published_date": "2026-06-20T16:04:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly inter-clan fighting enters third day in Hiran, central Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/hiran-inter-clan-clashes-somalia/",
-      "published_date": "2026-06-20T14:59:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland, Jubaland iyo mucaaradka Muqdisho oo isku raacay hannaan doorasho",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/20/puntland-jubaland-iyo-mucaaradka-muqdisho-oo-isku-raacay-hannaan-doorasho/",
-      "published_date": "2026-06-20T14:33:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court bans Spanish PM’s wife from leaving country amid corruption probe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/court-bans-spanish-pms-wife-from-leaving-country-amid-corruption-probe?traffic_source=rss",
-      "published_date": "2026-06-20T14:21:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/an-israeli-court-has-convicted-seven-men-over-the-2021-lynching-of-said-mo?traffic_source=rss",
-      "published_date": "2026-06-20T12:05:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia urges immediate end to clan clashes in Hiraan, warns against online incitement",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-urges-immediate-end-to-clan-clashes-in-hiraan-warns-against-online-incitement/",
-      "published_date": "2026-06-20T11:19:34+00:00",
       "category": "Local Events"
     }
   ]
