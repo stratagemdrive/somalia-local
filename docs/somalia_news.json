@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-23T00:02:25.729768+00:00",
+  "last_updated": "2026-06-23T13:44:07.026533+00:00",
   "story_count": 81,
   "stories": [
+    {
+      "title": "Kenya minister says US-run Ebola facility plans halted after court order",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/kenya-minister-says-us-run-ebola-facility-plans-halted-after-court-order?traffic_source=rss",
+      "published_date": "2026-06-23T13:30:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FoZ founder pledges to force Somaliland recognition on Trump’s desk",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-recognition-trump-evans/",
+      "published_date": "2026-06-23T12:44:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
+      "published_date": "2026-06-23T11:55:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dowladda Soomaaliya oo Garab Istaag u Muujisay Dowladda Qatar Kadib Dhacdadii Ka Dhacday Ras Laffan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-garab-istaag-u-muujisay-dowladda-qatar-kadib-dhacdadii-ka-dhacday-ras-laffan/",
+      "published_date": "2026-06-23T10:24:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Welcomes U.S.-Iran Peace Deal, Praises Diplomatic Efforts",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-welcomes-u-s-iran-peace-deal-praises-diplomatic-efforts/",
+      "published_date": "2026-06-23T09:04:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
+      "published_date": "2026-06-23T08:42:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war day 116: US eases Iran sanctions; Israel kills two in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss",
+      "published_date": "2026-06-23T07:58:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SoDMA oo Nairobi ku Qabatay Shir Looga Hadlayay U Diyaargarowga Fatahaadaha Xilliga Deyrta",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-oo-nairobi-ku-qabatay-shir-looga-hadlayay-u-diyaargarowga-fatahaadaha-xilliga-deyrta/",
+      "published_date": "2026-06-23T05:26:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
       "source": "Al Jazeera",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopian prime minister’s party easily wins parliamentary election",
+      "title": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss",
-      "published_date": "2026-06-21T17:07:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss",
+      "published_date": "2026-06-23T12:23:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Madaxweynayaasha Soomaaliya iyo Kenya oo kulan xasaasi ah ku yeesheen magaalada Narok",
+      "title": "U.S. Resumes Air Strikes in Somalia After Brief Lull, AFRICOM Says",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynayaasha-soomaaliya-iyo-kenya-oo-kulan-xasaasi-ah-ku-yeesheen-magaalada-narok/",
-      "published_date": "2026-06-21T16:55:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/u-s-resumes-air-strikes-in-somalia-after-brief-lull-africom-says/",
+      "published_date": "2026-06-23T09:07:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali, Kenyan presidents hold high-level talks on regional security",
+      "title": "Mareykanka oo Dib u Bilaabay Duqeymihii Cirka ee Ka Dhanka ahaa Al-Shabaab ee Soomaaliya",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-kenyan-presidents-hold-high-level-talks-on-regional-security/",
-      "published_date": "2026-06-21T16:54:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/mareykanka-oo-dib-u-bilaabay-duqeymihii-cirka-ee-ka-dhanka-ahaa-al-shabaab-ee-soomaaliya/",
+      "published_date": "2026-06-23T07:23:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "US-Iran negotiations in Switzerland kick off",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-negotiations-in-switzerland-kick-off?traffic_source=rss",
-      "published_date": "2026-06-21T15:16:44+00:00",
-      "category": "Diplomacy"
+      "title": "Dowladda Soomaaliya oo amaantay Trump",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/23/dowladda-soomaaliya-oo-amaantay-trump/",
+      "published_date": "2026-06-23T06:56:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war day 114: US, Iranian delegations in Switzerland for key talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks?traffic_source=rss",
-      "published_date": "2026-06-21T07:22:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are UK Prime Minister Keir Starmer’s political days numbered?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss",
-      "published_date": "2026-06-20T18:50:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Slave trade reenacted on Juneteenth as leaders demand reparations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/slave-trade-reenacted-on-juneteenth-as-leaders-demand-reparations?traffic_source=rss",
-      "published_date": "2026-06-20T11:50:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘We tasted the horrors of war’: Stories of refugees who returned home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/6/20/we-tasted-the-horrors-of-war-stories-of-refugees-who-returned-home?traffic_source=rss",
-      "published_date": "2026-06-20T06:24:56+00:00",
-      "category": "Diplomacy"
+      "title": "Soomaaliya oo Soo Dhaweysay Heshiiska Is-fahamka ee Mareykanka iyo Iiraan ay wada gaareen",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-soo-dhaweysay-heshiiska-is-fahamka-ee-mareykanka-iyo-iiraan-ay-wada-gaareen/",
+      "published_date": "2026-06-23T04:52:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza surfers seek solace from war in the sea",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "What’s next in the Strait of Hormuz crisis?",
+      "title": "France records hottest-ever night as 40 drown trying to escape heatwave",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
-      "published_date": "2026-06-21T17:36:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivian authorities say no active blockades after state of emergency decree",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/bolivian-authorities-say-no-active-blockades-after-state-of-emergency-decree?traffic_source=rss",
-      "published_date": "2026-06-21T14:27:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Henry stars as New Zealand wrap up victory against England in second Test",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/21/henry-stars-as-new-zealand-wrap-up-victory-against-england-in-second-test?traffic_source=rss",
-      "published_date": "2026-06-21T12:16:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
-      "published_date": "2026-06-21T10:30:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss",
-      "published_date": "2026-06-21T10:30:18+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe?traffic_source=rss",
+      "published_date": "2026-06-23T08:35:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why Tunisia’s renewable energy strategy is facing resistance",
@@ -317,6 +324,13 @@
       "url": "https://puntlandpost.net/2026/06/17/trumps-eyes-on-the-prize-in-africa/",
       "published_date": "2026-06-17T09:00:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "After a decade, Brexit’s cost to Britain is not only economic",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/23/after-a-decade-brexits-cost-to-britain-is-not-only-economic?traffic_source=rss",
+      "published_date": "2026-06-23T09:59:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
@@ -417,18 +431,32 @@
       "category": "Economy"
     },
     {
-      "title": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
+      "title": "NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
-      "published_date": "2026-06-16T11:30:08+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/23/nyc-mayor-zohran-mamdani-doubles-down-on-criticism-of-aipac?traffic_source=rss",
+      "published_date": "2026-06-23T11:35:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somaliland, Israel Sign Security and Economic Cooperation Pact",
+      "title": "Why is Israel being accused of meddling in Colombia presidential election?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss",
+      "published_date": "2026-06-23T11:16:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State Leader Meets UN Officials to Discuss Governance and Stability",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-israel-sign-security-and-economic-cooperation-pact/",
-      "published_date": "2026-06-16T10:49:50+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/south-west-state-leader-meets-un-officials-to-discuss-governance-and-stability/",
+      "published_date": "2026-06-23T09:17:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mashruuc oo ka hadlay iska hor-imaadkii ka dhacay kantaroolka bari ee Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/23/mashruuc-oo-ka-hadlay-iska-hor-imaadkii-ka-dhacay-kantaroolka-bari-ee-garoowe/",
+      "published_date": "2026-06-23T05:50:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hungary’s PM launches drive to free country from Orban’s ‘mafia’",
@@ -540,34 +568,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss",
       "published_date": "2026-06-21T20:04:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia elections take place as Abelardo de la Espriella leads polls",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/colombia-elections-take-place-as-abelardo-de-la-espriella-leads-polls?traffic_source=rss",
-      "published_date": "2026-06-21T19:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
-      "published_date": "2026-06-21T16:37:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fans flood Atlanta streets before Spain-Saudi Arabia match",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss",
-      "published_date": "2026-06-21T14:48:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament speaker calls for ceasefire amid clan clashes in Hiiraan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliament-speaker-calls-for-ceasefire-amid-clan-clashes-in-hiiraan/",
-      "published_date": "2026-06-21T12:57:33+00:00",
       "category": "Local Events"
     }
   ]
