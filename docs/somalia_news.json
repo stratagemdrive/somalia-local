@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-23T13:44:07.026533+00:00",
-  "story_count": 81,
+  "last_updated": "2026-06-23T23:53:37.027298+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Israel’s deliberate targeting of Palestinian children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
+      "published_date": "2026-06-23T22:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN: Israel committed genocide by targeting Gaza children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
+      "published_date": "2026-06-23T21:38:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-06-23T21:00:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kenya minister says US-run Ebola facility plans halted after court order",
       "source": "Al Jazeera",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia’s President Holds Talks with Kenya’s Ruto Amid AUSSOM Funding Concerns",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-president-holds-talks-with-kenyas-ruto-amid-aussom-funding-concerns/",
-      "published_date": "2026-06-22T08:09:31+00:00",
-      "category": "Diplomacy"
+      "title": "Alibaba sues US military over labelling it a ‘Chinese military company’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss",
+      "published_date": "2026-06-23T20:12:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Media Leaders Commit to Fact-Based Migration Reporting Across Eastern Africa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/media-leaders-commit-to-fact-based-migration-reporting-across-eastern-africa/",
-      "published_date": "2026-06-22T07:29:11+00:00",
-      "category": "Diplomacy"
+      "title": "US Senate votes to pass Iran war powers resolution in blow to Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss",
+      "published_date": "2026-06-23T19:50:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, UNFPA pledge closer cooperation on youth and women’s sports",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-unfpa-pledge-closer-cooperation-on-youth-and-womens-sports/",
-      "published_date": "2026-06-21T18:10:04+00:00",
-      "category": "Diplomacy"
+      "title": "Video: Israeli troops seen patrolling Syrian countryside",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/video-israeli-troops-seen-patrolling-syrian-countryside?traffic_source=rss",
+      "published_date": "2026-06-23T18:56:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Armed Clash Reported Between Puntland Security Forces and Opposition in Garowe",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/armed-clash-reported-between-puntland-security-forces-and-opposition-in-garowe/",
+      "published_date": "2026-06-23T17:11:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Why Coca-Cola and the US taxman are at war over a $20bn tax bill",
+      "title": "Massive fire rips through Indonesia sandal factory",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/22/why-coca-cola-and-the-us-taxman-are-at-war-over-a-20bn-tax-bill?traffic_source=rss",
-      "published_date": "2026-06-22T10:59:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
-      "published_date": "2026-06-21T21:45:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mourners gather to remember Lebanese conservationist killed by Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss",
-      "published_date": "2026-06-21T20:21:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss",
-      "published_date": "2026-06-21T20:11:48+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/massive-fire-rips-through-indonesia-sandal-factory?traffic_source=rss",
+      "published_date": "2026-06-23T21:14:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "France records hottest-ever night as 40 drown trying to escape heatwave",
@@ -431,6 +438,55 @@
       "category": "Economy"
     },
     {
+      "title": "Protesters sentenced to decades in US prison over alleged antifa ties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/protesters-sentenced-to-decades-in-us-prison-over-alleged-antifa-ties?traffic_source=rss",
+      "published_date": "2026-06-23T23:22:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss",
+      "published_date": "2026-06-23T23:01:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss",
+      "published_date": "2026-06-23T20:03:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Displaced Lebanese return south under fragile ceasefire deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss",
+      "published_date": "2026-06-23T19:04:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court OKs ExxonMobil lawsuit over Castro-era property seizure",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/23/us-supreme-court-oks-exxonmobil-lawsuit-over-castro-era-property-seizure?traffic_source=rss",
+      "published_date": "2026-06-23T18:35:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court backs Trump policy on green card holder rights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-backs-trump-policy-on-green-card-holder-rights?traffic_source=rss",
+      "published_date": "2026-06-23T18:24:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mass Burial Held for Civilians Killed in Adhi-Cadeeye Clashes",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/mass-burial-held-for-civilians-killed-in-adhi-cadeeye-clashes/",
+      "published_date": "2026-06-23T17:34:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/23/nyc-mayor-zohran-mamdani-doubles-down-on-criticism-of-aipac?traffic_source=rss",
@@ -442,6 +498,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss",
       "published_date": "2026-06-23T11:16:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baarlamaanka Puntland oo xasaanadda siiyay mas’uuliyiin uu dhawaan magacaabay Madaxweyne Deni",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/23/baarlamaanka-puntland-oo-xasaanadda-siiyay-masuuliyiin-uu-dhawaan-magacaabay-madaxweyne-deni/",
+      "published_date": "2026-06-23T11:05:16+00:00",
       "category": "Local Events"
     },
     {
@@ -512,62 +575,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/22/far-right-de-la-espriella-elected-colombia-president-whats-next?traffic_source=rss",
       "published_date": "2026-06-22T12:54:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Canada’s Muslims face ‘perfect storm’ amid rising xenophobia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/how-canadas-muslims-face-perfect-storm-amid-rising-xenophobia?traffic_source=rss",
-      "published_date": "2026-06-22T12:09:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israaiil oo ciidamada usoo dirtay maamulka Soomaaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/israaiil-oo-ciidamada-usoo-dirtay-maamulka-soomaaliland/",
-      "published_date": "2026-06-22T11:25:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Mid ka mid ah mucaaradka xiriirka la leh Villa Somalia oo soo gaaray Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/22/puntland-mid-ka-mid-ah-mucaaradka-xiriirka-la-leh-villa-somalia-oo-soo-gaaray-garoowe/",
-      "published_date": "2026-06-22T10:23:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British parliament to debate Israeli influence on UK politics: What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/british-parliament-to-debate-israeli-influence-on-uk-politics-what-we-know?traffic_source=rss",
-      "published_date": "2026-06-22T10:19:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Intense clashes in Baidoa as political tensions peak",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-clashes-political-tensions/",
-      "published_date": "2026-06-22T09:54:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes Erupt Near Baidoa Between SNA Forces and Fighters Loyal to Former Southwest Leader",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/clashes-erupt-near-baidoa-between-government-forces-and-fighters-loyal-to-former-southwest-leader/",
-      "published_date": "2026-06-22T08:12:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Nugaal oo laga mamnuucay dhalinyarada ciyaaraha ee lagu qaado sariirta basaska",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/22/puntland-nugaal-oo-laga-mamnuucay-dhalinyarada-ciyaaraha-ee-lagu-qaado-sariirta-basaska/",
-      "published_date": "2026-06-22T00:13:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss",
-      "published_date": "2026-06-21T20:04:40+00:00",
       "category": "Local Events"
     }
   ]
