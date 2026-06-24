@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-23T23:53:37.027298+00:00",
-  "story_count": 82,
+  "last_updated": "2026-06-24T13:25:35.191301+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "Kenya braces for return of Gen Z protests – how did they begin?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/24/kenya-braces-for-return-of-gen-z-protests-how-did-they-begin?traffic_source=rss",
+      "published_date": "2026-06-24T10:41:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eastern Libya Bans Entry of Nationals From Four African Countries Amid Migration Crackdown",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/eastern-libya-bans-entry-of-nationals-from-four-african-countries-amid-migration-crackdown/",
+      "published_date": "2026-06-24T09:30:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Holds Information Officers Meeting to Coordinate Government Messaging Ahead of Independence Celebrations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-holds-information-officers-meeting-to-coordinate-government-messaging-ahead-of-independence-celebrations/",
+      "published_date": "2026-06-24T09:29:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat?traffic_source=rss",
+      "published_date": "2026-06-24T08:27:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel’s deliberate targeting of Palestinian children",
       "source": "Al Jazeera",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why has Keir Starmer resigned as UK prime minister, and who will take over?",
+      "title": "Japan weighs deploying forces to demine the Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over?traffic_source=rss",
-      "published_date": "2026-06-22T14:23:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/japan-weighs-deploying-forces-to-demine-the-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-06-24T12:31:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar PM denies snubbing US vice president in viral video",
+      "title": "US Senate approves Iran war powers resolution: What that means for Trump",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-denies-snubbing-us-vice-president-in-viral-video?traffic_source=rss",
-      "published_date": "2026-06-22T14:09:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss",
+      "published_date": "2026-06-24T11:25:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Political turmoil: UK will see its seventh prime minister in 10 years",
+      "title": "North Korea commissions warship as Kim eyes nuclear navy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/political-turmoil-uk-will-see-its-seventh-prime-minister-in-10-years?traffic_source=rss",
-      "published_date": "2026-06-22T11:08:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss",
+      "published_date": "2026-06-24T11:24:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Takes Part in Islamic Data Protection Network Meeting in Turkey",
+      "title": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss",
+      "published_date": "2026-06-24T10:03:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia Defense Minister Holds Talks With IMCTC Representative on Security Cooperation",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-takes-part-in-islamic-data-protection-network-meeting-in-turkey/",
-      "published_date": "2026-06-22T08:16:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalia-defense-minister-holds-talks-with-imctc-representative-on-security-cooperation/",
+      "published_date": "2026-06-24T08:51:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
+      "published_date": "2026-06-24T07:04:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Diabetes patients in Gaza face survival battle amid war shortages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
+      "published_date": "2026-06-24T06:04:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Alibaba sues US military over labelling it a ‘Chinese military company’",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Canadian police officer, suspect among three dead in Montreal shooting",
+      "title": "What does Pakistan stand to gain from helping broker the US-Iran deal?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/canadian-police-officer-suspect-among-3-dead-in-montreal-shooting?traffic_source=rss",
-      "published_date": "2026-06-22T19:20:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AFRICOM Announces Series of Airstrikes in Somalia",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/africom-announces-series-of-airstrikes-in-somalia/",
-      "published_date": "2026-06-22T17:40:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
-      "published_date": "2026-06-22T15:26:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine says it hit missile electronics plant in western Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/ukraine-says-it-hit-missile-electronics-plant-in-western-russia?traffic_source=rss",
-      "published_date": "2026-06-22T14:43:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strike on an alleged drug boat in eastern Pacific kills two",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/us-strike-on-an-alleged-drug-boat-in-eastern-pacific-kills-two?traffic_source=rss",
-      "published_date": "2026-06-22T12:27:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza’s surfers seek solace from war in the Mediterranean Sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/22/gazas-surfers-seek-solace-from-war-in-the-mediterranean-sea?traffic_source=rss",
-      "published_date": "2026-06-22T12:16:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills turtle conservationist Mona Khalil",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/israel-kills-turtle-conservationist-mona-khalil?traffic_source=rss",
-      "published_date": "2026-06-22T11:43:15+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/24/what-does-pakistan-stand-to-gain-from-helping-broker-the-us-iran-deal?traffic_source=rss",
+      "published_date": "2026-06-24T12:59:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Massive fire rips through Indonesia sandal factory",
@@ -326,11 +333,25 @@
       "category": "Energy"
     },
     {
-      "title": "Trump’s eyes on the prize in Africa",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/17/trumps-eyes-on-the-prize-in-africa/",
-      "published_date": "2026-06-17T09:00:00+00:00",
-      "category": "Energy"
+      "title": "Four Gaza aid flotilla activists released from Libya detention",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss",
+      "published_date": "2026-06-24T09:39:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Signs Contract for Key Road Studies Linking Central Regions to Indian Ocean Coast",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-signs-contract-for-key-road-studies-linking-central-regions-to-indian-ocean-coast/",
+      "published_date": "2026-06-24T09:27:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South Africa’s crises will not be solved by blaming migrants",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/24/south-africas-crises-will-not-be-solved-by-blaming-migrants?traffic_source=rss",
+      "published_date": "2026-06-24T09:22:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "After a decade, Brexit’s cost to Britain is not only economic",
@@ -431,11 +452,32 @@
       "category": "Economy"
     },
     {
-      "title": "China pledges new humanitarian aid packages for Lebanon and Iran",
+      "title": "Houthis threaten strikes on Somaliland over Israeli military foothold",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/houthis-threaten-israel-somaliland/",
+      "published_date": "2026-06-24T10:59:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xildhibaannada Puntland oo loo qaybiyay xeer wax-ka-beddel lagu sameynayo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/24/xildhibaannada-puntland-oo-loo-qaybiyay-xeer-wax-ka-beddel-lagu-sameynayo/",
+      "published_date": "2026-06-24T10:15:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family’s home",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/china-pledges-new-humanitarian-aid-packages-for-lebanon-and-iran?traffic_source=rss",
-      "published_date": "2026-06-17T12:26:57+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss",
+      "published_date": "2026-06-24T09:38:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo sheegtay in waajib ka saaran yahay wax ka qabashada colaada Sool",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/24/puntland-oo-sheegtay-in-waajib-ka-saaran-yahay-wax-ka-qabashada-colaada-sool/",
+      "published_date": "2026-06-24T05:21:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Protesters sentenced to decades in US prison over alleged antifa ties",
@@ -547,34 +589,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somaliland-orders-illegal-immigrants-to-leave-within-10-days/",
       "published_date": "2026-06-22T18:22:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenyan court finds minister in contempt over US Ebola site",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/kenyan-court-finds-minister-in-contempt-over-us-ebola-site?traffic_source=rss",
-      "published_date": "2026-06-22T17:19:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israsaasayn ka dhacday kantaroolka bari ee Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/22/israsaasayn-ka-dhacday-kantaroolka-bari-ee-garoowe/",
-      "published_date": "2026-06-22T15:30:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel deploys troops to Somaliland",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/israel-troops-somaliland/",
-      "published_date": "2026-06-22T14:11:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right de la Espriella elected Colombia president: What’s next?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/far-right-de-la-espriella-elected-colombia-president-whats-next?traffic_source=rss",
-      "published_date": "2026-06-22T12:54:42+00:00",
       "category": "Local Events"
     }
   ]
