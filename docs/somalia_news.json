@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-25T00:08:06.632948+00:00",
-  "story_count": 83,
+  "last_updated": "2026-06-25T13:22:44.792090+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Venezuela quakes: How will sanctions impact aid operations?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss",
+      "published_date": "2026-06-25T13:03:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio issues Hormuz toll warning as he wraps up Gulf visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss",
+      "published_date": "2026-06-25T10:59:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICC judges sue Trump over sanctions, call measures unlawful",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss",
+      "published_date": "2026-06-25T07:47:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s Non-Resident Ambassador Presents Credentials to Canada",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-non-resident-ambassador-presents-credentials-to-canada/",
+      "published_date": "2026-06-25T06:41:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
       "source": "Al Jazeera",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Dowladda Soomaaliya oo Garab Istaag u Muujisay Dowladda Qatar Kadib Dhacdadii Ka Dhacday Ras Laffan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-garab-istaag-u-muujisay-dowladda-qatar-kadib-dhacdadii-ka-dhacday-ras-laffan/",
-      "published_date": "2026-06-23T10:24:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Welcomes U.S.-Iran Peace Deal, Praises Diplomatic Efforts",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-welcomes-u-s-iran-peace-deal-praises-diplomatic-efforts/",
-      "published_date": "2026-06-23T09:04:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
+      "title": "Israeli forces kill Palestinian man during raid on his home",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
-      "published_date": "2026-06-23T08:42:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss",
+      "published_date": "2026-06-25T11:16:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war day 116: US eases Iran sanctions; Israel kills two in Lebanon",
+      "title": "How minesweeping in the Strait of Hormuz works: A visual guide",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss",
-      "published_date": "2026-06-23T07:58:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss",
+      "published_date": "2026-06-25T11:08:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Ukraine seizes ‘first chance to win’, war horrors come home to Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia?traffic_source=rss",
+      "published_date": "2026-06-25T10:50:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil prices back to pre-war levels on rising Middle East supply",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
+      "published_date": "2026-06-25T10:04:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moments of panic as earthquakes strike Venezuela",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/moments-of-panic-as-earthquakes-strike-venezuela?traffic_source=rss",
+      "published_date": "2026-06-25T08:39:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
+      "published_date": "2026-06-25T08:28:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Logistics Commander, TURKSOM Training Chief Discuss Enhanced Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-logistics-commander-turksom-training-chief-discuss-enhanced-cooperation/",
+      "published_date": "2026-06-25T06:45:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Diabetes patients in Gaza face survival battle amid war shortages",
+      "title": "Iran warns against Hormuz crossings without authorisation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
-      "published_date": "2026-06-24T06:04:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Alibaba sues US military over labelling it a ‘Chinese military company’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss",
-      "published_date": "2026-06-23T20:12:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Senate votes to pass Iran war powers resolution in blow to Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss",
-      "published_date": "2026-06-23T19:50:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Israeli troops seen patrolling Syrian countryside",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/video-israeli-troops-seen-patrolling-syrian-countryside?traffic_source=rss",
-      "published_date": "2026-06-23T18:56:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Armed Clash Reported Between Puntland Security Forces and Opposition in Garowe",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/armed-clash-reported-between-puntland-security-forces-and-opposition-in-garowe/",
-      "published_date": "2026-06-23T17:11:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss",
-      "published_date": "2026-06-23T12:23:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "U.S. Resumes Air Strikes in Somalia After Brief Lull, AFRICOM Says",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/u-s-resumes-air-strikes-in-somalia-after-brief-lull-africom-says/",
-      "published_date": "2026-06-23T09:07:02+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
+      "published_date": "2026-06-25T08:49:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "What does Pakistan stand to gain from helping broker the US-Iran deal?",
@@ -331,6 +338,20 @@
       "url": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
       "published_date": "2026-06-18T21:30:41+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "US says Iran will buy its goods: What could US-Iran trade look like?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like?traffic_source=rss",
+      "published_date": "2026-06-25T09:43:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hantidhowraha Guud ee JFS oo Kulan la Qaatay Wakiillo ka Socday Shirkadda Albayrak-Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hantidhowraha-guud-ee-jfs-oo-kulan-la-qaatay-wakiillo-ka-socday-shirkadda-albayrak-somalia/",
+      "published_date": "2026-06-25T08:48:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Four Gaza aid flotilla activists released from Libya detention",
@@ -445,6 +466,27 @@
       "category": "Economy"
     },
     {
+      "title": "Sa’diyo Bajaaj: Somalia court sentences activist to 3 years in prison",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/sadiyo-bajaaj-sentenced-somalia-activist/",
+      "published_date": "2026-06-25T08:29:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guuleed Saalax: Xasan Sheekh wuxuu rabaa in uu meesha ka saaro dowladnimada Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/25/guuleed-saalax-xasan-sheekh-wuxuu-rabaa-in-uu-meesha-ka-saaro-dowladnimada-puntland/",
+      "published_date": "2026-06-25T06:30:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banadir Regional Court Sentences Female Tuk-Tuk driver to Three Years in Prison",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/banadir-regional-court-sentences-sacdiyo-bajaj-to-three-years-in-prison/",
+      "published_date": "2026-06-25T06:27:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Zimbabwe’s Senate approves amendment extending presidential term",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/24/zimbabwes-senate-approves-amendment-extending-presidential-term?traffic_source=rss",
@@ -477,6 +519,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss",
       "published_date": "2026-06-24T18:10:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland bans Somalia government officials from entering region",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-bans-somalia-government-officials-region/",
+      "published_date": "2026-06-24T16:35:45+00:00",
       "category": "Local Events"
     },
     {
@@ -554,34 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss",
       "published_date": "2026-06-23T20:03:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced Lebanese return south under fragile ceasefire deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss",
-      "published_date": "2026-06-23T19:04:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court OKs ExxonMobil lawsuit over Castro-era property seizure",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/23/us-supreme-court-oks-exxonmobil-lawsuit-over-castro-era-property-seizure?traffic_source=rss",
-      "published_date": "2026-06-23T18:35:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court backs Trump policy on green card holder rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-backs-trump-policy-on-green-card-holder-rights?traffic_source=rss",
-      "published_date": "2026-06-23T18:24:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mass Burial Held for Civilians Killed in Adhi-Cadeeye Clashes",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/mass-burial-held-for-civilians-killed-in-adhi-cadeeye-clashes/",
-      "published_date": "2026-06-23T17:34:56+00:00",
       "category": "Local Events"
     }
   ]
