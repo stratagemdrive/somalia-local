@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-24T13:25:35.191301+00:00",
-  "story_count": 84,
+  "last_updated": "2026-06-25T00:08:06.632948+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss",
+      "published_date": "2026-06-24T21:47:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/24/qatars-madibo-banned-for-5-games-after-breaking-leg-of-canadas-kone?traffic_source=rss",
+      "published_date": "2026-06-24T21:38:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/top-european-leaders-vow-strong-support-for-ukraine-ahead-of-nato-summit?traffic_source=rss",
+      "published_date": "2026-06-24T20:24:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN nuclear chief says Iran inspections will happen, Tehran says after deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal?traffic_source=rss",
+      "published_date": "2026-06-24T19:33:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why does Israel want to be less dependent on US weapons?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss",
+      "published_date": "2026-06-24T19:27:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Our life stops’: West Bank childhood shattered by Israeli military raids",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/24/our-life-stops-west-bank-childhood-shattered-by-israeli-military-raids?traffic_source=rss",
+      "published_date": "2026-06-24T18:20:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kenya braces for return of Gen Z protests – how did they begin?",
       "source": "Al Jazeera",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "SoDMA oo Nairobi ku Qabatay Shir Looga Hadlayay U Diyaargarowga Fatahaadaha Xilliga Deyrta",
+      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
+      "published_date": "2026-06-24T23:47:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
+      "published_date": "2026-06-24T23:25:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Katz: Israel will not withdraw from Lebanon even if US demands it",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_israel-will-not-withdraw-from-lebanon-us-demands-240626?traffic_source=rss",
+      "published_date": "2026-06-24T21:35:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least three killed in drone strikes in Russian controlled Horlivka",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/at-least-three-killed-in-drone-strikes-in-russian-controlled-horlivka?traffic_source=rss",
+      "published_date": "2026-06-24T20:07:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel Denies Reports of Israeli Troops Deployed to Somaliland",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/israel-denies-reports-of-israeli-troops-deployed-to-somaliland/",
+      "published_date": "2026-06-24T17:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland oo Mamnuucday Mas’uuliyiinta Dowladda Federaalka iyo Ciidamo Aan ka Tirsaneyn Puntland",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sodma-oo-nairobi-ku-qabatay-shir-looga-hadlayay-u-diyaargarowga-fatahaadaha-xilliga-deyrta/",
-      "published_date": "2026-06-23T05:26:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/puntland-oo-mamnuucday-masuuliyiinta-dowladda-federaalka-iyo-ciidamo-aan-ka-tirsaneyn-puntland/",
+      "published_date": "2026-06-24T13:23:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss",
-      "published_date": "2026-06-22T22:03:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why has Keir Starmer resigned as UK prime minister?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister?traffic_source=rss",
-      "published_date": "2026-06-22T20:31:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar PM on preventing US-Iran talks from escalation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss",
-      "published_date": "2026-06-22T20:04:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanon discusses ‘deconfliction’ mechanism ahead of Israel talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/lebanon-discusses-de-confliction-mechanism-ahead-of-israel-talks?traffic_source=rss",
-      "published_date": "2026-06-22T18:18:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar’s PM tells Al Jazeera progress made in US-Iran talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-06-22T17:34:56+00:00",
-      "category": "Diplomacy"
+      "title": "Puntland oo mamnuucday dadka xilalka ka haya Dowladda Federaalka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/24/puntland-oo-mamnuucday-dadka-xilalka-ka-haya-dowladda-federaalka/",
+      "published_date": "2026-06-24T12:52:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Japan weighs deploying forces to demine the Strait of Hormuz",
@@ -232,55 +281,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/u-s-resumes-air-strikes-in-somalia-after-brief-lull-africom-says/",
       "published_date": "2026-06-23T09:07:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mareykanka oo Dib u Bilaabay Duqeymihii Cirka ee Ka Dhanka ahaa Al-Shabaab ee Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mareykanka-oo-dib-u-bilaabay-duqeymihii-cirka-ee-ka-dhanka-ahaa-al-shabaab-ee-soomaaliya/",
-      "published_date": "2026-06-23T07:23:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo amaantay Trump",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/23/dowladda-soomaaliya-oo-amaantay-trump/",
-      "published_date": "2026-06-23T06:56:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya oo Soo Dhaweysay Heshiiska Is-fahamka ee Mareykanka iyo Iiraan ay wada gaareen",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-soo-dhaweysay-heshiiska-is-fahamka-ee-mareykanka-iyo-iiraan-ay-wada-gaareen/",
-      "published_date": "2026-06-23T04:52:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza surfers seek solace from war in the sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss",
-      "published_date": "2026-06-22T23:01:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows deadly shooting in Montreal, Canada",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/video-shows-deadly-shooting-in-montreal-canada?traffic_source=rss",
-      "published_date": "2026-06-22T23:00:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Czech public media staff strike, citing government threat to independence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss",
-      "published_date": "2026-06-22T21:21:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "15 killed after a fire ignited in a coaching centre in Lucknow, India",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/15-killed-after-a-fire-ignited-in-a-coaching-centre-in-lucknow-india?traffic_source=rss",
-      "published_date": "2026-06-22T20:26:57+00:00",
       "category": "Military"
     },
     {
@@ -445,11 +445,67 @@
       "category": "Economy"
     },
     {
-      "title": "Huawei CFO’s admissions can be used at criminal trial, US judge rules",
+      "title": "Zimbabwe’s Senate approves amendment extending presidential term",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
-      "published_date": "2026-06-17T21:32:43+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/24/zimbabwes-senate-approves-amendment-extending-presidential-term?traffic_source=rss",
+      "published_date": "2026-06-24T20:43:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rubio: US ‘completely aligned’ with Gulf allies on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/rubio-us-completely-aligned-with-gulf-allies-on-iran?traffic_source=rss",
+      "published_date": "2026-06-24T19:59:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/wins-by-mamdani-backed-candidates-deal-blow-to-pro-israel-camp-in-us?traffic_source=rss",
+      "published_date": "2026-06-24T19:33:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch PM unveils Moluccan monument marking dark colonial chapter",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_dutch-pm-unveils-moluccan-monument-after-apology-240626?traffic_source=rss",
+      "published_date": "2026-06-24T19:19:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss",
+      "published_date": "2026-06-24T18:10:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Prime Minister Arrives in Galmudug for Talks With Regional President",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-prime-minister-arrives-in-galmudug-for-talks-with-regional-president/",
+      "published_date": "2026-06-24T13:52:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamse oo gaaray Dhuusamareeb, kulan la yeeshay Madaxweynaha Galmudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-xamse-oo-gaaray-dhuusamareeb-kulan-la-yeeshay-madaxweynaha-galmudug/",
+      "published_date": "2026-06-24T13:51:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland Announces New Security Measures, Warns Against Unauthorized Militias and Federal Activities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-announces-new-security-measures-warns-against-unauthorized-militias-and-federal-activities/",
+      "published_date": "2026-06-24T13:46:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo guddoomiyay shirka Tacliinta Sare ee Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/24/madaxweyne-deni-oo-guddoomiyay-shirka-tacliinta-sare-ee-puntland/",
+      "published_date": "2026-06-24T11:13:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Houthis threaten strikes on Somaliland over Israeli military foothold",
@@ -526,69 +582,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/mass-burial-held-for-civilians-killed-in-adhi-cadeeye-clashes/",
       "published_date": "2026-06-23T17:34:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/nyc-mayor-zohran-mamdani-doubles-down-on-criticism-of-aipac?traffic_source=rss",
-      "published_date": "2026-06-23T11:35:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Israel being accused of meddling in Colombia presidential election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss",
-      "published_date": "2026-06-23T11:16:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baarlamaanka Puntland oo xasaanadda siiyay mas’uuliyiin uu dhawaan magacaabay Madaxweyne Deni",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/23/baarlamaanka-puntland-oo-xasaanadda-siiyay-masuuliyiin-uu-dhawaan-magacaabay-madaxweyne-deni/",
-      "published_date": "2026-06-23T11:05:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Leader Meets UN Officials to Discuss Governance and Stability",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-leader-meets-un-officials-to-discuss-governance-and-stability/",
-      "published_date": "2026-06-23T09:17:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mashruuc oo ka hadlay iska hor-imaadkii ka dhacay kantaroolka bari ee Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/23/mashruuc-oo-ka-hadlay-iska-hor-imaadkii-ka-dhacay-kantaroolka-bari-ee-garoowe/",
-      "published_date": "2026-06-23T05:50:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary’s PM launches drive to free country from Orban’s ‘mafia’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/hungarys-pm-launches-drive-to-free-country-from-orbans-mafia?traffic_source=rss",
-      "published_date": "2026-06-22T21:23:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge blocks Trump administration subpoena against Minnesota officials",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/us-judge-blocks-trump-administration-subpoena-against-minnesota-officials?traffic_source=rss",
-      "published_date": "2026-06-22T21:20:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire at animation studio in India’s Lucknow kills at least 14",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/fire-at-animation-studio-in-indias-lucknow-kills-at-least-14?traffic_source=rss",
-      "published_date": "2026-06-22T20:48:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Orders Illegal Immigrants to Leave Within 10 Days",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-orders-illegal-immigrants-to-leave-within-10-days/",
-      "published_date": "2026-06-22T18:22:47+00:00",
       "category": "Local Events"
     }
   ]
