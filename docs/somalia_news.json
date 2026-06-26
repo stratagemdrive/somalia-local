@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-26T00:06:29.421595+00:00",
-  "story_count": 84,
+  "last_updated": "2026-06-26T13:14:46.449490+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "New synthetic drugs, cocaine and meth booming, warns UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/new-synthetic-drugs-cocaine-and-meth-booming-warns-un?traffic_source=rss",
+      "published_date": "2026-06-26T11:58:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Safaaradda Soomaaliya ee Kenya oo Nairobi ku Qabatay Munaasabad Lagu Xusay 66-guurada Xorriyadda Gobollada Waqooyi",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/safaaradda-soomaaliya-ee-kenya-oo-nairobi-ku-qabatay-munaasabad-lagu-xusay-66-guurada-xorriyadda-gobollada-waqooyi/",
+      "published_date": "2026-06-26T11:16:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali PM marks northern independence anniversary with call for unity and peace",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-marks-northern-independence-anniversary-with-call-for-unity-and-peace/",
+      "published_date": "2026-06-26T09:30:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia marks 66th anniversary of northern independence as president calls for unity",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-marks-66th-anniversary-of-northern-independence-as-president-calls-for-unity/",
+      "published_date": "2026-06-26T09:26:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN: Venezuela earthquakes will deepen already severe humanitarian crisis",
       "source": "Al Jazeera",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kenya braces for return of Gen Z protests – how did they begin?",
+      "title": "IAEA demands verification of Iran nuclear ambitions amid ‘statement war’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/24/kenya-braces-for-return-of-gen-z-protests-how-did-they-begin?traffic_source=rss",
-      "published_date": "2026-06-24T10:41:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme?traffic_source=rss",
+      "published_date": "2026-06-26T10:38:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Eastern Libya Bans Entry of Nationals From Four African Countries Amid Migration Crackdown",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/eastern-libya-bans-entry-of-nationals-from-four-african-countries-amid-migration-crackdown/",
-      "published_date": "2026-06-24T09:30:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Holds Information Officers Meeting to Coordinate Government Messaging Ahead of Independence Celebrations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-holds-information-officers-meeting-to-coordinate-government-messaging-ahead-of-independence-celebrations/",
-      "published_date": "2026-06-24T09:29:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat",
+      "title": "Who has profited most from the war on Iran?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat?traffic_source=rss",
-      "published_date": "2026-06-24T08:27:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/26/who-has-profited-most-from-the-war-on-iran?traffic_source=rss",
+      "published_date": "2026-06-26T10:25:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid?traffic_source=rss",
+      "published_date": "2026-06-26T10:12:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea conducts major weapons tests; South training ‘drone warriors’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors?traffic_source=rss",
+      "published_date": "2026-06-26T08:16:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
+      "published_date": "2026-06-26T07:07:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Ashura ceremonies intertwine faith and support for state in Iran",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "At least three killed in drone strikes in Russian controlled Horlivka",
+      "title": "Ukraine decimates Russian logistics, bringing chaos to Crimea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/at-least-three-killed-in-drone-strikes-in-russian-controlled-horlivka?traffic_source=rss",
-      "published_date": "2026-06-24T20:07:54+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea?traffic_source=rss",
+      "published_date": "2026-06-26T12:34:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel Denies Reports of Israeli Troops Deployed to Somaliland",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/israel-denies-reports-of-israeli-troops-deployed-to-somaliland/",
-      "published_date": "2026-06-24T17:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland oo Mamnuucday Mas’uuliyiinta Dowladda Federaalka iyo Ciidamo Aan ka Tirsaneyn Puntland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-oo-mamnuucday-masuuliyiinta-dowladda-federaalka-iyo-ciidamo-aan-ka-tirsaneyn-puntland/",
-      "published_date": "2026-06-24T13:23:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland oo mamnuucday dadka xilalka ka haya Dowladda Federaalka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/24/puntland-oo-mamnuucday-dadka-xilalka-ka-haya-dowladda-federaalka/",
-      "published_date": "2026-06-24T12:52:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japan weighs deploying forces to demine the Strait of Hormuz",
+      "title": "Climate change the culprit for Europe’s ‘most severe’ heatwave: Report",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/japan-weighs-deploying-forces-to-demine-the-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-06-24T12:31:35+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/26/climate-change-the-culprit-for-europes-most-severe-heatwave-report?traffic_source=rss",
+      "published_date": "2026-06-26T11:42:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Can Europe’s historic cities survive a warming climate?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/26/can-europes-historic-cities-survive-a-warming-climate?traffic_source=rss",
+      "published_date": "2026-06-26T11:06:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran warns against Hormuz crossings without authorisation",
@@ -326,11 +347,25 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
+      "title": "Which countries have pledged aid to Venezuela after powerful earthquakes?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss",
-      "published_date": "2026-06-19T07:19:53+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/6/26/which-countries-have-pledged-aid-to-venezuela-after-powerful-earthquakes?traffic_source=rss",
+      "published_date": "2026-06-26T12:43:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Affordability crisis’: How the Western housing crisis spiralled",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/26/affordability-crisis-how-the-western-housing-crisis-spiralled?traffic_source=rss",
+      "published_date": "2026-06-26T08:36:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World aids rescue effort as Venezuela quake death toll hits 589",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/neighbours-aid-rescue-effort-as-venezuela-quake-death-toll-hits-235?traffic_source=rss",
+      "published_date": "2026-06-26T08:02:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Economic losses mount as Venezuela earthquake death toll grows",
@@ -452,6 +487,34 @@
       "category": "Economy"
     },
     {
+      "title": "Muuse Biixi oo baaq u diray Cabdiraxmaan Cirro",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/26/muuse-biixi-oo-baaq-u-diray-cabdiraxmaan-cirro/",
+      "published_date": "2026-06-26T12:15:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NUSOJ Sounds Alarm Over Repressive Draft Penal Code Threatening Media Freedom and Fundamental Rights",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nusoj-sounds-alarm-over-repressive-draft-penal-code-threatening-media-freedom-and-fundamental-rights/",
+      "published_date": "2026-06-26T07:57:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Qoor Qoor oo Sheegay Inuusan u Tartami Doonin Doorashada Galmudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweyne-qoor-qoor-oo-sheegay-inuusan-u-tartami-doonin-doorashada-galmudug/",
+      "published_date": "2026-06-26T06:01:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US ends deportation protections (TPS) for Haitians and Syrians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
+      "published_date": "2026-06-26T05:25:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Qoorqoor oo ka tanaasulay tartanka doorashada Galmudug",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/06/26/qoorqoor-oo-ka-tanaasulay-tartanka-doorashada-galmudug/",
@@ -561,34 +624,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/puntland-bans-somalia-government-officials-region/",
       "published_date": "2026-06-24T16:35:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Prime Minister Arrives in Galmudug for Talks With Regional President",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-prime-minister-arrives-in-galmudug-for-talks-with-regional-president/",
-      "published_date": "2026-06-24T13:52:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ra’iisul Wasaare Xamse oo gaaray Dhuusamareeb, kulan la yeeshay Madaxweynaha Galmudug",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaare-xamse-oo-gaaray-dhuusamareeb-kulan-la-yeeshay-madaxweynaha-galmudug/",
-      "published_date": "2026-06-24T13:51:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland Announces New Security Measures, Warns Against Unauthorized Militias and Federal Activities",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-announces-new-security-measures-warns-against-unauthorized-militias-and-federal-activities/",
-      "published_date": "2026-06-24T13:46:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo guddoomiyay shirka Tacliinta Sare ee Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/24/madaxweyne-deni-oo-guddoomiyay-shirka-tacliinta-sare-ee-puntland/",
-      "published_date": "2026-06-24T11:13:10+00:00",
       "category": "Local Events"
     }
   ]
