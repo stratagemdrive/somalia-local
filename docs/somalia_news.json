@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-25T13:22:44.792090+00:00",
-  "story_count": 86,
+  "last_updated": "2026-06-26T00:06:29.421595+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "UN: Venezuela earthquakes will deepen already severe humanitarian crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss",
+      "published_date": "2026-06-25T23:20:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
+      "published_date": "2026-06-25T20:55:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya’s Kandie gets seven-year ban for doping violations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/25/kenyas-kandie-gets-seven-year-ban-for-doping-violations?traffic_source=rss",
+      "published_date": "2026-06-25T20:11:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainian attack on Crimea kills five, Russian officials say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
+      "published_date": "2026-06-25T17:12:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
+      "published_date": "2026-06-25T17:11:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Participates in Arab League Ministerial Meetings in Jordan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-participates-in-arab-league-ministerial-meetings-in-jordan/",
+      "published_date": "2026-06-25T15:48:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Venezuela quakes: How will sanctions impact aid operations?",
       "source": "Al Jazeera",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel’s deliberate targeting of Palestinian children",
+      "title": "Ashura ceremonies intertwine faith and support for state in Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
-      "published_date": "2026-06-23T22:50:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss",
+      "published_date": "2026-06-25T20:12:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN: Israel committed genocide by targeting Gaza children",
+      "title": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
-      "published_date": "2026-06-23T21:38:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
+      "published_date": "2026-06-25T19:44:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+      "title": "Kenya arrests more than 350 as people mark anniversary of deadly protests",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-06-23T21:00:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests?traffic_source=rss",
+      "published_date": "2026-06-25T18:55:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya minister says US-run Ebola facility plans halted after court order",
+      "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/kenya-minister-says-us-run-ebola-facility-plans-halted-after-court-order?traffic_source=rss",
-      "published_date": "2026-06-23T13:30:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
+      "published_date": "2026-06-25T18:24:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "FoZ founder pledges to force Somaliland recognition on Trump’s desk",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-recognition-trump-evans/",
-      "published_date": "2026-06-23T12:44:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
-      "published_date": "2026-06-23T11:55:55+00:00",
-      "category": "Diplomacy"
+      "title": "Maxaa looga hadlay shirka golaha wasiirrada Puntland?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/25/maxaa-looga-hadlay-shirka-golaha-wasiirrada-puntland-3/",
+      "published_date": "2026-06-25T16:37:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli forces kill Palestinian man during raid on his home",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "US Senate approves Iran war powers resolution: What that means for Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss",
-      "published_date": "2026-06-24T11:25:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea commissions warship as Kim eyes nuclear navy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss",
-      "published_date": "2026-06-24T11:24:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss",
-      "published_date": "2026-06-24T10:03:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Defense Minister Holds Talks With IMCTC Representative on Security Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-defense-minister-holds-talks-with-imctc-representative-on-security-cooperation/",
-      "published_date": "2026-06-24T08:51:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
-      "published_date": "2026-06-24T07:04:05+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Iran warns against Hormuz crossings without authorisation",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
@@ -333,11 +333,11 @@
       "category": "Energy"
     },
     {
-      "title": "Are prices really dropping in the US, as Trump claims?",
+      "title": "Economic losses mount as Venezuela earthquake death toll grows",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
-      "published_date": "2026-06-18T21:30:41+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss",
+      "published_date": "2026-06-25T21:12:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "US says Iran will buy its goods: What could US-Iran trade look like?",
@@ -452,18 +452,53 @@
       "category": "Economy"
     },
     {
-      "title": "Cuba’s Communist Party approves opening economy in unprecedented move",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
-      "published_date": "2026-06-18T21:28:00+00:00",
-      "category": "Economy"
+      "title": "Qoorqoor oo ka tanaasulay tartanka doorashada Galmudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/26/qoorqoor-oo-ka-tanaasulay-tartanka-doorashada-galmudug/",
+      "published_date": "2026-06-25T23:10:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
+      "title": "Venezuela quake leaves La Guaira in almost total devastation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss",
-      "published_date": "2026-06-18T19:52:17+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-quake-leaves-la-guaira-in-almost-total-devastation?traffic_source=rss",
+      "published_date": "2026-06-25T20:50:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland President Receives Warm Welcome Following Historic Visit to Israel",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-receives-warm-welcome-following-historic-visit-to-israel/",
+      "published_date": "2026-06-25T20:36:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Has Marco Rubio’s tour of the Gulf reassured US allies?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/25/has-marco-rubios-tour-of-the-gulf-reassured-us-allies?traffic_source=rss",
+      "published_date": "2026-06-25T20:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bedouins protest Israel’s home demolition policy in the Negev desert",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss",
+      "published_date": "2026-06-25T18:50:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court scales back Roundup cancer lawsuits in victory for company",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss",
+      "published_date": "2026-06-25T17:15:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland president receives hero’s welcome in Hargeisa after Israel visit",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-irro-returns-hargeisa-israel-visit/",
+      "published_date": "2026-06-25T15:05:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sa’diyo Bajaaj: Somalia court sentences activist to 3 years in prison",
@@ -554,55 +589,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/06/24/madaxweyne-deni-oo-guddoomiyay-shirka-tacliinta-sare-ee-puntland/",
       "published_date": "2026-06-24T11:13:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Houthis threaten strikes on Somaliland over Israeli military foothold",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/houthis-threaten-israel-somaliland/",
-      "published_date": "2026-06-24T10:59:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xildhibaannada Puntland oo loo qaybiyay xeer wax-ka-beddel lagu sameynayo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/24/xildhibaannada-puntland-oo-loo-qaybiyay-xeer-wax-ka-beddel-lagu-sameynayo/",
-      "published_date": "2026-06-24T10:15:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family’s home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss",
-      "published_date": "2026-06-24T09:38:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo sheegtay in waajib ka saaran yahay wax ka qabashada colaada Sool",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/24/puntland-oo-sheegtay-in-waajib-ka-saaran-yahay-wax-ka-qabashada-colaada-sool/",
-      "published_date": "2026-06-24T05:21:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters sentenced to decades in US prison over alleged antifa ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/protesters-sentenced-to-decades-in-us-prison-over-alleged-antifa-ties?traffic_source=rss",
-      "published_date": "2026-06-23T23:22:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss",
-      "published_date": "2026-06-23T23:01:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss",
-      "published_date": "2026-06-23T20:03:56+00:00",
       "category": "Local Events"
     }
   ]
