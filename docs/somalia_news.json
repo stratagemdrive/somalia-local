@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-27T00:03:10.521366+00:00",
-  "story_count": 88,
+  "last_updated": "2026-06-27T12:11:29.029070+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Somalia, WHO Discuss Stronger Health Cooperation at Dubrovnik Forum",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-who-discuss-stronger-health-cooperation-at-dubrovnik-forum/",
+      "published_date": "2026-06-27T11:39:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss",
+      "published_date": "2026-06-27T10:35:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya oo masaafurisay ra’iisul wasaare ku xigeenka labaad ee Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenya-oo-masaafurisay-raiisul-wasaare-ku-xigeenka-labaad-ee-soomaaliya/",
+      "published_date": "2026-06-27T08:21:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya deports Somalia’s second deputy prime minister over alleged passport fraud",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenya-deports-somalias-second-deputy-prime-minister-over-alleged-passport-fraud/",
+      "published_date": "2026-06-27T08:19:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
       "source": "Al Jazeera",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss",
-      "published_date": "2026-06-24T21:47:28+00:00",
-      "category": "Diplomacy"
+      "title": "Clan Militia Mobilizes in Beledweyne Over Defense Minister’s Threatening Remarks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/clan-militia-mobilizes-in-beledweyne-over-defense-ministers-threatening-remarks/",
+      "published_date": "2026-06-27T11:35:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
+      "title": "Thai police arrest Australian over killing of teenager found in suitcase",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/24/qatars-madibo-banned-for-5-games-after-breaking-leg-of-canadas-kone?traffic_source=rss",
-      "published_date": "2026-06-24T21:38:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/27/thai-police-arrest-australian-over-killing-of-teenager-found-in-suitcase?traffic_source=rss",
+      "published_date": "2026-06-27T08:13:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/top-european-leaders-vow-strong-support-for-ukraine-ahead-of-nato-summit?traffic_source=rss",
-      "published_date": "2026-06-24T20:24:51+00:00",
-      "category": "Diplomacy"
+      "title": "Suspect in Minnesota fraud case arrested in Somalia after 4 years on the run, officials say",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/suspect-in-minnesota-fraud-case-arrested-in-somalia-after-4-years-on-the-run-officials-say/",
+      "published_date": "2026-06-27T07:25:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN nuclear chief says Iran inspections will happen, Tehran says after deal",
+      "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal?traffic_source=rss",
-      "published_date": "2026-06-24T19:33:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+      "published_date": "2026-06-27T07:20:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Belgium reach World Cup knockouts as New Zealand exit tournament",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss",
+      "published_date": "2026-06-27T07:04:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FBI arrests fugitive Abdikerm Eidleh in Somalia over massive Minnesota fraud scheme",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/abdikerm-eidleh-arrested-somalia/",
+      "published_date": "2026-06-27T06:19:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli forces kill Palestinian man during raid on his home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss",
-      "published_date": "2026-06-25T11:16:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How minesweeping in the Strait of Hormuz works: A visual guide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss",
-      "published_date": "2026-06-25T11:08:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Ukraine seizes ‘first chance to win’, war horrors come home to Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia?traffic_source=rss",
-      "published_date": "2026-06-25T10:50:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices back to pre-war levels on rising Middle East supply",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
-      "published_date": "2026-06-25T10:04:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moments of panic as earthquakes strike Venezuela",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/moments-of-panic-as-earthquakes-strike-venezuela?traffic_source=rss",
-      "published_date": "2026-06-25T08:39:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
-      "published_date": "2026-06-25T08:28:35+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine decimates Russian logistics, bringing chaos to Crimea",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea?traffic_source=rss",
@@ -333,18 +333,25 @@
       "category": "Energy"
     },
     {
-      "title": "Why Tunisia’s renewable energy strategy is facing resistance",
+      "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
-      "published_date": "2026-06-20T12:06:02+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+      "published_date": "2026-06-27T10:32:24+00:00",
+      "category": "Economy"
     },
     {
-      "title": "IMF urges Somalia to reform oil fiscal regime ahead of exploration boom",
+      "title": "FBI-da Mareykanka iyo hay’adaha Soomaaliya oo Muqdisho ku qabtay eedeysane musuqmaasuq lagu raadinayay",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/imf-urges-somalia-to-reform-oil-fiscal-regime-ahead-of-exploration-boom/",
-      "published_date": "2026-06-20T08:50:10+00:00",
-      "category": "Energy"
+      "url": "https://shabellemedia.com/fbi-da-mareykanka-iyo-hayadaha-soomaaliya-oo-muqdisho-ku-qabtay-eedeysane-musuqmaasuq-lagu-raadinayay/",
+      "published_date": "2026-06-27T07:27:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
+      "published_date": "2026-06-27T07:00:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "How much disaster aid will the US provide to Venezuela?",
@@ -466,18 +473,32 @@
       "category": "Economy"
     },
     {
-      "title": "Wasiirka Beeraha Oo Qaabilay Madaxa Cusub Ee Nidaamyada Cuntada Ee WFP Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiirka-beeraha-oo-qaabilay-madaxa-cusub-ee-nidaamyada-cuntada-ee-wfp-soomaaliya/",
-      "published_date": "2026-06-21T12:26:28+00:00",
-      "category": "Economy"
+      "title": "No school, living in a tent, but it’s exam time in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+      "published_date": "2026-06-27T11:29:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "51 migrants reported dead or missing after boat sinks off Libya’s coast",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/51-migrants-reported-dead-or-missing-after-boat-sinks-off-libyas-coast/",
-      "published_date": "2026-06-20T08:37:18+00:00",
-      "category": "Economy"
+      "title": "Somalia hit with EU visa restrictions as bloc pressures Mogadishu over migrant readmissions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/eu-visa-restrictions-somalia/",
+      "published_date": "2026-06-27T07:02:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Masaajidda Garoowe oo looga hadlay xaaladda Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/27/masaajida-garoowe-oo-looga-hadlay-xaaladda-puntland/",
+      "published_date": "2026-06-27T06:23:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Marks 66th Anniversary of June 26 Independence Day",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-marks-66th-anniversary-of-june-26-independence-day/",
+      "published_date": "2026-06-27T04:07:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US judge holds prosecutor in contempt in Charlie Kirk murder case",
@@ -589,34 +610,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/sadiyo-bajaaj-sentenced-somalia-activist/",
       "published_date": "2026-06-25T08:29:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guuleed Saalax: Xasan Sheekh wuxuu rabaa in uu meesha ka saaro dowladnimada Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/25/guuleed-saalax-xasan-sheekh-wuxuu-rabaa-in-uu-meesha-ka-saaro-dowladnimada-puntland/",
-      "published_date": "2026-06-25T06:30:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banadir Regional Court Sentences Female Tuk-Tuk driver to Three Years in Prison",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/banadir-regional-court-sentences-sacdiyo-bajaj-to-three-years-in-prison/",
-      "published_date": "2026-06-25T06:27:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zimbabwe’s Senate approves amendment extending presidential term",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/zimbabwes-senate-approves-amendment-extending-presidential-term?traffic_source=rss",
-      "published_date": "2026-06-24T20:43:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rubio: US ‘completely aligned’ with Gulf allies on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/rubio-us-completely-aligned-with-gulf-allies-on-iran?traffic_source=rss",
-      "published_date": "2026-06-24T19:59:26+00:00",
       "category": "Local Events"
     }
   ]
