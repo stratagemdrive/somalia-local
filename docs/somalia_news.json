@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-27T12:11:29.029070+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-27T23:58:41.415951+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Kenya rights groups say protesters found dumped, tortured after arrests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
+      "published_date": "2026-06-27T18:46:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Defence Minister Hails Djibouti’s Role in Peace Efforts at Independence Anniversary",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-defence-minister-hails-djiboutis-role-in-peace-efforts-at-independence-anniversary/",
+      "published_date": "2026-06-27T14:24:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, WHO Discuss Stronger Health Cooperation at Dubrovnik Forum",
       "source": "Shabelle Media",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ICC judges sue Trump over sanctions, call measures unlawful",
+      "title": "Why is Crimea critical to the Russia–Ukraine war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss",
-      "published_date": "2026-06-25T07:47:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
+      "published_date": "2026-06-27T19:22:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s Non-Resident Ambassador Presents Credentials to Canada",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-non-resident-ambassador-presents-credentials-to-canada/",
-      "published_date": "2026-06-25T06:41:53+00:00",
-      "category": "Diplomacy"
+      "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss",
+      "published_date": "2026-06-27T19:12:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "U.S. Fugitive Wanted in Major Fraud Case Arrested in Mogadishu",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/u-s-fugitive-wanted-in-major-fraud-case-arrested-in-mogadishu/",
+      "published_date": "2026-06-27T19:06:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
+      "published_date": "2026-06-27T18:50:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three security personnel killed in attack in Pakistan’s Karachi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
+      "published_date": "2026-06-27T17:04:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Brother and sister killed in Israeli attack on Gaza ‘safe zone’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
+      "published_date": "2026-06-27T15:53:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
+      "published_date": "2026-06-27T15:40:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bodycam shows driver offering armed police a lift mid-chase",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss",
+      "published_date": "2026-06-27T14:40:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Clan Militia Mobilizes in Beledweyne Over Defense Minister’s Threatening Remarks",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid",
+      "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid?traffic_source=rss",
-      "published_date": "2026-06-26T10:12:32+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss",
+      "published_date": "2026-06-27T17:05:48+00:00",
+      "category": "Energy"
     },
     {
-      "title": "North Korea conducts major weapons tests; South training ‘drone warriors’",
+      "title": "With water cuts looming in Arizona in US, locals fight data centres",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors?traffic_source=rss",
-      "published_date": "2026-06-26T08:16:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
-      "published_date": "2026-06-26T07:07:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ashura ceremonies intertwine faith and support for state in Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss",
-      "published_date": "2026-06-25T20:12:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
-      "published_date": "2026-06-25T19:44:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kenya arrests more than 350 as people mark anniversary of deadly protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests?traffic_source=rss",
-      "published_date": "2026-06-25T18:55:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
-      "published_date": "2026-06-25T18:24:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maxaa looga hadlay shirka golaha wasiirrada Puntland?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/25/maxaa-looga-hadlay-shirka-golaha-wasiirrada-puntland-3/",
-      "published_date": "2026-06-25T16:37:14+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
+      "published_date": "2026-06-27T15:11:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine decimates Russian logistics, bringing chaos to Crimea",
@@ -473,6 +487,62 @@
       "category": "Economy"
     },
     {
+      "title": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
+      "published_date": "2026-06-27T20:34:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Senate challenger, incumbent with same name to appear on Alaska ballot",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss",
+      "published_date": "2026-06-27T19:05:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SoDMA Sends Delegation for Flood Response Training in China",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-sends-delegation-for-flood-response-training-in-china/",
+      "published_date": "2026-06-27T16:15:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sabalenka defends Wimbledon prize protest, says it’s for struggling players",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss",
+      "published_date": "2026-06-27T15:05:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo xariga ka jiray waddada halbowlaha ah ee Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/27/madaxweyne-deni-oo-xariga-ka-jiray-waddada-halbowlaha-ah-ee-garoowe/",
+      "published_date": "2026-06-27T15:05:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JSP oo Musharrax u magacaabay doorashada Galmudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jsp-oo-musharrax-u-magacaabay-doorashada-galmudug/",
+      "published_date": "2026-06-27T14:39:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Sends Disaster Officials to China for Flood Response Training",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-sends-disaster-officials-to-china-for-flood-response-training/",
+      "published_date": "2026-06-27T14:26:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wasiirka Gaashaandhigga XFS oo Beledweyne uga qeyb galay xuska 49-aad ee madaxbannaanida Jabuuti",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirka-gaashaandhigga-xfs-oo-beledweyne-uga-qeyb-galay-xuska-49-aad-ee-madaxbannaanida-jabuuti/",
+      "published_date": "2026-06-27T14:21:22+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "No school, living in a tent, but it’s exam time in Gaza",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
@@ -554,62 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
       "published_date": "2026-06-26T05:25:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qoorqoor oo ka tanaasulay tartanka doorashada Galmudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/26/qoorqoor-oo-ka-tanaasulay-tartanka-doorashada-galmudug/",
-      "published_date": "2026-06-25T23:10:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela quake leaves La Guaira in almost total devastation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-quake-leaves-la-guaira-in-almost-total-devastation?traffic_source=rss",
-      "published_date": "2026-06-25T20:50:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland President Receives Warm Welcome Following Historic Visit to Israel",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-receives-warm-welcome-following-historic-visit-to-israel/",
-      "published_date": "2026-06-25T20:36:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Has Marco Rubio’s tour of the Gulf reassured US allies?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/25/has-marco-rubios-tour-of-the-gulf-reassured-us-allies?traffic_source=rss",
-      "published_date": "2026-06-25T20:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bedouins protest Israel’s home demolition policy in the Negev desert",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss",
-      "published_date": "2026-06-25T18:50:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court scales back Roundup cancer lawsuits in victory for company",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss",
-      "published_date": "2026-06-25T17:15:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland president receives hero’s welcome in Hargeisa after Israel visit",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-irro-returns-hargeisa-israel-visit/",
-      "published_date": "2026-06-25T15:05:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sa’diyo Bajaaj: Somalia court sentences activist to 3 years in prison",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/sadiyo-bajaaj-sentenced-somalia-activist/",
-      "published_date": "2026-06-25T08:29:28+00:00",
       "category": "Local Events"
     }
   ]
