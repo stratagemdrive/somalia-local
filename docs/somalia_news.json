@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-26T13:14:46.449490+00:00",
-  "story_count": 89,
+  "last_updated": "2026-06-27T00:03:10.521366+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss",
+      "published_date": "2026-06-26T21:10:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
+      "published_date": "2026-06-26T20:58:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New synthetic drugs, cocaine and meth booming, warns UN",
       "source": "Al Jazeera",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why does Israel want to be less dependent on US weapons?",
+      "title": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss",
-      "published_date": "2026-06-24T19:27:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss",
+      "published_date": "2026-06-26T23:13:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Our life stops’: West Bank childhood shattered by Israeli military raids",
+      "title": "US strikes Iran in response to drone strike on commercial ship",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/24/our-life-stops-west-bank-childhood-shattered-by-israeli-military-raids?traffic_source=rss",
-      "published_date": "2026-06-24T18:20:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
+      "published_date": "2026-06-26T21:08:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attack on car in central Gaza kills three Palestinians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
+      "published_date": "2026-06-26T19:49:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-06-26T19:26:16+00:00",
+      "category": "Military"
     },
     {
       "title": "IAEA demands verification of Iran nuclear ambitions amid ‘statement war’",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Somali Army Logistics Commander, TURKSOM Training Chief Discuss Enhanced Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-logistics-commander-turksom-training-chief-discuss-enhanced-cooperation/",
-      "published_date": "2026-06-25T06:45:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
-      "published_date": "2026-06-24T23:47:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
-      "published_date": "2026-06-24T23:25:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Katz: Israel will not withdraw from Lebanon even if US demands it",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_israel-will-not-withdraw-from-lebanon-us-demands-240626?traffic_source=rss",
-      "published_date": "2026-06-24T21:35:35+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine decimates Russian logistics, bringing chaos to Crimea",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea?traffic_source=rss",
@@ -345,6 +345,20 @@
       "url": "https://shabellemedia.com/imf-urges-somalia-to-reform-oil-fiscal-regime-ahead-of-exploration-boom/",
       "published_date": "2026-06-20T08:50:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "How much disaster aid will the US provide to Venezuela?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss",
+      "published_date": "2026-06-26T19:41:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump threatens tariffs for countries that levy digital tax on US firms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/trump-threatens-tariffs-for-countries-that-levy-digital-tax-on-us-firms?traffic_source=rss",
+      "published_date": "2026-06-26T19:38:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Which countries have pledged aid to Venezuela after powerful earthquakes?",
@@ -466,25 +480,32 @@
       "category": "Economy"
     },
     {
-      "title": "Norway Proposes Ban on Trade with Illegal Israeli Settlements in Palestine",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/20/norway-proposes-ban-on-trade-with-illegal-israeli-settlements-in-palestine/",
-      "published_date": "2026-06-19T21:00:55+00:00",
-      "category": "Economy"
+      "title": "US judge holds prosecutor in contempt in Charlie Kirk murder case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/us-judge-holds-prosecutor-in-contempt-in-charlie-kirk-murder-case?traffic_source=rss",
+      "published_date": "2026-06-26T23:14:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Norway seeks to ban trade with illegal Israeli settlements in Palestine",
+      "title": "Mistrial declared in federal arson case related to California wildfires",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/norway-seeks-to-ban-trade-with-illegal-israeli-settlements-in-palestine?traffic_source=rss",
-      "published_date": "2026-06-19T19:18:35+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/26/mistrial-declared-in-federal-arson-case-related-to-california-wildfires?traffic_source=rss",
+      "published_date": "2026-06-26T20:51:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’",
+      "title": "Israel, Lebanon sign framework deal after US-mediated talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/more-than-70-medics-infected-with-ebola-as-drc-outbreak-spreads-fast?traffic_source=rss",
-      "published_date": "2026-06-19T18:04:20+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/israel-lebanon-sign-framework-deal-after-us-mediated-talks?traffic_source=rss",
+      "published_date": "2026-06-26T19:05:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Accedes to Fifteen International Maritime Conventions and Legal Instruments in a Historic Modernization of Its Maritime Legal Framework",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-accedes-to-fifteen-international-maritime-conventions-and-legal-instruments-in-a-historic-modernization-of-its-maritime-legal-framework/",
+      "published_date": "2026-06-26T14:20:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Muuse Biixi oo baaq u diray Cabdiraxmaan Cirro",
@@ -596,34 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/rubio-us-completely-aligned-with-gulf-allies-on-iran?traffic_source=rss",
       "published_date": "2026-06-24T19:59:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/wins-by-mamdani-backed-candidates-deal-blow-to-pro-israel-camp-in-us?traffic_source=rss",
-      "published_date": "2026-06-24T19:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch PM unveils Moluccan monument marking dark colonial chapter",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_dutch-pm-unveils-moluccan-monument-after-apology-240626?traffic_source=rss",
-      "published_date": "2026-06-24T19:19:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss",
-      "published_date": "2026-06-24T18:10:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland bans Somalia government officials from entering region",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-bans-somalia-government-officials-region/",
-      "published_date": "2026-06-24T16:35:45+00:00",
       "category": "Local Events"
     }
   ]
