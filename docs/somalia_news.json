@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-28T12:18:36.844132+00:00",
+  "last_updated": "2026-06-29T00:05:05.545740+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "US and Iran trade strikes days after peace agreement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
+      "published_date": "2026-06-28T18:55:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia inaugurates renovated women’s mental health unit in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-inaugurates-renovated-womens-mental-health-unit-in-mogadishu/",
+      "published_date": "2026-06-28T13:59:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia’s president names Ethiopia, Kenya and Djibouti as “missing parts” of greater Somalia – reviving a dream that once started a war",
       "source": "Somali Guardian",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+      "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
-      "published_date": "2026-06-25T17:11:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss",
+      "published_date": "2026-06-28T21:55:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Participates in Arab League Ministerial Meetings in Jordan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-participates-in-arab-league-ministerial-meetings-in-jordan/",
-      "published_date": "2026-06-25T15:48:19+00:00",
-      "category": "Diplomacy"
+      "title": "Can the ICJ help end the war in the eastern DRC?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/28/can-the-icj-help-end-the-war-in-the-eastern-drc?traffic_source=rss",
+      "published_date": "2026-06-28T19:24:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
+      "published_date": "2026-06-28T18:05:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq arrests senior officials in anti-corruption raids",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss",
+      "published_date": "2026-06-28T15:19:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three firefighters killed in US wildfires along Colorado–Utah border",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss",
+      "published_date": "2026-06-28T15:16:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Uganda’s military chief orders shutdown of two media outlets",
@@ -246,41 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss",
       "published_date": "2026-06-27T14:40:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Clan Militia Mobilizes in Beledweyne Over Defense Minister’s Threatening Remarks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/clan-militia-mobilizes-in-beledweyne-over-defense-ministers-threatening-remarks/",
-      "published_date": "2026-06-27T11:35:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thai police arrest Australian over killing of teenager found in suitcase",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/thai-police-arrest-australian-over-killing-of-teenager-found-in-suitcase?traffic_source=rss",
-      "published_date": "2026-06-27T08:13:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suspect in Minnesota fraud case arrested in Somalia after 4 years on the run, officials say",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/suspect-in-minnesota-fraud-case-arrested-in-somalia-after-4-years-on-the-run-officials-say/",
-      "published_date": "2026-06-27T07:25:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-      "published_date": "2026-06-27T07:20:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Belgium reach World Cup knockouts as New Zealand exit tournament",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss",
-      "published_date": "2026-06-27T07:04:54+00:00",
       "category": "Military"
     },
     {
@@ -487,6 +487,48 @@
       "category": "Economy"
     },
     {
+      "title": "Somaliland: Israel-Palestine Conflict Is a Territorial, Not Religious, Dispute",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-israel-palestine-conflict-is-a-territorial-not-religious-dispute/",
+      "published_date": "2026-06-28T21:22:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza’s displaced families face worsening living conditions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gazas-displaced-families-face-worsening-living-conditions?traffic_source=rss",
+      "published_date": "2026-06-28T19:43:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss",
+      "published_date": "2026-06-28T16:38:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
+      "published_date": "2026-06-28T16:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo wax ka baddelaysa tirada goleyaasha deegaanka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/28/puntland-oo-wax-ka-baddelaysa-tirada-goleyaasha-deegaanka/",
+      "published_date": "2026-06-28T13:34:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s ruling party picks candidate for Galmudug leadership election",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-ruling-party-picks-candidate-for-galmudug-leadership-election/",
+      "published_date": "2026-06-28T09:01:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Central African Republic declares cholera outbreak",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/central-african-republic-declares-cholera-outbreak/",
@@ -582,48 +624,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/eu-visa-restrictions-somalia/",
       "published_date": "2026-06-27T07:02:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Masaajidda Garoowe oo looga hadlay xaaladda Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/27/masaajida-garoowe-oo-looga-hadlay-xaaladda-puntland/",
-      "published_date": "2026-06-27T06:23:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Marks 66th Anniversary of June 26 Independence Day",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-marks-66th-anniversary-of-june-26-independence-day/",
-      "published_date": "2026-06-27T04:07:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge holds prosecutor in contempt in Charlie Kirk murder case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/us-judge-holds-prosecutor-in-contempt-in-charlie-kirk-murder-case?traffic_source=rss",
-      "published_date": "2026-06-26T23:14:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mistrial declared in federal arson case related to California wildfires",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/mistrial-declared-in-federal-arson-case-related-to-california-wildfires?traffic_source=rss",
-      "published_date": "2026-06-26T20:51:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel, Lebanon sign framework deal after US-mediated talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/israel-lebanon-sign-framework-deal-after-us-mediated-talks?traffic_source=rss",
-      "published_date": "2026-06-26T19:05:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Accedes to Fifteen International Maritime Conventions and Legal Instruments in a Historic Modernization of Its Maritime Legal Framework",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-accedes-to-fifteen-international-maritime-conventions-and-legal-instruments-in-a-historic-modernization-of-its-maritime-legal-framework/",
-      "published_date": "2026-06-26T14:20:47+00:00",
       "category": "Local Events"
     }
   ]
