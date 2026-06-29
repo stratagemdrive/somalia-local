@@ -1,8 +1,71 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-29T00:05:05.545740+00:00",
-  "story_count": 89,
+  "last_updated": "2026-06-29T14:49:44.491131+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Ra’iisul Wasaare Ku-xigeenka Soomaaliya oo beeniyay wararka sheegaya in Kenya ay masaafurisay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-ku-xigeenka-soomaaliya-oo-beeniyay-wararka-sheegaya-in-kenya-ay-masaafurisay/",
+      "published_date": "2026-06-29T14:20:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s deputy prime minister denies reports of deportation from Kenya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-deputy-prime-minister-denies-reports-of-deportation-from-kenya/",
+      "published_date": "2026-06-29T14:18:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump announces meeting with Iran in Qatar despite military skirmishes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/trump-announces-meeting-with-iran-in-qatar-despite-military-skirmishes?traffic_source=rss",
+      "published_date": "2026-06-29T14:12:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is the Israeli military deliberately targeting children in Gaza?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss",
+      "published_date": "2026-06-29T13:55:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
+      "published_date": "2026-06-29T12:51:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
+      "published_date": "2026-06-29T11:05:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
+      "published_date": "2026-06-29T09:58:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali president arrives in Ethiopia for talks with PM Abiy",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-arrives-in-ethiopia-for-talks-with-pm-abiy/",
+      "published_date": "2026-06-29T08:29:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland rejects Somalia president Hassan Sheikh Mohamud’s dialogue offer, says it seeks to undermine recognition efforts",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-rejects-hassan-sheikh-mohamud-dialogue-offer-recognition/",
+      "published_date": "2026-06-29T08:25:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US and Iran trade strikes days after peace agreement",
       "source": "Al Jazeera",
@@ -81,67 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
+      "title": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
-      "published_date": "2026-06-26T20:58:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/29/why-pakistans-afghan-air-strikes-arent-stopping-armed-attacks?traffic_source=rss",
+      "published_date": "2026-06-29T13:51:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "New synthetic drugs, cocaine and meth booming, warns UN",
+      "title": "Five killed in shooting at youth welfare centre in Germany’s Stade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/new-synthetic-drugs-cocaine-and-meth-booming-warns-un?traffic_source=rss",
-      "published_date": "2026-06-26T11:58:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/29/five-killed-in-shooting-at-youth-welfare-centre-in-germanys-stade?traffic_source=rss",
+      "published_date": "2026-06-29T13:05:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Safaaradda Soomaaliya ee Kenya oo Nairobi ku Qabatay Munaasabad Lagu Xusay 66-guurada Xorriyadda Gobollada Waqooyi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/safaaradda-soomaaliya-ee-kenya-oo-nairobi-ku-qabatay-munaasabad-lagu-xusay-66-guurada-xorriyadda-gobollada-waqooyi/",
-      "published_date": "2026-06-26T11:16:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali PM marks northern independence anniversary with call for unity and peace",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pm-marks-northern-independence-anniversary-with-call-for-unity-and-peace/",
-      "published_date": "2026-06-26T09:30:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia marks 66th anniversary of northern independence as president calls for unity",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-marks-66th-anniversary-of-northern-independence-as-president-calls-for-unity/",
-      "published_date": "2026-06-26T09:26:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN: Venezuela earthquakes will deepen already severe humanitarian crisis",
+      "title": "Israeli attack in Gaza kills three, including a child",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss",
-      "published_date": "2026-06-25T23:20:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
+      "published_date": "2026-06-29T12:02:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+      "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
-      "published_date": "2026-06-25T20:55:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
+      "published_date": "2026-06-29T09:58:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya’s Kandie gets seven-year ban for doping violations",
+      "title": "Australia and Vanuatu sign deal to block foreign military bases",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/25/kenyas-kandie-gets-seven-year-ban-for-doping-violations?traffic_source=rss",
-      "published_date": "2026-06-25T20:11:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukrainian attack on Crimea kills five, Russian officials say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
-      "published_date": "2026-06-25T17:12:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/29/australia-and-vanuatu-sign-deal-to-block-foreign-military-bases?traffic_source=rss",
+      "published_date": "2026-06-29T09:43:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-27T18:50:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three security personnel killed in attack in Pakistan’s Karachi",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
-      "published_date": "2026-06-27T17:04:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brother and sister killed in Israeli attack on Gaza ‘safe zone’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
-      "published_date": "2026-06-27T15:53:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
-      "published_date": "2026-06-27T15:40:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bodycam shows driver offering armed police a lift mid-chase",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss",
-      "published_date": "2026-06-27T14:40:11+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss",
@@ -345,6 +345,13 @@
       "url": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe?traffic_source=rss",
       "published_date": "2026-06-23T08:35:09+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "UK’s likely next leader Andy Burnham to unveil economic, devolution plans",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/uks-likely-next-leader-andy-burnham-to-unveil-economic-devolution-agenda?traffic_source=rss",
+      "published_date": "2026-06-29T08:35:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
@@ -466,25 +473,25 @@
       "category": "Economy"
     },
     {
-      "title": "National Communications Authority Convenes First Somalia Submarine Cable Technical Working Group Workshop",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/national-communications-authority-convenes-first-somalia-submarine-cable-technical-working-group-workshop/",
-      "published_date": "2026-06-22T13:24:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Vance’s warning to Israel signals a new phase in US-Israeli relations",
+      "title": "‘Erased from history’: A century on from Canada’s anti-Greek riots",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/22/vances-warning-to-israel-signals-a-new-phase-in-us-israeli-relations?traffic_source=rss",
-      "published_date": "2026-06-22T10:43:16+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/29/erased-from-history-a-century-on-from-canadas-anti-greek-riots?traffic_source=rss",
+      "published_date": "2026-06-29T09:47:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia Condemns Abuse of Young Woman After Video Circulates Online",
+      "title": "Southwest State leader opens Somalia humanitarian forum in Baidoa",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-abuse-of-young-woman-after-video-circulates-online/",
-      "published_date": "2026-06-22T08:14:42+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/southwest-state-leader-opens-somalia-humanitarian-forum-in-baidoa/",
+      "published_date": "2026-06-29T08:31:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia executes three Somali nationals convicted of hashish smuggling",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/saudi-arabia-executes-three-somali-nationals-convicted-of-hashish-smuggling/",
+      "published_date": "2026-06-29T08:25:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somaliland: Israel-Palestine Conflict Is a Territorial, Not Religious, Dispute",
@@ -512,6 +519,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
       "published_date": "2026-06-28T16:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia crisis: Defence minister Fiqi threatens opposition as ex-spy chief Sanbalolshe alleges Hassan Sheikh Mohamud ordered June 3 ‘killing plot’",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-crisis-fiqi-threatens-opposition-sanbalolshe-alleges-hassan-sheikh-mohamud-june-3-killing-plot/",
+      "published_date": "2026-06-28T13:40:59+00:00",
       "category": "Local Events"
     },
     {
@@ -596,34 +610,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/jsp-oo-musharrax-u-magacaabay-doorashada-galmudug/",
       "published_date": "2026-06-27T14:39:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Sends Disaster Officials to China for Flood Response Training",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-sends-disaster-officials-to-china-for-flood-response-training/",
-      "published_date": "2026-06-27T14:26:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wasiirka Gaashaandhigga XFS oo Beledweyne uga qeyb galay xuska 49-aad ee madaxbannaanida Jabuuti",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiirka-gaashaandhigga-xfs-oo-beledweyne-uga-qeyb-galay-xuska-49-aad-ee-madaxbannaanida-jabuuti/",
-      "published_date": "2026-06-27T14:21:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No school, living in a tent, but it’s exam time in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
-      "published_date": "2026-06-27T11:29:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia hit with EU visa restrictions as bloc pressures Mogadishu over migrant readmissions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/eu-visa-restrictions-somalia/",
-      "published_date": "2026-06-27T07:02:25+00:00",
       "category": "Local Events"
     }
   ]
