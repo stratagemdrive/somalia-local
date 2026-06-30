@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-29T14:49:44.491131+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-30T00:01:04.601617+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Burnham pledges devolution and discipline if he becomes UK prime minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/burnham-pledges-devolution-and-discipline-if-he-becomes-uk-prime-minister?traffic_source=rss",
+      "published_date": "2026-06-29T18:15:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK’s prime minister-in-waiting vows to shake up politics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/2026/6/29/uks-prime-minister-in-waiting-vows-to-shake-up-politics?traffic_source=rss",
+      "published_date": "2026-06-29T17:31:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ra’iisul Wasaare Ku-xigeenka Soomaaliya oo beeniyay wararka sheegaya in Kenya ay masaafurisay",
       "source": "Shabelle Media",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kenya deports Somalia’s second deputy prime minister over alleged passport fraud",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenya-deports-somalias-second-deputy-prime-minister-over-alleged-passport-fraud/",
-      "published_date": "2026-06-27T08:19:05+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+      "published_date": "2026-06-29T23:29:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
+      "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss",
-      "published_date": "2026-06-26T21:10:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
+      "published_date": "2026-06-29T16:15:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss",
-      "published_date": "2026-06-27T19:12:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "U.S. Fugitive Wanted in Major Fraud Case Arrested in Mogadishu",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/u-s-fugitive-wanted-in-major-fraud-case-arrested-in-mogadishu/",
-      "published_date": "2026-06-27T19:06:08+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss",
@@ -345,6 +345,13 @@
       "url": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe?traffic_source=rss",
       "published_date": "2026-06-23T08:35:09+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
+      "published_date": "2026-06-29T21:01:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK’s likely next leader Andy Burnham to unveil economic, devolution plans",
@@ -459,18 +466,32 @@
       "category": "Economy"
     },
     {
-      "title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
+      "title": "What’s behind the anti-corruption crackdown in Iraq?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
-      "published_date": "2026-06-22T20:47:55+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
+      "published_date": "2026-06-29T20:24:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100",
+      "title": "Can governments fix the global housing crisis?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/22/former-us-federal-reserve-chairman-alan-greenspan-dies-at-age-100?traffic_source=rss",
-      "published_date": "2026-06-22T15:12:01+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/29/can-governments-fix-the-global-housing-crisis?traffic_source=rss",
+      "published_date": "2026-06-29T18:03:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss",
+      "published_date": "2026-06-29T16:59:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland’s KAAH Party Criticizes Government’s Israel Policy",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalilands-kaah-party-criticizes-governments-israel-policy/",
+      "published_date": "2026-06-29T16:20:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Erased from history’: A century on from Canada’s anti-Greek riots",
@@ -582,34 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss",
       "published_date": "2026-06-27T19:05:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA Sends Delegation for Flood Response Training in China",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sodma-sends-delegation-for-flood-response-training-in-china/",
-      "published_date": "2026-06-27T16:15:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabalenka defends Wimbledon prize protest, says it’s for struggling players",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss",
-      "published_date": "2026-06-27T15:05:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo xariga ka jiray waddada halbowlaha ah ee Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/27/madaxweyne-deni-oo-xariga-ka-jiray-waddada-halbowlaha-ah-ee-garoowe/",
-      "published_date": "2026-06-27T15:05:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JSP oo Musharrax u magacaabay doorashada Galmudug",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jsp-oo-musharrax-u-magacaabay-doorashada-galmudug/",
-      "published_date": "2026-06-27T14:39:27+00:00",
       "category": "Local Events"
     }
   ]
