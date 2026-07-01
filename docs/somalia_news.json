@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-06-30T13:10:33.817041+00:00",
+  "last_updated": "2026-07-01T00:03:12.909553+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Cuba’s foreign minister observes ‘no progress’ in US negotiations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/cubas-foreign-minister-observes-no-progress-in-us-negotiations?traffic_source=rss",
+      "published_date": "2026-06-30T19:54:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia chairs meeting of African ambassadors in Cairo to strengthen continental cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-chairs-meeting-of-african-ambassadors-in-cairo-to-strengthen-continental-cooperation/",
+      "published_date": "2026-06-30T14:03:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "African Union, EU discuss support for Somalia security mission amid visa tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/african-union-eu-discuss-support-for-somalia-security-mission-amid-visa-tensions/",
+      "published_date": "2026-06-30T14:01:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Embassy urges calm as South Africa braces for anti-immigrant protests",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-embassy-urges-calm-as-south-africa-braces-for-anti-immigrant-protests/",
+      "published_date": "2026-06-30T13:48:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister Abiy Discusses Bilateral Ties with Somali President",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/prime-minister-abiy-discusses-bilateral-ties-with-somali-president/",
+      "published_date": "2026-06-30T12:01:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
       "source": "Al Jazeera",
@@ -109,45 +144,52 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia’s president names Ethiopia, Kenya and Djibouti as “missing parts” of greater Somalia – reviving a dream that once started a war",
+      "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
+      "published_date": "2026-06-30T20:03:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/evolution-under-fire-irans-axis-of-resistance-in-a-post-war-era?traffic_source=rss",
+      "published_date": "2026-06-30T20:00:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey’s f-16 jets kill Al-Shabaab militants in Somalia air strikes, defense ministry says",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-ethiopia-kenya-djibouti-missing-parts-greater-somalia/",
-      "published_date": "2026-06-28T11:21:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-f16-jets-kill-al-shabaab-militants-somalia/",
+      "published_date": "2026-06-30T14:52:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Between English and mother tongue: Kenya’s education language dilemma",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/28/between-english-and-mother-tongue-kenyas-education-language-dilemma?traffic_source=rss",
-      "published_date": "2026-06-28T05:24:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenya rights groups say protesters found dumped, tortured after arrests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
-      "published_date": "2026-06-27T18:46:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Defence Minister Hails Djibouti’s Role in Peace Efforts at Independence Anniversary",
+      "title": "Somalia says Turkish F-16 airstrike kills 35 al-Shabab fighters",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-defence-minister-hails-djiboutis-role-in-peace-efforts-at-independence-anniversary/",
-      "published_date": "2026-06-27T14:24:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalia-says-turkish-f-16-airstrike-kills-35-al-shabab-fighters/",
+      "published_date": "2026-06-30T13:59:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, WHO Discuss Stronger Health Cooperation at Dubrovnik Forum",
+      "title": "Ciidanka Xoogga Dalka Soomaaliyeed oo Duqeyn Ka Fuliyay Shabeellaha Hoose",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-who-discuss-stronger-health-cooperation-at-dubrovnik-forum/",
-      "published_date": "2026-06-27T11:39:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/ciidanka-xoogga-dalka-soomaaliyeed-oo-duqeyn-ka-fuliyay-shabeellaha-hoose/",
+      "published_date": "2026-06-30T13:53:33+00:00",
+      "category": "Military"
     },
     {
       "title": "South Africa deploys police as anti-immigrant protests prompt fears",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/30/south-africa-deploys-police-as-anti-immigrant-protests-prompt-fears?traffic_source=rss",
       "published_date": "2026-06-30T12:04:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 3 people killed in flash floods in Ghana",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/at-least-3-people-killed-in-flash-floods-in-ghana/",
+      "published_date": "2026-06-30T11:18:45+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iraq arrests senior officials in anti-corruption raids",
+      "title": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss",
-      "published_date": "2026-06-28T15:19:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three firefighters killed in US wildfires along Colorado–Utah border",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss",
-      "published_date": "2026-06-28T15:16:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uganda’s military chief orders shutdown of two media outlets",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/28/ugandas-military-chief-orders-shutdown-of-two-media-outlets?traffic_source=rss",
-      "published_date": "2026-06-28T11:08:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq security forces arrest several officials in anticorruption crackdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
-      "published_date": "2026-06-28T10:05:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Army Chief Visits Elite Forces Base, Urges Troops to Intensify Operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-army-chief-visits-elite-forces-base-urges-troops-to-intensify-operations/",
-      "published_date": "2026-06-28T08:38:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polls open in New Caledonia’s first provincial elections since 2019",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/28/polls-open-in-new-caledonias-first-provincial-elections-since-2019?traffic_source=rss",
-      "published_date": "2026-06-28T07:12:10+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss",
+      "published_date": "2026-06-30T19:29:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
@@ -330,13 +337,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/24/what-does-pakistan-stand-to-gain-from-helping-broker-the-us-iran-deal?traffic_source=rss",
       "published_date": "2026-06-24T12:59:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Massive fire rips through Indonesia sandal factory",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/massive-fire-rips-through-indonesia-sandal-factory?traffic_source=rss",
-      "published_date": "2026-06-23T21:14:16+00:00",
       "category": "Energy"
     },
     {
@@ -466,6 +466,62 @@
       "category": "Economy"
     },
     {
+      "title": "Garoowe: Puntland oo si weyn u xustay 1-da Luulyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/01/garoowe-puntland-oo-si-weyn-u-xustay-1-da-luulyo/",
+      "published_date": "2026-06-30T23:15:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is birthright citizenship, and what does the Supreme Court ruling say?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/what-is-birthright-citizenship-and-what-does-the-supreme-court-ruling-say?traffic_source=rss",
+      "published_date": "2026-06-30T21:30:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 30 students remain missing after Nigeria school attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/more-than-30-students-remain-missing-after-nigeria-school-attack?traffic_source=rss",
+      "published_date": "2026-06-30T20:55:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescuers find more bodies under rubble as Venezuela death toll rises",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss",
+      "published_date": "2026-06-30T20:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German heatwave melts tram tracks, triggers travel disruptions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/german-heatwave-melts-tram-tracks-triggers-travel-disruptions?traffic_source=rss",
+      "published_date": "2026-06-30T19:51:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Healthcare situation in DR Congo improves amidst Ebola crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/healthcare-situation-in-dr-congo-improves-amidst-ebola-crisis?traffic_source=rss",
+      "published_date": "2026-06-30T19:31:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Birthright citizenship ruling: US officials, lawmakers and advocates react",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/birthright-citizenship-ruling-us-officials-lawmakers-and-advocates-react?traffic_source=rss",
+      "published_date": "2026-06-30T19:11:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo kulan la qaatay madaxda hay’adaha garsoorka Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/06/30/madaxweyne-deni-oo-kulan-la-qaatay-madaxda-hayadaha-garsoorka-puntland/",
+      "published_date": "2026-06-30T13:59:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/6/30/gojek-co-founder-nadiem-makarim-sentenced-to-10-years-for-corruption?traffic_source=rss",
@@ -547,62 +603,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somaliland-israel-palestine-conflict-is-a-territorial-not-religious-dispute/",
       "published_date": "2026-06-28T21:22:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza’s displaced families face worsening living conditions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gazas-displaced-families-face-worsening-living-conditions?traffic_source=rss",
-      "published_date": "2026-06-28T19:43:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss",
-      "published_date": "2026-06-28T16:38:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss",
-      "published_date": "2026-06-28T16:32:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia crisis: Defence minister Fiqi threatens opposition as ex-spy chief Sanbalolshe alleges Hassan Sheikh Mohamud ordered June 3 ‘killing plot’",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-crisis-fiqi-threatens-opposition-sanbalolshe-alleges-hassan-sheikh-mohamud-june-3-killing-plot/",
-      "published_date": "2026-06-28T13:40:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo wax ka baddelaysa tirada goleyaasha deegaanka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/28/puntland-oo-wax-ka-baddelaysa-tirada-goleyaasha-deegaanka/",
-      "published_date": "2026-06-28T13:34:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s ruling party picks candidate for Galmudug leadership election",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-ruling-party-picks-candidate-for-galmudug-leadership-election/",
-      "published_date": "2026-06-28T09:01:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central African Republic declares cholera outbreak",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/central-african-republic-declares-cholera-outbreak/",
-      "published_date": "2026-06-28T07:25:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NISA Chief Urges End to Clan Clashes During Visit to Central Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nisa-chief-urges-end-to-clan-clashes-during-visit-to-central-somalia/",
-      "published_date": "2026-06-28T07:21:08+00:00",
       "category": "Local Events"
     }
   ]
