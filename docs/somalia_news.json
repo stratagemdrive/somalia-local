@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-01T00:03:12.909553+00:00",
-  "story_count": 86,
+  "last_updated": "2026-07-01T13:35:59.483258+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "UN Human Rights Council to hold urgent meeting on Sudan crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/un-human-rights-council-to-hold-urgent-meeting-on-sudan-crisis?traffic_source=rss",
+      "published_date": "2026-07-01T12:26:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Possibilist | Ep 8",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/making-peace/2026/7/1/the-possibilist-ep-8?traffic_source=rss",
+      "published_date": "2026-07-01T09:05:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali PM Hamza Abdi Barre calls for unity on 66th Independence Day",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-hamza-abdi-barre-calls-for-unity-on-66th-independence-day/",
+      "published_date": "2026-07-01T08:55:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia marks 66th anniversary of independence and unification",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-marks-66th-anniversary-of-independence-and-unification/",
+      "published_date": "2026-07-01T08:53:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Africa can finally mine, beneficiate and industrialise on its own terms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/1/africa-can-finally-mine-beneficiate-and-industrialise-on-its-own-terms?traffic_source=rss",
+      "published_date": "2026-07-01T07:40:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cuba’s foreign minister observes ‘no progress’ in US negotiations",
       "source": "Al Jazeera",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
+      "title": "Man charged after arson attack on Islamic centre in Dublin",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
-      "published_date": "2026-06-29T09:58:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/man-charged-after-arson-attack-on-islamic-centre-in-dublin?traffic_source=rss",
+      "published_date": "2026-07-01T13:05:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali president arrives in Ethiopia for talks with PM Abiy",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-arrives-in-ethiopia-for-talks-with-pm-abiy/",
-      "published_date": "2026-06-29T08:29:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somaliland rejects Somalia president Hassan Sheikh Mohamud’s dialogue offer, says it seeks to undermine recognition efforts",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-rejects-hassan-sheikh-mohamud-dialogue-offer-recognition/",
-      "published_date": "2026-06-29T08:25:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Iran trade strikes days after peace agreement",
+      "title": "Who is Vadym Yermolaiev, the Ukrainian tycoon injured in Monaco blast?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
-      "published_date": "2026-06-28T18:55:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/1/who-is-vadym-yermolaiev-the-ukrainian-tycoon-injured-in-monaco-blast?traffic_source=rss",
+      "published_date": "2026-07-01T12:15:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia inaugurates renovated women’s mental health unit in Mogadishu",
+      "title": "At least 6 killed in fire at apartment block in Belgium’s Antwerp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/several-killed-in-fire-at-apartment-block-in-belgiums-antwerp?traffic_source=rss",
+      "published_date": "2026-07-01T12:02:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two UK police officers face misconduct probe in Henry Nowak murder case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/two-uk-police-officers-face-misconduct-probe-in-henry-nowak-murder-case?traffic_source=rss",
+      "published_date": "2026-07-01T11:34:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Lebanon-Israel agreement is paving the way for the next war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
+      "published_date": "2026-07-01T08:03:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan says it intercepted four drones fired from Afghanistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/pakistan-says-it-intercepted-four-drones-fired-from-afghanistan?traffic_source=rss",
+      "published_date": "2026-07-01T07:55:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Farmaajo oo shacabka Soomaaliyeed ugu hambalyeeyay 66-guurada aas-aaska Jamhuuriyadda Soomaaliya",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-inaugurates-renovated-womens-mental-health-unit-in-mogadishu/",
-      "published_date": "2026-06-28T13:59:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/farmaajo-oo-shacabka-soomaaliyeed-ugu-hambalyeeyay-66-guurada-aas-aaska-jamhuuriyadda-soomaaliya/",
+      "published_date": "2026-07-01T06:06:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
+      "published_date": "2026-07-01T05:56:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
+      "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/why-pakistans-afghan-air-strikes-arent-stopping-armed-attacks?traffic_source=rss",
-      "published_date": "2026-06-29T13:51:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five killed in shooting at youth welfare centre in Germany’s Stade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/five-killed-in-shooting-at-youth-welfare-centre-in-germanys-stade?traffic_source=rss",
-      "published_date": "2026-06-29T13:05:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack in Gaza kills three, including a child",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-      "published_date": "2026-06-29T12:02:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
-      "published_date": "2026-06-29T09:58:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia and Vanuatu sign deal to block foreign military bases",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/australia-and-vanuatu-sign-deal-to-block-foreign-military-bases?traffic_source=rss",
-      "published_date": "2026-06-29T09:43:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss",
-      "published_date": "2026-06-28T21:55:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can the ICJ help end the war in the eastern DRC?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/28/can-the-icj-help-end-the-war-in-the-eastern-drc?traffic_source=rss",
-      "published_date": "2026-06-28T19:24:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
-      "published_date": "2026-06-28T18:05:18+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
+      "published_date": "2026-07-01T09:38:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
@@ -330,13 +337,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
       "published_date": "2026-06-25T08:49:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "What does Pakistan stand to gain from helping broker the US-Iran deal?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/what-does-pakistan-stand-to-gain-from-helping-broker-the-us-iran-deal?traffic_source=rss",
-      "published_date": "2026-06-24T12:59:19+00:00",
       "category": "Energy"
     },
     {
@@ -445,25 +445,32 @@
       "category": "Economy"
     },
     {
-      "title": "Four Gaza aid flotilla activists released from Libya detention",
+      "title": "US Supreme Court upholds birthright citizenship: Who wins, who loses?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss",
-      "published_date": "2026-06-24T09:39:49+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-upholds-birthright-citizenship-who-wins-who-loses?traffic_source=rss",
+      "published_date": "2026-07-01T12:24:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia Signs Contract for Key Road Studies Linking Central Regions to Indian Ocean Coast",
+      "title": "Golaha Mustaqbalka Soomaaliyeed oo ka digay fargelinta dowlada ee Puntland",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-signs-contract-for-key-road-studies-linking-central-regions-to-indian-ocean-coast/",
-      "published_date": "2026-06-24T09:27:37+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/golaha-mustaqbalka-soomaaliyeed-oo-ka-digay-fargelinta-dowlada-ee-puntland/",
+      "published_date": "2026-07-01T12:06:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "South Africa’s crises will not be solved by blaming migrants",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/24/south-africas-crises-will-not-be-solved-by-blaming-migrants?traffic_source=rss",
-      "published_date": "2026-06-24T09:22:45+00:00",
-      "category": "Economy"
+      "title": "Former Somali president urges unity on Independence Day",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-president-urges-unity-on-independence-day/",
+      "published_date": "2026-07-01T08:57:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SoDMA chief visits Baidoa region district to assess humanitarian needs",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-chief-visits-baidoa-region-district-to-assess-humanitarian-needs/",
+      "published_date": "2026-07-01T06:58:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Garoowe: Puntland oo si weyn u xustay 1-da Luulyo",
@@ -575,34 +582,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somalilands-kaah-party-criticizes-governments-israel-policy/",
       "published_date": "2026-06-29T16:20:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Erased from history’: A century on from Canada’s anti-Greek riots",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/erased-from-history-a-century-on-from-canadas-anti-greek-riots?traffic_source=rss",
-      "published_date": "2026-06-29T09:47:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southwest State leader opens Somalia humanitarian forum in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/southwest-state-leader-opens-somalia-humanitarian-forum-in-baidoa/",
-      "published_date": "2026-06-29T08:31:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia executes three Somali nationals convicted of hashish smuggling",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/saudi-arabia-executes-three-somali-nationals-convicted-of-hashish-smuggling/",
-      "published_date": "2026-06-29T08:25:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland: Israel-Palestine Conflict Is a Territorial, Not Religious, Dispute",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-israel-palestine-conflict-is-a-territorial-not-religious-dispute/",
-      "published_date": "2026-06-28T21:22:32+00:00",
       "category": "Local Events"
     }
   ]
