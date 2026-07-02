@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-02T00:04:11.098186+00:00",
-  "story_count": 84,
+  "last_updated": "2026-07-02T13:00:55.677423+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "An extra 229,000 deaths: Is that the cost of US-UK drugs deal?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/an-extra-229000-deaths-is-that-the-cost-of-us-uk-drugs-deal?traffic_source=rss",
+      "published_date": "2026-07-02T10:22:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran talks in Doha: What were the outcomes and what’s next?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss",
+      "published_date": "2026-07-02T09:06:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says?traffic_source=rss",
+      "published_date": "2026-07-02T05:40:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
       "source": "Al Jazeera",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Burnham pledges devolution and discipline if he becomes UK prime minister",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/burnham-pledges-devolution-and-discipline-if-he-becomes-uk-prime-minister?traffic_source=rss",
-      "published_date": "2026-06-29T18:15:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK’s prime minister-in-waiting vows to shake up politics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/6/29/uks-prime-minister-in-waiting-vows-to-shake-up-politics?traffic_source=rss",
-      "published_date": "2026-06-29T17:31:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ra’iisul Wasaare Ku-xigeenka Soomaaliya oo beeniyay wararka sheegaya in Kenya ay masaafurisay",
+      "title": "Mareykanka oo taageerada AUSSOM u joojinaya fashilka dagaalka Al-Shabaab iyo horumar la’aanta amniga Soomaaliya",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaare-ku-xigeenka-soomaaliya-oo-beeniyay-wararka-sheegaya-in-kenya-ay-masaafurisay/",
-      "published_date": "2026-06-29T14:20:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/mareykanka-oo-taageerada-aussom-u-joojinaya-fashilka-dagaalka-al-shabaab-iyo-horumar-laaanta-amniga-soomaaliya/",
+      "published_date": "2026-07-02T11:16:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eight Thai monks killed after child drives truck into procession",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss",
+      "published_date": "2026-07-02T10:04:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia’s 2026 security impasse: The geography of an unwinnable war",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-impasse-2026/",
+      "published_date": "2026-07-02T09:13:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia flexes military muscles on independence day parade",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-flexes-military-muscles-on-independence-day-parade/",
+      "published_date": "2026-07-02T06:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Somalia says Turkish F-16 airstrike kills 35 al-Shabab fighters",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-says-turkish-f-16-airstrike-kills-35-al-shabab-fighters/",
-      "published_date": "2026-06-30T13:59:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Xoogga Dalka Soomaaliyeed oo Duqeyn Ka Fuliyay Shabeellaha Hoose",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-xoogga-dalka-soomaaliyeed-oo-duqeyn-ka-fuliyay-shabeellaha-hoose/",
-      "published_date": "2026-06-30T13:53:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Africa deploys police as anti-immigrant protests prompt fears",
+      "title": "‘The crisis is deep’: The view from Russia as fuel shortages worsen",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/south-africa-deploys-police-as-anti-immigrant-protests-prompt-fears?traffic_source=rss",
-      "published_date": "2026-06-30T12:04:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 3 people killed in flash floods in Ghana",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/at-least-3-people-killed-in-flash-floods-in-ghana/",
-      "published_date": "2026-06-30T11:18:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss",
+      "published_date": "2026-07-02T08:06:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
@@ -333,11 +340,11 @@
       "category": "Energy"
     },
     {
-      "title": "Iran warns against Hormuz crossings without authorisation",
+      "title": "German coalition agrees on sweeping reform package in key breakthrough",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
-      "published_date": "2026-06-25T08:49:36+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough?traffic_source=rss",
+      "published_date": "2026-07-02T10:46:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
@@ -438,18 +445,46 @@
       "category": "Economy"
     },
     {
-      "title": "US says Iran will buy its goods: What could US-Iran trade look like?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like?traffic_source=rss",
-      "published_date": "2026-06-25T09:43:12+00:00",
-      "category": "Economy"
+      "title": "Puntland: Gabadh wariye ah oo lagu xiray Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/02/puntland-gabadh-wariye-ah-oo-lagu-xiray-garoowe/",
+      "published_date": "2026-07-02T10:42:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Hantidhowraha Guud ee JFS oo Kulan la Qaatay Wakiillo ka Socday Shirkadda Albayrak-Somalia",
+      "title": "Two reported killed, dozens hurt in hospital fire in Germany",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/two-reported-killed-dozens-hurt-in-hospital-fire-in-germany?traffic_source=rss",
+      "published_date": "2026-07-02T08:36:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland foreign ministry website hacked hours after cabinet approves Israel cooperation deal",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-foreign-ministry-website-hacked-israel-deal/",
+      "published_date": "2026-07-02T08:08:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo shirarka mucaaradka ka mamnuucday gobolka Mudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/02/puntland-oo-shirarka-mucaaradka-ka-mamnuucday-gobolka-mudug/",
+      "published_date": "2026-07-02T07:38:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dab xoogan oo ka kacay Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/02/dab-xoogan-oo-ka-kacay-boosaaso/",
+      "published_date": "2026-07-02T07:19:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Shops Hit by Anti-Foreign Unrest in South Africa",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hantidhowraha-guud-ee-jfs-oo-kulan-la-qaatay-wakiillo-ka-socday-shirkadda-albayrak-somalia/",
-      "published_date": "2026-06-25T08:48:56+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somali-shops-hit-by-anti-foreign-unrest-in-south-africa/",
+      "published_date": "2026-07-02T02:30:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Couple arrested after daring Empire State marriage proposal stunt",
@@ -547,48 +582,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/01/garoowe-puntland-oo-si-weyn-u-xustay-1-da-luulyo/",
       "published_date": "2026-06-30T23:15:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is birthright citizenship, and what does the Supreme Court ruling say?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/what-is-birthright-citizenship-and-what-does-the-supreme-court-ruling-say?traffic_source=rss",
-      "published_date": "2026-06-30T21:30:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 30 students remain missing after Nigeria school attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/more-than-30-students-remain-missing-after-nigeria-school-attack?traffic_source=rss",
-      "published_date": "2026-06-30T20:55:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescuers find more bodies under rubble as Venezuela death toll rises",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss",
-      "published_date": "2026-06-30T20:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German heatwave melts tram tracks, triggers travel disruptions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/german-heatwave-melts-tram-tracks-triggers-travel-disruptions?traffic_source=rss",
-      "published_date": "2026-06-30T19:51:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Healthcare situation in DR Congo improves amidst Ebola crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/healthcare-situation-in-dr-congo-improves-amidst-ebola-crisis?traffic_source=rss",
-      "published_date": "2026-06-30T19:31:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Birthright citizenship ruling: US officials, lawmakers and advocates react",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/birthright-citizenship-ruling-us-officials-lawmakers-and-advocates-react?traffic_source=rss",
-      "published_date": "2026-06-30T19:11:29+00:00",
       "category": "Local Events"
     }
   ]
