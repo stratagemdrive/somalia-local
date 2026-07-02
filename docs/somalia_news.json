@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-01T13:35:59.483258+00:00",
-  "story_count": 83,
+  "last_updated": "2026-07-02T00:04:11.098186+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
+      "published_date": "2026-07-01T21:09:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
+      "published_date": "2026-07-01T20:55:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli opposition signal foreign policy change in style, but not substance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss",
+      "published_date": "2026-07-01T20:14:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Iran talks expose the collapse of US diplomacy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
+      "published_date": "2026-07-01T17:05:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia marks 66th Independence Day amid tight security and political divisions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-66th-independence-day-tight-security-political-divisions/",
+      "published_date": "2026-07-01T16:17:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN Human Rights Council to hold urgent meeting on Sudan crisis",
       "source": "Al Jazeera",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia’s deputy prime minister denies reports of deportation from Kenya",
+      "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+      "published_date": "2026-07-01T19:29:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
+      "published_date": "2026-07-01T17:39:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
+      "published_date": "2026-07-01T17:36:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What military capabilities does Iran possess as it negotiates with US?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
+      "published_date": "2026-07-01T17:19:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US reaffirms support for Somalia on 66th National Day",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-deputy-prime-minister-denies-reports-of-deportation-from-kenya/",
-      "published_date": "2026-06-29T14:18:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump announces meeting with Iran in Qatar despite military skirmishes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/trump-announces-meeting-with-iran-in-qatar-despite-military-skirmishes?traffic_source=rss",
-      "published_date": "2026-06-29T14:12:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is the Israeli military deliberately targeting children in Gaza?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-29T13:55:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
-      "published_date": "2026-06-29T12:51:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
-      "published_date": "2026-06-29T11:05:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/us-reaffirms-support-for-somalia-on-66th-national-day/",
+      "published_date": "2026-07-01T14:24:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Man charged after arson attack on Islamic centre in Dublin",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Man in Gaza survives double tap Israeli strike on vehicle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
-      "published_date": "2026-06-30T10:09:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
-      "published_date": "2026-06-30T09:10:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At the World Cup, the media has set up a moral checkpoint",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/30/at-the-world-cup-the-media-has-set-up-a-moral-checkpoint?traffic_source=rss",
-      "published_date": "2026-06-30T07:49:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-      "published_date": "2026-06-29T23:29:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
-      "published_date": "2026-06-29T16:15:35+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
@@ -338,6 +338,13 @@
       "url": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
       "published_date": "2026-06-25T08:49:36+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
+      "published_date": "2026-07-01T18:42:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "EU gets tough on China as trade imbalance stokes deindustrialisation fears",
@@ -445,6 +452,69 @@
       "category": "Economy"
     },
     {
+      "title": "Couple arrested after daring Empire State marriage proposal stunt",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss",
+      "published_date": "2026-07-01T23:03:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
+      "published_date": "2026-07-01T21:45:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court hands wealthy donors more sway with latest decision",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
+      "published_date": "2026-07-01T21:04:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian couple arrested after climbing Empire State Building",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss",
+      "published_date": "2026-07-01T20:54:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "State of emergency: Bolivia’s currency plummets as anger simmers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/state-of-emergency-bolivias-currency-plummets-as-anger-simmers?traffic_source=rss",
+      "published_date": "2026-07-01T20:44:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
+      "published_date": "2026-07-01T20:26:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seven more sentenced over Texas ICE detention centre shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/seven-more-sentenced-over-texas-ice-detention-centre-shooting?traffic_source=rss",
+      "published_date": "2026-07-01T19:41:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali opposition group urges dialogue, warns against interference in Puntland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-opposition-group-urges-dialogue-warns-against-interference-in-puntland/",
+      "published_date": "2026-07-01T14:26:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suldaan Garaase oo ka hadlay xaaladda Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/01/suldaan-garaase-oo-ka-hadlay-xaaladda-puntland/",
+      "published_date": "2026-07-01T13:51:53+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "US Supreme Court upholds birthright citizenship: Who wins, who loses?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-upholds-birthright-citizenship-who-wins-who-loses?traffic_source=rss",
@@ -519,69 +589,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/30/birthright-citizenship-ruling-us-officials-lawmakers-and-advocates-react?traffic_source=rss",
       "published_date": "2026-06-30T19:11:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo kulan la qaatay madaxda hay’adaha garsoorka Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/06/30/madaxweyne-deni-oo-kulan-la-qaatay-madaxda-hayadaha-garsoorka-puntland/",
-      "published_date": "2026-06-30T13:59:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/30/gojek-co-founder-nadiem-makarim-sentenced-to-10-years-for-corruption?traffic_source=rss",
-      "published_date": "2026-06-30T11:19:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court hands Trump 3-1 defeat in key rulings: What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-hands-trump-3-1-defeat-in-key-rulings-what-we-know?traffic_source=rss",
-      "published_date": "2026-06-30T10:22:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia election crisis: International partners launch final bid for government-opposition talks",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-election-crisis-international-partners-talks/",
-      "published_date": "2026-06-30T09:43:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to know about the Colorado primary elections in the US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/what-to-know-about-the-colorado-primary-elections-in-the-us?traffic_source=rss",
-      "published_date": "2026-06-30T08:28:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What’s behind the anti-corruption crackdown in Iraq?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
-      "published_date": "2026-06-29T20:24:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can governments fix the global housing crisis?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/29/can-governments-fix-the-global-housing-crisis?traffic_source=rss",
-      "published_date": "2026-06-29T18:03:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss",
-      "published_date": "2026-06-29T16:59:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland’s KAAH Party Criticizes Government’s Israel Policy",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalilands-kaah-party-criticizes-governments-israel-policy/",
-      "published_date": "2026-06-29T16:20:22+00:00",
       "category": "Local Events"
     }
   ]
