@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-02T13:00:55.677423+00:00",
-  "story_count": 83,
+  "last_updated": "2026-07-03T00:02:57.061693+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Could water become a flashpoint between Islamabad and New Delhi?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
+      "published_date": "2026-07-02T21:01:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump administration renews pressure on International Criminal Court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-renews-pressure-on-international-criminal-court?traffic_source=rss",
+      "published_date": "2026-07-02T19:39:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US to end UN logistics support for AU mission in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/us-to-end-un-logistics-support-for-au-mission-in-somalia/",
+      "published_date": "2026-07-02T17:09:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "U.S. to End Funding for UN and AU Mission in Somalia After 2026",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/u-s-to-end-funding-for-au-mission-in-somalia-after-2026/",
+      "published_date": "2026-07-02T16:03:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia marks 66th Independence anniversary with celebration in South Sudan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-marks-66th-independence-anniversary-with-celebration-in-south-sudan/",
+      "published_date": "2026-07-02T15:29:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "An extra 229,000 deaths: Is that the cost of US-UK drugs deal?",
       "source": "Al Jazeera",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "African Union, EU discuss support for Somalia security mission amid visa tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-eu-discuss-support-for-somalia-security-mission-amid-visa-tensions/",
-      "published_date": "2026-06-30T14:01:17+00:00",
-      "category": "Diplomacy"
+      "title": "Axmed Madoobe oo la kulmay Suldaan Garaase",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/03/axmed-madoobe-oo-la-kulmay-suldaan-garaase/",
+      "published_date": "2026-07-02T23:02:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Embassy urges calm as South Africa braces for anti-immigrant protests",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-embassy-urges-calm-as-south-africa-braces-for-anti-immigrant-protests/",
-      "published_date": "2026-06-30T13:48:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prime Minister Abiy Discusses Bilateral Ties with Somali President",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/prime-minister-abiy-discusses-bilateral-ties-with-somali-president/",
-      "published_date": "2026-06-30T12:01:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
+      "title": "Nine Buddhist monks killed by child driving truck in Thailand",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
-      "published_date": "2026-06-30T11:57:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/nine-buddhist-monks-killed-by-child-driving-truck-in-thailand?traffic_source=rss",
+      "published_date": "2026-07-02T19:31:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "How each prime minister broke Britain’s economy",
+      "title": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss",
-      "published_date": "2026-06-30T07:52:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss",
+      "published_date": "2026-07-02T18:59:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK’s likely next PM Andy Burnham faces defence funding gap",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/uk-leader-hopeful-andy-burnham-faces-defence-funding-gap?traffic_source=rss",
+      "published_date": "2026-07-02T18:59:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
+      "published_date": "2026-07-02T17:36:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
+      "published_date": "2026-07-02T17:34:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
+      "published_date": "2026-07-02T17:22:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Mareykanka oo taageerada AUSSOM u joojinaya fashilka dagaalka Al-Shabaab iyo horumar la’aanta amniga Soomaaliya",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "The Lebanon-Israel agreement is paving the way for the next war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
-      "published_date": "2026-07-01T08:03:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says it intercepted four drones fired from Afghanistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/pakistan-says-it-intercepted-four-drones-fired-from-afghanistan?traffic_source=rss",
-      "published_date": "2026-07-01T07:55:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Farmaajo oo shacabka Soomaaliyeed ugu hambalyeeyay 66-guurada aas-aaska Jamhuuriyadda Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/farmaajo-oo-shacabka-soomaaliyeed-ugu-hambalyeeyay-66-guurada-aas-aaska-jamhuuriyadda-soomaaliya/",
-      "published_date": "2026-07-01T06:06:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
-      "published_date": "2026-07-01T05:56:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
-      "published_date": "2026-06-30T20:03:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/evolution-under-fire-irans-axis-of-resistance-in-a-post-war-era?traffic_source=rss",
-      "published_date": "2026-06-30T20:00:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey’s f-16 jets kill Al-Shabaab militants in Somalia air strikes, defense ministry says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-f16-jets-kill-al-shabaab-militants-somalia/",
-      "published_date": "2026-06-30T14:52:52+00:00",
-      "category": "Military"
-    },
-    {
       "title": "‘The crisis is deep’: The view from Russia as fuel shortages worsen",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss",
@@ -338,6 +338,27 @@
       "url": "https://www.aljazeera.com/opinions/2026/6/26/can-europes-historic-cities-survive-a-warming-climate?traffic_source=rss",
       "published_date": "2026-06-26T11:06:57+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
+      "published_date": "2026-07-02T20:34:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump administration aims to cut regulations on US commercial fishing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
+      "published_date": "2026-07-02T20:20:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
+      "published_date": "2026-07-02T18:12:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "German coalition agrees on sweeping reform package in key breakthrough",
@@ -438,11 +459,25 @@
       "category": "Economy"
     },
     {
-      "title": "Economic losses mount as Venezuela earthquake death toll grows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss",
-      "published_date": "2026-06-25T21:12:00+00:00",
-      "category": "Economy"
+      "title": "Northeastern State of Somalia Strengthens Tax Collection and Governance as New Federal Member State",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/02/northeastern-state-of-somalia-strengthens-tax-collection-and-governance-as-new-federal-member-state/",
+      "published_date": "2026-07-02T18:48:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Cabinet Approves Cooperation Agreement with Israel",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-cabinet-approves-cooperation-agreement-with-israel/",
+      "published_date": "2026-07-02T16:51:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muuse Biixi oo dhowr arrimood ku dhaliilay Cabdiraxmaan Cirro",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/02/muuse-biixi-oo-dhowr-arrimood-ku-dhaliilay-cabdiraxmaan-cirro/",
+      "published_date": "2026-07-02T16:45:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland: Gabadh wariye ah oo lagu xiray Garoowe",
@@ -561,27 +596,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/golaha-mustaqbalka-soomaaliyeed-oo-ka-digay-fargelinta-dowlada-ee-puntland/",
       "published_date": "2026-07-01T12:06:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Somali president urges unity on Independence Day",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-president-urges-unity-on-independence-day/",
-      "published_date": "2026-07-01T08:57:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA chief visits Baidoa region district to assess humanitarian needs",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sodma-chief-visits-baidoa-region-district-to-assess-humanitarian-needs/",
-      "published_date": "2026-07-01T06:58:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garoowe: Puntland oo si weyn u xustay 1-da Luulyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/01/garoowe-puntland-oo-si-weyn-u-xustay-1-da-luulyo/",
-      "published_date": "2026-06-30T23:15:23+00:00",
       "category": "Local Events"
     }
   ]
