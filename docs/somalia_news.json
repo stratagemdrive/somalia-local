@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-03T13:00:26.982212+00:00",
-  "story_count": 80,
+  "last_updated": "2026-07-04T00:02:04.853671+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Saudi deputy foreign minister pays respects at Khamenei funeral",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/saudi-deputy-foreign-minister-pays-respects-at-khamenei-funeral?traffic_source=rss",
+      "published_date": "2026-07-03T18:54:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Opposition Party Kulmiye Backs Somaliland’s Recognition and Embassy in Jerusalem",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/opposition-party-kulmiye-backs-somalilands-recognition-and-embassy-in-jerusalem/",
+      "published_date": "2026-07-03T17:31:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "African Union Holds Emergency Meeting After US Moves to End Funding for Somalia Mission",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/african-union-holds-emergency-meeting-after-us-moves-to-end-funding-for-somalia-mission/",
+      "published_date": "2026-07-03T16:42:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Warns of Intensifying El Niño as Extreme Weather Risks Rise",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-warns-of-intensifying-el-nino-as-extreme-weather-risks-rise/",
+      "published_date": "2026-07-03T13:10:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali President Meets Italian Interior Minister to Boost Bilateral Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-meets-italian-interior-minister-to-boost-bilateral-cooperation/",
+      "published_date": "2026-07-03T13:08:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali PM Urges National Unity at End of Independence Week Celebrations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-urges-national-unity-at-end-of-independence-week-celebrations/",
+      "published_date": "2026-07-03T13:05:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid",
       "source": "Al Jazeera",
@@ -102,46 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Iran talks expose the collapse of US diplomacy",
+      "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
-      "published_date": "2026-07-01T17:05:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
+      "published_date": "2026-07-03T22:20:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia marks 66th Independence Day amid tight security and political divisions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-66th-independence-day-tight-security-political-divisions/",
-      "published_date": "2026-07-01T16:17:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN Human Rights Council to hold urgent meeting on Sudan crisis",
+      "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/un-human-rights-council-to-hold-urgent-meeting-on-sudan-crisis?traffic_source=rss",
-      "published_date": "2026-07-01T12:26:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
+      "published_date": "2026-07-03T19:27:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Possibilist | Ep 8",
+      "title": "Settlers attack activists, Palestinians trying to access their land",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/making-peace/2026/7/1/the-possibilist-ep-8?traffic_source=rss",
-      "published_date": "2026-07-01T09:05:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss",
+      "published_date": "2026-07-03T19:13:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali PM Hamza Abdi Barre calls for unity on 66th Independence Day",
+      "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+      "published_date": "2026-07-03T18:39:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan bus crash kills 40",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss",
+      "published_date": "2026-07-03T17:44:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burkina Faso, Mali and Niger Begin Formal Withdrawal From ICC",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pm-hamza-abdi-barre-calls-for-unity-on-66th-independence-day/",
-      "published_date": "2026-07-01T08:55:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia marks 66th anniversary of independence and unification",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-marks-66th-anniversary-of-independence-and-unification/",
-      "published_date": "2026-07-01T08:53:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/burkina-faso-mali-and-niger-begin-formal-withdrawal-from-icc/",
+      "published_date": "2026-07-03T13:15:05+00:00",
+      "category": "Military"
     },
     {
       "title": "US Police staff spark altercation with Egyptian players posing with fans",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
+      "title": "Massive wildfire spreads in Portugal amid extreme heat and strong wind",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
-      "published_date": "2026-07-01T17:39:02+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/massive-wildfire-spreads-in-portugal-amid-extreme-heat-and-strong-wind?traffic_source=rss",
+      "published_date": "2026-07-03T21:01:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
+      "title": "US heatwave raises alarms over AI data centre energy demands",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
-      "published_date": "2026-07-01T17:36:09+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands?traffic_source=rss",
+      "published_date": "2026-07-03T19:48:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "What military capabilities does Iran possess as it negotiates with US?",
+      "title": "Heavy rain floods Mumbai during intense monsoon spell",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
-      "published_date": "2026-07-01T17:19:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US reaffirms support for Somalia on 66th National Day",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-reaffirms-support-for-somalia-on-66th-national-day/",
-      "published_date": "2026-07-01T14:24:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man charged after arson attack on Islamic centre in Dublin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/man-charged-after-arson-attack-on-islamic-centre-in-dublin?traffic_source=rss",
-      "published_date": "2026-07-01T13:05:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is Vadym Yermolaiev, the Ukrainian tycoon injured in Monaco blast?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/who-is-vadym-yermolaiev-the-ukrainian-tycoon-injured-in-monaco-blast?traffic_source=rss",
-      "published_date": "2026-07-01T12:15:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss",
+      "published_date": "2026-07-03T16:27:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "What is Nayara, the Indian firm Russia is reportedly importing oil from?",
@@ -410,18 +431,11 @@
       "category": "Economy"
     },
     {
-      "title": "How much disaster aid will the US provide to Venezuela?",
+      "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss",
-      "published_date": "2026-06-26T19:41:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump threatens tariffs for countries that levy digital tax on US firms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/trump-threatens-tariffs-for-countries-that-levy-digital-tax-on-us-firms?traffic_source=rss",
-      "published_date": "2026-06-26T19:38:20+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
+      "published_date": "2026-07-03T21:32:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Argentina fans flood Miami for Cape Verde match",
@@ -554,13 +568,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss",
       "published_date": "2026-07-01T23:03:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
-      "published_date": "2026-07-01T21:45:58+00:00",
       "category": "Local Events"
     }
   ]
