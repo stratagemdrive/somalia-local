@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-04T00:02:04.853671+00:00",
-  "story_count": 81,
+  "last_updated": "2026-07-04T12:10:06.410330+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "AU peacekeeping mission in Somalia at risk of collapse as US ends key UN support",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/au-peacekeeping-mission-somalia-us-ends-un-support/",
+      "published_date": "2026-07-04T08:22:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali diaspora celebrates 2026 Heritage Week in Canada’s Alberta province",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-diaspora-celebrates-2026-heritage-week-in-canadas-alberta-province/",
+      "published_date": "2026-07-04T06:52:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
+      "published_date": "2026-07-04T02:28:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi deputy foreign minister pays respects at Khamenei funeral",
       "source": "Al Jazeera",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
-      "published_date": "2026-07-01T21:09:15+00:00",
-      "category": "Diplomacy"
+      "title": "Wasiir Cali Balcad oo ka jawaabay warbixin sheegtay in Al-Shabaab guulo waaweyn gaartay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiir-cali-balcad-oo-ka-jawaabay-warbixin-sheegtay-in-al-shabaab-guulo-waaweyn-gaartay/",
+      "published_date": "2026-07-04T10:31:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-      "published_date": "2026-07-01T20:55:04+00:00",
-      "category": "Diplomacy"
+      "title": "Somalia condemns deadly Damascus cafe bombing, backs Syria",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-condemns-deadly-damascus-cafe-bombing-backs-syria/",
+      "published_date": "2026-07-04T09:50:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli opposition signal foreign policy change in style, but not substance",
+      "title": "Mali’s army says rebels launch new attacks on towns and cities",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss",
-      "published_date": "2026-07-01T20:14:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss",
+      "published_date": "2026-07-04T09:14:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump praises army, rails against communism in US 250th anniversary speech",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss",
+      "published_date": "2026-07-04T07:19:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Soomaaliya oo si kulul u cambaareysay qaraxii argagixiso ee ka dhacay Suuriya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-si-kulul-u-cambaareysay-qaraxii-argagixiso-ee-ka-dhacay-suuriya/",
+      "published_date": "2026-07-04T06:10:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could Israel really build settlements in Gaza?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-04T05:41:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+      "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
-      "published_date": "2026-07-02T17:22:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mareykanka oo taageerada AUSSOM u joojinaya fashilka dagaalka Al-Shabaab iyo horumar la’aanta amniga Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mareykanka-oo-taageerada-aussom-u-joojinaya-fashilka-dagaalka-al-shabaab-iyo-horumar-laaanta-amniga-soomaaliya/",
-      "published_date": "2026-07-02T11:16:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eight Thai monks killed after child drives truck into procession",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss",
-      "published_date": "2026-07-02T10:04:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s 2026 security impasse: The geography of an unwinnable war",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-impasse-2026/",
-      "published_date": "2026-07-02T09:13:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia flexes military muscles on independence day parade",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-flexes-military-muscles-on-independence-day-parade/",
-      "published_date": "2026-07-02T06:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
-      "published_date": "2026-07-01T19:29:52+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
+      "published_date": "2026-07-04T10:29:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Massive wildfire spreads in Portugal amid extreme heat and strong wind",
@@ -410,25 +417,39 @@
       "category": "Economy"
     },
     {
-      "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+      "title": "Thousands protest in Germany as far-right AfD party meets",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
-      "published_date": "2026-06-27T10:32:24+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss",
+      "published_date": "2026-07-04T11:18:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FBI-da Mareykanka iyo hay’adaha Soomaaliya oo Muqdisho ku qabtay eedeysane musuqmaasuq lagu raadinayay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/fbi-da-mareykanka-iyo-hayadaha-soomaaliya-oo-muqdisho-ku-qabtay-eedeysane-musuqmaasuq-lagu-raadinayay/",
-      "published_date": "2026-06-27T07:27:12+00:00",
-      "category": "Economy"
+      "title": "Puntland Waa Inay Xuquuqdeeda Ka Doonato Dowladda Federaalka Soomaaliya",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/04/puntland-waa-inay-xuquuqdeeda-ka-doonato-dowladda-federaalka-soomaaliya/",
+      "published_date": "2026-07-04T10:38:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
-      "published_date": "2026-06-27T07:00:13+00:00",
-      "category": "Economy"
+      "title": "Madaxweyne Deni oo xil ka qaadis sameeyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/04/madaxweyne-deni-oo-xil-ka-qaadis-sameeyay/",
+      "published_date": "2026-07-04T10:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxay salka ku haysaa ciidamada laga qorayo Puntland?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/04/maxay-salka-ku-haysaa-ciidamada-laga-qorayo-puntland/",
+      "published_date": "2026-07-04T08:07:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo la wareegtay ciidan beeleed",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/04/puntland-oo-la-wareegtay-ciidan-beeleed/",
+      "published_date": "2026-07-04T05:54:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
@@ -533,41 +554,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/2/two-reported-killed-dozens-hurt-in-hospital-fire-in-germany?traffic_source=rss",
       "published_date": "2026-07-02T08:36:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland foreign ministry website hacked hours after cabinet approves Israel cooperation deal",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-foreign-ministry-website-hacked-israel-deal/",
-      "published_date": "2026-07-02T08:08:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo shirarka mucaaradka ka mamnuucday gobolka Mudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/02/puntland-oo-shirarka-mucaaradka-ka-mamnuucday-gobolka-mudug/",
-      "published_date": "2026-07-02T07:38:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dab xoogan oo ka kacay Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/02/dab-xoogan-oo-ka-kacay-boosaaso/",
-      "published_date": "2026-07-02T07:19:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Shops Hit by Anti-Foreign Unrest in South Africa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-shops-hit-by-anti-foreign-unrest-in-south-africa/",
-      "published_date": "2026-07-02T02:30:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Couple arrested after daring Empire State marriage proposal stunt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss",
-      "published_date": "2026-07-01T23:03:58+00:00",
       "category": "Local Events"
     }
   ]
