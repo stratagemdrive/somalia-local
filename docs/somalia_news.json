@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-04T12:10:06.410330+00:00",
+  "last_updated": "2026-07-04T23:59:20.237412+00:00",
   "story_count": 79,
   "stories": [
+    {
+      "title": "Somalia: Labour Ministry Director General Implicated in Corruption Scandal as Calls for Accountability Grow",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/labour-ministry-director-general-implicated-in-corruption-scandal-as-calls-for-accountability-grow/",
+      "published_date": "2026-07-04T13:41:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "AU peacekeeping mission in Somalia at risk of collapse as US ends key UN support",
       "source": "Somali Guardian",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
+      "title": "ICG: Somalia’s War Against Al-Shabaab Has Reached a Stalemate",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/icg-somalias-war-against-al-shabaab-has-reached-a-stalemate/",
+      "published_date": "2026-07-04T19:32:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police clash with protesters outside AfD meeting",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says?traffic_source=rss",
-      "published_date": "2026-07-02T05:40:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss",
+      "published_date": "2026-07-04T17:13:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-04T16:23:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Shabaab patrols Mogadishu outskirts at night as Somalia’s government touts improved security",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-mogadishu-outskirts-night-patrols-somalia-security/",
+      "published_date": "2026-07-04T16:12:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Wasiir Cali Balcad oo ka jawaabay warbixin sheegtay in Al-Shabaab guulo waaweyn gaartay",
@@ -162,6 +190,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss",
       "published_date": "2026-07-04T09:14:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia rejects ICG report claiming Al-Shabaab territorial gains, calls assessment ‘unfair’",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-rejects-icg-report-claiming-al-shabaab-territorial-gains-calls-assessment-unfair/",
+      "published_date": "2026-07-04T08:11:37+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Nine Buddhist monks killed by child driving truck in Thailand",
+      "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/nine-buddhist-monks-killed-by-child-driving-truck-in-thailand?traffic_source=rss",
-      "published_date": "2026-07-02T19:31:48+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+      "published_date": "2026-07-04T19:19:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
+      "title": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss",
-      "published_date": "2026-07-02T18:59:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK’s likely next PM Andy Burnham faces defence funding gap",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/uk-leader-hopeful-andy-burnham-faces-defence-funding-gap?traffic_source=rss",
-      "published_date": "2026-07-02T18:59:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
-      "published_date": "2026-07-02T17:36:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
-      "published_date": "2026-07-02T17:34:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss",
+      "published_date": "2026-07-04T13:38:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
@@ -337,20 +351,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss",
       "published_date": "2026-06-30T19:29:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss",
-      "published_date": "2026-06-27T17:05:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "With water cuts looming in Arizona in US, locals fight data centres",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
-      "published_date": "2026-06-27T15:11:37+00:00",
       "category": "Energy"
     },
     {
@@ -415,6 +415,13 @@
       "url": "https://www.aljazeera.com/news/2026/6/29/uks-likely-next-leader-andy-burnham-to-unveil-economic-devolution-agenda?traffic_source=rss",
       "published_date": "2026-06-29T08:35:54+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Somaliland Introduces New Rules Restricting Media Activities to Licensed Journalists",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-introduces-new-rules-restricting-media-activities-to-licensed-journalists/",
+      "published_date": "2026-07-04T19:46:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands protest in Germany as far-right AfD party meets",
@@ -547,13 +554,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/02/puntland-gabadh-wariye-ah-oo-lagu-xiray-garoowe/",
       "published_date": "2026-07-02T10:42:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two reported killed, dozens hurt in hospital fire in Germany",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/two-reported-killed-dozens-hurt-in-hospital-fire-in-germany?traffic_source=rss",
-      "published_date": "2026-07-02T08:36:50+00:00",
       "category": "Local Events"
     }
   ]
