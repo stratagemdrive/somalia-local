@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-04T23:59:20.237412+00:00",
+  "last_updated": "2026-07-05T12:20:52.405258+00:00",
   "story_count": 79,
   "stories": [
+    {
+      "title": "Somalia’s president meets Somali-American mayor, urges stronger U.S. ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-meets-somali-american-mayor-urges-stronger-u-s-ties/",
+      "published_date": "2026-07-05T08:15:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
+      "published_date": "2026-07-05T08:09:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia: Labour Ministry Director General Implicated in Corruption Scandal as Calls for Accountability Grow",
       "source": "Shabelle Media",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "An extra 229,000 deaths: Is that the cost of US-UK drugs deal?",
+      "title": "Indonesian army recovers US pilot’s body from Papua",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/an-extra-229000-deaths-is-that-the-cost-of-us-uk-drugs-deal?traffic_source=rss",
-      "published_date": "2026-07-02T10:22:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/indonesian-army-recovers-us-pilots-body-from-papua?traffic_source=rss",
+      "published_date": "2026-07-05T12:00:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "US-Iran talks in Doha: What were the outcomes and what’s next?",
+      "title": "Trump praises US military as it marks 250 years of independence",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss",
-      "published_date": "2026-07-02T09:06:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss",
+      "published_date": "2026-07-05T11:06:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Federaalka Soomaaliya oo Kumanaan Ciidan Kusoo Bandhigtay Degmada Ceeldheer",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/dowladda-federaalka-soomaaliya-oo-kumanaan-ciidan-kusoo-bandhigtay-degmada-ceeldheer/",
+      "published_date": "2026-07-05T10:52:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
+      "published_date": "2026-07-05T08:06:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Howlgal ka dhacay Shabeellaha Hoose oo lagu beegsaday xubno ka tirsanaa Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/howlgal-ka-dhacay-shabeellaha-hoose-oo-lagu-beegsaday-xubno-ka-tirsanaa-al-shabaab/",
+      "published_date": "2026-07-05T06:16:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NISA oo sheegtay in howlgal ka dhacay Shabeellaha Dhexe ku dishay xubno ka tirsanaa Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nisa-oo-sheegtay-in-howlgal-ka-dhacay-shabeellaha-dhexe-ku-dishay-xubno-ka-tirsanaa-al-shabaab/",
+      "published_date": "2026-07-05T06:09:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "This immigrant served in the US military. Now he faces deportation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
+      "published_date": "2026-07-05T00:49:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
+      "published_date": "2026-07-05T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "ICG: Somalia’s War Against Al-Shabaab Has Reached a Stalemate",
@@ -225,62 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
       "published_date": "2026-07-03T22:20:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-      "published_date": "2026-07-03T19:27:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Settlers attack activists, Palestinians trying to access their land",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss",
-      "published_date": "2026-07-03T19:13:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-      "published_date": "2026-07-03T18:39:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan bus crash kills 40",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss",
-      "published_date": "2026-07-03T17:44:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burkina Faso, Mali and Niger Begin Formal Withdrawal From ICC",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/burkina-faso-mali-and-niger-begin-formal-withdrawal-from-icc/",
-      "published_date": "2026-07-03T13:15:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Police staff spark altercation with Egyptian players posing with fans",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/us-police-staff-spark-altercation-with-egyptian-players-posing-with-fans?traffic_source=rss",
-      "published_date": "2026-07-03T10:13:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five killed in Ukraine a day after deadliest Russian attacks this year",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss",
-      "published_date": "2026-07-03T09:26:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Axmed Madoobe oo la kulmay Suldaan Garaase",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/03/axmed-madoobe-oo-la-kulmay-suldaan-garaase/",
-      "published_date": "2026-07-02T23:02:35+00:00",
       "category": "Military"
     },
     {
@@ -417,6 +417,34 @@
       "category": "Economy"
     },
     {
+      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+      "published_date": "2026-07-05T11:24:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dowladda Puntland oo Caddeysay Mawqifkeeda Maamulka Khayraadka Deegaanka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/dowladda-puntland-oo-caddeysay-mawqifkeeda-maamulka-khayraadka-deegaanka/",
+      "published_date": "2026-07-05T10:11:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka hortimid in ay xeebaheeda ka howlgasho SOMTURK",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/05/puntland-oo-ka-hortimid-in-ay-xeebaheeda-ka-howlgasho-somturk/",
+      "published_date": "2026-07-05T09:20:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taliye Muumin oo magacaabis sameeyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/05/taliye-muumin-oo-magacaabis-sameeyay-3/",
+      "published_date": "2026-07-04T23:46:21+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Somaliland Introduces New Rules Restricting Media Activities to Licensed Journalists",
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somaliland-introduces-new-rules-restricting-media-activities-to-licensed-journalists/",
@@ -526,34 +554,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/03/xamse-oo-si-kulul-ugu-jawaabay-deni/",
       "published_date": "2026-07-02T23:54:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northeastern State of Somalia Strengthens Tax Collection and Governance as New Federal Member State",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/02/northeastern-state-of-somalia-strengthens-tax-collection-and-governance-as-new-federal-member-state/",
-      "published_date": "2026-07-02T18:48:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Cabinet Approves Cooperation Agreement with Israel",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-cabinet-approves-cooperation-agreement-with-israel/",
-      "published_date": "2026-07-02T16:51:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muuse Biixi oo dhowr arrimood ku dhaliilay Cabdiraxmaan Cirro",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/02/muuse-biixi-oo-dhowr-arrimood-ku-dhaliilay-cabdiraxmaan-cirro/",
-      "published_date": "2026-07-02T16:45:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Gabadh wariye ah oo lagu xiray Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/02/puntland-gabadh-wariye-ah-oo-lagu-xiray-garoowe/",
-      "published_date": "2026-07-02T10:42:24+00:00",
       "category": "Local Events"
     }
   ]
