@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-06T00:01:58.397749+00:00",
-  "story_count": 81,
+  "last_updated": "2026-07-06T14:30:47.220101+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Large-scale Russian attack on Ukraine before NATO summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
+      "published_date": "2026-07-06T12:55:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher?traffic_source=rss",
+      "published_date": "2026-07-06T12:21:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkiye gears up for its first NATO summit in 22 years",
       "source": "Al Jazeera",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "$500m for Trump, access for Pakistan: How a crypto-diplomatic bet paid off",
+      "title": "Israeli attack on vehicle in Lebanon kills at least four",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off?traffic_source=rss",
-      "published_date": "2026-07-03T08:41:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four?traffic_source=rss",
+      "published_date": "2026-07-06T14:22:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Could water become a flashpoint between Islamabad and New Delhi?",
+      "title": "The pitfalls of institutionalising US military aid to Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
-      "published_date": "2026-07-02T21:01:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/7/6/the-pitfalls-of-institutionalising-us-military-aid-to-israel?traffic_source=rss",
+      "published_date": "2026-07-06T14:13:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Baby dies after Israeli troops block emergency journey to hospital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss",
+      "published_date": "2026-07-06T13:13:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Refugees killed in landslides at Rohingya camps in Bangladesh",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss",
+      "published_date": "2026-07-06T13:07:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A report warns Somalia security deteriorating amid political divisions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/a-report-warns-somalia-security-deteriorating-amid-political-divisions/",
+      "published_date": "2026-07-06T13:02:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue?traffic_source=rss",
+      "published_date": "2026-07-06T12:15:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inmates and guards killed in deadly fighting at Sri Lanka prison",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/inmates-and-guards-killed-in-deadly-fighting-at-sri-lanka-prison?traffic_source=rss",
+      "published_date": "2026-07-06T10:29:33+00:00",
+      "category": "Military"
     },
     {
       "title": "8 injured, including 4 children, in New York City Fourth of July shooting",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Al-Shabaab patrols Mogadishu outskirts at night as Somalia’s government touts improved security",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-mogadishu-outskirts-night-patrols-somalia-security/",
-      "published_date": "2026-07-04T16:12:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wasiir Cali Balcad oo ka jawaabay warbixin sheegtay in Al-Shabaab guulo waaweyn gaartay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiir-cali-balcad-oo-ka-jawaabay-warbixin-sheegtay-in-al-shabaab-guulo-waaweyn-gaartay/",
-      "published_date": "2026-07-04T10:31:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia condemns deadly Damascus cafe bombing, backs Syria",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-deadly-damascus-cafe-bombing-backs-syria/",
-      "published_date": "2026-07-04T09:50:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali’s army says rebels launch new attacks on towns and cities",
+      "title": "The World Cup must pay its carbon bill",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss",
-      "published_date": "2026-07-04T09:14:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia rejects ICG report claiming Al-Shabaab territorial gains, calls assessment ‘unfair’",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-rejects-icg-report-claiming-al-shabaab-territorial-gains-calls-assessment-unfair/",
-      "published_date": "2026-07-04T08:11:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump praises army, rails against communism in US 250th anniversary speech",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss",
-      "published_date": "2026-07-04T07:19:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya oo si kulul u cambaareysay qaraxii argagixiso ee ka dhacay Suuriya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-si-kulul-u-cambaareysay-qaraxii-argagixiso-ee-ka-dhacay-suuriya/",
-      "published_date": "2026-07-04T06:10:37+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/7/6/the-world-cup-must-pay-its-carbon-bill?traffic_source=rss",
+      "published_date": "2026-07-06T12:48:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
@@ -361,6 +368,13 @@
       "category": "Energy"
     },
     {
+      "title": "Mogadishu Port chief visits Seattle to strengthen institutional cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/mogadishu-port-chief-visits-seattle-to-strengthen-institutional-cooperation/",
+      "published_date": "2026-07-06T05:54:56+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Puntland Says Turkish Fishing Companies Need Its Approval, not the Feds to Operate",
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/puntland-says-turkish-fishing-companies-need-its-approval-to-operate/",
@@ -424,11 +438,46 @@
       "category": "Economy"
     },
     {
-      "title": "UK’s likely next leader Andy Burnham to unveil economic, devolution plans",
+      "title": "Hamas announces dissolution of Gaza governing body",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/uks-likely-next-leader-andy-burnham-to-unveil-economic-devolution-agenda?traffic_source=rss",
-      "published_date": "2026-06-29T08:35:54+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss",
+      "published_date": "2026-07-06T13:36:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali president arrives in Baidoa for South West State leadership inauguration",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-arrives-in-baidoa-for-south-west-state-leadership-inauguration/",
+      "published_date": "2026-07-06T11:34:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s intelligence agency arrests two suspects over illegal weapons",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-intelligence-agency-arrests-two-suspects-over-illegal-weapons/",
+      "published_date": "2026-07-06T11:31:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo xilka qaadis cusub sameeyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/06/madaxweyne-deni-oo-xilka-qaadis-cusub-sameeyay/",
+      "published_date": "2026-07-06T11:21:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Impeachment trial of Philippine Vice President Sara Duterte begins",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/impeachment-trial-of-philippine-vice-president-sara-duterte-begins?traffic_source=rss",
+      "published_date": "2026-07-06T10:27:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s president slams Israel as an ‘evil’, war-mongering state",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-slams-israel-evil-war-mongering-state/",
+      "published_date": "2026-07-06T09:52:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
@@ -526,48 +575,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss",
       "published_date": "2026-07-04T11:18:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland Waa Inay Xuquuqdeeda Ka Doonato Dowladda Federaalka Soomaaliya",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/04/puntland-waa-inay-xuquuqdeeda-ka-doonato-dowladda-federaalka-soomaaliya/",
-      "published_date": "2026-07-04T10:38:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo xil ka qaadis sameeyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/04/madaxweyne-deni-oo-xil-ka-qaadis-sameeyay/",
-      "published_date": "2026-07-04T10:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxay salka ku haysaa ciidamada laga qorayo Puntland?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/04/maxay-salka-ku-haysaa-ciidamada-laga-qorayo-puntland/",
-      "published_date": "2026-07-04T08:07:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo la wareegtay ciidan beeleed",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/04/puntland-oo-la-wareegtay-ciidan-beeleed/",
-      "published_date": "2026-07-04T05:54:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
-      "published_date": "2026-07-03T21:32:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina fans flood Miami for Cape Verde match",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/argentina-fans-flood-miami-for-cape-verde-match?traffic_source=rss",
-      "published_date": "2026-07-03T12:03:00+00:00",
       "category": "Local Events"
     }
   ]
