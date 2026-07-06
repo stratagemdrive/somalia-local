@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-05T12:20:52.405258+00:00",
-  "story_count": 79,
+  "last_updated": "2026-07-06T00:01:58.397749+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Turkiye gears up for its first NATO summit in 22 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss",
+      "published_date": "2026-07-05T21:42:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali foreign minister bids farewell to departing EU ambassador",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-foreign-minister-bids-farewell-to-departing-eu-ambassador/",
+      "published_date": "2026-07-05T16:22:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia: Puntland bans Turkish fishing firm SOMTURK",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-bans-turkish-fishing-firm-somturk/",
+      "published_date": "2026-07-05T14:57:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey’s new Somalia spaceport doubles as missile range, threatening Israel",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/turkeys-new-somalia-spaceport-doubles-as-missile-range-threatening-israel/",
+      "published_date": "2026-07-05T13:01:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia’s president meets Somali-American mayor, urges stronger U.S. ties",
       "source": "Shabelle Media",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump administration renews pressure on International Criminal Court",
+      "title": "8 injured, including 4 children, in New York City Fourth of July shooting",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-renews-pressure-on-international-criminal-court?traffic_source=rss",
-      "published_date": "2026-07-02T19:39:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/8-injured-including-4-children-in-new-york-city-fourth-of-july-shooting?traffic_source=rss",
+      "published_date": "2026-07-05T20:16:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "US to end UN logistics support for AU mission in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-to-end-un-logistics-support-for-au-mission-in-somalia/",
-      "published_date": "2026-07-02T17:09:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "U.S. to End Funding for UN and AU Mission in Somalia After 2026",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/u-s-to-end-funding-for-au-mission-in-somalia-after-2026/",
-      "published_date": "2026-07-02T16:03:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia marks 66th Independence anniversary with celebration in South Sudan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-marks-66th-independence-anniversary-with-celebration-in-south-sudan/",
-      "published_date": "2026-07-02T15:29:41+00:00",
-      "category": "Diplomacy"
+      "title": "50 Houthi fighters killed in renewed clashes in Yemen",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss",
+      "published_date": "2026-07-05T16:59:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Indonesian army recovers US pilot’s body from Papua",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Could Israel really build settlements in Gaza?",
+      "title": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-      "published_date": "2026-07-04T05:41:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
-      "published_date": "2026-07-03T22:20:04+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss",
+      "published_date": "2026-07-05T16:54:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
@@ -354,6 +361,13 @@
       "category": "Energy"
     },
     {
+      "title": "Puntland Says Turkish Fishing Companies Need Its Approval, not the Feds to Operate",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-says-turkish-fishing-companies-need-its-approval-to-operate/",
+      "published_date": "2026-07-05T19:26:36+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
@@ -415,6 +429,62 @@
       "url": "https://www.aljazeera.com/news/2026/6/29/uks-likely-next-leader-andy-burnham-to-unveil-economic-devolution-agenda?traffic_source=rss",
       "published_date": "2026-06-29T08:35:54+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
+      "published_date": "2026-07-05T20:50:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How will the rise of right-wing populism affect Latin America?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/5/how-will-the-rise-of-right-wing-populism-affect-latin-america?traffic_source=rss",
+      "published_date": "2026-07-05T20:34:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Volunteers vow to keep searching for Venezuela earthquake survivors",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/volunteers-vow-to-keep-searching-for-venezuela-earthquake-survivors?traffic_source=rss",
+      "published_date": "2026-07-05T20:06:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka?traffic_source=rss",
+      "published_date": "2026-07-05T19:06:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss",
+      "published_date": "2026-07-05T18:40:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is the religious and political messaging behind Khamenei’s funeral?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/what-is-the-religious-and-political-messaging-behind-khameneis-funeral?traffic_source=rss",
+      "published_date": "2026-07-05T16:42:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland rejects federal role in approving resource deals",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-rejects-federal-role-in-approving-resource-deals/",
+      "published_date": "2026-07-05T16:21:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SoDMA Launches First Phase of Food Distribution",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-launches-first-phase-of-food-distribution/",
+      "published_date": "2026-07-05T16:10:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
@@ -498,62 +568,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/argentina-fans-flood-miami-for-cape-verde-match?traffic_source=rss",
       "published_date": "2026-07-03T12:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/mourners-pay-respects-as-irans-slain-leader-ali-khamenei-laid-in-state?traffic_source=rss",
-      "published_date": "2026-07-03T12:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An AIDS-free generation is within reach, but not guaranteed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/3/an-aids-free-generation-is-within-reach-but-not-guaranteed?traffic_source=rss",
-      "published_date": "2026-07-03T11:28:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moldova’s prime minister quits, triggering government’s resignation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/moldovas-prime-minister-quits-triggering-governments-resignation?traffic_source=rss",
-      "published_date": "2026-07-03T10:45:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Juxaa: Deni-yow wadatashi geli Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/03/juxaa-deni-yow-wadatashi-geli-puntland/",
-      "published_date": "2026-07-03T10:44:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How New York’s ‘Little Egypt’ celebrates the World Cup",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/how-new-yorks-little-egypt-celebrates-the-world-cup?traffic_source=rss",
-      "published_date": "2026-07-03T08:04:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Khamenei funeral: Which world leaders are attending?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending?traffic_source=rss",
-      "published_date": "2026-07-03T08:04:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven pro-Palestine protesters convicted of misdemeanour charges in US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/seven-pro-palestine-protesters-convicted-of-misdemeanour-charges-in-us?traffic_source=rss",
-      "published_date": "2026-07-03T08:01:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xamse oo si kulul ugu jawaabay Deni",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/03/xamse-oo-si-kulul-ugu-jawaabay-deni/",
-      "published_date": "2026-07-02T23:54:29+00:00",
       "category": "Local Events"
     }
   ]
