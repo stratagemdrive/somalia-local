@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-07T13:23:20.616210+00:00",
-  "story_count": 81,
+  "last_updated": "2026-07-07T23:54:49.218589+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Federal Government, Future Council, and International Mediators Launch High-Level Political Talks in Mogadishu",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/federal-government-future-council-and-international-mediators-launch-high-level-political-talks-in-mogadishu/",
+      "published_date": "2026-07-07T19:02:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopian Foreign Affairs Institute: Somaliland’s Recognition Debate Shifting Toward “Operational Recognition”",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/ethiopian-foreign-affairs-institute-somalilands-recognition-debate-shifting-toward-operational-recognition/",
+      "published_date": "2026-07-07T18:52:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
       "source": "Al Jazeera",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN Warns of Intensifying El Niño as Extreme Weather Risks Rise",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-warns-of-intensifying-el-nino-as-extreme-weather-risks-rise/",
-      "published_date": "2026-07-03T13:10:25+00:00",
-      "category": "Diplomacy"
+      "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+      "published_date": "2026-07-07T22:53:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali President Meets Italian Interior Minister to Boost Bilateral Cooperation",
+      "title": "Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying?traffic_source=rss",
+      "published_date": "2026-07-07T20:27:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye?traffic_source=rss",
+      "published_date": "2026-07-07T20:08:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly  landslide buries tunnel construction site in India",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/deadly-landslide-buries-tunnel-construction-site-in-india?traffic_source=rss",
+      "published_date": "2026-07-07T19:55:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump criticises NATO allies over Iran conflict support",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trump-criticises-nato-allies-over-iran-conflict-support?traffic_source=rss",
+      "published_date": "2026-07-07T19:16:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
+      "published_date": "2026-07-07T17:23:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia’s defence minister visits troops on front lines in Middle Shabelle region",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-meets-italian-interior-minister-to-boost-bilateral-cooperation/",
-      "published_date": "2026-07-03T13:08:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalias-defence-minister-visits-troops-on-front-lines-in-shabelle-dhexe-region/",
+      "published_date": "2026-07-07T14:21:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Somali Defense Minister Says Only Two Parties Compete for Somalia: Al-Shabaab and JSP",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli attack on vehicle in Lebanon kills at least four",
+      "title": "Tornadoes kill 17 in central China as Typhoon Bavi looms offshore",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four?traffic_source=rss",
-      "published_date": "2026-07-06T14:22:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The pitfalls of institutionalising US military aid to Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/6/the-pitfalls-of-institutionalising-us-military-aid-to-israel?traffic_source=rss",
-      "published_date": "2026-07-06T14:13:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Baby dies after Israeli troops block emergency journey to hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss",
-      "published_date": "2026-07-06T13:13:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Refugees killed in landslides at Rohingya camps in Bangladesh",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss",
-      "published_date": "2026-07-06T13:07:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A report warns Somalia security deteriorating amid political divisions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/a-report-warns-somalia-security-deteriorating-amid-political-divisions/",
-      "published_date": "2026-07-06T13:02:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue?traffic_source=rss",
-      "published_date": "2026-07-06T12:15:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inmates and guards killed in deadly fighting at Sri Lanka prison",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/inmates-and-guards-killed-in-deadly-fighting-at-sri-lanka-prison?traffic_source=rss",
-      "published_date": "2026-07-06T10:29:33+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/7/tornadoes-kill-17-in-central-china-as-typhoon-bavi-looms-offshore?traffic_source=rss",
+      "published_date": "2026-07-07T17:56:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukrainian drones hit Russian fuel tankers",
@@ -368,11 +375,11 @@
       "category": "Energy"
     },
     {
-      "title": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
+      "title": "South Africans line up for jobs after exodus of foreign workers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss",
-      "published_date": "2026-06-30T19:29:43+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/south-africans-line-up-for-jobs-after-exodus-of-foreign-workers?traffic_source=rss",
+      "published_date": "2026-07-07T17:11:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Survivors and bodies still being pulled from rubble days after twin quakes",
@@ -429,6 +436,34 @@
       "url": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
       "published_date": "2026-07-01T18:42:31+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "How Nimco Ali’s 2023 Laascaanood Comments Tested UK Charity Governance",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/08/how-nimco-alis-2023-laascaanood-comments-tested-uk-charity-governance/",
+      "published_date": "2026-07-07T21:15:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s Marine Le Pen must wear ankle tag after appeal ruling",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/frances-marine-le-pen-must-wear-ankle-tag-after-appeal-ruling?traffic_source=rss",
+      "published_date": "2026-07-07T18:38:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right leader Le Pen says will run in 2027 presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/french-far-right-leader-le-pen-says-will-run-in-2027-presidential-election?traffic_source=rss",
+      "published_date": "2026-07-07T18:17:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey holds Somalia government-opposition pre-talks as Puntland, Jubaland boycott ahead of key negotiations",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-somalia-opposition-talks-puntland-jubaland-boycott/",
+      "published_date": "2026-07-07T17:24:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France appeals court opens door for Le Pen presidential run, with ankle tag",
@@ -540,34 +575,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/06/boris-johnsons-ex-adviser-loses-somaliland-libel-case/",
       "published_date": "2026-07-06T15:39:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamas announces dissolution of Gaza governing body",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss",
-      "published_date": "2026-07-06T13:36:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali president arrives in Baidoa for South West State leadership inauguration",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-arrives-in-baidoa-for-south-west-state-leadership-inauguration/",
-      "published_date": "2026-07-06T11:34:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s intelligence agency arrests two suspects over illegal weapons",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-intelligence-agency-arrests-two-suspects-over-illegal-weapons/",
-      "published_date": "2026-07-06T11:31:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo xilka qaadis cusub sameeyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/06/madaxweyne-deni-oo-xilka-qaadis-cusub-sameeyay/",
-      "published_date": "2026-07-06T11:21:35+00:00",
       "category": "Local Events"
     }
   ]
