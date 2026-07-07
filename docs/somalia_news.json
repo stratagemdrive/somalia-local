@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-07T00:04:50.768241+00:00",
-  "story_count": 82,
+  "last_updated": "2026-07-07T13:23:20.616210+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
+      "published_date": "2026-07-07T06:12:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali, Saudi foreign ministers discuss bilateral ties and maritime security",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-saudi-foreign-ministers-discuss-bilateral-ties-and-maritime-security/",
+      "published_date": "2026-07-07T05:43:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
       "source": "Al Jazeera",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali PM Urges National Unity at End of Independence Week Celebrations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pm-urges-national-unity-at-end-of-independence-week-celebrations/",
-      "published_date": "2026-07-03T13:05:54+00:00",
-      "category": "Diplomacy"
+      "title": "Somali Defense Minister Says Only Two Parties Compete for Somalia: Al-Shabaab and JSP",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-defense-minister-al-shabaab-jsp-parties/",
+      "published_date": "2026-07-07T11:50:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid",
+      "title": "After Iran war upheaval, global shipping eyes return to status quo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/un-sounds-red-alert-over-human-rights-catastrophe-in-sudans-el-obeid?traffic_source=rss",
-      "published_date": "2026-07-03T12:23:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/7/7/after-iran-war-upheaval-global-shipping-eyes-return-to-status-quo?traffic_source=rss",
+      "published_date": "2026-07-07T08:31:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia touts ‘war with NATO’ amid losses in Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russia-touts-war-with-nato-amid-losses-in-ukraine?traffic_source=rss",
+      "published_date": "2026-07-07T08:22:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+      "published_date": "2026-07-07T07:32:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
+      "published_date": "2026-07-07T07:09:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Soomaaliya oo Beenisay Warbixinta Crisis Group ee Ku Saabsan Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-beenisay-warbixinta-crisis-group-ee-ku-saabsan-al-shabaab/",
+      "published_date": "2026-07-07T06:03:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestine weekly: One thousand days of genocide in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-07T05:48:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia rejects Crisis Group report on Al-Shabaab, says it distorts counterterrorism campaign",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-rejects-crisis-group-report-on-al-shabaab-says-it-distorts-counterterrorism-campaign/",
+      "published_date": "2026-07-07T05:32:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Morocco says it has dismantled ISIL-linked cell planning attack",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "8 injured, including 4 children, in New York City Fourth of July shooting",
+      "title": "Ukrainian drones hit Russian fuel tankers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/8-injured-including-4-children-in-new-york-city-fourth-of-july-shooting?traffic_source=rss",
-      "published_date": "2026-07-05T20:16:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "50 Houthi fighters killed in renewed clashes in Yemen",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss",
-      "published_date": "2026-07-05T16:59:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesian army recovers US pilot’s body from Papua",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/indonesian-army-recovers-us-pilots-body-from-papua?traffic_source=rss",
-      "published_date": "2026-07-05T12:00:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump praises US military as it marks 250 years of independence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss",
-      "published_date": "2026-07-05T11:06:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Federaalka Soomaaliya oo Kumanaan Ciidan Kusoo Bandhigtay Degmada Ceeldheer",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-federaalka-soomaaliya-oo-kumanaan-ciidan-kusoo-bandhigtay-degmada-ceeldheer/",
-      "published_date": "2026-07-05T10:52:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
-      "published_date": "2026-07-05T08:06:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Howlgal ka dhacay Shabeellaha Hoose oo lagu beegsaday xubno ka tirsanaa Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/howlgal-ka-dhacay-shabeellaha-hoose-oo-lagu-beegsaday-xubno-ka-tirsanaa-al-shabaab/",
-      "published_date": "2026-07-05T06:16:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NISA oo sheegtay in howlgal ka dhacay Shabeellaha Dhexe ku dishay xubno ka tirsanaa Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nisa-oo-sheegtay-in-howlgal-ka-dhacay-shabeellaha-dhexe-ku-dishay-xubno-ka-tirsanaa-al-shabaab/",
-      "published_date": "2026-07-05T06:09:12+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
+      "published_date": "2026-07-07T10:41:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "The World Cup must pay its carbon bill",
@@ -424,18 +431,67 @@
       "category": "Economy"
     },
     {
-      "title": "EU gets tough on China as trade imbalance stokes deindustrialisation fears",
+      "title": "France appeals court opens door for Le Pen presidential run, with ankle tag",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/30/eu-gets-tough-on-china-as-trade-imbalance-stokes-deindustrialisation-fears?traffic_source=rss",
-      "published_date": "2026-06-30T08:30:52+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/7/france-appeals-court-opens-door-for-le-pen-presidential-run-with-ankle-tag?traffic_source=rss",
+      "published_date": "2026-07-07T12:22:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Millions in India’s Bengal risk losing welfare benefits over voter deletion",
+      "title": "Madaxweyne Deni oo shir gaar ah la qaatay guddoomiyeyaasha degmooyinka Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/07/madaxweyne-deni-oo-shir-gaar-ah-la-qaatay-guddoomiyeyaasha-degmooyinka-puntland/",
+      "published_date": "2026-07-07T12:03:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/food-security-fears-as-indias-bengal-links-welfare-schemes-to-voter-rolls?traffic_source=rss",
-      "published_date": "2026-06-30T08:25:02+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss",
+      "published_date": "2026-07-07T10:41:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK High Court to rule in Prince Harry’s Daily Mail privacy case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/uk-high-court-to-rule-in-prince-harrys-daily-mail-privacy-case?traffic_source=rss",
+      "published_date": "2026-07-07T10:35:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ku baaqday doorashooyin qaran oo hufan, kana hadashay khilaafka siyaasadeed ee doorashooyinka Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-oo-ku-baaqday-doorashooyin-qaran-oo-hufan-kana-hadashay-khilaafka-siyaasadeed-ee-doorashooyinka-soomaaliya/",
+      "published_date": "2026-07-07T06:17:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
+      "published_date": "2026-07-07T06:15:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "China sentences former local official to death in $324m corruption case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
+      "published_date": "2026-07-07T06:01:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland calls for credible national elections, criticises Somalia’s one-person-one-vote push",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-calls-for-credible-national-elections-criticises-somalias-one-person-one-vote-push/",
+      "published_date": "2026-07-07T05:40:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northeastern Somali regional forces deny defections to Somaliland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/northeastern-somali-regional-forces-deny-defections-to-somaliland/",
+      "published_date": "2026-07-07T05:36:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says",
@@ -512,69 +568,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/06/madaxweyne-deni-oo-xilka-qaadis-cusub-sameeyay/",
       "published_date": "2026-07-06T11:21:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Impeachment trial of Philippine Vice President Sara Duterte begins",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/impeachment-trial-of-philippine-vice-president-sara-duterte-begins?traffic_source=rss",
-      "published_date": "2026-07-06T10:27:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s president slams Israel as an ‘evil’, war-mongering state",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-slams-israel-evil-war-mongering-state/",
-      "published_date": "2026-07-06T09:52:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
-      "published_date": "2026-07-05T20:50:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How will the rise of right-wing populism affect Latin America?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/5/how-will-the-rise-of-right-wing-populism-affect-latin-america?traffic_source=rss",
-      "published_date": "2026-07-05T20:34:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Volunteers vow to keep searching for Venezuela earthquake survivors",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/volunteers-vow-to-keep-searching-for-venezuela-earthquake-survivors?traffic_source=rss",
-      "published_date": "2026-07-05T20:06:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka?traffic_source=rss",
-      "published_date": "2026-07-05T19:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss",
-      "published_date": "2026-07-05T18:40:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is the religious and political messaging behind Khamenei’s funeral?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/what-is-the-religious-and-political-messaging-behind-khameneis-funeral?traffic_source=rss",
-      "published_date": "2026-07-05T16:42:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland rejects federal role in approving resource deals",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-rejects-federal-role-in-approving-resource-deals/",
-      "published_date": "2026-07-05T16:21:09+00:00",
       "category": "Local Events"
     }
   ]
