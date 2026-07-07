@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-06T14:30:47.220101+00:00",
+  "last_updated": "2026-07-07T00:04:50.768241+00:00",
   "story_count": 82,
   "stories": [
+    {
+      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
+      "published_date": "2026-07-06T20:50:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Large-scale Russian attack on Ukraine before NATO summit",
       "source": "Al Jazeera",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN warns likelihood of ‘extreme weather events’ as El Nino set to intensify",
+      "title": "Morocco says it has dismantled ISIL-linked cell planning attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/un-warns-likelihood-of-extreme-weather-events-as-el-nino-set-to-intensify?traffic_source=rss",
-      "published_date": "2026-07-03T08:46:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/6/morocco-says-it-has-dismantled-isil-linked-cell-planning-attack?traffic_source=rss",
+      "published_date": "2026-07-06T21:51:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE Reportedly Building Military Base in Berbera for Potential Joint Use by UAE, U.S., and Israel",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/uae-reportedly-building-military-base-in-berbera-for-potential-joint-use-by-uae-u-s-and-israel/",
+      "published_date": "2026-07-06T20:50:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO urges members to deliver plans for reaching defence spending targets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/nato-urges-members-to-deliver-plans-for-reaching-defence-spending-targets?traffic_source=rss",
+      "published_date": "2026-07-06T19:35:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO chief calls for ‘credible plans’ to reach defence spending goals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/nato-chief-calls-for-credible-plans-to-reach-defence-spending-goals?traffic_source=rss",
+      "published_date": "2026-07-06T19:21:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali defence minister visits Ceeldheer, urges support for anti-Al-Shabaab operations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-defence-minister-visits-ceeldheer-urges-support-for-anti-al-shabaab-operations/",
+      "published_date": "2026-07-06T14:47:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli attack on vehicle in Lebanon kills at least four",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "This immigrant served in the US military. Now he faces deportation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
-      "published_date": "2026-07-05T00:49:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
-      "published_date": "2026-07-05T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ICG: Somalia’s War Against Al-Shabaab Has Reached a Stalemate",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/icg-somalias-war-against-al-shabaab-has-reached-a-stalemate/",
-      "published_date": "2026-07-04T19:32:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police clash with protesters outside AfD meeting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss",
-      "published_date": "2026-07-04T17:13:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
-      "published_date": "2026-07-04T16:23:48+00:00",
-      "category": "Military"
-    },
-    {
       "title": "The World Cup must pay its carbon bill",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/7/6/the-world-cup-must-pay-its-carbon-bill?traffic_source=rss",
@@ -368,6 +368,13 @@
       "category": "Energy"
     },
     {
+      "title": "Survivors and bodies still being pulled from rubble days after twin quakes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/survivors-and-bodies-still-being-pulled-from-rubble-days-after-twin-quakes?traffic_source=rss",
+      "published_date": "2026-07-06T21:11:07+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Mogadishu Port chief visits Seattle to strengthen institutional cooperation",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/mogadishu-port-chief-visits-seattle-to-strengthen-institutional-cooperation/",
@@ -431,11 +438,53 @@
       "category": "Economy"
     },
     {
-      "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+      "title": "Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
-      "published_date": "2026-06-29T21:01:38+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/6/over-5500-children-displaced-by-fighting-in-sudans-el-obeid-charity-says?traffic_source=rss",
+      "published_date": "2026-07-06T23:28:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leading US Democrats withdraw support for Platner after assault allegations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss",
+      "published_date": "2026-07-06T23:10:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Influencers say they’re ‘honoured’ to attend Khamenei funeral",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss",
+      "published_date": "2026-07-06T21:29:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West Administration Condemns Reported Turkish Airstrikes Near Baidoa",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/south-west-administration-condemns-reported-turkish-airstrikes-near-baidoa/",
+      "published_date": "2026-07-06T20:20:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court clears path for Texas to enforce app age verification law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/us-supreme-court-clears-path-for-texas-to-enforce-app-age-verification-law?traffic_source=rss",
+      "published_date": "2026-07-06T20:06:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Palestine protesters rally for ‘Filton 25’ activists at UK court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/pro-palestine-protesters-rally-for-filton-25-activists-at-uk-court?traffic_source=rss",
+      "published_date": "2026-07-06T19:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boris Johnson’s ex-adviser loses Somaliland libel case",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/06/boris-johnsons-ex-adviser-loses-somaliland-libel-case/",
+      "published_date": "2026-07-06T15:39:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hamas announces dissolution of Gaza governing body",
@@ -526,55 +575,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/puntland-rejects-federal-role-in-approving-resource-deals/",
       "published_date": "2026-07-05T16:21:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA Launches First Phase of Food Distribution",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sodma-launches-first-phase-of-food-distribution/",
-      "published_date": "2026-07-05T16:10:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
-      "published_date": "2026-07-05T11:24:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dowladda Puntland oo Caddeysay Mawqifkeeda Maamulka Khayraadka Deegaanka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-puntland-oo-caddeysay-mawqifkeeda-maamulka-khayraadka-deegaanka/",
-      "published_date": "2026-07-05T10:11:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka hortimid in ay xeebaheeda ka howlgasho SOMTURK",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/05/puntland-oo-ka-hortimid-in-ay-xeebaheeda-ka-howlgasho-somturk/",
-      "published_date": "2026-07-05T09:20:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliye Muumin oo magacaabis sameeyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/05/taliye-muumin-oo-magacaabis-sameeyay-3/",
-      "published_date": "2026-07-04T23:46:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Introduces New Rules Restricting Media Activities to Licensed Journalists",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-introduces-new-rules-restricting-media-activities-to-licensed-journalists/",
-      "published_date": "2026-07-04T19:46:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands protest in Germany as far-right AfD party meets",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss",
-      "published_date": "2026-07-04T11:18:18+00:00",
       "category": "Local Events"
     }
   ]
