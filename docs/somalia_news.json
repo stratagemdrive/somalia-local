@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-07T23:54:49.218589+00:00",
-  "story_count": 82,
+  "last_updated": "2026-07-08T12:25:15.045979+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children?traffic_source=rss",
+      "published_date": "2026-07-08T12:06:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Northeastern administration excluded from Somalia’s $12 million climate resilience project",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/northeastern-administration-excluded-from-somalias-12-million-climate-resilience-project/",
+      "published_date": "2026-07-08T10:53:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss",
+      "published_date": "2026-07-08T10:06:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia opposition made ‘serious mistake’ by accepting Turkey’s deputy intelligence chief as mediator, Senator Samatar says",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-turkey-deputy-intelligence-chief-mediator-samatar/",
+      "published_date": "2026-07-08T08:00:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO summit live: Trump rips NATO allies; calls Spain ‘a terrible partner’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/nato-summit-live-trump-world-leaders-meet-in-turkiyes-ankara?traffic_source=rss",
+      "published_date": "2026-07-08T07:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+      "published_date": "2026-07-08T05:18:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Federal Government, Future Council, and International Mediators Launch High-Level Political Talks in Mogadishu",
       "source": "Somali Dispatch",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AU peacekeeping mission in Somalia at risk of collapse as US ends key UN support",
+      "title": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss",
+      "published_date": "2026-07-08T11:22:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia condemns ‘terrorist attack’ in Syria’s Damascus, pledges support for anti-extremism efforts",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-condemns-terrorist-attack-in-syrias-damascus-pledges-support-for-anti-extremism-efforts/",
+      "published_date": "2026-07-08T09:43:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why have half a million Russians gone bankrupt amid Ukraine war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/8/why-have-half-a-million-russians-gone-bankrupt-amid-ukraine-war?traffic_source=rss",
+      "published_date": "2026-07-08T08:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran strikes US bases in Bahrain, Kuwait as Hormuz ceasefire collapses",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/au-peacekeeping-mission-somalia-us-ends-un-support/",
-      "published_date": "2026-07-04T08:22:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somaliguardian.com/news/world/iran-strikes-us-bases-bahrain-kuwait-hormuz-ceasefire-collapses/",
+      "published_date": "2026-07-08T06:40:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali diaspora celebrates 2026 Heritage Week in Canada’s Alberta province",
+      "title": "Soomaaliya oo Si Kulul u Cambaareysay Weerarkii Argagixisanimo ee Ka Dhacay Dimishiq",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-diaspora-celebrates-2026-heritage-week-in-canadas-alberta-province/",
-      "published_date": "2026-07-04T06:52:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
-      "published_date": "2026-07-04T02:28:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi deputy foreign minister pays respects at Khamenei funeral",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/saudi-deputy-foreign-minister-pays-respects-at-khamenei-funeral?traffic_source=rss",
-      "published_date": "2026-07-03T18:54:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Opposition Party Kulmiye Backs Somaliland’s Recognition and Embassy in Jerusalem",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/opposition-party-kulmiye-backs-somalilands-recognition-and-embassy-in-jerusalem/",
-      "published_date": "2026-07-03T17:31:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "African Union Holds Emergency Meeting After US Moves to End Funding for Somalia Mission",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-holds-emergency-meeting-after-us-moves-to-end-funding-for-somalia-mission/",
-      "published_date": "2026-07-03T16:42:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/soomaaliya-oo-si-kulul-u-cambaareysay-weerarkii-argagixisanimo-ee-ka-dhacay-dimishiq/",
+      "published_date": "2026-07-08T05:56:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Morocco says it has dismantled ISIL-linked cell planning attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/morocco-says-it-has-dismantled-isil-linked-cell-planning-attack?traffic_source=rss",
-      "published_date": "2026-07-06T21:51:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE Reportedly Building Military Base in Berbera for Potential Joint Use by UAE, U.S., and Israel",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/uae-reportedly-building-military-base-in-berbera-for-potential-joint-use-by-uae-u-s-and-israel/",
-      "published_date": "2026-07-06T20:50:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO urges members to deliver plans for reaching defence spending targets",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/nato-urges-members-to-deliver-plans-for-reaching-defence-spending-targets?traffic_source=rss",
-      "published_date": "2026-07-06T19:35:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO chief calls for ‘credible plans’ to reach defence spending goals",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/nato-chief-calls-for-credible-plans-to-reach-defence-spending-goals?traffic_source=rss",
-      "published_date": "2026-07-06T19:21:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali defence minister visits Ceeldheer, urges support for anti-Al-Shabaab operations",
+      "title": "Maamulka Waqooyi Bari oo aan ka mid noqon deegaannada laga hirgelinayo mashruuca $12 milyan ee horumarinta magaalooyinka",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-defence-minister-visits-ceeldheer-urges-support-for-anti-al-shabaab-operations/",
-      "published_date": "2026-07-06T14:47:17+00:00",
-      "category": "Military"
+      "url": "https://shabellemedia.com/maamulka-waqooyi-bari-oo-aan-ka-mid-noqon-deegaannada-laga-hirgelinayo-mashruuca-12-milyan-ee-horumarinta-magaalooyinka/",
+      "published_date": "2026-07-08T10:50:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tornadoes kill 17 in central China as Typhoon Bavi looms offshore",
@@ -368,11 +375,11 @@
       "category": "Energy"
     },
     {
-      "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
+      "title": "Iran’s economy faces long road to recovery as fragile truce tested",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
-      "published_date": "2026-07-01T09:38:06+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss",
+      "published_date": "2026-07-08T06:03:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "South Africans line up for jobs after exodus of foreign workers",
@@ -436,6 +443,27 @@
       "url": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
       "published_date": "2026-07-01T18:42:31+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Somalia, Italy discuss strengthening cooperation in media, culture and tourism",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-italy-discuss-strengthening-cooperation-in-media-culture-and-tourism/",
+      "published_date": "2026-07-08T06:20:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali minister meets traditional elders and religious leaders in Baidoa amid consultations ahead of parliamentary bid",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-minister-meets-traditional-elders-and-religious-leaders-in-baidoa-amid-consultations-ahead-of-parliamentary-bid/",
+      "published_date": "2026-07-08T06:16:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xal laga gaaray xiisaddii Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/08/xal-laga-gaaray-xiisaddii-garoowe/",
+      "published_date": "2026-07-08T03:13:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Nimco Ali’s 2023 Laascaanood Comments Tested UK Charity Governance",
@@ -554,27 +582,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/south-west-administration-condemns-reported-turkish-airstrikes-near-baidoa/",
       "published_date": "2026-07-06T20:20:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court clears path for Texas to enforce app age verification law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/us-supreme-court-clears-path-for-texas-to-enforce-app-age-verification-law?traffic_source=rss",
-      "published_date": "2026-07-06T20:06:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestine protesters rally for ‘Filton 25’ activists at UK court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/pro-palestine-protesters-rally-for-filton-25-activists-at-uk-court?traffic_source=rss",
-      "published_date": "2026-07-06T19:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boris Johnson’s ex-adviser loses Somaliland libel case",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/06/boris-johnsons-ex-adviser-loses-somaliland-libel-case/",
-      "published_date": "2026-07-06T15:39:40+00:00",
       "category": "Local Events"
     }
   ]
