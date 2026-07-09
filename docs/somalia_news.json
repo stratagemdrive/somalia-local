@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-08T12:25:15.045979+00:00",
-  "story_count": 83,
+  "last_updated": "2026-07-09T00:05:57.961905+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Trump departs NATO summit on older Air Force One",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss",
+      "published_date": "2026-07-08T20:46:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five key takeaways from the NATO summit in Ankara",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
+      "published_date": "2026-07-08T19:06:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia government, opposition agree to continue political talks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-government-opposition-agree-to-continue-political-talks/",
+      "published_date": "2026-07-08T13:51:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
       "source": "Al Jazeera",
@@ -15,6 +36,13 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/northeastern-administration-excluded-from-somalias-12-million-climate-resilience-project/",
       "published_date": "2026-07-08T10:53:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rahm Emanuel to warn ‘Greater Israel’ could harm Israel-US alliance in Tel Aviv Speech",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/08/rahm-emanuel-to-warn-greater-israel-could-harm-israel-us-alliance-in-tel-aviv-speech/",
+      "published_date": "2026-07-08T10:41:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey’s new Somalia spaceport doubles as missile range, threatening Israel",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/turkeys-new-somalia-spaceport-doubles-as-missile-range-threatening-israel/",
-      "published_date": "2026-07-05T13:01:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia’s president meets Somali-American mayor, urges stronger U.S. ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-president-meets-somali-american-mayor-urges-stronger-u-s-ties/",
-      "published_date": "2026-07-05T08:15:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
+      "title": "US expands military strikes on Iran after Trump says he’ll ‘hit them hard’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
-      "published_date": "2026-07-05T08:09:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss",
+      "published_date": "2026-07-08T22:52:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia: Labour Ministry Director General Implicated in Corruption Scandal as Calls for Accountability Grow",
+      "title": "Family demands investigation after US man killed by ICE agent in Texas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss",
+      "published_date": "2026-07-08T21:42:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
+      "published_date": "2026-07-08T21:36:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly strikes in Gaza leave 5 dead, children wounded",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
+      "published_date": "2026-07-08T21:12:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former rebel turned government ally proposes a path to peace for Sudan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss",
+      "published_date": "2026-07-08T20:49:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
+      "published_date": "2026-07-08T18:51:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Federaalka iyo Mucaaradka oo Ku Heshiiyay Sii Wadista Wada-hadallada Siyaasadeed",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/labour-ministry-director-general-implicated-in-corruption-scandal-as-calls-for-accountability-grow/",
-      "published_date": "2026-07-04T13:41:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/dowladda-federaalka-iyo-mucaaradka-oo-ku-heshiiyay-sii-wadista-wada-hadallada-siyaasadeed/",
+      "published_date": "2026-07-08T14:07:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
@@ -235,53 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "After Iran war upheaval, global shipping eyes return to status quo",
+      "title": "US summer travel slumps under rising fares and fuel expenses",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/7/after-iran-war-upheaval-global-shipping-eyes-return-to-status-quo?traffic_source=rss",
-      "published_date": "2026-07-07T08:31:05+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses?traffic_source=rss",
+      "published_date": "2026-07-08T20:15:05+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia touts ‘war with NATO’ amid losses in Ukraine",
+      "title": "Mass cleanup underway after severe flooding in China",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/russia-touts-war-with-nato-amid-losses-in-ukraine?traffic_source=rss",
-      "published_date": "2026-07-07T08:22:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/mass-cleanup-underway-after-severe-flooding-in-china?traffic_source=rss",
+      "published_date": "2026-07-08T18:58:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
+      "title": "Trump says US ‘may take over Kharg Island’: Here’s what you need to know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
-      "published_date": "2026-07-07T07:32:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-      "published_date": "2026-07-07T07:09:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya oo Beenisay Warbixinta Crisis Group ee Ku Saabsan Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-beenisay-warbixinta-crisis-group-ee-ku-saabsan-al-shabaab/",
-      "published_date": "2026-07-07T06:03:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestine weekly: One thousand days of genocide in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-      "published_date": "2026-07-07T05:48:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia rejects Crisis Group report on Al-Shabaab, says it distorts counterterrorism campaign",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-rejects-crisis-group-report-on-al-shabaab-says-it-distorts-counterterrorism-campaign/",
-      "published_date": "2026-07-07T05:32:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-us-may-take-over-kharg-island-heres-what-you-need-to-know?traffic_source=rss",
+      "published_date": "2026-07-08T18:52:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Maamulka Waqooyi Bari oo aan ka mid noqon deegaannada laga hirgelinayo mashruuca $12 milyan ee horumarinta magaalooyinka",
@@ -375,6 +396,20 @@
       "category": "Energy"
     },
     {
+      "title": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss",
+      "published_date": "2026-07-08T20:40:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IGAD Steps Up Support for Somalia’s Ratification and Implementation of the Free Movement of Persons Protocol",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/igad-steps-up-support-for-somalias-ratification-and-implementation-of-the-free-movement-of-persons-protocol/",
+      "published_date": "2026-07-08T17:33:44+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Iran’s economy faces long road to recovery as fragile truce tested",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss",
@@ -438,11 +473,39 @@
       "category": "Economy"
     },
     {
-      "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
+      "title": "Indonesia’s free meals programme plagued by alleged corruption and waste",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
-      "published_date": "2026-07-01T18:42:31+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/8/indonesias-free-meals-programme-plagued-by-alleged-corruption-and-waste?traffic_source=rss",
+      "published_date": "2026-07-08T23:22:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildcard Fery faces Zverev in Wimbledon semis, as Kostyuk meets Noskova",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/8/wildcard-fery-faces-zverev-in-wimbledon-semis-as-kostyuk-meets-noskova?traffic_source=rss",
+      "published_date": "2026-07-08T23:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss",
+      "published_date": "2026-07-08T20:06:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump ordered to pay E Jean Carroll $5.8m after failed appeal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/trump-ordered-to-pay-e-jean-carroll-5-8m-after-failed-appeal?traffic_source=rss",
+      "published_date": "2026-07-08T19:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli air strikes in Gaza kill eight, including two children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss",
+      "published_date": "2026-07-08T18:35:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia, Italy discuss strengthening cooperation in media, culture and tourism",
@@ -547,41 +610,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/puntland-calls-for-credible-national-elections-criticises-somalias-one-person-one-vote-push/",
       "published_date": "2026-07-07T05:40:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northeastern Somali regional forces deny defections to Somaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/northeastern-somali-regional-forces-deny-defections-to-somaliland/",
-      "published_date": "2026-07-07T05:36:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/over-5500-children-displaced-by-fighting-in-sudans-el-obeid-charity-says?traffic_source=rss",
-      "published_date": "2026-07-06T23:28:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leading US Democrats withdraw support for Platner after assault allegations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss",
-      "published_date": "2026-07-06T23:10:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Influencers say they’re ‘honoured’ to attend Khamenei funeral",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss",
-      "published_date": "2026-07-06T21:29:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West Administration Condemns Reported Turkish Airstrikes Near Baidoa",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/south-west-administration-condemns-reported-turkish-airstrikes-near-baidoa/",
-      "published_date": "2026-07-06T20:20:09+00:00",
       "category": "Local Events"
     }
   ]
