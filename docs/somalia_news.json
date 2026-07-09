@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-09T00:05:57.961905+00:00",
-  "story_count": 87,
+  "last_updated": "2026-07-09T13:51:32.215904+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/trump-targets-spain-nato-backs-ukraine-is-the-alliance-still-united?traffic_source=rss",
+      "published_date": "2026-07-09T13:02:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US strikes Iran for second night – is the peace process all over now?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss",
+      "published_date": "2026-07-09T10:49:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN probe finds mass killings, gang rapes by Sudan’s RSF amount to genocide",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/un-probe-finds-mass-killings-gang-rapes-by-sudans-rsf-amount-to-genocide?traffic_source=rss",
+      "published_date": "2026-07-09T10:19:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US, Iran launch more attacks as mediators urge both sides to uphold MoU",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou?traffic_source=rss",
+      "published_date": "2026-07-09T09:04:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mauritanian president receives message from Somalia’s counterpart Hassan Sheikh",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/mauritanian-president-receives-message-from-somalias-counterpart-hassan-sheikh/",
+      "published_date": "2026-07-09T08:34:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump departs NATO summit on older Air Force One",
       "source": "Al Jazeera",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Large-scale Russian attack on Ukraine before NATO summit",
+      "title": "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
-      "published_date": "2026-07-06T12:55:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/9/mediator-pakistan-says-renewed-us-iran-conflict-is-in-no-ones-interest?traffic_source=rss",
+      "published_date": "2026-07-09T11:47:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?",
+      "title": "Deadly US strikes trigger Iranian attacks on Gulf states",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher?traffic_source=rss",
-      "published_date": "2026-07-06T12:21:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states?traffic_source=rss",
+      "published_date": "2026-07-09T11:23:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkiye gears up for its first NATO summit in 22 years",
+      "title": "Air raid sirens in Bahrain after uneasy night of US-Iran strikes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss",
-      "published_date": "2026-07-05T21:42:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss",
+      "published_date": "2026-07-09T10:06:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali foreign minister bids farewell to departing EU ambassador",
+      "title": "Australia, India strike deal on uranium exports during PM Modi’s visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/australia-india-strike-deal-on-uranium-exports-during-pm-modis-visit?traffic_source=rss",
+      "published_date": "2026-07-09T09:36:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali defence minister visits military training school, urges troops to prepare for anti-militant operations",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-foreign-minister-bids-farewell-to-departing-eu-ambassador/",
-      "published_date": "2026-07-05T16:22:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-defence-minister-visits-military-training-school-urges-troops-to-prepare-for-anti-militant-operations/",
+      "published_date": "2026-07-09T09:02:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia: Puntland bans Turkish fishing firm SOMTURK",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-bans-turkish-fishing-firm-somturk/",
-      "published_date": "2026-07-05T14:57:06+00:00",
-      "category": "Diplomacy"
+      "title": "Inside King’s College London’s crackdown on pro-Palestine students",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions?traffic_source=rss",
+      "published_date": "2026-07-09T09:00:33+00:00",
+      "category": "Military"
     },
     {
       "title": "US expands military strikes on Iran after Trump says he’ll ‘hit them hard’",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
+      "title": "Ukraine targets Russian oil depots and tankers in drone attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye?traffic_source=rss",
-      "published_date": "2026-07-07T20:08:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/9/ukraine-targets-russian-oil-depots-and-tankers-in-drone-attacks?traffic_source=rss",
+      "published_date": "2026-07-09T12:24:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Deadly  landslide buries tunnel construction site in India",
+      "title": "India floods sweep away thousands of gas cylinders",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/deadly-landslide-buries-tunnel-construction-site-in-india?traffic_source=rss",
-      "published_date": "2026-07-07T19:55:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump criticises NATO allies over Iran conflict support",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trump-criticises-nato-allies-over-iran-conflict-support?traffic_source=rss",
-      "published_date": "2026-07-07T19:16:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
-      "published_date": "2026-07-07T17:23:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s defence minister visits troops on front lines in Middle Shabelle region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-defence-minister-visits-troops-on-front-lines-in-shabelle-dhexe-region/",
-      "published_date": "2026-07-07T14:21:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Defense Minister Says Only Two Parties Compete for Somalia: Al-Shabaab and JSP",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-defense-minister-al-shabaab-jsp-parties/",
-      "published_date": "2026-07-07T11:50:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/india-floods-sweep-away-thousands-of-gas-cylinders?traffic_source=rss",
+      "published_date": "2026-07-09T11:32:58+00:00",
+      "category": "Energy"
     },
     {
       "title": "US summer travel slumps under rising fares and fuel expenses",
@@ -389,11 +403,18 @@
       "category": "Energy"
     },
     {
-      "title": "‘The crisis is deep’: The view from Russia as fuel shortages worsen",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss",
-      "published_date": "2026-07-02T08:06:59+00:00",
-      "category": "Energy"
+      "title": "Somalia approves maritime cooperation deal with Egypt",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-approves-maritime-cooperation-deal-with-egypt/",
+      "published_date": "2026-07-09T08:55:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK Parliament event highlights Türkiye-UK-Somalia cooperation for Somalia’s future",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uk-parliament-event-highlights-turkiye-uk-somalia-cooperation-for-somalias-future/",
+      "published_date": "2026-07-09T06:33:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
@@ -466,11 +487,32 @@
       "category": "Economy"
     },
     {
-      "title": "German coalition agrees on sweeping reform package in key breakthrough",
+      "title": "Graham Platner drops Maine Senate bid: What that means for Democrats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough?traffic_source=rss",
-      "published_date": "2026-07-02T10:46:35+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/9/graham-platner-drops-maine-senate-bid-what-that-means-for-democrats?traffic_source=rss",
+      "published_date": "2026-07-09T13:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland blocks federal commander Gen. Jima’le Takar as Somalia military standoff deepens",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-blocks-federal-commander-jimale-takar-somalia-military-standoff/",
+      "published_date": "2026-07-09T11:30:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo Qabatay Shirweynaha Xoojinta Wadashaqeynta iyo Maamul Daadajinta Hay’adaha Dowladda",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-oo-qabatay-shirweynaha-xoojinta-wadashaqeynta-iyo-maamul-daadajinta-hayadaha-dowladda/",
+      "published_date": "2026-07-09T11:11:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo furay shirweyne maamul daadajin",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/09/madaxweyne-deni-oo-furay-shirweyne-maamul-daadajin/",
+      "published_date": "2026-07-09T08:30:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Indonesia’s free meals programme plagued by alleged corruption and waste",
@@ -582,34 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/7/uk-high-court-to-rule-in-prince-harrys-daily-mail-privacy-case?traffic_source=rss",
       "published_date": "2026-07-07T10:35:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ku baaqday doorashooyin qaran oo hufan, kana hadashay khilaafka siyaasadeed ee doorashooyinka Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-oo-ku-baaqday-doorashooyin-qaran-oo-hufan-kana-hadashay-khilaafka-siyaasadeed-ee-doorashooyinka-soomaaliya/",
-      "published_date": "2026-07-07T06:17:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
-      "published_date": "2026-07-07T06:15:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China sentences former local official to death in $324m corruption case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
-      "published_date": "2026-07-07T06:01:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland calls for credible national elections, criticises Somalia’s one-person-one-vote push",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-calls-for-credible-national-elections-criticises-somalias-one-person-one-vote-push/",
-      "published_date": "2026-07-07T05:40:49+00:00",
       "category": "Local Events"
     }
   ]
