@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-09T13:51:32.215904+00:00",
-  "story_count": 89,
+  "last_updated": "2026-07-10T00:01:25.243346+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Venezuela earthquakes toll rises to 3,889 as risk of disease grows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/venezuela-earthquakes-toll-rises-to-3889-as-risk-of-disease-grows?traffic_source=rss",
+      "published_date": "2026-07-09T23:25:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss",
+      "published_date": "2026-07-09T20:20:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
       "source": "Al Jazeera",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali, Saudi foreign ministers discuss bilateral ties and maritime security",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-saudi-foreign-ministers-discuss-bilateral-ties-and-maritime-security/",
-      "published_date": "2026-07-07T05:43:23+00:00",
-      "category": "Diplomacy"
+      "title": "Waiting for Moses: Africa’s sons in Russia’s war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/9/waiting-for-moses-africas-sons-in-russias-war?traffic_source=rss",
+      "published_date": "2026-07-09T22:59:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
+      "title": "US military denies involvement after explosions heard in Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
-      "published_date": "2026-07-06T20:50:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
+      "published_date": "2026-07-09T21:14:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Syria stable enough to engage with the world?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss",
+      "published_date": "2026-07-09T18:56:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on Gaza kill six people despite ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
+      "published_date": "2026-07-09T18:04:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran strikes US bases in Bahrain, Kuwait as Hormuz ceasefire collapses",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/world/iran-strikes-us-bases-bahrain-kuwait-hormuz-ceasefire-collapses/",
-      "published_date": "2026-07-08T06:40:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya oo Si Kulul u Cambaareysay Weerarkii Argagixisanimo ee Ka Dhacay Dimishiq",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-si-kulul-u-cambaareysay-weerarkii-argagixisanimo-ee-ka-dhacay-dimishiq/",
-      "published_date": "2026-07-08T05:56:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+      "title": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
-      "published_date": "2026-07-07T22:53:35+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/9/canadian-pm-visits-saudi-arabia-to-strengthen-energy-mining-partnerships?traffic_source=rss",
+      "published_date": "2026-07-09T20:06:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’",
+      "title": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying?traffic_source=rss",
-      "published_date": "2026-07-07T20:27:41+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions?traffic_source=rss",
+      "published_date": "2026-07-09T20:03:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine targets Russian oil depots and tankers in drone attacks",
@@ -403,6 +417,20 @@
       "category": "Energy"
     },
     {
+      "title": "South African protesters intimidate migrants as aid group issues warning",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/south-african-protesters-intimidate-migrants-as-aid-group-issues-warning?traffic_source=rss",
+      "published_date": "2026-07-09T20:03:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US expands Iran strikes Iran hitting  fishing piers near nuclear plant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss",
+      "published_date": "2026-07-09T18:17:55+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Somalia approves maritime cooperation deal with Egypt",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-approves-maritime-cooperation-deal-with-egypt/",
@@ -466,25 +494,46 @@
       "category": "Economy"
     },
     {
-      "title": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
+      "title": "New Mexico accuses US Justice Department of impeding Epstein investigation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
-      "published_date": "2026-07-02T20:34:39+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/9/new-mexico-accuses-us-justice-department-of-impeding-epstein-investigation?traffic_source=rss",
+      "published_date": "2026-07-09T23:25:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump administration aims to cut regulations on US commercial fishing",
+      "title": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
-      "published_date": "2026-07-02T20:20:23+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute?traffic_source=rss",
+      "published_date": "2026-07-09T21:17:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
+      "title": "Mexico seeks prosecutions over migrant deaths in the US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
-      "published_date": "2026-07-02T18:12:54+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/mexico-seeks-prosecutions-over-migrant-deaths-in-the-us?traffic_source=rss",
+      "published_date": "2026-07-09T20:23:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly fire breaks out at shoe factory in China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-fire-breaks-out-at-shoe-factory-in-china?traffic_source=rss",
+      "published_date": "2026-07-09T18:51:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s president inaugurates upgraded presidential guard headquarters",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-inaugurates-upgraded-presidential-guard-headquarters/",
+      "published_date": "2026-07-09T18:09:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Booliska Puntland oo digniin soo saaray",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/09/booliska-puntland-oo-digniin-soo-saaray-2/",
+      "published_date": "2026-07-09T14:27:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Graham Platner drops Maine Senate bid: What that means for Democrats",
@@ -582,48 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/frances-marine-le-pen-must-wear-ankle-tag-after-appeal-ruling?traffic_source=rss",
       "published_date": "2026-07-07T18:38:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right leader Le Pen says will run in 2027 presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/french-far-right-leader-le-pen-says-will-run-in-2027-presidential-election?traffic_source=rss",
-      "published_date": "2026-07-07T18:17:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey holds Somalia government-opposition pre-talks as Puntland, Jubaland boycott ahead of key negotiations",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-somalia-opposition-talks-puntland-jubaland-boycott/",
-      "published_date": "2026-07-07T17:24:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France appeals court opens door for Le Pen presidential run, with ankle tag",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/france-appeals-court-opens-door-for-le-pen-presidential-run-with-ankle-tag?traffic_source=rss",
-      "published_date": "2026-07-07T12:22:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo shir gaar ah la qaatay guddoomiyeyaasha degmooyinka Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/07/madaxweyne-deni-oo-shir-gaar-ah-la-qaatay-guddoomiyeyaasha-degmooyinka-puntland/",
-      "published_date": "2026-07-07T12:03:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss",
-      "published_date": "2026-07-07T10:41:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK High Court to rule in Prince Harry’s Daily Mail privacy case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/uk-high-court-to-rule-in-prince-harrys-daily-mail-privacy-case?traffic_source=rss",
-      "published_date": "2026-07-07T10:35:33+00:00",
       "category": "Local Events"
     }
   ]
