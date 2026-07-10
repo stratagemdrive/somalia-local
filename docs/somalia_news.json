@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-10T00:01:25.243346+00:00",
+  "last_updated": "2026-07-10T13:15:22.116519+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss",
+      "published_date": "2026-07-10T11:51:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US is building a new pressure architecture against Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
+      "published_date": "2026-07-10T07:29:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Venezuela earthquakes toll rises to 3,889 as risk of disease grows",
       "source": "Al Jazeera",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopian Foreign Affairs Institute: Somaliland’s Recognition Debate Shifting Toward “Operational Recognition”",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/ethiopian-foreign-affairs-institute-somalilands-recognition-debate-shifting-toward-operational-recognition/",
-      "published_date": "2026-07-07T18:52:13+00:00",
-      "category": "Diplomacy"
+      "title": "US-Iran war: Will peace talks resume, and when?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss",
+      "published_date": "2026-07-10T11:43:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
+      "title": "UK police confront Morocco fans over unrest after World Cup loss",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
-      "published_date": "2026-07-07T06:12:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/uk-police-confront-morocco-fans-over-unrest-after-world-cup-loss?traffic_source=rss",
+      "published_date": "2026-07-10T09:47:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/trump-grants-kyiv-patriots-licences-whats-next-in-the-russia-ukraine-war?traffic_source=rss",
+      "published_date": "2026-07-10T09:25:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss",
+      "published_date": "2026-07-10T09:21:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Degree but no job: The battle against unemployment in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-10T08:48:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Waiting for Moses: Africa’s sons in Russia’s war",
@@ -246,41 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss",
       "published_date": "2026-07-08T20:49:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
-      "published_date": "2026-07-08T18:51:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Federaalka iyo Mucaaradka oo Ku Heshiiyay Sii Wadista Wada-hadallada Siyaasadeed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-federaalka-iyo-mucaaradka-oo-ku-heshiiyay-sii-wadista-wada-hadallada-siyaasadeed/",
-      "published_date": "2026-07-08T14:07:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss",
-      "published_date": "2026-07-08T11:22:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia condemns ‘terrorist attack’ in Syria’s Damascus, pledges support for anti-extremism efforts",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-terrorist-attack-in-syrias-damascus-pledges-support-for-anti-extremism-efforts/",
-      "published_date": "2026-07-08T09:43:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why have half a million Russians gone bankrupt amid Ukraine war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/8/why-have-half-a-million-russians-gone-bankrupt-amid-ukraine-war?traffic_source=rss",
-      "published_date": "2026-07-08T08:41:00+00:00",
       "category": "Military"
     },
     {
@@ -410,11 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "What is Nayara, the Indian firm Russia is reportedly importing oil from?",
+      "title": "Fall in funding cuts aid to 1 million women: UN",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/what-is-nayara-the-indian-firm-russia-is-reportedly-importing-oil-from?traffic_source=rss",
-      "published_date": "2026-07-03T10:53:12+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/10/fall-in-funding-cuts-aid-to-1-million-women-un?traffic_source=rss",
+      "published_date": "2026-07-10T10:14:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "South African protesters intimidate migrants as aid group issues warning",
@@ -492,6 +492,27 @@
       "url": "https://www.somalidispatch.com/latest-news/puntland-says-turkish-fishing-companies-need-its-approval-to-operate/",
       "published_date": "2026-07-05T19:26:36+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "NUSOJ Condemns Politically Motivated Arrest and Continued Detention of Female Journalist by Puntland Authorities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nusoj-condemns-politically-motivated-arrest-and-continued-detention-of-female-journalist-by-puntland-authorities/",
+      "published_date": "2026-07-10T12:11:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Administration without sovereignty will not free Palestine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
+      "published_date": "2026-07-10T08:03:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires in southern Spain kill at least 12",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/wildfires-in-southern-spain-kill-at-least-12?traffic_source=rss",
+      "published_date": "2026-07-10T07:43:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New Mexico accuses US Justice Department of impeding Epstein investigation",
@@ -610,27 +631,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-minister-meets-traditional-elders-and-religious-leaders-in-baidoa-amid-consultations-ahead-of-parliamentary-bid/",
       "published_date": "2026-07-08T06:16:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xal laga gaaray xiisaddii Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/08/xal-laga-gaaray-xiisaddii-garoowe/",
-      "published_date": "2026-07-08T03:13:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Nimco Ali’s 2023 Laascaanood Comments Tested UK Charity Governance",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/08/how-nimco-alis-2023-laascaanood-comments-tested-uk-charity-governance/",
-      "published_date": "2026-07-07T21:15:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France’s Marine Le Pen must wear ankle tag after appeal ruling",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/frances-marine-le-pen-must-wear-ankle-tag-after-appeal-ruling?traffic_source=rss",
-      "published_date": "2026-07-07T18:38:55+00:00",
       "category": "Local Events"
     }
   ]
