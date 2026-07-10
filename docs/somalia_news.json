@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-10T13:15:22.116519+00:00",
-  "story_count": 90,
+  "last_updated": "2026-07-10T23:55:04.852457+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Why are politicians and sanctioned states embracing crypto?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss",
+      "published_date": "2026-07-10T19:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How President Hassan Sheikh and Senator Farole Reshaped Somalia’s Federal System",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/10/how-president-hassan-sheikh-and-senator-farole-reshaped-somalias-federal-system/",
+      "published_date": "2026-07-10T14:26:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deputy PM: Somalia government, opposition agree to continue election talks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/deputy-pm-somalia-government-opposition-agree-to-continue-election-talks/",
+      "published_date": "2026-07-10T12:49:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
       "source": "Al Jazeera",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "NATO summit live: Trump rips NATO allies; calls Spain ‘a terrible partner’",
+      "title": "UK police arrest man suspected of murdering former MP Ann Widdecombe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/nato-summit-live-trump-world-leaders-meet-in-turkiyes-ankara?traffic_source=rss",
-      "published_date": "2026-07-08T07:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss",
+      "published_date": "2026-07-10T18:18:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+      "title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
-      "published_date": "2026-07-08T05:18:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Federal Government, Future Council, and International Mediators Launch High-Level Political Talks in Mogadishu",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/federal-government-future-council-and-international-mediators-launch-high-level-political-talks-in-mogadishu/",
-      "published_date": "2026-07-07T19:02:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
+      "published_date": "2026-07-10T18:01:25+00:00",
+      "category": "Military"
     },
     {
       "title": "US-Iran war: Will peace talks resume, and when?",
@@ -270,18 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Deadly strikes in Gaza leave 5 dead, children wounded",
+      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
-      "published_date": "2026-07-08T21:12:50+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
+      "published_date": "2026-07-10T23:18:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Former rebel turned government ally proposes a path to peace for Sudan",
+      "title": "Under Lula, Amazon deforestation falls to lowest level in a decade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss",
-      "published_date": "2026-07-08T20:49:15+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade?traffic_source=rss",
+      "published_date": "2026-07-10T22:36:18+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
+      "published_date": "2026-07-10T20:23:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
@@ -389,25 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "Massive wildfire spreads in Portugal amid extreme heat and strong wind",
+      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/massive-wildfire-spreads-in-portugal-amid-extreme-heat-and-strong-wind?traffic_source=rss",
-      "published_date": "2026-07-03T21:01:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US heatwave raises alarms over AI data centre energy demands",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands?traffic_source=rss",
-      "published_date": "2026-07-03T19:48:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Heavy rain floods Mumbai during intense monsoon spell",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss",
-      "published_date": "2026-07-03T16:27:20+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
+      "published_date": "2026-07-10T23:00:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fall in funding cuts aid to 1 million women: UN",
@@ -492,6 +499,27 @@
       "url": "https://www.somalidispatch.com/latest-news/puntland-says-turkish-fishing-companies-need-its-approval-to-operate/",
       "published_date": "2026-07-05T19:26:36+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
+      "published_date": "2026-07-10T21:01:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump removes final members of independent US election commission",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
+      "published_date": "2026-07-10T20:12:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xirnaanshaha dekedda Boosaaso iyo saameynta ay ku yeelatay ganacsiga Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/10/xirnaanshaha-dekedda-boosaaso-iyo-saameynta-ay-ku-yeelatay-ganacsiga-puntland/",
+      "published_date": "2026-07-10T13:44:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NUSOJ Condemns Politically Motivated Arrest and Continued Detention of Female Journalist by Puntland Authorities",
@@ -610,27 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/8/trump-ordered-to-pay-e-jean-carroll-5-8m-after-failed-appeal?traffic_source=rss",
       "published_date": "2026-07-08T19:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli air strikes in Gaza kill eight, including two children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss",
-      "published_date": "2026-07-08T18:35:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia, Italy discuss strengthening cooperation in media, culture and tourism",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-italy-discuss-strengthening-cooperation-in-media-culture-and-tourism/",
-      "published_date": "2026-07-08T06:20:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali minister meets traditional elders and religious leaders in Baidoa amid consultations ahead of parliamentary bid",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-minister-meets-traditional-elders-and-religious-leaders-in-baidoa-amid-consultations-ahead-of-parliamentary-bid/",
-      "published_date": "2026-07-08T06:16:59+00:00",
       "category": "Local Events"
     }
   ]
