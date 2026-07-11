@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-11T11:56:48.057622+00:00",
+  "last_updated": "2026-07-11T23:51:40.596758+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
+      "published_date": "2026-07-11T16:05:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
+      "published_date": "2026-07-11T15:54:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss",
+      "published_date": "2026-07-11T15:50:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
+      "published_date": "2026-07-11T15:29:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia detains soldiers after viral US flag desecration video",
       "source": "Somali Guardian",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump departs NATO summit on older Air Force One",
+      "title": "UK police investigate murder of politician Ann Widdecombe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss",
-      "published_date": "2026-07-08T20:46:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
+      "published_date": "2026-07-11T20:29:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Five key takeaways from the NATO summit in Ankara",
+      "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
-      "published_date": "2026-07-08T19:06:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
+      "published_date": "2026-07-11T19:25:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia government, opposition agree to continue political talks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-government-opposition-agree-to-continue-political-talks/",
-      "published_date": "2026-07-08T13:51:27+00:00",
-      "category": "Diplomacy"
+      "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss",
+      "published_date": "2026-07-11T17:28:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
+      "title": "Dowladda Soomaaliya oo ka hadashay askar ku dul istaagtay calanka Maraykanka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/11/dowladda-soomaaliya-oo-ka-hadashay-askar-ku-dul-istaagtay-calanka-maraykanka/",
+      "published_date": "2026-07-11T17:06:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children?traffic_source=rss",
-      "published_date": "2026-07-08T12:06:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
+      "published_date": "2026-07-11T14:25:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is going on in Yemen?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
+      "published_date": "2026-07-11T12:53:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Somalia detains two soldiers over U.S. flag desecration video",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
+      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss",
-      "published_date": "2026-07-10T09:21:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Degree but no job: The battle against unemployment in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
-      "published_date": "2026-07-10T08:48:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Waiting for Moses: Africa’s sons in Russia’s war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/9/waiting-for-moses-africas-sons-in-russias-war?traffic_source=rss",
-      "published_date": "2026-07-09T22:59:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military denies involvement after explosions heard in Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
-      "published_date": "2026-07-09T21:14:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is Syria stable enough to engage with the world?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss",
-      "published_date": "2026-07-09T18:56:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill six people despite ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
-      "published_date": "2026-07-09T18:04:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+      "published_date": "2026-07-11T13:18:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba suffers second nationwide blackout in five days",
@@ -396,18 +403,11 @@
       "category": "Energy"
     },
     {
-      "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-      "published_date": "2026-07-04T19:19:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss",
-      "published_date": "2026-07-04T13:38:32+00:00",
-      "category": "Energy"
+      "title": "When Cash Failed, Connection Became Currency",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/when-cash-failed-connection-became-currency/",
+      "published_date": "2026-07-11T18:55:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia Begins National Drive to Promote Safe, Respectful and Violence-Free Workplaces",
