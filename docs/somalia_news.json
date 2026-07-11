@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-10T23:55:04.852457+00:00",
-  "story_count": 91,
+  "last_updated": "2026-07-11T11:56:48.057622+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Somalia detains soldiers after viral US flag desecration video",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-detains-soldiers-after-viral-us-flag-desecration-video/",
+      "published_date": "2026-07-11T11:50:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Joins EAC Ministers in Backing Regional Infrastructure Projects",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-joins-eac-ministers-in-backing-regional-infrastructure-projects/",
+      "published_date": "2026-07-11T11:37:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Speedboat accident in southern Vietnam kills 15 Indian tourists",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss",
+      "published_date": "2026-07-11T11:34:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss",
+      "published_date": "2026-07-11T08:21:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why are politicians and sanctioned states embracing crypto?",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Northeastern administration excluded from Somalia’s $12 million climate resilience project",
+      "title": "Somalia detains two soldiers over U.S. flag desecration video",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/northeastern-administration-excluded-from-somalias-12-million-climate-resilience-project/",
-      "published_date": "2026-07-08T10:53:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalia-detains-two-soldiers-over-u-s-flag-desecration-video/",
+      "published_date": "2026-07-11T08:56:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rahm Emanuel to warn ‘Greater Israel’ could harm Israel-US alliance in Tel Aviv Speech",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/08/rahm-emanuel-to-warn-greater-israel-could-harm-israel-us-alliance-in-tel-aviv-speech/",
-      "published_date": "2026-07-08T10:41:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
+      "title": "Russian missile attacks wound 11 in Kyiv",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss",
-      "published_date": "2026-07-08T10:06:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+      "published_date": "2026-07-11T08:53:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia opposition made ‘serious mistake’ by accepting Turkey’s deputy intelligence chief as mediator, Senator Samatar says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-turkey-deputy-intelligence-chief-mediator-samatar/",
-      "published_date": "2026-07-08T08:00:18+00:00",
-      "category": "Diplomacy"
+      "title": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss",
+      "published_date": "2026-07-11T08:43:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says it carried out airstrike against Al-Shabaab in southern Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/us-says-it-carried-out-airstrike-against-al-shabaab-in-southern-somalia/",
+      "published_date": "2026-07-11T08:36:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Shabaab commander captured near Kenya border as three militants killed in Somalia operation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/al-shabaab-commander-captured-near-kenya-border-as-three-militants-killed-in-somalia-operation/",
+      "published_date": "2026-07-11T08:34:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hoggaamiye sare oo Al-Shabaab ka tirsan oo lagu qabtay howlgal ka dhacay xadka Soomaaliya iyo Kenya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hoggaamiye-sare-oo-al-shabaab-ka-tirsan-oo-lagu-qabtay-howlgal-ka-dhacay-xadka-soomaaliya-iyo-kenya/",
+      "published_date": "2026-07-11T08:29:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Are the US and Iran at war again?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+      "published_date": "2026-07-11T04:51:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We are the lost generation of Sudan’: Students in exile",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
+      "published_date": "2026-07-11T04:41:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
+      "published_date": "2026-07-11T01:12:46+00:00",
+      "category": "Military"
     },
     {
       "title": "UK police arrest man suspected of murdering former MP Ann Widdecombe",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’",
+      "title": "Cuba suffers second nationwide blackout in five days",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/mediator-pakistan-says-renewed-us-iran-conflict-is-in-no-ones-interest?traffic_source=rss",
-      "published_date": "2026-07-09T11:47:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly US strikes trigger Iranian attacks on Gulf states",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states?traffic_source=rss",
-      "published_date": "2026-07-09T11:23:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air raid sirens in Bahrain after uneasy night of US-Iran strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss",
-      "published_date": "2026-07-09T10:06:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia, India strike deal on uranium exports during PM Modi’s visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/australia-india-strike-deal-on-uranium-exports-during-pm-modis-visit?traffic_source=rss",
-      "published_date": "2026-07-09T09:36:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali defence minister visits military training school, urges troops to prepare for anti-militant operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-defence-minister-visits-military-training-school-urges-troops-to-prepare-for-anti-militant-operations/",
-      "published_date": "2026-07-09T09:02:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside King’s College London’s crackdown on pro-Palestine students",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions?traffic_source=rss",
-      "published_date": "2026-07-09T09:00:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US expands military strikes on Iran after Trump says he’ll ‘hit them hard’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss",
-      "published_date": "2026-07-08T22:52:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Family demands investigation after US man killed by ICE agent in Texas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss",
-      "published_date": "2026-07-08T21:42:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
-      "published_date": "2026-07-08T21:36:02+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss",
+      "published_date": "2026-07-11T09:00:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
@@ -403,11 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
-      "published_date": "2026-07-04T10:29:19+00:00",
-      "category": "Energy"
+      "title": "Somalia Begins National Drive to Promote Safe, Respectful and Violence-Free Workplaces",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-begins-national-drive-to-promote-safe-respectful-and-violence-free-workplaces/",
+      "published_date": "2026-07-11T09:07:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
@@ -499,6 +506,34 @@
       "url": "https://www.somalidispatch.com/latest-news/puntland-says-turkish-fishing-companies-need-its-approval-to-operate/",
       "published_date": "2026-07-05T19:26:36+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Puntland oo ka hadashay khidmadaha cusub ee dekedda Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/11/puntland-oo-ka-hadashay-khidmadaha-cusub-ee-dekedda-boosaaso/",
+      "published_date": "2026-07-11T11:08:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West Somalia leader appoints new cabinet of 26 ministers",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-somalia-leader-appoints-new-cabinet-of-26-ministers/",
+      "published_date": "2026-07-11T08:57:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mas’uuliyiin ka tirsan Dowladda Federaalka iyo Galmudug oo gaaray Caabudwaaq si ay u qiimeeyaan xaaladda bani’aadannimo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/masuuliyiin-ka-tirsan-dowladda-federaalka-iyo-galmudug-oo-gaaray-caabudwaaq-si-ay-u-qiimeeyaan-xaaladda-baniaadannimo/",
+      "published_date": "2026-07-11T05:45:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Goobaha ganacsiga Boosaaso oo albaabada la isugu laabay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/11/goobaha-ganacsiga-boosaaso-oo-albaabada-la-isugu-laabay/",
+      "published_date": "2026-07-11T05:37:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
@@ -610,34 +645,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/09/madaxweyne-deni-oo-furay-shirweyne-maamul-daadajin/",
       "published_date": "2026-07-09T08:30:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia’s free meals programme plagued by alleged corruption and waste",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/indonesias-free-meals-programme-plagued-by-alleged-corruption-and-waste?traffic_source=rss",
-      "published_date": "2026-07-08T23:22:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildcard Fery faces Zverev in Wimbledon semis, as Kostyuk meets Noskova",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/8/wildcard-fery-faces-zverev-in-wimbledon-semis-as-kostyuk-meets-noskova?traffic_source=rss",
-      "published_date": "2026-07-08T23:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss",
-      "published_date": "2026-07-08T20:06:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump ordered to pay E Jean Carroll $5.8m after failed appeal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/trump-ordered-to-pay-e-jean-carroll-5-8m-after-failed-appeal?traffic_source=rss",
-      "published_date": "2026-07-08T19:58:00+00:00",
       "category": "Local Events"
     }
   ]
