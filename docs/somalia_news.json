@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-13T13:27:15.995387+00:00",
+  "last_updated": "2026-07-13T23:51:40.970881+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "World pays tribute to Qatar’s Father Emir",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/world-pays-tribute-to-qatars-father-emir?traffic_source=rss",
+      "published_date": "2026-07-13T20:17:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s efforts to secure Uganda visit for president Hassan Sheikh Mohamud stall amid reported rift with Museveni",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-uganda-visit-museveni-rift/",
+      "published_date": "2026-07-13T19:37:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanish PM visits site of deadly wildfire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/spanish-pm-visits-site-of-deadly-wildfire?traffic_source=rss",
+      "published_date": "2026-07-13T19:22:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia opposition refused Farmajo entry into main coalition, former foreign minister says",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-refused-farmajo-entry-main-coalition/",
+      "published_date": "2026-07-13T15:10:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
       "source": "Al Jazeera",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sheikh Hamad bin Khalifa Al Thani, the architect of modern Qatar",
+      "title": "Police in South Africa open probe into post-World Cup death of Jayden Adams",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss",
-      "published_date": "2026-07-12T06:01:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/7/13/police-in-south-africa-open-probe-into-post-world-cup-death-of-jayden-adams?traffic_source=rss",
+      "published_date": "2026-07-13T21:27:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
-      "published_date": "2026-07-12T05:15:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
+      "published_date": "2026-07-13T21:04:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran launches attacks across the Gulf after more US strikes",
+      "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
-      "published_date": "2026-07-12T04:59:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
+      "published_date": "2026-07-13T20:48:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+      "title": "Iran military warns US against Strait of Hormuz ‘interference’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
-      "published_date": "2026-07-12T00:22:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-07-13T20:40:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Artist sews names of Gaza children killed by Israel into gown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss",
+      "published_date": "2026-07-13T20:35:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza man builds roadside library from books buried in rubble",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss",
+      "published_date": "2026-07-13T20:26:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US keeping the Strait of Hormuz open is ‘a massive force problem’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-keeping-the-strait-of-hormuz-open-is-a-massive-force?traffic_source=rss",
+      "published_date": "2026-07-13T20:23:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK designates IRGC as terrorist organisation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss",
+      "published_date": "2026-07-13T18:57:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Street in Illinois named after murdered Palestinian boy",
@@ -225,62 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss",
       "published_date": "2026-07-13T07:41:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
-      "published_date": "2026-07-12T23:03:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
-      "published_date": "2026-07-12T21:59:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel releases video of huge detonations in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
-      "published_date": "2026-07-12T21:50:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly Israeli strikes pound Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
-      "published_date": "2026-07-12T21:33:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss",
-      "published_date": "2026-07-12T19:01:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
-      "published_date": "2026-07-12T17:50:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AUSSOM commander inspects security at Jowhar airport amid Al-Shabaab threat",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-commander-inspects-security-at-jowhar-airport-amid-al-shabaab-threat/",
-      "published_date": "2026-07-12T09:50:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK police investigate murder of politician Ann Widdecombe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
-      "published_date": "2026-07-11T20:29:40+00:00",
       "category": "Military"
     },
     {
@@ -394,6 +394,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
       "published_date": "2026-07-07T10:41:15+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "How is the US tech industry regulated?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss",
+      "published_date": "2026-07-13T21:03:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia, Pakistan Discuss Expanding Human Rights Cooperation",
@@ -515,11 +522,25 @@
       "category": "Economy"
     },
     {
-      "title": "Survivors and bodies still being pulled from rubble days after twin quakes",
+      "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/survivors-and-bodies-still-being-pulled-from-rubble-days-after-twin-quakes?traffic_source=rss",
-      "published_date": "2026-07-06T21:11:07+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
+      "published_date": "2026-07-13T22:33:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Locked exits, burning decor: inside Bangkok’s deadly pub fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/locked-exits-burning-decor-inside-bangkoks-deadly-pub-fire?traffic_source=rss",
+      "published_date": "2026-07-13T18:43:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo sheegtay in ay hay’adaha gargaarka ka joojisay deegaannadeeda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/13/puntland-oo-sheegtay-in-ay-hayadaha-gargaarka-ka-joojisay-deegaannadeeda/",
+      "published_date": "2026-07-13T17:58:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South West State Leader Launches Construction of Presidential Mosque in Baidoa",
@@ -638,27 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
       "published_date": "2026-07-10T20:12:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xirnaanshaha dekedda Boosaaso iyo saameynta ay ku yeelatay ganacsiga Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/10/xirnaanshaha-dekedda-boosaaso-iyo-saameynta-ay-ku-yeelatay-ganacsiga-puntland/",
-      "published_date": "2026-07-10T13:44:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NUSOJ Condemns Politically Motivated Arrest and Continued Detention of Female Journalist by Puntland Authorities",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nusoj-condemns-politically-motivated-arrest-and-continued-detention-of-female-journalist-by-puntland-authorities/",
-      "published_date": "2026-07-10T12:11:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Administration without sovereignty will not free Palestine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
-      "published_date": "2026-07-10T08:03:44+00:00",
       "category": "Local Events"
     }
   ]
