@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-12T23:50:29.431050+00:00",
+  "last_updated": "2026-07-13T13:27:15.995387+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss",
+      "published_date": "2026-07-13T12:36:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya oo Saddex Maalmood Hoos u Dhigtay Calanka Qaranka Geerida Amiirkii Hore ee Qatar awgeed",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-saddex-maalmood-hoos-u-dhigtay-calanka-qaranka-geerida-amiirkii-hore-ee-qatar-awgeed/",
+      "published_date": "2026-07-13T11:27:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss",
+      "published_date": "2026-07-13T10:32:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel to hold national elections on October 27, parliament says",
       "source": "Al Jazeera",
@@ -123,25 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+      "title": "Street in Illinois named after murdered Palestinian boy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
-      "published_date": "2026-07-11T16:05:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss",
+      "published_date": "2026-07-13T12:31:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+      "title": "March to July: What’s different as US-Iran fighting escalates again?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
-      "published_date": "2026-07-11T15:54:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
+      "published_date": "2026-07-13T12:12:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
+      "title": "Yemen government says its forces attacked Sanaa airport",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss",
-      "published_date": "2026-07-11T15:50:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
+      "published_date": "2026-07-13T11:38:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Special Forces Kill Seven Al-Shabaab Fighters in Lower Shabelle Raid",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-special-forces-kill-seven-al-shabaab-fighters-in-lower-shabelle-raid/",
+      "published_date": "2026-07-13T10:48:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Danab oo howlgal ka fuliyay Sablaale, toddobo xubnood oo Al-Shabaab ka tirsan lagu dilay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-danab-oo-howlgal-ka-fuliyay-sablaale-toddobo-xubnood-oo-al-shabaab-ka-tirsan-lagu-dilay/",
+      "published_date": "2026-07-13T10:26:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Danab oo howlgalo ka sameeyo fariisimo Al-Shabaab ku lahayd Jubbada Hoose",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-danab-oo-howlgalo-ka-sameeyo-fariisimo-al-shabaab-ku-lahayd-jubbada-hoose/",
+      "published_date": "2026-07-13T10:02:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss",
+      "published_date": "2026-07-13T09:05:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Iran trade strikes as ceasefire comes under growing strain",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
+      "published_date": "2026-07-13T09:01:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Says Airstrikes Kill 26 Al-Shabaab Fighters in Middle Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-says-airstrikes-kill-26-al-shabaab-fighters-in-middle-shabelle/",
+      "published_date": "2026-07-13T08:55:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kenya’s Special Forces Say They Killed 11 Al-Shabaab Members",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenyas-special-forces-say-they-killed-11-al-shabaab-members/",
+      "published_date": "2026-07-13T08:32:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidamada Gaarka ah ee Kenya oo sheegay inay dileen 11 xubnood oo ka tirsanaa Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-gaarka-ah-ee-kenya-oo-sheegay-inay-dileen-11-xubnood-oo-ka-tirsanaa-al-shabaab/",
+      "published_date": "2026-07-13T08:30:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss",
+      "published_date": "2026-07-13T07:41:59+00:00",
+      "category": "Military"
     },
     {
       "title": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
+      "title": "‘It’s expensive’: Syria’s electricity has improved, but challenges remain",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
-      "published_date": "2026-07-11T19:25:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss",
-      "published_date": "2026-07-11T17:28:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo ka hadashay askar ku dul istaagtay calanka Maraykanka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/11/dowladda-soomaaliya-oo-ka-hadashay-askar-ku-dul-istaagtay-calanka-maraykanka/",
-      "published_date": "2026-07-11T17:06:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
-      "published_date": "2026-07-11T14:25:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What is going on in Yemen?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
-      "published_date": "2026-07-11T12:53:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia detains two soldiers over U.S. flag desecration video",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-detains-two-soldiers-over-u-s-flag-desecration-video/",
-      "published_date": "2026-07-11T08:56:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian missile attacks wound 11 in Kyiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-      "published_date": "2026-07-11T08:53:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss",
-      "published_date": "2026-07-11T08:43:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says it carried out airstrike against Al-Shabaab in southern Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-says-it-carried-out-airstrike-against-al-shabaab-in-southern-somalia/",
-      "published_date": "2026-07-11T08:36:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Shabaab commander captured near Kenya border as three militants killed in Somalia operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/al-shabaab-commander-captured-near-kenya-border-as-three-militants-killed-in-somalia-operation/",
-      "published_date": "2026-07-11T08:34:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hoggaamiye sare oo Al-Shabaab ka tirsan oo lagu qabtay howlgal ka dhacay xadka Soomaaliya iyo Kenya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hoggaamiye-sare-oo-al-shabaab-ka-tirsan-oo-lagu-qabtay-howlgal-ka-dhacay-xadka-soomaaliya-iyo-kenya/",
-      "published_date": "2026-07-11T08:29:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Are the US and Iran at war again?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
-      "published_date": "2026-07-11T04:51:20+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss",
+      "published_date": "2026-07-13T09:34:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
@@ -389,11 +396,11 @@
       "category": "Energy"
     },
     {
-      "title": "The World Cup must pay its carbon bill",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/6/the-world-cup-must-pay-its-carbon-bill?traffic_source=rss",
-      "published_date": "2026-07-06T12:48:45+00:00",
-      "category": "Energy"
+      "title": "Somalia, Pakistan Discuss Expanding Human Rights Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pakistan-discuss-expanding-human-rights-cooperation/",
+      "published_date": "2026-07-13T08:53:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
@@ -515,11 +522,25 @@
       "category": "Economy"
     },
     {
-      "title": "Mogadishu Port chief visits Seattle to strengthen institutional cooperation",
+      "title": "South West State Leader Launches Construction of Presidential Mosque in Baidoa",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mogadishu-port-chief-visits-seattle-to-strengthen-institutional-cooperation/",
-      "published_date": "2026-07-06T05:54:56+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/south-west-state-leader-launches-construction-of-presidential-mosque-in-baidoa/",
+      "published_date": "2026-07-13T08:56:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wararkii ugu dambeeyay ee Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/13/wararkii-ugu-dambeeyay-ee-boosaaso-2/",
+      "published_date": "2026-07-13T05:51:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guuleed Saalax: Boosaaso ma aha deked keliya, waa halbowlaha dhaqaalaha Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/13/guuleed-saalax-boosaaso-ma-aha-deked-keliya-waa-halbowlaha-dhaqaalaha-puntland/",
+      "published_date": "2026-07-13T04:09:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia",
@@ -638,27 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
       "published_date": "2026-07-10T08:03:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires in southern Spain kill at least 12",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/wildfires-in-southern-spain-kill-at-least-12?traffic_source=rss",
-      "published_date": "2026-07-10T07:43:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Mexico accuses US Justice Department of impeding Epstein investigation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/new-mexico-accuses-us-justice-department-of-impeding-epstein-investigation?traffic_source=rss",
-      "published_date": "2026-07-09T23:25:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute?traffic_source=rss",
-      "published_date": "2026-07-09T21:17:54+00:00",
       "category": "Local Events"
     }
   ]
