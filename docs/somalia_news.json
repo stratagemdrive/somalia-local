@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-13T23:51:40.970881+00:00",
-  "story_count": 94,
+  "last_updated": "2026-07-14T12:18:54.558798+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Emir of Qatar receives condolences on the death of the Father Emir",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/emir-of-qatar-receives-condolences-on-the-death-of-the-father-emir?traffic_source=rss",
+      "published_date": "2026-07-14T09:20:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "World pays tribute to Qatar’s Father Emir",
       "source": "Al Jazeera",
@@ -137,11 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
+      "title": "What we know about UK politician Ann Widdecombe’s murder",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss",
-      "published_date": "2026-07-12T07:53:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/14/what-we-know-about-uk-politician-ann-widdecombes-murder?traffic_source=rss",
+      "published_date": "2026-07-14T11:40:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/dozens-of-healthcare-workers-in-drc-strike-amid-ebola-outbreak?traffic_source=rss",
+      "published_date": "2026-07-14T10:53:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Schumer slams Trump over Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/schumer-slams-trump-over-iran-war?traffic_source=rss",
+      "published_date": "2026-07-14T10:34:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+      "published_date": "2026-07-14T10:11:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Argentina war vets urge focus on football for England World Cup semifinal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
+      "published_date": "2026-07-14T09:52:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
+      "published_date": "2026-07-14T09:34:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military releases video of its latest strikes on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+      "published_date": "2026-07-14T08:23:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says it carried out air strike against Al-Shabaab in southern Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/us-says-it-carried-out-air-strike-against-al-shabaab-in-southern-somalia/",
+      "published_date": "2026-07-14T07:29:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Duqeyn ay Mareykanku ka fuliyeen Shabeellaha Hoose oo lagu beegsaday Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/duqeyn-ay-mareykanku-ka-fuliyeen-shabeellaha-hoose-oo-lagu-beegsaday-al-shabaab/",
+      "published_date": "2026-07-14T07:28:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia says 19 Al-Shabaab fighters killed in joint intelligence operations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-says-19-al-shabaab-fighters-killed-in-joint-intelligence-operations/",
+      "published_date": "2026-07-14T07:26:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Police in South Africa open probe into post-World Cup death of Jayden Adams",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Yemen government says its forces attacked Sanaa airport",
+      "title": "How new Yemen tensions could complicate the global energy crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
-      "published_date": "2026-07-13T11:38:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Special Forces Kill Seven Al-Shabaab Fighters in Lower Shabelle Raid",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-special-forces-kill-seven-al-shabaab-fighters-in-lower-shabelle-raid/",
-      "published_date": "2026-07-13T10:48:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Danab oo howlgal ka fuliyay Sablaale, toddobo xubnood oo Al-Shabaab ka tirsan lagu dilay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-danab-oo-howlgal-ka-fuliyay-sablaale-toddobo-xubnood-oo-al-shabaab-ka-tirsan-lagu-dilay/",
-      "published_date": "2026-07-13T10:26:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Danab oo howlgalo ka sameeyo fariisimo Al-Shabaab ku lahayd Jubbada Hoose",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-danab-oo-howlgalo-ka-sameeyo-fariisimo-al-shabaab-ku-lahayd-jubbada-hoose/",
-      "published_date": "2026-07-13T10:02:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss",
-      "published_date": "2026-07-13T09:05:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Iran trade strikes as ceasefire comes under growing strain",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
-      "published_date": "2026-07-13T09:01:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Says Airstrikes Kill 26 Al-Shabaab Fighters in Middle Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-says-airstrikes-kill-26-al-shabaab-fighters-in-middle-shabelle/",
-      "published_date": "2026-07-13T08:55:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kenya’s Special Forces Say They Killed 11 Al-Shabaab Members",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenyas-special-forces-say-they-killed-11-al-shabaab-members/",
-      "published_date": "2026-07-13T08:32:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidamada Gaarka ah ee Kenya oo sheegay inay dileen 11 xubnood oo ka tirsanaa Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-gaarka-ah-ee-kenya-oo-sheegay-inay-dileen-11-xubnood-oo-ka-tirsanaa-al-shabaab/",
-      "published_date": "2026-07-13T08:30:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss",
-      "published_date": "2026-07-13T07:41:59+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
+      "published_date": "2026-07-14T11:22:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘It’s expensive’: Syria’s electricity has improved, but challenges remain",
@@ -389,11 +396,18 @@
       "category": "Energy"
     },
     {
-      "title": "Ukrainian drones hit Russian fuel tankers",
+      "title": "Sudan sentences RSF chief Hemedti to death: Who’s he, what’s he accused of?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
-      "published_date": "2026-07-07T10:41:15+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/14/sudan-sentences-rsf-chief-hemedti-to-death-whos-he-whats-he-accused-of?traffic_source=rss",
+      "published_date": "2026-07-14T12:02:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia’s health minister attends regional investment forum in Mauritania",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-health-minister-attends-regional-investment-forum-in-mauritania/",
+      "published_date": "2026-07-14T07:31:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "How is the US tech industry regulated?",
@@ -522,6 +536,48 @@
       "category": "Economy"
     },
     {
+      "title": "Boosaaso: Dekedda iyo goobaha ganacsiga oo weli xiran",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/14/boosaaso-dekedda-iyo-goobaha-ganacsiga-oo-weli-xiran/",
+      "published_date": "2026-07-14T11:30:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Utah Jazz guard Trey Alexander stretchered off court in NBA Summer League",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/14/utah-jazz-guard-trey-alexander-stretchered-off-court-in-nba-summer-league?traffic_source=rss",
+      "published_date": "2026-07-14T10:13:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Wariye lagu xiray magaalada Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/14/puntland-wariye-lagu-xiray-magaalada-boosaaso/",
+      "published_date": "2026-07-14T10:10:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
+      "published_date": "2026-07-14T07:39:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN issues appeal for drought, conflict-hit Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-issues-appeal-for-drought-conflict-hit-somalia/",
+      "published_date": "2026-07-14T07:24:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ciidamada Soomaaliya iyo Dowlad Deegaanka Soomaalida oo Ku Heshiiyey Xoojinta Amniga Xuduudaha",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-soomaaliya-iyo-dowlad-deegaanka-soomaalida-oo-ku-heshiiyey-xoojinta-amniga-xuduudaha/",
+      "published_date": "2026-07-14T06:12:31+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
@@ -617,48 +673,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
       "published_date": "2026-07-12T01:56:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka hadashay khidmadaha cusub ee dekedda Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/11/puntland-oo-ka-hadashay-khidmadaha-cusub-ee-dekedda-boosaaso/",
-      "published_date": "2026-07-11T11:08:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West Somalia leader appoints new cabinet of 26 ministers",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-somalia-leader-appoints-new-cabinet-of-26-ministers/",
-      "published_date": "2026-07-11T08:57:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mas’uuliyiin ka tirsan Dowladda Federaalka iyo Galmudug oo gaaray Caabudwaaq si ay u qiimeeyaan xaaladda bani’aadannimo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/masuuliyiin-ka-tirsan-dowladda-federaalka-iyo-galmudug-oo-gaaray-caabudwaaq-si-ay-u-qiimeeyaan-xaaladda-baniaadannimo/",
-      "published_date": "2026-07-11T05:45:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Goobaha ganacsiga Boosaaso oo albaabada la isugu laabay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/11/goobaha-ganacsiga-boosaaso-oo-albaabada-la-isugu-laabay/",
-      "published_date": "2026-07-11T05:37:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
-      "published_date": "2026-07-10T21:01:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump removes final members of independent US election commission",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
-      "published_date": "2026-07-10T20:12:22+00:00",
       "category": "Local Events"
     }
   ]
