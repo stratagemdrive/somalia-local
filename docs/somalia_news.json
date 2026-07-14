@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-14T12:18:54.558798+00:00",
+  "last_updated": "2026-07-14T23:50:39.765410+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "US President Trump meets with ‘fan of America’ Iraqi PM Ali al-Zaidi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss",
+      "published_date": "2026-07-14T19:43:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss",
+      "published_date": "2026-07-14T17:31:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wasiirka Warfaafinta Soomaaliya oo Booqday Safaaradda Soomaaliya ee Kenya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirka-warfaafinta-soomaaliya-oo-booqday-safaaradda-soomaaliya-ee-kenya/",
+      "published_date": "2026-07-14T14:33:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali minister holds bilateral meetings on sidelines of OIC women’s conference",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-minister-holds-bilateral-meetings-on-sidelines-of-oic-womens-conference/",
+      "published_date": "2026-07-14T12:30:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Emir of Qatar receives condolences on the death of the Father Emir",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Key moments from former Qatar Emir Sheikh Hamad bin Khalifa Al Thani’s life",
+      "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thanis-life?traffic_source=rss",
-      "published_date": "2026-07-12T11:00:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-14T21:05:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Photos: Qatari Father Emir Sheikh Hamad bin Khalifa Al Thani",
+      "title": "What is Iran’s Pickaxe Mountain?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/7/12/photos-qatari-father-emir-sheikh-hamad-bin-khalifa-al-thani?traffic_source=rss",
-      "published_date": "2026-07-12T10:17:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
+      "published_date": "2026-07-14T20:27:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Egypt FMs discuss bilateral ties, Horn of Africa, reject recognition of Somaliland",
+      "title": "Worker killed in furnace explosion fire at Indian recycling plant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
+      "published_date": "2026-07-14T20:18:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
+      "published_date": "2026-07-14T20:17:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
+      "published_date": "2026-07-14T20:12:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US risks falling into ‘escalation trap’ if it deploys troops in Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss",
+      "published_date": "2026-07-14T18:32:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
+      "published_date": "2026-07-14T18:26:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
+      "published_date": "2026-07-14T17:22:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jordan, Somalia Discuss Military Cooperation",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-egypt-fms-discuss-bilateral-ties-horn-of-africa-reject-recognition-of-somaliland/",
-      "published_date": "2026-07-12T09:48:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
-      "published_date": "2026-07-12T09:40:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/jordan-somalia-discuss-military-cooperation/",
+      "published_date": "2026-07-14T12:24:15+00:00",
+      "category": "Military"
     },
     {
       "title": "What we know about UK politician Ann Widdecombe’s murder",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
+      "title": "Are countries prepared to cope with extreme weather?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
-      "published_date": "2026-07-13T21:04:56+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss",
+      "published_date": "2026-07-14T21:26:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+      "title": "Cuba’s power grid collapses again, triggering third blackout in 10 days",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
-      "published_date": "2026-07-13T20:48:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran military warns US against Strait of Hormuz ‘interference’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-07-13T20:40:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Artist sews names of Gaza children killed by Israel into gown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss",
-      "published_date": "2026-07-13T20:35:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza man builds roadside library from books buried in rubble",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss",
-      "published_date": "2026-07-13T20:26:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US keeping the Strait of Hormuz open is ‘a massive force problem’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-keeping-the-strait-of-hormuz-open-is-a-massive-force?traffic_source=rss",
-      "published_date": "2026-07-13T20:23:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK designates IRGC as terrorist organisation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss",
-      "published_date": "2026-07-13T18:57:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Street in Illinois named after murdered Palestinian boy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss",
-      "published_date": "2026-07-13T12:31:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "March to July: What’s different as US-Iran fighting escalates again?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
-      "published_date": "2026-07-13T12:12:46+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/14/cubas-power-grid-collapses-again-triggering-third-blackout-in-10-days?traffic_source=rss",
+      "published_date": "2026-07-14T17:34:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "How new Yemen tensions could complicate the global energy crisis",
@@ -386,13 +400,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/maamulka-waqooyi-bari-oo-aan-ka-mid-noqon-deegaannada-laga-hirgelinayo-mashruuca-12-milyan-ee-horumarinta-magaalooyinka/",
       "published_date": "2026-07-08T10:50:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tornadoes kill 17 in central China as Typhoon Bavi looms offshore",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/tornadoes-kill-17-in-central-china-as-typhoon-bavi-looms-offshore?traffic_source=rss",
-      "published_date": "2026-07-07T17:56:09+00:00",
       "category": "Energy"
     },
     {
@@ -529,11 +536,39 @@
       "category": "Economy"
     },
     {
-      "title": "South Africans line up for jobs after exodus of foreign workers",
+      "title": "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/south-africans-line-up-for-jobs-after-exodus-of-foreign-workers?traffic_source=rss",
-      "published_date": "2026-07-07T17:11:14+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
+      "published_date": "2026-07-14T22:11:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
+      "published_date": "2026-07-14T21:05:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Families claim bodies of victims of deadly Bangkok pub fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/families-claim-bodies-of-victims-of-deadly-bangkok-pub-fire?traffic_source=rss",
+      "published_date": "2026-07-14T19:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland iyo Caqabadaha Dhaqaale ee Is Biirsaday: Ma Joogtaa Xilligii Dib-u-habeynta Siyaasadda Dhaqaalaha?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/14/puntland-iyo-caqabadaha-dhaqaale-ee-is-biirsaday-ma-joogtaa-xilligii-dib-u-habeynta-siyaasadda-dhaqaalaha/",
+      "published_date": "2026-07-14T13:45:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Safiirka Ingiriiska oo la kulmay Cirro",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/14/safiirka-ingiriiska-oo-la-kulmay-cirro/",
+      "published_date": "2026-07-14T12:56:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Boosaaso: Dekedda iyo goobaha ganacsiga oo weli xiran",
@@ -638,41 +673,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss",
       "published_date": "2026-07-12T17:51:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muxuu ku soo dhammaaday kulankii dowladda iyo ganacsatada ee Boosaaso?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/12/muxuu-ku-soo-dhammaaday-kulankii-dowladda-iyo-ganacsatada-ee-boosaaso/",
-      "published_date": "2026-07-12T14:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidan gadoodsan oo xirtay wadada u dhaxaysa Boosaaso iyo Carmo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/12/ciidan-gadoodsan-oo-xirtay-wadada-u-dhaxaysa-boosaaso-iyo-carmo/",
-      "published_date": "2026-07-12T11:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lindsey Graham, one of Israel’s strongest US Senate allies, dies at 71",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss",
-      "published_date": "2026-07-12T06:27:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wasiir Ku-xigeenka Warfaafinta oo Dhuusamareeb ka wada ololaha musharraxa hoggaamiyaha Galmudug ee JSP",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiir-ku-xigeenka-warfaafinta-oo-dhuusamareeb-ka-wada-ololaha-musharraxa-hoggaamiyaha-galmudug-ee-jsp/",
-      "published_date": "2026-07-12T06:02:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria rescues dozens of abducted school children in Oyo state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
-      "published_date": "2026-07-12T01:56:01+00:00",
       "category": "Local Events"
     }
   ]
