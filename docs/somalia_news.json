@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-15T12:19:24.551890+00:00",
-  "story_count": 96,
+  "last_updated": "2026-07-15T23:56:27.152643+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "The history of the US and Iraq’s complicated relationship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss",
+      "published_date": "2026-07-15T19:54:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s FM says political talks are progressing, sees breakthrough ahead",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-fm-political-talks-progress-breakthrough/",
+      "published_date": "2026-07-15T17:13:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali minister visits embassy in Pakistan where she previously served as ambassador",
       "source": "Shabelle Media",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel to hold national elections on October 27, parliament says",
+      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
-      "published_date": "2026-07-12T21:26:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
+      "published_date": "2026-07-15T21:46:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+      "title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
-      "published_date": "2026-07-12T21:12:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
+      "published_date": "2026-07-15T19:09:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
+      "published_date": "2026-07-15T18:58:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian homes sealed off by Israeli military restrictions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
+      "published_date": "2026-07-15T18:49:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Somali army destroys Al-Shabaab hideouts in Lower Shabelle operation",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
+      "title": "Ukraine strikes 20 Russian vessels",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
-      "published_date": "2026-07-14T17:22:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan, Somalia Discuss Military Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jordan-somalia-discuss-military-cooperation/",
-      "published_date": "2026-07-14T12:24:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What we know about UK politician Ann Widdecombe’s murder",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/what-we-know-about-uk-politician-ann-widdecombes-murder?traffic_source=rss",
-      "published_date": "2026-07-14T11:40:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/dozens-of-healthcare-workers-in-drc-strike-amid-ebola-outbreak?traffic_source=rss",
-      "published_date": "2026-07-14T10:53:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss",
+      "published_date": "2026-07-15T19:58:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "India’s ethanol rush prompts anger among vehicle owners, questions for gov’t",
@@ -379,27 +386,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/india-floods-sweep-away-thousands-of-gas-cylinders?traffic_source=rss",
       "published_date": "2026-07-09T11:32:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US summer travel slumps under rising fares and fuel expenses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses?traffic_source=rss",
-      "published_date": "2026-07-08T20:15:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Mass cleanup underway after severe flooding in China",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/mass-cleanup-underway-after-severe-flooding-in-china?traffic_source=rss",
-      "published_date": "2026-07-08T18:58:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump says US ‘may take over Kharg Island’: Here’s what you need to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-us-may-take-over-kharg-island-heres-what-you-need-to-know?traffic_source=rss",
-      "published_date": "2026-07-08T18:52:13+00:00",
       "category": "Energy"
     },
     {
@@ -522,18 +508,53 @@
       "category": "Economy"
     },
     {
-      "title": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
+      "title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss",
-      "published_date": "2026-07-08T20:40:53+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday?traffic_source=rss",
+      "published_date": "2026-07-15T23:02:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "IGAD Steps Up Support for Somalia’s Ratification and Implementation of the Free Movement of Persons Protocol",
+      "title": "Puntland: Taliyihii saldhiga Jariiban oo la dilay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/16/puntland-taliyihii-saldhiga-jariiban-oo-la-dilay/",
+      "published_date": "2026-07-15T22:24:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali National University Launches the Somali National Artificial Intelligence Centre",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/igad-steps-up-support-for-somalias-ratification-and-implementation-of-the-free-movement-of-persons-protocol/",
-      "published_date": "2026-07-08T17:33:44+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somali-national-university-launches-the-somali-national-artificial-intelligence-centre/",
+      "published_date": "2026-07-15T20:17:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia pounds Ukraine with missile, drone strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
+      "published_date": "2026-07-15T19:59:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Parliament approves landmark assisted-dying bill",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
+      "published_date": "2026-07-15T19:58:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentina fans flood Atlanta ahead of England World Cup match",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
+      "published_date": "2026-07-15T19:08:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni: Ma jirto cashuur aan ku kordhinay dekedda Boosaao",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/15/deni-ma-jirto-cashuur-aan-ku-kordhinay-dekedda-boosaao/",
+      "published_date": "2026-07-15T13:42:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Why has Lindsey Graham’s sister inherited his Senate seat after his death?",
@@ -624,55 +645,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
       "published_date": "2026-07-14T07:39:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN issues appeal for drought, conflict-hit Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-issues-appeal-for-drought-conflict-hit-somalia/",
-      "published_date": "2026-07-14T07:24:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidamada Soomaaliya iyo Dowlad Deegaanka Soomaalida oo Ku Heshiiyey Xoojinta Amniga Xuduudaha",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-soomaaliya-iyo-dowlad-deegaanka-soomaalida-oo-ku-heshiiyey-xoojinta-amniga-xuduudaha/",
-      "published_date": "2026-07-14T06:12:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
-      "published_date": "2026-07-13T22:33:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Locked exits, burning decor: inside Bangkok’s deadly pub fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/locked-exits-burning-decor-inside-bangkoks-deadly-pub-fire?traffic_source=rss",
-      "published_date": "2026-07-13T18:43:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo sheegtay in ay hay’adaha gargaarka ka joojisay deegaannadeeda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/13/puntland-oo-sheegtay-in-ay-hayadaha-gargaarka-ka-joojisay-deegaannadeeda/",
-      "published_date": "2026-07-13T17:58:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Leader Launches Construction of Presidential Mosque in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-leader-launches-construction-of-presidential-mosque-in-baidoa/",
-      "published_date": "2026-07-13T08:56:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wararkii ugu dambeeyay ee Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/13/wararkii-ugu-dambeeyay-ee-boosaaso-2/",
-      "published_date": "2026-07-13T05:51:12+00:00",
       "category": "Local Events"
     }
   ]
