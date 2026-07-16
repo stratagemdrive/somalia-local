@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-16T12:23:33.711147+00:00",
-  "story_count": 91,
+  "last_updated": "2026-07-16T23:55:37.545638+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Qatar rejects Israeli reports of military action against Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss",
+      "published_date": "2026-07-16T23:07:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The hardest party to manage in the Iran talks isn’t Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
+      "published_date": "2026-07-16T20:40:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nicaragua severs diplomatic ties with Italy over 1978 murder case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/nicaragua-severs-diplomatic-ties-with-italy-over-1978-murder-case?traffic_source=rss",
+      "published_date": "2026-07-16T19:57:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The history of the US and Iraq’s complicated relationship",
       "source": "Al Jazeera",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
+      "title": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss",
-      "published_date": "2026-07-13T12:36:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss",
+      "published_date": "2026-07-16T23:05:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Soomaaliya oo Saddex Maalmood Hoos u Dhigtay Calanka Qaranka Geerida Amiirkii Hore ee Qatar awgeed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-saddex-maalmood-hoos-u-dhigtay-calanka-qaranka-geerida-amiirkii-hore-ee-qatar-awgeed/",
-      "published_date": "2026-07-13T11:27:33+00:00",
-      "category": "Diplomacy"
+      "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
+      "published_date": "2026-07-16T21:02:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
+      "title": "Syria says it foiled Hezbollah weapons shipment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss",
-      "published_date": "2026-07-13T10:32:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
+      "published_date": "2026-07-16T20:30:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss",
+      "published_date": "2026-07-16T20:03:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What could a US ground invasion of Iran look like?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss",
+      "published_date": "2026-07-16T18:45:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
+      "published_date": "2026-07-16T18:37:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
+      "published_date": "2026-07-16T17:54:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US approves nearly $2bn in weapons sale to Saudi Arabia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-approves-nearly-2bn-in-weapons-sale-to-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-07-16T17:22:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rare protests in Kyiv over dismissal of defence minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss",
+      "published_date": "2026-07-16T17:15:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eleven killed in Algeria orphanage fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss",
+      "published_date": "2026-07-16T16:56:54+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+      "title": "Iraq says $19M found in hideouts linked to ex-oil minister",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
-      "published_date": "2026-07-15T08:55:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
-      "published_date": "2026-07-15T07:58:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali special forces destroy Al-Shabaab hideouts in Lower Juba operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-special-forces-destroy-al-shabaab-hideouts-in-lower-juba-operation/",
-      "published_date": "2026-07-15T07:55:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss",
-      "published_date": "2026-07-15T06:29:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Xoogga Dalka oo Howlgal Ka Fuliyay Deegaanno Hoostaga Sablaale",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-xoogga-dalka-oo-howlgal-ka-fuliyay-deegaanno-hoostaga-sablaale/",
-      "published_date": "2026-07-15T06:12:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Iran’s southern coast is bearing the brunt of US attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss",
-      "published_date": "2026-07-15T05:34:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
-      "published_date": "2026-07-14T21:05:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What is Iran’s Pickaxe Mountain?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
-      "published_date": "2026-07-14T20:27:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Worker killed in furnace explosion fire at Indian recycling plant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
-      "published_date": "2026-07-14T20:18:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
-      "published_date": "2026-07-14T20:17:56+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss",
+      "published_date": "2026-07-16T19:19:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Climate funding: Who pays for the transition?",
@@ -365,27 +372,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
       "published_date": "2026-07-10T20:23:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/9/canadian-pm-visits-saudi-arabia-to-strengthen-energy-mining-partnerships?traffic_source=rss",
-      "published_date": "2026-07-09T20:06:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions?traffic_source=rss",
-      "published_date": "2026-07-09T20:03:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukraine targets Russian oil depots and tankers in drone attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/ukraine-targets-russian-oil-depots-and-tankers-in-drone-attacks?traffic_source=rss",
-      "published_date": "2026-07-09T12:24:20+00:00",
       "category": "Energy"
     },
     {
@@ -487,18 +473,25 @@
       "category": "Economy"
     },
     {
-      "title": "South African protesters intimidate migrants as aid group issues warning",
+      "title": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/south-african-protesters-intimidate-migrants-as-aid-group-issues-warning?traffic_source=rss",
-      "published_date": "2026-07-09T20:03:39+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
+      "published_date": "2026-07-16T21:57:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US expands Iran strikes Iran hitting  fishing piers near nuclear plant",
+      "title": "Somaliland Cabinet Reviews National Media Registration and Public Awareness Plans",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-cabinet-reviews-national-media-registration-and-public-awareness-plans/",
+      "published_date": "2026-07-16T21:43:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump live: US president to deliver primetime address on elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss",
-      "published_date": "2026-07-09T18:17:55+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss",
+      "published_date": "2026-07-16T20:59:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iran claims strikes on US bases, warns of wider attacks on region",
@@ -617,27 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss",
       "published_date": "2026-07-15T10:13:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran launches attacks across region as US strikes continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue?traffic_source=rss",
-      "published_date": "2026-07-15T09:15:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lindsey Graham’s sister sworn in to fill his US Senate seat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/lindsey-grahams-sister-sworn-in-to-fill-his-us-senate-seat?traffic_source=rss",
-      "published_date": "2026-07-15T07:50:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
-      "published_date": "2026-07-14T22:11:33+00:00",
       "category": "Local Events"
     }
   ]
