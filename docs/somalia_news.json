@@ -1,7 +1,7 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-15T23:56:27.152643+00:00",
-  "story_count": 92,
+  "last_updated": "2026-07-16T12:23:33.711147+00:00",
+  "story_count": 91,
   "stories": [
     {
       "title": "The history of the US and Iraq’s complicated relationship",
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/16/destroyed-my-whole-life-lebanese-families-wiped-out-in-israeli?traffic_source=rss",
+      "published_date": "2026-07-16T11:40:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/why-italys-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-trials?traffic_source=rss",
+      "published_date": "2026-07-16T08:57:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
+      "published_date": "2026-07-16T08:18:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pete Hegseth says US military to start testosterone screening for over 30s",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss",
+      "published_date": "2026-07-16T07:57:55+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
+      "title": "Climate funding: Who pays for the transition?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
-      "published_date": "2026-07-14T20:12:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US risks falling into ‘escalation trap’ if it deploys troops in Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss",
-      "published_date": "2026-07-14T18:32:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
-      "published_date": "2026-07-14T18:26:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US AFRICOM conducts airstrike against Al-Shabaab in Somalia near Sablaale",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/us-africom-airstrike-al-shabaab-somalia-sablaale/",
-      "published_date": "2026-07-14T18:02:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
+      "published_date": "2026-07-16T10:39:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine strikes 20 Russian vessels",
@@ -382,11 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "India floods sweep away thousands of gas cylinders",
+      "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/india-floods-sweep-away-thousands-of-gas-cylinders?traffic_source=rss",
-      "published_date": "2026-07-09T11:32:58+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
+      "published_date": "2026-07-16T08:10:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia signs tax-free fish export agreement with China, opening Chinese market to Somali seafood",
@@ -494,18 +501,60 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia approves maritime cooperation deal with Egypt",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-approves-maritime-cooperation-deal-with-egypt/",
-      "published_date": "2026-07-09T08:55:42+00:00",
-      "category": "Economy"
+      "title": "Iran claims strikes on US bases, warns of wider attacks on region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss",
+      "published_date": "2026-07-16T12:00:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK Parliament event highlights Türkiye-UK-Somalia cooperation for Somalia’s future",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uk-parliament-event-highlights-turkiye-uk-somalia-cooperation-for-somalias-future/",
-      "published_date": "2026-07-09T06:33:04+00:00",
-      "category": "Economy"
+      "title": "EU court upholds Spanish amnesty law as compatible with EU law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/eu-court-upholds-spanish-amnesty-law-as-compatible-with-eu-law?traffic_source=rss",
+      "published_date": "2026-07-16T11:56:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss",
+      "published_date": "2026-07-16T10:45:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire at orphanage in Algeria kills 11 people, including children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/fire-at-orphanage-in-algeria-kills-11-people-including-children?traffic_source=rss",
+      "published_date": "2026-07-16T10:41:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 500 feared dead after reports of boats capsizing off Myanmar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/more-than-500-feared-dead-after-reports-of-boats-capsizing-off-myanmar?traffic_source=rss",
+      "published_date": "2026-07-16T09:51:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Decades of denial: Death certificate for disappeared reopens Kashmir wounds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/decades-of-denial-death-certificate-for-disappeared-reopens-kashmir-wounds?traffic_source=rss",
+      "published_date": "2026-07-16T09:39:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vance says Epstein had connections to US, Israeli intelligence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss",
+      "published_date": "2026-07-16T08:37:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jariiban: Nin ku eedeysan dilka taliye Guuleed oo la qabtay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/16/jariiban-nin-ku-eedeysan-dilka-taliye-guuleed-oo-la-qabtay/",
+      "published_date": "2026-07-16T01:07:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
@@ -589,62 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
       "published_date": "2026-07-14T22:11:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
-      "published_date": "2026-07-14T21:05:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Families claim bodies of victims of deadly Bangkok pub fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/families-claim-bodies-of-victims-of-deadly-bangkok-pub-fire?traffic_source=rss",
-      "published_date": "2026-07-14T19:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland iyo Caqabadaha Dhaqaale ee Is Biirsaday: Ma Joogtaa Xilligii Dib-u-habeynta Siyaasadda Dhaqaalaha?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/14/puntland-iyo-caqabadaha-dhaqaale-ee-is-biirsaday-ma-joogtaa-xilligii-dib-u-habeynta-siyaasadda-dhaqaalaha/",
-      "published_date": "2026-07-14T13:45:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Safiirka Ingiriiska oo la kulmay Cirro",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/14/safiirka-ingiriiska-oo-la-kulmay-cirro/",
-      "published_date": "2026-07-14T12:56:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boosaaso: Dekedda iyo goobaha ganacsiga oo weli xiran",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/14/boosaaso-dekedda-iyo-goobaha-ganacsiga-oo-weli-xiran/",
-      "published_date": "2026-07-14T11:30:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Utah Jazz guard Trey Alexander stretchered off court in NBA Summer League",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/14/utah-jazz-guard-trey-alexander-stretchered-off-court-in-nba-summer-league?traffic_source=rss",
-      "published_date": "2026-07-14T10:13:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Wariye lagu xiray magaalada Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/14/puntland-wariye-lagu-xiray-magaalada-boosaaso/",
-      "published_date": "2026-07-14T10:10:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
-      "published_date": "2026-07-14T07:39:34+00:00",
       "category": "Local Events"
     }
   ]
