@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-17T12:16:40.762812+00:00",
-  "story_count": 88,
+  "last_updated": "2026-07-17T23:49:43.475049+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
+      "published_date": "2026-07-17T18:28:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Yuba’ – My dear father",
       "source": "Al Jazeera",
@@ -137,17 +144,52 @@
       "category": "Diplomacy"
     },
     {
-      "title": "World pays tribute to Qatar’s Father Emir",
+      "title": "EU urges Israel to halt settlement expansion as settlers attack children",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/world-pays-tribute-to-qatars-father-emir?traffic_source=rss",
-      "published_date": "2026-07-13T20:17:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss",
+      "published_date": "2026-07-17T22:54:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches seventh straight night of strikes on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
+      "published_date": "2026-07-17T22:11:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "ICE agent behind fatal shooting in Maine reportedly had troubled history",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/ice-agent-behind-fatal-shooting-in-maine-reportedly-had-troubled-history?traffic_source=rss",
+      "published_date": "2026-07-17T21:12:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can the US and Iran reach a lasting deal to end the conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss",
+      "published_date": "2026-07-17T18:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Life after amputation: Gaza women find recovery through football",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
+      "published_date": "2026-07-17T18:02:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/17/has-ukraines-zelenskyy-created-a-rival-by-sacking-his-defence-minister?traffic_source=rss",
       "published_date": "2026-07-17T10:07:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "JD Vance accuses Israel of ‘manipulating’ US public opinion to prolong Iran war",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/17/jd-vance-accuses-israel-of-manipulating-us-public-opinion-to-prolong-iran-war/",
+      "published_date": "2026-07-17T05:23:58+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
+      "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/16/destroyed-my-whole-life-lebanese-families-wiped-out-in-israeli?traffic_source=rss",
-      "published_date": "2026-07-16T11:40:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/why-italys-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-trials?traffic_source=rss",
-      "published_date": "2026-07-16T08:57:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
-      "published_date": "2026-07-16T08:18:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pete Hegseth says US military to start testosterone screening for over 30s",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss",
-      "published_date": "2026-07-16T07:57:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
-      "published_date": "2026-07-15T21:46:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fourteen-year-old boy charged over alleged plot targeting London mosques",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
-      "published_date": "2026-07-15T19:09:32+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
+      "published_date": "2026-07-17T22:19:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iraq says $19M found in hideouts linked to ex-oil minister",
@@ -354,25 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
+      "title": "Top IRS lawyer to resign post amid disagreements with Trump administration",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
-      "published_date": "2026-07-10T23:18:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Under Lula, Amazon deforestation falls to lowest level in a decade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade?traffic_source=rss",
-      "published_date": "2026-07-10T22:36:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
-      "published_date": "2026-07-10T20:23:36+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/17/top-irs-lawyer-to-resign-post-amid-disagreements-with-trump-administration?traffic_source=rss",
+      "published_date": "2026-07-17T20:50:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
@@ -473,11 +466,25 @@
       "category": "Economy"
     },
     {
-      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+      "title": "At least two dead as heavy rains, floods strike central Texas",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
-      "published_date": "2026-07-10T23:00:11+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/gallery/2026/7/17/at-least-two-dead-as-heavy-rains-floods-strike-central-texas?traffic_source=rss",
+      "published_date": "2026-07-17T20:09:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least three killed and hundreds displaced by heavy rain in Chile",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss",
+      "published_date": "2026-07-17T18:59:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fahiimo Quuje oo u wareegtay Somaliland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/17/fahiimo-quuje-oo-u-wareegtay-somaliland/",
+      "published_date": "2026-07-17T17:00:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump’s new election push, explained",
@@ -596,27 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/16/decades-of-denial-death-certificate-for-disappeared-reopens-kashmir-wounds?traffic_source=rss",
       "published_date": "2026-07-16T09:39:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vance says Epstein had connections to US, Israeli intelligence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss",
-      "published_date": "2026-07-16T08:37:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jariiban: Nin ku eedeysan dilka taliye Guuleed oo la qabtay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/16/jariiban-nin-ku-eedeysan-dilka-taliye-guuleed-oo-la-qabtay/",
-      "published_date": "2026-07-16T01:07:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday?traffic_source=rss",
-      "published_date": "2026-07-15T23:02:57+00:00",
       "category": "Local Events"
     }
   ]
