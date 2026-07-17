@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-16T23:55:37.545638+00:00",
-  "story_count": 87,
+  "last_updated": "2026-07-17T12:16:40.762812+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "‘Yuba’ – My dear father",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/17/yuba-my-dear-father?traffic_source=rss",
+      "published_date": "2026-07-17T11:49:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
+      "published_date": "2026-07-17T09:24:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-07-17T07:56:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar rejects Israeli reports of military action against Iran",
       "source": "Al Jazeera",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia’s efforts to secure Uganda visit for president Hassan Sheikh Mohamud stall amid reported rift with Museveni",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-uganda-visit-museveni-rift/",
-      "published_date": "2026-07-13T19:37:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spanish PM visits site of deadly wildfire",
+      "title": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/spanish-pm-visits-site-of-deadly-wildfire?traffic_source=rss",
-      "published_date": "2026-07-13T19:22:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/17/has-ukraines-zelenskyy-created-a-rival-by-sacking-his-defence-minister?traffic_source=rss",
+      "published_date": "2026-07-17T10:07:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia opposition refused Farmajo entry into main coalition, former foreign minister says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-refused-farmajo-entry-main-coalition/",
-      "published_date": "2026-07-13T15:10:50+00:00",
-      "category": "Diplomacy"
+      "title": "US bombards Iran in sixth-straight night of attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss",
+      "published_date": "2026-07-17T04:57:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-07-17T04:39:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
@@ -214,6 +235,13 @@
       "category": "Military"
     },
     {
+      "title": "Heavy fighting erupts in Baidoa after forces loyal to Laftagaren attack Somali army positions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/heavy-fighting-baidoa-laftagaren-forces-attack-somali-army-positions/",
+      "published_date": "2026-07-16T12:57:55+00:00",
+      "category": "Military"
+    },
+    {
       "title": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/16/destroyed-my-whole-life-lebanese-families-wiped-out-in-israeli?traffic_source=rss",
@@ -253,34 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss",
       "published_date": "2026-07-15T19:09:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
-      "published_date": "2026-07-15T18:58:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian homes sealed off by Israeli military restrictions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
-      "published_date": "2026-07-15T18:49:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army destroys Al-Shabaab hideouts in Lower Shabelle operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-destroys-al-shabaab-hideouts-in-lower-shabelle-operation/",
-      "published_date": "2026-07-15T11:51:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could the US take control of Iran’s southern islands?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss",
-      "published_date": "2026-07-15T11:35:28+00:00",
       "category": "Military"
     },
     {
@@ -375,6 +375,20 @@
       "category": "Energy"
     },
     {
+      "title": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
+      "published_date": "2026-07-17T10:06:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Alleged ringleader of $250 million Minnesota Feeding Our Future fraud extradited from Somalia to face U.S. charges",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/minnesota-feeding-our-future-fraud-ringleader-extradited-somalia-us/",
+      "published_date": "2026-07-17T06:40:44+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
@@ -466,11 +480,60 @@
       "category": "Economy"
     },
     {
-      "title": "Fall in funding cuts aid to 1 million women: UN",
+      "title": "Trump’s new election push, explained",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/fall-in-funding-cuts-aid-to-1-million-women-un?traffic_source=rss",
-      "published_date": "2026-07-10T10:14:21+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss",
+      "published_date": "2026-07-17T10:40:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Knesset dissolves: How will Israel vote in October’s general election?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
+      "published_date": "2026-07-17T10:10:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel headed for October election as parliament dissolved",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
+      "published_date": "2026-07-17T09:42:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gulf states come under Iranian fire as US strikes intensify",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss",
+      "published_date": "2026-07-17T08:18:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is Pakistan’s Sindh province facing a major child HIV outbreak?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/why-is-pakistans-sindh-province-facing-a-major-child-hiv-outbreak?traffic_source=rss",
+      "published_date": "2026-07-17T07:33:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Qisaas lagu fuliyay nin lagu helay dilkii taliye Guuleed",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/17/puntland-qisaas-lagu-fuliyay-nin-lagu-helay-dilkii-taliye-guuleed/",
+      "published_date": "2026-07-17T06:19:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Texas floods ravage through southwestern areas of state",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss",
+      "published_date": "2026-07-17T05:12:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Key takeaways from Donald Trump’s controversial speech on election security",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
+      "published_date": "2026-07-17T04:58:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
@@ -554,62 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday?traffic_source=rss",
       "published_date": "2026-07-15T23:02:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Taliyihii saldhiga Jariiban oo la dilay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/16/puntland-taliyihii-saldhiga-jariiban-oo-la-dilay/",
-      "published_date": "2026-07-15T22:24:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali National University Launches the Somali National Artificial Intelligence Centre",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-national-university-launches-the-somali-national-artificial-intelligence-centre/",
-      "published_date": "2026-07-15T20:17:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia pounds Ukraine with missile, drone strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
-      "published_date": "2026-07-15T19:59:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Parliament approves landmark assisted-dying bill",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
-      "published_date": "2026-07-15T19:58:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina fans flood Atlanta ahead of England World Cup match",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss",
-      "published_date": "2026-07-15T19:08:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni: Ma jirto cashuur aan ku kordhinay dekedda Boosaao",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/15/deni-ma-jirto-cashuur-aan-ku-kordhinay-dekedda-boosaao/",
-      "published_date": "2026-07-15T13:42:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why has Lindsey Graham’s sister inherited his Senate seat after his death?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/why-has-lindsey-grahams-sister-inherited-his-senate-seat-after-his-death?traffic_source=rss",
-      "published_date": "2026-07-15T11:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bangkok pub fire death toll rises to 32 with 15 in intensive care",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss",
-      "published_date": "2026-07-15T10:13:58+00:00",
       "category": "Local Events"
     }
   ]
