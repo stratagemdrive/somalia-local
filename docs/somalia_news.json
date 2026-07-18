@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-18T11:56:44.191242+00:00",
-  "story_count": 85,
+  "last_updated": "2026-07-18T23:53:10.107292+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
+      "published_date": "2026-07-18T18:55:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s security at breaking point as key UN support nears year-end cutoff",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-crisis-un-support-deadline-2026/",
+      "published_date": "2026-07-18T14:55:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Venice protesters rally against US ambassador’s superyacht tour",
       "source": "Al Jazeera",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Wasiirka Warfaafinta Soomaaliya oo Booqday Safaaradda Soomaaliya ee Kenya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiirka-warfaafinta-soomaaliya-oo-booqday-safaaradda-soomaaliya-ee-kenya/",
-      "published_date": "2026-07-14T14:33:24+00:00",
-      "category": "Diplomacy"
+      "title": "Oil Tanker Hijacked in Gulf of Aden; Somali Pirates Suspected",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/oil-tanker-hijacked-in-gulf-of-aden-somali-pirates-suspected/",
+      "published_date": "2026-07-18T21:50:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali minister holds bilateral meetings on sidelines of OIC women’s conference",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-minister-holds-bilateral-meetings-on-sidelines-of-oic-womens-conference/",
-      "published_date": "2026-07-14T12:30:26+00:00",
-      "category": "Diplomacy"
+      "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
+      "published_date": "2026-07-18T20:24:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+      "published_date": "2026-07-18T19:55:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military says two service members killed in Iranian strike in Jordan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
+      "published_date": "2026-07-18T18:04:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Armed groups attack Malian military convoy in Gao region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss",
+      "published_date": "2026-07-18T16:24:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+      "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-07-17T04:39:08+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss",
+      "published_date": "2026-07-18T16:47:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
+      "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss",
-      "published_date": "2026-07-16T23:05:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
-      "published_date": "2026-07-16T21:02:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria says it foiled Hezbollah weapons shipment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
-      "published_date": "2026-07-16T20:30:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss",
-      "published_date": "2026-07-16T20:03:58+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
+      "published_date": "2026-07-18T14:23:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
@@ -354,11 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+      "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-      "published_date": "2026-07-11T13:18:29+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss",
+      "published_date": "2026-07-18T16:06:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
+      "published_date": "2026-07-18T15:35:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "Top IRS lawyer to resign post amid disagreements with Trump administration",
@@ -452,11 +473,18 @@
       "category": "Economy"
     },
     {
-      "title": "When Cash Failed, Connection Became Currency",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/when-cash-failed-connection-became-currency/",
-      "published_date": "2026-07-11T18:55:05+00:00",
-      "category": "Economy"
+      "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
+      "published_date": "2026-07-18T21:03:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss",
+      "published_date": "2026-07-18T19:42:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland oo dib xorriyadiisa u siisay wariye ku xirnaa Boosaaso",
@@ -582,20 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss",
       "published_date": "2026-07-16T20:59:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran claims strikes on US bases, warns of wider attacks on region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss",
-      "published_date": "2026-07-16T12:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU court upholds Spanish amnesty law as compatible with EU law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/eu-court-upholds-spanish-amnesty-law-as-compatible-with-eu-law?traffic_source=rss",
-      "published_date": "2026-07-16T11:56:14+00:00",
       "category": "Local Events"
     }
   ]
