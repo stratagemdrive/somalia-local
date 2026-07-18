@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-17T23:49:43.475049+00:00",
-  "story_count": 86,
+  "last_updated": "2026-07-18T11:56:44.191242+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Venice protesters rally against US ambassador’s superyacht tour",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/venice-protesters-rally-against-us-ambassadors-superyacht-tour?traffic_source=rss",
+      "published_date": "2026-07-18T03:37:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
       "source": "Al Jazeera",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Emir of Qatar receives condolences on the death of the Father Emir",
+      "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/emir-of-qatar-receives-condolences-on-the-death-of-the-father-emir?traffic_source=rss",
-      "published_date": "2026-07-14T09:20:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
+      "published_date": "2026-07-18T11:10:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss",
+      "published_date": "2026-07-18T10:48:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
+      "published_date": "2026-07-18T05:15:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 14 dead after minibus rolls off mountain road in Peru",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/at-least-14-dead-after-minibus-rolls-off-mountain-road-in-peru?traffic_source=rss",
+      "published_date": "2026-07-18T03:49:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian official says the policy of negotiating during war is over",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
+      "published_date": "2026-07-18T02:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army destroys three schools in southern Lebanon, minister says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss",
+      "published_date": "2026-07-18T02:06:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Targets of latest US strikes on Iran signal strategic shift",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss",
+      "published_date": "2026-07-18T01:54:45+00:00",
+      "category": "Military"
     },
     {
       "title": "EU urges Israel to halt settlement expansion as settlers attack children",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "What could a US ground invasion of Iran look like?",
+      "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss",
-      "published_date": "2026-07-16T18:45:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
-      "published_date": "2026-07-16T18:37:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
-      "published_date": "2026-07-16T17:54:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US approves nearly $2bn in weapons sale to Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/us-approves-nearly-2bn-in-weapons-sale-to-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-07-16T17:22:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rare protests in Kyiv over dismissal of defence minister",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss",
-      "published_date": "2026-07-16T17:15:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eleven killed in Algeria orphanage fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss",
-      "published_date": "2026-07-16T16:56:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Heavy fighting erupts in Baidoa after forces loyal to Laftagaren attack Somali army positions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/heavy-fighting-baidoa-laftagaren-forces-attack-somali-army-positions/",
-      "published_date": "2026-07-16T12:57:55+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
+      "published_date": "2026-07-18T04:47:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
@@ -351,13 +358,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
       "published_date": "2026-07-11T13:18:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba suffers second nationwide blackout in five days",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss",
-      "published_date": "2026-07-11T09:00:23+00:00",
       "category": "Energy"
     },
     {
@@ -459,11 +459,32 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia Begins National Drive to Promote Safe, Respectful and Violence-Free Workplaces",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-begins-national-drive-to-promote-safe-respectful-and-violence-free-workplaces/",
-      "published_date": "2026-07-11T09:07:01+00:00",
-      "category": "Economy"
+      "title": "Puntland oo dib xorriyadiisa u siisay wariye ku xirnaa Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/18/puntland-oo-dib-xorriyadiisa-u-siisay-wariye-ku-xirnaa-boosaaso/",
+      "published_date": "2026-07-18T11:46:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia regional lawmaker Fahima Qooje resigns, rejoins Somaliland",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-regional-lawmaker-fahima-qooje-rejoins-somaliland/",
+      "published_date": "2026-07-18T07:21:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final?traffic_source=rss",
+      "published_date": "2026-07-18T02:43:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Analyst questions Trump’s renewed focus on US election integrity",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss",
+      "published_date": "2026-07-18T00:49:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "At least two dead as heavy rains, floods strike central Texas",
@@ -575,34 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/16/eu-court-upholds-spanish-amnesty-law-as-compatible-with-eu-law?traffic_source=rss",
       "published_date": "2026-07-16T11:56:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss",
-      "published_date": "2026-07-16T10:45:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire at orphanage in Algeria kills 11 people, including children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/fire-at-orphanage-in-algeria-kills-11-people-including-children?traffic_source=rss",
-      "published_date": "2026-07-16T10:41:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 500 feared dead after reports of boats capsizing off Myanmar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/more-than-500-feared-dead-after-reports-of-boats-capsizing-off-myanmar?traffic_source=rss",
-      "published_date": "2026-07-16T09:51:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Decades of denial: Death certificate for disappeared reopens Kashmir wounds",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/decades-of-denial-death-certificate-for-disappeared-reopens-kashmir-wounds?traffic_source=rss",
-      "published_date": "2026-07-16T09:39:42+00:00",
       "category": "Local Events"
     }
   ]
