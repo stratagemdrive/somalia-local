@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-18T23:53:10.107292+00:00",
-  "story_count": 87,
+  "last_updated": "2026-07-19T12:01:56.678712+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "US applauds Somalia after extradition of Abdikerm Eidle in alleged $250 million Feeding Our Future fraud case",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/us-applauds-somalia-extradition-abdikerm-eidle-feeding-our-future-250-million-fraud-case/",
+      "published_date": "2026-07-19T10:57:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
       "source": "Al Jazeera",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’",
+      "title": "Iranians suffer from power blackouts during war and heatwave",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss",
-      "published_date": "2026-07-14T17:31:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
+      "published_date": "2026-07-19T11:16:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-07-19T08:49:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+      "published_date": "2026-07-19T07:28:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US bombs Iran for eighth-straight night",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
+      "published_date": "2026-07-19T05:08:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+      "published_date": "2026-07-19T04:32:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Oil Tanker Hijacked in Gulf of Aden; Somali Pirates Suspected",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Can the US and Iran reach a lasting deal to end the conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss",
-      "published_date": "2026-07-17T18:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Life after amputation: Gaza women find recovery through football",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
-      "published_date": "2026-07-17T18:02:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/has-ukraines-zelenskyy-created-a-rival-by-sacking-his-defence-minister?traffic_source=rss",
-      "published_date": "2026-07-17T10:07:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "JD Vance accuses Israel of ‘manipulating’ US public opinion to prolong Iran war",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/17/jd-vance-accuses-israel-of-manipulating-us-public-opinion-to-prolong-iran-war/",
-      "published_date": "2026-07-17T05:23:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US bombards Iran in sixth-straight night of attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss",
-      "published_date": "2026-07-17T04:57:08+00:00",
-      "category": "Military"
-    },
-    {
       "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss",
@@ -366,6 +366,13 @@
       "url": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss",
       "published_date": "2026-07-13T09:34:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-19T08:46:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
@@ -471,6 +478,27 @@
       "url": "https://shabellemedia.com/somalia-turkiye-discuss-expanding-cooperation-on-women-and-social-services/",
       "published_date": "2026-07-12T13:36:14+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss",
+      "published_date": "2026-07-19T10:43:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US hits Iran for 8th consecutive night; Tehran returns fire on Gulf bases",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "published_date": "2026-07-19T04:16:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia races to save Radio Mogadishu’s fading archive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
+      "published_date": "2026-07-19T03:38:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
@@ -589,27 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
       "published_date": "2026-07-17T04:58:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
-      "published_date": "2026-07-16T21:57:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Cabinet Reviews National Media Registration and Public Awareness Plans",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-cabinet-reviews-national-media-registration-and-public-awareness-plans/",
-      "published_date": "2026-07-16T21:43:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump live: US president to deliver primetime address on elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss",
-      "published_date": "2026-07-16T20:59:18+00:00",
       "category": "Local Events"
     }
   ]
