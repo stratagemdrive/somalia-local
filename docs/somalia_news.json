@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-19T12:01:56.678712+00:00",
-  "story_count": 88,
+  "last_updated": "2026-07-19T23:56:06.112847+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Andy Burnham’s in-tray: The challenges facing the new UK PM",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss",
+      "published_date": "2026-07-19T20:12:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The UK gets its seventh prime minister in 10 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss",
+      "published_date": "2026-07-19T20:05:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US applauds Somalia after extradition of Abdikerm Eidle in alleged $250 million Feeding Our Future fraud case",
       "source": "Somali Guardian",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Madaxweyne Xasan Sheekh oo kulan la qaatay Amiirka Qatar",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/15/madaxweyne-xasan-sheekh-oo-kulan-la-qaatay-amiirka-qatar/",
-      "published_date": "2026-07-15T05:49:28+00:00",
-      "category": "Diplomacy"
+      "title": "At least 50 Malian soldiers killed in attack on military convoy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
+      "published_date": "2026-07-19T18:27:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "US President Trump meets with ‘fan of America’ Iraqi PM Ali al-Zaidi",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss",
-      "published_date": "2026-07-14T19:43:26+00:00",
-      "category": "Diplomacy"
+      "title": "US Think Tank Questions Continued American Military Presence in Somalia",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/us-think-tank-questions-continued-american-military-presence-in-somalia/",
+      "published_date": "2026-07-19T18:08:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Iranians suffer from power blackouts during war and heatwave",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "US launches seventh straight night of strikes on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
-      "published_date": "2026-07-17T22:11:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ICE agent behind fatal shooting in Maine reportedly had troubled history",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/ice-agent-behind-fatal-shooting-in-maine-reportedly-had-troubled-history?traffic_source=rss",
-      "published_date": "2026-07-17T21:12:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss",
@@ -366,6 +366,13 @@
       "url": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss",
       "published_date": "2026-07-13T09:34:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
+      "published_date": "2026-07-19T16:43:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
@@ -452,32 +459,18 @@
       "category": "Economy"
     },
     {
-      "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
+      "title": "Twin earthquakes strike Peru killing at least five",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
-      "published_date": "2026-07-12T19:53:03+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
+      "published_date": "2026-07-19T20:11:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
-      "published_date": "2026-07-12T19:48:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somalia Moving Towards Industrial Development, PM Says",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-moving-towards-industrial-development-pm-says/",
-      "published_date": "2026-07-12T13:40:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somalia, Türkiye Discuss Expanding Cooperation on Women and Social Services",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-turkiye-discuss-expanding-cooperation-on-women-and-social-services/",
-      "published_date": "2026-07-12T13:36:14+00:00",
-      "category": "Economy"
+      "title": "Wasiirro ka tirsan Puntland oo booqday dekedda Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/19/wasiirro-ka-tirsan-puntland-oo-booqday-dekedda-boosaaso/",
+      "published_date": "2026-07-19T16:08:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
@@ -603,20 +596,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/17/puntland-qisaas-lagu-fuliyay-nin-lagu-helay-dilkii-taliye-guuleed/",
       "published_date": "2026-07-17T06:19:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Texas floods ravage through southwestern areas of state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss",
-      "published_date": "2026-07-17T05:12:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Key takeaways from Donald Trump’s controversial speech on election security",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
-      "published_date": "2026-07-17T04:58:58+00:00",
       "category": "Local Events"
     }
   ]
