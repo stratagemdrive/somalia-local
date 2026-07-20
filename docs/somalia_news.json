@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-19T23:56:06.112847+00:00",
-  "story_count": 85,
+  "last_updated": "2026-07-20T13:10:43.471218+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Wasiir ka tirsan Jubaland oo geeriyooday",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/20/wasiir-ka-tirsan-jubaland-oo-geeriyooday/",
+      "published_date": "2026-07-20T09:24:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/rubio-us-open-to-diplomacy-after-ninth-night-of-bombing-iran?traffic_source=rss",
+      "published_date": "2026-07-20T08:41:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia foreign ministry shuts down after electricity cut over unpaid bills",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-foreign-ministry-shuts-down-after-electricity-cut-over-unpaid-bills/",
+      "published_date": "2026-07-20T08:28:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Andy Burnham’s in-tray: The challenges facing the new UK PM",
       "source": "Al Jazeera",
@@ -123,25 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?",
+      "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/gibraltar-border-controls-lifted-is-it-part-of-schengen-the-uk-or-both?traffic_source=rss",
-      "published_date": "2026-07-15T10:45:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
+      "published_date": "2026-07-20T12:50:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Crowds cross between Spain and Gibraltar following UK-EU treaty",
+      "title": "Argentina fans throw stones at police after World Cup defeat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/crowds-cross-between-spain-and-gibraltar-following-uk-eu-treaty?traffic_source=rss",
-      "published_date": "2026-07-15T10:17:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentina-fans-throw-stones-at-police-after-world-cup-defeat?traffic_source=rss",
+      "published_date": "2026-07-20T12:20:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Wasiirka Qoyska oo Saxiixday Buugga Tacsida Amiirkii Hore ee Qatar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiirka-qoyska-oo-saxiixday-buugga-tacsida-amiirkii-hore-ee-qatar/",
-      "published_date": "2026-07-15T06:16:05+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says Spain World Cup win brings joy to critics of US, Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss",
+      "published_date": "2026-07-20T11:50:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Photos: Police fire tear gas at India’s Cockroach movement supporters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss",
+      "published_date": "2026-07-20T11:34:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
+      "published_date": "2026-07-20T11:27:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Occupied West Bank World Cup screening halted for funeral",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/occupied-west-bank-world-cup-screening-halted-for-funeral?traffic_source=rss",
+      "published_date": "2026-07-20T10:33:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss",
+      "published_date": "2026-07-20T10:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World Cup: Spanish boy, 13, killed in fountain collapse during celebrations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spanish-boy-13-killed-in-fountain-collapse-during-celebrations?traffic_source=rss",
+      "published_date": "2026-07-20T10:07:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police attack Cockroach activists as thousands march on Indian parliament",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament?traffic_source=rss",
+      "published_date": "2026-07-20T09:51:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkiye and Libya’s Haftar are boosting military ties. Is Egypt worried?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/turkiye-and-libyas-haftar-are-boosting-military-ties-is-egypt-worried?traffic_source=rss",
+      "published_date": "2026-07-20T09:48:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indian police beat ‘Cockroach’ march protesters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-beat-cockroach-march-protesters?traffic_source=rss",
+      "published_date": "2026-07-20T09:34:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-07-20T07:47:42+00:00",
+      "category": "Military"
     },
     {
       "title": "At least 50 Malian soldiers killed in attack on military convoy",
@@ -197,90 +281,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/oil-tanker-hijacked-in-gulf-of-aden-somali-pirates-suspected/",
       "published_date": "2026-07-18T21:50:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
-      "published_date": "2026-07-18T20:24:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-      "published_date": "2026-07-18T19:55:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military says two service members killed in Iranian strike in Jordan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
-      "published_date": "2026-07-18T18:04:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Armed groups attack Malian military convoy in Gao region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss",
-      "published_date": "2026-07-18T16:24:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
-      "published_date": "2026-07-18T11:10:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss",
-      "published_date": "2026-07-18T10:48:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
-      "published_date": "2026-07-18T05:15:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 14 dead after minibus rolls off mountain road in Peru",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/at-least-14-dead-after-minibus-rolls-off-mountain-road-in-peru?traffic_source=rss",
-      "published_date": "2026-07-18T03:49:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian official says the policy of negotiating during war is over",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
-      "published_date": "2026-07-18T02:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army destroys three schools in southern Lebanon, minister says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss",
-      "published_date": "2026-07-18T02:06:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Targets of latest US strikes on Iran signal strategic shift",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss",
-      "published_date": "2026-07-18T01:54:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU urges Israel to halt settlement expansion as settlers attack children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss",
-      "published_date": "2026-07-17T22:54:04+00:00",
       "category": "Military"
     },
     {
@@ -358,13 +358,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
       "published_date": "2026-07-14T11:22:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘It’s expensive’: Syria’s electricity has improved, but challenges remain",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss",
-      "published_date": "2026-07-13T09:34:50+00:00",
       "category": "Energy"
     },
     {
@@ -452,11 +445,18 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia, Pakistan Discuss Expanding Human Rights Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pakistan-discuss-expanding-human-rights-cooperation/",
-      "published_date": "2026-07-13T08:53:46+00:00",
-      "category": "Economy"
+      "title": "LIVE: Andy Burnham appointed UK PM, delivers first speech at 10 Downing St",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing?traffic_source=rss",
+      "published_date": "2026-07-20T09:12:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wariye Shucayb Daad oo lagu xiray Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/20/wariye-shucayb-daad-oo-lagu-xiray-boosaaso/",
+      "published_date": "2026-07-20T08:55:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Twin earthquakes strike Peru killing at least five",
@@ -582,20 +582,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss",
       "published_date": "2026-07-17T08:18:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Pakistan’s Sindh province facing a major child HIV outbreak?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/why-is-pakistans-sindh-province-facing-a-major-child-hiv-outbreak?traffic_source=rss",
-      "published_date": "2026-07-17T07:33:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Qisaas lagu fuliyay nin lagu helay dilkii taliye Guuleed",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/17/puntland-qisaas-lagu-fuliyay-nin-lagu-helay-dilkii-taliye-guuleed/",
-      "published_date": "2026-07-17T06:19:43+00:00",
       "category": "Local Events"
     }
   ]
