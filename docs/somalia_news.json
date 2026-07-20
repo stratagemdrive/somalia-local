@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-20T13:10:43.471218+00:00",
-  "story_count": 83,
+  "last_updated": "2026-07-20T23:54:28.387342+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "What are the new British Prime Minister’s biggest challenges?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss",
+      "published_date": "2026-07-20T22:54:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran condemns US attacks on civilian infrastructure",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
+      "published_date": "2026-07-20T20:02:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali president congratulates new UK prime minister, vows to strengthen ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-congratulates-new-uk-prime-minister-vows-to-strengthen-ties/",
+      "published_date": "2026-07-20T14:41:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt rejects Somaliland’s purported Jerusalem mission, seeks release of eight sailors",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/egypt-rejects-somalilands-purported-jerusalem-mission-seeks-release-of-eight-sailors/",
+      "published_date": "2026-07-20T14:22:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Wasiir ka tirsan Jubaland oo geeriyooday",
       "source": "Puntland Post",
@@ -116,32 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The history of the US and Iraq’s complicated relationship",
+      "title": "Fresh Clashes Erupt Between Puntland Forces and PSF Near Bossaso",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/fresh-clashes-erupt-between-puntland-forces-and-psf-near-bossaso/",
+      "published_date": "2026-07-20T23:24:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss",
-      "published_date": "2026-07-15T19:54:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss",
+      "published_date": "2026-07-20T23:21:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s FM says political talks are progressing, sees breakthrough ahead",
+      "title": "War on Iran: War resumes 30 days after MoU",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
+      "published_date": "2026-07-20T22:26:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moroccan-born man dies while detained by police in Italy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/moroccan-born-man-dies-while-detained-by-police-in-italy?traffic_source=rss",
+      "published_date": "2026-07-20T22:13:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
+      "published_date": "2026-07-20T21:06:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How will Zelenskyy handle the growing political crisis at home?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
+      "published_date": "2026-07-20T20:50:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indian police attack Cockroach Janta Party’s parliament march",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
+      "published_date": "2026-07-20T20:21:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italians protest in Bologna after Moroccan man dies during arrest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-italy-after-moroccan-man-dies-during-arrest?traffic_source=rss",
+      "published_date": "2026-07-20T18:53:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia: Fierce fighting erupts in Bosaso as Puntland forces clash with PSF troops",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-fm-political-talks-progress-breakthrough/",
-      "published_date": "2026-07-15T17:13:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-bosaso-fighting-puntland-forces-clash-psf-troops/",
+      "published_date": "2026-07-20T18:20:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali minister visits embassy in Pakistan where she previously served as ambassador",
+      "title": "Somalia disaster agency, army discuss cooperation on emergency response and climate risks",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-minister-visits-embassy-in-pakistan-where-she-previously-served-as-ambassador/",
-      "published_date": "2026-07-15T11:54:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalia-disaster-agency-army-discuss-cooperation-on-emergency-response-and-climate-risks/",
+      "published_date": "2026-07-20T14:27:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia offers condolences to Qatar over death of former emir",
+      "title": "Ciidanka Kumaandooska Danab oo hawlgal Shabeellaha Hoose ku dilay sagaal dagaalyahan oo Al-Shabaab ah",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-offers-condolences-to-qatar-over-death-of-former-emir/",
-      "published_date": "2026-07-15T11:52:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/ciidanka-kumaandooska-danab-oo-hawlgal-shabeellaha-hoose-ku-dilay-sagaal-dagaalyahan-oo-al-shabaab-ah/",
+      "published_date": "2026-07-20T14:17:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali elite Danab forces kill nine Al-Shabaab fighters in Lower Shabelle operation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-elite-danab-forces-kill-nine-al-shabaab-fighters-in-lower-shabelle-operation/",
+      "published_date": "2026-07-20T14:16:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Soomaaliya oo Aljeeriya uga tacsiyeeysay dab ka kacay xarun carruur lagu daryeelo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-aljeeriya-uga-tacsiyeeysay-dab-ka-kacay-xarun-carruur-lagu-daryeelo/",
+      "published_date": "2026-07-20T14:14:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
@@ -193,95 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "World Cup: Spanish boy, 13, killed in fountain collapse during celebrations",
+      "title": "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spanish-boy-13-killed-in-fountain-collapse-during-celebrations?traffic_source=rss",
-      "published_date": "2026-07-20T10:07:16+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/20/monsoon-driven-flash-flooding-kills-at-least-20-in-afghanistan?traffic_source=rss",
+      "published_date": "2026-07-20T20:29:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Police attack Cockroach activists as thousands march on Indian parliament",
+      "title": "EU pauses methane penalties amid energy crisis, US pressure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament?traffic_source=rss",
-      "published_date": "2026-07-20T09:51:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkiye and Libya’s Haftar are boosting military ties. Is Egypt worried?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/turkiye-and-libyas-haftar-are-boosting-military-ties-is-egypt-worried?traffic_source=rss",
-      "published_date": "2026-07-20T09:48:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian police beat ‘Cockroach’ march protesters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-beat-cockroach-march-protesters?traffic_source=rss",
-      "published_date": "2026-07-20T09:34:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-20T07:47:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 50 Malian soldiers killed in attack on military convoy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
-      "published_date": "2026-07-19T18:27:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Think Tank Questions Continued American Military Presence in Somalia",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/us-think-tank-questions-continued-american-military-presence-in-somalia/",
-      "published_date": "2026-07-19T18:08:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranians suffer from power blackouts during war and heatwave",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
-      "published_date": "2026-07-19T11:16:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-19T08:49:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
-      "published_date": "2026-07-19T07:28:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US bombs Iran for eighth-straight night",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
-      "published_date": "2026-07-19T05:08:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least one killed as Russian ballistic missiles hit Kyiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
-      "published_date": "2026-07-19T04:32:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil Tanker Hijacked in Gulf of Aden; Somali Pirates Suspected",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/oil-tanker-hijacked-in-gulf-of-aden-somali-pirates-suspected/",
-      "published_date": "2026-07-18T21:50:43+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/20/eu-pauses-methane-penalties-amid-energy-crisis-us-pressure?traffic_source=rss",
+      "published_date": "2026-07-20T19:29:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
@@ -361,6 +375,13 @@
       "category": "Energy"
     },
     {
+      "title": "Yemeni women support families through enterprise as economic crisis bites",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites?traffic_source=rss",
+      "published_date": "2026-07-20T19:36:37+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
@@ -438,11 +459,67 @@
       "category": "Economy"
     },
     {
-      "title": "How is the US tech industry regulated?",
+      "title": "Chaos in India as ‘Cockroach activists’ march on parliament",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss",
-      "published_date": "2026-07-13T21:03:57+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
+      "published_date": "2026-07-20T22:40:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
+      "published_date": "2026-07-20T21:19:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza residents weigh in on election of new Hamas leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
+      "published_date": "2026-07-20T20:53:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ortega insists no more elections for Nicaragua",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/ortega-insists-no-more-elections-for-nicaragua?traffic_source=rss",
+      "published_date": "2026-07-20T20:49:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after fire outside New York immigration court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
+      "published_date": "2026-07-20T20:45:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
+      "published_date": "2026-07-20T19:43:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Houthis announce maritime blockade on Saudi Arabia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/houthis-announce-maritime-blockade-on-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-07-20T18:32:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Wararkii u dambeeyay ee xiisadda Laag",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/20/puntland-wararkii-u-dambeeyay-ee-xiisadda-laag/",
+      "published_date": "2026-07-20T16:10:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia offers condolences to Algeria after deadly fire at children’s care centre",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-offers-condolences-to-algeria-after-deadly-fire-at-childrens-care-centre/",
+      "published_date": "2026-07-20T14:13:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "LIVE: Andy Burnham appointed UK PM, delivers first speech at 10 Downing St",
@@ -519,69 +596,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-regional-lawmaker-fahima-qooje-rejoins-somaliland/",
       "published_date": "2026-07-18T07:21:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final?traffic_source=rss",
-      "published_date": "2026-07-18T02:43:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Analyst questions Trump’s renewed focus on US election integrity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss",
-      "published_date": "2026-07-18T00:49:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least two dead as heavy rains, floods strike central Texas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/7/17/at-least-two-dead-as-heavy-rains-floods-strike-central-texas?traffic_source=rss",
-      "published_date": "2026-07-17T20:09:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least three killed and hundreds displaced by heavy rain in Chile",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss",
-      "published_date": "2026-07-17T18:59:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fahiimo Quuje oo u wareegtay Somaliland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/17/fahiimo-quuje-oo-u-wareegtay-somaliland/",
-      "published_date": "2026-07-17T17:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump’s new election push, explained",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss",
-      "published_date": "2026-07-17T10:40:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knesset dissolves: How will Israel vote in October’s general election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
-      "published_date": "2026-07-17T10:10:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel headed for October election as parliament dissolved",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
-      "published_date": "2026-07-17T09:42:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gulf states come under Iranian fire as US strikes intensify",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss",
-      "published_date": "2026-07-17T08:18:13+00:00",
       "category": "Local Events"
     }
   ]
