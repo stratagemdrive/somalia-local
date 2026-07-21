@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-20T23:54:28.387342+00:00",
+  "last_updated": "2026-07-21T12:25:54.082902+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Hunger is falling but is still higher than pre-COVID levels: UN report",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss",
+      "published_date": "2026-07-21T11:32:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss",
+      "published_date": "2026-07-21T10:27:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia establishes a national policy to regulate Islamic education",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-establishes-a-national-policy-to-regulate-islamic-education/",
+      "published_date": "2026-07-21T08:07:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What are the new British Prime Minister’s biggest challenges?",
       "source": "Al Jazeera",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatar rejects Israeli reports of military action against Iran",
+      "title": "India’s ‘cockroach’ protest movement halts marches after police violence",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss",
-      "published_date": "2026-07-16T23:07:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss",
+      "published_date": "2026-07-21T11:51:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "The hardest party to manage in the Iran talks isn’t Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
-      "published_date": "2026-07-16T20:40:53+00:00",
-      "category": "Diplomacy"
+      "title": "A special court in Mumbai hands 44 Somalis life imprisonment for piracy",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/a-special-court-in-mumbai-hands-44-somalis-life-imprisonment-for-piracy/",
+      "published_date": "2026-07-21T11:19:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nicaragua severs diplomatic ties with Italy over 1978 murder case",
+      "title": "‘Won’t back down’: Indian student protesters return after police crackdown",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/nicaragua-severs-diplomatic-ties-with-italy-over-1978-murder-case?traffic_source=rss",
-      "published_date": "2026-07-16T19:57:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss",
+      "published_date": "2026-07-21T11:11:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can AI systems make moral decisions in war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss",
+      "published_date": "2026-07-21T10:21:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Huge fire at Ukraine shopping centre after Russian drone strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
+      "published_date": "2026-07-21T09:52:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-21T07:55:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland forces seize military vehicles, weapons and prisoners after clashes with PSF in Bari region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-forces-seize-military-vehicles-weapons-and-prisoners-after-clashes-with-psf-in-bari-region/",
+      "published_date": "2026-07-21T07:50:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland oo ka hadashay dagaalkii Laag",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/21/puntland-oo-ka-hadashay-dagaalkii-laag/",
+      "published_date": "2026-07-21T06:31:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamsa oo bogaadiyay wada-hadallada dowladda iyo mucaaradka ee Muqdisho",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-bogaadiyay-wada-hadallada-dowladda-iyo-mucaaradka-ee-muqdisho/",
+      "published_date": "2026-07-21T06:11:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Fresh Clashes Erupt Between Puntland Forces and PSF Near Bossaso",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Somali elite Danab forces kill nine Al-Shabaab fighters in Lower Shabelle operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-elite-danab-forces-kill-nine-al-shabaab-fighters-in-lower-shabelle-operation/",
-      "published_date": "2026-07-20T14:16:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya oo Aljeeriya uga tacsiyeeysay dab ka kacay xarun carruur lagu daryeelo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-aljeeriya-uga-tacsiyeeysay-dab-ka-kacay-xarun-carruur-lagu-daryeelo/",
-      "published_date": "2026-07-20T14:14:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
+      "title": "Andy Burnham to cut taxes on electricity bills, announces new UK cabinet",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
-      "published_date": "2026-07-20T12:50:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Argentina fans throw stones at police after World Cup defeat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentina-fans-throw-stones-at-police-after-world-cup-defeat?traffic_source=rss",
-      "published_date": "2026-07-20T12:20:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says Spain World Cup win brings joy to critics of US, Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss",
-      "published_date": "2026-07-20T11:50:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Photos: Police fire tear gas at India’s Cockroach movement supporters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss",
-      "published_date": "2026-07-20T11:34:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
-      "published_date": "2026-07-20T11:27:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Occupied West Bank World Cup screening halted for funeral",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/occupied-west-bank-world-cup-screening-halted-for-funeral?traffic_source=rss",
-      "published_date": "2026-07-20T10:33:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss",
-      "published_date": "2026-07-20T10:08:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/21/andy-burnham-to-cut-taxes-on-electricity-bills-announces-new-uk-cabinet?traffic_source=rss",
+      "published_date": "2026-07-21T10:20:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
@@ -368,11 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "How new Yemen tensions could complicate the global energy crisis",
+      "title": "Farage, Reform in ‘trouble’, as UK braces for crypto influence in politics",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
-      "published_date": "2026-07-14T11:22:29+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/21/farage-reform-in-trouble-as-uk-braces-for-crypto-influence-in-politics?traffic_source=rss",
+      "published_date": "2026-07-21T08:51:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FIFA president Gianni Infantino set for historic visit to Somalia later this year",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/fifa-president-gianni-infantino-set-for-historic-visit-to-somalia-later-this-year/",
+      "published_date": "2026-07-21T08:38:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Yemeni women support families through enterprise as economic crisis bites",
@@ -445,18 +459,39 @@
       "category": "Economy"
     },
     {
-      "title": "Sudan sentences RSF chief Hemedti to death: Who’s he, what’s he accused of?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/sudan-sentences-rsf-chief-hemedti-to-death-whos-he-whats-he-accused-of?traffic_source=rss",
-      "published_date": "2026-07-14T12:02:37+00:00",
-      "category": "Economy"
+      "title": "Somalia: Puntland captures PSF fighters, seizes military vehicles after clashes with federal forces",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-captures-psf-fighters-seizes-military-vehicles-federal-forces/",
+      "published_date": "2026-07-21T12:10:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia’s health minister attends regional investment forum in Mauritania",
+      "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-07-21T09:04:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces open fire on children in Syrian village",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss",
+      "published_date": "2026-07-21T08:39:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo sheegtay inay soo afjartay dagaal ka dhacay deegaanka Laag",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-health-minister-attends-regional-investment-forum-in-mauritania/",
-      "published_date": "2026-07-14T07:31:19+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/puntland-oo-sheegtay-inay-soo-afjartay-dagaal-ka-dhacay-deegaanka-laag/",
+      "published_date": "2026-07-21T06:01:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo soo afjartay dagaalkii Laag",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/21/puntland-oo-soo-afjartay-dagaalkii-laag/",
+      "published_date": "2026-07-21T05:52:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Chaos in India as ‘Cockroach activists’ march on parliament",
@@ -561,41 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
       "published_date": "2026-07-19T04:16:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia races to save Radio Mogadishu’s fading archive",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
-      "published_date": "2026-07-19T03:38:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
-      "published_date": "2026-07-18T21:03:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss",
-      "published_date": "2026-07-18T19:42:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo dib xorriyadiisa u siisay wariye ku xirnaa Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/18/puntland-oo-dib-xorriyadiisa-u-siisay-wariye-ku-xirnaa-boosaaso/",
-      "published_date": "2026-07-18T11:46:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia regional lawmaker Fahima Qooje resigns, rejoins Somaliland",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-regional-lawmaker-fahima-qooje-rejoins-somaliland/",
-      "published_date": "2026-07-18T07:21:28+00:00",
       "category": "Local Events"
     }
   ]
