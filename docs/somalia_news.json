@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-21T12:25:54.082902+00:00",
+  "last_updated": "2026-07-21T23:54:17.502725+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Moldova chooses new prime minister as it pushes for EU membership",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
+      "published_date": "2026-07-21T22:53:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canadian Man Seeks Somali Government Support to Continue Human Smuggling Activities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/canadian-man-seeks-somali-government-support-to-continue-human-smuggling-activities/",
+      "published_date": "2026-07-21T21:30:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netherlands to sanction trade with illegal Israeli settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss",
+      "published_date": "2026-07-21T18:41:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hunger is falling but is still higher than pre-COVID levels: UN report",
       "source": "Al Jazeera",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Yuba’ – My dear father",
+      "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/17/yuba-my-dear-father?traffic_source=rss",
-      "published_date": "2026-07-17T11:49:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
+      "published_date": "2026-07-21T22:56:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+      "title": "Zelenskyy replaces Ukraine military chief after protests",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
-      "published_date": "2026-07-17T09:24:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
+      "published_date": "2026-07-21T21:58:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
+      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-17T07:56:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
+      "published_date": "2026-07-21T21:17:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran holds funerals for children killed in Minab school strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
+      "published_date": "2026-07-21T21:13:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Daytime Russian strike kills three in Zaporizhzhia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
+      "published_date": "2026-07-21T20:48:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India tunnel collapse kills 10 as toxic gases hamper rescue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
+      "published_date": "2026-07-21T19:41:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia’s disaster agency and army discuss cooperation on climate-related emergency response",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-disaster-agency-and-army-discuss-cooperation-on-climate-related-emergency-response/",
+      "published_date": "2026-07-21T14:45:01+00:00",
+      "category": "Military"
     },
     {
       "title": "India’s ‘cockroach’ protest movement halts marches after police violence",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
+      "title": "Kuwaitis ration electricity after Iranian strikes hit power grid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
-      "published_date": "2026-07-20T21:06:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How will Zelenskyy handle the growing political crisis at home?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
-      "published_date": "2026-07-20T20:50:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian police attack Cockroach Janta Party’s parliament march",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
-      "published_date": "2026-07-20T20:21:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italians protest in Bologna after Moroccan man dies during arrest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-italy-after-moroccan-man-dies-during-arrest?traffic_source=rss",
-      "published_date": "2026-07-20T18:53:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Fierce fighting erupts in Bosaso as Puntland forces clash with PSF troops",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-bosaso-fighting-puntland-forces-clash-psf-troops/",
-      "published_date": "2026-07-20T18:20:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia disaster agency, army discuss cooperation on emergency response and climate risks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-disaster-agency-army-discuss-cooperation-on-emergency-response-and-climate-risks/",
-      "published_date": "2026-07-20T14:27:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Kumaandooska Danab oo hawlgal Shabeellaha Hoose ku dilay sagaal dagaalyahan oo Al-Shabaab ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-kumaandooska-danab-oo-hawlgal-shabeellaha-hoose-ku-dilay-sagaal-dagaalyahan-oo-al-shabaab-ah/",
-      "published_date": "2026-07-20T14:17:50+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss",
+      "published_date": "2026-07-21T20:06:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Andy Burnham to cut taxes on electricity bills, announces new UK cabinet",
@@ -361,18 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "Are countries prepared to cope with extreme weather?",
+      "title": "US funding cuts deal blow to global HIV treatment: Report",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss",
-      "published_date": "2026-07-14T21:26:07+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss",
+      "published_date": "2026-07-21T20:44:06+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Cuba’s power grid collapses again, triggering third blackout in 10 days",
+      "title": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/cubas-power-grid-collapses-again-triggering-third-blackout-in-10-days?traffic_source=rss",
-      "published_date": "2026-07-14T17:34:29+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
+      "published_date": "2026-07-21T20:17:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Farage, Reform in ‘trouble’, as UK braces for crypto influence in politics",
@@ -452,11 +459,53 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia signs tax-free fish export agreement with China, opening Chinese market to Somali seafood",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-china-tax-free-fish-export-agreement/",
-      "published_date": "2026-07-14T17:09:59+00:00",
-      "category": "Economy"
+      "title": "French parliament passes social media ban for under-15s",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
+      "published_date": "2026-07-21T20:44:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deposed Turkish opposition leader plans new party",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
+      "published_date": "2026-07-21T20:23:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain battles latest in series of major wildfires near Madrid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
+      "published_date": "2026-07-21T20:17:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescuers search for flood survivors in Afghanistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/rescuers-search-for-flood-survivors-in-afghanistan?traffic_source=rss",
+      "published_date": "2026-07-21T19:21:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Instagram on trial for allegedly harming kids",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/instagram-on-trial-for-allegedly-harming-kids?traffic_source=rss",
+      "published_date": "2026-07-21T18:59:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ku wareejisay DDS nin ku eedeysan dil",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/21/puntland-oo-ku-wareejisay-dds-nin-ku-eedeysan-dil/",
+      "published_date": "2026-07-21T15:58:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo qabatay ciidamadii PSF ee ka baxsaday Laag",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/21/puntland-oo-qabatay-ciidamadii-psf-ee-ka-baxsaday-laag/",
+      "published_date": "2026-07-21T13:07:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia: Puntland captures PSF fighters, seizes military vehicles after clashes with federal forces",
@@ -547,55 +596,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/20/puntland-wararkii-u-dambeeyay-ee-xiisadda-laag/",
       "published_date": "2026-07-20T16:10:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia offers condolences to Algeria after deadly fire at children’s care centre",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-offers-condolences-to-algeria-after-deadly-fire-at-childrens-care-centre/",
-      "published_date": "2026-07-20T14:13:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LIVE: Andy Burnham appointed UK PM, delivers first speech at 10 Downing St",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing?traffic_source=rss",
-      "published_date": "2026-07-20T09:12:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wariye Shucayb Daad oo lagu xiray Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/20/wariye-shucayb-daad-oo-lagu-xiray-boosaaso/",
-      "published_date": "2026-07-20T08:55:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Twin earthquakes strike Peru killing at least five",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
-      "published_date": "2026-07-19T20:11:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wasiirro ka tirsan Puntland oo booqday dekedda Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/19/wasiirro-ka-tirsan-puntland-oo-booqday-dekedda-boosaaso/",
-      "published_date": "2026-07-19T16:08:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss",
-      "published_date": "2026-07-19T10:43:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US hits Iran for 8th consecutive night; Tehran returns fire on Gulf bases",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
-      "published_date": "2026-07-19T04:16:08+00:00",
       "category": "Local Events"
     }
   ]
