@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-22T12:42:54.521416+00:00",
-  "story_count": 85,
+  "last_updated": "2026-07-22T23:58:48.985630+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss",
+      "published_date": "2026-07-22T20:34:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
+      "published_date": "2026-07-22T20:20:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN rights chief condemns Nicaragua’s decision to abolish elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss",
+      "published_date": "2026-07-22T20:07:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "African Union questions future of Somalia peace mission as AUSSOM funding crisis deepens",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/african-union-questions-future-of-somalia-peace-mission-aussom-funding-crisis/",
+      "published_date": "2026-07-22T16:45:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
       "source": "Al Jazeera",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Wasiir ka tirsan Jubaland oo geeriyooday",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/20/wasiir-ka-tirsan-jubaland-oo-geeriyooday/",
-      "published_date": "2026-07-20T09:24:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+      "title": "Austrian home where Hitler was born reopened as police station",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/rubio-us-open-to-diplomacy-after-ninth-night-of-bombing-iran?traffic_source=rss",
-      "published_date": "2026-07-20T08:41:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss",
+      "published_date": "2026-07-22T22:30:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia foreign ministry shuts down after electricity cut over unpaid bills",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-foreign-ministry-shuts-down-after-electricity-cut-over-unpaid-bills/",
-      "published_date": "2026-07-20T08:28:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Andy Burnham’s in-tray: The challenges facing the new UK PM",
+      "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss",
-      "published_date": "2026-07-19T20:12:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
+      "published_date": "2026-07-22T22:26:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
+      "published_date": "2026-07-22T22:03:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Wounded Gaza journalists call for urgent medical evacuation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
+      "published_date": "2026-07-22T21:36:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza man returns home after family believed he was dead",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
+      "published_date": "2026-07-22T19:59:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Water cannon deployed at India education system protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/water-cannon-deployed-at-india-education-system-protests?traffic_source=rss",
+      "published_date": "2026-07-22T18:57:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US judge sets 2027 trial date for Venezuela’s Maduro and wife",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/us-judge-sets-2027-trial-date-for-venezuelas-maduro-and-wife?traffic_source=rss",
+      "published_date": "2026-07-22T18:00:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss",
+      "published_date": "2026-07-22T16:35:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War on Iran: Hegseth wants $70B more to keep fighting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
+      "published_date": "2026-07-22T15:52:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkish naval vessels escort drilling fleet off Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/turkish-naval-vessels-escort-drilling-fleet-off-somalia/",
+      "published_date": "2026-07-22T12:53:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war’s $37bn price tag: Why does the Pentagon want $67bn more?",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Algeria: Toxic colonisation",
+      "title": "Death toll from blast at Indian hydroelectric project rises to 20 people",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/7/22/algeria-toxic-colonisation?traffic_source=rss",
-      "published_date": "2026-07-22T07:23:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guddiga Doorashooyinka oo dib u dhigay doorashada maamulka Galmudug",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddiga-doorashooyinka-oo-dib-u-dhigay-doorashada-maamulka-galmudug/",
-      "published_date": "2026-07-22T06:14:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
-      "published_date": "2026-07-21T22:56:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy replaces Ukraine military chief after protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
-      "published_date": "2026-07-21T21:58:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
-      "published_date": "2026-07-21T21:17:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran holds funerals for children killed in Minab school strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
-      "published_date": "2026-07-21T21:13:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Daytime Russian strike kills three in Zaporizhzhia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
-      "published_date": "2026-07-21T20:48:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India tunnel collapse kills 10 as toxic gases hamper rescue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
-      "published_date": "2026-07-21T19:41:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s disaster agency and army discuss cooperation on climate-related emergency response",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-disaster-agency-and-army-discuss-cooperation-on-climate-related-emergency-response/",
-      "published_date": "2026-07-21T14:45:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India’s ‘cockroach’ protest movement halts marches after police violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss",
-      "published_date": "2026-07-21T11:51:37+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss",
+      "published_date": "2026-07-22T18:40:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Kuwaitis ration electricity after Iranian strikes hit power grid",
@@ -354,11 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine strikes 20 Russian vessels",
+      "title": "US and Saudi Arabia announce nuclear cooperation deal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss",
-      "published_date": "2026-07-15T19:58:08+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
+      "published_date": "2026-07-22T21:30:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syrian people must not be failed again",
@@ -457,6 +464,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
       "published_date": "2026-07-16T08:10:20+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
+      "published_date": "2026-07-22T18:43:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "India protest: How Modi’s refusal to sack education minister fits a pattern",
@@ -589,13 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
       "published_date": "2026-07-20T22:40:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
-      "published_date": "2026-07-20T21:19:41+00:00",
       "category": "Local Events"
     }
   ]
