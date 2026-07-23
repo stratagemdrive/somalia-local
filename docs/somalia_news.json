@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-22T23:58:48.985630+00:00",
-  "story_count": 86,
+  "last_updated": "2026-07-23T12:27:33.829153+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss",
+      "published_date": "2026-07-23T11:53:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia presses Meta for safeguards before WhatsApp username rollout",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-whatsapp-username/",
+      "published_date": "2026-07-23T09:31:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia backs AU health agenda at Accra summit",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-backs-au-health-agenda-at-accra-summit/",
+      "published_date": "2026-07-23T07:38:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Maldives pledge stronger diplomatic cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-ambassador-presents-credentials-to-maldives-president/",
+      "published_date": "2026-07-23T07:30:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss",
+      "published_date": "2026-07-23T07:18:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey extends its military mission in Somalia despite significant accomplishments.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/turkey-extends-its-military-mission-in-somalia-despite-significant-accomplishments/",
+      "published_date": "2026-07-23T04:24:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
       "source": "Al Jazeera",
@@ -102,46 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
+      "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss",
-      "published_date": "2026-07-21T10:27:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss",
+      "published_date": "2026-07-23T11:36:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia establishes a national policy to regulate Islamic education",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-establishes-a-national-policy-to-regulate-islamic-education/",
-      "published_date": "2026-07-21T08:07:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What are the new British Prime Minister’s biggest challenges?",
+      "title": "Right-wing Israeli groups storm Al-Aqsa as Palestinians barred from worship",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss",
-      "published_date": "2026-07-20T22:54:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/right-wing-israeli-groups-storm-al-aqsa-as-palestinians-barred-from-worship?traffic_source=rss",
+      "published_date": "2026-07-23T11:08:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran condemns US attacks on civilian infrastructure",
+      "title": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
-      "published_date": "2026-07-20T20:02:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-07-23T09:20:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali president congratulates new UK prime minister, vows to strengthen ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-congratulates-new-uk-prime-minister-vows-to-strengthen-ties/",
-      "published_date": "2026-07-20T14:41:24+00:00",
-      "category": "Diplomacy"
+      "title": "More than 3,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
+      "published_date": "2026-07-23T09:18:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt rejects Somaliland’s purported Jerusalem mission, seeks release of eight sailors",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/egypt-rejects-somalilands-purported-jerusalem-mission-seeks-release-of-eight-sailors/",
-      "published_date": "2026-07-20T14:22:27+00:00",
-      "category": "Diplomacy"
+      "title": "Indian activist Wangchuk sets conditions to end hunger strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-activist-wangchuk-sets-conditions-to-end-hunger-strike?traffic_source=rss",
+      "published_date": "2026-07-23T08:19:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-07-23T06:08:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
+      "published_date": "2026-07-23T05:44:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US attacks Iran for 12th night as the House approves defence spending",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss",
+      "published_date": "2026-07-23T05:36:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Austrian home where Hitler was born reopened as police station",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Austria turns Adolf Hitler’s birthplace into police station",
+      "title": "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/austria-turns-adolf-hitlers-birthplace-into-police-station?traffic_source=rss",
-      "published_date": "2026-07-22T11:02:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/lebanese-army-deployed-in-pilot-zone-as-families-wait-to-return-home?traffic_source=rss",
-      "published_date": "2026-07-22T10:53:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali navy chief joins African maritime summit in Morocco",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-navy-chief-joins-african-maritime-summit-in-morocco/",
-      "published_date": "2026-07-22T09:49:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia reports injuries after top online retailer Wildberries hit again",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/russia-reports-injuries-after-top-online-retailer-wildberries-hit-again?traffic_source=rss",
-      "published_date": "2026-07-22T09:30:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ossoff challenges Hegseth on cost and duration of Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ossoff-challenges-hegseth-on-cost-and-duration-of-iran-war?traffic_source=rss",
-      "published_date": "2026-07-22T09:30:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-22T08:43:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan rejects US sanctions, calls chemical weapons allegations baseless",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sudan-rejects-us-sanctions-calls-chemical-weapons-allegations-baseless/",
-      "published_date": "2026-07-22T08:42:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air defences activate in Iran and flames rise from US attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss",
-      "published_date": "2026-07-22T07:28:29+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss",
+      "published_date": "2026-07-23T11:33:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Death toll from blast at Indian hydroelectric project rises to 20 people",
@@ -351,13 +358,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss",
       "published_date": "2026-07-16T19:19:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate funding: Who pays for the transition?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
-      "published_date": "2026-07-16T10:39:45+00:00",
       "category": "Energy"
     },
     {
@@ -459,11 +459,25 @@
       "category": "Economy"
     },
     {
-      "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
+      "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
-      "published_date": "2026-07-16T08:10:20+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
+      "published_date": "2026-07-23T10:19:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia cabinet approves landmark culture and arts bill to protect national heritage",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-cabinet-approves-landmark-culture-and-arts-bill-to-protect-national-heritage/",
+      "published_date": "2026-07-23T10:18:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos: Gaza’s shelter crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss",
+      "published_date": "2026-07-23T08:12:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
@@ -582,27 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss",
       "published_date": "2026-07-21T08:39:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo sheegtay inay soo afjartay dagaal ka dhacay deegaanka Laag",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-oo-sheegtay-inay-soo-afjartay-dagaal-ka-dhacay-deegaanka-laag/",
-      "published_date": "2026-07-21T06:01:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo soo afjartay dagaalkii Laag",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/21/puntland-oo-soo-afjartay-dagaalkii-laag/",
-      "published_date": "2026-07-21T05:52:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chaos in India as ‘Cockroach activists’ march on parliament",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
-      "published_date": "2026-07-20T22:40:31+00:00",
       "category": "Local Events"
     }
   ]
