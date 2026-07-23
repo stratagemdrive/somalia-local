@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-23T12:27:33.829153+00:00",
-  "story_count": 85,
+  "last_updated": "2026-07-23T23:56:48.300870+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
+      "published_date": "2026-07-23T18:34:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
       "source": "Al Jazeera",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hunger is falling but is still higher than pre-COVID levels: UN report",
+      "title": "Is this Italy’s ‘George Floyd moment’?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss",
-      "published_date": "2026-07-21T11:32:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss",
+      "published_date": "2026-07-23T22:07:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US war on Iran: The $110 billion price tag",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
+      "published_date": "2026-07-23T22:04:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Videos show the moment police officer shoots man on street in Wisconsin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/videos-show-the-moment-police-officer-shoots-man-on-street-in-wisconsin?traffic_source=rss",
+      "published_date": "2026-07-23T21:04:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Sudan war is putting cancer patients at risk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-sudan-war-is-putting-cancer-patients-at-risk?traffic_source=rss",
+      "published_date": "2026-07-23T20:46:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
+      "published_date": "2026-07-23T19:58:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
+      "published_date": "2026-07-23T19:50:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Journalist killed in Mexico after years of exposing corruption",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
+      "published_date": "2026-07-23T19:40:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Water cannon deployed at India education system protests",
+      "title": "Deadly monsoon floods kill at least 40 in India",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/water-cannon-deployed-at-india-education-system-protests?traffic_source=rss",
-      "published_date": "2026-07-22T18:57:06+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/deadly-monsoon-floods-kill-at-least-40-in-india?traffic_source=rss",
+      "published_date": "2026-07-23T20:56:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US judge sets 2027 trial date for Venezuela’s Maduro and wife",
+      "title": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-judge-sets-2027-trial-date-for-venezuelas-maduro-and-wife?traffic_source=rss",
-      "published_date": "2026-07-22T18:00:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss",
-      "published_date": "2026-07-22T16:35:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: Hegseth wants $70B more to keep fighting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
-      "published_date": "2026-07-22T15:52:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkish naval vessels escort drilling fleet off Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/turkish-naval-vessels-escort-drilling-fleet-off-somalia/",
-      "published_date": "2026-07-22T12:53:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war’s $37bn price tag: Why does the Pentagon want $67bn more?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/iran-wars-37bn-price-tag-why-does-trump-want-67bn-more?traffic_source=rss",
-      "published_date": "2026-07-22T12:05:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
-      "published_date": "2026-07-22T11:52:29+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
+      "published_date": "2026-07-23T19:28:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
@@ -354,11 +368,25 @@
       "category": "Energy"
     },
     {
-      "title": "Iraq says $19M found in hideouts linked to ex-oil minister",
+      "title": "How the Houthi Red Sea blockade will impact the world",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss",
-      "published_date": "2026-07-16T19:19:13+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss",
+      "published_date": "2026-07-23T23:10:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss",
+      "published_date": "2026-07-23T18:41:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK’s Burnham tells Scotland new independence vote is off limits",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
+      "published_date": "2026-07-23T18:07:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "US and Saudi Arabia announce nuclear cooperation deal",
@@ -459,6 +487,62 @@
       "category": "Economy"
     },
     {
+      "title": "White House says will not block Tate brothers’ extradition to UK",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/white-house-says-will-not-block-tate-brothers-extradition-to-uk?traffic_source=rss",
+      "published_date": "2026-07-23T21:02:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US government cancels subpoena against three New York Times reporters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/us-government-cancels-subpoena-against-three-new-york-times-reporters?traffic_source=rss",
+      "published_date": "2026-07-23T20:46:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can India’s youth-led protest movement bring lasting change?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
+      "published_date": "2026-07-23T19:11:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children wounded in Israeli strike on Khan Younis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
+      "published_date": "2026-07-23T18:55:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Dowladda Federaalka waxay hub soo gelisay Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/23/puntland-dowladda-federaalka-waxay-hub-soo-gelisay-gaalkacyo/",
+      "published_date": "2026-07-23T17:28:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
+      "published_date": "2026-07-23T17:25:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Puntland orders federal forces in Bosaso to surrender after seizing positions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-orders-federal-forces-bosaso-surrender/",
+      "published_date": "2026-07-23T16:49:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baarlamaanka Puntland oo ansixiyay wax-ka- bedelka xeerka urrurada iyo xisbiyada siyaasadda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/23/baarlamaanka-puntland-oo-ansixiyay-wax-ka-bedelka-xeerka-urrurada-iyo-xisbiyada-siyaasadda/",
+      "published_date": "2026-07-23T13:36:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
@@ -540,62 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
       "published_date": "2026-07-21T20:23:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain battles latest in series of major wildfires near Madrid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
-      "published_date": "2026-07-21T20:17:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescuers search for flood survivors in Afghanistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/rescuers-search-for-flood-survivors-in-afghanistan?traffic_source=rss",
-      "published_date": "2026-07-21T19:21:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Instagram on trial for allegedly harming kids",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/instagram-on-trial-for-allegedly-harming-kids?traffic_source=rss",
-      "published_date": "2026-07-21T18:59:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ku wareejisay DDS nin ku eedeysan dil",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/21/puntland-oo-ku-wareejisay-dds-nin-ku-eedeysan-dil/",
-      "published_date": "2026-07-21T15:58:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo qabatay ciidamadii PSF ee ka baxsaday Laag",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/21/puntland-oo-qabatay-ciidamadii-psf-ee-ka-baxsaday-laag/",
-      "published_date": "2026-07-21T13:07:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Puntland captures PSF fighters, seizes military vehicles after clashes with federal forces",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-captures-psf-fighters-seizes-military-vehicles-federal-forces/",
-      "published_date": "2026-07-21T12:10:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-21T09:04:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces open fire on children in Syrian village",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss",
-      "published_date": "2026-07-21T08:39:16+00:00",
       "category": "Local Events"
     }
   ]
