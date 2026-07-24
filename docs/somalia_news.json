@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-23T23:56:48.300870+00:00",
+  "last_updated": "2026-07-24T12:23:04.507546+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "AU asks Somalia to nominate delegates for talks on AUSSOM’s future",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/au-asks-somalia-to-nominate-delegates-for-talks-on-aussoms-future/",
+      "published_date": "2026-07-24T07:32:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AU, U.S. Envoy Discuss AUSSOM’s Future Amid Funding Uncertainty",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/au-u-s-envoy-discuss-aussoms-future-amid-funding-uncertainty/",
+      "published_date": "2026-07-24T07:23:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
       "source": "Al Jazeera",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Canadian Man Seeks Somali Government Support to Continue Human Smuggling Activities",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/canadian-man-seeks-somali-government-support-to-continue-human-smuggling-activities/",
-      "published_date": "2026-07-21T21:30:59+00:00",
-      "category": "Diplomacy"
+      "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+      "published_date": "2026-07-24T11:45:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netherlands to sanction trade with illegal Israeli settlements",
+      "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss",
-      "published_date": "2026-07-21T18:41:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
+      "published_date": "2026-07-24T09:35:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
+      "published_date": "2026-07-24T08:42:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US attacks Iran for 13th consecutive night",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
+      "published_date": "2026-07-24T08:39:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indian activist Wangchuk ends 26-day hunger strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
+      "published_date": "2026-07-24T07:08:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss",
+      "published_date": "2026-07-24T05:56:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine beheads its military as its performance begins to soar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/ukraine-beheads-its-military-as-its-performance-begins-to-soar?traffic_source=rss",
+      "published_date": "2026-07-24T05:20:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trillion dollar US defence bill would deepen military ties with Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss",
+      "published_date": "2026-07-24T05:01:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Is this Italy’s ‘George Floyd moment’?",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
+      "title": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-07-23T06:08:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
-      "published_date": "2026-07-23T05:44:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US attacks Iran for 12th night as the House approves defence spending",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss",
-      "published_date": "2026-07-23T05:36:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Austrian home where Hitler was born reopened as police station",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss",
-      "published_date": "2026-07-22T22:30:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
-      "published_date": "2026-07-22T22:26:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
-      "published_date": "2026-07-22T22:03:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wounded Gaza journalists call for urgent medical evacuation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
-      "published_date": "2026-07-22T21:36:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza man returns home after family believed he was dead",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
-      "published_date": "2026-07-22T19:59:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
+      "published_date": "2026-07-24T06:01:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Deadly monsoon floods kill at least 40 in India",
@@ -366,6 +373,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
       "published_date": "2026-07-17T22:19:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly?traffic_source=rss",
+      "published_date": "2026-07-24T09:13:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "How the Houthi Red Sea blockade will impact the world",
@@ -473,18 +487,25 @@
       "category": "Economy"
     },
     {
-      "title": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
+      "title": "South African court pauses impeachment process against president",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
-      "published_date": "2026-07-17T10:06:25+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss",
+      "published_date": "2026-07-24T10:39:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Alleged ringleader of $250 million Minnesota Feeding Our Future fraud extradited from Somalia to face U.S. charges",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/minnesota-feeding-our-future-fraud-ringleader-extradited-somalia-us/",
-      "published_date": "2026-07-17T06:40:44+00:00",
-      "category": "Economy"
+      "title": "Washington Think Tank Questions U.S. Recognition of Somaliland, Drawing Strong Response",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/washington-think-tank-questions-u-s-recognition-of-somaliland-drawing-strong-response/",
+      "published_date": "2026-07-24T05:09:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SoDMA Rallies Health Sector Ahead of Super El Niño",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-rallies-health-sector-ahead-of-super-el-nino/",
+      "published_date": "2026-07-24T01:27:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "White House says will not block Tate brothers’ extradition to UK",
@@ -603,27 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
       "published_date": "2026-07-22T07:35:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India opposition leader Gandhi freed after detention at student-led protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/india-opposition-leader-gandhi-freed-after-detention-at-student-led-protest?traffic_source=rss",
-      "published_date": "2026-07-22T07:20:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French parliament passes social media ban for under-15s",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
-      "published_date": "2026-07-21T20:44:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deposed Turkish opposition leader plans new party",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
-      "published_date": "2026-07-21T20:23:45+00:00",
       "category": "Local Events"
     }
   ]
