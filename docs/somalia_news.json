@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-24T12:23:04.507546+00:00",
-  "story_count": 89,
+  "last_updated": "2026-07-24T23:59:58.234974+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
+      "published_date": "2026-07-24T21:24:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who is Afrah al-Zouba, Yemen’s first female foreign minister?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/who-is-afrah-al-zouba-yemens-first-female-foreign-minister?traffic_source=rss",
+      "published_date": "2026-07-24T20:18:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICC prosecutor Karim Khan removed over ‘political’ sex abuse claims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss",
+      "published_date": "2026-07-24T18:38:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "AU asks Somalia to nominate delegates for talks on AUSSOM’s future",
       "source": "Shabelle Media",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rabat demands answers after Moroccan man dies during arrest in Italy",
+      "title": "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/rabat-demands-answers-after-moroccan-man-dies-during-arrest-in-italy?traffic_source=rss",
-      "published_date": "2026-07-22T08:01:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss",
+      "published_date": "2026-07-24T20:51:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Taliyaha Ciidanka Badda Soomaaliya oo ka qeyb galay Shirweynaha 4-aad ee Ciidamada Badda Afrika",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-badda-soomaaliya-oo-ka-qeyb-galay-shirweynaha-4-aad-ee-ciidamada-badda-afrika/",
-      "published_date": "2026-07-22T06:19:30+00:00",
-      "category": "Diplomacy"
+      "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
+      "published_date": "2026-07-24T20:27:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Moldova chooses new prime minister as it pushes for EU membership",
+      "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
-      "published_date": "2026-07-21T22:53:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
+      "published_date": "2026-07-24T20:22:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Car bomb attack kills 27 in northwest Pakistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss",
+      "published_date": "2026-07-24T19:16:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US school shooter pleads guilty in Georgia following father’s conviction",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss",
+      "published_date": "2026-07-24T18:31:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
+      "published_date": "2026-07-24T18:15:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel raids hospital, shuts off Nablus following deadly settler attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss",
+      "published_date": "2026-07-24T17:59:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Romanian jet fighter shoots down suspected Russian drone",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
+      "published_date": "2026-07-24T16:53:55+00:00",
+      "category": "Military"
     },
     {
       "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
-      "published_date": "2026-07-23T19:58:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
-      "published_date": "2026-07-23T19:50:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Journalist killed in Mexico after years of exposing corruption",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
-      "published_date": "2026-07-23T19:40:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss",
-      "published_date": "2026-07-23T11:36:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Right-wing Israeli groups storm Al-Aqsa as Palestinians barred from worship",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/right-wing-israeli-groups-storm-al-aqsa-as-palestinians-barred-from-worship?traffic_source=rss",
-      "published_date": "2026-07-23T11:08:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-23T09:20:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 3,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
-      "published_date": "2026-07-23T09:18:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian activist Wangchuk sets conditions to end hunger strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-activist-wangchuk-sets-conditions-to-end-hunger-strike?traffic_source=rss",
-      "published_date": "2026-07-23T08:19:22+00:00",
-      "category": "Military"
-    },
-    {
       "title": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
@@ -365,13 +365,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
       "published_date": "2026-07-18T04:47:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
-      "published_date": "2026-07-17T22:19:19+00:00",
       "category": "Energy"
     },
     {
@@ -480,11 +473,46 @@
       "category": "Economy"
     },
     {
-      "title": "Top IRS lawyer to resign post amid disagreements with Trump administration",
+      "title": "Paramount agrees to pause Warner Bros deal while court case plays out",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/top-irs-lawyer-to-resign-post-amid-disagreements-with-trump-administration?traffic_source=rss",
-      "published_date": "2026-07-17T20:50:54+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
+      "published_date": "2026-07-24T21:27:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
+      "published_date": "2026-07-24T20:40:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
+      "published_date": "2026-07-24T20:32:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
+      "published_date": "2026-07-24T18:01:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US records 2,318 measles cases, already surpassing 2025 total",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss",
+      "published_date": "2026-07-24T16:52:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo safar u baxay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/24/madaxweyne-deni-oo-safar-u-baxay-3/",
+      "published_date": "2026-07-24T16:14:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South African court pauses impeachment process against president",
@@ -582,48 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss",
       "published_date": "2026-07-23T08:12:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
-      "published_date": "2026-07-22T18:43:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India protest: How Modi’s refusal to sack education minister fits a pattern",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/india-protest-how-modis-refusal-to-sack-education-minister-fits-a-pattern?traffic_source=rss",
-      "published_date": "2026-07-22T12:09:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Secretary of State say Iran is in ‘a lot of trouble’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-secretary-of-state-say-iran-is-in-a-lot-of?traffic_source=rss",
-      "published_date": "2026-07-22T11:05:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ilaalada Liibaan Shuluq oo dad shacab ah ku dilay Caabudwaaq",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/22/ilaalada-liibaan-shuluq-oo-dad-shacab-ah-ku-dilay-caabudwaaq/",
-      "published_date": "2026-07-22T09:59:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guddoomiyaha Baarlamaanka Puntland oo la kulmay Cabdisalaam Hadliye",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/22/guddoomiyaha-baarlamaanka-puntland-oo-la-kulmay-cabdisalaam-hadliye/",
-      "published_date": "2026-07-22T09:04:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
-      "published_date": "2026-07-22T07:35:26+00:00",
       "category": "Local Events"
     }
   ]
