@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-25T12:05:08.743902+00:00",
-  "story_count": 87,
+  "last_updated": "2026-07-25T23:57:07.434822+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
+      "published_date": "2026-07-25T15:52:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
       "source": "Al Jazeera",
@@ -137,11 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "African Union questions future of Somalia peace mission as AUSSOM funding crisis deepens",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/african-union-questions-future-of-somalia-peace-mission-aussom-funding-crisis/",
-      "published_date": "2026-07-22T16:45:43+00:00",
-      "category": "Diplomacy"
+      "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
+      "published_date": "2026-07-25T23:16:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One dead, 16 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
+      "published_date": "2026-07-25T22:31:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+      "published_date": "2026-07-25T22:07:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces tear gas journalists reporting Nablus shootout",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+      "published_date": "2026-07-25T21:08:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+      "published_date": "2026-07-25T20:00:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Chief Inspects Maslah Military Base",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-inspects-maslah-military-base/",
+      "published_date": "2026-07-25T19:49:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 35 killed after two buses collide in eastern Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+      "published_date": "2026-07-25T19:22:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Battle Over Al-Aqsa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss",
+      "published_date": "2026-07-25T15:49:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 14",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
+      "published_date": "2026-07-25T13:49:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
@@ -221,69 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
-      "published_date": "2026-07-24T18:15:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel raids hospital, shuts off Nablus following deadly settler attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss",
-      "published_date": "2026-07-24T17:59:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romanian jet fighter shoots down suspected Russian drone",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
-      "published_date": "2026-07-24T16:53:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
-      "published_date": "2026-07-24T11:45:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
-      "published_date": "2026-07-24T09:35:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
-      "published_date": "2026-07-24T08:42:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US attacks Iran for 13th consecutive night",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
-      "published_date": "2026-07-24T08:39:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian activist Wangchuk ends 26-day hunger strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
-      "published_date": "2026-07-24T07:08:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss",
-      "published_date": "2026-07-24T05:56:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
@@ -347,18 +347,25 @@
       "category": "Energy"
     },
     {
-      "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
+      "title": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss",
-      "published_date": "2026-07-18T16:47:14+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
+      "published_date": "2026-07-25T21:59:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
+      "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
-      "published_date": "2026-07-18T14:23:33+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
+      "published_date": "2026-07-25T16:36:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "F1 needs better balance between business and sport, says Norris",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
+      "published_date": "2026-07-25T13:03:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
@@ -459,18 +466,46 @@
       "category": "Economy"
     },
     {
-      "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
+      "title": "Fire tears through Indonesian village in West Java",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss",
-      "published_date": "2026-07-18T16:06:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss",
+      "published_date": "2026-07-25T23:11:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
+      "title": "Puntland oo digniin adag u dirtay Galmudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/26/puntland-oo-digniin-adag-u-dirtay-galmudug/",
+      "published_date": "2026-07-25T21:36:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
-      "published_date": "2026-07-18T15:35:54+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
+      "published_date": "2026-07-25T18:14:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s government spars with state TV as mediators push talks with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
+      "published_date": "2026-07-25T16:39:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Senate Standing Committee reviews legislative agenda for eighth session",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-senate-standing-committee-reviews-legislative-agenda-for-eighth-session/",
+      "published_date": "2026-07-25T12:40:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Dagaal beeleed ka dhacay Sanaag",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/25/puntland-dagaal-beeleed-ka-dhacay-sanaag/",
+      "published_date": "2026-07-25T12:17:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somali pirates take control of Tanzanian fuel tanker en route from Yemen",
@@ -568,48 +603,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/sodma-rallies-health-sector-ahead-of-super-el-nino/",
       "published_date": "2026-07-24T01:27:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "White House says will not block Tate brothers’ extradition to UK",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/white-house-says-will-not-block-tate-brothers-extradition-to-uk?traffic_source=rss",
-      "published_date": "2026-07-23T21:02:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US government cancels subpoena against three New York Times reporters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/us-government-cancels-subpoena-against-three-new-york-times-reporters?traffic_source=rss",
-      "published_date": "2026-07-23T20:46:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can India’s youth-led protest movement bring lasting change?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
-      "published_date": "2026-07-23T19:11:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children wounded in Israeli strike on Khan Younis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
-      "published_date": "2026-07-23T18:55:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Dowladda Federaalka waxay hub soo gelisay Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/23/puntland-dowladda-federaalka-waxay-hub-soo-gelisay-gaalkacyo/",
-      "published_date": "2026-07-23T17:28:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
-      "published_date": "2026-07-23T17:25:05+00:00",
       "category": "Local Events"
     }
   ]
