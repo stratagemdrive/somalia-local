@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-24T23:59:58.234974+00:00",
+  "last_updated": "2026-07-25T12:05:08.743902+00:00",
   "story_count": 87,
   "stories": [
+    {
+      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+      "published_date": "2026-07-25T09:54:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+      "published_date": "2026-07-25T07:22:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN rights chief Turk wins second term despite US and Israeli opposition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
+      "published_date": "2026-07-25T00:16:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "published_date": "2026-07-25T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
       "source": "Al Jazeera",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+      "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
-      "published_date": "2026-07-22T11:04:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
+      "published_date": "2026-07-25T09:10:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "African Union members warn Somalia peacekeeping mission cannot continue indefinitely",
+      "title": "Four Somali police officers graduate with master’s degrees from Russian Interior Ministry academy",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-members-warn-somalia-peacekeeping-mission-cannot-continue-indefinitely/",
-      "published_date": "2026-07-22T09:47:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/four-somali-police-officers-graduate-with-masters-degrees-from-russian-interior-ministry-academy/",
+      "published_date": "2026-07-25T08:39:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Al Jazeera reports from anti-US protest outside ASEAN summit",
+      "title": "Born too soon: Premature babies fight for survival in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss",
-      "published_date": "2026-07-22T08:59:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-25T07:25:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "More than 140 people have died or are missing after a boat sank off the coast of Mauritania, as the dangers of smuggling continue to claim the lives of Somalis and other migrants",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/more-than-140-people-have-died-or-are-missing-after-a-boat-sank-off-the-coast-of-mauritania-as-the-dangers-of-smuggling-continue-to-claim-the-lives-of-somalis-and-other-migrants/",
-      "published_date": "2026-07-22T08:40:07+00:00",
-      "category": "Diplomacy"
+      "title": "Funerals held for four Palestinians killed in deadly West Bank shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
+      "published_date": "2026-07-25T04:29:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Firefighters battle fire after fertiliser explosion in England",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
+      "published_date": "2026-07-25T02:29:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
+      "published_date": "2026-07-25T01:30:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine beheads its military as its performance begins to soar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/ukraine-beheads-its-military-as-its-performance-begins-to-soar?traffic_source=rss",
-      "published_date": "2026-07-24T05:20:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trillion dollar US defence bill would deepen military ties with Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss",
-      "published_date": "2026-07-24T05:01:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is this Italy’s ‘George Floyd moment’?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss",
-      "published_date": "2026-07-23T22:07:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US war on Iran: The $110 billion price tag",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
-      "published_date": "2026-07-23T22:04:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Videos show the moment police officer shoots man on street in Wisconsin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/videos-show-the-moment-police-officer-shoots-man-on-street-in-wisconsin?traffic_source=rss",
-      "published_date": "2026-07-23T21:04:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Sudan war is putting cancer patients at risk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-sudan-war-is-putting-cancer-patients-at-risk?traffic_source=rss",
-      "published_date": "2026-07-23T20:46:14+00:00",
-      "category": "Military"
-    },
-    {
       "title": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
@@ -361,11 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
+      "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
-      "published_date": "2026-07-18T04:47:44+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
+      "published_date": "2026-07-25T08:09:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?",
@@ -473,6 +473,41 @@
       "category": "Economy"
     },
     {
+      "title": "Somali pirates take control of Tanzanian fuel tanker en route from Yemen",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pirates-take-control-of-tanzanian-fuel-tanker-en-route-from-yemen/",
+      "published_date": "2026-07-25T10:24:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The United States is intensifying talks with Somalia and Eritrea to strengthen Red Sea security.",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/the-united-states-is-intensifying-talks-with-somalia-and-eritrea-to-strengthen-red-sea-security/",
+      "published_date": "2026-07-25T10:23:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Markab ganacsi oo lagu afduubtay Gacanka Cadmeed oo la geeyay xeebaha Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/markab-ganacsi-oo-lagu-afduubtay-gacanka-cadmeed-oo-la-geeyay-xeebaha-soomaaliya/",
+      "published_date": "2026-07-25T10:12:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia launches regional programme to combat human trafficking and cross-border crime",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-launches-regional-programme-to-combat-human-trafficking-and-cross-border-crime/",
+      "published_date": "2026-07-25T09:45:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland’s Buurmadow says he would support reunification with Somalia if Hargeisa became Capital",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-buurmadow-supports-somalia-reunification-hargeisa-capital/",
+      "published_date": "2026-07-25T08:28:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Paramount agrees to pause Warner Bros deal while court case plays out",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
@@ -575,41 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
       "published_date": "2026-07-23T17:25:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Puntland orders federal forces in Bosaso to surrender after seizing positions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-orders-federal-forces-bosaso-surrender/",
-      "published_date": "2026-07-23T16:49:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baarlamaanka Puntland oo ansixiyay wax-ka- bedelka xeerka urrurada iyo xisbiyada siyaasadda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/23/baarlamaanka-puntland-oo-ansixiyay-wax-ka-bedelka-xeerka-urrurada-iyo-xisbiyada-siyaasadda/",
-      "published_date": "2026-07-23T13:36:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
-      "published_date": "2026-07-23T10:19:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia cabinet approves landmark culture and arts bill to protect national heritage",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-cabinet-approves-landmark-culture-and-arts-bill-to-protect-national-heritage/",
-      "published_date": "2026-07-23T10:18:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Photos: Gaza’s shelter crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss",
-      "published_date": "2026-07-23T08:12:46+00:00",
       "category": "Local Events"
     }
   ]
