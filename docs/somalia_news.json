@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-26T12:08:28.278524+00:00",
+  "last_updated": "2026-07-26T23:57:05.812989+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "US and Iran hit pause on strikes for second day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
+      "published_date": "2026-07-26T20:55:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
+      "published_date": "2026-07-26T19:13:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+      "published_date": "2026-07-26T18:17:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel launches military incursion into Syria amid UN condemnation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
+      "published_date": "2026-07-26T17:40:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Trade Union Calls for Decent Work and Media Freedom at UN High-Level Political Forum",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-trade-union-calls-for-decent-work-and-media-freedom-at-un-high-level-political-forum/",
+      "published_date": "2026-07-26T16:56:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why the UK cancelled a military exercise in Kenya – and what it means",
       "source": "Al Jazeera",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+      "title": "Israeli government nods to international stabilisation force in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss",
-      "published_date": "2026-07-23T11:53:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-26T21:10:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia presses Meta for safeguards before WhatsApp username rollout",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-whatsapp-username/",
-      "published_date": "2026-07-23T09:31:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia backs AU health agenda at Accra summit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-backs-au-health-agenda-at-accra-summit/",
-      "published_date": "2026-07-23T07:38:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia, Maldives pledge stronger diplomatic cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-ambassador-presents-credentials-to-maldives-president/",
-      "published_date": "2026-07-23T07:30:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
+      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss",
-      "published_date": "2026-07-23T07:18:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+      "published_date": "2026-07-26T19:31:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
+      "published_date": "2026-07-26T18:08:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police shoot dead Berlin Pride car-ramming attack suspect",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
+      "published_date": "2026-07-26T17:51:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
+      "published_date": "2026-07-26T17:13:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
+      "published_date": "2026-07-26T16:49:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Darfur: Weaponising Identity",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
+      "published_date": "2026-07-26T16:20:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Elder Warns Military Deployments in Galmudug Could Trigger Conflict With Puntland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-elder-warns-military-deployments-in-galmudug-could-trigger-conflict-with-puntland/",
+      "published_date": "2026-07-26T12:38:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran’s army issues warning ahead of Netanyahu’s US visit",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+      "title": "Cuban president accuses US of genocide, seeking takeover",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
-      "published_date": "2026-07-25T23:16:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One dead, 16 injured as car reportedly strikes crowd at Berlin LGBTQ event",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
-      "published_date": "2026-07-25T22:31:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
-      "published_date": "2026-07-25T22:07:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces tear gas journalists reporting Nablus shootout",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
-      "published_date": "2026-07-25T21:08:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-      "published_date": "2026-07-25T20:00:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief Inspects Maslah Military Base",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-inspects-maslah-military-base/",
-      "published_date": "2026-07-25T19:49:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suspected Al-Shabaab Attack Repelled in Kenya’s Mandera County",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/suspected-al-shabaab-attack-repelled-in-kenyas-mandera-county/",
-      "published_date": "2026-07-25T19:34:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 35 killed after two buses collide in eastern Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
-      "published_date": "2026-07-25T19:22:30+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/26/cuban-president-accuses-us-of-genocide-seeking-takeover?traffic_source=rss",
+      "published_date": "2026-07-26T19:16:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Turkey cannot commercially drill Somalia’s offshore oil: ex-Puntland minister",
@@ -459,11 +466,18 @@
       "category": "Economy"
     },
     {
-      "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
+      "title": "Baarlamaanka Waqooyi Bari oo soo saaray qaraar la xiriira maxaabiista Somaliland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/26/baarlamaanka-waqooyi-bari-oo-soo-saaray-qaraar-la-xiriira-maxaabiista-somaliland/",
+      "published_date": "2026-07-26T19:34:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers burn two mosques in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
-      "published_date": "2026-07-19T16:43:55+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-07-26T18:51:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland warns over Somalia federal military moves in Galkayo after Bosaso clashes",
@@ -589,20 +603,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-launches-regional-programme-to-combat-human-trafficking-and-cross-border-crime/",
       "published_date": "2026-07-25T09:45:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland’s Buurmadow says he would support reunification with Somalia if Hargeisa became Capital",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-buurmadow-supports-somalia-reunification-hargeisa-capital/",
-      "published_date": "2026-07-25T08:28:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paramount agrees to pause Warner Bros deal while court case plays out",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
-      "published_date": "2026-07-24T21:27:45+00:00",
       "category": "Local Events"
     }
   ]
