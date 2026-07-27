@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-27T13:41:08.273829+00:00",
-  "story_count": 87,
+  "last_updated": "2026-07-27T23:59:34.486171+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "US diplomats walk out as France addresses UN Security Council",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
+      "published_date": "2026-07-27T23:07:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-07-27T21:17:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "published_date": "2026-07-27T21:04:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN eyeing potential Israeli war crimes in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
+      "published_date": "2026-07-27T19:32:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon’s displaced endure ‘exhaustion and despair’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss",
+      "published_date": "2026-07-27T18:28:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 16",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
+      "published_date": "2026-07-27T17:57:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham welcomes Zelenskyy as first international guest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/burnham-welcomes-zelenskyy-as-first-international-guest?traffic_source=rss",
+      "published_date": "2026-07-27T17:55:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
+      "published_date": "2026-07-27T17:41:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kenya oo Cadaadis Diblomaasiyadeed ku Kordhisay Dowladda Soomaaliya",
       "source": "Shabelle Media",
@@ -29,6 +85,20 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/netanyahu-accuses-mamdani-of-fomenting-hate-ahead-of-us-visit?traffic_source=rss",
       "published_date": "2026-07-27T08:11:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia summons Kenya’s ambassador after state minister Abshir Bukhaari reportedly deported from Nairobi",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-summons-kenya-ambassador-abshir-bukhaari-deported-nairobi/",
+      "published_date": "2026-07-27T08:01:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya Deports Somali Minister Amid Alleged Terror-Financing Probe",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/kenya-deports-somali-minister-amid-alleged-terror-financing-probe/",
+      "published_date": "2026-07-26T21:17:31+00:00",
       "category": "Diplomacy"
     },
     {
@@ -74,74 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kenya Coast Guard Reaffirms Commitment to African Maritime Security Cooperation at Rabat Summit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenya-coast-guard-reaffirms-commitment-to-african-maritime-security-cooperation-at-rabat-summit/",
-      "published_date": "2026-07-26T10:16:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Soomaaliya iyo Kenya oo adkeeyay iskaashiga amniga badda intii lagu jiray Shirweynaha Ciidamada Badda Afrika",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-iyo-kenya-oo-adkeeyay-iskaashiga-amniga-badda-intii-lagu-jiray-shirweynaha-ciidamada-badda-afrika/",
-      "published_date": "2026-07-26T10:16:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia Seeks Stronger Global Partnerships Through Active Diplomacy",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-seeks-stronger-global-partnerships-through-active-diplomacy/",
-      "published_date": "2026-07-26T09:12:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+      "title": "Shot fired outside US consulate in Canada for second time this year",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
-      "published_date": "2026-07-25T15:52:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
+      "published_date": "2026-07-27T22:34:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
+      "title": "Video shows man subdued after stabbing three women in Paris",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
-      "published_date": "2026-07-25T09:54:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+      "published_date": "2026-07-27T21:27:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+      "title": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
-      "published_date": "2026-07-25T07:22:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
+      "published_date": "2026-07-27T20:12:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN rights chief Turk wins second term despite US and Israeli opposition",
+      "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
-      "published_date": "2026-07-25T00:16:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
+      "published_date": "2026-07-27T20:09:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+      "title": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
-      "published_date": "2026-07-25T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
+      "published_date": "2026-07-27T18:53:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
+      "title": "Are the US and Iran heading towards a forever war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
-      "published_date": "2026-07-24T21:24:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Who is Afrah al-Zouba, Yemen’s first female foreign minister?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/who-is-afrah-al-zouba-yemens-first-female-foreign-minister?traffic_source=rss",
-      "published_date": "2026-07-24T20:18:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
+      "published_date": "2026-07-27T18:40:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Three killed in suspected shootout in US city of Seattle, police say",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
-      "published_date": "2026-07-26T16:49:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Darfur: Weaponising Identity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
-      "published_date": "2026-07-26T16:20:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Elder Warns Military Deployments in Galmudug Could Trigger Conflict With Puntland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-elder-warns-military-deployments-in-galmudug-could-trigger-conflict-with-puntland/",
-      "published_date": "2026-07-26T12:38:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s army issues warning ahead of Netanyahu’s US visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
-      "published_date": "2026-07-26T11:56:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘No accountability for settler war crimes against Palestinians’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
-      "published_date": "2026-07-26T11:31:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss",
-      "published_date": "2026-07-26T11:28:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Greta Thunberg joins London rally in support of Indian students",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
@@ -354,18 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
+      "title": "Trump takes economic message to Michigan amid dwindling popularity",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/monsoon-driven-flash-flooding-kills-at-least-20-in-afghanistan?traffic_source=rss",
-      "published_date": "2026-07-20T20:29:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "EU pauses methane penalties amid energy crisis, US pressure",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/eu-pauses-methane-penalties-amid-energy-crisis-us-pressure?traffic_source=rss",
-      "published_date": "2026-07-20T19:29:37+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
+      "published_date": "2026-07-27T20:23:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
@@ -466,11 +459,46 @@
       "category": "Economy"
     },
     {
-      "title": "Yemeni women support families through enterprise as economic crisis bites",
+      "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites?traffic_source=rss",
-      "published_date": "2026-07-20T19:36:37+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
+      "published_date": "2026-07-27T21:24:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss",
+      "published_date": "2026-07-27T20:32:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia opposition urges AUSSOM TCC leaders to back transitional council at Uganda Summit",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-aussom-uganda-summit-transition/",
+      "published_date": "2026-07-27T15:07:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former US diplomat rejects Egypt, Eritrea stance on Red Sea security",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-us-diplomat-rejects-egypt-eritrea-stance-on-red-sea-security/",
+      "published_date": "2026-07-27T13:45:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State wraps up three-day cabinet retreat focused on governance reforms",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-state-wraps-up-three-day-cabinet-retreat-focused-on-governance-reforms/",
+      "published_date": "2026-07-27T13:43:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guinea-Bissau denies reports it plans to recognise Somaliland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/guinea-bissau-denies-reports-it-plans-to-recognise-somaliland/",
+      "published_date": "2026-07-27T13:42:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mucaaradka oo  dalbaday in dalka lagu celiyo hannaankii kumeelgaarka 2012",
@@ -491,6 +519,13 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/27/ciidamada-psf-oo-baneeyay-xaruntoodii-gaalkacyo/",
       "published_date": "2026-07-27T06:22:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Navy Signals Readiness to Support Security of the Bab al-Mandab Strait",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-navy-signals-readiness-to-support-security-of-the-bab-al-mandab-strait/",
+      "published_date": "2026-07-26T20:57:30+00:00",
       "category": "Local Events"
     },
     {
@@ -561,55 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss",
       "published_date": "2026-07-25T23:11:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo digniin adag u dirtay Galmudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/26/puntland-oo-digniin-adag-u-dirtay-galmudug/",
-      "published_date": "2026-07-25T21:36:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Rules Out Unilateral Release of Prisoners, Insists on Reciprocal Exchange",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-rules-out-unilateral-release-of-prisoners-insists-on-reciprocal-exchange/",
-      "published_date": "2026-07-25T19:20:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
-      "published_date": "2026-07-25T18:14:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s government spars with state TV as mediators push talks with US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
-      "published_date": "2026-07-25T16:39:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Senate Standing Committee reviews legislative agenda for eighth session",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-senate-standing-committee-reviews-legislative-agenda-for-eighth-session/",
-      "published_date": "2026-07-25T12:40:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Dagaal beeleed ka dhacay Sanaag",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/25/puntland-dagaal-beeleed-ka-dhacay-sanaag/",
-      "published_date": "2026-07-25T12:17:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali pirates take control of Tanzanian fuel tanker en route from Yemen",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pirates-take-control-of-tanzanian-fuel-tanker-en-route-from-yemen/",
-      "published_date": "2026-07-25T10:24:41+00:00",
       "category": "Local Events"
     }
   ]
