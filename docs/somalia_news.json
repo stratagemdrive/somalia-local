@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-26T23:57:05.812989+00:00",
-  "story_count": 86,
+  "last_updated": "2026-07-27T13:41:08.273829+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Kenya oo Cadaadis Diblomaasiyadeed ku Kordhisay Dowladda Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenya-oo-cadaadis-diblomaasiyadeed-ku-kordhisay-dowladda-soomaaliya/",
+      "published_date": "2026-07-27T11:29:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya increases diplomatic pressure on Somalia after turning back two senior officials",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenya-increases-diplomatic-pressure-on-somalia-after-turning-back-two-senior-officials/",
+      "published_date": "2026-07-27T11:28:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
+      "published_date": "2026-07-27T08:43:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu accuses Mamdani of ‘fomenting hate’ ahead of US visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/netanyahu-accuses-mamdani-of-fomenting-hate-ahead-of-us-visit?traffic_source=rss",
+      "published_date": "2026-07-27T08:11:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US and Iran hit pause on strikes for second day",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ICC prosecutor Karim Khan removed over ‘political’ sex abuse claims",
+      "title": "Three killed in suspected shootout in US city of Seattle, police say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss",
-      "published_date": "2026-07-24T18:38:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
+      "published_date": "2026-07-27T12:49:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "AU asks Somalia to nominate delegates for talks on AUSSOM’s future",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/au-asks-somalia-to-nominate-delegates-for-talks-on-aussoms-future/",
-      "published_date": "2026-07-24T07:32:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AU, U.S. Envoy Discuss AUSSOM’s Future Amid Funding Uncertainty",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/au-u-s-envoy-discuss-aussoms-future-amid-funding-uncertainty/",
-      "published_date": "2026-07-24T07:23:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
+      "title": "Gaza student tops national exams despite war and displacement",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
-      "published_date": "2026-07-23T18:34:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/gaza-student-tops-national-exams-despite-war-and-displacement?traffic_source=rss",
+      "published_date": "2026-07-27T12:41:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Students and staff work to bring Islamic University of Gaza back to life",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/27/students-staff-work-to-bring-the-islamic-university-of-gaza-back-to-life?traffic_source=rss",
+      "published_date": "2026-07-27T12:26:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moment Ukrainian drones strike Russia’s Belgorod",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss",
+      "published_date": "2026-07-27T10:59:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why has the US halted its bombing of Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
+      "published_date": "2026-07-27T10:55:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Ban: A censorship loophole during the conflict in Northern Ireland",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/witness/2026/7/27/the-ban-a-censorship-loophole-during-the-conflict-in-northern-ireland?traffic_source=rss",
+      "published_date": "2026-07-27T09:05:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Future Council urges AUSSOM troop-contributing countries to prioritise political deal before security transition",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-future-council-urges-aussom-troop-contributing-countries-to-prioritise-political-deal-before-security-transition/",
+      "published_date": "2026-07-27T08:51:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guinea-Bissau oo si cad u beenisay wararka la xiriira aqoonsiga Somaliland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/guinea-bissau-oo-si-cad-u-beenisay-wararka-la-xiriira-aqoonsiga-somaliland/",
+      "published_date": "2026-07-27T08:35:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The AI military complex: Which are the main companies in it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it?traffic_source=rss",
+      "published_date": "2026-07-27T08:09:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli government nods to international stabilisation force in Gaza",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+      "title": "Greta Thunberg joins London rally in support of Indian students",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
-      "published_date": "2026-07-26T11:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
-      "published_date": "2026-07-26T10:45:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-      "published_date": "2026-07-26T08:55:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Weerar looga shakisan yahay Al-Shabaab oo ka dhacay Gaarisa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/weerar-looga-shakisan-yahay-al-shabaab-oo-ka-dhacay-gaarisa/",
-      "published_date": "2026-07-26T08:29:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel raids West Bank live: PM Netanyahu threatens ‘more broad action’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
-      "published_date": "2026-07-26T07:55:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland: Ma jiro ciidan la yiraahdo PSF",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/26/puntland-ma-jiro-ciidan-la-yiraahdo-psf/",
-      "published_date": "2026-07-26T06:44:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss",
-      "published_date": "2026-07-26T05:29:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
-      "published_date": "2026-07-26T04:40:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military disables tanker accused of breaking the Iran blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
-      "published_date": "2026-07-26T04:33:16+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
+      "published_date": "2026-07-27T08:43:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuban president accuses US of genocide, seeking takeover",
@@ -466,6 +473,27 @@
       "category": "Economy"
     },
     {
+      "title": "Mucaaradka oo  dalbaday in dalka lagu celiyo hannaankii kumeelgaarka 2012",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/27/mucaaradka-oo-dalbaday-in-dalka-lagu-celiyo-hannaankii-kumeelgaarka-2012/",
+      "published_date": "2026-07-27T09:15:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland oo beenisay in ay sii daysay maxaabiis Waqooyi Bari",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/27/somaliland-oo-beenisay-in-ay-sii-daysay-maxaabiis-waqooyi-bari/",
+      "published_date": "2026-07-27T08:23:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ciidamada PSF oo baneeyay xaruntoodii Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/27/ciidamada-psf-oo-baneeyay-xaruntoodii-gaalkacyo/",
+      "published_date": "2026-07-27T06:22:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Baarlamaanka Waqooyi Bari oo soo saaray qaraar la xiriira maxaabiista Somaliland",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/26/baarlamaanka-waqooyi-bari-oo-soo-saaray-qaraar-la-xiriira-maxaabiista-somaliland/",
@@ -582,27 +610,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-pirates-take-control-of-tanzanian-fuel-tanker-en-route-from-yemen/",
       "published_date": "2026-07-25T10:24:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The United States is intensifying talks with Somalia and Eritrea to strengthen Red Sea security.",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/the-united-states-is-intensifying-talks-with-somalia-and-eritrea-to-strengthen-red-sea-security/",
-      "published_date": "2026-07-25T10:23:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Markab ganacsi oo lagu afduubtay Gacanka Cadmeed oo la geeyay xeebaha Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/markab-ganacsi-oo-lagu-afduubtay-gacanka-cadmeed-oo-la-geeyay-xeebaha-soomaaliya/",
-      "published_date": "2026-07-25T10:12:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia launches regional programme to combat human trafficking and cross-border crime",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-launches-regional-programme-to-combat-human-trafficking-and-cross-border-crime/",
-      "published_date": "2026-07-25T09:45:55+00:00",
       "category": "Local Events"
     }
   ]
