@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-28T12:57:16.772735+00:00",
-  "story_count": 84,
+  "last_updated": "2026-07-28T23:55:34.359794+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Malaysian foreign minister calls for review of UNHCR’s presence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
+      "published_date": "2026-07-28T18:25:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Serbia Hold High-Level Meeting on Bilateral Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-serbia-hold-high-level-meeting-on-bilateral-cooperation/",
+      "published_date": "2026-07-28T16:54:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US walks out on France at UN over North Korea, Russia comparison",
       "source": "Al Jazeera",
@@ -130,18 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
+      "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss",
-      "published_date": "2026-07-27T08:43:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
+      "published_date": "2026-07-28T23:16:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu accuses Mamdani of ‘fomenting hate’ ahead of US visit",
+      "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/netanyahu-accuses-mamdani-of-fomenting-hate-ahead-of-us-visit?traffic_source=rss",
-      "published_date": "2026-07-27T08:11:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+      "published_date": "2026-07-28T21:24:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+      "published_date": "2026-07-28T20:29:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss",
+      "published_date": "2026-07-28T20:11:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What will it take to stop the conflict in Sudan?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
+      "published_date": "2026-07-28T19:36:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "West Bank quarry owner appeals to Trump after settler raid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
+      "published_date": "2026-07-28T19:23:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
+      "published_date": "2026-07-28T18:46:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss",
+      "published_date": "2026-07-28T18:24:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss",
+      "published_date": "2026-07-28T18:01:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 17",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss",
+      "published_date": "2026-07-28T17:15:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss",
+      "published_date": "2026-07-28T17:12:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli settler attack on at-Tuwani",
@@ -207,83 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Palestine weekly: West Bank in flames after Tal killings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
-      "published_date": "2026-07-28T05:58:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shot fired outside US consulate in Canada for second time this year",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
-      "published_date": "2026-07-27T22:34:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows man subdued after stabbing three women in Paris",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
-      "published_date": "2026-07-27T21:27:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
-      "published_date": "2026-07-27T20:12:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
-      "published_date": "2026-07-27T20:09:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
-      "published_date": "2026-07-27T18:53:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Are the US and Iran heading towards a forever war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
-      "published_date": "2026-07-27T18:40:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three killed in suspected shootout in US city of Seattle, police say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
-      "published_date": "2026-07-27T12:49:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza student tops national exams despite war and displacement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/gaza-student-tops-national-exams-despite-war-and-displacement?traffic_source=rss",
-      "published_date": "2026-07-27T12:41:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Students and staff work to bring Islamic University of Gaza back to life",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/27/students-staff-work-to-bring-the-islamic-university-of-gaza-back-to-life?traffic_source=rss",
-      "published_date": "2026-07-27T12:26:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moment Ukrainian drones strike Russia’s Belgorod",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss",
-      "published_date": "2026-07-27T10:59:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Greta Thunberg joins London rally in support of Indian students",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
@@ -337,13 +337,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss",
       "published_date": "2026-07-22T18:40:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Kuwaitis ration electricity after Iranian strikes hit power grid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss",
-      "published_date": "2026-07-21T20:06:57+00:00",
       "category": "Energy"
     },
     {
@@ -438,18 +431,39 @@
       "category": "Economy"
     },
     {
-      "title": "US funding cuts deal blow to global HIV treatment: Report",
+      "title": "Protests in DC against Netanyahu’s meeting with Trump",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss",
-      "published_date": "2026-07-21T20:44:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss",
+      "published_date": "2026-07-28T20:22:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
+      "title": "Keiko Fujimori sworn in as Peru president after narrow election win",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
-      "published_date": "2026-07-21T20:17:08+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
+      "published_date": "2026-07-28T20:14:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Musharrax u taagnaa xilka Madaxweynaha Galmudug oo isaga haray tartanka, kuna eedeeyay dowladda faragelin doorasho",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/musharrax-u-taagnaa-xilka-madaxweynaha-galmudug-oo-isaga-haray-tartanka-kuna-eedeeyay-dowladda-faragelin-doorasho/",
+      "published_date": "2026-07-28T16:43:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Galmudug presidential hopeful withdraws from race, alleges government interference",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/galmudug-presidential-hopeful-withdraws-from-race-alleges-government-interference/",
+      "published_date": "2026-07-28T16:41:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland iyo Galmudug oo ka wada hadlay amniga Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/28/puntland-iyo-galmudug-oo-ka-wada-hadlay-amniga-gaalkacyo/",
+      "published_date": "2026-07-28T13:26:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
@@ -554,41 +568,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/27/ciidamada-psf-oo-baneeyay-xaruntoodii-gaalkacyo/",
       "published_date": "2026-07-27T06:22:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Navy Signals Readiness to Support Security of the Bab al-Mandab Strait",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-navy-signals-readiness-to-support-security-of-the-bab-al-mandab-strait/",
-      "published_date": "2026-07-26T20:57:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baarlamaanka Waqooyi Bari oo soo saaray qaraar la xiriira maxaabiista Somaliland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/26/baarlamaanka-waqooyi-bari-oo-soo-saaray-qaraar-la-xiriira-maxaabiista-somaliland/",
-      "published_date": "2026-07-26T19:34:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers burn two mosques in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-07-26T18:51:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland warns over Somalia federal military moves in Galkayo after Bosaso clashes",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-warns-somalia-federal-military-moves-galkayo-bosaso-clashes/",
-      "published_date": "2026-07-26T11:25:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo digniin u dirtay Galmudug, kana hadashay xaaladda Gaalkacyo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-oo-digniin-u-dirtay-galmudug-kana-hadashay-xaaladda-gaalkacyo/",
-      "published_date": "2026-07-26T10:08:22+00:00",
       "category": "Local Events"
     }
   ]
