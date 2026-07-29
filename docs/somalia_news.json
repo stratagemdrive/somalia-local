@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-29T13:04:28.821250+00:00",
-  "story_count": 83,
+  "last_updated": "2026-07-29T23:57:27.692620+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
+      "published_date": "2026-07-29T23:10:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Shabab kills five Kenyan security personnel in ambush",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss",
+      "published_date": "2026-07-29T19:06:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emergency Uganda AUSSOM summit opens as U.S. funding threat puts Somalia mission at risk",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-aussom-summit-us-funding-threat-somalia-mission/",
+      "published_date": "2026-07-29T17:21:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Kenya Foreign Ministers Hold Talks on Bilateral Ties at AU Meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-kenya-foreign-ministers-hold-talks-on-bilateral-ties-at-au-meeting/",
+      "published_date": "2026-07-29T13:21:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
       "source": "Al Jazeera",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
+      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-07-27T21:17:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
+      "published_date": "2026-07-29T21:18:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "title": "Trump’s attorney general pick faces possible Republican roadblock",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
-      "published_date": "2026-07-27T21:04:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss",
+      "published_date": "2026-07-29T20:11:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN eyeing potential Israeli war crimes in Lebanon",
+      "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
-      "published_date": "2026-07-27T19:32:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/29/how-is-islamabad-handling-crisis-in-pakistan-administered-kashmir?traffic_source=rss",
+      "published_date": "2026-07-29T20:08:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon’s displaced endure ‘exhaustion and despair’",
+      "title": "New investigation shows how an Israeli settler escaped justice",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss",
-      "published_date": "2026-07-27T18:28:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss",
+      "published_date": "2026-07-29T19:55:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ice cream for education: Gaza cafe raises funds for studies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss",
+      "published_date": "2026-07-29T19:46:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
@@ -249,39 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "What will it take to stop the conflict in Sudan?",
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
-      "published_date": "2026-07-28T19:36:55+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
+      "published_date": "2026-07-29T23:34:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "West Bank quarry owner appeals to Trump after settler raid",
+      "title": "Bordeaux wildfire battle continues amid extreme heat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
-      "published_date": "2026-07-28T19:23:29+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
+      "published_date": "2026-07-29T18:42:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+      "title": "US Fed holds interest rates steady, citing ‘elevated’ inflation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
-      "published_date": "2026-07-28T18:46:57+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
+      "published_date": "2026-07-29T18:07:55+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
+      "title": "Libya electricity blackout protests expose country’s failing grid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss",
-      "published_date": "2026-07-28T18:24:26+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss",
+      "published_date": "2026-07-29T18:07:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
+      "title": "Fire erupts on ships at Egypt’s Damietta port",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss",
-      "published_date": "2026-07-28T18:01:03+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
+      "published_date": "2026-07-29T18:01:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
@@ -337,13 +372,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss",
       "published_date": "2026-07-23T11:33:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Death toll from blast at Indian hydroelectric project rises to 20 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss",
-      "published_date": "2026-07-22T18:40:49+00:00",
       "category": "Energy"
     },
     {
@@ -438,11 +466,39 @@
       "category": "Economy"
     },
     {
-      "title": "US and Saudi Arabia announce nuclear cooperation deal",
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
-      "published_date": "2026-07-22T21:30:25+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss",
+      "published_date": "2026-07-29T23:25:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
+      "published_date": "2026-07-29T21:29:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algeria elects first-ever woman speaker of parliament",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
+      "published_date": "2026-07-29T20:09:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
+      "published_date": "2026-07-29T18:34:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taliyaha Ciidanka Dhulka oo dhagax-dhigay xarun caafimaad oo laga hirgelinayo Dugsiga Tababarka Xananbuure",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-oo-dhagax-dhigay-xarun-caafimaad-oo-laga-hirgelinayo-dugsiga-tababarka-xananbuure/",
+      "published_date": "2026-07-29T13:21:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia: Puntland forces surround PSF camp in Galkayo as conflict fears rise",
@@ -547,41 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss",
       "published_date": "2026-07-27T20:32:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia opposition urges AUSSOM TCC leaders to back transitional council at Uganda Summit",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-aussom-uganda-summit-transition/",
-      "published_date": "2026-07-27T15:07:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former US diplomat rejects Egypt, Eritrea stance on Red Sea security",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-us-diplomat-rejects-egypt-eritrea-stance-on-red-sea-security/",
-      "published_date": "2026-07-27T13:45:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State wraps up three-day cabinet retreat focused on governance reforms",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-wraps-up-three-day-cabinet-retreat-focused-on-governance-reforms/",
-      "published_date": "2026-07-27T13:43:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guinea-Bissau denies reports it plans to recognise Somaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guinea-bissau-denies-reports-it-plans-to-recognise-somaliland/",
-      "published_date": "2026-07-27T13:42:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mucaaradka oo  dalbaday in dalka lagu celiyo hannaankii kumeelgaarka 2012",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/27/mucaaradka-oo-dalbaday-in-dalka-lagu-celiyo-hannaankii-kumeelgaarka-2012/",
-      "published_date": "2026-07-27T09:15:54+00:00",
       "category": "Local Events"
     }
   ]
