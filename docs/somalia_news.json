@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-28T23:55:34.359794+00:00",
-  "story_count": 81,
+  "last_updated": "2026-07-29T13:04:28.821250+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
+      "published_date": "2026-07-29T12:27:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
+      "published_date": "2026-07-29T11:19:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya iyo Kenya oo yeeshay kulan laba geesood ah intii uu socday Shirka Golaha Fulinta Midowga Afrika",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-iyo-kenya-oo-yeeshay-kulan-laba-geesood-ah-intii-uu-socday-shirka-golaha-fulinta-midowga-afrika/",
+      "published_date": "2026-07-29T10:16:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India’s youth have broken Modi’s spell",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/29/indias-youth-have-broken-modis-spell?traffic_source=rss",
+      "published_date": "2026-07-29T07:15:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+      "published_date": "2026-07-29T05:07:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Malaysian foreign minister calls for review of UNHCR’s presence",
       "source": "Al Jazeera",
@@ -109,39 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "War on Iran: Phase II: Day 16",
+      "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
-      "published_date": "2026-07-27T17:57:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
+      "published_date": "2026-07-29T11:34:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham welcomes Zelenskyy as first international guest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/burnham-welcomes-zelenskyy-as-first-international-guest?traffic_source=rss",
-      "published_date": "2026-07-27T17:55:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
-      "published_date": "2026-07-27T17:41:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenya oo Cadaadis Diblomaasiyadeed ku Kordhisay Dowladda Soomaaliya",
+      "title": "AUSSOM Troop-Contributing Countries’ Military Chiefs Meet in Uganda to Discuss Somalia Mission",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenya-oo-cadaadis-diblomaasiyadeed-ku-kordhisay-dowladda-soomaaliya/",
-      "published_date": "2026-07-27T11:29:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/aussom-troop-contributing-countries-military-chiefs-meet-in-uganda-to-discuss-somalia-mission/",
+      "published_date": "2026-07-29T11:10:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya increases diplomatic pressure on Somalia after turning back two senior officials",
+      "title": "Married couple deported by ICE killed in Guatemala",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss",
+      "published_date": "2026-07-29T10:55:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
+      "published_date": "2026-07-29T10:18:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
+      "published_date": "2026-07-29T09:51:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five Kenyan security officers killed in suspected al Shabaab attack near Somalia border",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenya-increases-diplomatic-pressure-on-somalia-after-turning-back-two-senior-officials/",
-      "published_date": "2026-07-27T11:28:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/five-kenyan-security-officers-killed-in-suspected-al-shabaab-attack-near-somalia-border/",
+      "published_date": "2026-07-29T09:11:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
+      "published_date": "2026-07-29T08:33:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Shan askari oo ka tirsan ciidamada ammaanka Kenya oo lagu dilay weerar ka dhacay Mandera",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/shan-askari-oo-ka-tirsan-ciidamada-ammaanka-kenya-oo-lagu-dilay-weerar-ka-dhacay-mandera/",
+      "published_date": "2026-07-29T08:29:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Germany bring back mandatory military conscription next year?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year?traffic_source=rss",
+      "published_date": "2026-07-29T08:07:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gen. Jimcaale oo ka hadlay xiisadda Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/29/gen-jimcaale-oo-ka-hadlay-xiisadda-gaalkacyo/",
+      "published_date": "2026-07-29T05:33:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump meets Netanyahu for a record seventh White House visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
+      "published_date": "2026-07-29T04:47:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "War on Iran: Phase II: Day 17",
+      "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss",
-      "published_date": "2026-07-28T17:15:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss",
-      "published_date": "2026-07-28T17:12:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settler attack on at-Tuwani",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-settler-attack-on-at-tuwani?traffic_source=rss",
-      "published_date": "2026-07-28T11:27:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
-      "published_date": "2026-07-28T11:14:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump flouts political risk to host Netanyahu’s seventh White House visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/trump-flouts-political-risk-to-host-netanyahus-seventh-white-house-visit?traffic_source=rss",
-      "published_date": "2026-07-28T10:12:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army ground commander visits Galmudug to boost operations against Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-ground-commander-visits-galmudug-to-boost-operations-against-al-shabaab/",
-      "published_date": "2026-07-28T08:37:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-07-28T08:06:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-volunteer-army-helps-rebuild-what-russia-destroys?traffic_source=rss",
-      "published_date": "2026-07-28T07:34:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Resurgence of Somali piracy; US-Iran conflict impacts security",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/resurgence-of-somali-piracy-us-iran-conflict-impacts-security/",
-      "published_date": "2026-07-28T07:16:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Erdoğan iyo Madaxweynaha Senegal oo ka wada hadlay xoojinta ganacsiga iyo iskaashiga difaaca",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/erdogan-iyo-madaxweynaha-senegal-oo-ka-wada-hadlay-xoojinta-ganacsiga-iyo-iskaashiga-difaaca/",
-      "published_date": "2026-07-28T07:00:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taliyaha Ciidanka Dhulka oo gaaray Dhuusamareeb, howlgal cusubna ka billaabay Galmudug",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-oo-dhuusamareeb-gaaray-howlgal-cusubna-ka-billaabay-galmudug/",
-      "published_date": "2026-07-28T06:32:52+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+      "published_date": "2026-07-29T10:19:28+00:00",
+      "category": "Energy"
     },
     {
       "title": "Greta Thunberg joins London rally in support of Indian students",
@@ -338,6 +345,20 @@
       "url": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss",
       "published_date": "2026-07-22T18:40:49+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss",
+      "published_date": "2026-07-29T11:41:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IPL’s business value rockets to $20bn as India cricket league soars",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/ipls-business-value-rockets-to-20-billion-as-india-cricket-league-soars?traffic_source=rss",
+      "published_date": "2026-07-29T07:51:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why has Iran’s economy not collapsed under US war pressure?",
@@ -424,11 +445,18 @@
       "category": "Economy"
     },
     {
-      "title": "Syrian people must not be failed again",
+      "title": "Somalia: Puntland forces surround PSF camp in Galkayo as conflict fears rise",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-surround-psf-camp-galkayo-conflict-fears/",
+      "published_date": "2026-07-29T09:24:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian industrial sites on fire after Ukrainian drone attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
-      "published_date": "2026-07-22T11:23:43+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks?traffic_source=rss",
+      "published_date": "2026-07-29T07:57:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Protests in DC against Netanyahu’s meeting with Trump",
@@ -554,20 +582,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/27/mucaaradka-oo-dalbaday-in-dalka-lagu-celiyo-hannaankii-kumeelgaarka-2012/",
       "published_date": "2026-07-27T09:15:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland oo beenisay in ay sii daysay maxaabiis Waqooyi Bari",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/27/somaliland-oo-beenisay-in-ay-sii-daysay-maxaabiis-waqooyi-bari/",
-      "published_date": "2026-07-27T08:23:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidamada PSF oo baneeyay xaruntoodii Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/27/ciidamada-psf-oo-baneeyay-xaruntoodii-gaalkacyo/",
-      "published_date": "2026-07-27T06:22:17+00:00",
       "category": "Local Events"
     }
   ]
