@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-30T12:48:14.349136+00:00",
-  "story_count": 87,
+  "last_updated": "2026-07-30T23:58:39.537923+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "UN launches hunt for next chief amid rising challenges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/un-launches-hunt-for-next-chief-amid-rising-challenges?traffic_source=rss",
+      "published_date": "2026-07-30T20:54:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss",
+      "published_date": "2026-07-30T19:57:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN demands end of Ugandan clampdown on dissent",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
+      "published_date": "2026-07-30T18:52:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia urges Africa to prepare for expected Super El Niño",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-urges-africa-to-prepare-for-expected-super-el-nino/",
+      "published_date": "2026-07-30T18:43:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, African Union Discuss Security, AUSSOM at Addis Ababa Meeting",
       "source": "Shabelle Media",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US walks out on France at UN over North Korea, Russia comparison",
+      "title": "Will Saudi Arabia be dragged further into the war in Iran?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
-      "published_date": "2026-07-28T12:31:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
+      "published_date": "2026-07-30T21:00:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Soomaaliya Kenya oo ka wada hadlay arrimaha socdaalka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/28/soomaaliya-kenya-oo-ka-wada-hadlay-arrimaha-socdaalka/",
-      "published_date": "2026-07-28T12:18:29+00:00",
-      "category": "Diplomacy"
+      "title": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss",
+      "published_date": "2026-07-30T20:35:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Galkayo on edge as Somalia govt, Puntland inch toward armed conflict",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-federal-government-puntland-galkayo-tensions-potential-conflict/",
-      "published_date": "2026-07-28T11:53:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Erdogan, Senegal’s Faye discuss trade, defence cooperation and regional issues",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/erdogan-senegals-faye-discuss-trade-defence-cooperation-and-regional-issues/",
-      "published_date": "2026-07-28T08:40:46+00:00",
-      "category": "Diplomacy"
+      "title": "Pakistan coal mine explosion kills at least 11, traps dozens",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss",
+      "published_date": "2026-07-30T20:07:56+00:00",
+      "category": "Military"
     },
     {
       "title": "How does a safe zone in Lebanon become a target three times?",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "AUSSOM Troop-Contributing Countries’ Military Chiefs Meet in Uganda to Discuss Somalia Mission",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-troop-contributing-countries-military-chiefs-meet-in-uganda-to-discuss-somalia-mission/",
-      "published_date": "2026-07-29T11:10:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Married couple deported by ICE killed in Guatemala",
+      "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss",
-      "published_date": "2026-07-29T10:55:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
-      "published_date": "2026-07-29T10:18:49+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
+      "published_date": "2026-07-30T17:58:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
@@ -361,18 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "Deadly monsoon floods kill at least 40 in India",
+      "title": "Why is US GDP growth slowing, and how can it be reversed?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/deadly-monsoon-floods-kill-at-least-40-in-india?traffic_source=rss",
-      "published_date": "2026-07-23T20:56:00+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
+      "published_date": "2026-07-30T21:39:37+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
-      "published_date": "2026-07-23T19:28:24+00:00",
-      "category": "Energy"
+      "title": "Somalia joins Saudi coalition to counter Houthis in Red Sea",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-joins-saudi-coalition-counter-houthis-red-sea/",
+      "published_date": "2026-07-30T20:52:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
@@ -452,25 +459,32 @@
       "category": "Economy"
     },
     {
-      "title": "How the Houthi Red Sea blockade will impact the world",
+      "title": "US appeals court rejects Trump expansion of mandatory migrant detention",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss",
-      "published_date": "2026-07-23T23:10:04+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/30/us-appeals-court-rejects-trump-expansion-of-mandatory-migrant-detention?traffic_source=rss",
+      "published_date": "2026-07-30T23:24:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
+      "title": "Trump administration appeals to never-before-used court for deportation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss",
-      "published_date": "2026-07-23T18:41:22+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/30/trump-administration-appeals-to-never-before-used-court-for-deportation?traffic_source=rss",
+      "published_date": "2026-07-30T23:14:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK’s Burnham tells Scotland new independence vote is off limits",
+      "title": "US authorities probe cyberattack on water systems in Minnesota",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
-      "published_date": "2026-07-23T18:07:09+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss",
+      "published_date": "2026-07-30T20:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine Action co-founder wins UK Supreme Court appeal bid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/palestine-action-co-founder-wins-uk-supreme-court-appeal-bid?traffic_source=rss",
+      "published_date": "2026-07-30T20:11:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Maxay yihiin qodobada wax laga baddelayo Dastuurka Puntland?",
@@ -582,34 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
       "published_date": "2026-07-28T11:29:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Future at stake’: India moves to demolish university Muslim leader founded",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss",
-      "published_date": "2026-07-28T08:45:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Somali Prime Minister Warns Puntland Government Against Military Escalation",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/28/former-somali-prime-minister-warns-puntland-government-against-military-escalation/",
-      "published_date": "2026-07-28T08:22:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICE extends lease on Texas detention centre where three migrants died",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/ice-extends-lease-on-texas-detention-centre-where-three-migrants-died?traffic_source=rss",
-      "published_date": "2026-07-28T08:18:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo qabatay agab ciidan oo ka soo galay dhanka Galmudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/28/puntland-oo-qabatay-agab-ciidan-oo-ka-soo-galay-dhanka-galmudug/",
-      "published_date": "2026-07-28T07:46:23+00:00",
       "category": "Local Events"
     }
   ]
