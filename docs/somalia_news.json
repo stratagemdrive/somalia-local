@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-29T23:57:27.692620+00:00",
-  "story_count": 86,
+  "last_updated": "2026-07-30T12:48:14.349136+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Somalia, African Union Discuss Security, AUSSOM at Addis Ababa Meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-african-union-discuss-security-aussom-at-addis-ababa-meeting/",
+      "published_date": "2026-07-30T11:03:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss",
+      "published_date": "2026-07-30T10:18:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can the UN’s Refugee Convention survive?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/30/can-the-uns-refugee-convention?traffic_source=rss",
+      "published_date": "2026-07-30T07:06:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Cuts Weaken Somalia Mission, CDF Gen Kainerugaba Warns",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-cuts-weaken-somalia-mission-cdf-gen-kainerugaba-warns/",
+      "published_date": "2026-07-30T06:54:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Somali Foreign Minister says Nabad & Nolol Rejects Calls to Restore Transitional Government",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-foreign-minister-says-nabad-nolol-rejects-calls-to-restore-transitional-government/",
+      "published_date": "2026-07-30T06:47:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
       "source": "Al Jazeera",
@@ -109,39 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia condemns drone attacks on Saudi Arabia, reaffirms support for Kingdom’s security",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-drone-attacks-on-saudi-arabia-reaffirms-support-for-kingdoms-security/",
-      "published_date": "2026-07-28T08:34:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AU Commission chief praises AUSSOM’s role in Somalia security transition",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/au-commission-chief-praises-aussoms-role-in-somalia-security-transition/",
-      "published_date": "2026-07-28T08:32:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Colombia’s president-elect to suspend Palestine embassy",
+      "title": "How does a safe zone in Lebanon become a target three times?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
-      "published_date": "2026-07-28T08:19:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss",
+      "published_date": "2026-07-30T11:34:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s Future Council Urges AUSSOM Troop-Contributing Nations to Back Political Transition",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalias-future-council-urges-aussom-troop-contributing-nations-to-back-political-transition/",
-      "published_date": "2026-07-28T04:08:20+00:00",
-      "category": "Diplomacy"
+      "title": "Somali President Meets AFRICOM Commander to Discuss Security Cooperation and Counterterrorism Efforts",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-meets-africom-commander-to-discuss-security-cooperation-and-counterterrorism-efforts/",
+      "published_date": "2026-07-30T11:00:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "US diplomats walk out as France addresses UN Security Council",
+      "title": "Xasan Sheekh oo la kulmay Taliyaha AFRICOM",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/30/xasan-sheekh-oo-la-kulmay-taliyaha-africom/",
+      "published_date": "2026-07-30T10:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Attack on northwest Pakistan police post kills 11 officers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
-      "published_date": "2026-07-27T23:07:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
+      "published_date": "2026-07-30T10:21:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Several children killed and wounded in Israeli attacks across Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+      "published_date": "2026-07-30T10:20:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Madaxweynaha Soomaaliya oo kulan la yeeshay Taliyaha Ciidamada Mareykanka ee AFRICOM",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweynaha-soomaaliya-oo-kulan-la-yeeshay-taliyaha-ciidamada-mareykanka-ee-africom/",
+      "published_date": "2026-07-30T10:19:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland says Russian missile breaches NATO airspace",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
+      "published_date": "2026-07-30T10:13:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
+      "published_date": "2026-07-30T09:17:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
+      "published_date": "2026-07-30T09:10:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five Kenyan officers killed in Al-Shabaab ambush near Somalia border as Mandera’s deadly corridor claims more lives",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/kenya-mandera-al-shabaab-attack-five-officers-killed/",
+      "published_date": "2026-07-30T07:55:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+      "published_date": "2026-07-30T07:13:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump threatens Iran strikes after attack on US base in Jordan",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
+      "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
-      "published_date": "2026-07-29T09:51:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five Kenyan security officers killed in suspected al Shabaab attack near Somalia border",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/five-kenyan-security-officers-killed-in-suspected-al-shabaab-attack-near-somalia-border/",
-      "published_date": "2026-07-29T09:11:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
-      "published_date": "2026-07-29T08:33:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shan askari oo ka tirsan ciidamada ammaanka Kenya oo lagu dilay weerar ka dhacay Mandera",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/shan-askari-oo-ka-tirsan-ciidamada-ammaanka-kenya-oo-lagu-dilay-weerar-ka-dhacay-mandera/",
-      "published_date": "2026-07-29T08:29:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Germany bring back mandatory military conscription next year?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year?traffic_source=rss",
-      "published_date": "2026-07-29T08:07:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gen. Jimcaale oo ka hadlay xiisadda Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/29/gen-jimcaale-oo-ka-hadlay-xiisadda-gaalkacyo/",
-      "published_date": "2026-07-29T05:33:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump meets Netanyahu for a record seventh White House visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
-      "published_date": "2026-07-29T04:47:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
-      "published_date": "2026-07-28T23:16:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-      "published_date": "2026-07-28T21:24:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
-      "published_date": "2026-07-28T20:29:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss",
-      "published_date": "2026-07-28T20:11:04+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
+      "published_date": "2026-07-30T07:02:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
@@ -368,11 +375,11 @@
       "category": "Energy"
     },
     {
-      "title": "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
+      "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss",
-      "published_date": "2026-07-23T11:33:24+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
+      "published_date": "2026-07-30T09:43:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
@@ -464,6 +471,27 @@
       "url": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
       "published_date": "2026-07-23T18:07:09+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Maxay yihiin qodobada wax laga baddelayo Dastuurka Puntland?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/30/maxay-yihiin-qodobada-wax-laga-baddelayo-dastuurka-puntland/",
+      "published_date": "2026-07-30T10:48:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protest group says 30 dead in Pakistan-administered Kashmir vote unrest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/protest-group-says-30-dead-in-pakistan-administered-kashmir-vote?traffic_source=rss",
+      "published_date": "2026-07-30T08:47:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Galmudug oo looga dareeray doorasho",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/30/galmudug-oo-looga-dareeray-doorasho/",
+      "published_date": "2026-07-30T06:26:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
@@ -582,27 +610,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/28/puntland-oo-qabatay-agab-ciidan-oo-ka-soo-galay-dhanka-galmudug/",
       "published_date": "2026-07-28T07:46:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Refugee Convention at 75: The world must keep the promise that saved me",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/28/refugee-convention-at-75-the-world-must-keep-the-promise-that-saved-me?traffic_source=rss",
-      "published_date": "2026-07-28T07:24:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
-      "published_date": "2026-07-27T21:24:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss",
-      "published_date": "2026-07-27T20:32:59+00:00",
       "category": "Local Events"
     }
   ]
