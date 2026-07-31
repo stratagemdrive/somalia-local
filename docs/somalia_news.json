@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-31T13:00:14.682534+00:00",
-  "story_count": 85,
+  "last_updated": "2026-07-31T23:58:21.136281+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Somalia’s Security Transition Hinges on Political Agreement, AUSSOM Summit Says",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/aussom-summit-says-political-consensus-critical-to-somalias-security/",
+      "published_date": "2026-07-31T20:46:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Poland protests to Russian ambassador over missile incursion",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
+      "published_date": "2026-07-31T19:48:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
       "source": "Al Jazeera",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia, Kenya Foreign Ministers Hold Talks on Bilateral Ties at AU Meeting",
+      "title": "Exclusive Interview with AFRICOM Commander General Dagvin Anderson",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-kenya-foreign-ministers-hold-talks-on-bilateral-ties-at-au-meeting/",
-      "published_date": "2026-07-29T13:21:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/exclusive-interview-with-africom-commander-general-dagvin-anderson/",
+      "published_date": "2026-07-31T20:53:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+      "title": "At least 25 people killed, dozens injured in Algeria bus crash",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
-      "published_date": "2026-07-29T12:27:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss",
+      "published_date": "2026-07-31T20:12:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
+      "published_date": "2026-07-31T19:18:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
-      "published_date": "2026-07-29T21:18:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s attorney general pick faces possible Republican roadblock",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss",
-      "published_date": "2026-07-29T20:11:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/29/how-is-islamabad-handling-crisis-in-pakistan-administered-kashmir?traffic_source=rss",
-      "published_date": "2026-07-29T20:08:09+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
@@ -359,6 +359,20 @@
       "url": "https://www.somaliguardian.com/news/somalia-news/turkey-cannot-commercially-drill-somalia-offshore-oil-ex-puntland-minister/",
       "published_date": "2026-07-25T13:04:32+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Does FIFA need private investment?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss",
+      "published_date": "2026-07-31T20:07:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Western allies warn North Korean IT workers funding nuclear arsenal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
+      "published_date": "2026-07-31T17:06:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns",
@@ -457,6 +471,41 @@
       "url": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
       "published_date": "2026-07-25T08:09:47+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "US Senate’s Fauci hearing renews COVID origin debate but reveals little",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss",
+      "published_date": "2026-07-31T22:10:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sida Puntland loo asaasay 28 sano ka hor",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/31/sida-puntland-loo-asaasay-28-sano-ka-hor/",
+      "published_date": "2026-07-31T20:42:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss",
+      "published_date": "2026-07-31T20:38:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela government and opposition to hold talks aimed at path to election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
+      "published_date": "2026-07-31T20:28:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Veteran Somali Music Icon Ahmed Ali Egal Dies in United States",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/veteran-somali-music-icon-ahmed-ali-egal-dies-in-united-states/",
+      "published_date": "2026-07-31T12:50:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Inside Barcelona’s most sweltering neighbourhood: El Raval",
@@ -561,41 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
       "published_date": "2026-07-29T18:34:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliyaha Ciidanka Dhulka oo dhagax-dhigay xarun caafimaad oo laga hirgelinayo Dugsiga Tababarka Xananbuure",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-oo-dhagax-dhigay-xarun-caafimaad-oo-laga-hirgelinayo-dugsiga-tababarka-xananbuure/",
-      "published_date": "2026-07-29T13:21:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Puntland forces surround PSF camp in Galkayo as conflict fears rise",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-surround-psf-camp-galkayo-conflict-fears/",
-      "published_date": "2026-07-29T09:24:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian industrial sites on fire after Ukrainian drone attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks?traffic_source=rss",
-      "published_date": "2026-07-29T07:57:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in DC against Netanyahu’s meeting with Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss",
-      "published_date": "2026-07-28T20:22:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keiko Fujimori sworn in as Peru president after narrow election win",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
-      "published_date": "2026-07-28T20:14:09+00:00",
       "category": "Local Events"
     }
   ]
