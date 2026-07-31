@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-30T23:58:39.537923+00:00",
+  "last_updated": "2026-07-31T13:00:14.682534+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
+      "published_date": "2026-07-31T12:38:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Africa Says AU Backs Broader Migration Debate Instead of Focusing on Xenophobic Violence",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-africa-says-au-backs-broader-migration-debate-instead-of-focusing-on-xenophobic-violence/",
+      "published_date": "2026-07-31T09:25:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s President Arrives in Uganda Ahead of AUSSOM Summit, Holds Talks With Museveni",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-arrives-in-uganda-ahead-of-aussom-summit-holds-talks-with-museveni/",
+      "published_date": "2026-07-31T09:19:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AUSSOM Troop-Contributing Nations Seek UN Extension for Somalia Mission at Kampala Summit",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/aussom-troop-contributing-nations-seek-un-extension-for-somalia-mission-at-kampala-summit/",
+      "published_date": "2026-07-31T09:13:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Netanyahu lost America",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/31/how-netanyahu-lost-america?traffic_source=rss",
+      "published_date": "2026-07-31T07:03:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss",
+      "published_date": "2026-07-31T06:24:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN launches hunt for next chief amid rising challenges",
       "source": "Al Jazeera",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+      "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
-      "published_date": "2026-07-29T11:19:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss",
+      "published_date": "2026-07-31T11:41:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Soomaaliya iyo Kenya oo yeeshay kulan laba geesood ah intii uu socday Shirka Golaha Fulinta Midowga Afrika",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-iyo-kenya-oo-yeeshay-kulan-laba-geesood-ah-intii-uu-socday-shirka-golaha-fulinta-midowga-afrika/",
-      "published_date": "2026-07-29T10:16:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India’s youth have broken Modi’s spell",
+      "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/29/indias-youth-have-broken-modis-spell?traffic_source=rss",
-      "published_date": "2026-07-29T07:15:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss",
+      "published_date": "2026-07-31T08:03:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+      "title": "Iran war live: Hamas agree draft peace plan on Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-07-29T05:07:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Malaysian foreign minister calls for review of UNHCR’s presence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
-      "published_date": "2026-07-28T18:25:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia, Serbia Hold High-Level Meeting on Bilateral Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-serbia-hold-high-level-meeting-on-bilateral-cooperation/",
-      "published_date": "2026-07-28T16:54:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
+      "published_date": "2026-07-31T06:49:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Will Saudi Arabia be dragged further into the war in Iran?",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "New investigation shows how an Israeli settler escaped justice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss",
-      "published_date": "2026-07-29T19:55:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ice cream for education: Gaza cafe raises funds for studies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss",
-      "published_date": "2026-07-29T19:46:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
-      "published_date": "2026-07-29T11:34:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
@@ -361,11 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
+      "title": "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
-      "published_date": "2026-07-24T06:01:39+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss",
+      "published_date": "2026-07-31T09:50:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss",
+      "published_date": "2026-07-31T07:25:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why is US GDP growth slowing, and how can it be reversed?",
@@ -452,11 +459,32 @@
       "category": "Economy"
     },
     {
-      "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?",
+      "title": "Inside Barcelona’s most sweltering neighbourhood: El Raval",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly?traffic_source=rss",
-      "published_date": "2026-07-24T09:13:45+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/7/31/inside-barcelonas-most-sweltering-neighbourhood-el-raval?traffic_source=rss",
+      "published_date": "2026-07-31T12:24:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US government mislabels countries on map of Africa at global conference",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss",
+      "published_date": "2026-07-31T07:06:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Latin America is becoming a laboratory for tech-supremacism",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/31/latin-america-is-becoming-a-laboratory-for-tech-supremacism?traffic_source=rss",
+      "published_date": "2026-07-31T07:04:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garoowe: Deni oo ka qaybgalay bandhiga Buugga Baadigoobkii Nabadda Geeska Afrika",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/07/31/garoowe-deni-oo-ka-qaybgalay-bandhiga-buugga-baadigoobkii-nabadda-geeska-afrika/",
+      "published_date": "2026-07-31T02:05:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US appeals court rejects Trump expansion of mandatory migrant detention",
@@ -568,34 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
       "published_date": "2026-07-28T20:14:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Musharrax u taagnaa xilka Madaxweynaha Galmudug oo isaga haray tartanka, kuna eedeeyay dowladda faragelin doorasho",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/musharrax-u-taagnaa-xilka-madaxweynaha-galmudug-oo-isaga-haray-tartanka-kuna-eedeeyay-dowladda-faragelin-doorasho/",
-      "published_date": "2026-07-28T16:43:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Galmudug presidential hopeful withdraws from race, alleges government interference",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/galmudug-presidential-hopeful-withdraws-from-race-alleges-government-interference/",
-      "published_date": "2026-07-28T16:41:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland iyo Galmudug oo ka wada hadlay amniga Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/28/puntland-iyo-galmudug-oo-ka-wada-hadlay-amniga-gaalkacyo/",
-      "published_date": "2026-07-28T13:26:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
-      "published_date": "2026-07-28T11:29:18+00:00",
       "category": "Local Events"
     }
   ]
