@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-01T12:04:40.684792+00:00",
+  "last_updated": "2026-08-01T23:54:09.778361+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
+      "published_date": "2026-08-01T20:38:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "IGAD Chief Visits Khartoum, Reaffirms Support for Sudan-Led Peace Efforts",
       "source": "Shabelle Media",
@@ -137,11 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Can the UN’s Refugee Convention survive?",
+      "title": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/30/can-the-uns-refugee-convention?traffic_source=rss",
-      "published_date": "2026-07-30T07:06:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
+      "published_date": "2026-08-01T20:57:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
+      "published_date": "2026-08-01T20:10:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least three killed in explosion near cafe in Russia’s Moscow",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
+      "published_date": "2026-08-01T18:22:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
+      "published_date": "2026-08-01T17:57:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 9 people killed in Russian missile attacks on Kyiv",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
+      "published_date": "2026-08-01T17:45:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces detain residents and demolish homes in southern Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
+      "published_date": "2026-08-01T17:28:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill seven across Gaza, destroy medical supply warehouse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+      "published_date": "2026-08-01T16:07:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 11 wounded by Colombia car bomb days before presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
+      "published_date": "2026-08-01T15:48:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India cracks down on protesters accused of ‘abusing’ Modi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
+      "published_date": "2026-08-01T14:28:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump mimics sound of Patriot missile interceptions",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
+      "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss",
-      "published_date": "2026-07-31T11:41:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss",
-      "published_date": "2026-07-31T08:03:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Hamas agree draft peace plan on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
-      "published_date": "2026-07-31T06:49:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Saudi Arabia be dragged further into the war in Iran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
-      "published_date": "2026-07-30T21:00:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss",
-      "published_date": "2026-07-30T20:35:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan coal mine explosion kills at least 11, traps dozens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss",
-      "published_date": "2026-07-30T20:07:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How does a safe zone in Lebanon become a target three times?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss",
-      "published_date": "2026-07-30T11:34:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali President Meets AFRICOM Commander to Discuss Security Cooperation and Counterterrorism Efforts",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-meets-africom-commander-to-discuss-security-cooperation-and-counterterrorism-efforts/",
-      "published_date": "2026-07-30T11:00:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xasan Sheekh oo la kulmay Taliyaha AFRICOM",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/30/xasan-sheekh-oo-la-kulmay-taliyaha-africom/",
-      "published_date": "2026-07-30T10:46:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
+      "published_date": "2026-08-01T16:43:34+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
@@ -354,11 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "Turkey cannot commercially drill Somalia’s offshore oil: ex-Puntland minister",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-cannot-commercially-drill-somalia-offshore-oil-ex-puntland-minister/",
-      "published_date": "2026-07-25T13:04:32+00:00",
-      "category": "Energy"
+      "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
+      "published_date": "2026-08-01T23:15:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
+      "published_date": "2026-08-01T13:59:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
@@ -487,18 +501,74 @@
       "category": "Economy"
     },
     {
-      "title": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
+      "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
-      "published_date": "2026-07-25T21:59:39+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
+      "published_date": "2026-08-01T22:31:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
+      "title": "President Hassan Sheikh Acknowledges Somaliland’s Electoral Expertise as Federal Parliament Opens New Session",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/president-hassan-sheikh-acknowledges-somalilands-electoral-expertise-as-federal-parliament-opens-new-session/",
+      "published_date": "2026-08-01T20:53:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni oo baajiyay khudbad uu ka jeedin lahaa Garoowe, tagayna Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/01/deni-oo-baajiyay-khudbad-uu-ka-jeedin-lahaa-garoowe-tagayna-boosaaso/",
+      "published_date": "2026-08-01T20:25:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland Marks 28th Anniversary with Military Parade and Calls for Stability",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-marks-28th-anniversary-with-military-parade-and-calls-for-stability/",
+      "published_date": "2026-08-01T19:59:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweynaha Somaliland oo la kulmay Taliyaha Ciidamada Hawlgallada Gaarka ah ee Mareykanka ee Afrika",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweynaha-somaliland-oo-la-kulmay-taliyaha-ciidamada-hawlgallada-gaarka-ah-ee-mareykanka-ee-afrika/",
+      "published_date": "2026-08-01T14:25:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strike destroys Gaza hospital warehouse",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
-      "published_date": "2026-07-25T16:36:48+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+      "published_date": "2026-08-01T14:07:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia president signs law approving African free trade pact",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-president-signs-law-approving-african-free-trade-pact/",
+      "published_date": "2026-08-01T13:49:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali president opens parliament session, vows security gains and direct elections",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-opens-parliament-session-vows-security-gains-and-direct-elections/",
+      "published_date": "2026-08-01T13:48:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo si weyn u xustay 1-da Agoosto",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/01/puntland-oo-si-weyn-u-xustay-1-da-agoosto/",
+      "published_date": "2026-08-01T12:22:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland: Taliye Maraykan ah oo kulan la qaatay Cirro",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/01/somaliland-taliye-maraykan-ah-oo-kulan-la-qaatay-cirro/",
+      "published_date": "2026-08-01T10:19:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
@@ -568,76 +638,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/07/31/garoowe-deni-oo-ka-qaybgalay-bandhiga-buugga-baadigoobkii-nabadda-geeska-afrika/",
       "published_date": "2026-07-31T02:05:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court rejects Trump expansion of mandatory migrant detention",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/us-appeals-court-rejects-trump-expansion-of-mandatory-migrant-detention?traffic_source=rss",
-      "published_date": "2026-07-30T23:24:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration appeals to never-before-used court for deportation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/trump-administration-appeals-to-never-before-used-court-for-deportation?traffic_source=rss",
-      "published_date": "2026-07-30T23:14:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US authorities probe cyberattack on water systems in Minnesota",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss",
-      "published_date": "2026-07-30T20:32:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestine Action co-founder wins UK Supreme Court appeal bid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/palestine-action-co-founder-wins-uk-supreme-court-appeal-bid?traffic_source=rss",
-      "published_date": "2026-07-30T20:11:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxay yihiin qodobada wax laga baddelayo Dastuurka Puntland?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/30/maxay-yihiin-qodobada-wax-laga-baddelayo-dastuurka-puntland/",
-      "published_date": "2026-07-30T10:48:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protest group says 30 dead in Pakistan-administered Kashmir vote unrest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/protest-group-says-30-dead-in-pakistan-administered-kashmir-vote?traffic_source=rss",
-      "published_date": "2026-07-30T08:47:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Galmudug oo looga dareeray doorasho",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/30/galmudug-oo-looga-dareeray-doorasho/",
-      "published_date": "2026-07-30T06:26:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss",
-      "published_date": "2026-07-29T23:25:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Myanmar court sentences activists to 37 years over election protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
-      "published_date": "2026-07-29T21:29:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Algeria elects first-ever woman speaker of parliament",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
-      "published_date": "2026-07-29T20:09:26+00:00",
       "category": "Local Events"
     }
   ]
