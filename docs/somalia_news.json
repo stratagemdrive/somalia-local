@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-07-31T23:58:21.136281+00:00",
-  "story_count": 87,
+  "last_updated": "2026-08-01T12:04:40.684792+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "IGAD Chief Visits Khartoum, Reaffirms Support for Sudan-Led Peace Efforts",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/igad-chief-visits-khartoum-reaffirms-support-for-sudan-led-peace-efforts/",
+      "published_date": "2026-08-01T06:43:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Backs Saudi Initiative to Build International Red Sea Security Alliance",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-backs-saudi-initiative-to-build-international-red-sea-security-alliance/",
+      "published_date": "2026-08-01T06:41:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AU Reaffirms Support for Somalia as AUSSOM Troop-Contributing Countries Meet in Kampala",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/au-reaffirms-support-for-somalia-as-aussom-troop-contributing-countries-meet-in-kampala/",
+      "published_date": "2026-08-01T06:40:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Madaxa IGAD oo Khartoum ku booqday Al-Burhaan, kuna celiyay taageerada nabadda uu hoggaaminayo Suudaan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxa-igad-oo-khartoum-ku-booqday-al-burhaan-kuna-celiyay-taageerada-nabadda-uu-hoggaaminayo-suudaan/",
+      "published_date": "2026-08-01T05:58:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Danjiraha Soomaaliya ee Kenya oo qaabilay Garsoore ka tirsan Maxkamadda Caalamiga ah ee Caddaaladda",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/danjiraha-soomaaliya-ee-kenya-oo-qaabilay-garsoore-ka-tirsan-maxkamadda-caalamiga-ah-ee-caddaaladda/",
+      "published_date": "2026-08-01T05:29:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia’s Security Transition Hinges on Political Agreement, AUSSOM Summit Says",
       "source": "Shabelle Media",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN Cuts Weaken Somalia Mission, CDF Gen Kainerugaba Warns",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-cuts-weaken-somalia-mission-cdf-gen-kainerugaba-warns/",
-      "published_date": "2026-07-30T06:54:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former Somali Foreign Minister says Nabad & Nolol Rejects Calls to Restore Transitional Government",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-foreign-minister-says-nabad-nolol-rejects-calls-to-restore-transitional-government/",
-      "published_date": "2026-07-30T06:47:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
+      "title": "Trump mimics sound of Patriot missile interceptions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
-      "published_date": "2026-07-29T23:10:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss",
+      "published_date": "2026-08-01T11:21:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Al-Shabab kills five Kenyan security personnel in ambush",
+      "title": "Iran: The Making of a War",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss",
-      "published_date": "2026-07-29T19:06:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss",
+      "published_date": "2026-08-01T10:30:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Emergency Uganda AUSSOM summit opens as U.S. funding threat puts Somalia mission at risk",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-aussom-summit-us-funding-threat-somalia-mission/",
-      "published_date": "2026-07-29T17:21:13+00:00",
-      "category": "Diplomacy"
+      "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
+      "published_date": "2026-08-01T09:47:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Soomaaliya oo cambaareysay weerarkii lagu qaaday Dekedda Damietta ee dalka Masar",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-cambaareysay-weerarkii-lagu-qaaday-dekedda-damietta-ee-masar/",
+      "published_date": "2026-08-01T07:41:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Protesters detained at rally in support of Pakistan-administered Kashmir",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss",
+      "published_date": "2026-08-01T04:39:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+      "published_date": "2026-08-01T01:55:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+      "published_date": "2026-08-01T00:48:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+      "published_date": "2026-07-31T23:59:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Exclusive Interview with AFRICOM Commander General Dagvin Anderson",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Attack on northwest Pakistan police post kills 11 officers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
-      "published_date": "2026-07-30T10:21:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several children killed and wounded in Israeli attacks across Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-      "published_date": "2026-07-30T10:20:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Madaxweynaha Soomaaliya oo kulan la yeeshay Taliyaha Ciidamada Mareykanka ee AFRICOM",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynaha-soomaaliya-oo-kulan-la-yeeshay-taliyaha-ciidamada-mareykanka-ee-africom/",
-      "published_date": "2026-07-30T10:19:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland says Russian missile breaches NATO airspace",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
-      "published_date": "2026-07-30T10:13:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
-      "published_date": "2026-07-30T09:17:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
-      "published_date": "2026-07-30T09:10:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five Kenyan officers killed in Al-Shabaab ambush near Somalia border as Mandera’s deadly corridor claims more lives",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/kenya-mandera-al-shabaab-attack-five-officers-killed/",
-      "published_date": "2026-07-30T07:55:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
-      "published_date": "2026-07-30T07:13:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
@@ -359,6 +359,48 @@
       "url": "https://www.somaliguardian.com/news/somalia-news/turkey-cannot-commercially-drill-somalia-offshore-oil-ex-puntland-minister/",
       "published_date": "2026-07-25T13:04:32+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
+      "published_date": "2026-08-01T11:58:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Beneath Tunisia’s silence, public anger simmers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
+      "published_date": "2026-08-01T09:42:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
+      "published_date": "2026-08-01T07:33:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Liberia’s kush crisis: The hidden trade behind a generation at risk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
+      "published_date": "2026-08-01T03:18:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+      "published_date": "2026-08-01T01:10:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FIFA World Cup fallout: Infantino scraps private investment plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+      "published_date": "2026-07-31T23:47:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Does FIFA need private investment?",
@@ -459,18 +501,11 @@
       "category": "Economy"
     },
     {
-      "title": "F1 needs better balance between business and sport, says Norris",
+      "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
-      "published_date": "2026-07-25T13:03:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
-      "published_date": "2026-07-25T08:09:47+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "published_date": "2026-08-01T02:06:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US Senate’s Fauci hearing renews COVID origin debate but reveals little",
@@ -603,13 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
       "published_date": "2026-07-29T20:09:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
-      "published_date": "2026-07-29T18:34:09+00:00",
       "category": "Local Events"
     }
   ]
