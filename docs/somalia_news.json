@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-01T23:54:09.778361+00:00",
+  "last_updated": "2026-08-02T12:07:36.122670+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
+      "published_date": "2026-08-02T09:07:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
       "source": "Al Jazeera",
@@ -137,11 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
+      "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss",
-      "published_date": "2026-07-30T10:18:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
+      "published_date": "2026-08-02T11:07:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli soldiers jailed over Sde Teiman walkout",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss",
+      "published_date": "2026-08-02T10:31:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AFRICOM chief: Somalia must end political infighting or risk losing US military support",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/africom-somalia-infighting-us-military-support/",
+      "published_date": "2026-08-02T09:07:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tigray Accuses Ethiopia of Launching Fresh Offensive, Raising Fears of Renewed War",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/tigray-accuses-ethiopia-of-launching-fresh-offensive-raising-fears-of-renewed-war/",
+      "published_date": "2026-08-02T08:58:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump ‘cancels attack on Iran’ saying deal is near",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+      "published_date": "2026-08-02T08:43:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tigray oo ku eedeysay dowladda Itoobiya inay weerar cusub ka billowday Galbeedka gobolka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/tigray-oo-ku-eedeysay-dowladda-itoobiya-inay-weerar-cusub-ka-billowday-galbeedka-gobolka/",
+      "published_date": "2026-08-02T06:02:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least three dead in Idaho shopping mall mass shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss",
+      "published_date": "2026-08-02T05:29:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three dead including female bomber in Moscow restaurant attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
+      "published_date": "2026-08-02T04:44:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
+      "published_date": "2026-08-02T03:36:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
@@ -221,69 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
-      "published_date": "2026-08-01T09:47:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya oo cambaareysay weerarkii lagu qaaday Dekedda Damietta ee dalka Masar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-cambaareysay-weerarkii-lagu-qaaday-dekedda-damietta-ee-masar/",
-      "published_date": "2026-08-01T07:41:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protesters detained at rally in support of Pakistan-administered Kashmir",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss",
-      "published_date": "2026-08-01T04:39:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military says F-35B jet fighter crashes in California, pilot safe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
-      "published_date": "2026-08-01T01:55:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
-      "published_date": "2026-08-01T00:48:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
-      "published_date": "2026-07-31T23:59:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Exclusive Interview with AFRICOM Commander General Dagvin Anderson",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/exclusive-interview-with-africom-commander-general-dagvin-anderson/",
-      "published_date": "2026-07-31T20:53:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 25 people killed, dozens injured in Algeria bus crash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss",
-      "published_date": "2026-07-31T20:12:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
-      "published_date": "2026-07-31T19:18:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
@@ -359,6 +359,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/26/cuban-president-accuses-us-of-genocide-seeking-takeover?traffic_source=rss",
       "published_date": "2026-07-26T19:16:29+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
+      "published_date": "2026-08-02T08:12:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
@@ -494,11 +501,25 @@
       "category": "Economy"
     },
     {
-      "title": "Trump takes economic message to Michigan amid dwindling popularity",
+      "title": "Somaliland Leader Meets U.S. Special Operations Commander to Discuss Security Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-leader-meets-u-s-special-operations-commander-to-discuss-security-cooperation/",
+      "published_date": "2026-08-02T09:05:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
-      "published_date": "2026-07-27T20:23:12+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
+      "published_date": "2026-08-02T05:27:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunman opens fire at Idaho fast-food restaurant, killing two",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss",
+      "published_date": "2026-08-02T01:26:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
@@ -617,27 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/31/inside-barcelonas-most-sweltering-neighbourhood-el-raval?traffic_source=rss",
       "published_date": "2026-07-31T12:24:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US government mislabels countries on map of Africa at global conference",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss",
-      "published_date": "2026-07-31T07:06:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latin America is becoming a laboratory for tech-supremacism",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/31/latin-america-is-becoming-a-laboratory-for-tech-supremacism?traffic_source=rss",
-      "published_date": "2026-07-31T07:04:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garoowe: Deni oo ka qaybgalay bandhiga Buugga Baadigoobkii Nabadda Geeska Afrika",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/07/31/garoowe-deni-oo-ka-qaybgalay-bandhiga-buugga-baadigoobkii-nabadda-geeska-afrika/",
-      "published_date": "2026-07-31T02:05:25+00:00",
       "category": "Local Events"
     }
   ]
