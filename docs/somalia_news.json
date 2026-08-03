@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-02T23:55:16.768698+00:00",
-  "story_count": 91,
+  "last_updated": "2026-08-03T13:44:00.379930+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Mas’uul sare oo ka tirsan dowladda Soomaaliya oo iska celiyay baasaboorka Kenya",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/03/masuul-sare-oo-ka-tirsan-dowladda-soomaaliya-oo-iska-celiyay-baasaboorka-kenya/",
+      "published_date": "2026-08-03T13:00:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, China Hold Talks on Defence Cooperation, AU Mission’s Future",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-china-hold-talks-on-defence-cooperation-aussom-future/",
+      "published_date": "2026-08-03T12:57:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestine’s new ambassador to Spain calls for deeper friendship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss",
+      "published_date": "2026-08-03T12:09:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says new Iran negotiations starting: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
+      "published_date": "2026-08-03T09:44:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings",
       "source": "Al Jazeera",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "South Africa Says AU Backs Broader Migration Debate Instead of Focusing on Xenophobic Violence",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-africa-says-au-backs-broader-migration-debate-instead-of-focusing-on-xenophobic-violence/",
-      "published_date": "2026-07-31T09:25:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia’s President Arrives in Uganda Ahead of AUSSOM Summit, Holds Talks With Museveni",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-president-arrives-in-uganda-ahead-of-aussom-summit-holds-talks-with-museveni/",
-      "published_date": "2026-07-31T09:19:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AUSSOM Troop-Contributing Nations Seek UN Extension for Somalia Mission at Kampala Summit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-troop-contributing-nations-seek-un-extension-for-somalia-mission-at-kampala-summit/",
-      "published_date": "2026-07-31T09:13:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How Netanyahu lost America",
+      "title": "Massive Attack says members held after pro-Palestine display in Singapore",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/31/how-netanyahu-lost-america?traffic_source=rss",
-      "published_date": "2026-07-31T07:03:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss",
+      "published_date": "2026-08-03T13:23:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Soomaaliya iyo Shiinaha oo ka wada hadlay iskaashiga difaaca iyo mustaqbalka AUSSOM",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-iyo-shiinaha-oo-ka-wada-hadlay-iskaashiga-difaaca-iyo-mustaqbalka-aussom/",
+      "published_date": "2026-08-03T12:56:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Chief, TURKSOM Commander Visit Baidoa for Security Talks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-turksom-commander-visit-baidoa-for-security-talks/",
+      "published_date": "2026-08-03T12:52:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who will shape post-war Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
+      "published_date": "2026-08-03T12:11:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Wafdi Maraykan ah oo hoggaaminayay Ronny Jackson oo la kulmay Axmed Madoobe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/03/wafdi-maraykan-ah-oo-hoggaaminayay-ronny-jackson-oo-la-kulmay-axmed-madoobe/",
+      "published_date": "2026-08-03T11:26:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes Russia’s biggest retailer again",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
+      "published_date": "2026-08-03T11:03:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Shabaab Claims Capture of Strategic Village in Central Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/al-shabaab-claims-capture-of-strategic-village-in-central-somalia/",
+      "published_date": "2026-08-03T09:21:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
+      "published_date": "2026-08-03T09:05:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
+      "published_date": "2026-08-03T09:01:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somaliland oo cambaareysay booqashada Ra’iisul Wasaare Xamza ee Laascaanood",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-oo-cambaareysay-booqashada-raiisul-wasaare-xamza-ee-laascaanood-kana-digtay-inay-sii-hurin-karto-xiisadda/",
+      "published_date": "2026-08-03T06:00:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan army drone attack on Darfur kills 35, rights group says",
@@ -214,74 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
+      "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
-      "published_date": "2026-08-02T16:10:32+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
+      "published_date": "2026-08-03T11:51:30+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli settlers shoot Palestinian child during farm raid",
+      "title": "Wildfires still burning in France and Spain amid fears of more to come",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
-      "published_date": "2026-08-02T15:36:28+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
+      "published_date": "2026-08-03T09:32:43+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How to end the ‘Hormuz war’",
+      "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
-      "published_date": "2026-08-02T15:33:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
-      "published_date": "2026-08-02T11:07:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldiers jailed over Sde Teiman walkout",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss",
-      "published_date": "2026-08-02T10:31:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AFRICOM chief: Somalia must end political infighting or risk losing US military support",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/africom-somalia-infighting-us-military-support/",
-      "published_date": "2026-08-02T09:07:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tigray Accuses Ethiopia of Launching Fresh Offensive, Raising Fears of Renewed War",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/tigray-accuses-ethiopia-of-launching-fresh-offensive-raising-fears-of-renewed-war/",
-      "published_date": "2026-08-02T08:58:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump ‘cancels attack on Iran’ saying deal is near",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
-      "published_date": "2026-08-02T08:43:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tigray oo ku eedeysay dowladda Itoobiya inay weerar cusub ka billowday Galbeedka gobolka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/tigray-oo-ku-eedeysay-dowladda-itoobiya-inay-weerar-cusub-ka-billowday-galbeedka-gobolka/",
-      "published_date": "2026-08-02T06:02:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least three dead in Idaho shopping mall mass shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss",
-      "published_date": "2026-08-02T05:29:36+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
+      "published_date": "2026-08-03T09:13:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russian and Ukrainian strikes kill 14 on both sides",
@@ -354,11 +375,11 @@
       "category": "Energy"
     },
     {
-      "title": "Greta Thunberg joins London rally in support of Indian students",
+      "title": "Australia warns H5N1 likely to spread after first mass mortality episode",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/greta-thunberg-joins-london-rally-in-support-of-indian-students?traffic_source=rss",
-      "published_date": "2026-07-27T08:43:47+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode?traffic_source=rss",
+      "published_date": "2026-08-03T09:04:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
@@ -494,11 +515,46 @@
       "category": "Economy"
     },
     {
-      "title": "Fatal Shooting in ICE Operations",
+      "title": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss",
-      "published_date": "2026-07-28T11:42:28+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss",
+      "published_date": "2026-08-03T12:27:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US cricket player Reddy receives eight-year ban for match-fixing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss",
+      "published_date": "2026-08-03T10:52:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia: US signs Bosaso base deal with Puntland, bypassing Mogadishu",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-puntland-bosaso-military-base-deal-somaliland/",
+      "published_date": "2026-08-03T10:30:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "North Koreans flood new ‘tourist zone’ beach amid heatwave",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/north-koreans-flood-new-tourist-zone-beach-amid-heatwave?traffic_source=rss",
+      "published_date": "2026-08-03T10:10:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England set to follow Wales in withdrawing support for FIFA’s Infantino",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/3/wales-fa-withdraws-support-for-infantino-re-election-after-fifa-stake-plan?traffic_source=rss",
+      "published_date": "2026-08-03T09:23:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Condemns Somali PM’s Visit to Las Anod, Warns of Rising Tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-condemns-somali-pms-visit-to-las-anod-warns-of-rising-tensions/",
+      "published_date": "2026-08-03T09:18:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
@@ -596,48 +652,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/president-hassan-sheikh-acknowledges-somalilands-electoral-expertise-as-federal-parliament-opens-new-session/",
       "published_date": "2026-08-01T20:53:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni oo baajiyay khudbad uu ka jeedin lahaa Garoowe, tagayna Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/01/deni-oo-baajiyay-khudbad-uu-ka-jeedin-lahaa-garoowe-tagayna-boosaaso/",
-      "published_date": "2026-08-01T20:25:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni oo baajiyay khudbad uu ka jeedin lahaa Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/01/deni-oo-baajiyay-khudbad-uu-ka-jeedin-lahaa-garoowe/",
-      "published_date": "2026-08-01T20:25:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland Marks 28th Anniversary with Military Parade and Calls for Stability",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/puntland-marks-28th-anniversary-with-military-parade-and-calls-for-stability/",
-      "published_date": "2026-08-01T19:59:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweynaha Somaliland oo la kulmay Taliyaha Ciidamada Hawlgallada Gaarka ah ee Mareykanka ee Afrika",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynaha-somaliland-oo-la-kulmay-taliyaha-ciidamada-hawlgallada-gaarka-ah-ee-mareykanka-ee-afrika/",
-      "published_date": "2026-08-01T14:25:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strike destroys Gaza hospital warehouse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
-      "published_date": "2026-08-01T14:07:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia president signs law approving African free trade pact",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-president-signs-law-approving-african-free-trade-pact/",
-      "published_date": "2026-08-01T13:49:54+00:00",
       "category": "Local Events"
     }
   ]
