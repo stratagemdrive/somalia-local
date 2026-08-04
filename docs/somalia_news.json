@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-04T13:05:17.740950+00:00",
-  "story_count": 94,
+  "last_updated": "2026-08-04T23:59:21.399500+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Somalia’s president, international partners hold fresh talks to break electoral deadlock",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-international-partners-electoral-deadlock-talks/",
+      "published_date": "2026-08-04T19:03:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
       "source": "Al Jazeera",
@@ -137,17 +144,94 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia’s Security Transition Hinges on Political Agreement, AUSSOM Summit Says",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-summit-says-political-consensus-critical-to-somalias-security/",
-      "published_date": "2026-07-31T20:46:56+00:00",
-      "category": "Diplomacy"
+      "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
+      "published_date": "2026-08-04T23:24:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+      "published_date": "2026-08-04T21:11:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Six years on, Beirut blast families still await justice",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
+      "published_date": "2026-08-04T21:03:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+      "published_date": "2026-08-04T20:32:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kosovo finds third wartime mass grave site as officials widen search",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/kosovo-finds-third-wartime-mass-grave-site-as-officials-widen-search?traffic_source=rss",
+      "published_date": "2026-08-04T20:29:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss",
+      "published_date": "2026-08-04T20:20:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland oo sheegtay in hubkii ka soo degay koonfurta Gaalkacyo loo waday dhankeeda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/04/puntland-oo-sheegtay-in-hubkii-ka-soo-degay-koonfurta-gaalkacyo-loo-waday-dhankeeda/",
+      "published_date": "2026-08-04T18:37:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
+      "published_date": "2026-08-04T18:34:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia, Pakistan sign defence cooperation pact in Islamabad",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pakistan-sign-defence-cooperation-pact-islamabad/",
+      "published_date": "2026-08-04T18:08:04+00:00",
+      "category": "Military"
     },
     {
       "title": "More than 150 people rescued in English Channel after boat catches fire",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss",
       "published_date": "2026-08-04T12:47:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army chief closes advanced training for elite Danab commandos",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-closes-advanced-training-for-elite-danab-commandos/",
+      "published_date": "2026-08-04T12:30:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army chief visits special forces training academy in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-visits-special-forces-training-academy-in-mogadishu/",
+      "published_date": "2026-08-04T12:28:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military experts meet in Mogadishu ahead of AUSSOM defence chiefs summit",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/military-experts-meet-in-mogadishu-ahead-of-aussom-defence-chiefs-summit/",
+      "published_date": "2026-08-04T12:22:32+00:00",
       "category": "Military"
     },
     {
@@ -200,88 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
+      "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
-      "published_date": "2026-08-04T07:19:29+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
+      "published_date": "2026-08-04T23:27:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ciidanka Danab oo howlgal qorsheysan ka fuliyay deegaanno ku dhow Basro",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-danab-oo-howlgal-qorsheysan-ka-fuliyay-deegaanno-ku-dhow-basro/",
-      "published_date": "2026-08-04T06:17:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "title": "Death toll rises to 87 in India’s flood-stricken Assam",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
-      "published_date": "2026-08-04T00:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
+      "published_date": "2026-08-04T21:03:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
+      "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
-      "published_date": "2026-08-03T23:52:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-      "published_date": "2026-08-03T21:05:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Clergy members arrested while protesting at Senate office",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-      "published_date": "2026-08-03T19:53:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
-      "published_date": "2026-08-03T18:55:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Netanyahu survive Israel’s most consequential election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
-      "published_date": "2026-08-03T18:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
-      "published_date": "2026-08-03T16:33:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside the Palestine Action protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
-      "published_date": "2026-08-03T16:30:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romanian navy blasts riverbed to protect nuclear plant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
-      "published_date": "2026-08-03T16:01:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Shabaab retakes Teedaan in Somalia’s Hiran region",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-retakes-teedaan-hiran-region/",
-      "published_date": "2026-08-03T14:34:50+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+      "published_date": "2026-08-04T20:35:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
@@ -380,6 +401,20 @@
       "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
       "published_date": "2026-07-29T10:19:28+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Red Cross urges international aid as Sudan crisis deepens",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
+      "published_date": "2026-08-04T19:39:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why did the US economy slow down?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
+      "published_date": "2026-08-04T18:17:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "Survivors reach port after deadly Indonesia ferry fire",
@@ -508,18 +543,46 @@
       "category": "Economy"
     },
     {
-      "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
+      "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
-      "published_date": "2026-07-30T09:43:50+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
+      "published_date": "2026-08-04T18:50:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
+      "title": "Rubio: Progress made to reopen Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss",
-      "published_date": "2026-07-29T11:41:58+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-08-04T18:27:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland President Orders Free Kidney Care and Expansion of Dialysis Services",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-orders-free-kidney-care-and-expansion-of-dialysis-services/",
+      "published_date": "2026-08-04T17:43:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mudug Governor Injured as Fighting Between Feds and Local Fighters Erupts in Galkayo",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/mudug-governor-injured-as-fighting-erupts-in-galkayo/",
+      "published_date": "2026-08-04T17:33:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SoDMA, China sign 15 million yuan aid deal",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-china-sign-15-million-yuan-aid-deal/",
+      "published_date": "2026-08-04T16:17:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kor u qaadidda dhaqanka iyo wax-barashada dhallinta Soomaalida ee Minnesota! Q. 3-aad",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/04/kor-u-qaadidda-dhaqanka-iyo-wax-barashada-dhallinta-soomaalida-ee-minnesota-q-3-aad/",
+      "published_date": "2026-08-04T13:25:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
@@ -617,48 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/8/3/wales-fa-withdraws-support-for-infantino-re-election-after-fifa-stake-plan?traffic_source=rss",
       "published_date": "2026-08-03T09:23:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Condemns Somali PM’s Visit to Las Anod, Warns of Rising Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-condemns-somali-pms-visit-to-las-anod-warns-of-rising-tensions/",
-      "published_date": "2026-08-03T09:18:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss",
-      "published_date": "2026-08-02T23:37:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires force mass evacuations across the Pacific Northwest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
-      "published_date": "2026-08-02T21:47:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss",
-      "published_date": "2026-08-02T20:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahmed Ali Egal, singer, actor and master melodist",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/02/ahmed-ali-egal-singer-actor-and-master-melodist/",
-      "published_date": "2026-08-02T19:01:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Condemns Somali Prime Minister’s Visit to Eastern Sool Region",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-condemns-somali-prime-ministers-visit-to-eastern-sool-region/",
-      "published_date": "2026-08-02T17:44:36+00:00",
       "category": "Local Events"
     }
   ]
