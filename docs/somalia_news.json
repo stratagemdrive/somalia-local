@@ -1,7 +1,7 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-03T13:44:00.379930+00:00",
-  "story_count": 93,
+  "last_updated": "2026-08-04T00:05:22.174886+00:00",
+  "story_count": 94,
   "stories": [
     {
       "title": "Mas’uul sare oo ka tirsan dowladda Soomaaliya oo iska celiyay baasaboorka Kenya",
@@ -144,6 +144,69 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+      "published_date": "2026-08-04T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
+      "published_date": "2026-08-03T23:52:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Israel withdraw from Gaza if Hamas disarms?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+      "published_date": "2026-08-03T21:05:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Clergy members arrested while protesting at Senate office",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
+      "published_date": "2026-08-03T19:53:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
+      "published_date": "2026-08-03T18:55:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Netanyahu survive Israel’s most consequential election?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
+      "published_date": "2026-08-03T18:16:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+      "published_date": "2026-08-03T16:33:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inside the Palestine Action protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
+      "published_date": "2026-08-03T16:30:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Romanian navy blasts riverbed to protect nuclear plant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
+      "published_date": "2026-08-03T16:01:43+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Massive Attack says members held after pro-Palestine display in Singapore",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+      "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
-      "published_date": "2026-08-02T21:18:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
-      "published_date": "2026-08-02T19:39:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss",
-      "published_date": "2026-08-02T19:30:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-      "published_date": "2026-08-02T19:08:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
-      "published_date": "2026-08-02T18:28:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
-      "published_date": "2026-08-02T17:57:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
-      "published_date": "2026-08-02T17:06:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly floods and landslide hit India’s Kerala",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
-      "published_date": "2026-08-02T16:55:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss",
-      "published_date": "2026-08-02T16:40:44+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
+      "published_date": "2026-08-03T23:02:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
@@ -373,6 +380,20 @@
       "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
       "published_date": "2026-07-29T10:19:28+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Survivors reach port after deadly Indonesia ferry fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
+      "published_date": "2026-08-03T19:55:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Israel top court hears challenge to UNRWA ban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss",
+      "published_date": "2026-08-03T18:13:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Australia warns H5N1 likely to spread after first mass mortality episode",
@@ -501,18 +522,25 @@
       "category": "Economy"
     },
     {
-      "title": "IPL’s business value rockets to $20bn as India cricket league soars",
+      "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/ipls-business-value-rockets-to-20-billion-as-india-cricket-league-soars?traffic_source=rss",
-      "published_date": "2026-07-29T07:51:56+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
+      "published_date": "2026-08-03T20:58:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why has Iran’s economy not collapsed under US war pressure?",
+      "title": "US announces first two deaths from cyclospora outbreak",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
-      "published_date": "2026-07-28T12:30:18+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
+      "published_date": "2026-08-03T18:35:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marxuum Muuse Diibeeye oo aas qaran loogu sameeyay Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/03/marxuum-muuse-diibeeye-oo-aas-qaran-loogu-sameeyay-garoowe/",
+      "published_date": "2026-08-03T18:17:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
@@ -631,27 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
       "published_date": "2026-08-02T05:27:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunman opens fire at Idaho fast-food restaurant, killing two",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss",
-      "published_date": "2026-08-02T01:26:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
-      "published_date": "2026-08-01T22:31:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Hassan Sheikh Acknowledges Somaliland’s Electoral Expertise as Federal Parliament Opens New Session",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/president-hassan-sheikh-acknowledges-somalilands-electoral-expertise-as-federal-parliament-opens-new-session/",
-      "published_date": "2026-08-01T20:53:46+00:00",
       "category": "Local Events"
     }
   ]
