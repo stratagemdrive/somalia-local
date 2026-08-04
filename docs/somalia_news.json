@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-04T00:05:22.174886+00:00",
+  "last_updated": "2026-08-04T13:05:17.740950+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
+      "published_date": "2026-08-04T12:21:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia PM celebrates first anniversary of North East State administration in Las Anod",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-celebrates-first-anniversary-of-north-east-state-administration-in-las-anod/",
+      "published_date": "2026-08-04T08:48:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mas’uul sare oo ka tirsan dowladda Soomaaliya oo iska celiyay baasaboorka Kenya",
       "source": "Puntland Post",
@@ -130,18 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Poland protests to Russian ambassador over missile incursion",
+      "title": "More than 150 people rescued in English Channel after boat catches fire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
-      "published_date": "2026-07-31T19:48:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss",
+      "published_date": "2026-08-04T12:47:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
+      "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
-      "published_date": "2026-07-31T12:38:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda?traffic_source=rss",
+      "published_date": "2026-08-04T12:22:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali commandos raid Al-Shabaab positions in Lower Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-commandos-raid-al-shabaab-positions-in-lower-shabelle/",
+      "published_date": "2026-08-04T12:18:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+      "published_date": "2026-08-04T11:26:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Israel’s economy hasn’t collapsed during a multi-front war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
+      "published_date": "2026-08-04T11:21:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
+      "published_date": "2026-08-04T10:11:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cars burn in reported settler attack in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-04T08:51:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "We demand accountability for the Beirut blast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
+      "published_date": "2026-08-04T08:51:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
+      "published_date": "2026-08-04T07:19:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Danab oo howlgal qorsheysan ka fuliyay deegaanno ku dhow Basro",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-danab-oo-howlgal-qorsheysan-ka-fuliyay-deegaanno-ku-dhow-basro/",
+      "published_date": "2026-08-04T06:17:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
@@ -207,80 +277,10 @@
       "category": "Military"
     },
     {
-      "title": "Massive Attack says members held after pro-Palestine display in Singapore",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss",
-      "published_date": "2026-08-03T13:23:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya iyo Shiinaha oo ka wada hadlay iskaashiga difaaca iyo mustaqbalka AUSSOM",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-iyo-shiinaha-oo-ka-wada-hadlay-iskaashiga-difaaca-iyo-mustaqbalka-aussom/",
-      "published_date": "2026-08-03T12:56:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief, TURKSOM Commander Visit Baidoa for Security Talks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-turksom-commander-visit-baidoa-for-security-talks/",
-      "published_date": "2026-08-03T12:52:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who will shape post-war Iran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
-      "published_date": "2026-08-03T12:11:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wafdi Maraykan ah oo hoggaaminayay Ronny Jackson oo la kulmay Axmed Madoobe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/03/wafdi-maraykan-ah-oo-hoggaaminayay-ronny-jackson-oo-la-kulmay-axmed-madoobe/",
-      "published_date": "2026-08-03T11:26:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes Russia’s biggest retailer again",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
-      "published_date": "2026-08-03T11:03:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Shabaab Claims Capture of Strategic Village in Central Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/al-shabaab-claims-capture-of-strategic-village-in-central-somalia/",
-      "published_date": "2026-08-03T09:21:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
-      "published_date": "2026-08-03T09:05:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
-      "published_date": "2026-08-03T09:01:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somaliland oo cambaareysay booqashada Ra’iisul Wasaare Xamza ee Laascaanood",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-oo-cambaareysay-booqashada-raiisul-wasaare-xamza-ee-laascaanood-kana-digtay-inay-sii-hurin-karto-xiisadda/",
-      "published_date": "2026-08-03T06:00:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan army drone attack on Darfur kills 35, rights group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
-      "published_date": "2026-08-02T22:51:09+00:00",
+      "title": "Al-Shabaab retakes Teedaan in Somalia’s Hiran region",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-retakes-teedaan-hiran-region/",
+      "published_date": "2026-08-03T14:34:50+00:00",
       "category": "Military"
     },
     {
@@ -522,6 +522,41 @@
       "category": "Economy"
     },
     {
+      "title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
+      "published_date": "2026-08-04T08:32:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DFS: Waqooyi Bari shuruud la’aan ku siidaaya maxaabiista",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/04/dfs-waqooyi-bari-shuruud-laaan-ku-siidaaya-maxaabiista/",
+      "published_date": "2026-08-04T05:55:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+      "published_date": "2026-08-04T05:03:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+      "published_date": "2026-08-04T03:58:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xamse: Puntland ma joogto xilli ay ka sheekayso colaad dhexdeeda ah",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/04/xamse-puntland-ma-joogto-xilli-ay-ka-sheekayso-colaad-dhexdeeda-ah/",
+      "published_date": "2026-08-04T02:09:49+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
@@ -540,6 +575,13 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/03/marxuum-muuse-diibeeye-oo-aas-qaran-loogu-sameeyay-garoowe/",
       "published_date": "2026-08-03T18:17:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Irro Urges Somalilanders to Unite as Recognition Campaign Enters a New Phase",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/president-irro-urges-somalilanders-to-unite-as-recognition-campaign-enters-a-new-phase/",
+      "published_date": "2026-08-03T17:28:45+00:00",
       "category": "Local Events"
     },
     {
@@ -617,48 +659,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somaliland-condemns-somali-prime-ministers-visit-to-eastern-sool-region/",
       "published_date": "2026-08-02T17:44:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland, U.S. Sign Security Deal to Expand American Base in Bosaso",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-u-s-sign-security-deal-to-expand-american-base-in-bosaso/",
-      "published_date": "2026-08-02T14:17:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland iyo Mareykanka oo kala saxiixday heshiis iskaashi amni",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-iyo-mareykanka-oo-kala-saxiixday-heshiis-iskaashi-amni/",
-      "published_date": "2026-08-02T13:16:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo saldhig Maraykanka ka siisay Boosaao",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/02/puntland-oo-saldhig-maraykanka-ka-siisay-boosaao/",
-      "published_date": "2026-08-02T12:46:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo kulan la qaatay taliyaha Calmiskaad iyo saraakiil kale",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/02/madaxweyne-deni-oo-kulan-la-qaatay-taliyaha-calmiskaad-iyo-saraakiil-kale/",
-      "published_date": "2026-08-02T12:08:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Leader Meets U.S. Special Operations Commander to Discuss Security Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-leader-meets-u-s-special-operations-commander-to-discuss-security-cooperation/",
-      "published_date": "2026-08-02T09:05:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-      "published_date": "2026-08-02T05:27:04+00:00",
       "category": "Local Events"
     }
   ]
