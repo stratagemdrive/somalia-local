@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-04T23:59:21.399500+00:00",
+  "last_updated": "2026-08-05T12:58:15.858558+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
+      "published_date": "2026-08-05T09:16:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Indonesia discuss expanding cooperation on blue economy",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-indonesia-discuss-expanding-cooperation-on-blue-economy/",
+      "published_date": "2026-08-05T08:06:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia’s president, international partners hold fresh talks to break electoral deadlock",
       "source": "Somali Guardian",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Madaxa IGAD oo Khartoum ku booqday Al-Burhaan, kuna celiyay taageerada nabadda uu hoggaaminayo Suudaan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxa-igad-oo-khartoum-ku-booqday-al-burhaan-kuna-celiyay-taageerada-nabadda-uu-hoggaaminayo-suudaan/",
-      "published_date": "2026-08-01T05:58:59+00:00",
-      "category": "Diplomacy"
+      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+      "published_date": "2026-08-05T11:49:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Danjiraha Soomaaliya ee Kenya oo qaabilay Garsoore ka tirsan Maxkamadda Caalamiga ah ee Caddaaladda",
+      "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-05T11:31:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli raid deepens fears across West Bank refugee camps",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
+      "published_date": "2026-08-05T10:30:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reform UK plan to return asylum seekers using navy ‘dangerous in practice’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss",
+      "published_date": "2026-08-05T10:07:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland oo war ka soo saartay dagaalkii ka dhacay Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/05/puntland-oo-war-ka-soo-saartay-dagaalkii-ka-dhacay-gaalkacyo/",
+      "published_date": "2026-08-05T08:12:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali opposition bloc accuses president of fueling Galkayo conflict",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/danjiraha-soomaaliya-ee-kenya-oo-qaabilay-garsoore-ka-tirsan-maxkamadda-caalamiga-ah-ee-caddaaladda/",
-      "published_date": "2026-08-01T05:29:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-opposition-bloc-accuses-president-of-fueling-galkayo-conflict/",
+      "published_date": "2026-08-05T08:04:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Somali commandos raid Al-Shabaab positions in Lower Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-commandos-raid-al-shabaab-positions-in-lower-shabelle/",
-      "published_date": "2026-08-04T12:18:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+      "title": "India’s severe monsoon season causes more than 100 deaths since July",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
-      "published_date": "2026-08-04T11:26:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Israel’s economy hasn’t collapsed during a multi-front war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
-      "published_date": "2026-08-04T11:21:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
-      "published_date": "2026-08-04T10:11:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cars burn in reported settler attack in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-08-04T08:51:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "We demand accountability for the Beirut blast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
-      "published_date": "2026-08-04T08:51:46+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
+      "published_date": "2026-08-05T10:10:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
@@ -393,13 +400,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
       "published_date": "2026-07-29T18:01:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
-      "published_date": "2026-07-29T10:19:28+00:00",
       "category": "Energy"
     },
     {
@@ -543,6 +543,76 @@
       "category": "Economy"
     },
     {
+      "title": "Puntland oo shaacisay saraakiil ay ku qabatay xerada PSF ee Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/05/puntland-oo-shaacisay-saraakiil-ay-ku-qabatay-xerada-psf-ee-gaalkacyo/",
+      "published_date": "2026-08-05T11:56:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia offers condolences to Ethiopia after deadly landslide in Amhara region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-offers-condolences-to-ethiopia-after-deadly-landslide-in-amhara-region/",
+      "published_date": "2026-08-05T11:50:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a social media campaign triggered huge migrant surge on Ceuta",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
+      "published_date": "2026-08-05T11:48:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni: “Howlgalka Gaalkacyo waa fariin ku socota cid kasta oo ka shaqeynaysa wax ka dhan ah dowladnimada Puntland”",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweyne-deni-howlgalka-gaalkacyo-waa-fariin-ku-socota-cid-kasta-oo-ka-shaqeynaysa-wax-ka-dhan-ah-dowladnimada-puntland/",
+      "published_date": "2026-08-05T11:14:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jubaland oo ku eedeysay Dowladda Federaalka hurinta xiisadda Gaalkacyo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jubaland-oo-ku-eedeysay-dowladda-federaalka-hurinta-xiisadda-gaalkacyo/",
+      "published_date": "2026-08-05T10:12:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa’s le Clos says home destroyed during Commonwealth record run",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss",
+      "published_date": "2026-08-05T09:53:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo sheegtay inay soo afjareyso dagaalka ka socda magaalada Gaalkacyo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-oo-sheegtay-inay-soo-afjareyso-dagaalka-ka-socda-magaalada-gaalkacyo/",
+      "published_date": "2026-08-05T08:12:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy fighting erupts in Somalia’s Galkayo as Puntland, Pro-FGS forces clash",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/heavy-fighting-erupts-in-somalias-galkayo-as-puntland-pro-fgs-forces-clash/",
+      "published_date": "2026-08-05T08:01:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo la wareegtay xeradii PSF ee Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/05/puntland-oo-la-wareegtay-xeradii-psf-ee-gaalkacyo/",
+      "published_date": "2026-08-05T07:39:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dagaal ka socda magaalada Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/05/dagaal-ka-socda-magaalada-gaalkacyo/",
+      "published_date": "2026-08-05T05:43:41+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
@@ -610,76 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
       "published_date": "2026-08-04T03:58:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xamse: Puntland ma joogto xilli ay ka sheekayso colaad dhexdeeda ah",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/04/xamse-puntland-ma-joogto-xilli-ay-ka-sheekayso-colaad-dhexdeeda-ah/",
-      "published_date": "2026-08-04T02:09:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
-      "published_date": "2026-08-03T20:58:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US announces first two deaths from cyclospora outbreak",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
-      "published_date": "2026-08-03T18:35:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marxuum Muuse Diibeeye oo aas qaran loogu sameeyay Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/03/marxuum-muuse-diibeeye-oo-aas-qaran-loogu-sameeyay-garoowe/",
-      "published_date": "2026-08-03T18:17:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Irro Urges Somalilanders to Unite as Recognition Campaign Enters a New Phase",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/president-irro-urges-somalilanders-to-unite-as-recognition-campaign-enters-a-new-phase/",
-      "published_date": "2026-08-03T17:28:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss",
-      "published_date": "2026-08-03T12:27:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US cricket player Reddy receives eight-year ban for match-fixing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss",
-      "published_date": "2026-08-03T10:52:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: US signs Bosaso base deal with Puntland, bypassing Mogadishu",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-puntland-bosaso-military-base-deal-somaliland/",
-      "published_date": "2026-08-03T10:30:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Koreans flood new ‘tourist zone’ beach amid heatwave",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/north-koreans-flood-new-tourist-zone-beach-amid-heatwave?traffic_source=rss",
-      "published_date": "2026-08-03T10:10:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England set to follow Wales in withdrawing support for FIFA’s Infantino",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/3/wales-fa-withdraws-support-for-infantino-re-election-after-fifa-stake-plan?traffic_source=rss",
-      "published_date": "2026-08-03T09:23:05+00:00",
       "category": "Local Events"
     }
   ]
