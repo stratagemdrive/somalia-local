@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-05T12:58:15.858558+00:00",
-  "story_count": 97,
+  "last_updated": "2026-08-05T23:57:15.903921+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Clashes on anniversary of Imran Khan imprisonment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
+      "published_date": "2026-08-05T21:28:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sheikh Hasina says she will return to Bangladesh in December",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
+      "published_date": "2026-08-05T20:03:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New Mexico sues US Justice Department for impeding Epstein probe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss",
+      "published_date": "2026-08-05T19:51:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
       "source": "Al Jazeera",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IGAD Chief Visits Khartoum, Reaffirms Support for Sudan-Led Peace Efforts",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/igad-chief-visits-khartoum-reaffirms-support-for-sudan-led-peace-efforts/",
-      "published_date": "2026-08-01T06:43:24+00:00",
-      "category": "Diplomacy"
+      "title": "US officials push back on reports of dangerously low munitions supplies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
+      "published_date": "2026-08-05T22:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Backs Saudi Initiative to Build International Red Sea Security Alliance",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-backs-saudi-initiative-to-build-international-red-sea-security-alliance/",
-      "published_date": "2026-08-01T06:41:54+00:00",
-      "category": "Diplomacy"
+      "title": "US man arrested at Trump’s golf course charged with multiple felonies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
+      "published_date": "2026-08-05T21:35:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "AU Reaffirms Support for Somalia as AUSSOM Troop-Contributing Countries Meet in Kampala",
+      "title": "Israeli forces raid camp in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
+      "published_date": "2026-08-05T21:31:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US authorities say three killed in Prospect Hill, North Carolina shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+      "published_date": "2026-08-05T18:25:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is the conflict between Russia and Ukraine deepening?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+      "published_date": "2026-08-05T18:16:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland Forces launch  Major Security Operation Against PSF in Galkayo, Over 100 Arrested",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-forces-launch-major-security-operation-against-psf-in-galkayo-over-100-arrested/",
+      "published_date": "2026-08-05T18:03:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
+      "published_date": "2026-08-05T17:12:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia: Puntland seizes federal-aligned base in Galkayo",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-seizes-federal-aligned-base-galkayo/",
+      "published_date": "2026-08-05T14:18:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia’s president meets Djibouti army chief ahead of AUSSOM commanders’ conference",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/au-reaffirms-support-for-somalia-as-aussom-troop-contributing-countries-meet-in-kampala/",
-      "published_date": "2026-08-01T06:40:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalias-president-meets-djibouti-army-chief-ahead-of-aussom-commanders-conference/",
+      "published_date": "2026-08-05T13:10:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Turkish cargo ship catches fire after Black Sea drone attack",
@@ -218,69 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/4/kosovo-finds-third-wartime-mass-grave-site-as-officials-widen-search?traffic_source=rss",
       "published_date": "2026-08-04T20:29:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss",
-      "published_date": "2026-08-04T20:20:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland oo sheegtay in hubkii ka soo degay koonfurta Gaalkacyo loo waday dhankeeda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/04/puntland-oo-sheegtay-in-hubkii-ka-soo-degay-koonfurta-gaalkacyo-loo-waday-dhankeeda/",
-      "published_date": "2026-08-04T18:37:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
-      "published_date": "2026-08-04T18:34:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia, Pakistan sign defence cooperation pact in Islamabad",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pakistan-sign-defence-cooperation-pact-islamabad/",
-      "published_date": "2026-08-04T18:08:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 150 people rescued in English Channel after boat catches fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss",
-      "published_date": "2026-08-04T12:47:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army chief closes advanced training for elite Danab commandos",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-closes-advanced-training-for-elite-danab-commandos/",
-      "published_date": "2026-08-04T12:30:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army chief visits special forces training academy in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-visits-special-forces-training-academy-in-mogadishu/",
-      "published_date": "2026-08-04T12:28:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Military experts meet in Mogadishu ahead of AUSSOM defence chiefs summit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/military-experts-meet-in-mogadishu-ahead-of-aussom-defence-chiefs-summit/",
-      "published_date": "2026-08-04T12:22:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda?traffic_source=rss",
-      "published_date": "2026-08-04T12:22:19+00:00",
       "category": "Military"
     },
     {
@@ -365,41 +365,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
       "published_date": "2026-07-30T07:02:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
-      "published_date": "2026-07-29T23:34:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Bordeaux wildfire battle continues amid extreme heat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
-      "published_date": "2026-07-29T18:42:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US Fed holds interest rates steady, citing ‘elevated’ inflation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
-      "published_date": "2026-07-29T18:07:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Libya electricity blackout protests expose country’s failing grid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss",
-      "published_date": "2026-07-29T18:07:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fire erupts on ships at Egypt’s Damietta port",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
-      "published_date": "2026-07-29T18:01:57+00:00",
       "category": "Energy"
     },
     {
@@ -543,6 +508,55 @@
       "category": "Economy"
     },
     {
+      "title": "El-Sayed wins Michigan Democratic Senate primary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss",
+      "published_date": "2026-08-05T21:15:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garaad Soofe Urges Federal Mediation Between Northeastern State and Somaliland Administration",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/05/garaad-soofe-urges-federal-mediation-between-northeastern-state-and-somaliland-administration/",
+      "published_date": "2026-08-05T18:13:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
+      "published_date": "2026-08-05T17:41:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El-Sayed wins Michigan Democratic Senate primary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss",
+      "published_date": "2026-08-05T17:40:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland forces seize government-held camp in Somalia’s Galkayo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/puntland-forces-seize-government-held-camp-in-somalias-galkayo?traffic_source=rss",
+      "published_date": "2026-08-05T17:38:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni accuses Somali federal government of backing rival forces after Galkayo clashes",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/deni-accuses-somali-federal-government-of-backing-rival-forces-after-galkayo-clashes/",
+      "published_date": "2026-08-05T13:08:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ciidamada Puntland oo digniin soo saaray",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/05/ciidamada-puntland-oo-digniin-soo-saaray/",
+      "published_date": "2026-08-05T12:54:39+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Puntland oo shaacisay saraakiil ay ku qabatay xerada PSF ee Gaalkacyo",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/05/puntland-oo-shaacisay-saraakiil-ay-ku-qabatay-xerada-psf-ee-gaalkacyo/",
@@ -631,55 +645,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somaliland-president-orders-free-kidney-care-and-expansion-of-dialysis-services/",
       "published_date": "2026-08-04T17:43:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mudug Governor Injured as Fighting Between Feds and Local Fighters Erupts in Galkayo",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/mudug-governor-injured-as-fighting-erupts-in-galkayo/",
-      "published_date": "2026-08-04T17:33:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA, China sign 15 million yuan aid deal",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sodma-china-sign-15-million-yuan-aid-deal/",
-      "published_date": "2026-08-04T16:17:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kor u qaadidda dhaqanka iyo wax-barashada dhallinta Soomaalida ee Minnesota! Q. 3-aad",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/04/kor-u-qaadidda-dhaqanka-iyo-wax-barashada-dhallinta-soomaalida-ee-minnesota-q-3-aad/",
-      "published_date": "2026-08-04T13:25:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
-      "published_date": "2026-08-04T08:32:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DFS: Waqooyi Bari shuruud la’aan ku siidaaya maxaabiista",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/04/dfs-waqooyi-bari-shuruud-laaan-ku-siidaaya-maxaabiista/",
-      "published_date": "2026-08-04T05:55:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why are the Washington wildfires so severe? Spokane fires explained",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
-      "published_date": "2026-08-04T05:03:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
-      "published_date": "2026-08-04T03:58:09+00:00",
       "category": "Local Events"
     }
   ]
