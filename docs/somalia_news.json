@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-06T13:00:49.147443+00:00",
-  "story_count": 91,
+  "last_updated": "2026-08-07T01:40:45.770575+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss",
+      "published_date": "2026-08-06T23:34:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss",
+      "published_date": "2026-08-06T20:59:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taliyaha Ciidanka Xoogga Dalka oo la kulmay wafdi ka socday dalalka taageera AUSSOM",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/taliyaha-ciidanka-xoogga-dalka-oo-la-kulmay-wafdi-ka-socday-dalalka-taageera-aussom/",
+      "published_date": "2026-08-06T15:11:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Army Chief Meets AUSSOM Troop-Contributing Countries’ Delegations to Boost Security Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-meets-aussom-troop-contributing-countries-delegations-to-boost-security-cooperation/",
+      "published_date": "2026-08-06T15:10:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ra’iisul Wasaare Xamsa oo ku boorriyay mas’uuliyiinta dowladda inay ku safraan baasaboorka Soomaaliga",
       "source": "Shabelle Media",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China reaffirms its backing for Somalia’s territorial claims during defence discussions.",
+      "title": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss",
+      "published_date": "2026-08-07T01:17:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police in Argentina use tear gas to stop protesters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
+      "published_date": "2026-08-07T01:02:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
+      "published_date": "2026-08-07T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Toronto police arrest two in US Consulate shooting investigation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/6/toronto-police-arrest-two-in-us-consulate-shooting-investigation?traffic_source=rss",
+      "published_date": "2026-08-06T21:11:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WHO chief: Ebola outbreak in DRC spreading at ‘unprecedented rate’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/08-06-sv-ebola-update-funding-drc?traffic_source=rss",
+      "published_date": "2026-08-06T20:52:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How fragile is Lebanon’s uneasy peace?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/6/how-fragile-is-lebanons-uneasy?traffic_source=rss",
+      "published_date": "2026-08-06T20:38:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somaliland, AFRICOM Hold High-Level Talks on Maritime Security and Defense Cooperation",
       "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/china-reaffirms-its-backing-for-somalias-territorial-claims-during-defence-discussions/",
-      "published_date": "2026-08-02T17:31:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-africom-hold-high-level-talks-on-maritime-security-and-defense-cooperation/",
+      "published_date": "2026-08-06T20:23:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Prime Minister Arrives in Las Anod for Northeastern State Anniversary",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-prime-minister-arrives-in-las-anod-for-northeastern-state-anniversary/",
-      "published_date": "2026-08-02T14:21:57+00:00",
-      "category": "Diplomacy"
+      "title": "Puntland Forces Takes Control of All PSF Facilities in Bossaso and Galkayo",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-forces-takes-control-of-all-psf-facilities-in-bossaso-and-galkayo/",
+      "published_date": "2026-08-06T20:08:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Receives Credentials of New Algerian Ambassador",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-receives-credentials-of-new-algerian-ambassador/",
-      "published_date": "2026-08-02T14:19:04+00:00",
-      "category": "Diplomacy"
+      "title": "Deadly explosion on minibus near Damascus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadly-explosion-on-minibus-near-damascus?traffic_source=rss",
+      "published_date": "2026-08-06T19:41:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia president forces Uganda to soften dialogue clause in AUSSOM communique",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-forces-uganda-soften-aussom-communique/",
-      "published_date": "2026-08-02T12:27:53+00:00",
-      "category": "Diplomacy"
+      "title": "Sudan war threatens ancient Meroe pyramids",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids?traffic_source=rss",
+      "published_date": "2026-08-06T19:14:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
@@ -211,76 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/8/6/uk-police-confirm-uganda-boxers-unaccounted-for-after-commonwealth-games?traffic_source=rss",
       "published_date": "2026-08-06T08:27:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is France developing a new nuclear strategy?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
-      "published_date": "2026-08-06T08:17:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
-      "published_date": "2026-08-06T07:36:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Minister of Defence Visits Pakistan Air Force Headquarters",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/minister-of-defence-visits-pakistan-air-force-headquarters/",
-      "published_date": "2026-08-06T07:34:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland forces take control of former PSF base in Bosaso after Galkayo security operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-forces-take-control-of-former-psf-base-in-bosaso-after-galkayo-security-operation/",
-      "published_date": "2026-08-06T07:32:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland oo la wareegtay xeradii PSF ee Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/06/puntland-oo-la-wareegtay-xeradii-psf-ee-boosaaso/",
-      "published_date": "2026-08-06T05:51:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US officials push back on reports of dangerously low munitions supplies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
-      "published_date": "2026-08-05T22:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US man arrested at Trump’s golf course charged with multiple felonies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
-      "published_date": "2026-08-05T21:35:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces raid camp in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
-      "published_date": "2026-08-05T21:31:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US authorities say three killed in Prospect Hill, North Carolina shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
-      "published_date": "2026-08-05T18:25:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is the conflict between Russia and Ukraine deepening?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
-      "published_date": "2026-08-05T18:16:03+00:00",
       "category": "Military"
     },
     {
@@ -354,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
-      "published_date": "2026-07-30T17:58:14+00:00",
-      "category": "Energy"
+      "title": "Somali Cabinet Approves Third-Generation E-Passport Plan, Reviews Security and Economic Developments",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/",
+      "published_date": "2026-08-06T15:16:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Red Cross urges international aid as Sudan crisis deepens",
@@ -487,18 +487,46 @@
       "category": "Economy"
     },
     {
-      "title": "Why is US GDP growth slowing, and how can it be reversed?",
+      "title": "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
-      "published_date": "2026-07-30T21:39:37+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment?traffic_source=rss",
+      "published_date": "2026-08-06T22:59:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia joins Saudi coalition to counter Houthis in Red Sea",
+      "title": "Trump signs new executive orders seeking to limit US birthright citizenship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss",
+      "published_date": "2026-08-06T21:27:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire engulfs earthquake housing site in Turkiye",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/fire-engulfs-earthquake-housing-site-in-turkiye?traffic_source=rss",
+      "published_date": "2026-08-06T20:55:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US ends cap on local TV station owners amid concerns of media consolidation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/6/us-ends-cap-on-local-tv-station-owners-amid-concerns-of-media-consolidation?traffic_source=rss",
+      "published_date": "2026-08-06T19:25:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo maxkamad saaraysa siyaasiyiin iyo saraakiil ciidan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/06/puntland-oo-maxkamad-saaraysa-siyaasiyiin-iyo-saraakiil-ciidan/",
+      "published_date": "2026-08-06T14:30:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia: Puntland seizes second federal camp, alleges China-donated arms diverted",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-joins-saudi-coalition-counter-houthis-red-sea/",
-      "published_date": "2026-07-30T20:52:20+00:00",
-      "category": "Economy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-seizes-second-federal-camp-china-arms-diverted/",
+      "published_date": "2026-08-06T14:26:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Video: Wildfires in Washington state force thousands to evacuate homes",
@@ -596,48 +624,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/05/ciidamada-puntland-oo-digniin-soo-saaray/",
       "published_date": "2026-08-05T12:54:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo shaacisay saraakiil ay ku qabatay xerada PSF ee Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/05/puntland-oo-shaacisay-saraakiil-ay-ku-qabatay-xerada-psf-ee-gaalkacyo/",
-      "published_date": "2026-08-05T11:56:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia offers condolences to Ethiopia after deadly landslide in Amhara region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-offers-condolences-to-ethiopia-after-deadly-landslide-in-amhara-region/",
-      "published_date": "2026-08-05T11:50:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a social media campaign triggered huge migrant surge on Ceuta",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
-      "published_date": "2026-08-05T11:48:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni: “Howlgalka Gaalkacyo waa fariin ku socota cid kasta oo ka shaqeynaysa wax ka dhan ah dowladnimada Puntland”",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweyne-deni-howlgalka-gaalkacyo-waa-fariin-ku-socota-cid-kasta-oo-ka-shaqeynaysa-wax-ka-dhan-ah-dowladnimada-puntland/",
-      "published_date": "2026-08-05T11:14:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jubaland oo ku eedeysay Dowladda Federaalka hurinta xiisadda Gaalkacyo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jubaland-oo-ku-eedeysay-dowladda-federaalka-hurinta-xiisadda-gaalkacyo/",
-      "published_date": "2026-08-05T10:12:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa’s le Clos says home destroyed during Commonwealth record run",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss",
-      "published_date": "2026-08-05T09:53:33+00:00",
       "category": "Local Events"
     }
   ]
