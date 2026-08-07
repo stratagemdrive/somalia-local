@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-07T01:40:45.770575+00:00",
-  "story_count": 89,
+  "last_updated": "2026-08-07T11:49:55.146333+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Northern Ethiopia’s shifting alliances explained",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
+      "published_date": "2026-08-07T11:19:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
       "source": "Al Jazeera",
@@ -137,11 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Venezuela and the Dominican Republic say they will work to restore ties",
+      "title": "Pakistan pledges continued support for Somalia’s security forces",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/pakistan-pledges-continued-support-for-somalias-security-forces/",
+      "published_date": "2026-08-07T11:39:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gen. Tudor oo kulan la qaatay Axmed Madoobe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/07/gen-tudor-oo-kulan-la-qaatay-axmed-madoobe/",
+      "published_date": "2026-08-07T11:23:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss",
-      "published_date": "2026-08-02T20:29:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
+      "published_date": "2026-08-07T11:15:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
+      "published_date": "2026-08-07T11:11:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
+      "published_date": "2026-08-07T11:03:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
+      "published_date": "2026-08-07T10:52:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lix qof oo ku dhaawacmay qarax looga shakisan yahay Al-Shabaab oo ka dhacay Mandheera",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/lix-qof-oo-ku-dhaawacmay-qarax-looga-shakisan-yahay-al-shabaab-oo-ka-dhacay-mandheera/",
+      "published_date": "2026-08-07T10:28:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
+      "published_date": "2026-08-07T10:00:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
+      "published_date": "2026-08-07T06:29:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss",
+      "published_date": "2026-08-07T05:49:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least five killed in Thailand school shooting, police say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
+      "published_date": "2026-08-07T04:23:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Exclusive report with the 308 people rescued by Nigerian forces",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
+      "published_date": "2026-08-07T02:30:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
@@ -197,90 +281,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/puntland-forces-takes-control-of-all-psf-facilities-in-bossaso-and-galkayo/",
       "published_date": "2026-08-06T20:08:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly explosion on minibus near Damascus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadly-explosion-on-minibus-near-damascus?traffic_source=rss",
-      "published_date": "2026-08-06T19:41:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan war threatens ancient Meroe pyramids",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids?traffic_source=rss",
-      "published_date": "2026-08-06T19:14:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss",
-      "published_date": "2026-08-06T12:27:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar leader visits Thailand in bid to bolster international legitimacy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss",
-      "published_date": "2026-08-06T12:04:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss",
-      "published_date": "2026-08-06T11:20:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uganda football star Owori killed, weeks after death of rugby’s Gongodyo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss",
-      "published_date": "2026-08-06T10:13:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea police raid football association over Hong appointment process",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss",
-      "published_date": "2026-08-06T09:34:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss",
-      "published_date": "2026-08-06T09:28:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
-      "published_date": "2026-08-06T09:17:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wasiirka Gaashaandhigga Soomaaliya oo Booqday Xarunta GIDS iyo Jaamacadda Difaaca Qaranka Pakistan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiirka-gaashaandhigga-soomaaliya-oo-booqday-xarunta-gids-iyo-jaamacadda-difaaca-qaranka-pakistan/",
-      "published_date": "2026-08-06T08:40:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jabuuti oo Bogaadisay Dadaallada Soomaaliya ee Sugidda Amniga iyo La-dagaallanka Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jabuuti-oo-bogaadisay-dadaallada-soomaaliya-ee-sugidda-amniga-iyo-la-dagaallanka-al-shabaab/",
-      "published_date": "2026-08-06T08:38:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK police confirm Uganda boxers unaccounted for after Commonwealth Games",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/6/uk-police-confirm-uganda-boxers-unaccounted-for-after-commonwealth-games?traffic_source=rss",
-      "published_date": "2026-08-06T08:27:20+00:00",
       "category": "Military"
     },
     {
@@ -473,18 +473,46 @@
       "category": "Economy"
     },
     {
-      "title": "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns",
+      "title": "First school for robots opens in China",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss",
-      "published_date": "2026-07-31T09:50:41+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
+      "published_date": "2026-08-07T11:33:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
+      "title": "Why Trump is caught in an ‘escalation trap’ with Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss",
-      "published_date": "2026-07-31T07:25:44+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss",
+      "published_date": "2026-08-07T11:03:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several killed after student opens fire inside Thailand school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
+      "published_date": "2026-08-07T09:13:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
+      "published_date": "2026-08-07T07:44:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexico deploys troops to secure avocado region after US halts imports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
+      "published_date": "2026-08-07T05:25:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than one million affected by floods in India’s Assam state",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss",
+      "published_date": "2026-08-07T02:53:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
@@ -582,48 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss",
       "published_date": "2026-08-05T21:15:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garaad Soofe Urges Federal Mediation Between Northeastern State and Somaliland Administration",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/05/garaad-soofe-urges-federal-mediation-between-northeastern-state-and-somaliland-administration/",
-      "published_date": "2026-08-05T18:13:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
-      "published_date": "2026-08-05T17:41:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El-Sayed wins Michigan Democratic Senate primary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss",
-      "published_date": "2026-08-05T17:40:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland forces seize government-held camp in Somalia’s Galkayo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/puntland-forces-seize-government-held-camp-in-somalias-galkayo?traffic_source=rss",
-      "published_date": "2026-08-05T17:38:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni accuses Somali federal government of backing rival forces after Galkayo clashes",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/deni-accuses-somali-federal-government-of-backing-rival-forces-after-galkayo-clashes/",
-      "published_date": "2026-08-05T13:08:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidamada Puntland oo digniin soo saaray",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/05/ciidamada-puntland-oo-digniin-soo-saaray/",
-      "published_date": "2026-08-05T12:54:39+00:00",
       "category": "Local Events"
     }
   ]
