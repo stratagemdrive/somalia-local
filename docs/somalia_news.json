@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-08T11:33:38.341250+00:00",
-  "story_count": 84,
+  "last_updated": "2026-08-08T23:24:01.879961+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "AUSSOM Troop Contributors Demand Political Roadmap for Somalia",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/aussom-troop-contributors-demand-political-roadmap-for-somalia/",
+      "published_date": "2026-08-08T18:13:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
+      "published_date": "2026-08-08T16:09:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
+      "published_date": "2026-08-08T15:52:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
+      "published_date": "2026-08-08T15:42:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Embassy in Kenya hosts Kenyan military academy chief",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-embassy-in-kenya-hosts-kenyan-military-academy-chief/",
+      "published_date": "2026-08-08T12:47:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Safaaradda Soomaaliya ee Kenya oo qaabishay Taliyaha Akadeemiyadda Militariga Kenya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/safaaradda-soomaaliya-ee-kenya-oo-qaabishay-taliyaha-akadeemiyadda-militariga-kenya/",
+      "published_date": "2026-08-08T12:22:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali and Turkish commanders graduate first full Gorgor commando brigade in Manisa",
       "source": "Shabelle Media",
@@ -102,46 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sheikh Hasina says she will return to Bangladesh in December",
+      "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
-      "published_date": "2026-08-05T20:03:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+      "published_date": "2026-08-08T22:22:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "New Mexico sues US Justice Department for impeding Epstein probe",
+      "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss",
-      "published_date": "2026-08-05T19:51:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
+      "published_date": "2026-08-08T21:28:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
+      "title": "What are the challenges facing the Mecca agreement?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
-      "published_date": "2026-08-05T09:16:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
+      "published_date": "2026-08-08T20:25:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Indonesia discuss expanding cooperation on blue economy",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-indonesia-discuss-expanding-cooperation-on-blue-economy/",
-      "published_date": "2026-08-05T08:06:11+00:00",
-      "category": "Diplomacy"
+      "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+      "published_date": "2026-08-08T19:00:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s president, international partners hold fresh talks to break electoral deadlock",
+      "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
+      "published_date": "2026-08-08T18:43:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia: Puntland seizes third federal base",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-international-partners-electoral-deadlock-talks/",
-      "published_date": "2026-08-04T19:03:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-seizes-third-federal-base-carmo-bari/",
+      "published_date": "2026-08-08T15:17:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+      "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
-      "published_date": "2026-08-04T12:21:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+      "published_date": "2026-08-08T15:01:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+      "published_date": "2026-08-08T14:58:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 28",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
+      "published_date": "2026-08-08T14:09:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kenyan court sentences Al-Shabab member to 115 years over terrorism offences",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kenyan-court-sentences-al-shabab-member-to-115-years-over-terrorism-offences/",
+      "published_date": "2026-08-08T11:48:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Maxkamad Kenya ah oo xubin Al-Shabaab ah ku xukuntay 115 sano oo xabsi ah",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/maxkamad-kenya-ah-oo-xubin-al-shabaab-ah-ku-xukuntay-115-sano-oo-xabsi-ah/",
+      "published_date": "2026-08-08T11:17:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Regional countries welcome Saudi-Türkiye-Pakistan defense pact",
@@ -204,83 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
       "published_date": "2026-08-07T16:42:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
-      "published_date": "2026-08-07T16:23:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
-      "published_date": "2026-08-07T14:22:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
-      "published_date": "2026-08-07T13:28:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
-      "published_date": "2026-08-07T13:12:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attack wounds 11 civilians in southern Saudi Arabia as Riyadh warns of wider regional threat",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/houthi-attack-wounds-11-civilians-in-southern-saudi-arabia-as-riyadh-warns-of-wider-regional-threat/",
-      "published_date": "2026-08-07T11:47:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six wounded in roadside bomb blast near Kenya-Somalia border",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/six-wounded-in-roadside-bomb-blast-near-kenya-somalia-border/",
-      "published_date": "2026-08-07T11:45:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan pledges continued support for Somalia’s security forces",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/pakistan-pledges-continued-support-for-somalias-security-forces/",
-      "published_date": "2026-08-07T11:39:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gen. Tudor oo kulan la qaatay Axmed Madoobe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/07/gen-tudor-oo-kulan-la-qaatay-axmed-madoobe/",
-      "published_date": "2026-08-07T11:23:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
-      "published_date": "2026-08-07T11:15:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
-      "published_date": "2026-08-07T11:11:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
-      "published_date": "2026-08-07T11:03:07+00:00",
       "category": "Military"
     },
     {
@@ -361,11 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
+      "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
-      "published_date": "2026-08-01T16:43:34+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+      "published_date": "2026-08-08T18:57:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+      "published_date": "2026-08-08T17:05:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "US announces $400m investment in Australian rare earth mine",
@@ -431,31 +438,24 @@
       "category": "Economy"
     },
     {
-      "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
-      "published_date": "2026-08-01T23:15:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
-      "published_date": "2026-08-01T13:59:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
-      "published_date": "2026-08-01T11:58:23+00:00",
-      "category": "Economy"
+      "title": "President Irro Accuses Mogadishu of Abandoning Previous Somaliland-Somalia Agreements",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/president-irro-accuses-mogadishu-of-abandoning-previous-somaliland-somalia-agreements/",
+      "published_date": "2026-08-08T17:51:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
       "published_date": "2026-08-08T10:36:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni oo kulan la qaatay saraakiishii fulisay howlgalkii xerada PSF ee Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/08/deni-oo-kulan-la-qaatay-saraakiishii-fulisay-howlgalkii-xerada-psf-ee-gaalkacyo/",
+      "published_date": "2026-08-08T10:18:00+00:00",
       "category": "Local Events"
     },
     {
@@ -575,20 +575,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss",
       "published_date": "2026-08-06T21:27:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire engulfs earthquake housing site in Turkiye",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/fire-engulfs-earthquake-housing-site-in-turkiye?traffic_source=rss",
-      "published_date": "2026-08-06T20:55:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US ends cap on local TV station owners amid concerns of media consolidation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/6/us-ends-cap-on-local-tv-station-owners-amid-concerns-of-media-consolidation?traffic_source=rss",
-      "published_date": "2026-08-06T19:25:35+00:00",
       "category": "Local Events"
     }
   ]
