@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-09T11:34:41.490846+00:00",
-  "story_count": 82,
+  "last_updated": "2026-08-09T23:26:48.715574+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "UN puts Somalia mission assets up for sale as Washington pulls plug on AUSSOM lifeline",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/un-sell-somalia-peacekeeping-assets/",
+      "published_date": "2026-08-09T20:33:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can the Doha Framework end the conflict in eastern DRC?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
+      "published_date": "2026-08-09T19:07:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Begins Commercial Sale of Assets in Somalia Amid Broader Transition",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/un-begins-commercial-sale-of-assets-in-somalia-amid-broader-transition/",
+      "published_date": "2026-08-09T16:58:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Mecca pact is not just another regional alliance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
+      "published_date": "2026-08-09T14:23:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kampala summit fails to secure Somalia’s AUSSOM future",
       "source": "Somali Guardian",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
+      "title": "War on Iran: Phase II: Day 29",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss",
-      "published_date": "2026-08-06T20:59:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
+      "published_date": "2026-08-09T15:46:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Taliyaha Ciidanka Xoogga Dalka oo la kulmay wafdi ka socday dalalka taageera AUSSOM",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-xoogga-dalka-oo-la-kulmay-wafdi-ka-socday-dalalka-taageera-aussom/",
-      "published_date": "2026-08-06T15:11:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Army Chief Meets AUSSOM Troop-Contributing Countries’ Delegations to Boost Security Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-meets-aussom-troop-contributing-countries-delegations-to-boost-security-cooperation/",
-      "published_date": "2026-08-06T15:10:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ra’iisul Wasaare Xamsa oo ku boorriyay mas’uuliyiinta dowladda inay ku safraan baasaboorka Soomaaliga",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-ku-boorriyay-masuuliyiinta-dowladda-inay-ku-safraan-baasaboorka-soomaaliga/",
-      "published_date": "2026-08-06T10:14:21+00:00",
-      "category": "Diplomacy"
+      "title": "Pentagon urges faster US weapons production amid stockpile concerns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
+      "published_date": "2026-08-09T15:38:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "War on Iran: Phase II: Day 28",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
-      "published_date": "2026-08-08T14:09:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kenyan court sentences Al-Shabab member to 115 years over terrorism offences",
+      "title": "Turkey expands overseas energy drive with Somalia emerging as key focus",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenyan-court-sentences-al-shabab-member-to-115-years-over-terrorism-offences/",
-      "published_date": "2026-08-08T11:48:59+00:00",
-      "category": "Military"
+      "url": "https://shabellemedia.com/turkey-expands-overseas-energy-drive-with-somalia-emerging-as-key-focus/",
+      "published_date": "2026-08-09T15:46:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Typhoon Dolphin hits Japan, heads towards China",
@@ -354,11 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Russian and Ukrainian strikes kill 14 on both sides",
+      "title": "Gaza’s children still struggling with hunger as another famine threatens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-      "published_date": "2026-08-02T18:37:23+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
+      "published_date": "2026-08-09T14:47:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
@@ -436,6 +443,48 @@
       "url": "https://www.aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode?traffic_source=rss",
       "published_date": "2026-08-03T09:04:57+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Deni oo ku dhawaaqay in uusan mar saddexaad u tartami doonin Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/10/deni-oo-ku-dhawaaqay-in-uusan-mar-saddexaad-u-tartami-doonin-puntland/",
+      "published_date": "2026-08-09T21:59:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged cartel boss Daniel Kinahan charged in Ireland amid heavy security",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
+      "published_date": "2026-08-09T16:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia parliament prepares for speaker election in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-parliament-prepares-for-speaker-election-in-mogadishu/",
+      "published_date": "2026-08-09T15:43:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mogadishu mayor announces Grade 8 exam results, pledges high school funding for top students",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/mogadishu-mayor-announces-grade-8-exam-results-pledges-high-school-funding-for-top-students/",
+      "published_date": "2026-08-09T15:42:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Concerns mount over integrity of Israel’s upcoming October elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
+      "published_date": "2026-08-09T15:20:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo kulan la qaatay nabadoonnada Mudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/09/madaxweyne-deni-oo-kulan-la-qaatay-nabadoonnada-mudug/",
+      "published_date": "2026-08-09T12:28:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Xiisad ka tagaan deegaan ka tirsan gobolka Karkaar",
@@ -533,48 +582,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
       "published_date": "2026-08-07T20:27:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qarax ka dhacay Hargeysa",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/07/qarax-ka-dhacay-hargeysa/",
-      "published_date": "2026-08-07T18:01:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
-      "published_date": "2026-08-07T18:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marxuum Beeldaaje Axmed Mataan oo aas loogu sameeyay Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/07/marxuum-beeldaaje-axmed-mataan-oo-aas-loogu-sameeyay-garoowe/",
-      "published_date": "2026-08-07T17:28:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First school for robots opens in China",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
-      "published_date": "2026-08-07T11:33:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Trump is caught in an ‘escalation trap’ with Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss",
-      "published_date": "2026-08-07T11:03:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several killed after student opens fire inside Thailand school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
-      "published_date": "2026-08-07T09:13:48+00:00",
       "category": "Local Events"
     }
   ]
