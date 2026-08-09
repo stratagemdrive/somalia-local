@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-08T23:24:01.879961+00:00",
+  "last_updated": "2026-08-09T11:34:41.490846+00:00",
   "story_count": 82,
   "stories": [
+    {
+      "title": "Kampala summit fails to secure Somalia’s AUSSOM future",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/aussom-somalia-kampala-summit-fails/",
+      "published_date": "2026-08-09T09:36:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt could join Saudi-Turkey-Pakistan defence pact, Fidan says",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/egypt-could-join-saudi-turkey-pakistan-defence-pact-fidan-says/",
+      "published_date": "2026-08-09T08:42:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "AUSSOM Troop Contributors Demand Political Roadmap for Somalia",
       "source": "Somali Dispatch",
@@ -130,18 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
+      "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss",
-      "published_date": "2026-08-06T07:34:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
+      "published_date": "2026-08-09T10:45:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Clashes on anniversary of Imran Khan imprisonment",
+      "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
-      "published_date": "2026-08-05T21:28:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
+      "published_date": "2026-08-09T10:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+      "published_date": "2026-08-09T10:02:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan army says it repelled major RSF attack in West Darfur",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sudan-army-says-it-repelled-major-rsf-attack-in-west-darfur/",
+      "published_date": "2026-08-09T08:44:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
+      "published_date": "2026-08-09T07:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+      "published_date": "2026-08-09T07:56:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Car bomb hits Colombia highway day after new president sworn in",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
+      "published_date": "2026-08-09T04:32:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
+      "published_date": "2026-08-09T04:12:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-08-09T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkiye says Mecca defence pact not aimed at Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+      "published_date": "2026-08-08T23:59:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
@@ -211,76 +281,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/kenyan-court-sentences-al-shabab-member-to-115-years-over-terrorism-offences/",
       "published_date": "2026-08-08T11:48:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maxkamad Kenya ah oo xubin Al-Shabaab ah ku xukuntay 115 sano oo xabsi ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/maxkamad-kenya-ah-oo-xubin-al-shabaab-ah-ku-xukuntay-115-sano-oo-xabsi-ah/",
-      "published_date": "2026-08-08T11:17:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Regional countries welcome Saudi-Türkiye-Pakistan defense pact",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/regional-countries-welcome-saudi-turkiye-pakistan-defense-pact/",
-      "published_date": "2026-08-08T05:52:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NISA Arrests Nine Suspected Al-Shabaab Members in Mogadishu Ahead of Planned Attacks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nisa-arrests-nine-suspected-al-shabaab-members-in-mogadishu-ahead-of-planned-attacks/",
-      "published_date": "2026-08-08T05:47:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NISA oo sheegtay inay gacanta ku dhigtay sagaal xubnood oo ka tirsan Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nisa-oo-sheegtay-inay-gacanta-ku-dhigtay-sagaal-xubnood-oo-ka-tirsan-al-shabaab/",
-      "published_date": "2026-08-08T05:29:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes near Ukrainian capital kill four, including child",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
-      "published_date": "2026-08-08T04:18:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somaliland oo ka hadashay qaraxii ka dhacay Hargeysa",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/08/somaliland-oo-ka-hadashay-qaraxii-ka-dhacay-hargeysa/",
-      "published_date": "2026-08-08T03:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
-      "published_date": "2026-08-08T01:29:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-      "published_date": "2026-08-07T18:54:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
-      "published_date": "2026-08-07T17:07:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
-      "published_date": "2026-08-07T16:42:35+00:00",
       "category": "Military"
     },
     {
@@ -361,6 +361,13 @@
       "category": "Energy"
     },
     {
+      "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
+      "published_date": "2026-08-09T10:55:06+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
@@ -431,11 +438,39 @@
       "category": "Economy"
     },
     {
-      "title": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
+      "title": "Xiisad ka tagaan deegaan ka tirsan gobolka Karkaar",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/09/xiisad-ka-tagaan-deegaan-ka-tirsan-gobolka-karkaar/",
+      "published_date": "2026-08-09T09:32:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "It won’t be Trump who kills the ICC",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
-      "published_date": "2026-08-02T08:12:54+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
+      "published_date": "2026-08-09T09:05:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxaa ka jira in Gen. Jimcaale isu dhiibay Puntland?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/09/maxaa-ka-jira-in-gen-jimcaale-isu-dhiibay-puntland/",
+      "published_date": "2026-08-09T06:23:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire forces thousands of evacuations in Western Canada",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
+      "published_date": "2026-08-09T06:10:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
+      "published_date": "2026-08-09T00:41:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "President Irro Accuses Mogadishu of Abandoning Previous Somaliland-Somalia Agreements",
@@ -540,41 +575,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
       "published_date": "2026-08-07T09:13:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
-      "published_date": "2026-08-07T07:44:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexico deploys troops to secure avocado region after US halts imports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
-      "published_date": "2026-08-07T05:25:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than one million affected by floods in India’s Assam state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss",
-      "published_date": "2026-08-07T02:53:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment?traffic_source=rss",
-      "published_date": "2026-08-06T22:59:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump signs new executive orders seeking to limit US birthright citizenship",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss",
-      "published_date": "2026-08-06T21:27:19+00:00",
       "category": "Local Events"
     }
   ]
