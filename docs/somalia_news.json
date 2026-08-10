@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-09T23:26:48.715574+00:00",
-  "story_count": 83,
+  "last_updated": "2026-08-10T11:52:13.813116+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Pakistan, Somalia envoys discuss strengthening security cooperation in Horn of Africa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/pakistan-somalia-envoys-discuss-strengthening-security-cooperation-in-horn-of-africa/",
+      "published_date": "2026-08-10T08:15:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, UN and UNICEF discuss protecting children from armed conflict",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-un-and-unicef-discuss-protecting-children-from-armed-conflict/",
+      "published_date": "2026-08-10T08:13:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Safiirrada Soomaaliya iyo Pakistan ee Jabuuti oo ka wada hadlay xoojinta xiriirka iyo nabadda gobolka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/safiirrada-soomaaliya-iyo-pakistan-ee-jabuuti-oo-ka-wada-hadlay-xoojinta-xiriirka-iyo-nabadda-gobolka/",
+      "published_date": "2026-08-10T05:37:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN puts Somalia mission assets up for sale as Washington pulls plug on AUSSOM lifeline",
       "source": "Somali Guardian",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Can diplomacy end the conflict in Libya?",
+      "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
-      "published_date": "2026-08-07T20:39:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss",
+      "published_date": "2026-08-10T11:11:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Northern Ethiopia’s shifting alliances explained",
+      "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
-      "published_date": "2026-08-07T11:19:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
+      "published_date": "2026-08-10T10:55:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
+      "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss",
-      "published_date": "2026-08-06T23:34:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
+      "published_date": "2026-08-10T10:13:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
+      "published_date": "2026-08-10T09:09:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+      "published_date": "2026-08-10T07:43:01+00:00",
+      "category": "Military"
     },
     {
       "title": "War on Iran: Phase II: Day 29",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+      "title": "June and July hottest on record in Western Europe, monitor says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
-      "published_date": "2026-08-08T19:00:43+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
+      "published_date": "2026-08-10T10:21:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+      "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
-      "published_date": "2026-08-08T18:43:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Puntland seizes third federal base",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-seizes-third-federal-base-carmo-bari/",
-      "published_date": "2026-08-08T15:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-      "published_date": "2026-08-08T15:01:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
-      "published_date": "2026-08-08T14:58:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
+      "published_date": "2026-08-10T07:10:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Turkey expands overseas energy drive with Somalia emerging as key focus",
@@ -337,27 +351,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
       "published_date": "2026-08-03T23:02:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
-      "published_date": "2026-08-03T11:51:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Wildfires still burning in France and Spain amid fears of more to come",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
-      "published_date": "2026-08-03T09:32:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
-      "published_date": "2026-08-03T09:13:59+00:00",
       "category": "Energy"
     },
     {
@@ -438,11 +431,60 @@
       "category": "Economy"
     },
     {
-      "title": "Australia warns H5N1 likely to spread after first mass mortality episode",
+      "title": "Abdulkadir Mohamed Nur elected Lower House speaker with 142 votes",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/abdulkadir-mohamed-nur-elected-lower-house-speaker-with-142-votes/",
+      "published_date": "2026-08-10T11:27:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters rally in India’s Jharkhand over alleged exam irregularities",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode?traffic_source=rss",
-      "published_date": "2026-08-03T09:04:57+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss",
+      "published_date": "2026-08-10T11:23:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Southwest State leader meets UN officials in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/southwest-state-leader-meets-un-officials-in-mogadishu/",
+      "published_date": "2026-08-10T11:23:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss",
+      "published_date": "2026-08-10T11:06:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland president discusses security and development with Mudug community leaders",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-president-discusses-security-and-development-with-mudug-community-leaders/",
+      "published_date": "2026-08-10T08:18:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
+      "published_date": "2026-08-10T08:05:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweynaha Puntland oo kulan la qaatay waxgaradka gobolka Mudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweynaha-puntland-oo-kulan-la-qaatay-waxgaradka-gobolka-mudug/",
+      "published_date": "2026-08-10T05:53:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires bear down on homes in Canada’s Okanagan region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
+      "published_date": "2026-08-10T04:49:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Deni oo ku dhawaaqay in uusan mar saddexaad u tartami doonin Puntland",
@@ -526,62 +568,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/president-irro-accuses-mogadishu-of-abandoning-previous-somaliland-somalia-agreements/",
       "published_date": "2026-08-08T17:51:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
-      "published_date": "2026-08-08T10:36:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni oo kulan la qaatay saraakiishii fulisay howlgalkii xerada PSF ee Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/08/deni-oo-kulan-la-qaatay-saraakiishii-fulisay-howlgalkii-xerada-psf-ee-gaalkacyo/",
-      "published_date": "2026-08-08T10:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irro tells foreign diplomats in Nairobi: Engage Somaliland as sovereign state, not extension of Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/irro-somaliland-nairobi-diplomats-sovereign-state-somalia/",
-      "published_date": "2026-08-08T09:05:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo gaaray Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/08/madaxweyne-deni-oo-gaaray-gaalkacyo/",
-      "published_date": "2026-08-08T06:19:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
-      "published_date": "2026-08-08T05:45:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democrats gain momentum in pivotal US Senate and governor’s races in Texas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss",
-      "published_date": "2026-08-07T22:08:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court halts White House ballroom construction",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
-      "published_date": "2026-08-07T21:18:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
-      "published_date": "2026-08-07T20:27:56+00:00",
       "category": "Local Events"
     }
   ]
