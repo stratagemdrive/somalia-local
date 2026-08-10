@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-10T11:52:13.813116+00:00",
-  "story_count": 81,
+  "last_updated": "2026-08-10T23:30:56.123938+00:00",
+  "story_count": 78,
   "stories": [
+    {
+      "title": "Oman trying to contain extensive oil spill from stricken tanker",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
+      "published_date": "2026-08-10T18:15:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan, Somalia envoys discuss strengthening security cooperation in Horn of Africa",
       "source": "Shabelle Media",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US Senate passes Russia sanctions that could hurt India and China",
+      "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
-      "published_date": "2026-08-08T03:20:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
+      "published_date": "2026-08-10T23:18:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
+      "published_date": "2026-08-10T21:14:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+      "published_date": "2026-08-10T20:55:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+      "published_date": "2026-08-10T19:47:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
+      "published_date": "2026-08-10T18:34:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian club football to restart in September after Gaza war suspension",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
+      "published_date": "2026-08-10T17:30:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia withdraws troops from militant-encircled Burhakaba in Somalia as AUSSOM faces mounting crisis",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-troops-withdraw-burhakaba-somalia-aussom/",
+      "published_date": "2026-08-10T14:17:26+00:00",
+      "category": "Military"
     },
     {
       "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Car bomb hits Colombia highway day after new president sworn in",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
-      "published_date": "2026-08-09T04:32:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
-      "published_date": "2026-08-09T04:12:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-08-09T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkiye says Mecca defence pact not aimed at Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
-      "published_date": "2026-08-08T23:59:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
-      "published_date": "2026-08-08T22:22:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
-      "published_date": "2026-08-08T21:28:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What are the challenges facing the Mecca agreement?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
-      "published_date": "2026-08-08T20:25:43+00:00",
-      "category": "Military"
-    },
-    {
       "title": "June and July hottest on record in Western Europe, monitor says",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
@@ -344,13 +344,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
       "published_date": "2026-08-04T20:35:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
-      "published_date": "2026-08-03T23:02:07+00:00",
       "category": "Energy"
     },
     {
@@ -417,18 +410,39 @@
       "category": "Economy"
     },
     {
-      "title": "Survivors reach port after deadly Indonesia ferry fire",
+      "title": "US appeals court says social media addiction lawsuits can proceed",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
-      "published_date": "2026-08-03T19:55:36+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
+      "published_date": "2026-08-10T21:02:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Israel top court hears challenge to UNRWA ban",
+      "title": "Trump administration has revoked over 175,000 visas: US State Department",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss",
-      "published_date": "2026-08-03T18:13:43+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
+      "published_date": "2026-08-10T19:46:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mashruuc ku kacaya $3 milyan oo laga daahfuray Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/10/mashruuc-ku-kacaya-3-milyan-oo-laga-daahfuray-gaalkacyo/",
+      "published_date": "2026-08-10T17:52:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel Signals Deeper Strategic Alliance With Somaliland as Hargeisa Gains Regional Significance",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/israel-signals-deeper-strategic-alliance-with-somaliland-as-hargeisa-gains-regional-significance/",
+      "published_date": "2026-08-10T16:10:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golaha Mustaqbalka oo ka hortimid doorashadii guddoomiyaha Baarlamaanka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/10/golaha-mustaqbalka-oo-ka-hortimid-doorashadii-guddoomiyaha-baarlamaanka/",
+      "published_date": "2026-08-10T15:20:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Abdulkadir Mohamed Nur elected Lower House speaker with 142 votes",
@@ -533,41 +547,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/09/xiisad-ka-tagaan-deegaan-ka-tirsan-gobolka-karkaar/",
       "published_date": "2026-08-09T09:32:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "It won’t be Trump who kills the ICC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
-      "published_date": "2026-08-09T09:05:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxaa ka jira in Gen. Jimcaale isu dhiibay Puntland?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/09/maxaa-ka-jira-in-gen-jimcaale-isu-dhiibay-puntland/",
-      "published_date": "2026-08-09T06:23:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire forces thousands of evacuations in Western Canada",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
-      "published_date": "2026-08-09T06:10:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
-      "published_date": "2026-08-09T00:41:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Irro Accuses Mogadishu of Abandoning Previous Somaliland-Somalia Agreements",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/president-irro-accuses-mogadishu-of-abandoning-previous-somaliland-somalia-agreements/",
-      "published_date": "2026-08-08T17:51:46+00:00",
       "category": "Local Events"
     }
   ]
