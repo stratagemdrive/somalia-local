@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-10T23:30:56.123938+00:00",
-  "story_count": 78,
+  "last_updated": "2026-08-11T11:48:49.880002+00:00",
+  "story_count": 80,
   "stories": [
+    {
+      "title": "Ethiopian Ambassador Accuses Eritrea of Violating Ethiopia’s Sovereignty",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ethiopian-ambassador-accuses-eritrea-of-violating-ethiopias-sovereignty/",
+      "published_date": "2026-08-11T07:20:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Oman trying to contain extensive oil spill from stricken tanker",
       "source": "Al Jazeera",
@@ -137,11 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+      "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
-      "published_date": "2026-08-08T03:42:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
+      "published_date": "2026-08-11T11:30:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "East Libya military intelligence chief killed in car bomb",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
+      "published_date": "2026-08-11T10:25:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
+      "published_date": "2026-08-11T09:47:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli settler violence is ‘clear state terrorism’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss",
+      "published_date": "2026-08-11T09:30:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
+      "published_date": "2026-08-11T08:13:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is the US spending all their war money on?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss",
+      "published_date": "2026-08-11T08:04:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mass grave with 25 bodies found in Sudan’s Kurmuk after army retakes town",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/mass-grave-with-25-bodies-found-in-sudans-kurmuk-after-army-retakes-town?traffic_source=rss",
+      "published_date": "2026-08-11T07:44:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey’s Defence Minister Meets Somali Army Chief in Ankara",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/turkeys-defence-minister-meets-somali-army-chief-in-ankara/",
+      "published_date": "2026-08-11T07:18:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "War on Iran: Phase II: Day 29",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
-      "published_date": "2026-08-09T15:46:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon urges faster US weapons production amid stockpile concerns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
-      "published_date": "2026-08-09T15:38:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
-      "published_date": "2026-08-09T10:45:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
-      "published_date": "2026-08-09T10:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
-      "published_date": "2026-08-09T10:02:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan army says it repelled major RSF attack in West Darfur",
+      "title": "Africa Gets First Continental Guide on Just Transition Reporting",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sudan-army-says-it-repelled-major-rsf-attack-in-west-darfur/",
-      "published_date": "2026-08-09T08:44:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
-      "published_date": "2026-08-09T07:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
-      "published_date": "2026-08-09T07:56:47+00:00",
-      "category": "Military"
+      "url": "https://shabellemedia.com/africa-gets-first-continental-guide-on-just-transition-reporting/",
+      "published_date": "2026-08-11T10:39:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "June and July hottest on record in Western Europe, monitor says",
@@ -347,6 +354,13 @@
       "category": "Energy"
     },
     {
+      "title": "The Global South’s digital future must not belong to Bezos and Musk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
+      "published_date": "2026-08-11T09:52:01+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Gaza’s children still struggling with hunger as another famine threatens",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
@@ -408,6 +422,48 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
       "published_date": "2026-08-04T18:17:58+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "What to know about South Carolina’s election to replace Lindsey Graham",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss",
+      "published_date": "2026-08-11T10:55:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SoDMA, Air Force Plan Super El Niño Flood Response",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-air-force-plan-super-el-nino-flood-response/",
+      "published_date": "2026-08-11T10:19:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey’s ally wins Somalia speaker vote, opposition objects",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-speaker-abdulkadir-mohamed-nur-turkey-opposition/",
+      "published_date": "2026-08-11T08:35:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Opposition Group Challenges Election of New Lower House Speaker",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-opposition-group-challenges-election-of-new-lower-house-speaker/",
+      "published_date": "2026-08-11T07:22:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fiqi: Puntland waxay weerar ku qaaday saldhigga ciidanka XDS ee Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/11/fiqi-puntland-waxay-weerar-ku-qaaday-saldhigga-ciidanka-xds-ee-gaalkacyo/",
+      "published_date": "2026-08-11T06:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo soo gabagabaysay howlgalkii ciidamada federaalka ee Mudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/11/puntland-oo-soo-gabagabaysay-howlgalkii-ciidamada-federaalka-ee-mudug/",
+      "published_date": "2026-08-11T05:41:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US appeals court says social media addiction lawsuits can proceed",
@@ -505,48 +561,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/10/deni-oo-ku-dhawaaqay-in-uusan-mar-saddexaad-u-tartami-doonin-puntland/",
       "published_date": "2026-08-09T21:59:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged cartel boss Daniel Kinahan charged in Ireland amid heavy security",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
-      "published_date": "2026-08-09T16:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament prepares for speaker election in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliament-prepares-for-speaker-election-in-mogadishu/",
-      "published_date": "2026-08-09T15:43:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mogadishu mayor announces Grade 8 exam results, pledges high school funding for top students",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mogadishu-mayor-announces-grade-8-exam-results-pledges-high-school-funding-for-top-students/",
-      "published_date": "2026-08-09T15:42:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Concerns mount over integrity of Israel’s upcoming October elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
-      "published_date": "2026-08-09T15:20:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo kulan la qaatay nabadoonnada Mudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/09/madaxweyne-deni-oo-kulan-la-qaatay-nabadoonnada-mudug/",
-      "published_date": "2026-08-09T12:28:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xiisad ka tagaan deegaan ka tirsan gobolka Karkaar",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/09/xiisad-ka-tagaan-deegaan-ka-tirsan-gobolka-karkaar/",
-      "published_date": "2026-08-09T09:32:18+00:00",
       "category": "Local Events"
     }
   ]
