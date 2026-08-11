@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-11T11:48:49.880002+00:00",
-  "story_count": 80,
+  "last_updated": "2026-08-11T23:35:13.879769+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
+      "published_date": "2026-08-11T20:35:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US military fires on cargo vessel it said sought to break Iran blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
+      "published_date": "2026-08-11T19:58:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela and Israel restore consular ties as relations warm",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+      "published_date": "2026-08-11T18:58:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
+      "published_date": "2026-08-11T18:18:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia PM rebukes international partners over political pressure",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pm-hamza-abdi-barre-rebukes-international-partners/",
+      "published_date": "2026-08-11T16:13:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ethiopian Ambassador Accuses Eritrea of Violating Ethiopia’s Sovereignty",
       "source": "Shabelle Media",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Embassy in Kenya hosts Kenyan military academy chief",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-embassy-in-kenya-hosts-kenyan-military-academy-chief/",
-      "published_date": "2026-08-08T12:47:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Safaaradda Soomaaliya ee Kenya oo qaabishay Taliyaha Akadeemiyadda Militariga Kenya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/safaaradda-soomaaliya-ee-kenya-oo-qaabishay-taliyaha-akadeemiyadda-militariga-kenya/",
-      "published_date": "2026-08-08T12:22:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali and Turkish commanders graduate first full Gorgor commando brigade in Manisa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-and-turkish-commanders-graduate-first-full-gorgor-commando-brigade-in-manisa/",
-      "published_date": "2026-08-08T05:54:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Congo oo sii daysay 15 maxbuus oo Fallaagada M23 ka tirsan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/congo-oo-sii-daysay-15-maxbuus-oo-fallaagada-m23-ka-tirsan/",
-      "published_date": "2026-08-08T05:52:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
+      "title": "In Gaza’s tents, widows face war’s harshest realities alone",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
-      "published_date": "2026-08-08T04:29:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
+      "published_date": "2026-08-11T20:30:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel demolishes home of Palestinian killed during settler attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
+      "published_date": "2026-08-11T20:18:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Africa mine collapse kills 14 suspected illegal miners",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss",
+      "published_date": "2026-08-11T18:31:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Janan oo sheegay in uu ku biiray Jubaland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/11/janan-oo-sheegay-in-uu-ku-biiray-jubaland/",
+      "published_date": "2026-08-11T13:29:50+00:00",
+      "category": "Military"
     },
     {
       "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+      "title": "Tightened blockade on Gaza causes prices to soar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
-      "published_date": "2026-08-10T10:55:38+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
+      "published_date": "2026-08-11T18:45:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
+      "title": "Tourists rush to Iceland to witness rare total solar eclipse",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
-      "published_date": "2026-08-10T10:13:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
-      "published_date": "2026-08-10T09:09:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
-      "published_date": "2026-08-10T07:43:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tourists-rush-to-iceland-to-witness-rare-total-solar-eclipse?traffic_source=rss",
+      "published_date": "2026-08-11T18:22:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Africa Gets First Continental Guide on Just Transition Reporting",
@@ -333,25 +347,18 @@
       "category": "Energy"
     },
     {
-      "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
+      "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
-      "published_date": "2026-08-04T23:27:13+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
+      "published_date": "2026-08-11T20:29:34+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Death toll rises to 87 in India’s flood-stricken Assam",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
-      "published_date": "2026-08-04T21:03:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
-      "published_date": "2026-08-04T20:35:56+00:00",
-      "category": "Energy"
+      "title": "Somalia launches national forum to boost agricultural investment and food security",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-launches-national-forum-to-boost-agricultural-investment-and-food-security/",
+      "published_date": "2026-08-11T14:53:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Global South’s digital future must not belong to Bezos and Musk",
@@ -410,18 +417,46 @@
       "category": "Economy"
     },
     {
-      "title": "Red Cross urges international aid as Sudan crisis deepens",
+      "title": "Paramount CEO may remove operations from California over stalled merger",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
-      "published_date": "2026-08-04T19:39:58+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss",
+      "published_date": "2026-08-11T18:34:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why did the US economy slow down?",
+      "title": "‘Justice at last’: Syrians react to Assad death sentence",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
-      "published_date": "2026-08-04T18:17:58+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
+      "published_date": "2026-08-11T18:32:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil’s Supreme Court to weigh cases that could weaken Amazon protections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss",
+      "published_date": "2026-08-11T18:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian court sentences Bashar al-Assad and Atef Najib to death",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death?traffic_source=rss",
+      "published_date": "2026-08-11T17:59:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US jury in Luigi Mangione murder trial to remain anonymous",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss",
+      "published_date": "2026-08-11T17:36:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo xarigga ka jaray qayb ka mid ah wadada Bacaadweyn-Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/11/madaxweyne-deni-oo-xarigga-ka-jaray-qayb-ka-mid-ah-wadada-bacaadweyn-gaalkacyo/",
+      "published_date": "2026-08-11T11:44:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What to know about South Carolina’s election to replace Lindsey Graham",
@@ -519,48 +554,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/southwest-state-leader-meets-un-officials-in-mogadishu/",
       "published_date": "2026-08-10T11:23:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss",
-      "published_date": "2026-08-10T11:06:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland president discusses security and development with Mudug community leaders",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-president-discusses-security-and-development-with-mudug-community-leaders/",
-      "published_date": "2026-08-10T08:18:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
-      "published_date": "2026-08-10T08:05:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweynaha Puntland oo kulan la qaatay waxgaradka gobolka Mudug",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynaha-puntland-oo-kulan-la-qaatay-waxgaradka-gobolka-mudug/",
-      "published_date": "2026-08-10T05:53:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires bear down on homes in Canada’s Okanagan region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
-      "published_date": "2026-08-10T04:49:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni oo ku dhawaaqay in uusan mar saddexaad u tartami doonin Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/10/deni-oo-ku-dhawaaqay-in-uusan-mar-saddexaad-u-tartami-doonin-puntland/",
-      "published_date": "2026-08-09T21:59:36+00:00",
       "category": "Local Events"
     }
   ]
