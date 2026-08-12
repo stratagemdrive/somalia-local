@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-12T11:51:53.104112+00:00",
-  "story_count": 81,
+  "last_updated": "2026-08-12T23:37:11.568185+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Somalia’s PM meets Qatari delegation over food production and healthcare investment",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-pm-meets-qatari-delegation-over-food-production-and-healthcare-investment/",
+      "published_date": "2026-08-12T14:32:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamsa oo Qaabilay Wafdi ka Socday Dowladda Qatar",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-qaabilay-wafdi-ka-socday-dowladda-qatar/",
+      "published_date": "2026-08-12T12:17:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali Army chief visits Somalia’s embassy in Ankara",
       "source": "Shabelle Media",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AUSSOM Troop Contributors Demand Political Roadmap for Somalia",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/aussom-troop-contributors-demand-political-roadmap-for-somalia/",
-      "published_date": "2026-08-08T18:13:49+00:00",
-      "category": "Diplomacy"
+      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+      "published_date": "2026-08-12T21:53:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
+      "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
-      "published_date": "2026-08-08T16:09:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
+      "published_date": "2026-08-12T21:52:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli air strike kills one in northern Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
+      "published_date": "2026-08-12T20:58:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly India landslide kills at least seven in Mumbai",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
+      "published_date": "2026-08-12T20:58:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
+      "published_date": "2026-08-12T20:26:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia’s NISA says seven Al-Shabaab members killed in Lower Shabelle operation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-nisa-says-seven-al-shabaab-members-killed-in-lower-shabelle-operation/",
+      "published_date": "2026-08-12T14:31:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Shabaab claims deadly IED attack on Somali army truck near Mubarak",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-ied-attack-somali-army-truck-mubarak/",
+      "published_date": "2026-08-12T13:36:41+00:00",
+      "category": "Military"
     },
     {
       "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
@@ -235,53 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Janan oo sheegay in uu ku biiray Jubaland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/11/janan-oo-sheegay-in-uu-ku-biiray-jubaland/",
-      "published_date": "2026-08-11T13:29:50+00:00",
-      "category": "Military"
+      "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
+      "published_date": "2026-08-12T20:59:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+      "title": "Photos: Solar eclipse plunges parts of Europe into darkness",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
-      "published_date": "2026-08-11T11:30:48+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss",
+      "published_date": "2026-08-12T20:16:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "East Libya military intelligence chief killed in car bomb",
+      "title": "Iceland and Spain plunged into darkness during total solar eclipse",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
-      "published_date": "2026-08-11T10:25:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
-      "published_date": "2026-08-11T09:47:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settler violence is ‘clear state terrorism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss",
-      "published_date": "2026-08-11T09:30:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
-      "published_date": "2026-08-11T08:13:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What is the US spending all their war money on?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss",
-      "published_date": "2026-08-11T08:04:59+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss",
+      "published_date": "2026-08-12T19:29:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
@@ -345,6 +366,20 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
       "published_date": "2026-08-08T02:54:02+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
+      "published_date": "2026-08-12T23:23:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thousands flee drought in Somalia amid sharp aid decline",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
+      "published_date": "2026-08-12T19:06:23+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia launches review of national regional integration strategy",
@@ -429,6 +464,27 @@
       "url": "https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/",
       "published_date": "2026-08-06T15:16:10+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Can Syria deliver transitional justice?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
+      "published_date": "2026-08-12T20:53:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
+      "published_date": "2026-08-12T20:15:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Cabdullaahi Yuusuf Wuu Taageersanaa In Dowladda Federaalku Ciidammo Ka Qorato Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/12/madaxweyne-cabdullaahi-yuusuf-wuu-taageersanaa-in-dowladda-federaalku-ciidammo-ka-qorato-puntland/",
+      "published_date": "2026-08-12T14:51:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "More than 100 passengers rescued after Indonesia ferry fire",
@@ -547,27 +603,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/11/fiqi-puntland-waxay-weerar-ku-qaaday-saldhigga-ciidanka-xds-ee-gaalkacyo/",
       "published_date": "2026-08-11T06:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo soo gabagabaysay howlgalkii ciidamada federaalka ee Mudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/11/puntland-oo-soo-gabagabaysay-howlgalkii-ciidamada-federaalka-ee-mudug/",
-      "published_date": "2026-08-11T05:41:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court says social media addiction lawsuits can proceed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
-      "published_date": "2026-08-10T21:02:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration has revoked over 175,000 visas: US State Department",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
-      "published_date": "2026-08-10T19:46:34+00:00",
       "category": "Local Events"
     }
   ]
