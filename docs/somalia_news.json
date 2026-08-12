@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-11T23:35:13.879769+00:00",
-  "story_count": 79,
+  "last_updated": "2026-08-12T11:51:53.104112+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Somali Army chief visits Somalia’s embassy in Ankara",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-visits-somalias-embassy-in-ankara/",
+      "published_date": "2026-08-12T09:01:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
+      "published_date": "2026-08-12T04:59:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
       "source": "Al Jazeera",
@@ -130,18 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
+      "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
-      "published_date": "2026-08-08T15:52:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
+      "published_date": "2026-08-12T10:02:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+      "title": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
-      "published_date": "2026-08-08T15:42:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
+      "published_date": "2026-08-12T08:19:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Four killed in overnight attacks in southern Russia, Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+      "published_date": "2026-08-12T07:49:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chinese naval fleet departs for escort mission in Gulf of Aden, Somali waters",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/chinese-naval-fleet-departs-for-escort-mission-in-gulf-of-aden-somali-waters/",
+      "published_date": "2026-08-12T07:36:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss",
+      "published_date": "2026-08-12T07:31:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Autism and war: Gaza families grapple with destruction and loss",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
+      "published_date": "2026-08-12T07:27:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NISA oo Sheegtay in Howlgal ka Dhacay Shabeellaha Hoose lagu Dilay Xubno ka Tirsan Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nisa-oo-sheegtay-in-howlgal-ka-dhacay-shabeellaha-hoose-lagu-dilay-xubno-ka-tirsan-al-shabaab/",
+      "published_date": "2026-08-12T06:11:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Qaar ka mid ah isimada dhaqanka Bari oo war ka soo saaray xiisadda Kodmo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/12/qaar-ka-mid-ah-isimada-dhaqanka-bari-oo-war-ka-soo-saaray-xiisadda-kodmo/",
+      "published_date": "2026-08-12T05:32:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
+      "published_date": "2026-08-12T05:26:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
+      "published_date": "2026-08-12T04:52:26+00:00",
+      "category": "Military"
     },
     {
       "title": "In Gaza’s tents, widows face war’s harshest realities alone",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Mass grave with 25 bodies found in Sudan’s Kurmuk after army retakes town",
+      "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/mass-grave-with-25-bodies-found-in-sudans-kurmuk-after-army-retakes-town?traffic_source=rss",
-      "published_date": "2026-08-11T07:44:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey’s Defence Minister Meets Somali Army Chief in Ankara",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/turkeys-defence-minister-meets-somali-army-chief-in-ankara/",
-      "published_date": "2026-08-11T07:18:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
-      "published_date": "2026-08-10T23:18:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
-      "published_date": "2026-08-10T21:14:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-      "published_date": "2026-08-10T20:55:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
-      "published_date": "2026-08-10T19:47:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
-      "published_date": "2026-08-10T18:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian club football to restart in September after Gaza war suspension",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
-      "published_date": "2026-08-10T17:30:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia withdraws troops from militant-encircled Burhakaba in Somalia as AUSSOM faces mounting crisis",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-troops-withdraw-burhakaba-somalia-aussom/",
-      "published_date": "2026-08-10T14:17:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss",
-      "published_date": "2026-08-10T11:11:33+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
+      "published_date": "2026-08-12T10:27:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tightened blockade on Gaza causes prices to soar",
@@ -340,11 +347,18 @@
       "category": "Energy"
     },
     {
-      "title": "India’s severe monsoon season causes more than 100 deaths since July",
+      "title": "Somalia launches review of national regional integration strategy",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-launches-review-of-national-regional-integration-strategy/",
+      "published_date": "2026-08-12T09:45:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why have several nations raised red flags over Indian farm exports?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
-      "published_date": "2026-08-05T10:10:07+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
+      "published_date": "2026-08-12T05:34:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
@@ -415,6 +429,48 @@
       "url": "https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/",
       "published_date": "2026-08-06T15:16:10+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "More than 100 passengers rescued after Indonesia ferry fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss",
+      "published_date": "2026-08-12T09:26:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia’s president rallies for second term ahead of election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
+      "published_date": "2026-08-12T09:16:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wisconsin race tight: Key takeaways from US primary election results",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results?traffic_source=rss",
+      "published_date": "2026-08-12T08:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clacton by-election: Farage may win the town, but can he win the country?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
+      "published_date": "2026-08-12T08:14:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo safar ku tagay degmada Galdogob",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/12/madaxweyne-deni-oo-safar-ku-tagay-degmada-galdogob/",
+      "published_date": "2026-08-12T08:08:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli government accused of complicity as settlers demolish Jericho homes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-government-accused-of-complicity-as-settlers-demolish-jericho-homes?traffic_source=rss",
+      "published_date": "2026-08-12T07:28:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Paramount CEO may remove operations from California over stalled merger",
@@ -512,48 +568,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
       "published_date": "2026-08-10T19:46:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mashruuc ku kacaya $3 milyan oo laga daahfuray Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/10/mashruuc-ku-kacaya-3-milyan-oo-laga-daahfuray-gaalkacyo/",
-      "published_date": "2026-08-10T17:52:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel Signals Deeper Strategic Alliance With Somaliland as Hargeisa Gains Regional Significance",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/israel-signals-deeper-strategic-alliance-with-somaliland-as-hargeisa-gains-regional-significance/",
-      "published_date": "2026-08-10T16:10:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Golaha Mustaqbalka oo ka hortimid doorashadii guddoomiyaha Baarlamaanka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/10/golaha-mustaqbalka-oo-ka-hortimid-doorashadii-guddoomiyaha-baarlamaanka/",
-      "published_date": "2026-08-10T15:20:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abdulkadir Mohamed Nur elected Lower House speaker with 142 votes",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/abdulkadir-mohamed-nur-elected-lower-house-speaker-with-142-votes/",
-      "published_date": "2026-08-10T11:27:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters rally in India’s Jharkhand over alleged exam irregularities",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss",
-      "published_date": "2026-08-10T11:23:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southwest State leader meets UN officials in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/southwest-state-leader-meets-un-officials-in-mogadishu/",
-      "published_date": "2026-08-10T11:23:36+00:00",
       "category": "Local Events"
     }
   ]
