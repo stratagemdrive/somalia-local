@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-12T23:37:11.568185+00:00",
-  "story_count": 86,
+  "last_updated": "2026-08-13T11:52:33.835610+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
+      "published_date": "2026-08-13T11:14:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss",
+      "published_date": "2026-08-13T09:18:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey will arrest and exile Somalia’s opposition leaders if defiance continues, warns veteran diplomat",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-arrest-exile-opposition-leaders-duale-warning/",
+      "published_date": "2026-08-13T08:12:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
+      "published_date": "2026-08-13T07:11:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia courts foreign investors for affordable housing projects",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-courts-foreign-investors-for-affordable-housing-projects/",
+      "published_date": "2026-08-13T06:39:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s president urges security agencies to build skilled workforce",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-urges-security-agencies-to-build-skilled-workforce/",
+      "published_date": "2026-08-13T06:34:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia’s PM meets Qatari delegation over food production and healthcare investment",
       "source": "Shabelle Media",
@@ -102,46 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN puts Somalia mission assets up for sale as Washington pulls plug on AUSSOM lifeline",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/un-sell-somalia-peacekeeping-assets/",
-      "published_date": "2026-08-09T20:33:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Can the Doha Framework end the conflict in eastern DRC?",
+      "title": "Eurovision to bar countries at war from hosting: What that means",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-      "published_date": "2026-08-09T19:07:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss",
+      "published_date": "2026-08-13T10:41:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN Begins Commercial Sale of Assets in Somalia Amid Broader Transition",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/un-begins-commercial-sale-of-assets-in-somalia-amid-broader-transition/",
-      "published_date": "2026-08-09T16:58:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Mecca pact is not just another regional alliance",
+      "title": "Life and loss as a first responder in southern Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
-      "published_date": "2026-08-09T14:23:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-08-13T09:51:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kampala summit fails to secure Somalia’s AUSSOM future",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/aussom-somalia-kampala-summit-fails/",
-      "published_date": "2026-08-09T09:36:23+00:00",
-      "category": "Diplomacy"
+      "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
+      "published_date": "2026-08-13T09:30:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt could join Saudi-Turkey-Pakistan defence pact, Fidan says",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/egypt-could-join-saudi-turkey-pakistan-defence-pact-fidan-says/",
-      "published_date": "2026-08-09T08:42:19+00:00",
-      "category": "Diplomacy"
+      "title": "Pro-Palestine activists smear red paint on Danish defence company",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss",
+      "published_date": "2026-08-13T09:18:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US defence secretary says drug cartels will be ‘targeted like ISIS’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss",
+      "published_date": "2026-08-13T07:58:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland: Siyaasiyiin iyo aqoonyahano soo saaray baaq",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/13/puntland-siyaasiyiin-iyo-aqoonyahano-soo-saaray-baaq/",
+      "published_date": "2026-08-13T06:21:44+00:00",
+      "category": "Military"
     },
     {
       "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Qaar ka mid ah isimada dhaqanka Bari oo war ka soo saaray xiisadda Kodmo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/12/qaar-ka-mid-ah-isimada-dhaqanka-bari-oo-war-ka-soo-saaray-xiisadda-kodmo/",
-      "published_date": "2026-08-12T05:32:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+      "title": "As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
-      "published_date": "2026-08-12T05:26:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
-      "published_date": "2026-08-12T04:52:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Gaza’s tents, widows face war’s harshest realities alone",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
-      "published_date": "2026-08-11T20:30:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel demolishes home of Palestinian killed during settler attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
-      "published_date": "2026-08-11T20:18:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Africa mine collapse kills 14 suspected illegal miners",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss",
-      "published_date": "2026-08-11T18:31:54+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss",
+      "published_date": "2026-08-13T08:15:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
@@ -466,6 +473,27 @@
       "category": "Economy"
     },
     {
+      "title": "Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/fulham-march-off-in-malaga-in-friendly-repeat-of-senegal-afcon-protest?traffic_source=rss",
+      "published_date": "2026-08-13T11:16:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Part of children’s hospital collapses in Colombia earthquake",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss",
+      "published_date": "2026-08-13T08:23:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
+      "published_date": "2026-08-13T07:01:35+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Can Syria deliver transitional justice?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
@@ -582,27 +610,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/sodma-air-force-plan-super-el-nino-flood-response/",
       "published_date": "2026-08-11T10:19:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey’s ally wins Somalia speaker vote, opposition objects",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-speaker-abdulkadir-mohamed-nur-turkey-opposition/",
-      "published_date": "2026-08-11T08:35:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Opposition Group Challenges Election of New Lower House Speaker",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-opposition-group-challenges-election-of-new-lower-house-speaker/",
-      "published_date": "2026-08-11T07:22:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fiqi: Puntland waxay weerar ku qaaday saldhigga ciidanka XDS ee Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/11/fiqi-puntland-waxay-weerar-ku-qaaday-saldhigga-ciidanka-xds-ee-gaalkacyo/",
-      "published_date": "2026-08-11T06:34:00+00:00",
       "category": "Local Events"
     }
   ]
