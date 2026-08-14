@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-14T11:49:34.775289+00:00",
+  "last_updated": "2026-08-14T23:17:42.486428+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
+      "published_date": "2026-08-14T15:36:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali President Says Government Has No Hostility Towards Its People",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-says-government-has-no-hostility-towards-its-people/",
+      "published_date": "2026-08-14T11:20:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Museveni says Uganda’s Somalia mission was solidarity with Ethiopia, not Somalia",
       "source": "Somali Guardian",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Oman trying to contain extensive oil spill from stricken tanker",
+      "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
-      "published_date": "2026-08-10T18:15:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+      "published_date": "2026-08-14T22:58:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan, Somalia envoys discuss strengthening security cooperation in Horn of Africa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/pakistan-somalia-envoys-discuss-strengthening-security-cooperation-in-horn-of-africa/",
-      "published_date": "2026-08-10T08:15:23+00:00",
-      "category": "Diplomacy"
+      "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+      "published_date": "2026-08-14T22:45:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+      "published_date": "2026-08-14T21:50:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
+      "published_date": "2026-08-14T21:45:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Cambridge professor accused of plagiarism found dead",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
+      "published_date": "2026-08-14T20:46:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+      "published_date": "2026-08-14T18:55:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+      "published_date": "2026-08-14T18:43:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italian police recover stolen paintings worth over $10m",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss",
+      "published_date": "2026-08-14T18:37:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Philippines drug war victims seek justice through truth commission",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss",
+      "published_date": "2026-08-14T16:08:07+00:00",
+      "category": "Military"
     },
     {
       "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+      "title": "New aerial video reveals huge scale of oil spill off Oman",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
-      "published_date": "2026-08-13T18:28:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Houthis issued a threat to attack Somalia.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/the-houthis-issued-a-threat-to-attack-somalia/",
-      "published_date": "2026-08-13T17:32:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DR Congo Ebola outbreak spreads to a sixth province",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
-      "published_date": "2026-08-13T17:18:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Reports of US sailors in Middle East trying to jump ship spark outcry",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
-      "published_date": "2026-08-13T16:44:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-      "published_date": "2026-08-13T16:40:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eurovision to bar countries at war from hosting: What that means",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss",
-      "published_date": "2026-08-13T10:41:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Life and loss as a first responder in southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-08-13T09:51:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
-      "published_date": "2026-08-13T09:30:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Palestine activists smear red paint on Danish defence company",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss",
-      "published_date": "2026-08-13T09:18:11+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
+      "published_date": "2026-08-14T19:36:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
@@ -487,11 +494,74 @@
       "category": "Economy"
     },
     {
-      "title": "US labour market sheds jobs in July as labour force participation slumps",
+      "title": "Somali President Hassan Sheikh Arrives in Dhusamareb",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-hassan-sheikh-arrives-in-dhusamareb/",
+      "published_date": "2026-08-14T20:24:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Xasan Sheekh oo gaaray Dhuusamareeb",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweyne-xasan-sheekh-oo-gaaray-dhuusamareeb/",
+      "published_date": "2026-08-14T20:23:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gen. Jimcaale oo aqbalay in uu dib ugu soo noqdo ciidamada Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/14/gen-jimcaale-oo-aqbalay-in-uu-dib-ugu-soo-noqdo-ciidamada-puntland/",
+      "published_date": "2026-08-14T19:59:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
-      "published_date": "2026-08-07T16:25:35+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
+      "published_date": "2026-08-14T19:02:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
+      "published_date": "2026-08-14T16:46:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
+      "published_date": "2026-08-14T16:35:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Top French court upholds assisted dying law, rejects teen social media ban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss",
+      "published_date": "2026-08-14T15:52:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss",
+      "published_date": "2026-08-14T15:43:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia suspends vote counting in election citing violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss",
+      "published_date": "2026-08-14T15:40:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo sheegtay in ay soo gabagabaysay xiisaddii Kuur-ilaalo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/14/puntland-oo-sheegtay-in-ay-soo-gabagabaysay-xiisaddii-kuur-ilaalo/",
+      "published_date": "2026-08-14T15:03:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
@@ -561,76 +631,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/mogadishu-residents-protest-home-demolitions-allege-forced-evictions/",
       "published_date": "2026-08-13T15:22:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxay wada hadleen Puntland iyo Qaramada Midoobay?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/13/maxay-wada-hadleen-puntland-iyo-qaramada-midoobay/",
-      "published_date": "2026-08-13T14:02:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/13/fulham-march-off-in-malaga-in-friendly-repeat-of-senegal-afcon-protest?traffic_source=rss",
-      "published_date": "2026-08-13T11:16:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Part of children’s hospital collapses in Colombia earthquake",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss",
-      "published_date": "2026-08-13T08:23:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
-      "published_date": "2026-08-13T07:01:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Syria deliver transitional justice?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
-      "published_date": "2026-08-12T20:53:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
-      "published_date": "2026-08-12T20:15:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Cabdullaahi Yuusuf Wuu Taageersanaa In Dowladda Federaalku Ciidammo Ka Qorato Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/12/madaxweyne-cabdullaahi-yuusuf-wuu-taageersanaa-in-dowladda-federaalku-ciidammo-ka-qorato-puntland/",
-      "published_date": "2026-08-12T14:51:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 100 passengers rescued after Indonesia ferry fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss",
-      "published_date": "2026-08-12T09:26:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia’s president rallies for second term ahead of election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
-      "published_date": "2026-08-12T09:16:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wisconsin race tight: Key takeaways from US primary election results",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results?traffic_source=rss",
-      "published_date": "2026-08-12T08:45:00+00:00",
       "category": "Local Events"
     }
   ]
