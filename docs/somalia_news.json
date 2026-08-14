@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-13T23:36:58.573967+00:00",
-  "story_count": 87,
+  "last_updated": "2026-08-14T11:49:34.775289+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Museveni says Uganda’s Somalia mission was solidarity with Ethiopia, not Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/museveni-uganda-somalia-mission-solidarity-ethiopia-not-somalia/",
+      "published_date": "2026-08-14T11:05:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia rights commission chief meets new UNDP representative",
       "source": "Shabelle Media",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia, UN and UNICEF discuss protecting children from armed conflict",
+      "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
+      "published_date": "2026-08-14T11:06:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+      "published_date": "2026-08-14T10:52:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Seven killed in tunnel accident at Indian hydropower project",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+      "published_date": "2026-08-14T10:28:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland oo heegan galisay ciidamadeeda kana digtay safarka Madaxweyne Xasan Sheekh ee Gaalkacyo",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-un-and-unicef-discuss-protecting-children-from-armed-conflict/",
-      "published_date": "2026-08-10T08:13:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/puntland-oo-heegan-galisay-ciidamadeeda-kana-digtay-safarka-madaxweyne-xasan-sheekh-ee-gaalkacyo/",
+      "published_date": "2026-08-14T06:29:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss",
+      "published_date": "2026-08-14T06:22:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea fumes over upcoming US-South Korea military drills",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+      "published_date": "2026-08-14T05:40:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "US defence secretary says drug cartels will be ‘targeted like ISIS’",
+      "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss",
-      "published_date": "2026-08-13T07:58:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
+      "published_date": "2026-08-14T09:28:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Puntland: Siyaasiyiin iyo aqoonyahano soo saaray baaq",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/13/puntland-siyaasiyiin-iyo-aqoonyahano-soo-saaray-baaq/",
-      "published_date": "2026-08-13T06:21:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "title": "South Korea players want K League season change due to ‘worsening climate’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
-      "published_date": "2026-08-12T21:53:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
-      "published_date": "2026-08-12T21:52:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air strike kills one in northern Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
-      "published_date": "2026-08-12T20:58:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly India landslide kills at least seven in Mumbai",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
-      "published_date": "2026-08-12T20:58:24+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/sports/2026/8/14/south-korea-players-want-k-league-season-change-due-to-worsening-climate?traffic_source=rss",
+      "published_date": "2026-08-14T08:35:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers",
@@ -373,6 +387,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
       "published_date": "2026-08-08T02:54:02+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Somalia, UK discuss disaster preparedness and climate risks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-uk-discuss-disaster-preparedness-and-climate-risks/",
+      "published_date": "2026-08-14T07:29:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "What’s at stake in Zambia’s elections?",
@@ -473,6 +494,48 @@
       "category": "Economy"
     },
     {
+      "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
+      "published_date": "2026-08-14T11:18:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK far-right leader Farage re-elected in boycotted by-election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
+      "published_date": "2026-08-14T09:24:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland puts forces on alert over reported Hassan Sheikh visit to Galkayo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-puts-forces-on-alert-over-reported-hassan-sheikh-visit-to-galkayo/",
+      "published_date": "2026-08-14T07:36:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
+      "published_date": "2026-08-14T07:07:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taliyaha Ciidanka Dhulka Xoogga Dalka Soomaaliya oo gaaray Dhuusamareeb",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-xoogga-dalka-soomaaliya-oo-gaaray-dhuusamareeb/",
+      "published_date": "2026-08-14T05:47:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka digtay safar Xasan Sheekh ku imanayo Galmudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/14/puntland-oo-ka-digtay-safar-xasan-sheekh-ku-imanayo-galmudug/",
+      "published_date": "2026-08-14T01:51:27+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Somaliland Emerges as Potential U.S. Partner in Red Sea Security",
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somaliland-emerges-as-potential-u-s-partner-in-red-sea-security/",
@@ -568,48 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results?traffic_source=rss",
       "published_date": "2026-08-12T08:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clacton by-election: Farage may win the town, but can he win the country?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
-      "published_date": "2026-08-12T08:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo safar ku tagay degmada Galdogob",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/12/madaxweyne-deni-oo-safar-ku-tagay-degmada-galdogob/",
-      "published_date": "2026-08-12T08:08:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli government accused of complicity as settlers demolish Jericho homes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-government-accused-of-complicity-as-settlers-demolish-jericho-homes?traffic_source=rss",
-      "published_date": "2026-08-12T07:28:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paramount CEO may remove operations from California over stalled merger",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss",
-      "published_date": "2026-08-11T18:34:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Justice at last’: Syrians react to Assad death sentence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
-      "published_date": "2026-08-11T18:32:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil’s Supreme Court to weigh cases that could weaken Amazon protections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss",
-      "published_date": "2026-08-11T18:00:01+00:00",
       "category": "Local Events"
     }
   ]
