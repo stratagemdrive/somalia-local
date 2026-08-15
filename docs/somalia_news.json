@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-15T11:25:35.391058+00:00",
-  "story_count": 90,
+  "last_updated": "2026-08-15T23:16:12.835724+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "published_date": "2026-08-15T20:55:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+      "published_date": "2026-08-15T20:09:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
       "source": "Al Jazeera",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia PM rebukes international partners over political pressure",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pm-hamza-abdi-barre-rebukes-international-partners/",
-      "published_date": "2026-08-11T16:13:39+00:00",
-      "category": "Diplomacy"
+      "title": "Moroccan police intercept migrants heading for Ceuta enclave",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+      "published_date": "2026-08-15T20:07:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopian Ambassador Accuses Eritrea of Violating Ethiopia’s Sovereignty",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ethiopian-ambassador-accuses-eritrea-of-violating-ethiopias-sovereignty/",
-      "published_date": "2026-08-11T07:20:29+00:00",
-      "category": "Diplomacy"
+      "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+      "published_date": "2026-08-15T19:46:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+      "published_date": "2026-08-15T19:10:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+      "published_date": "2026-08-15T17:49:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "published_date": "2026-08-15T16:39:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One killed, dozens injured after wildfire hits Croatian coast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+      "published_date": "2026-08-15T16:33:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The next Yemen war might be different",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+      "published_date": "2026-08-15T14:32:07+00:00",
+      "category": "Military"
     },
     {
       "title": "At scene of deadly Israeli strike on Lebanon home",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
-      "published_date": "2026-08-14T21:45:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former Cambridge professor accused of plagiarism found dead",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
-      "published_date": "2026-08-14T20:46:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-08-14T18:55:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-      "published_date": "2026-08-14T18:43:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italian police recover stolen paintings worth over $10m",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss",
-      "published_date": "2026-08-14T18:37:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Philippines drug war victims seek justice through truth commission",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss",
-      "published_date": "2026-08-14T16:08:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
-      "published_date": "2026-08-14T11:06:59+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+      "published_date": "2026-08-15T18:11:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "New aerial video reveals huge scale of oil spill off Oman",
@@ -480,18 +487,25 @@
       "category": "Economy"
     },
     {
-      "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+      "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
-      "published_date": "2026-08-08T18:57:53+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+      "published_date": "2026-08-15T15:50:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+      "title": "Boosaaso: Waddo 20 sano u xirtay PSF oo dib loo furay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/15/boosaaso-waddo-20-sano-u-xirtay-psf-oo-dib-loo-furay/",
+      "published_date": "2026-08-15T14:11:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Black professor at centre of Cambridge plagiarism row found dead",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
-      "published_date": "2026-08-08T17:05:17+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
+      "published_date": "2026-08-15T13:11:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somali President’s Galmudug Visit Focuses on Security and Development",
@@ -610,27 +624,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/puntland-puts-forces-on-alert-over-reported-hassan-sheikh-visit-to-galkayo/",
       "published_date": "2026-08-14T07:36:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
-      "published_date": "2026-08-14T07:07:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliyaha Ciidanka Dhulka Xoogga Dalka Soomaaliya oo gaaray Dhuusamareeb",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-xoogga-dalka-soomaaliya-oo-gaaray-dhuusamareeb/",
-      "published_date": "2026-08-14T05:47:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka digtay safar Xasan Sheekh ku imanayo Galmudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/14/puntland-oo-ka-digtay-safar-xasan-sheekh-ku-imanayo-galmudug/",
-      "published_date": "2026-08-14T01:51:27+00:00",
       "category": "Local Events"
     }
   ]
