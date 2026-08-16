@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-15T23:16:12.835724+00:00",
-  "story_count": 89,
+  "last_updated": "2026-08-16T11:25:03.116554+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Former Somali prime minister accuses government of worsening economic and social conditions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-prime-minister-accuses-government-of-worsening-economic-and-social-conditions/",
+      "published_date": "2026-08-16T09:29:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar denies it is detaining three Iranian bomber pilots",
       "source": "Al Jazeera",
@@ -137,11 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
+      "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
-      "published_date": "2026-08-11T18:18:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+      "published_date": "2026-08-16T11:14:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "published_date": "2026-08-16T10:59:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NISA says three Al-Shabaab commanders killed in Hiiraan operation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nisa-says-three-al-shabaab-commanders-killed-in-hiiraan-operation/",
+      "published_date": "2026-08-16T09:26:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 12 people killed in Hungary bus crash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+      "published_date": "2026-08-16T08:50:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
+      "published_date": "2026-08-16T08:11:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+      "published_date": "2026-08-16T04:54:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
+      "published_date": "2026-08-16T04:35:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni government forces hit back after new Houthi offensive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
+      "published_date": "2026-08-16T04:09:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Moroccan police intercept migrants heading for Ceuta enclave",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "South Korea’s president wants talks with North to end Korean War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
-      "published_date": "2026-08-15T06:53:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Gen. Jimale Takar rejoins Puntland forces in major blow to Mogadishu",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-gen-jimale-takar-rejoins-puntland-forces/",
-      "published_date": "2026-08-15T05:33:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NISA oo sheegtay inay howlgal qorsheysan ku dishay sagaal xubnood oo ka tirsanaa Al-Shabaab",
+      "title": "Somalia disaster agency urges diaspora support ahead of expected El Niño floods",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nisa-oo-sheegtay-inay-howlgal-qorsheysan-ku-dishay-sagaal-xubnood-oo-al-shabaab-ah/",
-      "published_date": "2026-08-15T04:57:44+00:00",
-      "category": "Military"
+      "url": "https://shabellemedia.com/somalia-disaster-agency-urges-diaspora-support-ahead-of-expected-el-nino-floods/",
+      "published_date": "2026-08-16T09:31:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+      "title": "New satellite images show Europe’s disappearing rivers due to drought",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
-      "published_date": "2026-08-15T04:54:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India marks 80th Independence Day with military display",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
-      "published_date": "2026-08-15T03:39:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
-      "published_date": "2026-08-14T22:58:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
-      "published_date": "2026-08-14T22:45:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
-      "published_date": "2026-08-14T21:50:46+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
+      "published_date": "2026-08-16T07:46:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
@@ -480,11 +494,88 @@
       "category": "Economy"
     },
     {
-      "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+      "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
-      "published_date": "2026-08-09T10:55:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
+      "published_date": "2026-08-16T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN humanitarian coordinator visits Las Anod amid worsening needs in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-humanitarian-coordinator-visits-las-anod-amid-worsening-needs-in-somalia/",
+      "published_date": "2026-08-16T10:44:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Xasan Sheekh oo tababar u soo xiray cutubyo ka tirsan Ciidanka Xoogga Dalka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweyne-xasan-sheekh-oo-tababar-u-soo-xiray-cutubyo-ka-tirsan-ciidanka-xoogga-dalka/",
+      "published_date": "2026-08-16T10:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo soo saartay amar la xiriira qoyska",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/16/puntland-oo-soo-saartay-amar-la-xiriira-qoyska/",
+      "published_date": "2026-08-16T09:37:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali ministry expresses sorrow over mother’s death at Hargeisa hospital",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-ministry-expresses-sorrow-over-mothers-death-at-hargeisa-hospital/",
+      "published_date": "2026-08-16T09:27:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s president inaugurates first phase of Dhusamareb road project",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-inaugurates-first-phase-of-dhusamareb-road-project/",
+      "published_date": "2026-08-16T09:25:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Live video captures panic as gunman opens fire at park in Kentucky",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
+      "published_date": "2026-08-16T09:24:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalis burn Turkish flag as resentment grows over Ankara airstrikes",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalis-burn-turkish-flag-ankara-airstrikes-resentment/",
+      "published_date": "2026-08-16T08:25:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Xasan Sheekh oo tababar ugu soo xiray ciidan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/16/madaxweyne-xasan-sheekh-oo-tababar-ugu-soo-xiray-ciidan/",
+      "published_date": "2026-08-16T07:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
+      "published_date": "2026-08-16T05:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka hadashay howlgal laga fuliyay Qardho",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/16/puntland-oo-ka-hadashay-howlgal-laga-fuliyay-qardho/",
+      "published_date": "2026-08-16T00:44:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo Gaalkacyo kulan kula qaatay saraakiil ciidan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/16/madaxweyne-deni-oo-gaalkacyo-kulan-kula-qaatay-saraakiil-ciidan/",
+      "published_date": "2026-08-15T23:49:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
@@ -540,90 +631,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-president-hassan-sheikh-arrives-in-dhusamareb/",
       "published_date": "2026-08-14T20:24:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Xasan Sheekh oo gaaray Dhuusamareeb",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweyne-xasan-sheekh-oo-gaaray-dhuusamareeb/",
-      "published_date": "2026-08-14T20:23:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gen. Jimcaale oo aqbalay in uu dib ugu soo noqdo ciidamada Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/14/gen-jimcaale-oo-aqbalay-in-uu-dib-ugu-soo-noqdo-ciidamada-puntland/",
-      "published_date": "2026-08-14T19:59:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
-      "published_date": "2026-08-14T19:02:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
-      "published_date": "2026-08-14T16:46:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
-      "published_date": "2026-08-14T16:35:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Top French court upholds assisted dying law, rejects teen social media ban",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss",
-      "published_date": "2026-08-14T15:52:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss",
-      "published_date": "2026-08-14T15:43:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia suspends vote counting in election citing violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss",
-      "published_date": "2026-08-14T15:40:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo sheegtay in ay soo gabagabaysay xiisaddii Kuur-ilaalo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/14/puntland-oo-sheegtay-in-ay-soo-gabagabaysay-xiisaddii-kuur-ilaalo/",
-      "published_date": "2026-08-14T15:03:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
-      "published_date": "2026-08-14T11:18:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK far-right leader Farage re-elected in boycotted by-election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
-      "published_date": "2026-08-14T09:24:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland puts forces on alert over reported Hassan Sheikh visit to Galkayo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-puts-forces-on-alert-over-reported-hassan-sheikh-visit-to-galkayo/",
-      "published_date": "2026-08-14T07:36:40+00:00",
       "category": "Local Events"
     }
   ]
