@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-16T11:25:03.116554+00:00",
-  "story_count": 90,
+  "last_updated": "2026-08-16T23:15:26.840575+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+      "published_date": "2026-08-16T19:23:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland Accuses Somalia, Djibouti and Turkey of Interference in the Awdal Conflict",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-accuses-somalia-djibouti-and-turkey-of-interference-in-the-awdal-conflict/",
+      "published_date": "2026-08-16T17:29:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former Somali prime minister accuses government of worsening economic and social conditions",
       "source": "Shabelle Media",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US military fires on cargo vessel it said sought to break Iran blockade",
+      "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
-      "published_date": "2026-08-11T19:58:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
+      "published_date": "2026-08-16T20:36:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Venezuela and Israel restore consular ties as relations warm",
+      "title": "Somalia’s army graduates 3,000 troops in largest class since 1991 collapse",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-army-graduates-3000-troops-largest-class-since-1991/",
+      "published_date": "2026-08-16T18:44:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army besieges Palestinian homes in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
-      "published_date": "2026-08-11T18:58:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-16T17:45:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+      "published_date": "2026-08-16T15:35:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Puntland Police Arrest Four Suspects in Bosaso Drug and Alcohol Operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-police-arrest-four-suspects-in-bosaso-drug-and-alcohol-operation/",
-      "published_date": "2026-08-15T09:42:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NISA Says Nine Al-Shabab Militants Killed in Operation Near Jowhar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nisa-says-nine-al-shabab-militants-killed-in-operation-near-jowhar/",
-      "published_date": "2026-08-15T09:33:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taliska Booliska Boosaaso oo gacanta ku dhigay maandooriye iyo dad lagu tuhunsan yahay ka ganacsigiisa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliska-booliska-boosaaso-oo-gacanta-ku-dhigay-maandooriye-iyo-dad-lagu-tuhunsan-yahay-ka-ganacsigiisa/",
-      "published_date": "2026-08-15T09:03:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+      "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-      "published_date": "2026-08-15T07:18:13+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+      "published_date": "2026-08-16T19:18:24+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+      "published_date": "2026-08-16T14:55:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Somalia disaster agency urges diaspora support ahead of expected El Niño floods",
@@ -396,11 +410,18 @@
       "category": "Energy"
     },
     {
-      "title": "Turkey expands overseas energy drive with Somalia emerging as key focus",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/turkey-expands-overseas-energy-drive-with-somalia-emerging-as-key-focus/",
-      "published_date": "2026-08-09T15:46:18+00:00",
-      "category": "Energy"
+      "title": "Anwar Ibrahim: Malaysia between the superpowers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+      "published_date": "2026-08-16T21:23:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
+      "published_date": "2026-08-16T17:18:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
@@ -487,11 +508,32 @@
       "category": "Economy"
     },
     {
-      "title": "Gaza’s children still struggling with hunger as another famine threatens",
+      "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
-      "published_date": "2026-08-09T14:47:29+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+      "published_date": "2026-08-16T20:02:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tensions Rise in Galkayo as Somali President’s Visit Triggers Security Dispute",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/tensions-rise-in-galkayo-as-somalias-visit-triggers-security-dispute/",
+      "published_date": "2026-08-16T17:49:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsenal cruise to win over Manchester City in Community Shield",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+      "published_date": "2026-08-16T16:17:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taliye Muumin oo magacaabis sameeyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/16/taliye-muumin-oo-magacaabis-sameeyay-4/",
+      "published_date": "2026-08-16T12:21:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
@@ -557,6 +599,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Madaxweyne Xasan Sheekh oo tababar u soo xiray ciidan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/16/madaxweyne-xasan-sheekh-oo-tababar-u-soo-xiray-ciidan/",
+      "published_date": "2026-08-16T07:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
@@ -596,41 +645,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
       "published_date": "2026-08-15T13:11:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali President’s Galmudug Visit Focuses on Security and Development",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-presidents-galmudug-visit-focuses-on-security-and-development/",
-      "published_date": "2026-08-15T09:39:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
-      "published_date": "2026-08-15T05:14:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Xasan Sheekh oo sheegay inuu dhisay maamul-goboleedyada Koonfurta iyo Bartamaha Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweyne-xasan-sheekh-oo-sheegay-inuu-dhisay-maamul-goboleedyada-koonfurta-iyo-bartamaha-soomaaliya/",
-      "published_date": "2026-08-15T04:52:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know about the crisis aboard the USS Lincoln",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
-      "published_date": "2026-08-15T04:21:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali President Hassan Sheikh Arrives in Dhusamareb",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-hassan-sheikh-arrives-in-dhusamareb/",
-      "published_date": "2026-08-14T20:24:47+00:00",
       "category": "Local Events"
     }
   ]
