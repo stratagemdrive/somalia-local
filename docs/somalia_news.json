@@ -1,7 +1,7 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-16T23:15:26.840575+00:00",
-  "story_count": 92,
+  "last_updated": "2026-08-17T11:31:11.574598+00:00",
+  "story_count": 94,
   "stories": [
     {
       "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
@@ -144,6 +144,48 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Is the world experiencing more earthquakes now than before?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
+      "published_date": "2026-08-17T11:09:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+      "published_date": "2026-08-17T10:54:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+      "published_date": "2026-08-17T08:00:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taliska Baydhaba ee Ciidanka Dowladda oo Sheegay inay Fashiliyeen Weerar lagu soo qaaday Magaaladaasi",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/taliska-bydhaba-ee-ciidanka-dowladda-oo-sheegay-inay-fashiliyeen-weerar-lagu-soo-qaaday-magaaladaasi/",
+      "published_date": "2026-08-17T07:56:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
+      "published_date": "2026-08-17T05:16:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zambia incumbent takes early election lead as opposition alleges armed raid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss",
+      "published_date": "2026-08-17T02:27:39+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
+      "title": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-      "published_date": "2026-08-15T19:10:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-      "published_date": "2026-08-15T17:49:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
-      "published_date": "2026-08-15T16:39:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed, dozens injured after wildfire hits Croatian coast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
-      "published_date": "2026-08-15T16:33:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The next Yemen war might be different",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-      "published_date": "2026-08-15T14:32:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At scene of deadly Israeli strike on Lebanon home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
-      "published_date": "2026-08-15T10:18:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
+      "published_date": "2026-08-17T09:01:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
@@ -396,18 +403,25 @@
       "category": "Energy"
     },
     {
-      "title": "June and July hottest on record in Western Europe, monitor says",
+      "title": "Thousands await aid after deadly Indonesia quake as rescue work under way",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
-      "published_date": "2026-08-10T10:21:08+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
+      "published_date": "2026-08-17T10:14:28+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
+      "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
-      "published_date": "2026-08-10T07:10:32+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
+      "published_date": "2026-08-17T08:18:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Japan’s economy slows, missing growth forecasts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
+      "published_date": "2026-08-17T06:14:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Anwar Ibrahim: Malaysia between the superpowers",
@@ -508,6 +522,62 @@
       "category": "Economy"
     },
     {
+      "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
+      "published_date": "2026-08-17T10:51:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hormuud Salaam Foundation equips Somali National University with new ICT lab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hormuud-salaam-foundation-equips-somali-national-university-with-new-ict-lab/",
+      "published_date": "2026-08-17T09:38:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly clashes rock Baidoa as Somalia army battles forces loyal to ousted Southwest leader",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-clashes-army-laftagaren-forces/",
+      "published_date": "2026-08-17T09:27:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland oo ka soo horjeedda booqashada Qaramada Midoobay ay ku tagtay Laascaanood",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-oo-ka-soo-horjeedda-booqashada-qaramada-midoobay-ay-ku-tagtay-laascaanood/",
+      "published_date": "2026-08-17T07:46:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Military Denies Laftagareen Forces Have Captured Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-military-denies-laftagareen-forces-have-captured-baidoa/",
+      "published_date": "2026-08-17T06:45:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laftagareen Forces Claim Control of Baidoa After Heavy Fighting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/laftagareen-forces-claim-control-of-baidoa-after-heavy-fighting/",
+      "published_date": "2026-08-17T06:42:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least seven dead in ‘stampede-like’ incident at India temple",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
+      "published_date": "2026-08-17T05:32:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muxuu yahay hadalka ka soo yeeray duqa Gaalkacyo ee hadal haynta dhaliyay?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/17/muxuu-yahay-hadalka-ka-soo-yeeray-duqa-gaalkacyo-ee-hadal-haynta-dhaliyay/",
+      "published_date": "2026-08-17T00:25:12+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
@@ -589,62 +659,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalis-burn-turkish-flag-ankara-airstrikes-resentment/",
       "published_date": "2026-08-16T08:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Xasan Sheekh oo tababar ugu soo xiray ciidan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/16/madaxweyne-xasan-sheekh-oo-tababar-ugu-soo-xiray-ciidan/",
-      "published_date": "2026-08-16T07:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Xasan Sheekh oo tababar u soo xiray ciidan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/16/madaxweyne-xasan-sheekh-oo-tababar-u-soo-xiray-ciidan/",
-      "published_date": "2026-08-16T07:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
-      "published_date": "2026-08-16T05:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka hadashay howlgal laga fuliyay Qardho",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/16/puntland-oo-ka-hadashay-howlgal-laga-fuliyay-qardho/",
-      "published_date": "2026-08-16T00:44:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo Gaalkacyo kulan kula qaatay saraakiil ciidan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/16/madaxweyne-deni-oo-gaalkacyo-kulan-kula-qaatay-saraakiil-ciidan/",
-      "published_date": "2026-08-15T23:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-      "published_date": "2026-08-15T15:50:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boosaaso: Waddo 20 sano u xirtay PSF oo dib loo furay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/15/boosaaso-waddo-20-sano-u-xirtay-psf-oo-dib-loo-furay/",
-      "published_date": "2026-08-15T14:11:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Black professor at centre of Cambridge plagiarism row found dead",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
-      "published_date": "2026-08-15T13:11:31+00:00",
       "category": "Local Events"
     }
   ]
