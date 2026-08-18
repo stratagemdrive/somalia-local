@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-17T23:18:48.235426+00:00",
-  "story_count": 96,
+  "last_updated": "2026-08-18T11:30:06.583651+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Puntland Raises Security Concerns as Somalia’s Outgoing Federal President Visits Divided Galkayo",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-raises-security-concerns-as-president-hassan-sheikh-visits-divided-galkayo/",
+      "published_date": "2026-08-17T23:30:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somaliland Demands Formal Coordination Over UN Visit to Las Anod",
       "source": "Somali Dispatch",
@@ -137,11 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia courts foreign investors for affordable housing projects",
+      "title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
+      "published_date": "2026-08-18T10:45:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eight air strikes hit airbase in Syria’s Idlib",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+      "published_date": "2026-08-18T10:11:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian man dies in custody after alleged abuse by security officers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss",
+      "published_date": "2026-08-18T10:07:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian court sentences Wassim al-Assad to death for war crimes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
+      "published_date": "2026-08-18T08:23:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What to watch in Tuesday’s Florida primary elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
+      "published_date": "2026-08-18T08:08:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
+      "published_date": "2026-08-18T08:05:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali National Arrested Near India-Nepal Border In Bihar",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-courts-foreign-investors-for-affordable-housing-projects/",
-      "published_date": "2026-08-13T06:39:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-national-arrested-near-india-nepal-border-in-bihar/",
+      "published_date": "2026-08-18T07:50:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lafta-Gareen oo si kulul uga hadlay dagaalkii ka dhacay magaaladda Baydhabo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/lafta-gareen-oo-si-kulul-uga-hadlay-dagaalkii-ka-dhacay-magaaladda-baydhabo/",
+      "published_date": "2026-08-18T07:43:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
+      "published_date": "2026-08-18T07:43:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli settler children attack ambulance in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-18T07:20:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
+      "published_date": "2026-08-18T06:47:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump’s approval rating sinks to new low at 33 percent",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
+      "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
-      "published_date": "2026-08-17T16:14:07+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
+      "published_date": "2026-08-18T10:08:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Is the world experiencing more earthquakes now than before?",
+      "title": "Drone video shows drought-hit fields in England after driest July on record",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
-      "published_date": "2026-08-17T11:09:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
-      "published_date": "2026-08-17T10:54:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
-      "published_date": "2026-08-17T08:00:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taliska Baydhaba ee Ciidanka Dowladda oo Sheegay inay Fashiliyeen Weerar lagu soo qaaday Magaaladaasi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliska-bydhaba-ee-ciidanka-dowladda-oo-sheegay-inay-fashiliyeen-weerar-lagu-soo-qaaday-magaaladaasi/",
-      "published_date": "2026-08-17T07:56:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
-      "published_date": "2026-08-17T05:16:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zambia incumbent takes early election lead as opposition alleges armed raid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss",
-      "published_date": "2026-08-17T02:27:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
-      "published_date": "2026-08-16T20:36:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s army graduates 3,000 troops in largest class since 1991 collapse",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-army-graduates-3000-troops-largest-class-since-1991/",
-      "published_date": "2026-08-16T18:44:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-08-16T17:45:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-      "published_date": "2026-08-16T15:35:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss",
+      "published_date": "2026-08-18T09:29:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
@@ -396,11 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "Africa Gets First Continental Guide on Just Transition Reporting",
+      "title": "Somalia: Pirates seize commercial cargo ship",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/africa-gets-first-continental-guide-on-just-transition-reporting/",
-      "published_date": "2026-08-11T10:39:59+00:00",
-      "category": "Energy"
+      "url": "https://shabellemedia.com/somalia-pirates-seize-commercial-cargo-ship/",
+      "published_date": "2026-08-18T07:52:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
@@ -529,11 +543,18 @@
       "category": "Economy"
     },
     {
-      "title": "The Global South’s digital future must not belong to Bezos and Musk",
+      "title": "Videos show deadly school shooting in Philippines",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
-      "published_date": "2026-08-11T09:52:01+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
+      "published_date": "2026-08-18T09:31:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
+      "published_date": "2026-08-18T09:15:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
@@ -659,20 +680,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/tensions-rise-in-galkayo-as-somalias-visit-triggers-security-dispute/",
       "published_date": "2026-08-16T17:49:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arsenal cruise to win over Manchester City in Community Shield",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "published_date": "2026-08-16T16:17:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliye Muumin oo magacaabis sameeyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/16/taliye-muumin-oo-magacaabis-sameeyay-4/",
-      "published_date": "2026-08-16T12:21:01+00:00",
       "category": "Local Events"
     }
   ]
