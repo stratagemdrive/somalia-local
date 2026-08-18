@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-18T11:30:06.583651+00:00",
-  "story_count": 97,
+  "last_updated": "2026-08-18T23:17:53.191180+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Syria opens Assad-era nuclear programme to UN probe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
+      "published_date": "2026-08-18T21:25:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US sanctions International Criminal Court president and trial lawyer",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
+      "published_date": "2026-08-18T20:09:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Puntland Raises Security Concerns as Somalia’s Outgoing Federal President Visits Divided Galkayo",
       "source": "Somali Dispatch",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey will arrest and exile Somalia’s opposition leaders if defiance continues, warns veteran diplomat",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-arrest-exile-opposition-leaders-duale-warning/",
-      "published_date": "2026-08-13T08:12:12+00:00",
-      "category": "Diplomacy"
+      "title": "Bolivia arrests political adviser to Latin American right-wingers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
+      "published_date": "2026-08-18T21:50:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
+      "title": "Why is the US ramping up Tomahawk production?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
-      "published_date": "2026-08-13T07:11:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+      "published_date": "2026-08-18T21:26:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike reported to kill at least six in Gaza City",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
+      "published_date": "2026-08-18T21:03:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
+      "published_date": "2026-08-18T20:45:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian missile strike kills 10 civilians in Kharkiv",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
+      "published_date": "2026-08-18T20:26:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia: Drone strike kills four pirates day after ship hijacking",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pirates-drone-strike-mv-lutuf-hijacking/",
+      "published_date": "2026-08-18T18:54:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike on Gaza City cafe kills six, including child",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
+      "published_date": "2026-08-18T18:32:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police attack Indonesian student protesters, arresting at least 21",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
+      "published_date": "2026-08-18T18:17:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Defence Minister Visits Danab Command in Galkayo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-defence-minister-visits-danab-command-in-galkayo/",
+      "published_date": "2026-08-18T11:45:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
@@ -218,69 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
       "published_date": "2026-08-18T06:47:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s approval rating sinks to new low at 33 percent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
-      "published_date": "2026-08-17T20:41:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Photos: Indonesia earthquake rescue efforts continue as death toll hits 68",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
-      "published_date": "2026-08-17T19:22:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
-      "published_date": "2026-08-17T18:53:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
-      "published_date": "2026-08-17T17:42:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-      "published_date": "2026-08-17T17:37:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosion reported at school in Afghan capital Kabul",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-      "published_date": "2026-08-17T17:30:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Britain deploys military as wildfires spread across Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
-      "published_date": "2026-08-17T17:25:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: Phase II, Day 37",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
-      "published_date": "2026-08-17T16:27:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army clashes with rebel forces for control of key city Baidoa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
-      "published_date": "2026-08-17T16:24:43+00:00",
       "category": "Military"
     },
     {
@@ -396,18 +396,39 @@
       "category": "Energy"
     },
     {
-      "title": "Tightened blockade on Gaza causes prices to soar",
+      "title": "Trump administration moves to end rule protecting swaths of forest land",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
-      "published_date": "2026-08-11T18:45:26+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+      "published_date": "2026-08-18T21:26:47+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Tourists rush to Iceland to witness rare total solar eclipse",
+      "title": "WHO: Ebola can be contained in months if enough funding is provided",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tourists-rush-to-iceland-to-witness-rare-total-solar-eclipse?traffic_source=rss",
-      "published_date": "2026-08-11T18:22:14+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
+      "published_date": "2026-08-18T20:53:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump and Carney speak ahead of US tariff deadline",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
+      "published_date": "2026-08-18T20:19:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somali President Visits Technical School in Galkayo, Hails Youth Skills Development",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-visits-technical-school-in-galkayo-hails-youth-skills-development/",
+      "published_date": "2026-08-18T11:40:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FESTU, AfCFTA Secretary-General Discuss Workers’ Role in Africa’s Integration",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/festu-afcfta-secretary-general-discuss-workers-role-in-africas-integration/",
+      "published_date": "2026-08-18T11:13:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia: Pirates seize commercial cargo ship",
@@ -515,32 +536,32 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia launches review of national regional integration strategy",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-launches-review-of-national-regional-integration-strategy/",
-      "published_date": "2026-08-12T09:45:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Why have several nations raised red flags over Indian farm exports?",
+      "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
-      "published_date": "2026-08-12T05:34:14+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+      "published_date": "2026-08-18T22:55:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
+      "title": "Nigeria hospital collapses after rain washed away its foundations",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
-      "published_date": "2026-08-11T20:29:34+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
+      "published_date": "2026-08-18T17:55:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia launches national forum to boost agricultural investment and food security",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-launches-national-forum-to-boost-agricultural-investment-and-food-security/",
-      "published_date": "2026-08-11T14:53:28+00:00",
-      "category": "Economy"
+      "title": "Somali Piracy Resurges as Pirates Seize Another Cargo Ship Off the Southern Coast",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-piracy-resurges-as-pirates-seize-another-cargo-ship-off-the-southern-coast/",
+      "published_date": "2026-08-18T15:33:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Defying Puntland warning, Somalia’s president visits Galkayo",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-defies-puntland-warning-visits-galkayo/",
+      "published_date": "2026-08-18T12:57:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Videos show deadly school shooting in Philippines",
@@ -652,34 +673,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/laftagareen-forces-claim-control-of-baidoa-after-heavy-fighting/",
       "published_date": "2026-08-17T06:42:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least seven dead in ‘stampede-like’ incident at India temple",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
-      "published_date": "2026-08-17T05:32:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muxuu yahay hadalka ka soo yeeray duqa Gaalkacyo ee hadal haynta dhaliyay?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/17/muxuu-yahay-hadalka-ka-soo-yeeray-duqa-gaalkacyo-ee-hadal-haynta-dhaliyay/",
-      "published_date": "2026-08-17T00:25:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-      "published_date": "2026-08-16T20:02:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tensions Rise in Galkayo as Somali President’s Visit Triggers Security Dispute",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/tensions-rise-in-galkayo-as-somalias-visit-triggers-security-dispute/",
-      "published_date": "2026-08-16T17:49:38+00:00",
       "category": "Local Events"
     }
   ]
