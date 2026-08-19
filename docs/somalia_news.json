@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-18T23:17:53.191180+00:00",
-  "story_count": 96,
+  "last_updated": "2026-08-19T11:30:31.102528+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+      "published_date": "2026-08-19T10:57:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why White House envoys cannot sway Israel’s war leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
+      "published_date": "2026-08-19T10:24:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s President Hassan Sheikh Highlights Peace and Unity During Galmudug Visit",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-hassan-sheikh-highlights-peace-and-unity-during-galmudug-visit/",
+      "published_date": "2026-08-19T07:19:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Receives Credentials of Four New Ambassadors",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-receives-credentials-of-four-new-ambassadors/",
+      "published_date": "2026-08-19T07:15:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
+      "published_date": "2026-08-19T06:16:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria opens Assad-era nuclear programme to UN probe",
       "source": "Al Jazeera",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali President Says Government Has No Hostility Towards Its People",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-says-government-has-no-hostility-towards-its-people/",
-      "published_date": "2026-08-14T11:20:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Museveni says Uganda’s Somalia mission was solidarity with Ethiopia, not Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/museveni-uganda-somalia-mission-solidarity-ethiopia-not-somalia/",
-      "published_date": "2026-08-14T11:05:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia rights commission chief meets new UNDP representative",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-rights-commission-chief-meets-new-undp-representative/",
-      "published_date": "2026-08-13T15:25:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+      "title": "At least five killed in Russian air attacks on Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
-      "published_date": "2026-08-13T11:14:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
+      "published_date": "2026-08-19T09:34:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+      "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss",
-      "published_date": "2026-08-13T09:18:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
+      "published_date": "2026-08-19T09:26:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s sacked defence minister calls for wartime elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss",
+      "published_date": "2026-08-19T08:46:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Ground Forces Commander Visits Front Lines in Hiran Region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-ground-forces-commander-visits-front-lines-in-hiran-region/",
+      "published_date": "2026-08-19T07:12:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Africa to Australia: Why coal profits are surging during Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
+      "published_date": "2026-08-19T06:27:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s ousted defence minister calls for elections during war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "published_date": "2026-08-19T05:59:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Korea, US scale back annual military drills after Trump’s order",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
+      "published_date": "2026-08-19T04:59:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+      "published_date": "2026-08-19T04:25:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Bolivia arrests political adviser to Latin American right-wingers",
@@ -225,62 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss",
       "published_date": "2026-08-18T10:07:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian court sentences Wassim al-Assad to death for war crimes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
-      "published_date": "2026-08-18T08:23:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What to watch in Tuesday’s Florida primary elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
-      "published_date": "2026-08-18T08:08:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
-      "published_date": "2026-08-18T08:05:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali National Arrested Near India-Nepal Border In Bihar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-national-arrested-near-india-nepal-border-in-bihar/",
-      "published_date": "2026-08-18T07:50:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lafta-Gareen oo si kulul uga hadlay dagaalkii ka dhacay magaaladda Baydhabo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/lafta-gareen-oo-si-kulul-uga-hadlay-dagaalkii-ka-dhacay-magaaladda-baydhabo/",
-      "published_date": "2026-08-18T07:43:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
-      "published_date": "2026-08-18T07:43:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settler children attack ambulance in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-08-18T07:20:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
-      "published_date": "2026-08-18T06:47:40+00:00",
       "category": "Military"
     },
     {
@@ -389,11 +389,18 @@
       "category": "Energy"
     },
     {
-      "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
+      "title": "Humanitarianism is not collapsing. It is being traded and compromised",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
-      "published_date": "2026-08-12T10:27:22+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss",
+      "published_date": "2026-08-19T10:59:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Aid workers faced record number of attacks in 2025, UN says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
+      "published_date": "2026-08-19T08:40:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump administration moves to end rule protecting swaths of forest land",
@@ -522,18 +529,39 @@
       "category": "Economy"
     },
     {
-      "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+      "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
-      "published_date": "2026-08-12T23:23:14+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
+      "published_date": "2026-08-19T10:53:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Thousands flee drought in Somalia amid sharp aid decline",
+      "title": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
-      "published_date": "2026-08-12T19:06:23+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
+      "published_date": "2026-08-19T09:23:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xasan Sheekh oo Galmudug ka sheegay in safarkiisu diiradda saarayay nabadda iyo midnimada",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/xasan-sheekh-oo-galmudug-ka-sheegay-in-safarkiisu-diiradda-saarayay-nabadda-iyo-midnimada/",
+      "published_date": "2026-08-19T07:19:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia ex-president blames govt for Baidoa bloodshed that left 30 dead",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-president-blames-govt-baidoa-bloodshed-30-dead/",
+      "published_date": "2026-08-19T05:18:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former US official calls shift in relations with Syria ‘surreal’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss",
+      "published_date": "2026-08-19T05:12:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
@@ -638,41 +666,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/hormuud-salaam-foundation-equips-somali-national-university-with-new-ict-lab/",
       "published_date": "2026-08-17T09:38:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly clashes rock Baidoa as Somalia army battles forces loyal to ousted Southwest leader",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-clashes-army-laftagaren-forces/",
-      "published_date": "2026-08-17T09:27:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland oo ka soo horjeedda booqashada Qaramada Midoobay ay ku tagtay Laascaanood",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-oo-ka-soo-horjeedda-booqashada-qaramada-midoobay-ay-ku-tagtay-laascaanood/",
-      "published_date": "2026-08-17T07:46:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo la wareegtay ciidanka Danab iyo xerada Ligle ee Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/17/puntland-oo-la-wareegtay-ciidanka-danab-iyo-xerada-ligle-ee-garoowe/",
-      "published_date": "2026-08-17T07:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Military Denies Laftagareen Forces Have Captured Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-military-denies-laftagareen-forces-have-captured-baidoa/",
-      "published_date": "2026-08-17T06:45:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laftagareen Forces Claim Control of Baidoa After Heavy Fighting",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/laftagareen-forces-claim-control-of-baidoa-after-heavy-fighting/",
-      "published_date": "2026-08-17T06:42:56+00:00",
       "category": "Local Events"
     }
   ]
