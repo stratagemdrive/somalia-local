@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-19T11:30:31.102528+00:00",
-  "story_count": 95,
+  "last_updated": "2026-08-19T23:19:08.258743+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "“I get along with him very well.”",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+      "published_date": "2026-08-19T21:35:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What’s behind Israel’s latest attack on Syria?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
+      "published_date": "2026-08-19T20:18:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
+      "published_date": "2026-08-19T19:53:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
+      "published_date": "2026-08-19T17:32:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+      "published_date": "2026-08-19T16:55:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indian ambassador begins diplomatic mission in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/indian-ambassador-begins-diplomatic-mission-in-somalia/",
+      "published_date": "2026-08-19T16:20:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia PM hails 15-year strategic partnership with Turkey",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-hails-15-year-strategic-partnership-with-turkey/",
+      "published_date": "2026-08-19T12:13:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
       "source": "Al Jazeera",
@@ -95,53 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+      "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
-      "published_date": "2026-08-17T16:50:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+      "published_date": "2026-08-19T21:22:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+      "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-      "published_date": "2026-08-16T19:23:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
+      "published_date": "2026-08-19T21:09:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somaliland Accuses Somalia, Djibouti and Turkey of Interference in the Awdal Conflict",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-accuses-somalia-djibouti-and-turkey-of-interference-in-the-awdal-conflict/",
-      "published_date": "2026-08-16T17:29:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former Somali prime minister accuses government of worsening economic and social conditions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-prime-minister-accuses-government-of-worsening-economic-and-social-conditions/",
-      "published_date": "2026-08-16T09:29:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-      "published_date": "2026-08-15T20:55:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
+      "published_date": "2026-08-19T21:01:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
-      "published_date": "2026-08-15T20:09:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
+      "published_date": "2026-08-19T19:09:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
+      "title": "Violence in the New Syria?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
-      "published_date": "2026-08-14T15:36:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
+      "published_date": "2026-08-19T18:50:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
+      "published_date": "2026-08-19T17:50:50+00:00",
+      "category": "Military"
     },
     {
       "title": "At least five killed in Russian air attacks on Ukraine",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli strike on Gaza City cafe kills six, including child",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-      "published_date": "2026-08-18T18:32:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police attack Indonesian student protesters, arresting at least 21",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
-      "published_date": "2026-08-18T18:17:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Defence Minister Visits Danab Command in Galkayo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-defence-minister-visits-danab-command-in-galkayo/",
-      "published_date": "2026-08-18T11:45:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
-      "published_date": "2026-08-18T10:45:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eight air strikes hit airbase in Syria’s Idlib",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
-      "published_date": "2026-08-18T10:11:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian man dies in custody after alleged abuse by security officers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss",
-      "published_date": "2026-08-18T10:07:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
@@ -368,25 +368,11 @@
       "category": "Energy"
     },
     {
-      "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+      "title": "Canada boosts Lebanon aid to $50m and condemns Israeli ‘unlawful invasion’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
-      "published_date": "2026-08-12T20:59:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Photos: Solar eclipse plunges parts of Europe into darkness",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss",
-      "published_date": "2026-08-12T20:16:10+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iceland and Spain plunged into darkness during total solar eclipse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss",
-      "published_date": "2026-08-12T19:29:15+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
+      "published_date": "2026-08-19T18:08:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Humanitarianism is not collapsing. It is being traded and compromised",
@@ -522,17 +508,73 @@
       "category": "Economy"
     },
     {
-      "title": "What’s at stake in Zambia’s elections?",
+      "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss",
-      "published_date": "2026-08-13T21:04:22+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
+      "published_date": "2026-08-19T21:10:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia opposition leader to challenge Hichilema election victory in court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
+      "published_date": "2026-08-19T18:43:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
+      "published_date": "2026-08-19T18:21:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kennedy Center agrees not to restore Trump’s name before September 8",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
+      "published_date": "2026-08-19T18:06:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
+      "published_date": "2026-08-19T17:54:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
+      "published_date": "2026-08-19T17:14:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia parliamentary speaker meets Saudi ambassador to strengthen bilateral ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-parliamentary-speaker-meets-saudi-ambassador-to-strengthen-bilateral-ties/",
+      "published_date": "2026-08-19T12:30:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Senate Speaker chairs committee meeting on oversight and accountability",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-senate-speaker-chairs-committee-meeting-on-oversight-and-accountability/",
+      "published_date": "2026-08-19T12:22:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
       "published_date": "2026-08-19T10:53:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ciidan ka tirsanaa Somaliland oo u goostay Waqooyi Bari",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/19/ciidan-ka-tirsanaa-somaliland-oo-u-goostay-waqooyi-bari/",
+      "published_date": "2026-08-19T10:34:04+00:00",
       "category": "Local Events"
     },
     {
@@ -603,69 +645,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
       "published_date": "2026-08-18T09:15:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "published_date": "2026-08-17T20:46:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Torrential rains flood homes and roads across Lima, Peru",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
-      "published_date": "2026-08-17T20:41:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
-      "published_date": "2026-08-17T18:46:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
-      "published_date": "2026-08-17T17:07:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Xasan Sheekh oo soo gaaray Koonfurta Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/17/madaxweyne-xasan-sheekh-oo-soo-gaaray-koonfurta-gaalkacyo/",
-      "published_date": "2026-08-17T14:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland criticizes UN delegation’s visit to Las Anod",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-criticizes-un-delegations-visit-to-las-anod/",
-      "published_date": "2026-08-17T12:53:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali president visits Bandiradley during Galmudug tour",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-visits-bandiradley-during-galmudug-tour/",
-      "published_date": "2026-08-17T12:50:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
-      "published_date": "2026-08-17T10:51:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hormuud Salaam Foundation equips Somali National University with new ICT lab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hormuud-salaam-foundation-equips-somali-national-university-with-new-ict-lab/",
-      "published_date": "2026-08-17T09:38:30+00:00",
       "category": "Local Events"
     }
   ]
