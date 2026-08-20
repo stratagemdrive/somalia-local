@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-19T23:19:08.258743+00:00",
+  "last_updated": "2026-08-20T11:31:58.256819+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
+      "published_date": "2026-08-20T10:16:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taliban secures pragmatic global alliances without formal recognition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
+      "published_date": "2026-08-20T10:14:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
+      "published_date": "2026-08-20T09:08:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+      "published_date": "2026-08-20T07:50:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
+      "published_date": "2026-08-20T07:11:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bangladesh holds presidential election in first contested vote in 35 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
+      "published_date": "2026-08-20T06:38:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Australian anger as Israel drops World Central Kitchen deaths case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
+      "published_date": "2026-08-20T05:43:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+      "published_date": "2026-08-20T01:56:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "“I get along with him very well.”",
       "source": "Al Jazeera",
@@ -88,60 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria opens Assad-era nuclear programme to UN probe",
+      "title": "How Myanmar’s war drives the Rohingya crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
-      "published_date": "2026-08-18T21:25:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
+      "published_date": "2026-08-20T11:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sanctions International Criminal Court president and trial lawyer",
+      "title": "How conflict is making life more expensive for Iranians",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
-      "published_date": "2026-08-18T20:09:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
+      "published_date": "2026-08-20T09:20:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Puntland Raises Security Concerns as Somalia’s Outgoing Federal President Visits Divided Galkayo",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/puntland-raises-security-concerns-as-president-hassan-sheikh-visits-divided-galkayo/",
-      "published_date": "2026-08-17T23:30:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somaliland Demands Formal Coordination Over UN Visit to Las Anod",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-demands-formal-coordination-over-un-visit-to-las-anod/",
-      "published_date": "2026-08-17T23:11:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-      "published_date": "2026-08-17T20:54:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia’s President Hassan Sheikh Calls for Unity As He visits Galkayo City",
+      "title": "Doorashadda Maamulka HirShabeelle oo dib u dhac ku yimid [War-Saxaafadeed]",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-president-hassan-sheikh-calls-for-unity-as-he-visits-galkayo-city/",
-      "published_date": "2026-08-17T20:53:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/doorashadda-maamulka-hirshabeelle-oo-dib-u-dhac-ku-yimid-war-saxaafadeed/",
+      "published_date": "2026-08-20T08:43:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why did Trump scale back war games with South Korea?",
+      "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
-      "published_date": "2026-08-17T19:34:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
+      "published_date": "2026-08-20T08:24:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia president calls for AU peacekeepers to leave",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-calls-au-peacekeepers-leave/",
-      "published_date": "2026-08-17T18:45:58+00:00",
-      "category": "Diplomacy"
+      "title": "Video shows Russian missile strike on Ukrainian capital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+      "published_date": "2026-08-20T08:18:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
+      "published_date": "2026-08-20T04:59:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bodycam captures police team falling when deck collapses in Missouri",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
+      "published_date": "2026-08-20T01:37:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Publisher of US military newspaper resigns over differences with government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+      "published_date": "2026-08-20T00:34:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE-funded mercenary ‘ran covert operation’ against British activist in London",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/20/uae-funded-mercenary-ran-covert-operation-against-british-activist-in-london/",
+      "published_date": "2026-08-19T22:37:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine’s ousted defence minister calls for elections during war",
+      "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
-      "published_date": "2026-08-19T05:59:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea, US scale back annual military drills after Trump’s order",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
-      "published_date": "2026-08-19T04:59:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
-      "published_date": "2026-08-19T04:25:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivia arrests political adviser to Latin American right-wingers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
-      "published_date": "2026-08-18T21:50:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is the US ramping up Tomahawk production?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
-      "published_date": "2026-08-18T21:26:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike reported to kill at least six in Gaza City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
-      "published_date": "2026-08-18T21:03:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
-      "published_date": "2026-08-18T20:45:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian missile strike kills 10 civilians in Kharkiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-      "published_date": "2026-08-18T20:26:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Drone strike kills four pirates day after ship hijacking",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pirates-drone-strike-mv-lutuf-hijacking/",
-      "published_date": "2026-08-18T18:54:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
+      "published_date": "2026-08-20T07:38:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
@@ -361,11 +368,11 @@
       "category": "Energy"
     },
     {
-      "title": "As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers",
+      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss",
-      "published_date": "2026-08-13T08:15:17+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+      "published_date": "2026-08-20T04:31:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Canada boosts Lebanon aid to $50m and condemns Israeli ‘unlawful invasion’",
@@ -501,11 +508,11 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia, UK discuss disaster preparedness and climate risks",
+      "title": "Somalia disaster agency chief meets religious leaders over flood preparedness",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-uk-discuss-disaster-preparedness-and-climate-risks/",
-      "published_date": "2026-08-14T07:29:16+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalia-disaster-agency-chief-meets-religious-leaders-over-flood-preparedness/",
+      "published_date": "2026-08-20T08:39:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
@@ -638,13 +645,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
       "published_date": "2026-08-18T09:31:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
-      "published_date": "2026-08-18T09:15:03+00:00",
       "category": "Local Events"
     }
   ]
