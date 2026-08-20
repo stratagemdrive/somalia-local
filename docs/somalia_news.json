@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-20T11:31:58.256819+00:00",
-  "story_count": 92,
+  "last_updated": "2026-08-20T23:21:29.641733+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Uganda’s President Presses Somalia’s President to Resolve Political Crisis",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/ugandas-president-presses-somalias-president-to-resolve-political-crisis/",
+      "published_date": "2026-08-20T22:20:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could US sanctions destroy the International Criminal Court?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
+      "published_date": "2026-08-20T19:38:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
       "source": "Al Jazeera",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Receives Credentials of Four New Ambassadors",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-receives-credentials-of-four-new-ambassadors/",
-      "published_date": "2026-08-19T07:15:47+00:00",
-      "category": "Diplomacy"
+      "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+      "published_date": "2026-08-20T23:01:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
+      "title": "The cost of rebuilding family homes in war-ravaged Syria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
-      "published_date": "2026-08-19T06:16:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
+      "published_date": "2026-08-20T22:51:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
+      "published_date": "2026-08-20T22:45:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
+      "published_date": "2026-08-20T20:36:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Four railway workers killed by express train at station in Japan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
+      "published_date": "2026-08-20T20:27:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
+      "published_date": "2026-08-20T20:10:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
+      "published_date": "2026-08-20T20:05:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thai schools hold shooter drills after deadly attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss",
+      "published_date": "2026-08-20T18:59:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
+      "published_date": "2026-08-20T18:55:52+00:00",
+      "category": "Military"
     },
     {
       "title": "How Myanmar’s war drives the Rohingya crisis",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+      "title": "Walmart sees sales drop as US consumer spending retreats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
-      "published_date": "2026-08-19T21:01:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
-      "published_date": "2026-08-19T19:09:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Violence in the New Syria?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
-      "published_date": "2026-08-19T18:50:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
-      "published_date": "2026-08-19T17:50:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least five killed in Russian air attacks on Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
-      "published_date": "2026-08-19T09:34:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
-      "published_date": "2026-08-19T09:26:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s sacked defence minister calls for wartime elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss",
-      "published_date": "2026-08-19T08:46:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Ground Forces Commander Visits Front Lines in Hiran Region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-ground-forces-commander-visits-front-lines-in-hiran-region/",
-      "published_date": "2026-08-19T07:12:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Africa to Australia: Why coal profits are surging during Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
-      "published_date": "2026-08-19T06:27:30+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
+      "published_date": "2026-08-20T19:18:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
@@ -366,6 +373,20 @@
       "url": "https://www.aljazeera.com/sports/2026/8/14/south-korea-players-want-k-league-season-change-due-to-worsening-climate?traffic_source=rss",
       "published_date": "2026-08-14T08:35:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "US pummels Cuban economy with new sanctions on mining, construction",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+      "published_date": "2026-08-20T20:37:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
+      "published_date": "2026-08-20T19:11:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump vows ‘economic warfare’ on countries helping Iran",
@@ -494,18 +515,67 @@
       "category": "Economy"
     },
     {
-      "title": "Madaxweynaha Zambia oo hoggaanka ku haya natiijooyinka hordhaca ah ee doorashada",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynaha-zambia-oo-hoggaanka-ku-haya-natiijooyinka-hordhaca-ah-ee-doorashada/",
-      "published_date": "2026-08-15T05:22:49+00:00",
-      "category": "Economy"
+      "title": "Puntland oo shaacisay degmooyinka ku guulaystay mashruuca Bulsho ee Bangiga Adduunka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/21/puntland-oo-shaacisay-degmooyinka-ku-guulaystay-mashruuca-bulsho-ee-bangiga-adduunka/",
+      "published_date": "2026-08-20T22:08:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Taiwan passes defence budget after record delay, retains drone funding",
+      "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
-      "published_date": "2026-08-15T04:44:14+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+      "published_date": "2026-08-20T21:18:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+      "published_date": "2026-08-20T20:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
+      "published_date": "2026-08-20T19:59:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "University suspends US academic leading Jason Arday plagiarism accusations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
+      "published_date": "2026-08-20T19:13:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
+      "published_date": "2026-08-20T19:09:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Islamic Scholars Urge Government to Halt Property Demolitions in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-islamic-scholars-urge-government-to-halt-property-demolitions-in-mogadishu/",
+      "published_date": "2026-08-20T17:06:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Parliament Committee Reviews Legislative Work Amid Political Tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliament-committee-reviews-legislative-work-amid-political-tensions/",
+      "published_date": "2026-08-20T17:01:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia ex-FM accuses Turkey of Puntland ‘massacre’",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-fm-accuses-turkey-puntland-massacre/",
+      "published_date": "2026-08-20T12:14:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia disaster agency chief meets religious leaders over flood preparedness",
@@ -582,69 +652,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/19/ciidan-ka-tirsanaa-somaliland-oo-u-goostay-waqooyi-bari/",
       "published_date": "2026-08-19T10:34:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
-      "published_date": "2026-08-19T09:23:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xasan Sheekh oo Galmudug ka sheegay in safarkiisu diiradda saarayay nabadda iyo midnimada",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xasan-sheekh-oo-galmudug-ka-sheegay-in-safarkiisu-diiradda-saarayay-nabadda-iyo-midnimada/",
-      "published_date": "2026-08-19T07:19:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia ex-president blames govt for Baidoa bloodshed that left 30 dead",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-president-blames-govt-baidoa-bloodshed-30-dead/",
-      "published_date": "2026-08-19T05:18:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former US official calls shift in relations with Syria ‘surreal’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss",
-      "published_date": "2026-08-19T05:12:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
-      "published_date": "2026-08-18T22:55:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria hospital collapses after rain washed away its foundations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
-      "published_date": "2026-08-18T17:55:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Piracy Resurges as Pirates Seize Another Cargo Ship Off the Southern Coast",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-piracy-resurges-as-pirates-seize-another-cargo-ship-off-the-southern-coast/",
-      "published_date": "2026-08-18T15:33:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Defying Puntland warning, Somalia’s president visits Galkayo",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-defies-puntland-warning-visits-galkayo/",
-      "published_date": "2026-08-18T12:57:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Videos show deadly school shooting in Philippines",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
-      "published_date": "2026-08-18T09:31:56+00:00",
       "category": "Local Events"
     }
   ]
