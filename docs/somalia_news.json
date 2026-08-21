@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-21T11:31:12.738574+00:00",
+  "last_updated": "2026-08-21T23:19:18.058183+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Can a humanitarian disaster be averted in Somalia?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+      "published_date": "2026-08-21T20:27:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Reaffirms Position on Cyprus Dispute",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-reaffirms-position-on-cyprus-dispute/",
+      "published_date": "2026-08-21T19:02:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia, Somalia and the Colonial Question",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/21/ethiopia-somalia-and-the-colonial-question/",
+      "published_date": "2026-08-21T18:38:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
+      "published_date": "2026-08-21T18:25:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
+      "title": "One killed, three wounded in sword attack at Swedish high school",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
-      "published_date": "2026-08-19T17:32:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
+      "published_date": "2026-08-21T21:23:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+      "title": "Arsenal rout Coventry 3-0 to begin Premier League title defence in style",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
-      "published_date": "2026-08-19T16:55:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
+      "published_date": "2026-08-21T21:15:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Indian ambassador begins diplomatic mission in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/indian-ambassador-begins-diplomatic-mission-in-somalia/",
-      "published_date": "2026-08-19T16:20:40+00:00",
-      "category": "Diplomacy"
+      "title": "Puntland oo war ka soo saartay duqeyntii Garmaal",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/21/puntland-oo-war-ka-soo-saartay-duqeyntii-garmaal/",
+      "published_date": "2026-08-21T20:10:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia PM hails 15-year strategic partnership with Turkey",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pm-hails-15-year-strategic-partnership-with-turkey/",
-      "published_date": "2026-08-19T12:13:43+00:00",
-      "category": "Diplomacy"
+      "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
+      "published_date": "2026-08-21T20:03:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian victims of Israeli settler attacks face battle for justice",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
+      "published_date": "2026-08-21T19:14:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
+      "published_date": "2026-08-21T18:55:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
+      "published_date": "2026-08-21T18:40:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+      "published_date": "2026-08-21T18:17:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+      "published_date": "2026-08-21T17:38:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Australia charges man for passing Ukrainian military intel to Russia",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
+      "title": "How is drought hitting UK farming?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
-      "published_date": "2026-08-20T18:55:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Myanmar’s war drives the Rohingya crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
-      "published_date": "2026-08-20T11:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How conflict is making life more expensive for Iranians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
-      "published_date": "2026-08-20T09:20:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Doorashadda Maamulka HirShabeelle oo dib u dhac ku yimid [War-Saxaafadeed]",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/doorashadda-maamulka-hirshabeelle-oo-dib-u-dhac-ku-yimid-war-saxaafadeed/",
-      "published_date": "2026-08-20T08:43:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
-      "published_date": "2026-08-20T08:24:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows Russian missile strike on Ukrainian capital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
-      "published_date": "2026-08-20T08:18:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-      "published_date": "2026-08-20T04:59:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bodycam captures police team falling when deck collapses in Missouri",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
-      "published_date": "2026-08-20T01:37:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Publisher of US military newspaper resigns over differences with government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
-      "published_date": "2026-08-20T00:34:13+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss",
+      "published_date": "2026-08-21T17:52:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Philippines floods fuel anger over alleged corruption",
@@ -368,11 +375,39 @@
       "category": "Energy"
     },
     {
-      "title": "New aerial video reveals huge scale of oil spill off Oman",
+      "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
-      "published_date": "2026-08-14T19:36:45+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
+      "published_date": "2026-08-21T22:52:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+      "published_date": "2026-08-21T20:16:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
+      "published_date": "2026-08-21T20:07:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
+      "published_date": "2026-08-21T19:08:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tanker seized off Yemen as Somali piracy resurges",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/tanker-seized-off-yemen-as-somali-piracy-resurges/",
+      "published_date": "2026-08-21T06:15:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Antigovernment protesters take to Tunisia’s streets for second month",
@@ -480,39 +515,46 @@
       "category": "Economy"
     },
     {
-      "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+      "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
-      "published_date": "2026-08-17T19:32:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss",
+      "published_date": "2026-08-21T21:38:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Thousands await aid after deadly Indonesia quake as rescue work under way",
+      "title": "Global Sumud Flotilla joins Albania’s anti-resort protest",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
-      "published_date": "2026-08-17T10:14:28+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss",
+      "published_date": "2026-08-21T21:11:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
+      "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
-      "published_date": "2026-08-17T08:18:05+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
+      "published_date": "2026-08-21T19:52:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Japan’s economy slows, missing growth forecasts",
+      "title": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
-      "published_date": "2026-08-17T06:14:39+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
+      "published_date": "2026-08-21T19:29:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Anwar Ibrahim: Malaysia between the superpowers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
-      "published_date": "2026-08-16T21:23:03+00:00",
-      "category": "Economy"
+      "title": "Somaliland Positions Itself as Strategic Partner in Securing the Red Sea",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-positions-itself-as-strategic-partner-in-securing-the-red-sea/",
+      "published_date": "2026-08-21T17:20:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni oo booqday goobaha loo calaamadeeyay biya-saarka Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/21/deni-oo-booqday-goobaha-loo-calaamadeeyay-biya-saarka-gaalkacyo/",
+      "published_date": "2026-08-21T13:59:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli settlers set fire to Palestinian home while family asleep",
@@ -610,48 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
       "published_date": "2026-08-19T18:43:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
-      "published_date": "2026-08-19T18:21:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kennedy Center agrees not to restore Trump’s name before September 8",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
-      "published_date": "2026-08-19T18:06:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
-      "published_date": "2026-08-19T17:54:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
-      "published_date": "2026-08-19T17:14:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliamentary speaker meets Saudi ambassador to strengthen bilateral ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliamentary-speaker-meets-saudi-ambassador-to-strengthen-bilateral-ties/",
-      "published_date": "2026-08-19T12:30:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Senate Speaker chairs committee meeting on oversight and accountability",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-senate-speaker-chairs-committee-meeting-on-oversight-and-accountability/",
-      "published_date": "2026-08-19T12:22:48+00:00",
       "category": "Local Events"
     }
   ]
