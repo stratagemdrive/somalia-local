@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-20T23:21:29.641733+00:00",
+  "last_updated": "2026-08-21T11:31:12.738574+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+      "published_date": "2026-08-21T03:08:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+      "published_date": "2026-08-21T02:11:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taliban release two detained UN staff members in Afghanistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+      "published_date": "2026-08-21T00:44:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Uganda’s President Presses Somalia’s President to Resolve Political Crisis",
       "source": "Somali Dispatch",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
+      "title": "Australia charges man for passing Ukrainian military intel to Russia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
-      "published_date": "2026-08-19T10:57:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
+      "published_date": "2026-08-21T08:42:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why White House envoys cannot sway Israel’s war leader",
+      "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
-      "published_date": "2026-08-19T10:24:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
+      "published_date": "2026-08-21T06:56:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s President Hassan Sheikh Highlights Peace and Unity During Galmudug Visit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-president-hassan-sheikh-highlights-peace-and-unity-during-galmudug-visit/",
-      "published_date": "2026-08-19T07:19:38+00:00",
-      "category": "Diplomacy"
+      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+      "published_date": "2026-08-20T23:19:56+00:00",
+      "category": "Military"
     },
     {
       "title": "US charges woman for allegedly plotting attack on New York State Capitol",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "UAE-funded mercenary ‘ran covert operation’ against British activist in London",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/20/uae-funded-mercenary-ran-covert-operation-against-british-activist-in-london/",
-      "published_date": "2026-08-19T22:37:00+00:00",
-      "category": "Military"
+      "title": "Philippines floods fuel anger over alleged corruption",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss",
+      "published_date": "2026-08-21T10:01:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+      "title": "Torrential rain floods New York City’s streets and subway",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
-      "published_date": "2026-08-19T21:22:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
-      "published_date": "2026-08-19T21:09:15+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
+      "published_date": "2026-08-21T09:40:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Walmart sees sales drop as US consumer spending retreats",
@@ -361,18 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
+      "title": "Antigovernment protesters take to Tunisia’s streets for second month",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
-      "published_date": "2026-08-14T09:28:03+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+      "published_date": "2026-08-21T01:06:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "South Korea players want K League season change due to ‘worsening climate’",
+      "title": "Iran war live: Tehran says planned US sanctions threaten global economy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/south-korea-players-want-k-league-season-change-due-to-worsening-climate?traffic_source=rss",
-      "published_date": "2026-08-14T08:35:31+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+      "published_date": "2026-08-21T00:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "US pummels Cuban economy with new sanctions on mining, construction",
@@ -501,18 +515,18 @@
       "category": "Economy"
     },
     {
-      "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+      "title": "Israeli settlers set fire to Palestinian home while family asleep",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
-      "published_date": "2026-08-16T17:18:00+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+      "published_date": "2026-08-21T07:58:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
+      "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
-      "published_date": "2026-08-15T10:43:09+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+      "published_date": "2026-08-21T01:12:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland oo shaacisay degmooyinka ku guulaystay mashruuca Bulsho ee Bangiga Adduunka",
@@ -638,20 +652,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-senate-speaker-chairs-committee-meeting-on-oversight-and-accountability/",
       "published_date": "2026-08-19T12:22:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
-      "published_date": "2026-08-19T10:53:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidan ka tirsanaa Somaliland oo u goostay Waqooyi Bari",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/19/ciidan-ka-tirsanaa-somaliland-oo-u-goostay-waqooyi-bari/",
-      "published_date": "2026-08-19T10:34:04+00:00",
       "category": "Local Events"
     }
   ]
