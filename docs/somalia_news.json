@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-21T23:19:18.058183+00:00",
-  "story_count": 93,
+  "last_updated": "2026-08-22T11:25:34.237392+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Iran says new US sanctions violate sovereignty of other states",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+      "published_date": "2026-08-22T09:14:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, UNDP Discuss Strengthening Security and Police Services",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-undp-discuss-strengthening-security-and-police-services/",
+      "published_date": "2026-08-22T08:11:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nigeria and the Sahel: A growing security divide",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss",
+      "published_date": "2026-08-22T04:30:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
+      "published_date": "2026-08-22T04:02:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian president says time to end war with US from ‘position of strength’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+      "published_date": "2026-08-22T00:59:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Can a humanitarian disaster be averted in Somalia?",
       "source": "Al Jazeera",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Australian anger as Israel drops World Central Kitchen deaths case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
-      "published_date": "2026-08-20T05:43:01+00:00",
-      "category": "Diplomacy"
+      "title": "Puntland condemns reported Turkish airstrike that killed 4 civilian fishermen in Garmaal",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-condemns-reported-turkish-airstrike-killed-4-civilian-fishermen-garmaal/",
+      "published_date": "2026-08-22T09:51:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+      "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-      "published_date": "2026-08-20T01:56:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
+      "published_date": "2026-08-22T09:51:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "“I get along with him very well.”",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
-      "published_date": "2026-08-19T21:35:34+00:00",
-      "category": "Diplomacy"
+      "title": "Somali Local Forces Kill Two Al-Shabaab Leaders in Middle Shabelle – defense ministry",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-local-forces-kill-two-al-shabaab-leaders-in-middle-shabelle-defense-ministry/",
+      "published_date": "2026-08-22T08:05:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "What’s behind Israel’s latest attack on Syria?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
-      "published_date": "2026-08-19T20:18:40+00:00",
-      "category": "Diplomacy"
+      "title": "Ciidamada Deegaanka Shabeellaha Dhexe oo Dilay Laba Hogaamiye oo Al-Shabaab Ka Tirsanaa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-deegaanka-shabeellaha-dhexe-oo-dilay-laba-hogaamiye-oo-al-shabaab-ka-tirsanaa/",
+      "published_date": "2026-08-22T07:59:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
+      "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
-      "published_date": "2026-08-19T19:53:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
+      "published_date": "2026-08-22T04:30:20+00:00",
+      "category": "Military"
     },
     {
       "title": "One killed, three wounded in sword attack at Swedish high school",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+      "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
-      "published_date": "2026-08-20T20:36:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four railway workers killed by express train at station in Japan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
-      "published_date": "2026-08-20T20:27:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
-      "published_date": "2026-08-20T20:10:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
-      "published_date": "2026-08-20T20:05:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thai schools hold shooter drills after deadly attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss",
-      "published_date": "2026-08-20T18:59:08+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
+      "published_date": "2026-08-22T07:11:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "How is drought hitting UK farming?",
@@ -373,6 +380,27 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
       "published_date": "2026-08-15T18:11:12+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Hundreds of health, nutrition facilities closed as Somalia’s child crisis deepens, warns UNICEF",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hundreds-of-health-nutrition-facilities-closed-as-somalias-child-crisis-deepens-warns-unicef/",
+      "published_date": "2026-08-22T08:19:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How will Trump’s tariffs affect Canada’s economy?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
+      "published_date": "2026-08-22T08:01:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
+      "published_date": "2026-08-22T07:35:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
@@ -494,25 +522,39 @@
       "category": "Economy"
     },
     {
-      "title": "FESTU, AfCFTA Secretary-General Discuss Workers’ Role in Africa’s Integration",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/festu-afcfta-secretary-general-discuss-workers-role-in-africas-integration/",
-      "published_date": "2026-08-18T11:13:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somalia: Pirates seize commercial cargo ship",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pirates-seize-commercial-cargo-ship/",
-      "published_date": "2026-08-18T07:52:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+      "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-      "published_date": "2026-08-17T22:26:12+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
+      "published_date": "2026-08-22T10:13:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo safar ugu baxay Jariiban iyo Garacad",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/22/madaxweyne-deni-oo-safar-ugu-baxay-jariiban-iyo-garacad/",
+      "published_date": "2026-08-22T09:29:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inundated Philippine communities seek answers over flood control funds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss",
+      "published_date": "2026-08-22T04:36:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
+      "published_date": "2026-08-22T03:19:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "California lawmaker overcomes pro-Israel spending to win special election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
+      "published_date": "2026-08-22T00:38:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
@@ -617,41 +659,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-islamic-scholars-urge-government-to-halt-property-demolitions-in-mogadishu/",
       "published_date": "2026-08-20T17:06:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Parliament Committee Reviews Legislative Work Amid Political Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-committee-reviews-legislative-work-amid-political-tensions/",
-      "published_date": "2026-08-20T17:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia ex-FM accuses Turkey of Puntland ‘massacre’",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-fm-accuses-turkey-puntland-massacre/",
-      "published_date": "2026-08-20T12:14:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia disaster agency chief meets religious leaders over flood preparedness",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-disaster-agency-chief-meets-religious-leaders-over-flood-preparedness/",
-      "published_date": "2026-08-20T08:39:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
-      "published_date": "2026-08-19T21:10:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia opposition leader to challenge Hichilema election victory in court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
-      "published_date": "2026-08-19T18:43:28+00:00",
       "category": "Local Events"
     }
   ]
