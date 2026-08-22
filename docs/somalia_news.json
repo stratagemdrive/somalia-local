@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-22T11:25:34.237392+00:00",
+  "last_updated": "2026-08-22T23:16:46.855051+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
+      "published_date": "2026-08-22T19:18:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
+      "published_date": "2026-08-22T19:13:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+      "published_date": "2026-08-22T19:00:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran says new US sanctions violate sovereignty of other states",
       "source": "Al Jazeera",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+      "title": "Open-air cinema brings movie nights back to Khartoum",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
-      "published_date": "2026-08-20T07:50:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
+      "published_date": "2026-08-22T21:27:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
+      "title": "Israeli army and settlers injure several Palestinians across West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
-      "published_date": "2026-08-20T07:11:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+      "published_date": "2026-08-22T21:02:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bangladesh holds presidential election in first contested vote in 35 years",
+      "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
-      "published_date": "2026-08-20T06:38:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+      "published_date": "2026-08-22T19:24:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Swedish police identify 17-year-old girl as victim in school sword attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
+      "published_date": "2026-08-22T18:29:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland Demands Answers on Turkish Drone Strike and Shelling Along the Nugal Coast",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-demands-answers-on-turkish-drone-strike-and-shelling-along-the-nugal-coast/",
+      "published_date": "2026-08-22T18:19:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
+      "published_date": "2026-08-22T17:58:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
+      "published_date": "2026-08-22T17:34:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Danab oo Beegsaday Fariisimo Al-Shabaab ku Leedahay Baay, Xubin Is Dhiibtay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-danab-oo-beegsaday-fariisimo-al-shabaab-ku-leedahay-baay-xubin-is-dhiibtay/",
+      "published_date": "2026-08-22T14:54:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Forces Target Al-Shabaab Hideouts in Bay, Militant Surrenders",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-forces-target-al-shabaab-hideouts-in-bay-militant-surrenders/",
+      "published_date": "2026-08-22T14:52:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Puntland condemns reported Turkish airstrike that killed 4 civilian fishermen in Garmaal",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
+      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
-      "published_date": "2026-08-21T18:40:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
-      "published_date": "2026-08-21T18:17:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
-      "published_date": "2026-08-21T17:38:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia charges man for passing Ukrainian military intel to Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
-      "published_date": "2026-08-21T08:42:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
-      "published_date": "2026-08-21T06:56:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-      "published_date": "2026-08-20T23:19:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US charges woman for allegedly plotting attack on New York State Capitol",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
-      "published_date": "2026-08-20T23:01:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The cost of rebuilding family homes in war-ravaged Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
-      "published_date": "2026-08-20T22:51:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
-      "published_date": "2026-08-20T22:45:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+      "published_date": "2026-08-22T20:05:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
@@ -375,11 +382,11 @@
       "category": "Energy"
     },
     {
-      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+      "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-      "published_date": "2026-08-15T18:11:12+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
+      "published_date": "2026-08-22T19:24:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Hundreds of health, nutrition facilities closed as Somalia’s child crisis deepens, warns UNICEF",
@@ -515,11 +522,46 @@
       "category": "Economy"
     },
     {
-      "title": "Somali President Visits Technical School in Galkayo, Hails Youth Skills Development",
+      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+      "published_date": "2026-08-22T20:49:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is Israel building new illegal settlements?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+      "published_date": "2026-08-22T19:40:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
+      "published_date": "2026-08-22T19:29:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Calls on Cyprus and Greece to Reconsider Position on Recognition",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-calls-on-cyprus-and-greece-to-reconsider-position-on-recognition/",
+      "published_date": "2026-08-22T18:32:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia moves to block Somaliland precedent after speaker’s TRNC gesture, clarifies Cyprus stance",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-blocks-somaliland-precedent-trnc-cyprus/",
+      "published_date": "2026-08-22T15:21:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia PM Chairs First Disaster Risk Committee Meeting as Flood Threat Looms",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-visits-technical-school-in-galkayo-hails-youth-skills-development/",
-      "published_date": "2026-08-18T11:40:04+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalia-pm-chairs-first-disaster-risk-committee-meeting-as-flood-threat-looms/",
+      "published_date": "2026-08-22T14:44:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
@@ -617,48 +659,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/21/puntland-oo-shaacisay-degmooyinka-ku-guulaystay-mashruuca-bulsho-ee-bangiga-adduunka/",
       "published_date": "2026-08-20T22:08:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
-      "published_date": "2026-08-20T21:18:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
-      "published_date": "2026-08-20T20:32:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
-      "published_date": "2026-08-20T19:59:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "University suspends US academic leading Jason Arday plagiarism accusations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
-      "published_date": "2026-08-20T19:13:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
-      "published_date": "2026-08-20T19:09:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Islamic Scholars Urge Government to Halt Property Demolitions in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-islamic-scholars-urge-government-to-halt-property-demolitions-in-mogadishu/",
-      "published_date": "2026-08-20T17:06:24+00:00",
       "category": "Local Events"
     }
   ]
