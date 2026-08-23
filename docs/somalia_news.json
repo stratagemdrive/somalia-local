@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-23T11:25:38.702750+00:00",
-  "story_count": 94,
+  "last_updated": "2026-08-23T23:16:56.446459+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Will Donald Trump’s new sanctions against Iran work?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+      "published_date": "2026-08-23T21:34:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+      "published_date": "2026-08-23T21:23:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
+      "published_date": "2026-08-23T16:12:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
+      "published_date": "2026-08-23T15:38:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria foreign minister says door open for diplomacy with Israel",
       "source": "Al Jazeera",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Taliban release two detained UN staff members in Afghanistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
-      "published_date": "2026-08-21T00:44:46+00:00",
-      "category": "Diplomacy"
+      "title": "Puntland oo soo saartay digniin la xiriirta Burcad-badeedda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/24/puntland-oo-soo-saartay-digniin-la-xiriirta-burcad-badeedda/",
+      "published_date": "2026-08-23T22:56:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Uganda’s President Presses Somalia’s President to Resolve Political Crisis",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/ugandas-president-presses-somalias-president-to-resolve-political-crisis/",
-      "published_date": "2026-08-20T22:20:28+00:00",
-      "category": "Diplomacy"
+      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
+      "published_date": "2026-08-23T21:45:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Could US sanctions destroy the International Criminal Court?",
+      "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
-      "published_date": "2026-08-20T19:38:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
+      "published_date": "2026-08-23T19:27:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
+      "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
-      "published_date": "2026-08-20T10:16:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
+      "published_date": "2026-08-23T18:47:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
+      "published_date": "2026-08-23T18:27:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+      "published_date": "2026-08-23T18:15:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
+      "published_date": "2026-08-23T17:53:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Photos: Ukraine celebrates National Flag Day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
+      "published_date": "2026-08-23T17:18:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia defends Turkish drone strike Puntland says killed civilians",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-defends-turkish-drone-strike-puntland-civilians/",
+      "published_date": "2026-08-23T16:38:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Nigeria cash in on Iran war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+      "published_date": "2026-08-23T16:07:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza families search for children missing after years of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
+      "published_date": "2026-08-23T15:42:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Explosion injures 13 in Taiwan",
@@ -204,83 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
       "published_date": "2026-08-22T18:29:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland Demands Answers on Turkish Drone Strike and Shelling Along the Nugal Coast",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/puntland-demands-answers-on-turkish-drone-strike-and-shelling-along-the-nugal-coast/",
-      "published_date": "2026-08-22T18:19:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Armed men kidnap dozens in attacks on Nigerian villages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
-      "published_date": "2026-08-22T17:58:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
-      "published_date": "2026-08-22T17:34:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Danab oo Beegsaday Fariisimo Al-Shabaab ku Leedahay Baay, Xubin Is Dhiibtay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-danab-oo-beegsaday-fariisimo-al-shabaab-ku-leedahay-baay-xubin-is-dhiibtay/",
-      "published_date": "2026-08-22T14:54:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Forces Target Al-Shabaab Hideouts in Bay, Militant Surrenders",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-forces-target-al-shabaab-hideouts-in-bay-militant-surrenders/",
-      "published_date": "2026-08-22T14:52:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland condemns reported Turkish airstrike that killed 4 civilian fishermen in Garmaal",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-condemns-reported-turkish-airstrike-killed-4-civilian-fishermen-garmaal/",
-      "published_date": "2026-08-22T09:51:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
-      "published_date": "2026-08-22T09:51:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Local Forces Kill Two Al-Shabaab Leaders in Middle Shabelle – defense ministry",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-local-forces-kill-two-al-shabaab-leaders-in-middle-shabelle-defense-ministry/",
-      "published_date": "2026-08-22T08:05:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidamada Deegaanka Shabeellaha Dhexe oo Dilay Laba Hogaamiye oo Al-Shabaab Ka Tirsanaa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-deegaanka-shabeellaha-dhexe-oo-dilay-laba-hogaamiye-oo-al-shabaab-ka-tirsanaa/",
-      "published_date": "2026-08-22T07:59:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
-      "published_date": "2026-08-22T04:30:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed, three wounded in sword attack at Swedish high school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
-      "published_date": "2026-08-21T21:23:35+00:00",
       "category": "Military"
     },
     {
@@ -368,18 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+      "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
-      "published_date": "2026-08-16T19:18:24+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+      "published_date": "2026-08-23T15:54:36+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
-      "published_date": "2026-08-16T14:55:51+00:00",
-      "category": "Energy"
+      "title": "Somali PM reviews preparation of government’s 2022-2026 performance report",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-reviews-preparation-of-governments-2022-2026-performance-report/",
+      "published_date": "2026-08-23T13:31:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Israeli politicians focus on foreign threats, ignoring spiralling debt",
@@ -508,18 +508,39 @@
       "category": "Economy"
     },
     {
-      "title": "Trump administration moves to end rule protecting swaths of forest land",
+      "title": "Is Israel about to split the occupied West Bank in half?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
-      "published_date": "2026-08-18T21:26:47+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+      "published_date": "2026-08-23T20:23:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "WHO: Ebola can be contained in months if enough funding is provided",
+      "title": "Severe winds toss four aircraft across Italian airport tarmac",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
-      "published_date": "2026-08-18T20:53:44+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
+      "published_date": "2026-08-23T20:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+      "published_date": "2026-08-23T17:55:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali prison officers head to Egypt for training",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-prison-officers-head-to-egypt-for-training/",
+      "published_date": "2026-08-23T13:37:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deni: Waxaa la joogaa xilligii dib loo fiirin lahaa gobolka Mudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/23/deni-waxaa-la-joogaa-xilligii-dib-loo-fiirin-lahaa-gobolka-mudug/",
+      "published_date": "2026-08-23T12:23:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
@@ -624,41 +645,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-pm-chairs-first-disaster-risk-committee-meeting-as-flood-threat-looms/",
       "published_date": "2026-08-22T14:44:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
-      "published_date": "2026-08-22T10:13:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo safar ugu baxay Jariiban iyo Garacad",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/22/madaxweyne-deni-oo-safar-ugu-baxay-jariiban-iyo-garacad/",
-      "published_date": "2026-08-22T09:29:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inundated Philippine communities seek answers over flood control funds",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss",
-      "published_date": "2026-08-22T04:36:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
-      "published_date": "2026-08-22T03:19:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "California lawmaker overcomes pro-Israel spending to win special election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
-      "published_date": "2026-08-22T00:38:06+00:00",
       "category": "Local Events"
     }
   ]
