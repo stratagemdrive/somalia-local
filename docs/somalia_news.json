@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-24T11:34:08.265434+00:00",
-  "story_count": 91,
+  "last_updated": "2026-08-24T23:18:56.823219+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "How US sanctions on Iran ripple through global markets and consumers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+      "published_date": "2026-08-24T22:46:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia security crisis: UN layoffs, asset auctions signal AUSSOM’s endgame",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-crisis-unsos-layoffs-asset-auctions-aussom-endgame/",
+      "published_date": "2026-08-24T18:19:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US threatens toughest sanctions yet against Iran: What we know",
       "source": "Al Jazeera",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
-      "published_date": "2026-08-21T18:25:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "published_date": "2026-08-24T22:32:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+      "title": "US public support for Iran war falls as Trump approval at record low: Poll",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
-      "published_date": "2026-08-21T03:08:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
+      "published_date": "2026-08-24T21:35:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ambush in South Sudan kills peacekeeping troops",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
+      "published_date": "2026-08-24T20:47:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Violence flares in Haiti as gang attack kills 30 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
+      "published_date": "2026-08-24T20:23:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+      "published_date": "2026-08-24T19:44:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump administration announces global economic war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
+      "published_date": "2026-08-24T17:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army chief concludes training for officers in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-concludes-training-for-officers-in-mogadishu/",
+      "published_date": "2026-08-24T13:37:22+00:00",
+      "category": "Military"
     },
     {
       "title": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
@@ -162,6 +211,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
       "published_date": "2026-08-24T09:58:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gunfire, bulldozers and f-16 jets: Inside Somalia’s bloody midnight raid that emptied a Mogadishu slum",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-slum-eviction-raid-f16-jets/",
+      "published_date": "2026-08-24T09:33:52+00:00",
       "category": "Military"
     },
     {
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+      "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
-      "published_date": "2026-08-23T18:27:46+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-24T19:18:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+      "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-      "published_date": "2026-08-23T18:15:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
-      "published_date": "2026-08-23T17:53:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Photos: Ukraine celebrates National Flag Day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-      "published_date": "2026-08-23T17:18:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia defends Turkish drone strike Puntland says killed civilians",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-defends-turkish-drone-strike-puntland-civilians/",
-      "published_date": "2026-08-23T16:38:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Nigeria cash in on Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-      "published_date": "2026-08-23T16:07:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza families search for children missing after years of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
-      "published_date": "2026-08-23T15:42:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosion injures 13 in Taiwan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
-      "published_date": "2026-08-23T11:06:38+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
+      "published_date": "2026-08-24T18:22:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Flooding across Caracas, Venezuela, after heavy rains",
@@ -359,6 +373,20 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss",
       "published_date": "2026-08-18T09:29:30+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
+      "published_date": "2026-08-24T20:48:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somali PM chairs first meeting of national skills and jobs committee",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-chairs-first-meeting-of-national-skills-and-jobs-committee/",
+      "published_date": "2026-08-24T13:47:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
@@ -487,18 +515,60 @@
       "category": "Economy"
     },
     {
-      "title": "Canada boosts Lebanon aid to $50m and condemns Israeli ‘unlawful invasion’",
+      "title": "US Supreme Court sides with Trump administration on mail voting",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
-      "published_date": "2026-08-19T18:08:09+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+      "published_date": "2026-08-24T22:40:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Humanitarianism is not collapsing. It is being traded and compromised",
+      "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss",
-      "published_date": "2026-08-19T10:59:09+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+      "published_date": "2026-08-24T21:12:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
+      "published_date": "2026-08-24T20:48:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Displaced Palestinian builds mud shelter as tents offer little relief",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss",
+      "published_date": "2026-08-24T20:45:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxkamadda Sare oo laashay natiijadii kasoo baxday doorashada Galmudug state",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/maxkamadda-sare-oo-laashay-natiijadii-kasoo-baxday-doorashada-galmudug-state/",
+      "published_date": "2026-08-24T16:02:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia top court annuls Galmudug election results",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-top-court-annuls-galmudug-election-results/",
+      "published_date": "2026-08-24T15:57:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo tegay degmada Towfiiq",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/24/madaxweyne-deni-oo-tegay-degmada-towfiiq/",
+      "published_date": "2026-08-24T14:08:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia disaster agency chief meets new UNDP representative over El Nino preparedness",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-disaster-agency-chief-meets-new-undp-representative-over-el-nino-preparedness/",
+      "published_date": "2026-08-24T13:42:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Natiijadii doorashada Galmudug oo la laalay",
@@ -582,62 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
       "published_date": "2026-08-23T09:43:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia says it is aware of military operations off Puntland coast",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-says-it-is-aware-of-military-operations-off-puntland-coast/",
-      "published_date": "2026-08-23T07:45:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo sheegtay inay ogtahay howlgallada milatari ee ka socda xeebaha Puntland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-sheegtay-inay-ogtahay-howlgallada-milatari-ee-ka-socda-xeebaha-puntland/",
-      "published_date": "2026-08-23T07:43:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
-      "published_date": "2026-08-23T07:38:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
-      "published_date": "2026-08-23T07:22:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burcad-badeed Soomaali ah oo afduubtay markab shidaal oo cunaqabateyn Mareykan saaran tahay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/burcad-badeed-soomaali-ah-oo-afduubtay-markab-shidaal-oo-cunaqabateyn-mareykan-saaran-tahay/",
-      "published_date": "2026-08-23T07:21:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Pirates Hijack Sanctioned Oil Tanker Off Yemen",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pirates-hijack-sanctioned-oil-tanker-off-yemen/",
-      "published_date": "2026-08-23T07:20:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo kulan la qaatay bulshada deegaanka Bali-busle ee degmada Jariiban",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/23/madaxweyne-deni-oo-kulan-la-qaatay-bulshada-deegaanka-bali-busle-ee-degmada-jariiban/",
-      "published_date": "2026-08-23T01:24:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-      "published_date": "2026-08-22T20:49:17+00:00",
       "category": "Local Events"
     }
   ]
