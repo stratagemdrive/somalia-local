@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-23T23:16:56.446459+00:00",
-  "story_count": 92,
+  "last_updated": "2026-08-24T11:34:08.265434+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "US threatens toughest sanctions yet against Iran: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+      "published_date": "2026-08-24T10:23:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Will Donald Trump’s new sanctions against Iran work?",
       "source": "Al Jazeera",
@@ -137,11 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+      "title": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
-      "published_date": "2026-08-21T02:11:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss",
+      "published_date": "2026-08-24T10:53:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
+      "published_date": "2026-08-24T10:11:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military says strike on alleged drug-smuggling boat kills two",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
+      "published_date": "2026-08-24T09:58:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
+      "published_date": "2026-08-24T08:18:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How much more are you spending on petrol since the war on Iran began?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
+      "published_date": "2026-08-24T07:26:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Canada-US trade war: Who wins? Who loses?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
+      "published_date": "2026-08-24T07:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+      "published_date": "2026-08-24T06:55:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
+      "published_date": "2026-08-24T06:30:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Puntland oo soo saartay digniin la xiriirta Burcad-badeedda",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli wounded in occupied West Bank stabbing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
-      "published_date": "2026-08-23T08:38:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
-      "published_date": "2026-08-23T08:07:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
-      "published_date": "2026-08-23T08:03:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mogadishu Protests Turn Violent as Residents Resist Home Demolitions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mogadishu-protests-turn-violent-as-residents-resist-home-demolitions/",
-      "published_date": "2026-08-23T07:52:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Open-air cinema brings movie nights back to Khartoum",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-      "published_date": "2026-08-22T21:27:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army and settlers injure several Palestinians across West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-      "published_date": "2026-08-22T21:02:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-      "published_date": "2026-08-22T19:24:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Swedish police identify 17-year-old girl as victim in school sword attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
-      "published_date": "2026-08-22T18:29:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Flooding across Caracas, Venezuela, after heavy rains",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
@@ -361,11 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
+      "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
-      "published_date": "2026-08-17T09:01:52+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
+      "published_date": "2026-08-24T09:10:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
@@ -501,11 +501,39 @@
       "category": "Economy"
     },
     {
-      "title": "Aid workers faced record number of attacks in 2025, UN says",
+      "title": "Natiijadii doorashada Galmudug oo la laalay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/24/natiijadii-doorashada-galmudug-oo-la-laalay/",
+      "published_date": "2026-08-24T10:54:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia president meets top 10 high school graduates, promises free university education",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-president-meets-top-10-high-school-graduates-promises-free-university-education/",
+      "published_date": "2026-08-24T09:18:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
-      "published_date": "2026-08-19T08:40:54+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
+      "published_date": "2026-08-24T08:29:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo ka hadlay duqeymihii ka dhacay xeebaha Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/24/madaxweyne-deni-oo-ka-hadlay-duqeymihii-ka-dhacay-xeebaha-puntland/",
+      "published_date": "2026-08-24T06:27:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia parliament speaker concludes talks with opposition lawmakers",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-parliament-speaker-concludes-talks-with-opposition-lawmakers/",
+      "published_date": "2026-08-24T05:56:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Is Israel about to split the occupied West Bank in half?",
@@ -610,41 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
       "published_date": "2026-08-22T20:49:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Israel building new illegal settlements?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-      "published_date": "2026-08-22T19:40:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
-      "published_date": "2026-08-22T19:29:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Calls on Cyprus and Greece to Reconsider Position on Recognition",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-calls-on-cyprus-and-greece-to-reconsider-position-on-recognition/",
-      "published_date": "2026-08-22T18:32:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia moves to block Somaliland precedent after speaker’s TRNC gesture, clarifies Cyprus stance",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-blocks-somaliland-precedent-trnc-cyprus/",
-      "published_date": "2026-08-22T15:21:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia PM Chairs First Disaster Risk Committee Meeting as Flood Threat Looms",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pm-chairs-first-disaster-risk-committee-meeting-as-flood-threat-looms/",
-      "published_date": "2026-08-22T14:44:36+00:00",
       "category": "Local Events"
     }
   ]
