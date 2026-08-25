@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-25T11:33:31.421714+00:00",
+  "last_updated": "2026-08-25T23:21:32.836310+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "New US sanctions signal Trump desperation on Iran, experts say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
+      "published_date": "2026-08-25T20:34:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
+      "published_date": "2026-08-25T18:54:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria’s economy poised for improvement after US sanctions removal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
+      "published_date": "2026-08-25T18:43:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+      "published_date": "2026-08-25T18:13:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The United Nations has concluded its justice and prison support program in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/the-united-nations-has-concluded-its-justice-and-prison-support-program-in-somalia/",
+      "published_date": "2026-08-25T11:16:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
       "source": "Al Jazeera",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nigeria and the Sahel: A growing security divide",
+      "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss",
-      "published_date": "2026-08-22T04:30:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
+      "published_date": "2026-08-25T21:26:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+      "title": "US soldier who called for Trump impeachment facing military charges",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
-      "published_date": "2026-08-22T04:02:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
+      "published_date": "2026-08-25T21:16:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian president says time to end war with US from ‘position of strength’",
+      "title": "Syrian Democratic Forces announce their dissolution",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-      "published_date": "2026-08-22T00:59:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
+      "published_date": "2026-08-25T21:09:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can a humanitarian disaster be averted in Somalia?",
+      "title": "Nigeria launches operation to rescue 600 kidnapped victims",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
-      "published_date": "2026-08-21T20:27:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
+      "published_date": "2026-08-25T20:37:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Reaffirms Position on Cyprus Dispute",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-reaffirms-position-on-cyprus-dispute/",
-      "published_date": "2026-08-21T19:02:13+00:00",
-      "category": "Diplomacy"
+      "title": "India police clash with protesters a month after Gen Z demonstrations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/india-police-clash-with-protesters-a-month-after-gen-z-demonstrations?traffic_source=rss",
+      "published_date": "2026-08-25T19:24:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kurdish-led forces in Syria dissolve after merging with army",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
+      "published_date": "2026-08-25T19:13:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss",
-      "published_date": "2026-08-24T10:53:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
-      "published_date": "2026-08-24T10:11:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military says strike on alleged drug-smuggling boat kills two",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
-      "published_date": "2026-08-24T09:58:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunfire, bulldozers and f-16 jets: Inside Somalia’s bloody midnight raid that emptied a Mogadishu slum",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-slum-eviction-raid-f16-jets/",
-      "published_date": "2026-08-24T09:33:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
-      "published_date": "2026-08-24T08:18:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How much more are you spending on petrol since the war on Iran began?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
-      "published_date": "2026-08-24T07:26:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Global ocean temperatures hit record high as El Nino intensifies",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
@@ -366,6 +366,20 @@
       "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
       "published_date": "2026-08-20T07:38:22+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Israeli protesters block aid trucks from reaching Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
+      "published_date": "2026-08-25T19:02:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Hosts Business Forum to Expand Trade and Investment Ties with China",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-hosts-business-forum-to-expand-trade-and-investment-ties-with-china/",
+      "published_date": "2026-08-25T14:39:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
@@ -494,18 +508,32 @@
       "category": "Economy"
     },
     {
-      "title": "US pummels Cuban economy with new sanctions on mining, construction",
+      "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
-      "published_date": "2026-08-20T20:37:25+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+      "published_date": "2026-08-25T21:32:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+      "title": "Two unvaccinated people die of measles in US state of Pennsylvania",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
-      "published_date": "2026-08-20T19:11:44+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss",
+      "published_date": "2026-08-25T19:27:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland President Deni Visits Mudug, Announces Peace Conference in Garowe",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-president-deni-visits-mudug-announces-peace-conference-in-garowe/",
+      "published_date": "2026-08-25T12:46:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Urges Cyprus, Greece to Reconsider Stance on Recognition Bid",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-urges-cyprus-greece-to-reconsider-stance-on-recognition-bid/",
+      "published_date": "2026-08-25T12:40:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Deni oo gogol nabadeed Garoowe u dhigay beelaha Sheekhaal iyo Sure",
@@ -617,34 +645,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/24/madaxweyne-deni-oo-tegay-degmada-towfiiq/",
       "published_date": "2026-08-24T14:08:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia disaster agency chief meets new UNDP representative over El Nino preparedness",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-disaster-agency-chief-meets-new-undp-representative-over-el-nino-preparedness/",
-      "published_date": "2026-08-24T13:42:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Natiijadii doorashada Galmudug oo la laalay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/24/natiijadii-doorashada-galmudug-oo-la-laalay/",
-      "published_date": "2026-08-24T10:54:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia president meets top 10 high school graduates, promises free university education",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-president-meets-top-10-high-school-graduates-promises-free-university-education/",
-      "published_date": "2026-08-24T09:18:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
-      "published_date": "2026-08-24T08:29:54+00:00",
       "category": "Local Events"
     }
   ]
