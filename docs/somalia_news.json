@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-24T23:18:56.823219+00:00",
-  "story_count": 93,
+  "last_updated": "2026-08-25T11:33:31.421714+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+      "published_date": "2026-08-25T09:05:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How US sanctions on Iran ripple through global markets and consumers",
       "source": "Al Jazeera",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopia, Somalia and the Colonial Question",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/21/ethiopia-somalia-and-the-colonial-question/",
-      "published_date": "2026-08-21T18:38:20+00:00",
-      "category": "Diplomacy"
+      "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+      "published_date": "2026-08-25T10:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indonesia battles haze as wildfires rage across South Sumatra forests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss",
+      "published_date": "2026-08-25T09:43:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kremlin adviser warns UK drone factories could face attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
+      "published_date": "2026-08-25T09:34:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan says significant progress made in talks on Iran-US war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+      "published_date": "2026-08-25T08:32:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
+      "published_date": "2026-08-25T06:37:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two US carrier groups in Middle East strain navy resources",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
+      "published_date": "2026-08-25T05:19:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+      "published_date": "2026-08-25T04:38:20+00:00",
+      "category": "Military"
     },
     {
       "title": "US removes Syria from ‘state sponsor of terrorism’ list",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Canada-US trade war: Who wins? Who loses?",
+      "title": "Global ocean temperatures hit record high as El Nino intensifies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
-      "published_date": "2026-08-24T07:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
-      "published_date": "2026-08-24T06:55:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
-      "published_date": "2026-08-24T06:30:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland oo soo saartay digniin la xiriirta Burcad-badeedda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/24/puntland-oo-soo-saartay-digniin-la-xiriirta-burcad-badeedda/",
-      "published_date": "2026-08-23T22:56:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-      "published_date": "2026-08-23T21:45:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
-      "published_date": "2026-08-23T19:27:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
-      "published_date": "2026-08-23T18:47:11+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
+      "published_date": "2026-08-25T08:10:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
@@ -361,18 +368,11 @@
       "category": "Energy"
     },
     {
-      "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
+      "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
-      "published_date": "2026-08-18T10:08:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Drone video shows drought-hit fields in England after driest July on record",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss",
-      "published_date": "2026-08-18T09:29:30+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
+      "published_date": "2026-08-25T09:23:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
@@ -508,11 +508,67 @@
       "category": "Economy"
     },
     {
-      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
+      "title": "Deni oo gogol nabadeed Garoowe u dhigay beelaha Sheekhaal iyo Sure",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/25/deni-oo-gogol-nabadeed-garoowe-u-dhigay-beelaha-sheekhaal-iyo-sure/",
+      "published_date": "2026-08-25T11:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland urges Cyprus and Greece to reconsider their stance on recognition.",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-urges-cyprus-and-greece-to-reconsider-their-stance-on-recognition/",
+      "published_date": "2026-08-25T11:05:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland oo ku boorrisay Qubrus iyo Giriigga inay dib u eegis ku sameeyaan mowqifkooda ku aaddan aqoonsiga.",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somaliland-oo-ku-boorrisay-qubrus-iyo-giriigga-inay-dib-u-eegis-ku-sameeyaan-mowqifkooda-ku-aaddan-aqoonsiga/",
+      "published_date": "2026-08-25T11:03:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo gaaray Dhinawda, kuna dhawaaqay gogol nabadeed oo Garoowe lagu qabanayo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madaxweyne-deni-oo-gaaray-dhinawda-kuna-dhawaaqay-gogol-nabadeed-oo-garoowe-lagu-qabanayo/",
+      "published_date": "2026-08-25T10:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-      "published_date": "2026-08-20T04:31:10+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
+      "published_date": "2026-08-25T08:24:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cawad oo ka hadlay go’aanka Maxkamadda Sare ku diiday doorashadii Galmudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/25/cawad-oo-ka-hadlay-goaanka-maxkamadda-sare-ku-diiday-doorashadii-galmudug/",
+      "published_date": "2026-08-25T07:14:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo booqanaya Dhinowda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/25/madaxweyne-deni-oo-booqanaya-dhinowda/",
+      "published_date": "2026-08-25T06:24:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Libya factions draft initial election pact amid lingering mistrust",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss",
+      "published_date": "2026-08-25T06:10:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian president thanks nation for getting off US state terror list",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+      "published_date": "2026-08-25T04:38:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US Supreme Court sides with Trump administration on mail voting",
@@ -589,69 +645,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
       "published_date": "2026-08-24T08:29:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo ka hadlay duqeymihii ka dhacay xeebaha Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/24/madaxweyne-deni-oo-ka-hadlay-duqeymihii-ka-dhacay-xeebaha-puntland/",
-      "published_date": "2026-08-24T06:27:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament speaker concludes talks with opposition lawmakers",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliament-speaker-concludes-talks-with-opposition-lawmakers/",
-      "published_date": "2026-08-24T05:56:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Israel about to split the occupied West Bank in half?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
-      "published_date": "2026-08-23T20:23:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Severe winds toss four aircraft across Italian airport tarmac",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
-      "published_date": "2026-08-23T20:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
-      "published_date": "2026-08-23T17:55:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali prison officers head to Egypt for training",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-prison-officers-head-to-egypt-for-training/",
-      "published_date": "2026-08-23T13:37:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni: Waxaa la joogaa xilligii dib loo fiirin lahaa gobolka Mudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/23/deni-waxaa-la-joogaa-xilligii-dib-loo-fiirin-lahaa-gobolka-mudug/",
-      "published_date": "2026-08-23T12:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
-      "published_date": "2026-08-23T11:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
-      "published_date": "2026-08-23T09:43:47+00:00",
       "category": "Local Events"
     }
   ]
