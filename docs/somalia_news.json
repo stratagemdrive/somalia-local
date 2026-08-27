@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-26T11:34:48.659224+00:00",
-  "story_count": 93,
+  "last_updated": "2026-08-27T04:12:20.720381+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-08-27T02:54:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
+      "published_date": "2026-08-27T02:07:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria’s president makes first Visa payment after sanctions removal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss",
+      "published_date": "2026-08-27T01:08:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
+      "published_date": "2026-08-27T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China’s Xi to visit Kyrgyzstan, Egypt",
       "source": "Al Jazeera",
@@ -15,6 +43,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
       "published_date": "2026-08-26T10:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamse oo safar ugu baxay Qatar",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/26/raiisul-wasaare-xamse-oo-safar-ugu-baxay-qatar/",
+      "published_date": "2026-08-26T08:56:25+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Will Donald Trump’s new sanctions against Iran work?",
+      "title": "US judge declines Minnesota’s effort to force Texas to extradite ICE agent",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
-      "published_date": "2026-08-23T21:34:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
-      "published_date": "2026-08-23T21:23:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
-      "published_date": "2026-08-23T16:12:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
-      "published_date": "2026-08-23T15:38:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria foreign minister says door open for diplomacy with Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss",
-      "published_date": "2026-08-23T10:48:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss",
+      "published_date": "2026-08-26T22:49:49+00:00",
+      "category": "Military"
     },
     {
       "title": "At least eight killed, hundreds missing after Nepal flash flood",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Two US carrier groups in Middle East strain navy resources",
+      "title": "Video: Survivors recount moment flash floods hit Nepal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
-      "published_date": "2026-08-25T05:19:24+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss",
+      "published_date": "2026-08-26T21:15:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Massive natural gas leak in Wisconsin puts community on alert",
@@ -373,6 +380,20 @@
       "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
       "published_date": "2026-08-20T07:38:22+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pro-Israel Democrats picked for top roles on key US House committee",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss",
+      "published_date": "2026-08-27T01:24:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UNRWA chief: Israel seeks to eliminate agency and Palestinian refugee issue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/26-08-sv-unrwa-responds-to-aljazeera-fm?traffic_source=rss",
+      "published_date": "2026-08-26T21:09:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "WFP Warns Somalia Faces Deepening Humanitarian Crisis as Millions Go Hungry",
@@ -501,18 +522,39 @@
       "category": "Economy"
     },
     {
-      "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+      "title": "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
-      "published_date": "2026-08-21T20:07:40+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims?traffic_source=rss",
+      "published_date": "2026-08-27T02:33:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
+      "title": "Cartographic Reality Beats Secessionist Claims in Northern Somalia",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/27/cartographic-reality-beats-secessionist-claims-in-northern-somalia/",
+      "published_date": "2026-08-26T21:01:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
-      "published_date": "2026-08-21T19:08:30+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss",
+      "published_date": "2026-08-26T20:59:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland’s Education Minister Acts to Eliminate Telesom’s exploitative Student Fees for Exam Results",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalilands-education-minister-acts-to-eliminate-telesoms-exploitative-student-fees-for-exam-results/",
+      "published_date": "2026-08-26T18:06:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo xarigga ka jaray qaybta kaydinta badeecadaha dekedda Garacad",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/26/madaxweyne-deni-oo-xarigga-ka-jaray-qaybta-kaydinta-badeecadaha-dekedda-garacad/",
+      "published_date": "2026-08-26T11:05:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
@@ -617,41 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
       "published_date": "2026-08-25T08:24:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cawad oo ka hadlay go’aanka Maxkamadda Sare ku diiday doorashadii Galmudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/25/cawad-oo-ka-hadlay-goaanka-maxkamadda-sare-ku-diiday-doorashadii-galmudug/",
-      "published_date": "2026-08-25T07:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo booqanaya Dhinowda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/25/madaxweyne-deni-oo-booqanaya-dhinowda/",
-      "published_date": "2026-08-25T06:24:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Libya factions draft initial election pact amid lingering mistrust",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss",
-      "published_date": "2026-08-25T06:10:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian president thanks nation for getting off US state terror list",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
-      "published_date": "2026-08-25T04:38:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court sides with Trump administration on mail voting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
-      "published_date": "2026-08-24T22:40:04+00:00",
       "category": "Local Events"
     }
   ]
