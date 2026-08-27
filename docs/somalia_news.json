@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-27T04:12:20.720381+00:00",
-  "story_count": 94,
+  "last_updated": "2026-08-27T20:56:58.656343+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume?traffic_source=rss",
+      "published_date": "2026-08-27T17:47:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia and Tanzania discuss public service reforms and government management",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-tanzania-discuss-public-service-reforms-and-government-management/",
+      "published_date": "2026-08-27T17:13:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamsa oo booqasho rasmi ah ugu ambabaxay Qatar",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-booqasho-rasmi-ah-ugu-ambabaxay-qatar/",
+      "published_date": "2026-08-27T09:25:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
       "source": "Al Jazeera",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How US sanctions on Iran ripple through global markets and consumers",
+      "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
-      "published_date": "2026-08-24T22:46:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss",
+      "published_date": "2026-08-27T20:11:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia security crisis: UN layoffs, asset auctions signal AUSSOM’s endgame",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-crisis-unsos-layoffs-asset-auctions-aussom-endgame/",
-      "published_date": "2026-08-24T18:19:41+00:00",
-      "category": "Diplomacy"
+      "title": "US President Trump signs order renaming Lake Ontario to ‘Lake America’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss",
+      "published_date": "2026-08-27T20:06:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "US threatens toughest sanctions yet against Iran: What we know",
+      "title": "Three killed in strikes on Gaza as Israel renews threats over kite-flying",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-      "published_date": "2026-08-24T10:23:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/27/three-killed-in-strikes-on-gaza-as-israel-renews-threats-over-kite-flying?traffic_source=rss",
+      "published_date": "2026-08-27T18:56:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian military serviceman killed in St Petersburg car blast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/russian-military-serviceman-killed-in-st-petersburg-car-blast?traffic_source=rss",
+      "published_date": "2026-08-27T17:51:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/obituary-ratko-mladic-war-criminal-convicted-of-srebrenica-genocide-dies?traffic_source=rss",
+      "published_date": "2026-08-27T16:56:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike kills ‘newlywed’ woman in south Lebanon, wounds others",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/israeli-strike-kills-newlywed-woman-in-south-lebanon-wounds-others?traffic_source=rss",
+      "published_date": "2026-08-27T16:04:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Golaha Wasiirrada Soomaaliya oo ansixiyey laba heshiis oo ay la gashay Mauritania",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/golaha-wasiirrada-soomaaliya-oo-ansixiyey-laba-heshiis-oo-ay-la-gashay-mauritania/",
+      "published_date": "2026-08-27T11:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Cabinet approves two agreements with Mauritania",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-cabinet-approves-two-agreements-with-mauritania/",
+      "published_date": "2026-08-27T11:12:39+00:00",
+      "category": "Military"
     },
     {
       "title": "US judge declines Minnesota’s effort to force Texas to extradite ICE agent",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "India police clash with protesters a month after Gen Z demonstrations",
+      "title": "Trump executive order bans some foreign equipment in US energy grid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/india-police-clash-with-protesters-a-month-after-gen-z-demonstrations?traffic_source=rss",
-      "published_date": "2026-08-25T19:24:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kurdish-led forces in Syria dissolve after merging with army",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
-      "published_date": "2026-08-25T19:13:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan-Somalia defence pact: Is Islamabad preparing to send troops? What we know",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/pakistan-somalia-defence-pact-troops/",
-      "published_date": "2026-08-25T18:55:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
-      "published_date": "2026-08-25T10:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesia battles haze as wildfires rage across South Sumatra forests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss",
-      "published_date": "2026-08-25T09:43:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kremlin adviser warns UK drone factories could face attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
-      "published_date": "2026-08-25T09:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says significant progress made in talks on Iran-US war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
-      "published_date": "2026-08-25T08:32:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
-      "published_date": "2026-08-25T06:37:32+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss",
+      "published_date": "2026-08-27T20:15:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Video: Survivors recount moment flash floods hit Nepal",
@@ -368,18 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Walmart sees sales drop as US consumer spending retreats",
+      "title": "Trade war between US and Canada could cost 90,000 jobs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
-      "published_date": "2026-08-20T19:18:38+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss",
+      "published_date": "2026-08-27T20:06:09+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
-      "published_date": "2026-08-20T07:38:22+00:00",
-      "category": "Energy"
+      "title": "Somalia PM travels to Qatar to strengthen strategic ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-travels-to-qatar-to-strengthen-strategic-ties/",
+      "published_date": "2026-08-27T09:25:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pro-Israel Democrats picked for top roles on key US House committee",
@@ -508,18 +515,81 @@
       "category": "Economy"
     },
     {
-      "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
+      "title": "US Postal Service says mail-in ballot restrictions now in effect",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
-      "published_date": "2026-08-21T22:52:40+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/27/us-postal-service-says-mail-in-ballot-restrictions-now-in-effect?traffic_source=rss",
+      "published_date": "2026-08-27T20:38:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+      "title": "Zambia opposition leader questioned over ‘treason’ amid election fallout",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
-      "published_date": "2026-08-21T20:16:59+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss",
+      "published_date": "2026-08-27T20:13:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria’s football federation chief resigns amid corruption allegations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss",
+      "published_date": "2026-08-27T19:57:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a glacial collapse caused Nepal’s catastrophic floods",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss",
+      "published_date": "2026-08-27T19:43:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How California is preparing for Donald Trump’s midterm election scrutiny",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/8/27/how-california-is-preparing-to-fight-trumps-criticisms-of-the-midterm-vote?traffic_source=rss",
+      "published_date": "2026-08-27T17:11:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia holds national meeting to prepare for possible Super El Niño impacts",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-holds-national-meeting-to-prepare-for-possible-super-el-nino-impacts/",
+      "published_date": "2026-08-27T17:09:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland State of Somalia Claims to Have Proof Linking Turkish Forces to Drone Attacks",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/puntland-state-of-somalia-claims-to-have-proof-linking-turkish-forces-to-drone-attacks/",
+      "published_date": "2026-08-27T15:40:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hunger crisis threatens Somalia as floods come on top of drought and conflict",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hunger-crisis-threatens-somalia-as-floods-come-on-top-of-drought-and-conflict/",
+      "published_date": "2026-08-27T10:38:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia: LUTUF cargo ship hijacker says he’s a US citizen",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-lutuf-cargo-ship-hijacker-us-citizen/",
+      "published_date": "2026-08-27T10:02:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia disaster chief meets NRC head over drought, floods and displacement",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-disaster-chief-meets-nrc-head-over-drought-floods-and-displacement/",
+      "published_date": "2026-08-27T09:14:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ku eedeysay Turkiga duqeymihii ka dhacay xeebaheeda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/27/puntland-oo-ku-eedeysay-turkiga-duqeymihii-ka-dhacay-xeebaheeda/",
+      "published_date": "2026-08-27T08:48:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
@@ -582,83 +652,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/imo-calls-for-action-as-somali-pirates-hold-more-than-90-seafarers/",
       "published_date": "2026-08-26T08:34:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump’s Korean gambit exposes a shifting East Asian order",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss",
-      "published_date": "2026-08-26T08:18:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
-      "published_date": "2026-08-25T21:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two unvaccinated people die of measles in US state of Pennsylvania",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss",
-      "published_date": "2026-08-25T19:27:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court Annuls Galmudug Elections, Orders Fresh Vote Over Serious Legal Violations",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/court-annuls-galmudug-elections-orders-fresh-vote-over-serious-legal-violations/",
-      "published_date": "2026-08-25T17:50:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland President Deni Visits Mudug, Announces Peace Conference in Garowe",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-president-deni-visits-mudug-announces-peace-conference-in-garowe/",
-      "published_date": "2026-08-25T12:46:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Urges Cyprus, Greece to Reconsider Stance on Recognition Bid",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-urges-cyprus-greece-to-reconsider-stance-on-recognition-bid/",
-      "published_date": "2026-08-25T12:40:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni oo gogol nabadeed Garoowe u dhigay beelaha Sheekhaal iyo Sure",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/25/deni-oo-gogol-nabadeed-garoowe-u-dhigay-beelaha-sheekhaal-iyo-sure/",
-      "published_date": "2026-08-25T11:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland urges Cyprus and Greece to reconsider their stance on recognition.",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-urges-cyprus-and-greece-to-reconsider-their-stance-on-recognition/",
-      "published_date": "2026-08-25T11:05:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland oo ku boorrisay Qubrus iyo Giriigga inay dib u eegis ku sameeyaan mowqifkooda ku aaddan aqoonsiga.",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-oo-ku-boorrisay-qubrus-iyo-giriigga-inay-dib-u-eegis-ku-sameeyaan-mowqifkooda-ku-aaddan-aqoonsiga/",
-      "published_date": "2026-08-25T11:03:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo gaaray Dhinawda, kuna dhawaaqay gogol nabadeed oo Garoowe lagu qabanayo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweyne-deni-oo-gaaray-dhinawda-kuna-dhawaaqay-gogol-nabadeed-oo-garoowe-lagu-qabanayo/",
-      "published_date": "2026-08-25T10:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
-      "published_date": "2026-08-25T08:24:13+00:00",
       "category": "Local Events"
     }
   ]
