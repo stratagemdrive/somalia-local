@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-27T20:56:58.656343+00:00",
-  "story_count": 93,
+  "last_updated": "2026-08-28T06:44:32.651806+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Soomaaliya iyo Dalalka Deriska oo Isku Raacay Xoojinta Amniga Badda Xilli ay Kordhayaan Weerarada Burcad-badeedda",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-iyo-dalalka-deriska-oo-isku-raacay-xoojinta-amniga-badda-xilli-ay-kordhayaan-weerarada-burcad-badeedda/",
+      "published_date": "2026-08-28T05:17:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fmr US Diplomat: Netanyahu sees ‘political value’ in Turkiye as enemy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/fmr-us-diplomat-netanyahu-sees-political-value-in-turkiye-as-enemy?traffic_source=rss",
+      "published_date": "2026-08-28T01:29:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
       "source": "Al Jazeera",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The United Nations has concluded its justice and prison support program in Somalia",
+      "title": "Madaxweynihii Hore ee Koonfur Galbeed Laftagareen oo Midowga Afrika uga Digay Faragelinta Khilaafaadka Soomaaliya",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/the-united-nations-has-concluded-its-justice-and-prison-support-program-in-somalia/",
-      "published_date": "2026-08-25T11:16:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/madaxweynihii-hore-ee-koonfur-galbeed-laftagareen-oo-midowga-afrika-uga-digay-faragelinta-khilaafaadka-soomaaliya/",
+      "published_date": "2026-08-28T05:52:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+      "title": "Six months of war between Iran, US leave Arab states facing tough questions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
-      "published_date": "2026-08-25T09:05:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss",
+      "published_date": "2026-08-28T05:37:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nepal’s mudslide wiped out areas of eastern China, army helps search",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss",
+      "published_date": "2026-08-28T04:20:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fired Stars and Stripes journalists sue Trump administration for censorship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/fired-stars-and-stripes-journalists-sue-trump-administration-for-censorship?traffic_source=rss",
+      "published_date": "2026-08-28T02:16:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chad accuses Sudan of air strike near shared border that killed 12",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/chad-accuses-sudan-of-deadly-air-strike-near-shared-border?traffic_source=rss",
+      "published_date": "2026-08-28T01:33:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-08-28T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Haiti police confront public frustration after deadly gang attack kills 47",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss",
+      "published_date": "2026-08-27T22:51:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bosnian Serb General Ratko Mladic has died",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss",
+      "published_date": "2026-08-27T22:48:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
@@ -228,60 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Guddiga Doorashooyinka oo war ka soo saaray go’aanka Maxkamadda Sare",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/26/guddiga-doorashooyinka-oo-war-ka-soo-saaray-goaanka-maxkamadda-sare/",
-      "published_date": "2026-08-26T08:36:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AUSSOM Nigerian Police Commander renews pledge to support peace and security in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-nigerian-police-commander-renews-pledge-to-support-peace-and-security-in-somalia/",
-      "published_date": "2026-08-26T08:18:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Army Black Hawk helicopter crashes in Colorado",
+      "title": "Death toll from Nepal-Tibet flood passes 470 as barrier lake threatens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss",
-      "published_date": "2026-08-26T07:47:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/28/death-toll-from-nepal-tibet-flood-passes-470-as-barrier-lake-threatens?traffic_source=rss",
+      "published_date": "2026-08-28T06:08:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
+      "title": "Record drought grips Europe as rivers and crops dry up",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
-      "published_date": "2026-08-26T07:26:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/record-drought-grips-europe-as-rivers-and-crops-dry-up?traffic_source=rss",
+      "published_date": "2026-08-28T05:43:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+      "title": "US nears deal to secure stake in Venezuelan oil fields, insiders say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
-      "published_date": "2026-08-25T21:26:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US soldier who called for Trump impeachment facing military charges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
-      "published_date": "2026-08-25T21:16:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian Democratic Forces announce their dissolution",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
-      "published_date": "2026-08-25T21:09:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigeria launches operation to rescue 600 kidnapped victims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
-      "published_date": "2026-08-25T20:37:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/28/us-nears-deal-to-secure-stake-in-venezuelan-oil-fields-insiders-say?traffic_source=rss",
+      "published_date": "2026-08-28T02:32:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump executive order bans some foreign equipment in US energy grid",
@@ -373,6 +394,20 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
       "published_date": "2026-08-21T09:40:04+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Anti-migrant protesters burn tents in Ceuta and block Red Cross aid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/anti-migrant-protesters-burn-tents-in-ceuta-and-block-red-cross-aid?traffic_source=rss",
+      "published_date": "2026-08-28T02:15:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US aid cuts threaten Ghana’s child immunisation gains",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss",
+      "published_date": "2026-08-28T00:19:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trade war between US and Canada could cost 90,000 jobs",
@@ -501,18 +536,11 @@
       "category": "Economy"
     },
     {
-      "title": "How will Trump’s tariffs affect Canada’s economy?",
+      "title": "Indonesians march on parliament to demand crackdown on corruption",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
-      "published_date": "2026-08-22T08:01:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
-      "published_date": "2026-08-22T07:35:08+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/28/indonesians-march-on-parliament-to-demand-crackdown-on-corruption?traffic_source=rss",
+      "published_date": "2026-08-28T04:17:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US Postal Service says mail-in ballot restrictions now in effect",
@@ -645,13 +673,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/lindsey-grahams-sister-up-for-election-to-his-us-senate-seat?traffic_source=rss",
       "published_date": "2026-08-26T08:42:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IMO calls for action as Somali pirates hold more than 90 seafarers",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/imo-calls-for-action-as-somali-pirates-hold-more-than-90-seafarers/",
-      "published_date": "2026-08-26T08:34:37+00:00",
       "category": "Local Events"
     }
   ]
