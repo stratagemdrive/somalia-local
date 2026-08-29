@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-29T04:00:16.361381+00:00",
+  "last_updated": "2026-08-29T15:33:15.163586+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "African Union condemns deadly attack on UN peacekeepers in South Sudan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/african-union-condemns-deadly-attack-on-un-peacekeepers-in-south-sudan/",
+      "published_date": "2026-08-29T12:54:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Tanzania Discuss Youth Jobs and Digital Government Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-tanzania-discuss-youth-jobs-and-digital-government-cooperation/",
+      "published_date": "2026-08-29T06:12:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
       "source": "Al Jazeera",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
+      "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss",
-      "published_date": "2026-08-26T07:41:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+      "published_date": "2026-08-29T15:25:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump threatens Iran’s partners: How do secondary sanctions work?",
+      "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss",
-      "published_date": "2026-08-26T07:18:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+      "published_date": "2026-08-29T12:56:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zimbabwe minibus carrying church members crashes, killing at least 27",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss",
+      "published_date": "2026-08-29T12:02:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss",
+      "published_date": "2026-08-29T10:49:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+      "published_date": "2026-08-29T10:36:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US revokes visa of former Iraqi minister after watchlist listing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
+      "published_date": "2026-08-29T09:05:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uganda to withdraw all UPDF troops from Somalia by August 1, 2027, army chief Says – AUSSOM faces major test",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-updf-withdraw-troops-somalia-august-1-2027-aussom/",
+      "published_date": "2026-08-29T07:59:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uganda to withdraw troops from Somalia by August 2027, Muhoozi says",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uganda-to-withdraw-troops-from-somalia-by-august-2027-muhoozi-says/",
+      "published_date": "2026-08-29T06:52:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Chad accuses Sudan of air strike near shared border that killed 12",
+      "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/chad-accuses-sudan-of-deadly-air-strike-near-shared-border?traffic_source=rss",
-      "published_date": "2026-08-28T01:33:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-08-28T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Haiti police confront public frustration after deadly gang attack kills 47",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss",
-      "published_date": "2026-08-27T22:51:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bosnian Serb General Ratko Mladic has died",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss",
-      "published_date": "2026-08-27T22:48:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss",
-      "published_date": "2026-08-27T20:11:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US President Trump signs order renaming Lake Ontario to ‘Lake America’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss",
-      "published_date": "2026-08-27T20:06:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three killed in strikes on Gaza as Israel renews threats over kite-flying",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/three-killed-in-strikes-on-gaza-as-israel-renews-threats-over-kite-flying?traffic_source=rss",
-      "published_date": "2026-08-27T18:56:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian military serviceman killed in St Petersburg car blast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/russian-military-serviceman-killed-in-st-petersburg-car-blast?traffic_source=rss",
-      "published_date": "2026-08-27T17:51:17+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
+      "published_date": "2026-08-29T11:30:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
@@ -382,11 +389,32 @@
       "category": "Energy"
     },
     {
-      "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
+      "title": "Chinese rescuers race to reach mudslide survivors in Nepal-China border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
-      "published_date": "2026-08-22T07:11:27+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/chinese-rescuers-race-to-reach-mudslide-survivors-in-nepal-china-border?traffic_source=rss",
+      "published_date": "2026-08-29T13:10:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss",
+      "published_date": "2026-08-29T13:10:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
+      "published_date": "2026-08-29T12:58:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
+      "published_date": "2026-08-29T10:09:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
@@ -501,32 +529,25 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia Hosts Business Forum to Expand Trade and Investment Ties with China",
+      "title": "Doolow airport reopens after nearly two years amid Somalia-Jubaland tensions",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-hosts-business-forum-to-expand-trade-and-investment-ties-with-china/",
-      "published_date": "2026-08-25T14:39:00+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/doolow-airport-reopens-after-nearly-two-years-amid-somalia-jubaland-tensions/",
+      "published_date": "2026-08-29T12:49:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
+      "title": "Madaxweyne Deni oo ka degay Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/29/madaxweyne-deni-oo-ka-degay-boosaaso/",
+      "published_date": "2026-08-29T12:20:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India and Pakistan are united in spending citizen lives like pocket change",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
-      "published_date": "2026-08-25T09:23:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
-      "published_date": "2026-08-24T20:48:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somali PM chairs first meeting of national skills and jobs committee",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pm-chairs-first-meeting-of-national-skills-and-jobs-committee/",
-      "published_date": "2026-08-24T13:47:10+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
+      "published_date": "2026-08-29T07:08:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nepal and China resume flood rescue as death toll nears 600",
@@ -645,27 +666,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalias-parliament-speaker-welcomes-algerias-return-to-mogadishu/",
       "published_date": "2026-08-28T11:31:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dhulgariir ka dhacay xeebaha Caluula ee Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/28/dhulgariir-ka-dhacay-xeebaha-caluula-ee-puntland/",
-      "published_date": "2026-08-28T10:37:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesians march on parliament to demand crackdown on corruption",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/indonesians-march-on-parliament-to-demand-crackdown-on-corruption?traffic_source=rss",
-      "published_date": "2026-08-28T04:17:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Postal Service says mail-in ballot restrictions now in effect",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/us-postal-service-says-mail-in-ballot-restrictions-now-in-effect?traffic_source=rss",
-      "published_date": "2026-08-27T20:38:59+00:00",
       "category": "Local Events"
     }
   ]
