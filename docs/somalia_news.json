@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-28T21:20:05.378123+00:00",
-  "story_count": 94,
+  "last_updated": "2026-08-29T04:00:16.361381+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+      "published_date": "2026-08-29T00:53:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
       "source": "Al Jazeera",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "New US sanctions signal Trump desperation on Iran, experts say",
+      "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
-      "published_date": "2026-08-25T20:34:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+      "published_date": "2026-08-29T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike kills three Palestinians in Jenin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss",
+      "published_date": "2026-08-28T22:11:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
+      "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/obituary-ratko-mladic-war-criminal-convicted-of-srebrenica-genocide-dies?traffic_source=rss",
-      "published_date": "2026-08-27T16:56:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills ‘newlywed’ woman in south Lebanon, wounds others",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/israeli-strike-kills-newlywed-woman-in-south-lebanon-wounds-others?traffic_source=rss",
-      "published_date": "2026-08-27T16:04:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
+      "published_date": "2026-08-29T02:32:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "What lessons can be learned from the Nepal-Tibet flood disaster?",
@@ -380,6 +387,20 @@
       "url": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
       "published_date": "2026-08-22T07:11:27+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss",
+      "published_date": "2026-08-29T00:19:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "With the US and Canada locked in a trade war, fears of a recession lurk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/28/with-the-us-and-canada-locked-in-a-trade-war-fears-of-a-recession-lurk?traffic_source=rss",
+      "published_date": "2026-08-28T21:39:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
@@ -508,18 +529,60 @@
       "category": "Economy"
     },
     {
-      "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
+      "title": "Nepal and China resume flood rescue as death toll nears 600",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
-      "published_date": "2026-08-24T09:10:12+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/29/nepal-and-china-resume-flood-rescue-as-death-toll-nears-600?traffic_source=rss",
+      "published_date": "2026-08-29T03:35:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+      "title": "Guinea-Bissau votes on a stronger presidency: What’s at stake?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
-      "published_date": "2026-08-23T15:54:36+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/29/guinea-bissau-votes-on-a-stronger-presidency-whats-at-stake?traffic_source=rss",
+      "published_date": "2026-08-29T02:38:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US revises statements suggesting Chinese hackers attacked agencies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
+      "published_date": "2026-08-29T00:46:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain asks EU for help to process 5,000 Ceuta migrants amid local unrest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/spain-asks-eu-for-help-to-process-5000-ceuta-migrants-amid-local-unrest?traffic_source=rss",
+      "published_date": "2026-08-28T23:39:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands take part in March on Washington to promote voting rights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
+      "published_date": "2026-08-28T22:59:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Digniin loo diray dadka ku nool xeebaha Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/29/digniin-loo-diray-dadka-ku-nool-xeebaha-puntland/",
+      "published_date": "2026-08-28T21:33:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "RSS chief’s US visit faces protests over Hindu nationalism",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-hr-groups-against-the-rss-fm?traffic_source=rss",
+      "published_date": "2026-08-28T21:25:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "8-year-old Nepal flood survivor reunited with mother after rescue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/8-year-old-nepal-flood-survivor-reunited-with-mother-after-rescue?traffic_source=rss",
+      "published_date": "2026-08-28T21:01:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Madaxweyne Deni oo kulan la qaatay mas’uuliyiintii ku wehelinayay safarkii Mudug",
@@ -603,62 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/27/us-postal-service-says-mail-in-ballot-restrictions-now-in-effect?traffic_source=rss",
       "published_date": "2026-08-27T20:38:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia opposition leader questioned over ‘treason’ amid election fallout",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss",
-      "published_date": "2026-08-27T20:13:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria’s football federation chief resigns amid corruption allegations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss",
-      "published_date": "2026-08-27T19:57:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a glacial collapse caused Nepal’s catastrophic floods",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss",
-      "published_date": "2026-08-27T19:43:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How California is preparing for Donald Trump’s midterm election scrutiny",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/8/27/how-california-is-preparing-to-fight-trumps-criticisms-of-the-midterm-vote?traffic_source=rss",
-      "published_date": "2026-08-27T17:11:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia holds national meeting to prepare for possible Super El Niño impacts",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-holds-national-meeting-to-prepare-for-possible-super-el-nino-impacts/",
-      "published_date": "2026-08-27T17:09:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland State of Somalia Claims to Have Proof Linking Turkish Forces to Drone Attacks",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/puntland-state-of-somalia-claims-to-have-proof-linking-turkish-forces-to-drone-attacks/",
-      "published_date": "2026-08-27T15:40:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hunger crisis threatens Somalia as floods come on top of drought and conflict",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hunger-crisis-threatens-somalia-as-floods-come-on-top-of-drought-and-conflict/",
-      "published_date": "2026-08-27T10:38:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: LUTUF cargo ship hijacker says he’s a US citizen",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-lutuf-cargo-ship-hijacker-us-citizen/",
-      "published_date": "2026-08-27T10:02:22+00:00",
       "category": "Local Events"
     }
   ]
