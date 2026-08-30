@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-30T01:00:05.702609+00:00",
-  "story_count": 96,
+  "last_updated": "2026-08-30T15:16:48.249817+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Somalia and Qatar leaders discuss security, trade and bilateral ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-qatar-leaders-discuss-security-trade-and-bilateral-ties/",
+      "published_date": "2026-08-30T14:41:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamsa Cabdi Barre oo Qatar kala hadlay xoojinta xiriirka labada dal",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-cabdi-barre-oo-qatar-kala-hadlay-xoojinta-xiriirka-labada-dal/",
+      "published_date": "2026-08-30T14:05:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
+      "published_date": "2026-08-30T13:23:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Infantino must go by 2027 in FIFA overhaul, Dutch football body says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss",
+      "published_date": "2026-08-30T12:06:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least seven dead after ferry capsizes off Northern Cyprus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss",
+      "published_date": "2026-08-30T11:52:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
+      "published_date": "2026-08-30T10:30:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamse oo kulan la qaatay dhiggiisa Qatar",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/30/raiisul-wasaare-xamse-oo-kulan-la-qaatay-dhiggiisa-qatar/",
+      "published_date": "2026-08-30T10:29:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Tehran to stand firm to US sanctions; settlers besiege Qusra",
       "source": "Al Jazeera",
@@ -95,53 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
+      "title": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/30/turkiye-somalia-forces-free-cargo-vessel-hijacked-by-pirates/",
+      "published_date": "2026-08-30T14:09:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger’s military-led government says it contained mutiny: What next?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume?traffic_source=rss",
-      "published_date": "2026-08-27T17:47:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next?traffic_source=rss",
+      "published_date": "2026-08-30T13:01:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia and Tanzania discuss public service reforms and government management",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-tanzania-discuss-public-service-reforms-and-government-management/",
-      "published_date": "2026-08-27T17:13:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ra’iisul Wasaare Xamsa oo booqasho rasmi ah ugu ambabaxay Qatar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-booqasho-rasmi-ah-ugu-ambabaxay-qatar/",
-      "published_date": "2026-08-27T09:25:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "title": "Palestinian mother in agony as Israeli attack kills her son",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-08-27T02:54:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/palestinian-mother-in-agony-as-israeli-attack-kills-her-son?traffic_source=rss",
+      "published_date": "2026-08-30T12:33:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
+      "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
-      "published_date": "2026-08-27T02:07:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
+      "published_date": "2026-08-30T12:26:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syria’s president makes first Visa payment after sanctions removal",
+      "title": "How has life changed for Iranians six months into the war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss",
-      "published_date": "2026-08-27T01:08:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss",
+      "published_date": "2026-08-30T12:08:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks",
+      "title": "Six months on, what did the strikes on Iran achieve?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
-      "published_date": "2026-08-27T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
+      "published_date": "2026-08-30T11:24:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
@@ -239,48 +281,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/uganda-updf-withdraw-troops-somalia-august-1-2027-aussom/",
       "published_date": "2026-08-29T07:59:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uganda to withdraw troops from Somalia by August 2027, Muhoozi says",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uganda-to-withdraw-troops-from-somalia-by-august-2027-muhoozi-says/",
-      "published_date": "2026-08-29T06:52:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
-      "published_date": "2026-08-29T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills three Palestinians in Jenin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss",
-      "published_date": "2026-08-28T22:11:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
-      "published_date": "2026-08-28T19:03:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-      "published_date": "2026-08-28T17:47:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss",
-      "published_date": "2026-08-28T17:36:56+00:00",
       "category": "Military"
     },
     {
@@ -382,18 +382,18 @@
       "category": "Energy"
     },
     {
-      "title": "Flooding across Caracas, Venezuela, after heavy rains",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
-      "published_date": "2026-08-23T08:08:27+00:00",
-      "category": "Energy"
+      "title": "Bangiga Adduunka iyo Bangiga Horumarinta Afrika oo warbixinno   ka soo saaray dhaqaalaha Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/bangiga-adduunka-iyo-bangiga-horumarinta-afrika-oo-warbixinno-ka-soo-saaray-dhaqaalaha-soomaaliya/",
+      "published_date": "2026-08-30T07:04:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Solar kiosks bring healthcare closer to patients in Chad",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
-      "published_date": "2026-08-23T03:21:03+00:00",
-      "category": "Energy"
+      "title": "Somalia, Turkish Charity Launch Cash Aid Program for Vulnerable Orphans",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-turkish-charity-launch-cash-aid-program-for-vulnerable-orphans/",
+      "published_date": "2026-08-30T06:50:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Anger mounts in Nepal over the government’s response to flash flood",
@@ -522,18 +522,39 @@
       "category": "Economy"
     },
     {
-      "title": "WFP oo Golaha Ammaanka uga Digtay Xaalad Gaajo oo Ba’an oo Soomaaliya Ka Taagan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wfp-oo-golaha-ammaanka-uga-digtay-xaalad-gaajo-oo-baan-oo-soomaaliya-ka-taagan/",
-      "published_date": "2026-08-26T08:31:11+00:00",
-      "category": "Economy"
+      "title": "Puntland oo sheegtay in ay Turkiga kula xisaabtamayso dadkii lagu laayay xeebaheeda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/30/puntland-oo-sheegtay-in-ay-turkiga-kula-xisaabtamayso-dadkii-lagu-laayay-xeebaheeda/",
+      "published_date": "2026-08-30T11:35:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
+      "title": "Somali Senate Speaker meets National Women’s Council leadership",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-senate-speaker-meets-national-womens-council-leadership/",
+      "published_date": "2026-08-30T11:18:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos: Nepal issues alerts as region’s flash flood death toll nears 800",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
-      "published_date": "2026-08-26T05:20:17+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss",
+      "published_date": "2026-08-30T09:51:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Modernizes Financial System with Transition to Program-Based Budgeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-modernizes-financial-system-with-transition-to-program-based-budgeting/",
+      "published_date": "2026-08-30T06:52:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland Condemns Alleged Ransom Payment to Pirates, Accuses Turkey of Deadly Airstrikes",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-condemns-alleged-ransom-payment-to-pirates-accuses-turkey-of-deadly-airstrikes/",
+      "published_date": "2026-08-30T06:48:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "President Irro Meets Former Northeastern MPs Who Have Returned to Somaliland",
@@ -638,41 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
       "published_date": "2026-08-28T22:59:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Digniin loo diray dadka ku nool xeebaha Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/29/digniin-loo-diray-dadka-ku-nool-xeebaha-puntland/",
-      "published_date": "2026-08-28T21:33:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RSS chief’s US visit faces protests over Hindu nationalism",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-hr-groups-against-the-rss-fm?traffic_source=rss",
-      "published_date": "2026-08-28T21:25:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "8-year-old Nepal flood survivor reunited with mother after rescue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/8-year-old-nepal-flood-survivor-reunited-with-mother-after-rescue?traffic_source=rss",
-      "published_date": "2026-08-28T21:01:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo kulan la qaatay mas’uuliyiintii ku wehelinayay safarkii Mudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/28/madaxweyne-deni-oo-kulan-la-qaatay-masuuliyiintii-ku-wehelinayay-safarkii-mudug/",
-      "published_date": "2026-08-28T20:33:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police fire teargas at Kenyan traders protesting higher taxes on imports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/police-fire-teargas-at-kenyan-traders-protesting-higher-taxes-on-imports?traffic_source=rss",
-      "published_date": "2026-08-28T19:02:40+00:00",
       "category": "Local Events"
     }
   ]
