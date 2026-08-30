@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-29T15:33:15.163586+00:00",
-  "story_count": 95,
+  "last_updated": "2026-08-30T01:00:05.702609+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Iran war live: Tehran to stand firm to US sanctions; settlers besiege Qusra",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
+      "published_date": "2026-08-30T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss",
+      "published_date": "2026-08-29T20:36:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can international diplomacy find a way forward in Libya?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
+      "published_date": "2026-08-29T20:01:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AU clears peacekeepers to join Somalia fight against Southwest Darwish forces",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/au-clears-peacekeepers-southwest-darwish-forces-somalia/",
+      "published_date": "2026-08-29T18:51:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+      "published_date": "2026-08-29T17:41:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "African Union condemns deadly attack on UN peacekeepers in South Sudan",
       "source": "Shabelle Media",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China’s Xi to visit Kyrgyzstan, Egypt",
+      "title": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
-      "published_date": "2026-08-26T10:29:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss",
+      "published_date": "2026-08-30T00:16:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+      "title": "Israeli settlers attack international news team in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
-      "published_date": "2026-08-26T10:00:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-29T23:48:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ra’iisul Wasaare Xamse oo safar ugu baxay Qatar",
+      "title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
+      "published_date": "2026-08-29T20:05:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland oo war ka soo saartay siidaynta markabka Lutuf",
       "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/26/raiisul-wasaare-xamse-oo-safar-ugu-baxay-qatar/",
-      "published_date": "2026-08-26T08:56:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://puntlandpost.net/2026/08/29/puntland-oo-war-ka-soo-saartay-siidaynta-markabka-lutuf/",
+      "published_date": "2026-08-29T19:46:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK backs Somalia’s path to security and political progress as Minister visits Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uk-backs-somalias-path-to-security-and-political-progress-as-minister-visits-mogadishu/",
-      "published_date": "2026-08-26T08:24:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
+      "title": "Haitian gangs release 13 captives after mass kidnapping in Kenscoff",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
-      "published_date": "2026-08-26T07:43:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/29/haitian-gangs-release-13-captives-after-mass-kidnapping-in-kenscoff?traffic_source=rss",
+      "published_date": "2026-08-29T18:30:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+      "published_date": "2026-08-29T17:09:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkish Navy Frees Hijacked Cargo Ship in Cooperation With Somali Forces",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/turkish-navy-frees-hijacked-cargo-ship-in-cooperation-with-somali-forces/",
+      "published_date": "2026-08-29T16:10:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow",
+      "title": "Ukrainian nuclear power plant without external power for over a week",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss",
-      "published_date": "2026-08-28T16:42:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
+      "published_date": "2026-08-29T23:25:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "6 months of war on Iran",
+      "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/6-months-of-war-on-iran?traffic_source=rss",
-      "published_date": "2026-08-28T15:09:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Trump really rename Lake Ontario, ‘Lake America’?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss",
-      "published_date": "2026-08-28T14:36:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Madaxweynihii Hore ee Koonfur Galbeed Laftagareen oo Midowga Afrika uga Digay Faragelinta Khilaafaadka Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynihii-hore-ee-koonfur-galbeed-laftagareen-oo-midowga-afrika-uga-digay-faragelinta-khilaafaadka-soomaaliya/",
-      "published_date": "2026-08-28T05:52:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six months of war between Iran, US leave Arab states facing tough questions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss",
-      "published_date": "2026-08-28T05:37:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nepal’s mudslide wiped out areas of eastern China, army helps search",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss",
-      "published_date": "2026-08-28T04:20:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fired Stars and Stripes journalists sue Trump administration for censorship",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/fired-stars-and-stripes-journalists-sue-trump-administration-for-censorship?traffic_source=rss",
-      "published_date": "2026-08-28T02:16:50+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss",
+      "published_date": "2026-08-29T22:33:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
@@ -382,11 +396,11 @@
       "category": "Energy"
     },
     {
-      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+      "title": "Anger mounts in Nepal over the government’s response to flash flood",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-      "published_date": "2026-08-22T20:05:52+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss",
+      "published_date": "2026-08-29T20:58:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "Chinese rescuers race to reach mudslide survivors in Nepal-China border",
@@ -522,11 +536,53 @@
       "category": "Economy"
     },
     {
-      "title": "Israeli protesters block aid trucks from reaching Gaza",
+      "title": "President Irro Meets Former Northeastern MPs Who Have Returned to Somaliland",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/president-irro-meets-former-northeastern-mps-who-have-returned-to-somaliland/",
+      "published_date": "2026-08-29T23:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MV LUTUF freed off Somalia after Turkey pays ransom to Somali pirates",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/mv-lutuf-freed-off-somalia-turkey-ransom-somali-pirates/",
+      "published_date": "2026-08-29T20:44:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
-      "published_date": "2026-08-25T19:02:18+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+      "published_date": "2026-08-29T20:07:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan suspends eight officials over hospital fire that killed 14 babies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss",
+      "published_date": "2026-08-29T18:26:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudan’s date palm trees under threat from drought and wildfires",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss",
+      "published_date": "2026-08-29T18:07:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Minister Presents Family and Child Rights Bills to Parliament",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-minister-presents-family-and-child-rights-bills-to-parliament/",
+      "published_date": "2026-08-29T16:07:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dowladda Federaalka oo sheegtay in ay Burcad-badeed ahaayeen raggii lagu laayay xeebaha Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/08/29/dowladda-federaalka-oo-sheegtay-in-ay-burcad-badeed-ahaayeen-raggii-lagu-laayay-xeebaha-puntland/",
+      "published_date": "2026-08-29T15:24:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Doolow airport reopens after nearly two years amid Somalia-Jubaland tensions",
@@ -617,55 +673,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/police-fire-teargas-at-kenyan-traders-protesting-higher-taxes-on-imports?traffic_source=rss",
       "published_date": "2026-08-28T19:02:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al Jazeera reports from Nepal as flood survivors flee new threat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-barnaby-lo-wt-reported?traffic_source=rss",
-      "published_date": "2026-08-28T16:56:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenyan police fire tear gas at Nairobi protest against import duty hike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/kenyan-police-fire-tear-gas-at-nairobi-protest-against-import-duty-hike?traffic_source=rss",
-      "published_date": "2026-08-28T16:12:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LIVE: Crystal Palace vs Manchester City – Premier League",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/28/live-crystal-palace-vs-man-city-premier-league?traffic_source=rss",
-      "published_date": "2026-08-28T16:01:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepali families pray for miracles with relatives missing after flood",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/28/nepali-families-pray-for-miracles-with-relatives-missing-after-flood?traffic_source=rss",
-      "published_date": "2026-08-28T14:59:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni: Burcad-badeedda waxaa ka dambeeya dalal shisheeye oo doonaya khayraadka Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/28/deni-burcad-badeedda-waxaa-ka-dambeeya-dalal-shisheeye-oo-doonaya-khayraadka-puntland/",
-      "published_date": "2026-08-28T12:07:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former South West leader rejects Al-Shabaab links to regional forces",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-south-west-leader-rejects-al-shabaab-links-to-regional-forces/",
-      "published_date": "2026-08-28T11:42:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Parliament Speaker Welcomes Algeria’s Return to Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-parliament-speaker-welcomes-algerias-return-to-mogadishu/",
-      "published_date": "2026-08-28T11:31:29+00:00",
       "category": "Local Events"
     }
   ]
