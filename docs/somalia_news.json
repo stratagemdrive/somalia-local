@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-30T15:16:48.249817+00:00",
-  "story_count": 94,
+  "last_updated": "2026-08-31T01:03:36.305848+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+      "published_date": "2026-08-30T20:38:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia and Qatar leaders discuss security, trade and bilateral ties",
       "source": "Shabelle Media",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Fmr US Diplomat: Netanyahu sees ‘political value’ in Turkiye as enemy",
+      "title": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/fmr-us-diplomat-netanyahu-sees-political-value-in-turkiye-as-enemy?traffic_source=rss",
-      "published_date": "2026-08-28T01:29:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+      "published_date": "2026-08-31T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss",
+      "published_date": "2026-08-30T23:08:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike kills 3-year-old child in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+      "published_date": "2026-08-30T21:02:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia’s govt, Al-Shabaab battle for Basra in second week",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-govt-al-shabaab-battle-basra-second-week/",
+      "published_date": "2026-08-30T19:10:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss",
+      "published_date": "2026-08-30T18:19:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
@@ -249,39 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Zimbabwe minibus carrying church members crashes, killing at least 27",
+      "title": "What are the implications of the US-Venezuela oil deal?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss",
-      "published_date": "2026-08-29T12:02:57+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
+      "published_date": "2026-08-31T00:41:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
+      "title": "Dozens evacuated and about 15 missing after Grand Canyon flash flood",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss",
-      "published_date": "2026-08-29T10:49:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss",
+      "published_date": "2026-08-31T00:31:51+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+      "title": "Flash flooding in Grand Canyon leaves more than 20 people missing",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
-      "published_date": "2026-08-29T10:36:11+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss",
+      "published_date": "2026-08-31T00:19:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US revokes visa of former Iraqi minister after watchlist listing",
+      "title": "What is Notting Hill Carnival’s Jab Jab parade?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
-      "published_date": "2026-08-29T09:05:30+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss",
+      "published_date": "2026-08-30T23:29:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Uganda to withdraw all UPDF troops from Somalia by August 1, 2027, army chief Says – AUSSOM faces major test",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-updf-withdraw-troops-somalia-august-1-2027-aussom/",
-      "published_date": "2026-08-29T07:59:14+00:00",
-      "category": "Military"
+      "title": "NASA launches $4.3bn Roman Telescope to uncover universe’s hidden secrets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss",
+      "published_date": "2026-08-30T17:44:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukrainian nuclear power plant without external power for over a week",
@@ -522,6 +557,20 @@
       "category": "Economy"
     },
     {
+      "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
+      "published_date": "2026-08-30T18:51:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepal’s flood survivors search for missing loved ones",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/nepals-flood-survivors-search-for-missing-loved-ones?traffic_source=rss",
+      "published_date": "2026-08-30T17:57:08+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Puntland oo sheegtay in ay Turkiga kula xisaabtamayso dadkii lagu laayay xeebaheeda",
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/08/30/puntland-oo-sheegtay-in-ay-turkiga-kula-xisaabtamayso-dadkii-lagu-laayay-xeebaheeda/",
@@ -645,20 +694,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
       "published_date": "2026-08-29T00:46:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain asks EU for help to process 5,000 Ceuta migrants amid local unrest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/spain-asks-eu-for-help-to-process-5000-ceuta-migrants-amid-local-unrest?traffic_source=rss",
-      "published_date": "2026-08-28T23:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands take part in March on Washington to promote voting rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
-      "published_date": "2026-08-28T22:59:19+00:00",
       "category": "Local Events"
     }
   ]
