@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-08-31T17:57:37.965079+00:00",
-  "story_count": 99,
+  "last_updated": "2026-09-01T01:35:49.999092+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Putin, Xi reaffirm Russia-China ties amid ‘unpredictable’ world",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
+      "published_date": "2026-08-31T21:14:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, Qatar discuss security and defence cooperation",
       "source": "Shabelle Media",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
-      "published_date": "2026-08-29T00:53:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+      "published_date": "2026-09-01T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
+      "published_date": "2026-08-31T23:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three minors killed in Colombia armed group crackdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
+      "published_date": "2026-08-31T22:30:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon asks Greece to help enforce agreement with Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss",
+      "published_date": "2026-08-31T20:24:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
+      "published_date": "2026-08-31T19:51:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Top US general says no plans to deploy troops for 2026 midterm elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss",
+      "published_date": "2026-08-31T19:20:28+00:00",
+      "category": "Military"
     },
     {
       "title": "War on Iran: US bombs Iran",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
+      "title": "‘Let Data Reign’: Trump decries opposition to data centres in US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
-      "published_date": "2026-08-30T12:26:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How has life changed for Iranians six months into the war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss",
-      "published_date": "2026-08-30T12:08:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six months on, what did the strikes on Iran achieve?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
-      "published_date": "2026-08-30T11:24:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss",
-      "published_date": "2026-08-30T00:16:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settlers attack international news team in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-08-29T23:48:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
-      "published_date": "2026-08-29T20:05:46+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/31/let-data-reign-trump-decries-opposition-to-data-centres-in-us?traffic_source=rss",
+      "published_date": "2026-08-31T18:42:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "What are the implications of the US-Venezuela oil deal?",
@@ -403,18 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
+      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-08-24T19:18:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
-      "published_date": "2026-08-24T18:22:18+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+      "published_date": "2026-09-01T00:15:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
@@ -550,11 +550,32 @@
       "category": "Economy"
     },
     {
-      "title": "UNRWA chief: Israel seeks to eliminate agency and Palestinian refugee issue",
+      "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/26-08-sv-unrwa-responds-to-aljazeera-fm?traffic_source=rss",
-      "published_date": "2026-08-26T21:09:57+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
+      "published_date": "2026-08-31T22:08:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
+      "published_date": "2026-08-31T21:24:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Nothing is usable’: Nepal residents return to flood-ravaged homes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss",
+      "published_date": "2026-08-31T20:43:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali MPs file no-confidence motion against interior minister",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-no-confidence-motion-interior-minister-ali-yusuf-hosh/",
+      "published_date": "2026-08-31T20:29:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Principal who saved 900 students recalls Nepal’s devastating flood",
@@ -666,34 +687,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/president-irro-meets-former-northeastern-mps-who-have-returned-to-somaliland/",
       "published_date": "2026-08-29T23:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MV LUTUF freed off Somalia after Turkey pays ransom to Somali pirates",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/mv-lutuf-freed-off-somalia-turkey-ransom-somali-pirates/",
-      "published_date": "2026-08-29T20:44:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
-      "published_date": "2026-08-29T20:07:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan suspends eight officials over hospital fire that killed 14 babies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss",
-      "published_date": "2026-08-29T18:26:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan’s date palm trees under threat from drought and wildfires",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss",
-      "published_date": "2026-08-29T18:07:24+00:00",
       "category": "Local Events"
     }
   ]
