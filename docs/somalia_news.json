@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-02T00:47:15.733034+00:00",
+  "last_updated": "2026-09-02T15:01:46.017747+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Nepal search operations continue a week after catastrophic floods",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/nepal-search-operations-continue-a-week-after-catastrophic-floods?traffic_source=rss",
+      "published_date": "2026-09-02T09:45:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Seeks Qatari Investment in Fisheries, Energy and Transport",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-seeks-qatari-investment-in-fisheries-energy-and-transport/",
+      "published_date": "2026-09-02T07:35:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Serbia Presidents Discuss Stronger Security and Economic Ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-serbia-presidents-discuss-stronger-security-and-economic-ties/",
+      "published_date": "2026-09-02T07:34:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US House passes funding bill to avert government shutdown ahead of midterms",
       "source": "Al Jazeera",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+      "title": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-      "published_date": "2026-08-30T20:38:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
+      "published_date": "2026-09-02T14:14:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia and Qatar leaders discuss security, trade and bilateral ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-qatar-leaders-discuss-security-trade-and-bilateral-ties/",
-      "published_date": "2026-08-30T14:41:13+00:00",
-      "category": "Diplomacy"
+      "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
+      "published_date": "2026-09-02T12:55:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ra’iisul Wasaare Xamsa Cabdi Barre oo Qatar kala hadlay xoojinta xiriirka labada dal",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-cabdi-barre-oo-qatar-kala-hadlay-xoojinta-xiriirka-labada-dal/",
-      "published_date": "2026-08-30T14:05:54+00:00",
-      "category": "Diplomacy"
+      "title": "Killing at Sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss",
+      "published_date": "2026-09-02T12:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia NSA confirms troops crossed into Ethiopia region",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-nsa-confirms-troops-crossed-ethiopia-somali-region/",
+      "published_date": "2026-09-02T08:46:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Somali Intelligence Agency Says Airstrike Hits Al-Shabaab Vehicle in Lower Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-intelligence-agency-says-airstrike-hits-al-shabaab-vehicle-in-lower-shabelle/",
-      "published_date": "2026-09-01T07:44:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Duqeyn Diyaaradeed oo Lagu Beegsaday Gaari ay Saarnaayeen xubno ka tirsanaa Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/duqeyn-diyaaradeed-oo-lagu-beegsaday-gaari-ay-saarnaayeen-xubno-ka-tirsanaa-al-shabaab/",
-      "published_date": "2026-09-01T05:44:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+      "title": "In Yemen, dates provide lifeline for farmers with few economic options",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
-      "published_date": "2026-09-01T00:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/9/2/in-yemen-dates-provide-lifeline-for-farmers-with-few-economic-options?traffic_source=rss",
+      "published_date": "2026-09-02T13:29:51+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+      "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
-      "published_date": "2026-08-31T23:23:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss",
+      "published_date": "2026-09-02T11:43:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Somalia Urges Stronger Regional Preparedness for El Niño Risks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-urges-stronger-regional-preparedness-for-el-nino-risks/",
+      "published_date": "2026-09-02T07:31:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Trump executive order bans some foreign equipment in US energy grid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss",
-      "published_date": "2026-08-27T20:15:55+00:00",
-      "category": "Energy"
+      "title": "EVC Outage Disrupts Payments Across Somalia",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/02/evc-outage-disrupts-payments-across-somalia/",
+      "published_date": "2026-09-02T14:00:17+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Video: Survivors recount moment flash floods hit Nepal",
+      "title": "5,000 US sailors descend on Thailand as USS Abraham Lincoln docks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss",
-      "published_date": "2026-08-26T21:15:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Massive natural gas leak in Wisconsin puts community on alert",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss",
-      "published_date": "2026-08-26T05:15:51+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/5000-us-sailors-descend-on-thailand-as-uss-abraham-lincoln-docks?traffic_source=rss",
+      "published_date": "2026-09-02T10:08:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "US urges G20 to cut trade imbalances, focus on China",
@@ -550,18 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "Gaza forced to use unreliable online payments amid ‘cash famine’",
+      "title": "How Trumpism is changing the world",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/gaza-forced-to-use-unreliable-online-payments-amid-cash-famine?traffic_source=rss",
-      "published_date": "2026-08-28T16:44:24+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss",
+      "published_date": "2026-09-02T14:15:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The two types of Israeli settlers",
+      "title": "Somalia: Armed militias seize election centers in Beledweyne",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-armed-militias-seize-election-centers-beledweyne/",
+      "published_date": "2026-09-02T14:03:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Tallaabaan ka qaadaynaa dadka ka ganacsada badeecadaha aan tayadooda la hubin",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/02/puntland-tallaabaan-ka-qaadaynaa-dadka-ka-ganacsada-badeecadaha-aan-tayadooda-la-hubin/",
+      "published_date": "2026-09-02T13:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bodies excavated from worst flood-hit district near Nepal-China border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/the-two-types-of-israeli-settlers?traffic_source=rss",
-      "published_date": "2026-08-28T16:02:08+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss",
+      "published_date": "2026-09-02T12:53:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia urges Arab states to block wider recognition of Somaliland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-urges-arab-states-to-block-wider-recognition-of-somaliland/",
+      "published_date": "2026-09-02T12:51:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West leader meets traditional elders as reconciliation efforts gather pace",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-leader-meets-traditional-elders-as-reconciliation-efforts-gather-pace/",
+      "published_date": "2026-09-02T12:49:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Chinese President Xi makes first visit to Egypt in a decade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-chinese-president-xi-makes-first-visit-to-egypt-in-a-decade?traffic_source=rss",
+      "published_date": "2026-09-02T10:54:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo go’aan ka soo saartay dagaal beeleedyada",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/02/puntland-oo-goaan-ka-soo-saartay-dagaal-beeleedyada/",
+      "published_date": "2026-09-02T10:44:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soomaaliya oo Dowladaha Carabta ka codsatay inay joojiyaan ololaha aqoonsiga Somaliland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-dowladaha-carabta-ka-codsatay-inay-joojiyaan-ololaha-aqoonsiga-somaliland/",
+      "published_date": "2026-09-02T10:06:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ed Markey wins: Key takeaways from Massachusetts primary election results",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss",
+      "published_date": "2026-09-02T08:27:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland President Orders Security Crackdown in Somalia’s Bari Region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-president-orders-security-crackdown-in-somalias-bari-region/",
+      "published_date": "2026-09-02T07:32:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo shir amni ka yeelatay xaaladda Gobolka Bari iyo deegaanada maamulka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-oo-shir-amni-ka-yeelatay-xaaladda-gobolka-bari-iyo-deegaanada-maamulka/",
+      "published_date": "2026-09-02T06:23:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo mamnuucday soo iibsiga hubka iyo gaadiidka ciidanka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/02/puntland-oo-mamnuucday-soo-iibsiga-hubka-iyo-gaadiidka-ciidanka/",
+      "published_date": "2026-09-02T05:43:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iranian state media announces numerous US strikes on the country",
@@ -610,97 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
       "published_date": "2026-08-31T22:08:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
-      "published_date": "2026-08-31T21:24:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Nothing is usable’: Nepal residents return to flood-ravaged homes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss",
-      "published_date": "2026-08-31T20:43:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali MPs file no-confidence motion against interior minister",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-no-confidence-motion-interior-minister-ali-yusuf-hosh/",
-      "published_date": "2026-08-31T20:29:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Principal who saved 900 students recalls Nepal’s devastating flood",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/principal-who-saved-900-students-recalls-nepals-devastating-flood?traffic_source=rss",
-      "published_date": "2026-08-31T17:12:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cabdixakiin Camey oo si aan kas ahayn u xigtay Dr Cabdi Kuusow",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/31/cabdixakiin-camey-oo-si-aan-kas-ahayn-u-xigtay-dr-cabdi-kuusow/",
-      "published_date": "2026-08-31T16:49:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India rejects Hague court order to restore Indus waters pact with Pakistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss",
-      "published_date": "2026-08-31T16:23:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Korea court gives church leader two years in jail for bribery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/south-korea-court-gives-church-leader-two-years-in-jail-for-bribery?traffic_source=rss",
-      "published_date": "2026-08-31T13:43:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali minister urges parliament to advance family and children’s rights bills",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-minister-urges-parliament-to-advance-family-and-childrens-rights-bills/",
-      "published_date": "2026-08-31T13:27:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxay ka wada hadleen madaxweyne Deni iyo saraakiisha Maraykanka?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/31/maxay-ka-wada-hadleen-madaxweyne-deni-iyo-saraakiisha-maraykanka/",
-      "published_date": "2026-08-31T11:03:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland: Cirro oo ka jawaabay cabashadii bukaanada kelyaha",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/31/somaliland-cirro-oo-ka-jawaabay-cabashadii-bukaanada-kelyaha/",
-      "published_date": "2026-08-31T08:37:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Human Rights Commission Reviews Rights Situation and Priority Work",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-human-rights-commission-reviews-rights-situation-and-priority-work/",
-      "published_date": "2026-08-31T06:35:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
-      "published_date": "2026-08-30T18:51:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal’s flood survivors search for missing loved ones",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/nepals-flood-survivors-search-for-missing-loved-ones?traffic_source=rss",
-      "published_date": "2026-08-30T17:57:08+00:00",
       "category": "Local Events"
     }
   ]
