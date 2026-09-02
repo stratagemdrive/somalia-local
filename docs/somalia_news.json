@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-01T15:26:02.955551+00:00",
-  "story_count": 99,
+  "last_updated": "2026-09-02T00:47:15.733034+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "US House passes funding bill to avert government shutdown ahead of midterms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss",
+      "published_date": "2026-09-01T22:44:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
+      "published_date": "2026-09-01T18:22:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia opens national security conference to strengthen coordination",
       "source": "Shabelle Media",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
+      "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
-      "published_date": "2026-08-30T13:23:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
+      "published_date": "2026-09-02T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Infantino must go by 2027 in FIFA overhaul, Dutch football body says",
+      "title": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss",
-      "published_date": "2026-08-30T12:06:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
+      "published_date": "2026-09-01T22:54:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly car bomb attack at Colombia police station",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
+      "published_date": "2026-09-01T21:01:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+      "published_date": "2026-09-01T20:59:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss",
+      "published_date": "2026-09-01T20:45:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What’s driven the defence deal between Israel and Greece?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
+      "published_date": "2026-09-01T20:35:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Munitions vehicle explodes killing five in Idlib",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
+      "published_date": "2026-09-01T19:46:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s multiple wars see finance, defence ministries clash over spending",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss",
+      "published_date": "2026-09-01T19:33:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Somalia Defence Minister calls for Somali-led security system at Mogadishu conference",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Three minors killed in Colombia armed group crackdown",
+      "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
-      "published_date": "2026-08-31T22:30:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon asks Greece to help enforce agreement with Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss",
-      "published_date": "2026-08-31T20:24:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
-      "published_date": "2026-08-31T19:51:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Top US general says no plans to deploy troops for 2026 midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss",
-      "published_date": "2026-08-31T19:20:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: US bombs Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss",
-      "published_date": "2026-08-31T17:22:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill at least five Palestinians in Gaza City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
-      "published_date": "2026-08-31T15:20:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
-      "published_date": "2026-08-31T14:57:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War and heat: Why are wheat prices soaring?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring?traffic_source=rss",
-      "published_date": "2026-08-31T14:42:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
+      "published_date": "2026-09-01T21:54:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?",
@@ -417,6 +424,34 @@
       "category": "Energy"
     },
     {
+      "title": "US urges G20 to cut trade imbalances, focus on China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
+      "published_date": "2026-09-01T22:21:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
+      "published_date": "2026-09-01T20:40:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Canada’s Carney says US must ‘start being serious’ to resolve trade dispute",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute?traffic_source=rss",
+      "published_date": "2026-09-01T20:08:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UN food agency cuts aid in West Bank amid funding crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
+      "published_date": "2026-09-01T18:23:25+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Is Trump wooing Russia again – and why?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why?traffic_source=rss",
@@ -529,32 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Anti-migrant protesters burn tents in Ceuta and block Red Cross aid",
+      "title": "Iranian state media announces numerous US strikes on the country",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/anti-migrant-protesters-burn-tents-in-ceuta-and-block-red-cross-aid?traffic_source=rss",
-      "published_date": "2026-08-28T02:15:53+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
+      "published_date": "2026-09-01T20:38:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US aid cuts threaten Ghana’s child immunisation gains",
+      "title": "Hakainde Hichilema sworn in as Zambia’s president after disputed election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss",
-      "published_date": "2026-08-28T00:19:22+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss",
+      "published_date": "2026-09-01T19:18:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trade war between US and Canada could cost 90,000 jobs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss",
-      "published_date": "2026-08-27T20:06:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somalia PM travels to Qatar to strengthen strategic ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pm-travels-to-qatar-to-strengthen-strategic-ties/",
-      "published_date": "2026-08-27T09:25:18+00:00",
-      "category": "Economy"
+      "title": "Puntland oo howlgal sababay dhimasho ku qaaday koox Burcad-badeedda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/01/puntland-oo-howlgal-sababay-dhimasho-ku-qaaday-koox-burcad-badeedda/",
+      "published_date": "2026-09-01T18:45:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What to know about the US primary election in Massachusetts",
@@ -673,27 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/nepals-flood-survivors-search-for-missing-loved-ones?traffic_source=rss",
       "published_date": "2026-08-30T17:57:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo sheegtay in ay Turkiga kula xisaabtamayso dadkii lagu laayay xeebaheeda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/08/30/puntland-oo-sheegtay-in-ay-turkiga-kula-xisaabtamayso-dadkii-lagu-laayay-xeebaheeda/",
-      "published_date": "2026-08-30T11:35:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Senate Speaker meets National Women’s Council leadership",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-senate-speaker-meets-national-womens-council-leadership/",
-      "published_date": "2026-08-30T11:18:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Photos: Nepal issues alerts as region’s flash flood death toll nears 800",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss",
-      "published_date": "2026-08-30T09:51:17+00:00",
       "category": "Local Events"
     }
   ]
