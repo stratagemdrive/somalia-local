@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-02T15:01:46.017747+00:00",
+  "last_updated": "2026-09-03T00:56:05.689702+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
+      "published_date": "2026-09-02T21:23:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss",
+      "published_date": "2026-09-02T19:06:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nepal search operations continue a week after catastrophic floods",
       "source": "Al Jazeera",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Deputy Prime Minister Attends African Union Summit on Conflict Prevention",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-deputy-prime-minister-attends-african-union-summit-on-conflict-prevention/",
-      "published_date": "2026-08-31T06:37:14+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
+      "published_date": "2026-09-03T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, UN Discuss Strengthening Aviation Safety and Institutional Capacity",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-un-discuss-strengthening-aviation-safety-and-institutional-capacity/",
-      "published_date": "2026-08-31T06:34:28+00:00",
-      "category": "Diplomacy"
+      "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+      "published_date": "2026-09-02T21:37:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
+      "published_date": "2026-09-02T21:19:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
+      "published_date": "2026-09-02T20:59:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The long-term implications of Pete Hegseth’s US military purges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
+      "published_date": "2026-09-02T20:48:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
+      "published_date": "2026-09-02T20:12:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
+      "published_date": "2026-09-02T20:04:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-09-02T19:16:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AFRICOM Warns Houthis May Deploy Radar Systems in Somalia to Track Red Sea Shipping",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/africom-warns-houthis-may-deploy-radar-systems-in-somalia-to-track-red-sea-shipping/",
+      "published_date": "2026-09-02T17:56:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israel’s multiple wars see finance, defence ministries clash over spending",
+      "title": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss",
-      "published_date": "2026-09-01T19:33:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Defence Minister calls for Somali-led security system at Mogadishu conference",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-defence-minister-calls-for-somali-led-security-system-at-mogadishu-conference/",
-      "published_date": "2026-09-01T13:37:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Irish minister calls for EU action in banning Israeli settlement trade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/irish-minister-calls-for-eu-action-in-banning-israeli-settlement-trade?traffic_source=rss",
-      "published_date": "2026-09-01T13:32:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least five killed as ammunition-laden vehicle explodes in Syria’s Idlib",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
-      "published_date": "2026-09-01T11:43:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss",
-      "published_date": "2026-09-01T11:38:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mareykanka oo Puntland ka taageeraya dhismaha iyo tababarka ciidamadeeda",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mareykanka-oo-puntland-ka-taageeraya-dhismaha-iyo-tababarka-ciidamadeeda/",
-      "published_date": "2026-09-01T10:47:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss",
-      "published_date": "2026-09-01T10:27:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes on Gaza kill at least five, including children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
-      "published_date": "2026-09-01T09:48:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Shabaab-Houthi alliance poses a new threat to the U.S. and its allies",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-houthi-alliance-us-allies-threat/",
-      "published_date": "2026-09-01T07:46:06+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/signing-ceremony-as-us-to-control-a-fifth-of-venezuelas-oil-reserves?traffic_source=rss",
+      "published_date": "2026-09-02T18:51:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "In Yemen, dates provide lifeline for farmers with few economic options",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "US nears deal to secure stake in Venezuelan oil fields, insiders say",
+      "title": "US judge rejects bid to break up Google’s ad business",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/us-nears-deal-to-secure-stake-in-venezuelan-oil-fields-insiders-say?traffic_source=rss",
-      "published_date": "2026-08-28T02:32:15+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/9/2/us-judge-rejects-bid-to-break-up-googles-ad-business?traffic_source=rss",
+      "published_date": "2026-09-02T20:06:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "USS Abraham Lincoln reaches Thailand after 9 months at sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/uss-abraham-lincoln-reaches-thailand-after-9-months-at-sea?traffic_source=rss",
+      "published_date": "2026-09-02T18:51:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "EVC Outage Disrupts Payments Across Somalia",
@@ -550,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
+      "title": "US judge blocks Trump’s latest effort to limit birthright citizenship",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss",
-      "published_date": "2026-08-28T17:22:01+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/3/us-judge-blocks-trumps-latest-effort-to-limit-birthright-citizenship?traffic_source=rss",
+      "published_date": "2026-09-03T00:33:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Canadian economy recovers sharply in Q2 but shadow of US tariffs in future",
+      "title": "Thousands protest in Spain as Ceuta’s migration crisis festers a month on",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/28/canadian-economy-recovers-sharply-in-q2-but-shadow-of-us-tariffs-in-future?traffic_source=rss",
-      "published_date": "2026-08-28T16:59:48+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
+      "published_date": "2026-09-02T23:28:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children return to school in DR Congo amid growing concerns over Ebola",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss",
+      "published_date": "2026-09-02T21:21:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tiger Woods avoids jail time, takes plea deal over Florida crash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/tiger-woods-avoids-jail-time-takes-plea-deal-over-florida-crash?traffic_source=rss",
+      "published_date": "2026-09-02T20:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland President Irro Set for First U.S. Visit as Recognition Campaign Enters a New Phase",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-irro-set-for-first-u-s-visit-as-recognition-campaign-enters-a-new-phase/",
+      "published_date": "2026-09-02T18:05:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Trumpism is changing the world",
@@ -666,41 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss",
       "published_date": "2026-09-01T19:18:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo howlgal sababay dhimasho ku qaaday koox Burcad-badeedda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/01/puntland-oo-howlgal-sababay-dhimasho-ku-qaaday-koox-burcad-badeedda/",
-      "published_date": "2026-09-01T18:45:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to know about the US primary election in Massachusetts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts?traffic_source=rss",
-      "published_date": "2026-09-01T12:36:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo soo saartay habraac la xiriira fasaxa mas’uuliyiinta heer degmo iyo heer gobol",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/01/puntland-oo-soo-saartay-habraac-la-xiriira-fasaxa-masuuliyiinta-heer-degmo-iyo-heer-gobol/",
-      "published_date": "2026-09-01T11:22:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Booliska Puntland oo qabtay dad lagu eedeeyay ka ganacsiga maandooriyaha iyo hub sharci-darro ah",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/01/booliska-puntland-oo-qabtay-dad-lagu-eedeeyay-ka-ganacsiga-maandooriyaha-iyo-hub-sharci-darro-ah/",
-      "published_date": "2026-09-01T05:38:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
-      "published_date": "2026-08-31T22:08:37+00:00",
       "category": "Local Events"
     }
   ]
