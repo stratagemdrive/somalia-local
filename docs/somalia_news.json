@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-03T00:56:05.689702+00:00",
+  "last_updated": "2026-09-03T14:55:51.374538+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Kenya’s aviation strike is over, but the dispute is far from settled",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss",
+      "published_date": "2026-09-03T11:55:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN warns El Nino could be ‘off the charts’, strongest in decades",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/un-warns-el-nino-could-be-off-the-charts-strongest-in-decades?traffic_source=rss",
+      "published_date": "2026-09-03T11:49:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss",
+      "published_date": "2026-09-03T10:45:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss",
+      "published_date": "2026-09-03T09:34:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Government Says Forces Repelled Attack in Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-government-says-forces-repelled-attack-in-baidoa/",
+      "published_date": "2026-09-03T09:19:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli PM says Israel is working to overthrow Iran’s government",
       "source": "Al Jazeera",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali President Arrives in Serbia for Talks, Non-Aligned Movement Anniversary",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-arrives-in-serbia-for-talks-non-aligned-movement-anniversary/",
-      "published_date": "2026-09-01T07:27:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia’s Hassan Sheikh Mohamud agrees to hold elections in 7 Months",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-mohamud-agrees-elections-7-months/",
-      "published_date": "2026-09-01T02:34:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Putin, Xi reaffirm Russia-China ties amid ‘unpredictable’ world",
+      "title": "Ukrainian intel agencies in Kyiv firefight: What happened and why?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
-      "published_date": "2026-08-31T21:14:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss",
+      "published_date": "2026-09-03T13:54:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Qatar discuss security and defence cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-qatar-discuss-security-and-defence-cooperation/",
-      "published_date": "2026-08-31T13:36:44+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/ukraine-targets-russias-space-programme-as-war-intensifies?traffic_source=rss",
+      "published_date": "2026-09-03T13:30:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ra’iisul Wasaare Xamsa oo kulan la qaatay Ra’iisul Wasaare Ku-xigeenka Qatar",
+      "title": "South West State Says Forces Repelled Al-Shabaab Attack on Baidoa",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-kulan-la-qaatay-raiisul-wasaare-ku-xigeenka-qatar/",
-      "published_date": "2026-08-31T13:36:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/south-west-state-says-forces-repelled-al-shabaab-attack-on-baidoa/",
+      "published_date": "2026-09-03T10:58:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gulf insecurity fuels US energy dominance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
+      "published_date": "2026-09-03T09:16:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Soomaaliya oo War Ka Soo Saartay Dagaalka Baydhabo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-war-ka-soo-saartay-dagaalka-baydhabo/",
+      "published_date": "2026-09-03T09:07:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Wararkii ugu dambeeyay ee dagaalka Baydhabo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/03/wararkii-ugu-dambeeyay-ee-dagaalka-baydhabo/",
+      "published_date": "2026-09-03T06:56:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
@@ -239,48 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
       "published_date": "2026-09-02T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
-      "published_date": "2026-09-01T22:54:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly car bomb attack at Colombia police station",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
-      "published_date": "2026-09-01T21:01:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
-      "published_date": "2026-09-01T20:59:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss",
-      "published_date": "2026-09-01T20:45:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s driven the defence deal between Israel and Greece?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
-      "published_date": "2026-09-01T20:35:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Munitions vehicle explodes killing five in Idlib",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
-      "published_date": "2026-09-01T19:46:53+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Kais Saied’s economic experiment has failed Tunisia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/3/kais-saieds-economic-experiment-has-failed-tunisia?traffic_source=rss",
+      "published_date": "2026-09-03T13:09:47+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US judge rejects bid to break up Google’s ad business",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/9/2/us-judge-rejects-bid-to-break-up-googles-ad-business?traffic_source=rss",
@@ -557,11 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "With the US and Canada locked in a trade war, fears of a recession lurk",
+      "title": "Somalia repels armed assault on Baidoa amid regional political tensions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/28/with-the-us-and-canada-locked-in-a-trade-war-fears-of-a-recession-lurk?traffic_source=rss",
-      "published_date": "2026-08-28T21:39:40+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/3/somalia-repels-armed-assault-on-baidoa-amid-regional-political-tensions?traffic_source=rss",
+      "published_date": "2026-09-03T13:40:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Families perform symbolic funerals for missing Nepal flood victims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss",
+      "published_date": "2026-09-03T11:58:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss",
+      "published_date": "2026-09-03T09:57:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss",
+      "published_date": "2026-09-03T09:38:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Upper House Committee Inspects National Health Professionals Council",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-upper-house-committee-inspects-national-health-professionals-council/",
+      "published_date": "2026-09-03T09:24:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SoDMA Delivers Food Aid to More Than 4,000 Drought-Hit Families in Puntland",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-delivers-food-aid-to-more-than-4000-drought-hit-families-in-bari/",
+      "published_date": "2026-09-03T08:28:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy fighting erupts in Somalia’s Baidoa as rival forces clash",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/heavy-fighting-erupts-in-somalias-baidoa-as-rival-forces-clash/",
+      "published_date": "2026-09-03T07:41:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweynaha Somaliland oo u safray Maraykanka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/03/madaxweynaha-somaliland-oo-u-safray-maraykanka/",
+      "published_date": "2026-09-03T07:11:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US judge blocks Trump’s latest effort to limit birthright citizenship",
@@ -645,62 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-chinese-president-xi-makes-first-visit-to-egypt-in-a-decade?traffic_source=rss",
       "published_date": "2026-09-02T10:54:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo go’aan ka soo saartay dagaal beeleedyada",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/02/puntland-oo-goaan-ka-soo-saartay-dagaal-beeleedyada/",
-      "published_date": "2026-09-02T10:44:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soomaaliya oo Dowladaha Carabta ka codsatay inay joojiyaan ololaha aqoonsiga Somaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-dowladaha-carabta-ka-codsatay-inay-joojiyaan-ololaha-aqoonsiga-somaliland/",
-      "published_date": "2026-09-02T10:06:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ed Markey wins: Key takeaways from Massachusetts primary election results",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss",
-      "published_date": "2026-09-02T08:27:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland President Orders Security Crackdown in Somalia’s Bari Region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-president-orders-security-crackdown-in-somalias-bari-region/",
-      "published_date": "2026-09-02T07:32:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo shir amni ka yeelatay xaaladda Gobolka Bari iyo deegaanada maamulka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-oo-shir-amni-ka-yeelatay-xaaladda-gobolka-bari-iyo-deegaanada-maamulka/",
-      "published_date": "2026-09-02T06:23:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo mamnuucday soo iibsiga hubka iyo gaadiidka ciidanka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/02/puntland-oo-mamnuucday-soo-iibsiga-hubka-iyo-gaadiidka-ciidanka/",
-      "published_date": "2026-09-02T05:43:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian state media announces numerous US strikes on the country",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
-      "published_date": "2026-09-01T20:38:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hakainde Hichilema sworn in as Zambia’s president after disputed election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss",
-      "published_date": "2026-09-01T19:18:29+00:00",
       "category": "Local Events"
     }
   ]
