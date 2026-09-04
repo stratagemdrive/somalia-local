@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-04T00:42:40.142820+00:00",
+  "last_updated": "2026-09-04T14:53:04.846573+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un?traffic_source=rss",
+      "published_date": "2026-09-04T13:24:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+      "published_date": "2026-09-04T10:17:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "DR Congo joins countries pledging embassy move to Jerusalem",
       "source": "Al Jazeera",
@@ -130,18 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia opens national security conference to strengthen coordination",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-opens-national-security-conference-to-strengthen-coordination/",
-      "published_date": "2026-09-01T13:45:00+00:00",
-      "category": "Diplomacy"
+      "title": "Two Muslim women journalists allege police assault in India",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss",
+      "published_date": "2026-09-04T13:37:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
+      "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
-      "published_date": "2026-09-01T13:32:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
+      "published_date": "2026-09-04T13:35:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
+      "published_date": "2026-09-04T13:15:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
+      "published_date": "2026-09-04T13:13:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US envoys headed to Russia and Ukraine to relaunch mediation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss",
+      "published_date": "2026-09-04T12:51:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Soomaaliya oo iska fogeysay weerarkii lagu beegsaday General Mahad Shub ee Doolow",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-iska-fogeysay-weerarkii-lagu-beegsaday-general-mahad-shub-ee-doolow/",
+      "published_date": "2026-09-04T11:50:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Why US midterms could be a pivotal moment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss",
+      "published_date": "2026-09-04T11:12:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jubbaland oo Cambaareysay Duqeyn Lagu Beegsaday Guriga General Mahad Aadan ee Doolow",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jubbaland-oo-cambaareysay-duqeyn-lagu-beegsaday-guriga-general-mahad-aadan-ee-doolow/",
+      "published_date": "2026-09-04T11:01:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jubaland oo ka hadashay duqeyntii  Doolow",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/04/jubaland-oo-ka-hadashay-duqeyntii-doolow/",
+      "published_date": "2026-09-04T10:28:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel takes its war on Palestine into the AI age",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
+      "published_date": "2026-09-04T09:42:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why has the Philippine peso plunged to a record low?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
+      "published_date": "2026-09-04T08:38:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Somali Prisons Chief Wounded in Dolow Air Strike, South West Blames Turkey",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-prisons-chief-wounded-in-dolow-air-strike-south-west-blames-turkey/",
+      "published_date": "2026-09-04T08:20:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former South West Administration Condemns Alleged Turkish Drone Strike on Somali General’s Home",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-south-west-administration-condemns-alleged-turkish-drone-strike-on-somali-generals-home/",
+      "published_date": "2026-09-04T08:12:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Pakistan overhauled its military command structure after five decades",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
+      "published_date": "2026-09-04T07:30:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: US rules out Iran talks until ship attacks stop",
@@ -186,102 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Serbia welcomes return of war criminal Mladic’s body with military honours",
+      "title": "Moment three-storey building collapses amid flooding in China",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/serbia-welcomes-return-of-war-criminal-mladics-body-with-military-honours?traffic_source=rss",
-      "published_date": "2026-09-03T19:27:34+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss",
+      "published_date": "2026-09-04T09:28:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences",
+      "title": "Video: Workers rescued from hydro tunnel nine days after Nepal flooding",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss",
-      "published_date": "2026-09-03T18:46:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe?traffic_source=rss",
-      "published_date": "2026-09-03T18:45:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian intel agencies in Kyiv firefight: What happened and why?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss",
-      "published_date": "2026-09-03T13:54:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/ukraine-targets-russias-space-programme-as-war-intensifies?traffic_source=rss",
-      "published_date": "2026-09-03T13:30:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South West State Says Forces Repelled Al-Shabaab Attack on Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-says-forces-repelled-al-shabaab-attack-on-baidoa/",
-      "published_date": "2026-09-03T10:58:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gulf insecurity fuels US energy dominance",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
-      "published_date": "2026-09-03T09:16:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo War Ka Soo Saartay Dagaalka Baydhabo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-war-ka-soo-saartay-dagaalka-baydhabo/",
-      "published_date": "2026-09-03T09:07:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wararkii ugu dambeeyay ee dagaalka Baydhabo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/03/wararkii-ugu-dambeeyay-ee-dagaalka-baydhabo/",
-      "published_date": "2026-09-03T06:56:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
-      "published_date": "2026-09-03T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-      "published_date": "2026-09-02T21:37:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
-      "published_date": "2026-09-02T21:19:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-      "published_date": "2026-09-02T20:59:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The long-term implications of Pete Hegseth’s US military purges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
-      "published_date": "2026-09-02T20:48:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss",
+      "published_date": "2026-09-04T07:46:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+      "title": "As the China-US AI race reaches Cairo, Egypt faces a strategic decision",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
-      "published_date": "2026-08-29T02:32:51+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss",
+      "published_date": "2026-09-04T12:37:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "What lessons can be learned from the Nepal-Tibet flood disaster?",
+      "title": "Reform UK officials step down as new funding scandal hits far-right party",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/28/what-lessons-can-be-learned-from-the-nepal-tibet-flood?traffic_source=rss",
-      "published_date": "2026-08-28T20:44:41+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss",
+      "published_date": "2026-09-04T10:26:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Kais Saied’s economic experiment has failed Tunisia",
@@ -550,18 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+      "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
-      "published_date": "2026-08-29T10:09:26+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony-anhalt?traffic_source=rss",
+      "published_date": "2026-09-04T12:19:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+      "title": "Nepal search teams rescue two workers from hydropower tunnel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss",
-      "published_date": "2026-08-29T00:19:00+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss",
+      "published_date": "2026-09-04T09:09:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland’s Irro departs for US to pitch region’s strategic value as Somalia sends rival team",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-irro-us-visit-strategic-value-somalia-rival-delegation/",
+      "published_date": "2026-09-04T08:45:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Strikes Target Islamic State Positions in Cal Miskaad Mountains in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/us-strikes-target-islamic-state-positions-in-cal-miskaad-mountains-in-somalia/",
+      "published_date": "2026-09-04T08:07:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
@@ -673,34 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
       "published_date": "2026-09-02T23:28:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children return to school in DR Congo amid growing concerns over Ebola",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss",
-      "published_date": "2026-09-02T21:21:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiger Woods avoids jail time, takes plea deal over Florida crash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/tiger-woods-avoids-jail-time-takes-plea-deal-over-florida-crash?traffic_source=rss",
-      "published_date": "2026-09-02T20:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland President Irro Set for First U.S. Visit as Recognition Campaign Enters a New Phase",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-irro-set-for-first-u-s-visit-as-recognition-campaign-enters-a-new-phase/",
-      "published_date": "2026-09-02T18:05:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Trumpism is changing the world",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss",
-      "published_date": "2026-09-02T14:15:17+00:00",
       "category": "Local Events"
     }
   ]
