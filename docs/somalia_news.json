@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-03T14:55:51.374538+00:00",
+  "last_updated": "2026-09-04T00:42:40.142820+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "DR Congo joins countries pledging embassy move to Jerusalem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+      "published_date": "2026-09-03T23:05:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss",
+      "published_date": "2026-09-03T21:40:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India rejects court ruling on Indus Waters Treaty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-sv-india-rejects-iwt-ruling-in-fm?traffic_source=rss",
+      "published_date": "2026-09-03T20:48:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Leaders of Thailand and Singapore perform Beatles song, “Let It Be”",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss",
+      "published_date": "2026-09-03T20:00:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Nepal leading the battle for climate justice?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
+      "published_date": "2026-09-03T18:58:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland President Heads to U.S. in Major Diplomatic Push for Recognition",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-heads-to-u-s-in-major-diplomatic-push-for-recognition/",
+      "published_date": "2026-09-03T17:43:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kenya’s aviation strike is over, but the dispute is far from settled",
       "source": "Al Jazeera",
@@ -102,46 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Video: SCO summit leaders meet in aftermath of US war on Iran",
+      "title": "Iran war live: US rules out Iran talks until ship attacks stop",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss",
-      "published_date": "2026-09-01T13:27:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+      "published_date": "2026-09-04T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN sounds climate alarm as China-Taiwan row threatens to overshadow forum",
+      "title": "Are Trump’s AI videos just memes or psychological warfare?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-sounds-climate-alarm-as-china-taiwan-row-threatens-to-overshadow-forum?traffic_source=rss",
-      "published_date": "2026-09-01T13:13:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+      "published_date": "2026-09-03T23:36:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why China will not comply with US sanctions on Iran",
+      "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran?traffic_source=rss",
-      "published_date": "2026-09-01T13:08:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
+      "published_date": "2026-09-03T21:07:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar planning to host Formula One, MotoGP despite Middle East conflict",
+      "title": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss",
-      "published_date": "2026-09-01T13:03:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
+      "published_date": "2026-09-03T20:44:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s President Hassan Sheikh calls for global cooperation at Belgrade summit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-hassan-sheikh-calls-for-global-cooperation-at-belgrade-summit/",
-      "published_date": "2026-09-01T12:42:15+00:00",
-      "category": "Diplomacy"
+      "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
+      "published_date": "2026-09-03T20:31:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan wins Indus waters battle at The Hague, but India threat remains",
+      "title": "Funeral held for child killed in US strike on Iranian wedding",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/pakistan-wins-indus-waters-battle-at-the-hague-but-india-threat-remains?traffic_source=rss",
-      "published_date": "2026-09-01T12:25:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss",
+      "published_date": "2026-09-03T20:00:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Serbia welcomes return of war criminal Mladic’s body with military honours",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/serbia-welcomes-return-of-war-criminal-mladics-body-with-military-honours?traffic_source=rss",
+      "published_date": "2026-09-03T19:27:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss",
+      "published_date": "2026-09-03T18:46:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe?traffic_source=rss",
+      "published_date": "2026-09-03T18:45:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukrainian intel agencies in Kyiv firefight: What happened and why?",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+      "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-      "published_date": "2026-09-02T20:12:14+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
+      "published_date": "2026-09-03T22:08:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+      "title": "El Nino: A phenomenon supercharged by climate change",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
-      "published_date": "2026-09-02T20:04:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-02T19:16:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AFRICOM Warns Houthis May Deploy Radar Systems in Somalia to Track Red Sea Shipping",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/africom-warns-houthis-may-deploy-radar-systems-in-somalia-to-track-red-sea-shipping/",
-      "published_date": "2026-09-02T17:56:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
-      "published_date": "2026-09-02T14:14:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
-      "published_date": "2026-09-02T12:55:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Killing at Sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss",
-      "published_date": "2026-09-02T12:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia NSA confirms troops crossed into Ethiopia region",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-nsa-confirms-troops-crossed-ethiopia-somali-region/",
-      "published_date": "2026-09-02T08:46:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
-      "published_date": "2026-09-02T00:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
+      "published_date": "2026-09-03T21:09:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves",
@@ -407,20 +421,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/inside-story/2026/8/28/what-lessons-can-be-learned-from-the-nepal-tibet-flood?traffic_source=rss",
       "published_date": "2026-08-28T20:44:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Death toll from Nepal-Tibet flood passes 470 as barrier lake threatens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/death-toll-from-nepal-tibet-flood-passes-470-as-barrier-lake-threatens?traffic_source=rss",
-      "published_date": "2026-08-28T06:08:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Record drought grips Europe as rivers and crops dry up",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/record-drought-grips-europe-as-rivers-and-crops-dry-up?traffic_source=rss",
-      "published_date": "2026-08-28T05:43:34+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
+      "published_date": "2026-09-03T23:23:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepal flood victims to be identified through DNA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss",
+      "published_date": "2026-09-03T21:11:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
+      "published_date": "2026-09-03T19:43:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laftagaren forces attack Somali army positions in Baidoa again",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/laftagaren-forces-attack-somali-army-positions-baidoa-again/",
+      "published_date": "2026-09-03T17:50:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Election Talks Stall as Deni and Ahmed Madobe Seek International Guarantees.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalia-election-talks-stall-as-deni-and-ahmed-madobe-seek-international-guarantees/",
+      "published_date": "2026-09-03T17:31:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka hadashay howlgallo ka socda Calmiskaad",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/03/puntland-oo-ka-hadashay-howlgallo-ka-socda-calmiskaad/",
+      "published_date": "2026-09-03T15:05:53+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Somalia repels armed assault on Baidoa amid regional political tensions",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/3/somalia-repels-armed-assault-on-baidoa-amid-regional-political-tensions?traffic_source=rss",
@@ -659,48 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss",
       "published_date": "2026-09-02T14:15:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Armed militias seize election centers in Beledweyne",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-armed-militias-seize-election-centers-beledweyne/",
-      "published_date": "2026-09-02T14:03:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Tallaabaan ka qaadaynaa dadka ka ganacsada badeecadaha aan tayadooda la hubin",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/02/puntland-tallaabaan-ka-qaadaynaa-dadka-ka-ganacsada-badeecadaha-aan-tayadooda-la-hubin/",
-      "published_date": "2026-09-02T13:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bodies excavated from worst flood-hit district near Nepal-China border",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss",
-      "published_date": "2026-09-02T12:53:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia urges Arab states to block wider recognition of Somaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-urges-arab-states-to-block-wider-recognition-of-somaliland/",
-      "published_date": "2026-09-02T12:51:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West leader meets traditional elders as reconciliation efforts gather pace",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-leader-meets-traditional-elders-as-reconciliation-efforts-gather-pace/",
-      "published_date": "2026-09-02T12:49:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: Chinese President Xi makes first visit to Egypt in a decade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-chinese-president-xi-makes-first-visit-to-egypt-in-a-decade?traffic_source=rss",
-      "published_date": "2026-09-02T10:54:52+00:00",
       "category": "Local Events"
     }
   ]
