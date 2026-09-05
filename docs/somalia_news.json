@@ -1,13 +1,34 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-04T14:53:04.846573+00:00",
+  "last_updated": "2026-09-05T00:35:25.225619+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss",
+      "published_date": "2026-09-04T19:48:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN votes to adopt new world map that reflects Africa’s true size",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/un-votes-to-adopt-new-world-map-that-reflects-africas-true-size?traffic_source=rss",
+      "published_date": "2026-09-04T19:25:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un?traffic_source=rss",
       "published_date": "2026-09-04T13:24:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Government Denies Involvement in Dollow Airstrike",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-government-denies-involvement-in-dollow-airstrike/",
+      "published_date": "2026-09-04T12:10:11+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia, Serbia Presidents Discuss Stronger Security and Economic Ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-serbia-presidents-discuss-stronger-security-and-economic-ties/",
-      "published_date": "2026-09-02T07:34:03+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+      "published_date": "2026-09-05T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "US House passes funding bill to avert government shutdown ahead of midterms",
+      "title": "‘Small potatoes’: US President Trump downplays war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss",
-      "published_date": "2026-09-01T22:44:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
+      "published_date": "2026-09-04T23:55:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+      "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
-      "published_date": "2026-09-01T18:22:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+      "published_date": "2026-09-04T21:58:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Costa Rican president signals openness to domestic US military operations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+      "published_date": "2026-09-04T21:45:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
+      "published_date": "2026-09-04T21:19:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Europe pay the US to provide military aid to Ukraine?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
+      "published_date": "2026-09-04T20:52:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
+      "published_date": "2026-09-04T20:22:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
+      "published_date": "2026-09-04T20:04:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Somali Custodial Corps Commander Injured in Doolow Airstrike; Turkey Accused",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/former-somali-custodial-corps-commander-injured-in-doolow-airstrike-turkey-accused/",
+      "published_date": "2026-09-04T19:43:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey accused of war crime after drone strike on former Somali commander",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-accused-war-crime-drone-strike-former-somali-commander/",
+      "published_date": "2026-09-04T17:49:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Two Muslim women journalists allege police assault in India",
@@ -211,76 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
       "published_date": "2026-09-04T09:42:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why has the Philippine peso plunged to a record low?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
-      "published_date": "2026-09-04T08:38:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former Somali Prisons Chief Wounded in Dolow Air Strike, South West Blames Turkey",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-prisons-chief-wounded-in-dolow-air-strike-south-west-blames-turkey/",
-      "published_date": "2026-09-04T08:20:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former South West Administration Condemns Alleged Turkish Drone Strike on Somali General’s Home",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-south-west-administration-condemns-alleged-turkish-drone-strike-on-somali-generals-home/",
-      "published_date": "2026-09-04T08:12:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Pakistan overhauled its military command structure after five decades",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
-      "published_date": "2026-09-04T07:30:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US rules out Iran talks until ship attacks stop",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
-      "published_date": "2026-09-04T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Are Trump’s AI videos just memes or psychological warfare?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
-      "published_date": "2026-09-03T23:36:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
-      "published_date": "2026-09-03T21:07:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
-      "published_date": "2026-09-03T20:44:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
-      "published_date": "2026-09-03T20:31:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funeral held for child killed in US strike on Iranian wedding",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss",
-      "published_date": "2026-09-03T20:00:40+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Nigel Farage heckled as he denies Reform UK took illegal funding",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/nigel-farage-heckled-as-he-denies-reform-uk-took-illegal-funding?traffic_source=rss",
+      "published_date": "2026-09-04T20:53:12+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "As the China-US AI race reaches Cairo, Egypt faces a strategic decision",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss",
@@ -557,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
+      "title": "Analyst Michael Rubin Questions Somaliland Delegation’s Strategy Ahead of Washington Visit",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/analyst-michael-rubin-questions-somaliland-delegations-strategy-ahead-of-washington-visit/",
+      "published_date": "2026-09-04T20:06:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne oo safar ku maraya degmooyinka gobolka Bari ee laamiga ka baxsan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/04/madaxweyne-oo-safar-ku-maraya-degmooyinka-gobolka-bari-ee-laamiga-ka-baxsan/",
+      "published_date": "2026-09-04T19:08:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazilian Supreme Court roiled by dispute between justices",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
-      "published_date": "2026-08-29T12:58:25+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss",
+      "published_date": "2026-09-04T18:46:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
@@ -680,27 +701,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/heavy-fighting-erupts-in-somalias-baidoa-as-rival-forces-clash/",
       "published_date": "2026-09-03T07:41:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweynaha Somaliland oo u safray Maraykanka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/03/madaxweynaha-somaliland-oo-u-safray-maraykanka/",
-      "published_date": "2026-09-03T07:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge blocks Trump’s latest effort to limit birthright citizenship",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/us-judge-blocks-trumps-latest-effort-to-limit-birthright-citizenship?traffic_source=rss",
-      "published_date": "2026-09-03T00:33:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands protest in Spain as Ceuta’s migration crisis festers a month on",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
-      "published_date": "2026-09-02T23:28:18+00:00",
       "category": "Local Events"
     }
   ]
