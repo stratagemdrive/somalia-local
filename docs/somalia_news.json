@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-06T00:32:33.095758+00:00",
-  "story_count": 99,
+  "last_updated": "2026-09-06T14:03:19.736405+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Somalia formally joins AfCFTA to drive continental trade growth",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-formally-joins-afcfta-to-drive-continental-trade-growth/",
+      "published_date": "2026-09-06T07:51:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
+      "published_date": "2026-09-06T04:59:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
       "source": "Al Jazeera",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN warns El Nino could be ‘off the charts’, strongest in decades",
+      "title": "How significant is the Yemeni government’s military gains against Houthis?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/un-warns-el-nino-could-be-off-the-charts-strongest-in-decades?traffic_source=rss",
-      "published_date": "2026-09-03T11:49:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
+      "published_date": "2026-09-06T13:41:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
+      "title": "Algeria civil defence recovers body of 10-year-old boy from well",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss",
-      "published_date": "2026-09-03T10:45:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss",
+      "published_date": "2026-09-06T12:55:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bannaanbaxyo ka dhan ah Turkiga oo ka dhacay Jubaland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/06/bannaanbaxyo-ka-dhan-ah-turkiga-oo-ka-dhacay-jubaland/",
+      "published_date": "2026-09-06T12:10:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
+      "published_date": "2026-09-06T10:49:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli air attacks on Lebanon kill at least four",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
+      "published_date": "2026-09-06T09:15:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel bombards several towns in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-09-06T08:44:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 60 killed as Yemen government forces and Houthis clash in Taiz",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/more-than-60-killed-as-yemen-government-forces-and-houthis-clash-in-taiz/",
+      "published_date": "2026-09-06T07:48:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger accuses France of backing failed military coup attempt",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/niger-accuses-france-of-backing-failed-military-coup-attempt/",
+      "published_date": "2026-09-06T07:45:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+      "published_date": "2026-09-06T05:02:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
@@ -218,69 +281,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-army-kills-14-al-shabaab-members-in-latest-military-operation/",
       "published_date": "2026-09-05T14:47:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
-      "published_date": "2026-09-05T12:54:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen government launches own air attacks on Houthis: What that means",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means?traffic_source=rss",
-      "published_date": "2026-09-05T12:43:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mudslide in eastern China kills one, leaves 11 missing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss",
-      "published_date": "2026-09-05T10:49:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
-      "published_date": "2026-09-05T10:27:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia questions Somali soldiers who crossed border to visit families in Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-questions-somali-soldiers-border-crossing-families-somalia/",
-      "published_date": "2026-09-05T10:16:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
-      "published_date": "2026-09-05T09:56:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Future Council Condemns Attack on Former Prison Forces Chief’s Home",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-future-council-condemns-attack-on-former-prison-forces-chiefs-home/",
-      "published_date": "2026-09-05T08:46:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon polygraphs dozens of US military staff over media leaks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss",
-      "published_date": "2026-09-05T08:37:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niger accuses France of orchestrating failed military mutiny",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
-      "published_date": "2026-09-05T07:42:59+00:00",
       "category": "Military"
     },
     {
@@ -543,18 +543,60 @@
       "category": "Economy"
     },
     {
-      "title": "Bangiga Adduunka iyo Bangiga Horumarinta Afrika oo warbixinno   ka soo saaray dhaqaalaha Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/bangiga-adduunka-iyo-bangiga-horumarinta-afrika-oo-warbixinno-ka-soo-saaray-dhaqaalaha-soomaaliya/",
-      "published_date": "2026-08-30T07:04:01+00:00",
-      "category": "Economy"
+      "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
+      "published_date": "2026-09-06T13:15:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia, Turkish Charity Launch Cash Aid Program for Vulnerable Orphans",
+      "title": "Israa’iil oo muwaadiniinteeda uga digtay safarka Somaliland",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-turkish-charity-launch-cash-aid-program-for-vulnerable-orphans/",
-      "published_date": "2026-08-30T06:50:56+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/israaiil-oo-muwaadiniinteeda-uga-digtay-safarka-somaliland-xilli-ay-soo-dhow-yihiin-ciidaha-yuhuudda/",
+      "published_date": "2026-09-06T10:22:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE: Everton vs Manchester United – Premier League",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss",
+      "published_date": "2026-09-06T09:47:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo sheegtay in ay lacag la’aan ka dhigayso dugsiyada hoose/dhexe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/06/puntland-oo-sheegtay-in-ay-lacag-laaan-ka-dhigayso-dugsiyada-hoose-dhexe/",
+      "published_date": "2026-09-06T08:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia disaster agency warns Beledweyne residents over El Nino risks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-disaster-agency-warns-beledweyne-residents-over-el-nino-risks/",
+      "published_date": "2026-09-06T07:43:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Egyptian TV presenter Sarah Khalifa sentenced to death in drugs case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss",
+      "published_date": "2026-09-06T07:20:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
+      "published_date": "2026-09-06T07:10:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SoDMA oo wacyigelin ka sameysay deegaanada ku teedsan Beledweyne",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-oo-wacyigelin-ka-sameysay-deegaanada-ku-teedsan-beledweyne/",
+      "published_date": "2026-09-06T05:46:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
@@ -638,62 +680,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/09/04/madaxweyne-oo-safar-ku-maraya-degmooyinka-gobolka-bari-ee-laamiga-ka-baxsan/",
       "published_date": "2026-09-04T19:08:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazilian Supreme Court roiled by dispute between justices",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss",
-      "published_date": "2026-09-04T18:46:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony-anhalt?traffic_source=rss",
-      "published_date": "2026-09-04T12:19:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal search teams rescue two workers from hydropower tunnel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss",
-      "published_date": "2026-09-04T09:09:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland’s Irro departs for US to pitch region’s strategic value as Somalia sends rival team",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-irro-us-visit-strategic-value-somalia-rival-delegation/",
-      "published_date": "2026-09-04T08:45:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Strikes Target Islamic State Positions in Cal Miskaad Mountains in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-strikes-target-islamic-state-positions-in-cal-miskaad-mountains-in-somalia/",
-      "published_date": "2026-09-04T08:07:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
-      "published_date": "2026-09-03T23:23:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal flood victims to be identified through DNA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss",
-      "published_date": "2026-09-03T21:11:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
-      "published_date": "2026-09-03T19:43:07+00:00",
       "category": "Local Events"
     }
   ]
