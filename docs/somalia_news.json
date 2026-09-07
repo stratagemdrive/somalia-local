@@ -1,7 +1,7 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-07T00:39:06.120642+00:00",
-  "story_count": 95,
+  "last_updated": "2026-09-07T16:20:42.007960+00:00",
+  "story_count": 97,
   "stories": [
     {
       "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
@@ -144,6 +144,90 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
+      "published_date": "2026-09-07T15:34:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the media manufactured consent for genocide",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide?traffic_source=rss",
+      "published_date": "2026-09-07T14:59:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Direction Potocari’: From Srebrenica genocide to a Belgrade football match",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/7/direction-potocari-from-srebrenica-genocide-to-a-belgrade-football-match?traffic_source=rss",
+      "published_date": "2026-09-07T14:33:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
+      "published_date": "2026-09-07T13:52:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq faces sovereignty test as US-led military coalition exit nears",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/iraq-faces-sovereignty-test-as-us-led-military-coalition-exit-nears?traffic_source=rss",
+      "published_date": "2026-09-07T13:30:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moment Israeli strike hits next to Lebanese reporter",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-israeli-strike-hits-next-to-lebanese-reporter?traffic_source=rss",
+      "published_date": "2026-09-07T13:05:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Serbia holds funeral for convicted war criminal Ratko Mladic",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/serbia-holds-funeral-for-convicted-war-criminal-ratko-mladic?traffic_source=rss",
+      "published_date": "2026-09-07T12:55:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army chief inspects damaged bridge in Baardheere amid flood fears",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-inspects-damaged-bridge-in-baardheere-amid-flood-fears/",
+      "published_date": "2026-09-07T12:52:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss",
+      "published_date": "2026-09-07T12:00:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army commander visits Gedo to assess security operations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-commander-visits-gedo-to-assess-security-operations/",
+      "published_date": "2026-09-07T08:49:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali commandos conduct operations against Al-Shabaab in Lower Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-commandos-conduct-operations-against-al-shabaab-in-lower-shabelle/",
+      "published_date": "2026-09-07T08:47:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Soomaaliya oo si adag u cambaareysay soo noqoshada burcad-badeednimada",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-si-adag-u-cambaareysay-soo-noqoshada-burcad-badeednimada/",
+      "published_date": "2026-09-07T06:21:19+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
@@ -200,88 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
+      "title": "Why do the Falkland Islands matter to the UK and Argentina so much?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
-      "published_date": "2026-09-06T17:03:20+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/7/why-do-the-falkland-islands-matter-to-the-uk-and-argentina-so-much?traffic_source=rss",
+      "published_date": "2026-09-07T14:58:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran touts military response as US maintains blockade, hits tankers",
+      "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-      "published_date": "2026-09-06T16:17:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How significant is the Yemeni government’s military gains against Houthis?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
-      "published_date": "2026-09-06T13:41:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Algeria civil defence recovers body of 10-year-old boy from well",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss",
-      "published_date": "2026-09-06T12:55:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bannaanbaxyo ka dhan ah Turkiga oo ka dhacay Jubaland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/06/bannaanbaxyo-ka-dhan-ah-turkiga-oo-ka-dhacay-jubaland/",
-      "published_date": "2026-09-06T12:10:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
-      "published_date": "2026-09-06T10:49:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air attacks on Lebanon kill at least four",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
-      "published_date": "2026-09-06T09:15:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel bombards several towns in southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-09-06T08:44:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 60 killed as Yemen government forces and Houthis clash in Taiz",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/more-than-60-killed-as-yemen-government-forces-and-houthis-clash-in-taiz/",
-      "published_date": "2026-09-06T07:48:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niger accuses France of backing failed military coup attempt",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/niger-accuses-france-of-backing-failed-military-coup-attempt/",
-      "published_date": "2026-09-06T07:45:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
-      "published_date": "2026-09-06T05:02:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
-      "published_date": "2026-09-06T00:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
+      "published_date": "2026-09-07T11:26:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
@@ -403,11 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "What are the implications of the US-Venezuela oil deal?",
+      "title": "Israel opens trade office in Bosnia’s Republika Srpska",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
-      "published_date": "2026-08-31T00:41:12+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israel-opens-trade-office-in-bosnias-republika-srpska?traffic_source=rss",
+      "published_date": "2026-09-07T14:57:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘Stop the boats’ masked protesters block England’s Port of Dover",
@@ -529,6 +543,55 @@
       "category": "Economy"
     },
     {
+      "title": "Germany’s AfD wins in key state: Is far-right on cusp of national rule?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/germanys-afd-wins-in-key-state-is-far-right-on-cusp-of-national-rule?traffic_source=rss",
+      "published_date": "2026-09-07T14:59:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guddoomiyaha SoDMA oo Kormeeray Webiga Shabeelle iyo Goobaha Fatahaaduhu Halis Geli Karaan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/guddoomiyaha-sodma-oo-kormeeray-webiga-shabeelle-iyo-goobaha-fatahaaduhu-halis-geli-karaan/",
+      "published_date": "2026-09-07T13:13:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo dib u dhisaysa daartii Boqor Cismaan ee Baargaal",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/07/puntland-oo-dib-u-dhisaysa-daartii-boqor-cismaan-ee-baargaal/",
+      "published_date": "2026-09-07T11:54:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Balogun red card U-turn prompts Belgium to withdraw support for Infantino",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss",
+      "published_date": "2026-09-07T11:50:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo kulan la qaatay mas’uuliyiinta Baargaal iyo Raascasayr",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/07/madaxweyne-deni-oo-kulan-la-qaatay-masuuliyiinta-baargaal-iyo-raascasayr/",
+      "published_date": "2026-09-07T11:04:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia condemns resurgence of piracy, urges international support",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-condemns-resurgence-of-piracy-urges-international-support/",
+      "published_date": "2026-09-07T08:50:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DFS oo codsaday in laga taageero la dagaalanka Burcad-badeedda ka jirta xeebaha Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/07/dfs-oo-codsaday-in-laga-taageero-la-dagaalanka-burcad-badeedda-ka-jirta-xeebaha-puntland/",
+      "published_date": "2026-09-07T00:19:28+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Can AfD form Germany’s first far-right state government since World War II?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
@@ -617,55 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
       "published_date": "2026-09-06T07:10:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SoDMA oo wacyigelin ka sameysay deegaanada ku teedsan Beledweyne",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sodma-oo-wacyigelin-ka-sameysay-deegaanada-ku-teedsan-beledweyne/",
-      "published_date": "2026-09-06T05:46:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
-      "published_date": "2026-09-05T22:58:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Everton vs Manchester United: Premier League – prediction, teams, lineups",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-      "published_date": "2026-09-05T20:04:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands protest in Croatia to demand government clean up toxic waste",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss",
-      "published_date": "2026-09-05T18:42:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s far-right AfD eyes historic first in state election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
-      "published_date": "2026-09-05T18:07:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Fahad Yasin links Jama to Gen. Shub drone strike",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-fahad-yasin-links-speaker-jama-drone-strike-gen-shub/",
-      "published_date": "2026-09-05T16:59:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-      "published_date": "2026-09-05T15:37:12+00:00",
       "category": "Local Events"
     }
   ]
