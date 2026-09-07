@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-06T14:03:19.736405+00:00",
-  "story_count": 97,
+  "last_updated": "2026-09-07T00:39:06.120642+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
+      "published_date": "2026-09-07T00:20:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland President Arrives in Washington as U.S. Recognition Push Intensifies",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-arrives-in-washington-as-u-s-recognition-push-intensifies/",
+      "published_date": "2026-09-06T19:37:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia formally joins AfCFTA to drive continental trade growth",
       "source": "Shabelle Media",
@@ -130,18 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somaliland President Heads to U.S. in Major Diplomatic Push for Recognition",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-heads-to-u-s-in-major-diplomatic-push-for-recognition/",
-      "published_date": "2026-09-03T17:43:53+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+      "published_date": "2026-09-07T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya’s aviation strike is over, but the dispute is far from settled",
+      "title": "At least five killed after Amazon cargo plane crash in Miami airport",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss",
-      "published_date": "2026-09-03T11:55:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+      "published_date": "2026-09-06T21:11:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 10 killed in central Mexico fireworks blast during festival",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
+      "published_date": "2026-09-06T21:08:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least five killed in New Delhi building collapse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
+      "published_date": "2026-09-06T20:05:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
+      "published_date": "2026-09-06T18:56:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Argentina reviving the Falklands dispute?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
+      "published_date": "2026-09-06T18:36:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali cleric Ali Wajis endorses killing of government critics",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-cleric-ali-wajis-endorses-killing-government-critics/",
+      "published_date": "2026-09-06T18:00:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
+      "published_date": "2026-09-06T17:56:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
+      "published_date": "2026-09-06T17:03:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran touts military response as US maintains blockade, hits tankers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
+      "published_date": "2026-09-06T16:17:06+00:00",
+      "category": "Military"
     },
     {
       "title": "How significant is the Yemeni government’s military gains against Houthis?",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+      "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-      "published_date": "2026-09-05T21:23:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Colombian government reports three killed in rebel attack on military post",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-      "published_date": "2026-09-05T20:03:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
-      "published_date": "2026-09-05T19:45:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: raids, settlers & sieges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
-      "published_date": "2026-09-05T19:37:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two pilots killed after Greek fighter jet crashes during an air show",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
-      "published_date": "2026-09-05T18:44:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
-      "published_date": "2026-09-05T18:12:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Soomaaliya ayaa dilay 14 xubnood oo ka tirsan Al-Shabaab hawlgal militari oo dhawaan la sameeyay.",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-soomaaliya-ayaa-dilay-14-xubnood-oo-ka-tirsan-al-shabaab-hawlgal-militari-oo-dhawaan-la-sameeyay/",
-      "published_date": "2026-09-05T16:35:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-      "published_date": "2026-09-05T16:17:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
-      "published_date": "2026-09-05T16:04:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army kills 14 Al-Shabaab members in latest military operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-kills-14-al-shabaab-members-in-latest-military-operation/",
-      "published_date": "2026-09-05T14:47:34+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
+      "published_date": "2026-09-06T16:59:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fuel tanker blast in western Iran kills at least 10",
@@ -400,27 +407,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
       "published_date": "2026-08-31T00:41:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dozens evacuated and about 15 missing after Grand Canyon flash flood",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss",
-      "published_date": "2026-08-31T00:31:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Flash flooding in Grand Canyon leaves more than 20 people missing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss",
-      "published_date": "2026-08-31T00:19:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "What is Notting Hill Carnival’s Jab Jab parade?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss",
-      "published_date": "2026-08-30T23:29:21+00:00",
       "category": "Energy"
     },
     {
@@ -543,6 +529,48 @@
       "category": "Economy"
     },
     {
+      "title": "Can AfD form Germany’s first far-right state government since World War II?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+      "published_date": "2026-09-06T20:52:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
+      "published_date": "2026-09-06T19:45:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia: Anti-Turkish Protests Erupt in Kismayo as Jubaland Officials Accuse Ankara of Interference",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalia-anti-turkish-protests-erupt-in-kismayo-as-jubaland-officials-accuse-ankara-of-interfering/",
+      "published_date": "2026-09-06T19:06:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
+      "published_date": "2026-09-06T18:47:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
+      "published_date": "2026-09-06T17:50:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo gaaray Baargaal",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/06/madaxweyne-deni-oo-gaaray-baargaal/",
+      "published_date": "2026-09-06T16:03:13+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
@@ -638,48 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
       "published_date": "2026-09-05T15:37:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo gaaray degmada taariikhiga ah ee Iskushuban",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/05/madaxweyne-deni-oo-gaaray-degmada-taariikhiga-ah-ee-iskushuban/",
-      "published_date": "2026-09-05T14:22:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo tegay Dharjaale",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/05/madaxweyne-deni-oo-tegay-dharjaale/",
-      "published_date": "2026-09-05T11:23:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Disaster Agency Chief Visits Beledweyne Amid El Niño Flood Concerns",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-disaster-agency-chief-visits-beledweyne-amid-el-nino-flood-concerns/",
-      "published_date": "2026-09-05T08:43:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guddoomiyaha SoDMA oo gaaray Beledweyne dardargelinaya diyaar-garowga fatahaadaha",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddoomiyaha-sodma-oo-gaaray-beledweyne-dardargelinaya-diyaar-garowga-fatahaadaha/",
-      "published_date": "2026-09-05T08:35:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Analyst Michael Rubin Questions Somaliland Delegation’s Strategy Ahead of Washington Visit",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/analyst-michael-rubin-questions-somaliland-delegations-strategy-ahead-of-washington-visit/",
-      "published_date": "2026-09-04T20:06:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne oo safar ku maraya degmooyinka gobolka Bari ee laamiga ka baxsan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/04/madaxweyne-oo-safar-ku-maraya-degmooyinka-gobolka-bari-ee-laamiga-ka-baxsan/",
-      "published_date": "2026-09-04T19:08:20+00:00",
       "category": "Local Events"
     }
   ]
