@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-08T00:53:01.602365+00:00",
-  "story_count": 96,
+  "last_updated": "2026-09-08T15:00:52.270077+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Video: Saudi–Russia Press Conference in Moscow: Key Takeaways",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-saudi-russia-press-conference-in-moscow-key?traffic_source=rss",
+      "published_date": "2026-09-08T13:43:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss",
+      "published_date": "2026-09-08T12:44:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK, France among 12 states backing sanctions on illegal Israeli settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+      "published_date": "2026-09-08T12:34:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BRICS summit may be the only place another Iran ceasefire can be built",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss",
+      "published_date": "2026-09-08T12:00:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya offers amnesty for migrants after Burundians rush to leave",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/kenya-offers-amnesty-for-migrants-after-burundians-rush-to-leave?traffic_source=rss",
+      "published_date": "2026-09-08T09:53:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia president’s policies have failed the country, says academic",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-policies-failed-country-academic/",
+      "published_date": "2026-09-08T07:16:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As Justin Davis Leaves Mogadishu, Washington Is Asking a Different Question About Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/as-justin-davis-leaves-mogadishu-washington-is-asking-a-different-question-about-somalia/",
+      "published_date": "2026-09-08T06:29:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
       "source": "Al Jazeera",
@@ -36,6 +85,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
       "published_date": "2026-09-07T18:27:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign Policy Makes Case for U.S. Recognition of Somaliland, Citing U.S. Strategic Interests",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/foreign-policy-makes-case-for-u-s-recognition-of-somaliland-citing-u-s-strategic-interests/",
+      "published_date": "2026-09-07T18:23:53+00:00",
       "category": "Diplomacy"
     },
     {
@@ -88,66 +144,52 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
+      "title": "Manipur musician killed in Indian capital, reviving racism concerns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
-      "published_date": "2026-09-05T12:04:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/9/8/manipur-musician-killed-in-indian-capital-reviving-racism-concerns?traffic_source=rss",
+      "published_date": "2026-09-08T13:16:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
+      "title": "Israeli forces kill Palestinian man and withhold his body near Nablus",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-09-05T09:52:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
+      "published_date": "2026-09-08T11:29:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
+      "title": "Saudi political analyst says ‘No prolonged war with the Houthis’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss",
-      "published_date": "2026-09-05T09:48:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
+      "published_date": "2026-09-08T11:01:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Participates in Africa Food Systems Forum in Rwanda",
+      "title": "How South Korea finds itself trapped in the US-Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
+      "published_date": "2026-09-08T10:00:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army chief visits wounded soldiers at Mogadishu hospital",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-participates-in-africa-food-systems-forum-in-rwanda/",
-      "published_date": "2026-09-05T08:52:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss",
-      "published_date": "2026-09-04T19:48:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN votes to adopt new world map that reflects Africa’s true size",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/un-votes-to-adopt-new-world-map-that-reflects-africas-true-size?traffic_source=rss",
-      "published_date": "2026-09-04T19:25:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un?traffic_source=rss",
-      "published_date": "2026-09-04T13:24:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Government Denies Involvement in Dollow Airstrike",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-government-denies-involvement-in-dollow-airstrike/",
-      "published_date": "2026-09-04T12:10:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-army-chief-visits-wounded-soldiers-at-mogadishu-hospital/",
+      "published_date": "2026-09-08T08:00:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
       "published_date": "2026-09-07T23:50:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Shabaab Reportedly Launches Coordinated Attacks Across Northeastern Kenya",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/al-shabaab-reportedly-launches-coordinated-attacks-across-northeastern-kenya/",
+      "published_date": "2026-09-07T18:07:46+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Dowladda Soomaaliya oo si adag u cambaareysay soo noqoshada burcad-badeednimada",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-si-adag-u-cambaareysay-soo-noqoshada-burcad-badeednimada/",
-      "published_date": "2026-09-07T06:21:19+00:00",
-      "category": "Military"
+      "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
+      "published_date": "2026-09-08T11:40:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+      "title": "‘Limit overshoot, peak, decline’: A new global goal for climate change?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
-      "published_date": "2026-09-07T00:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss",
+      "published_date": "2026-09-08T10:58:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "At least five killed after Amazon cargo plane crash in Miami airport",
+      "title": "As fuel prices rise again, Iran’s government urges citizens to cut back",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
-      "published_date": "2026-09-06T21:11:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 10 killed in central Mexico fireworks blast during festival",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
-      "published_date": "2026-09-06T21:08:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least five killed in New Delhi building collapse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
-      "published_date": "2026-09-06T20:05:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
-      "published_date": "2026-09-06T18:56:25+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
+      "published_date": "2026-09-08T08:15:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
@@ -403,18 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?",
+      "title": "Sudan’s healthcare system on brink of collapse, MSF warns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
-      "published_date": "2026-09-01T14:17:47+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss",
+      "published_date": "2026-09-08T12:12:16+00:00",
+      "category": "Economy"
     },
     {
-      "title": "DRC: Ebola fears grow as children return to school",
+      "title": "Former Philippines lawmaker arrested for pocketing millions in flood aid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/drc-ebola-fears-grow-as-children-return-to-school?traffic_source=rss",
-      "published_date": "2026-09-01T12:12:30+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/former-philippines-lawmaker-arrested-for-pocketing-millions-in-flood-aid?traffic_source=rss",
+      "published_date": "2026-09-08T11:58:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK to announce trade ban on goods from illegal Israeli settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/uk-to-announce-trade-ban-on-goods-from-illegal-israeli-settlements?traffic_source=rss",
+      "published_date": "2026-09-08T09:31:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia, UNHCR discuss stronger cooperation on national development priorities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-unhcr-discuss-stronger-cooperation-on-national-development-priorities/",
+      "published_date": "2026-09-08T07:58:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Board of Peace touts progress as Palestinians’ situation worsens",
@@ -529,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Is Trump wooing Russia again – and why?",
+      "title": "One year on from Nepal protests, have Gen Z demands been met?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why?traffic_source=rss",
-      "published_date": "2026-09-01T14:40:58+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/8/one-year-on-from-nepal-protests-have-gen-z-demands-been-met?traffic_source=rss",
+      "published_date": "2026-09-08T14:09:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Germany says ICJ lacks jurisdiction in Nicaragua genocide case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-germany-says-icj-lacks-jurisdiction-in-nicaragua-genocide-case?traffic_source=rss",
+      "published_date": "2026-09-08T13:52:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo tegay degmada Gumbax",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/08/madaxweyne-deni-oo-tegay-degmada-gumbax/",
+      "published_date": "2026-09-08T10:49:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What to watch in the US’s New Hampshire and Rhode Island primary elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss",
+      "published_date": "2026-09-08T10:41:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Switzerland to deport seriously injured Somali man despite planned medical treatment",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/switzerland-to-deport-seriously-injured-somali-man-despite-planned-medical-treatment/",
+      "published_date": "2026-09-08T07:15:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka hadashay shimbir ka timid Hungary oo ku geeriyootay Dhuudo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/08/puntland-oo-ka-hadashay-shimbir-ka-timid-hungary-oo-ku-geeriyootay-dhuudo/",
+      "published_date": "2026-09-08T02:09:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
@@ -631,48 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
       "published_date": "2026-09-06T19:45:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Anti-Turkish Protests Erupt in Kismayo as Jubaland Officials Accuse Ankara of Interference",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalia-anti-turkish-protests-erupt-in-kismayo-as-jubaland-officials-accuse-ankara-of-interfering/",
-      "published_date": "2026-09-06T19:06:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
-      "published_date": "2026-09-06T18:47:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
-      "published_date": "2026-09-06T17:50:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo gaaray Baargaal",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/06/madaxweyne-deni-oo-gaaray-baargaal/",
-      "published_date": "2026-09-06T16:03:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
-      "published_date": "2026-09-06T13:15:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israa’iil oo muwaadiniinteeda uga digtay safarka Somaliland",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/israaiil-oo-muwaadiniinteeda-uga-digtay-safarka-somaliland-xilli-ay-soo-dhow-yihiin-ciidaha-yuhuudda/",
-      "published_date": "2026-09-06T10:22:26+00:00",
       "category": "Local Events"
     }
   ]
