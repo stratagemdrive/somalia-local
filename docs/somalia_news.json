@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-07T16:20:42.007960+00:00",
-  "story_count": 97,
+  "last_updated": "2026-09-08T00:53:01.602365+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
+      "published_date": "2026-09-08T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+      "published_date": "2026-09-07T21:00:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
+      "published_date": "2026-09-07T19:58:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
+      "published_date": "2026-09-07T19:31:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia shutters German consulate as diplomatic freeze deepens",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
+      "published_date": "2026-09-07T18:27:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nauru opens embassy in Jerusalem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss",
+      "published_date": "2026-09-07T17:36:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
       "source": "Al Jazeera",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+      "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
-      "published_date": "2026-09-04T10:17:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
+      "published_date": "2026-09-07T23:50:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "DR Congo joins countries pledging embassy move to Jerusalem",
+      "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
-      "published_date": "2026-09-03T23:05:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
+      "published_date": "2026-09-07T17:52:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
+      "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss",
-      "published_date": "2026-09-03T21:40:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India rejects court ruling on Indus Waters Treaty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-sv-india-rejects-iwt-ruling-in-fm?traffic_source=rss",
-      "published_date": "2026-09-03T20:48:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Leaders of Thailand and Singapore perform Beatles song, “Let It Be”",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/leaders-of-thailand-and-singapore-perform-beatles-song-let-it?traffic_source=rss",
-      "published_date": "2026-09-03T20:00:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is Nepal leading the battle for climate justice?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
-      "published_date": "2026-09-03T18:58:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
+      "published_date": "2026-09-07T17:31:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Why is Argentina reviving the Falklands dispute?",
+      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
-      "published_date": "2026-09-06T18:36:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali cleric Ali Wajis endorses killing of government critics",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-cleric-ali-wajis-endorses-killing-government-critics/",
-      "published_date": "2026-09-06T18:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
-      "published_date": "2026-09-06T17:56:13+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-09-07T21:17:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why do the Falkland Islands matter to the UK and Argentina so much?",
@@ -410,11 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "‘Let Data Reign’: Trump decries opposition to data centres in US",
+      "title": "Board of Peace touts progress as Palestinians’ situation worsens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/let-data-reign-trump-decries-opposition-to-data-centres-in-us?traffic_source=rss",
-      "published_date": "2026-08-31T18:42:27+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
+      "published_date": "2026-09-07T17:50:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Israel opens trade office in Bosnia’s Republika Srpska",
@@ -529,18 +536,39 @@
       "category": "Economy"
     },
     {
-      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+      "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
-      "published_date": "2026-09-01T00:15:22+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
+      "published_date": "2026-09-07T22:41:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
+      "title": "Robots protest in Poland over AI regulation concerns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss",
-      "published_date": "2026-08-31T17:04:24+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
+      "published_date": "2026-09-07T20:59:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What are the implications of AfD’s electoral rise for Germany and Europe?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
+      "published_date": "2026-09-07T19:50:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The domestic armed threat facing Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
+      "published_date": "2026-09-07T19:06:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
+      "published_date": "2026-09-07T19:03:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Germany’s AfD wins in key state: Is far-right on cusp of national rule?",
@@ -645,41 +673,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/israaiil-oo-muwaadiniinteeda-uga-digtay-safarka-somaliland-xilli-ay-soo-dhow-yihiin-ciidaha-yuhuudda/",
       "published_date": "2026-09-06T10:22:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LIVE: Everton vs Manchester United – Premier League",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss",
-      "published_date": "2026-09-06T09:47:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo sheegtay in ay lacag la’aan ka dhigayso dugsiyada hoose/dhexe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/06/puntland-oo-sheegtay-in-ay-lacag-laaan-ka-dhigayso-dugsiyada-hoose-dhexe/",
-      "published_date": "2026-09-06T08:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia disaster agency warns Beledweyne residents over El Nino risks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-disaster-agency-warns-beledweyne-residents-over-el-nino-risks/",
-      "published_date": "2026-09-06T07:43:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egyptian TV presenter Sarah Khalifa sentenced to death in drugs case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss",
-      "published_date": "2026-09-06T07:20:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
-      "published_date": "2026-09-06T07:10:33+00:00",
       "category": "Local Events"
     }
   ]
