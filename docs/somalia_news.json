@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-08T15:00:52.270077+00:00",
-  "story_count": 100,
+  "last_updated": "2026-09-09T01:01:06.092623+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "US increases pressure on Iran with sanctions targeting aviation sector",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
+      "published_date": "2026-09-08T23:51:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Map Was Lying To You: Why the UN Just Changed How We See Africa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/the-map-was-lying-to-you-why-the-un-just-changed-how-we-see-africa?traffic_source=rss",
+      "published_date": "2026-09-08T23:07:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Video: Saudi–Russia Press Conference in Moscow: Key Takeaways",
       "source": "Al Jazeera",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+      "title": "US attacks 5 Iranian oil tankers, Iran retaliates with strikes on Jordan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
-      "published_date": "2026-09-05T20:00:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+      "published_date": "2026-09-09T00:08:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "How big is Africa really? Why the UN voted to change the world map",
+      "title": "Iran war live: US hits Iranian tankers, IRGC attacks US base in Jordan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/how-big-is-africa-really-why-the-un-voted-to-change-the-world-map?traffic_source=rss",
-      "published_date": "2026-09-05T12:49:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+      "published_date": "2026-09-09T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US bombs five Iranian oil tankers after its navy is attacked",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
+      "published_date": "2026-09-08T23:49:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Protesters, police clash in Albania over Trump-linked project",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss",
+      "published_date": "2026-09-08T22:05:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US forces sink vessel ‘linked to Ecuador criminal gang’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
+      "published_date": "2026-09-08T21:06:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police bodycam captures Russian missile strike on Kyiv",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
+      "published_date": "2026-09-08T20:43:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Manipur musician killed in Indian capital, reviving racism concerns",
@@ -239,48 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/7/iraq-faces-sovereignty-test-as-us-led-military-coalition-exit-nears?traffic_source=rss",
       "published_date": "2026-09-07T13:30:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moment Israeli strike hits next to Lebanese reporter",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-israeli-strike-hits-next-to-lebanese-reporter?traffic_source=rss",
-      "published_date": "2026-09-07T13:05:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serbia holds funeral for convicted war criminal Ratko Mladic",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/serbia-holds-funeral-for-convicted-war-criminal-ratko-mladic?traffic_source=rss",
-      "published_date": "2026-09-07T12:55:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army chief inspects damaged bridge in Baardheere amid flood fears",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-inspects-damaged-bridge-in-baardheere-amid-flood-fears/",
-      "published_date": "2026-09-07T12:52:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss",
-      "published_date": "2026-09-07T12:00:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army commander visits Gedo to assess security operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-commander-visits-gedo-to-assess-security-operations/",
-      "published_date": "2026-09-07T08:49:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali commandos conduct operations against Al-Shabaab in Lower Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-commandos-conduct-operations-against-al-shabaab-in-lower-shabelle/",
-      "published_date": "2026-09-07T08:47:02+00:00",
       "category": "Military"
     },
     {
@@ -417,11 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
+      "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
-      "published_date": "2026-09-01T21:54:14+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss",
+      "published_date": "2026-09-09T00:14:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sudan’s healthcare system on brink of collapse, MSF warns",
@@ -536,32 +536,46 @@
       "category": "Economy"
     },
     {
-      "title": "US urges G20 to cut trade imbalances, focus on China",
+      "title": "Sharpeville massacre, 66 years on: Families still wait for justice",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
-      "published_date": "2026-09-01T22:21:51+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss",
+      "published_date": "2026-09-09T00:24:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+      "title": "Anti-AfD protesters rally in Cologne after far-right election win",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
-      "published_date": "2026-09-01T20:40:55+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss",
+      "published_date": "2026-09-09T00:16:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Canada’s Carney says US must ‘start being serious’ to resolve trade dispute",
+      "title": "Brazil Supreme Court rift deepens as justice suspends federal police chief",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute?traffic_source=rss",
-      "published_date": "2026-09-01T20:08:25+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss",
+      "published_date": "2026-09-08T20:43:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UN food agency cuts aid in West Bank amid funding crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
-      "published_date": "2026-09-01T18:23:25+00:00",
-      "category": "Economy"
+      "title": "Madaxweyne Deni oo gaaray Xaafuun",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/08/madaxweyne-deni-oo-gaaray-xaafuun/",
+      "published_date": "2026-09-08T20:30:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Top diplomat Leaves Mogadishu With Questions Over the Future of U.S. Policy in Somalia",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/top-diplomat-leaves-mogadishu-with-questions-over-the-future-of-u-s-policy-in-somalia/",
+      "published_date": "2026-09-08T17:28:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-Turkey protests spread across Somalia after Dolow air strike",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/anti-turkey-protests-somalia-dolow-air-strike/",
+      "published_date": "2026-09-08T15:15:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "One year on from Nepal protests, have Gen Z demands been met?",
@@ -659,48 +673,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/09/07/puntland-oo-dib-u-dhisaysa-daartii-boqor-cismaan-ee-baargaal/",
       "published_date": "2026-09-07T11:54:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Balogun red card U-turn prompts Belgium to withdraw support for Infantino",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss",
-      "published_date": "2026-09-07T11:50:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo kulan la qaatay mas’uuliyiinta Baargaal iyo Raascasayr",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/07/madaxweyne-deni-oo-kulan-la-qaatay-masuuliyiinta-baargaal-iyo-raascasayr/",
-      "published_date": "2026-09-07T11:04:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia condemns resurgence of piracy, urges international support",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-resurgence-of-piracy-urges-international-support/",
-      "published_date": "2026-09-07T08:50:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DFS oo codsaday in laga taageero la dagaalanka Burcad-badeedda ka jirta xeebaha Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/07/dfs-oo-codsaday-in-laga-taageero-la-dagaalanka-burcad-badeedda-ka-jirta-xeebaha-puntland/",
-      "published_date": "2026-09-07T00:19:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can AfD form Germany’s first far-right state government since World War II?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
-      "published_date": "2026-09-06T20:52:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
-      "published_date": "2026-09-06T19:45:36+00:00",
       "category": "Local Events"
     }
   ]
