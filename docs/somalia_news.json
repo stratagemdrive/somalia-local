@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-09T01:01:06.092623+00:00",
+  "last_updated": "2026-09-09T15:03:43.092555+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "How has Israel hit back against sanctions by the UK, others?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
+      "published_date": "2026-09-09T12:17:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, UN discuss UNTMIS transition",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-un-discuss-untmis-transition/",
+      "published_date": "2026-09-09T11:00:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
+      "published_date": "2026-09-09T10:09:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US increases pressure on Iran with sanctions targeting aviation sector",
       "source": "Al Jazeera",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somaliland President Arrives in Washington as U.S. Recognition Push Intensifies",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-arrives-in-washington-as-u-s-recognition-push-intensifies/",
-      "published_date": "2026-09-06T19:37:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia formally joins AfCFTA to drive continental trade growth",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-formally-joins-afcfta-to-drive-continental-trade-growth/",
-      "published_date": "2026-09-06T07:51:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
+      "title": "Hutu and Tutsi: The history behind the divide",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
-      "published_date": "2026-09-06T04:59:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss",
+      "published_date": "2026-09-09T14:22:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss",
+      "published_date": "2026-09-09T13:35:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
+      "published_date": "2026-09-09T13:02:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army commander, Turkey-trained troops welcomed in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-commander-turkey-trained-troops-welcomed-in-mogadishu/",
+      "published_date": "2026-09-09T11:53:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Dozens protest potential Strait of Hormuz deployment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
+      "published_date": "2026-09-09T11:52:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: RSF drone attack on Sudan court kills at least 13 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-rsf-drone-attack-on-sudan-court-kills-at-least-13-people?traffic_source=rss",
+      "published_date": "2026-09-09T11:08:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The losers of the US-Canada trade war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss",
+      "published_date": "2026-09-09T10:58:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen war escalates: Who are the key actors involved?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss",
+      "published_date": "2026-09-09T10:45:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The war in the Gulf will have to end in compromise",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/9/the-war-in-the-gulf-will-have-to-end-in-compromise?traffic_source=rss",
+      "published_date": "2026-09-09T10:09:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali businessman killed in suspected clan revenge attack in Gaalkayo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-businessman-killed-in-suspected-clan-revenge-attack-in-gaalkayo/",
+      "published_date": "2026-09-09T09:13:31+00:00",
+      "category": "Military"
     },
     {
       "title": "US attacks 5 Iranian oil tankers, Iran retaliates with strikes on Jordan",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Somali army chief visits wounded soldiers at Mogadishu hospital",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-visits-wounded-soldiers-at-mogadishu-hospital/",
-      "published_date": "2026-09-08T08:00:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
+      "title": "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
-      "published_date": "2026-09-07T23:50:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Shabaab Reportedly Launches Coordinated Attacks Across Northeastern Kenya",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/al-shabaab-reportedly-launches-coordinated-attacks-across-northeastern-kenya/",
-      "published_date": "2026-09-07T18:07:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
-      "published_date": "2026-09-07T17:52:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
-      "published_date": "2026-09-07T17:31:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
-      "published_date": "2026-09-07T15:34:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the media manufactured consent for genocide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide?traffic_source=rss",
-      "published_date": "2026-09-07T14:59:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Direction Potocari’: From Srebrenica genocide to a Belgrade football match",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/7/direction-potocari-from-srebrenica-genocide-to-a-belgrade-football-match?traffic_source=rss",
-      "published_date": "2026-09-07T14:33:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
-      "published_date": "2026-09-07T13:52:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq faces sovereignty test as US-led military coalition exit nears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/iraq-faces-sovereignty-test-as-us-led-military-coalition-exit-nears?traffic_source=rss",
-      "published_date": "2026-09-07T13:30:38+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss",
+      "published_date": "2026-09-09T14:42:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
@@ -396,25 +403,32 @@
       "category": "Energy"
     },
     {
-      "title": "In Yemen, dates provide lifeline for farmers with few economic options",
+      "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/2/in-yemen-dates-provide-lifeline-for-farmers-with-few-economic-options?traffic_source=rss",
-      "published_date": "2026-09-02T13:29:51+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
+      "published_date": "2026-09-09T12:26:25+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss",
-      "published_date": "2026-09-02T11:43:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Somalia Urges Stronger Regional Preparedness for El Niño Risks",
+      "title": "Somalia condemns Houthi attacks on Saudi Arabia",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-urges-stronger-regional-preparedness-for-el-nino-risks/",
-      "published_date": "2026-09-02T07:31:27+00:00",
-      "category": "Energy"
+      "url": "https://shabellemedia.com/somalia-condemns-houthi-attacks-on-saudi-arabia/",
+      "published_date": "2026-09-09T11:48:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Troubled league LIV Golf files for bankruptcy protection in US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/9/troubled-league-liv-golf-files-for-bankruptcy-protection-in-us?traffic_source=rss",
+      "published_date": "2026-09-09T11:41:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss",
+      "published_date": "2026-09-09T10:47:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
@@ -522,18 +536,11 @@
       "category": "Economy"
     },
     {
-      "title": "EVC Outage Disrupts Payments Across Somalia",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/02/evc-outage-disrupts-payments-across-somalia/",
-      "published_date": "2026-09-02T14:00:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "5,000 US sailors descend on Thailand as USS Abraham Lincoln docks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/5000-us-sailors-descend-on-thailand-as-uss-abraham-lincoln-docks?traffic_source=rss",
-      "published_date": "2026-09-02T10:08:44+00:00",
-      "category": "Economy"
+      "title": "Somalia prepares fresh troop deployment to Baidoa for operation against opposition forces",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-prepares-fresh-troop-deployment-to-baidoa-against-opposition-forces/",
+      "published_date": "2026-09-09T14:17:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sharpeville massacre, 66 years on: Families still wait for justice",
@@ -666,13 +673,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/guddoomiyaha-sodma-oo-kormeeray-webiga-shabeelle-iyo-goobaha-fatahaaduhu-halis-geli-karaan/",
       "published_date": "2026-09-07T13:13:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo dib u dhisaysa daartii Boqor Cismaan ee Baargaal",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/07/puntland-oo-dib-u-dhisaysa-daartii-boqor-cismaan-ee-baargaal/",
-      "published_date": "2026-09-07T11:54:58+00:00",
       "category": "Local Events"
     }
   ]
