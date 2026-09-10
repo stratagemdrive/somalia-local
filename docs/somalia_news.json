@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-09T15:03:43.092555+00:00",
+  "last_updated": "2026-09-10T00:48:07.889937+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "Guterres pays tribute to Qatar’s late Father Emir at UN ceremony",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss",
+      "published_date": "2026-09-09T21:03:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
+      "published_date": "2026-09-09T20:53:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham defends UK ban on Israeli settlement trade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss",
+      "published_date": "2026-09-09T20:32:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
+      "published_date": "2026-09-09T20:23:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
+      "published_date": "2026-09-09T20:05:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How has Israel hit back against sanctions by the UK, others?",
       "source": "Al Jazeera",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+      "title": "Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
-      "published_date": "2026-09-07T19:31:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
+      "published_date": "2026-09-10T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia shutters German consulate as diplomatic freeze deepens",
+      "title": "Trump says the US-Iran war will end right after midterms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
-      "published_date": "2026-09-07T18:27:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
+      "published_date": "2026-09-09T23:22:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Foreign Policy Makes Case for U.S. Recognition of Somaliland, Citing U.S. Strategic Interests",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/foreign-policy-makes-case-for-u-s-recognition-of-somaliland-citing-u-s-strategic-interests/",
-      "published_date": "2026-09-07T18:23:53+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
+      "published_date": "2026-09-09T23:15:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nauru opens embassy in Jerusalem",
+      "title": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss",
-      "published_date": "2026-09-07T17:36:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
+      "published_date": "2026-09-09T21:14:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+      "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
-      "published_date": "2026-09-07T00:20:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
+      "published_date": "2026-09-09T21:09:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Putin wants to make a deal to end Ukraine war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
+      "published_date": "2026-09-09T20:56:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK man charged with assisting Russian military spies in sabotage plot",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss",
+      "published_date": "2026-09-09T20:17:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Hutu and Tutsi: The history behind the divide",
@@ -232,55 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
       "published_date": "2026-09-08T23:49:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protesters, police clash in Albania over Trump-linked project",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss",
-      "published_date": "2026-09-08T22:05:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US forces sink vessel ‘linked to Ecuador criminal gang’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
-      "published_date": "2026-09-08T21:06:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police bodycam captures Russian missile strike on Kyiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
-      "published_date": "2026-09-08T20:43:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Manipur musician killed in Indian capital, reviving racism concerns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/8/manipur-musician-killed-in-indian-capital-reviving-racism-concerns?traffic_source=rss",
-      "published_date": "2026-09-08T13:16:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces kill Palestinian man and withhold his body near Nablus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
-      "published_date": "2026-09-08T11:29:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi political analyst says ‘No prolonged war with the Houthis’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
-      "published_date": "2026-09-08T11:01:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How South Korea finds itself trapped in the US-Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
-      "published_date": "2026-09-08T10:00:52+00:00",
       "category": "Military"
     },
     {
@@ -396,11 +396,32 @@
       "category": "Energy"
     },
     {
-      "title": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves",
+      "title": "Republicans divided over Trump’s economy as RNC begins",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/signing-ceremony-as-us-to-control-a-fifth-of-venezuelas-oil-reserves?traffic_source=rss",
-      "published_date": "2026-09-02T18:51:07+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_republicans-divided-over-trumps-economy-as-rnc-090926?traffic_source=rss",
+      "published_date": "2026-09-10T00:33:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US announces $45m in security funding, additional naval vessels for Ecuador",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador?traffic_source=rss",
+      "published_date": "2026-09-09T23:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iraqi graduates protest for govt jobs amid unemployment crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-reported-iraq-grad-protests?traffic_source=rss",
+      "published_date": "2026-09-09T20:05:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia urges investment in digital infrastructure at Korea-Africa finance forum",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-urges-investment-in-digital-infrastructure-at-korea-africa-finance-forum/",
+      "published_date": "2026-09-09T16:49:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
@@ -515,25 +536,39 @@
       "category": "Economy"
     },
     {
-      "title": "Kais Saied’s economic experiment has failed Tunisia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/3/kais-saieds-economic-experiment-has-failed-tunisia?traffic_source=rss",
-      "published_date": "2026-09-03T13:09:47+00:00",
-      "category": "Economy"
+      "title": "Somaliland President to Present Somaliland as Strategic Partner in Washington",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-to-present-somaliland-as-strategic-partner-in-washington/",
+      "published_date": "2026-09-09T22:23:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US judge rejects bid to break up Google’s ad business",
+      "title": "US court denies Tate brothers’ bid to be released from Miami jail",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/2/us-judge-rejects-bid-to-break-up-googles-ad-business?traffic_source=rss",
-      "published_date": "2026-09-02T20:06:25+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+      "published_date": "2026-09-09T21:28:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "USS Abraham Lincoln reaches Thailand after 9 months at sea",
+      "title": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/uss-abraham-lincoln-reaches-thailand-after-9-months-at-sea?traffic_source=rss",
-      "published_date": "2026-09-02T18:51:57+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
+      "published_date": "2026-09-09T19:37:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo booqday goobo taariikhi ah oo ku yaalla Xaafuun",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/09/madaxweyne-deni-oo-booqday-goobo-taariikhi-ah-oo-ku-yaalla-xaafuun/",
+      "published_date": "2026-09-09T18:03:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State unveils revised five-year development plan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-state-unveils-revised-five-year-development-plan/",
+      "published_date": "2026-09-09T16:50:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia prepares fresh troop deployment to Baidoa for operation against opposition forces",
@@ -638,41 +673,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
       "published_date": "2026-09-07T20:59:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What are the implications of AfD’s electoral rise for Germany and Europe?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
-      "published_date": "2026-09-07T19:50:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The domestic armed threat facing Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
-      "published_date": "2026-09-07T19:06:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
-      "published_date": "2026-09-07T19:03:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s AfD wins in key state: Is far-right on cusp of national rule?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/germanys-afd-wins-in-key-state-is-far-right-on-cusp-of-national-rule?traffic_source=rss",
-      "published_date": "2026-09-07T14:59:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guddoomiyaha SoDMA oo Kormeeray Webiga Shabeelle iyo Goobaha Fatahaaduhu Halis Geli Karaan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddoomiyaha-sodma-oo-kormeeray-webiga-shabeelle-iyo-goobaha-fatahaaduhu-halis-geli-karaan/",
-      "published_date": "2026-09-07T13:13:16+00:00",
       "category": "Local Events"
     }
   ]
