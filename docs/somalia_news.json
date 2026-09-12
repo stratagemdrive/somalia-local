@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-12T00:52:33.542670+00:00",
-  "story_count": 94,
+  "last_updated": "2026-09-12T13:56:56.280807+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Somali president meets Muslim World League chief to discuss cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-meets-muslim-world-league-chief-to-discuss-cooperation/",
+      "published_date": "2026-09-12T13:14:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
+      "published_date": "2026-09-12T12:19:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BRICS nations urge ‘restraint’ in Middle East, smooth flow of global trade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
+      "published_date": "2026-09-12T07:40:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
       "source": "Al Jazeera",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatar beat Iran in men’s basketball as Asian Games begin in Japan",
+      "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/10/qatar-beat-iran-in-mens-basketball-as-asian-games-begin-in-japan?traffic_source=rss",
-      "published_date": "2026-09-10T10:06:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
+      "published_date": "2026-09-12T12:10:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Guterres pays tribute to Qatar’s late Father Emir at UN ceremony",
+      "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss",
-      "published_date": "2026-09-09T21:03:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
+      "published_date": "2026-09-12T11:32:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
+      "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
-      "published_date": "2026-09-09T20:53:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss",
+      "published_date": "2026-09-12T10:36:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fighting re-erupts in Yemen and civilians are paying the price",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
+      "published_date": "2026-09-12T09:30:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
+      "published_date": "2026-09-12T08:49:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
+      "published_date": "2026-09-12T08:47:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia attacks on cargo vessels, steel plants across Ukraine kill 3",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
+      "published_date": "2026-09-12T08:38:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AUSSOM troops complete IED awareness training in Jowhar",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/aussom-troops-complete-ied-awareness-training-in-jowhar/",
+      "published_date": "2026-09-12T08:36:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
@@ -225,62 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
       "published_date": "2026-09-11T08:20:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How 9/11 helped Israel sell its war on Palestinians to America",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
-      "published_date": "2026-09-11T08:18:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anthropic warns of bids to use AI to build biological weapons",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss",
-      "published_date": "2026-09-11T08:08:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
-      "published_date": "2026-09-11T00:24:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
-      "published_date": "2026-09-11T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-09-10T21:19:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strike hits shopping centre in central Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
-      "published_date": "2026-09-10T21:03:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Pakistan enter Yemen conflict under Mecca agreement?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-sv-pakistan-yemen-mecca-pk?traffic_source=rss",
-      "published_date": "2026-09-10T20:06:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amnesty accuses Russia of trafficking foreigners to fight in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss",
-      "published_date": "2026-09-10T19:02:30+00:00",
       "category": "Military"
     },
     {
@@ -372,13 +372,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
       "published_date": "2026-09-05T15:33:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
-      "published_date": "2026-09-05T09:11:58+00:00",
       "category": "Energy"
     },
     {
@@ -508,18 +501,53 @@
       "category": "Economy"
     },
     {
-      "title": "‘Stop the boats’ masked protesters block England’s Port of Dover",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss",
-      "published_date": "2026-09-05T13:09:24+00:00",
-      "category": "Economy"
+      "title": "Somali president opens 2026-27 higher education academic year",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-opens-2026-27-higher-education-academic-year/",
+      "published_date": "2026-09-12T13:12:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+      "title": "Puntland oo soo saartay amar la xiriira dagaalkii ka dhacay Badhan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/12/puntland-oo-soo-saartay-amar-la-xiriira-dagaalkii-ka-dhacay-badhan/",
+      "published_date": "2026-09-12T13:04:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia president endorses Ali Gudlawe for Hirshabelle leader",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-endorses-ali-gudlawe-next-hirshabelle-leader/",
+      "published_date": "2026-09-12T10:49:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo baadi-goobaysa ragii dilay Sheekh Axmed Yuusuf Haamay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/12/puntland-oo-baadi-goobaysa-ragii-dilay-sheekh-axmed-yuusuf-haamay/",
+      "published_date": "2026-09-12T10:20:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
-      "published_date": "2026-09-05T13:07:36+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
+      "published_date": "2026-09-12T08:42:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia disaster agency, UN discuss flood preparedness",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-disaster-agency-un-discuss-flood-preparedness/",
+      "published_date": "2026-09-12T08:39:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia holds national meeting on improving quality of healthcare",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-holds-national-meeting-on-improving-quality-of-healthcare/",
+      "published_date": "2026-09-12T08:38:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
@@ -610,55 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/9/11/fifa-want-fifa-subsidiaries-blocked-from-infantino-discovery-fight-in-us?traffic_source=rss",
       "published_date": "2026-09-11T07:57:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss",
-      "published_date": "2026-09-10T21:47:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court rejects Trump bid to implement new vote-by-mail rules",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/us-appeals-court-rejects-trump-bid-to-implement-new-vote-by-mail-rules?traffic_source=rss",
-      "published_date": "2026-09-10T20:10:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jimmy Kimmel moves Talarico Senate interview to YouTube amid clash with FCC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss",
-      "published_date": "2026-09-10T19:03:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament parliament speaker says foreign agenda behind Turkish flag burnings",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-speaker-foreign-agenda-turkish-flag-burnings/",
-      "published_date": "2026-09-10T18:15:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multicultural Malmo: Swedish city loathed by far right braces for election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss",
-      "published_date": "2026-09-10T13:29:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of thousands lack adequate shelter at Sudan’s Tawila camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss",
-      "published_date": "2026-09-10T12:47:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hong Kong court rules Dow Jones tried to stop journalist taking union role",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss",
-      "published_date": "2026-09-10T10:48:51+00:00",
       "category": "Local Events"
     }
   ]
