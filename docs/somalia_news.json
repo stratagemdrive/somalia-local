@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-11T14:56:22.681166+00:00",
+  "last_updated": "2026-09-12T00:52:33.542670+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+      "published_date": "2026-09-12T00:04:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN extends partial Sudan arms embargo for a month",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+      "published_date": "2026-09-11T23:08:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can BRICS help reshape global order by strengthening emerging economies?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
+      "published_date": "2026-09-11T20:04:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland Pitches Itself as Strategic Bulwark for Red Sea Security",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-pitches-itself-as-strategic-bulwark-for-red-sea-security/",
+      "published_date": "2026-09-11T18:48:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
+      "published_date": "2026-09-11T18:14:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates",
       "source": "Al Jazeera",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Burnham defends UK ban on Israeli settlement trade",
+      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss",
-      "published_date": "2026-09-09T20:32:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+      "published_date": "2026-09-12T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
+      "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
-      "published_date": "2026-09-09T20:23:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+      "published_date": "2026-09-11T21:30:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
+      "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
-      "published_date": "2026-09-09T20:05:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
+      "published_date": "2026-09-11T19:59:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "How has Israel hit back against sanctions by the UK, others?",
+      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
-      "published_date": "2026-09-09T12:17:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
+      "published_date": "2026-09-11T19:21:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, UN discuss UNTMIS transition",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-un-discuss-untmis-transition/",
-      "published_date": "2026-09-09T11:00:10+00:00",
-      "category": "Diplomacy"
+      "title": "US holds memorials for the 9/11 attacks, 25 years later",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
+      "published_date": "2026-09-11T18:00:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "U.S. Warns Al-Shabaab Threat Could Extend Beyond Somalia",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/us-warns-al-shabaab-threat-could-extend-beyond-somalia/",
+      "published_date": "2026-09-11T17:15:28+00:00",
+      "category": "Military"
     },
     {
       "title": "The dystopian legal architecture of the ‘war on terror’ must be dismantled",
@@ -239,48 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss",
       "published_date": "2026-09-10T19:02:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fire onboard ship at Chinese shipyard kills 25 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss",
-      "published_date": "2026-09-10T18:59:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Houthis are testing the limits of Saudi restraint",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss",
-      "published_date": "2026-09-10T11:17:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss",
-      "published_date": "2026-09-10T10:38:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Man Sent to Guantanamo Bay Detention Facility in Cuba",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-man-sent-to-guantanamo-bay-detention-facility-in-cuba/",
-      "published_date": "2026-09-10T08:52:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somaliland willing to send up to 2,000 troops to Gaza force, president says",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somaliland-willing-to-send-up-to-2000-troops-to-gaza-force-president-says/",
-      "published_date": "2026-09-10T06:51:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
-      "published_date": "2026-09-10T00:00:00+00:00",
       "category": "Military"
     },
     {
@@ -522,6 +522,48 @@
       "category": "Economy"
     },
     {
+      "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+      "published_date": "2026-09-11T22:57:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
+      "published_date": "2026-09-11T20:42:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Burcad-badeed madax-furasho u qaatay $2.7 milyan oo doolar",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/11/puntland-burcad-badeed-madax-furasho-u-qaatay-2-7-milyan-oo-doolar/",
+      "published_date": "2026-09-11T20:36:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly DRC school fire prompts calls for safety reforms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
+      "published_date": "2026-09-11T19:23:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
+      "published_date": "2026-09-11T18:33:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ciidan ka tirsan Booliska Puntland oo tababar loogu xiray Carmo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/11/ciidan-ka-tirsan-booliska-puntland-oo-tababar-loogu-xiray-carmo/",
+      "published_date": "2026-09-11T14:56:19+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘A historic day’: Spain moves closer to citizenship for Western Saharans",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss",
@@ -617,48 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss",
       "published_date": "2026-09-10T10:48:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone video shows aftermath of deadly ferry fire off the Philippines",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drone-video-shows-aftermath-of-deadly-ferry-fire-off-the-philippines?traffic_source=rss",
-      "published_date": "2026-09-10T10:28:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland ready to send up to 2,000 troops to Gaza if asked, president Irro says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-ready-send-2000-troops-gaza-president-irro/",
-      "published_date": "2026-09-10T10:13:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roma to support Nepal flood victims through Champions League match shirt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/10/roma-to-support-nepal-flood-victims-through-champions-league-match-shirt?traffic_source=rss",
-      "published_date": "2026-09-10T10:02:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni: Burcad-badeedda waxaan ula dagaalamaynaa sidii Daacish",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/10/deni-burcad-badeedda-waxaan-ula-dagaalamaynaa-sidii-daacish/",
-      "published_date": "2026-09-10T09:06:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cirro oo sheegay in Somaliland diyaar u tahay inay Gaza u dirto ilaa 2,000 askari",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/cirro-oo-sheegay-in-somaliland-diyaar-u-tahay-inay-gaza-u-dirto-ilaa-2000-askari/",
-      "published_date": "2026-09-10T06:53:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland President to Present Somaliland as Strategic Partner in Washington",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-to-present-somaliland-as-strategic-partner-in-washington/",
-      "published_date": "2026-09-09T22:23:59+00:00",
       "category": "Local Events"
     }
   ]
