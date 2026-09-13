@@ -1,7 +1,7 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-12T13:56:56.280807+00:00",
-  "story_count": 91,
+  "last_updated": "2026-09-13T00:36:03.910157+00:00",
+  "story_count": 89,
   "stories": [
     {
       "title": "Somali president meets Muslim World League chief to discuss cooperation",
@@ -144,6 +144,55 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+      "published_date": "2026-09-13T00:00:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somaliland President Pays Tribute at Pentagon 9/11 Memorial",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-pays-tribute-at-pentagon-9-11-memorial/",
+      "published_date": "2026-09-12T19:38:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
+      "published_date": "2026-09-12T19:17:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss",
+      "published_date": "2026-09-12T19:02:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
+      "published_date": "2026-09-12T18:36:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Selling the war: Purges, polygraphs and propaganda",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss",
+      "published_date": "2026-09-12T17:31:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man arrested over killing of Tasia Fortune, found hanging from tree",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss",
+      "published_date": "2026-09-12T17:15:45+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "U.S. Warns Al-Shabaab Threat Could Extend Beyond Somalia",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/us-warns-al-shabaab-threat-could-extend-beyond-somalia/",
-      "published_date": "2026-09-11T17:15:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The dystopian legal architecture of the ‘war on terror’ must be dismantled",
+      "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/11/the-dystopian-legal-architecture-of-the-war-on-terror-must-be-dismantled?traffic_source=rss",
-      "published_date": "2026-09-11T13:24:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar airport closed following reported drone attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss",
-      "published_date": "2026-09-11T12:22:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Swiss police report five killed in Dutch tour bus crash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss",
-      "published_date": "2026-09-11T11:18:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss",
-      "published_date": "2026-09-11T10:41:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia president inspects Gorgor command as Turkey-backed military training expands",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-president-inspects-gorgor-command-as-turkey-backed-military-training-expands/",
-      "published_date": "2026-09-11T10:34:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What did 25 years of the “war on terror” leave behind?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
-      "published_date": "2026-09-11T08:20:32+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
+      "published_date": "2026-09-12T23:25:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
@@ -351,27 +358,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
       "published_date": "2026-09-06T16:59:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fuel tanker blast in western Iran kills at least 10",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-      "published_date": "2026-09-05T23:07:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US says it hit three Iranian oil tankers after attacks on warships",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-      "published_date": "2026-09-05T15:49:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
-      "published_date": "2026-09-05T15:33:02+00:00",
       "category": "Energy"
     },
     {
@@ -501,6 +487,48 @@
       "category": "Economy"
     },
     {
+      "title": "Death toll from Philippine ferry fire rises to 76",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
+      "published_date": "2026-09-12T23:50:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands march across Germany to protest far-right party AfD",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
+      "published_date": "2026-09-12T22:37:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire at nursing home in Chile kills 16 elderly residents",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
+      "published_date": "2026-09-12T20:42:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US court blocks Trump administration plan to cut disaster agency workforce",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
+      "published_date": "2026-09-12T19:49:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hirshabelle Vice President Warns Hiiraan Elections Cannot Proceed Without a Political Agreement.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/hirshabelle-vice-president-warns-hiiraan-elections-cannot-proceed-without-a-political-agreement/",
+      "published_date": "2026-09-12T19:16:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yemen’s Tariq Saleh reportedly flees to Somaliland after Houthi takeover of Al Mukha",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/yemen-tariq-saleh-flees-somaliland-houthi-takeover-al-mukha/",
+      "published_date": "2026-09-12T17:21:26+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Somali president opens 2026-27 higher education academic year",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-president-opens-2026-27-higher-education-academic-year/",
@@ -596,48 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss",
       "published_date": "2026-09-11T12:09:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament speaker warns against disinformation targeting ties with Türkiye",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliament-speaker-warns-against-disinformation-targeting-ties-with-turkiye/",
-      "published_date": "2026-09-11T10:40:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia rights commission chief meets auditor general to strengthen oversight",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-rights-commission-chief-meets-auditor-general-to-strengthen-oversight/",
-      "published_date": "2026-09-11T10:35:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family members wait after deadly Philippines ferry fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss",
-      "published_date": "2026-09-11T10:29:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Dagaal ka dhacay degmada Badhan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/11/puntland-dagaal-ka-dhacay-degmada-badhan/",
-      "published_date": "2026-09-11T10:29:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
-      "published_date": "2026-09-11T08:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UEFA wants FIFA subsidiaries’ blocked from Infantino discovery fight in US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/11/fifa-want-fifa-subsidiaries-blocked-from-infantino-discovery-fight-in-us?traffic_source=rss",
-      "published_date": "2026-09-11T07:57:55+00:00",
       "category": "Local Events"
     }
   ]
