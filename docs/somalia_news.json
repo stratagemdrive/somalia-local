@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-13T00:36:03.910157+00:00",
-  "story_count": 89,
+  "last_updated": "2026-09-13T14:52:28.781498+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
+      "published_date": "2026-09-13T13:59:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Iran war reveals the limits of BRICS",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
+      "published_date": "2026-09-13T12:46:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eritrea accuses UAE of port-based colonialism in Africa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/eritrea-accuses-uae-of-port-based-colonialism-in-africa/",
+      "published_date": "2026-09-13T12:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BRICS summit 2026: What are the key takeaways?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
+      "published_date": "2026-09-13T12:04:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+      "published_date": "2026-09-13T04:40:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali president meets Muslim World League chief to discuss cooperation",
       "source": "Shabelle Media",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Peru joins US-led ‘Shield of the Americas’ security alliance",
+      "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss",
-      "published_date": "2026-09-10T21:31:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
+      "published_date": "2026-09-13T13:05:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Algeria cuts diplomatic ties with UAE: What we know",
+      "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know?traffic_source=rss",
-      "published_date": "2026-09-10T19:51:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
+      "published_date": "2026-09-13T11:45:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
+      "title": "Philippines set for historic vote in Bangsamoro after decades of conflict",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/protests-outside-israeli-embassy-in-bangkok-over-badly-behaved-tourists?traffic_source=rss",
-      "published_date": "2026-09-10T14:42:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
+      "published_date": "2026-09-13T11:35:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia government says door remains open to talks with opposition",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-government-says-door-remains-open-to-talks-with-opposition/",
-      "published_date": "2026-09-10T12:46:23+00:00",
-      "category": "Diplomacy"
+      "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
+      "published_date": "2026-09-13T10:47:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Algeria says cutting diplomatic ties with UAE",
+      "title": "Israeli attack on Gaza kills two Palestinians",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/algeria-says-cutting-diplomatic-ties-with-uae?traffic_source=rss",
-      "published_date": "2026-09-10T12:26:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+      "published_date": "2026-09-13T10:22:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger military government reshuffles army command weeks after deadly mutiny",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
+      "published_date": "2026-09-13T08:54:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
+      "published_date": "2026-09-13T08:13:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Russia attacks on cargo vessels, steel plants across Ukraine kill 3",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
-      "published_date": "2026-09-12T08:38:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AUSSOM troops complete IED awareness training in Jowhar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/aussom-troops-complete-ied-awareness-training-in-jowhar/",
-      "published_date": "2026-09-12T08:36:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
-      "published_date": "2026-09-12T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
-      "published_date": "2026-09-11T21:30:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
-      "published_date": "2026-09-11T19:59:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
-      "published_date": "2026-09-11T19:21:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US holds memorials for the 9/11 attacks, 25 years later",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
-      "published_date": "2026-09-11T18:00:41+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
@@ -359,6 +359,27 @@
       "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
       "published_date": "2026-09-06T16:59:04+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Renewed fighting worsens Yemen’s humanitarian crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss",
+      "published_date": "2026-09-13T13:26:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Wasiirka Beeraha iyo WFP oo ka wada hadlay qorshayaasha iskaashiga ee 2027",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirka-beeraha-iyo-wfp-oo-ka-wada-hadlay-qorshayaasha-iskaashiga-ee-2027/",
+      "published_date": "2026-09-13T10:10:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Human Rights Commission, UNDP Pledge to Strengthen Institutional Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-human-rights-commission-undp-pledge-to-strengthen-institutional-cooperation/",
+      "published_date": "2026-09-13T07:27:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
@@ -480,11 +501,46 @@
       "category": "Economy"
     },
     {
-      "title": "Israel opens trade office in Bosnia’s Republika Srpska",
+      "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israel-opens-trade-office-in-bosnias-republika-srpska?traffic_source=rss",
-      "published_date": "2026-09-07T14:57:47+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
+      "published_date": "2026-09-13T13:09:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boosaaso: Qiimaha maciishada oo kor u kacay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/13/boosaaso-qiimaha-maciishada-oo-kor-u-kacay/",
+      "published_date": "2026-09-13T08:52:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voting under way in Sweden election that could see far right in government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
+      "published_date": "2026-09-13T08:39:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Parliament Begins Review of African Mining Cooperation Charter",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-parliament-begins-review-of-african-mining-cooperation-charter/",
+      "published_date": "2026-09-13T07:31:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Parliament Begins Review of Mining Cooperation Agreement",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-parliament-begins-review-of-mining-cooperation-agreement/",
+      "published_date": "2026-09-13T07:29:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescuers search for about 130 missing people after Indonesia ferry capsizes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss",
+      "published_date": "2026-09-13T06:36:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Death toll from Philippine ferry fire rises to 76",
@@ -582,48 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
       "published_date": "2026-09-11T22:57:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
-      "published_date": "2026-09-11T20:42:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Burcad-badeed madax-furasho u qaatay $2.7 milyan oo doolar",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/11/puntland-burcad-badeed-madax-furasho-u-qaatay-2-7-milyan-oo-doolar/",
-      "published_date": "2026-09-11T20:36:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly DRC school fire prompts calls for safety reforms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
-      "published_date": "2026-09-11T19:23:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
-      "published_date": "2026-09-11T18:33:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidan ka tirsan Booliska Puntland oo tababar loogu xiray Carmo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/11/ciidan-ka-tirsan-booliska-puntland-oo-tababar-loogu-xiray-carmo/",
-      "published_date": "2026-09-11T14:56:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A historic day’: Spain moves closer to citizenship for Western Saharans",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss",
-      "published_date": "2026-09-11T12:09:50+00:00",
       "category": "Local Events"
     }
   ]
