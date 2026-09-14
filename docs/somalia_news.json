@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-13T14:52:28.781498+00:00",
-  "story_count": 91,
+  "last_updated": "2026-09-14T00:40:45.021621+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+      "published_date": "2026-09-13T20:33:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia: Mogadishu could fall without AU troops, says ex-minister",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-fall-risk-aynte-aussom-withdrawal/",
+      "published_date": "2026-09-13T16:11:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
       "source": "Al Jazeera",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Shirka Heerka Sare ee Dib-u-soo-nooleynta Webiyada Nairobi oo lagu qabtay magaalada Nairobi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/shirka-heerka-sare-ee-dib-u-soo-nooleynta-webiyada-nairobi-oo-lagu-qabtay-magaalada-nairobi/",
-      "published_date": "2026-09-11T05:41:59+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+      "published_date": "2026-09-14T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+      "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
-      "published_date": "2026-09-10T23:46:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
+      "published_date": "2026-09-13T20:46:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can a warming Arctic become an important commercial highway?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
+      "published_date": "2026-09-13T20:44:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guyana’s oil boom and challenges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss",
+      "published_date": "2026-09-13T19:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss",
+      "published_date": "2026-09-13T19:41:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
-      "published_date": "2026-09-12T11:32:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss",
-      "published_date": "2026-09-12T10:36:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fighting re-erupts in Yemen and civilians are paying the price",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
-      "published_date": "2026-09-12T09:30:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
-      "published_date": "2026-09-12T08:49:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
-      "published_date": "2026-09-12T08:47:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
@@ -354,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
-      "published_date": "2026-09-06T16:59:04+00:00",
-      "category": "Energy"
+      "title": "Somalis rethink trade routes as Houthis disrupt Red Sea shipping",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalis-rethink-trade-routes-as-houthis-disrupt-red-sea-shipping/",
+      "published_date": "2026-09-13T16:57:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "Renewed fighting worsens Yemen’s humanitarian crisis",
@@ -494,11 +494,53 @@
       "category": "Economy"
     },
     {
-      "title": "Board of Peace touts progress as Palestinians’ situation worsens",
+      "title": "A third person has died of measles in the US, health officials say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
-      "published_date": "2026-09-07T17:50:10+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
+      "published_date": "2026-09-13T21:21:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Palestine protest demands Australia increases pressure on Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss",
+      "published_date": "2026-09-13T21:02:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedes vote in election that could see far-right in government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
+      "published_date": "2026-09-13T19:58:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Centre-left opposition bloc leads in Swedish vote, poll shows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows?traffic_source=rss",
+      "published_date": "2026-09-13T19:25:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "​Bangsamoro’s parliamentary election is a turning point",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
+      "published_date": "2026-09-13T18:39:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tawfik Political Organization Excluded from Galmudug Repeat Election",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/tawfik-political-organization-excluded-from-galmudug-repeat-election/",
+      "published_date": "2026-09-13T17:54:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Human Rights Commission Raises Concern Over Arrests of Journalists and Poet",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-human-rights-commission-raises-concern-over-arrests-of-journalists-and-poet/",
+      "published_date": "2026-09-13T17:39:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
@@ -589,55 +631,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-president-opens-2026-27-higher-education-academic-year/",
       "published_date": "2026-09-12T13:12:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo soo saartay amar la xiriira dagaalkii ka dhacay Badhan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/12/puntland-oo-soo-saartay-amar-la-xiriira-dagaalkii-ka-dhacay-badhan/",
-      "published_date": "2026-09-12T13:04:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia president endorses Ali Gudlawe for Hirshabelle leader",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-endorses-ali-gudlawe-next-hirshabelle-leader/",
-      "published_date": "2026-09-12T10:49:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo baadi-goobaysa ragii dilay Sheekh Axmed Yuusuf Haamay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/12/puntland-oo-baadi-goobaysa-ragii-dilay-sheekh-axmed-yuusuf-haamay/",
-      "published_date": "2026-09-12T10:20:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
-      "published_date": "2026-09-12T08:42:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia disaster agency, UN discuss flood preparedness",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-disaster-agency-un-discuss-flood-preparedness/",
-      "published_date": "2026-09-12T08:39:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia holds national meeting on improving quality of healthcare",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-holds-national-meeting-on-improving-quality-of-healthcare/",
-      "published_date": "2026-09-12T08:38:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
-      "published_date": "2026-09-11T22:57:51+00:00",
       "category": "Local Events"
     }
   ]
