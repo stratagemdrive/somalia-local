@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-14T00:40:45.021621+00:00",
-  "story_count": 90,
+  "last_updated": "2026-09-14T16:54:15.277336+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
+      "published_date": "2026-09-14T11:50:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia PM bids farewell to outgoing Turkish ambassador",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-bids-farewell-to-outgoing-turkish-ambassador/",
+      "published_date": "2026-09-14T07:15:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OIC Reaffirms Support for Somalia’s Sovereignty and Territorial Integrity",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/oic-reaffirms-support-for-somalias-sovereignty-and-territorial-integrity/",
+      "published_date": "2026-09-14T07:12:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
       "source": "Al Jazeera",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia foreign minister attends farewell for US acting ambassador",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-foreign-minister-attends-farewell-for-us-acting-ambassador/",
-      "published_date": "2026-09-11T10:38:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fano claims capture of more than 150 Ethiopian soldiers in Amhara clashes",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/fano-claims-capture-of-more-than-150-ethiopian-soldiers-in-amhara-clashes/",
-      "published_date": "2026-09-11T10:36:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
+      "title": "Why Middle East tensions are pushing oil prices above $100",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
-      "published_date": "2026-09-11T09:11:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
+      "published_date": "2026-09-14T16:36:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man dies after French police officer throws him on the ground",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/man-dies-after-french-police-officer-throws-him-on-the-ground?traffic_source=rss",
+      "published_date": "2026-09-14T16:21:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/14/fiscal-pressure-from-iran-war-clouds-gulf-states-us-spending-plans?traffic_source=rss",
+      "published_date": "2026-09-14T14:34:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/silent-cold-war-why-calls-to-slow-ai-have-sparked-new-us-china?traffic_source=rss",
+      "published_date": "2026-09-14T14:23:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries?traffic_source=rss",
+      "published_date": "2026-09-14T14:04:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army land forces chief inspects frontline positions in Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-land-forces-chief-inspects-frontline-positions-in-baidoa/",
+      "published_date": "2026-09-14T11:42:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
@@ -242,46 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+      "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
-      "published_date": "2026-09-12T19:17:37+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
+      "published_date": "2026-09-14T13:15:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
+      "title": "Why the Houthi advance towards Yemen’s Marib, Taiz matters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss",
-      "published_date": "2026-09-12T19:02:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss",
+      "published_date": "2026-09-14T12:09:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
+      "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
-      "published_date": "2026-09-12T18:36:17+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100?traffic_source=rss",
+      "published_date": "2026-09-14T11:06:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Selling the war: Purges, polygraphs and propaganda",
+      "title": "Ammonia gas leak in Jordan’s Aqaba industrial area injures 11 people",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss",
-      "published_date": "2026-09-12T17:31:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man arrested over killing of Tasia Fortune, found hanging from tree",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss",
-      "published_date": "2026-09-12T17:15:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
-      "published_date": "2026-09-12T12:10:13+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/14/ammonia-gas-leak-in-jordans-aqaba-industrial-area-injures-11-people?traffic_source=rss",
+      "published_date": "2026-09-14T10:46:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
@@ -337,20 +365,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
       "published_date": "2026-09-07T21:17:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why do the Falkland Islands matter to the UK and Argentina so much?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/why-do-the-falkland-islands-matter-to-the-uk-and-argentina-so-much?traffic_source=rss",
-      "published_date": "2026-09-07T14:58:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
-      "published_date": "2026-09-07T11:26:27+00:00",
       "category": "Energy"
     },
     {
@@ -494,6 +508,62 @@
       "category": "Economy"
     },
     {
+      "title": "Southwest Somalia conflict risks spiraling into inter-clan war, ACLED warns",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/southwest-somalia-conflict-risks-spiraling-inter-clan-war-acled-warns/",
+      "published_date": "2026-09-14T16:46:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Going to school under Israeli occupation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/going-to-school-under-israeli-occupation?traffic_source=rss",
+      "published_date": "2026-09-14T15:15:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How can the Islamic world challenge Western narratives about it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/centre-stage/2026/9/14/how-can-the-islamic-world-challenge-western-narratives-about-it?traffic_source=rss",
+      "published_date": "2026-09-14T14:10:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo xirtay saraakiil ciidan oo ka dhoofi lahaa garoonka Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/14/puntland-oo-xirtay-saraakiil-ciidan-oo-ka-dhoofi-lahaa-garoonka-boosaaso/",
+      "published_date": "2026-09-14T13:12:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xaawo Aadan Camey oo ka mid ahayd haldoorka Puntland oo geeriyootay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/14/xaawo-aadan-camey-oo-ka-mid-ahayd-haldoorka-puntland-oo-geeriyootay/",
+      "published_date": "2026-09-14T11:39:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sheekh Khaakir oo laga reebay doorashada ku celiska ah ee Galmudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/14/sheekh-khaakir-oo-laga-reebay-doorashada-ku-celiska-ah-ee-galmudug/",
+      "published_date": "2026-09-14T10:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muslim World League chief meets Somali scholars to discuss extremism",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/muslim-world-league-chief-meets-somali-scholars-to-discuss-extremism/",
+      "published_date": "2026-09-14T07:17:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Has Moved Beyond Clan-Based Power Sharing, Hassan Sheikh Says",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-has-moved-beyond-clan-based-power-sharing-hassan-sheikh-says/",
+      "published_date": "2026-09-14T07:14:41+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "A third person has died of measles in the US, health officials say",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
@@ -575,62 +645,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-parliament-begins-review-of-mining-cooperation-agreement/",
       "published_date": "2026-09-13T07:29:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescuers search for about 130 missing people after Indonesia ferry capsizes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss",
-      "published_date": "2026-09-13T06:36:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death toll from Philippine ferry fire rises to 76",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
-      "published_date": "2026-09-12T23:50:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands march across Germany to protest far-right party AfD",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
-      "published_date": "2026-09-12T22:37:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire at nursing home in Chile kills 16 elderly residents",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
-      "published_date": "2026-09-12T20:42:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US court blocks Trump administration plan to cut disaster agency workforce",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
-      "published_date": "2026-09-12T19:49:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hirshabelle Vice President Warns Hiiraan Elections Cannot Proceed Without a Political Agreement.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/hirshabelle-vice-president-warns-hiiraan-elections-cannot-proceed-without-a-political-agreement/",
-      "published_date": "2026-09-12T19:16:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemen’s Tariq Saleh reportedly flees to Somaliland after Houthi takeover of Al Mukha",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/yemen-tariq-saleh-flees-somaliland-houthi-takeover-al-mukha/",
-      "published_date": "2026-09-12T17:21:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali president opens 2026-27 higher education academic year",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-opens-2026-27-higher-education-academic-year/",
-      "published_date": "2026-09-12T13:12:58+00:00",
       "category": "Local Events"
     }
   ]
