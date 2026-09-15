@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-15T01:08:38.068690+00:00",
-  "story_count": 92,
+  "last_updated": "2026-09-15T15:29:54.830320+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss",
+      "published_date": "2026-09-15T14:49:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss",
+      "published_date": "2026-09-15T13:40:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
+      "published_date": "2026-09-15T12:43:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN experts say Belarus justice system used to target Lukashenko opponents",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/un-experts-say-belarus-justice-system-used-to-target-lukashenko-opponents?traffic_source=rss",
+      "published_date": "2026-09-15T10:21:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump nominates Kennington as US ambassador to Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/trump-nominates-devin-kennington-us-ambassador-somalia/",
+      "published_date": "2026-09-15T10:00:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Minister Mukhtar Robow Delivers Hassan Sheikh’s Message to Mauritanian President",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-minister-mukhtar-robow-delivers-hassan-sheikhs-message-to-mauritanian-president/",
+      "published_date": "2026-09-15T08:50:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Djibouti Faces Fresh Pressure as 1,400 Yemenis Arrive Amid Escalating Conflict",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/djibouti-faces-fresh-pressure-as-1400-yemenis-arrive-amid-escalating-conflict/",
+      "published_date": "2026-09-15T08:46:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump Appoints New US Ambassador to Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/trump-appoints-new-us-ambassador-to-somalia/",
+      "published_date": "2026-09-15T08:43:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Austria denies entry to Iranian official after UN ruling",
       "source": "Al Jazeera",
@@ -88,60 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali president meets Muslim World League chief to discuss cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-meets-muslim-world-league-chief-to-discuss-cooperation/",
-      "published_date": "2026-09-12T13:14:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
+      "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
-      "published_date": "2026-09-12T12:19:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
+      "published_date": "2026-09-15T14:33:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "BRICS nations urge ‘restraint’ in Middle East, smooth flow of global trade",
+      "title": "What are ‘space weapons’, which US says it has deployed into orbit?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
-      "published_date": "2026-09-12T07:40:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss",
+      "published_date": "2026-09-15T13:57:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+      "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
-      "published_date": "2026-09-12T00:04:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN extends partial Sudan arms embargo for a month",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
-      "published_date": "2026-09-11T23:08:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Can BRICS help reshape global order by strengthening emerging economies?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
-      "published_date": "2026-09-11T20:04:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somaliland Pitches Itself as Strategic Bulwark for Red Sea Security",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-pitches-itself-as-strategic-bulwark-for-red-sea-security/",
-      "published_date": "2026-09-11T18:48:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
-      "published_date": "2026-09-11T18:14:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure?traffic_source=rss",
+      "published_date": "2026-09-15T11:54:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia resupplies military bases in Syria for first time under new deal",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+      "title": "El Nino reaches super status: Where will it bring rain, drought and heat?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
-      "published_date": "2026-09-13T13:05:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss",
+      "published_date": "2026-09-15T13:10:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+      "title": "US repeals pollution limits for fossil fuel power plants",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
-      "published_date": "2026-09-13T11:45:24+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/us-repeals-pollution-limits-for-fossil-fuel-power-plants?traffic_source=rss",
+      "published_date": "2026-09-15T11:53:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Philippines set for historic vote in Bangsamoro after decades of conflict",
+      "title": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
-      "published_date": "2026-09-13T11:35:04+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge?traffic_source=rss",
+      "published_date": "2026-09-15T11:36:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "US repeals rules limiting greenhouse gas emissions by power plants",
@@ -344,27 +365,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss",
       "published_date": "2026-09-09T14:42:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
-      "published_date": "2026-09-08T11:40:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Limit overshoot, peak, decline’: A new global goal for climate change?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss",
-      "published_date": "2026-09-08T10:58:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "As fuel prices rise again, Iran’s government urges citizens to cut back",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
-      "published_date": "2026-09-08T08:15:29+00:00",
       "category": "Energy"
     },
     {
@@ -494,18 +494,74 @@
       "category": "Economy"
     },
     {
-      "title": "Sudan’s healthcare system on brink of collapse, MSF warns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss",
-      "published_date": "2026-09-08T12:12:16+00:00",
-      "category": "Economy"
+      "title": "Puntland oo baaq u dirtay dadka degan dhulka iyo dhismayaasha dowladda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/15/puntland-oo-baaq-u-dirtay-dadka-degan-dhulka-iyo-dhismayaasha-dowladda/",
+      "published_date": "2026-09-15T15:12:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Former Philippines lawmaker arrested for pocketing millions in flood aid",
+      "title": "Can the Houthis hold on to Yemen’s strategic western coast?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/former-philippines-lawmaker-arrested-for-pocketing-millions-in-flood-aid?traffic_source=rss",
-      "published_date": "2026-09-08T11:58:32+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
+      "published_date": "2026-09-15T14:28:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coalition talks likely as no party dominates Philippines’ Bangsamoro region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/coalition-talks-likely-as-no-party-dominates-philippines-bangsamoro-region?traffic_source=rss",
+      "published_date": "2026-09-15T13:07:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss",
+      "published_date": "2026-09-15T11:17:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is pro-Palestinian activist Mahmoud Khalil suing Columbia University?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/why-is-pro-palestinian-activist-mahmoud-khalil-suing-columbia-university?traffic_source=rss",
+      "published_date": "2026-09-15T11:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court rejects Trump’s plans on postal ballots: Why it matters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss",
+      "published_date": "2026-09-15T09:15:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West Leader Madobe Meets Hariin Clan Elders and Politicians in Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-leader-madobe-meets-hariin-clan-elders-and-politicians-in-baidoa/",
+      "published_date": "2026-09-15T08:49:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mitch McConnell returns to US Senate after three-month absence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss",
+      "published_date": "2026-09-15T08:41:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What to watch in the US’s Delaware primary elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss",
+      "published_date": "2026-09-15T07:52:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cirro oo ka hadlay wada shaqaynta Somaliland iyo Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/15/cirro-oo-ka-hadlay-wada-shaqaynta-somaliland-iyo-puntland/",
+      "published_date": "2026-09-15T06:33:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sweden election is too close to call as far right loses ground",
@@ -575,76 +631,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/09/14/xaawo-aadan-camey-oo-ka-mid-ahayd-haldoorka-puntland-oo-geeriyootay/",
       "published_date": "2026-09-14T11:39:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sheekh Khaakir oo laga reebay doorashada ku celiska ah ee Galmudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/14/sheekh-khaakir-oo-laga-reebay-doorashada-ku-celiska-ah-ee-galmudug/",
-      "published_date": "2026-09-14T10:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muslim World League chief meets Somali scholars to discuss extremism",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/muslim-world-league-chief-meets-somali-scholars-to-discuss-extremism/",
-      "published_date": "2026-09-14T07:17:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Has Moved Beyond Clan-Based Power Sharing, Hassan Sheikh Says",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-has-moved-beyond-clan-based-power-sharing-hassan-sheikh-says/",
-      "published_date": "2026-09-14T07:14:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A third person has died of measles in the US, health officials say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
-      "published_date": "2026-09-13T21:21:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestine protest demands Australia increases pressure on Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss",
-      "published_date": "2026-09-13T21:02:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swedes vote in election that could see far-right in government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
-      "published_date": "2026-09-13T19:58:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Centre-left opposition bloc leads in Swedish vote, poll shows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows?traffic_source=rss",
-      "published_date": "2026-09-13T19:25:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "​Bangsamoro’s parliamentary election is a turning point",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
-      "published_date": "2026-09-13T18:39:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tawfik Political Organization Excluded from Galmudug Repeat Election",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/tawfik-political-organization-excluded-from-galmudug-repeat-election/",
-      "published_date": "2026-09-13T17:54:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Human Rights Commission Raises Concern Over Arrests of Journalists and Poet",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-human-rights-commission-raises-concern-over-arrests-of-journalists-and-poet/",
-      "published_date": "2026-09-13T17:39:22+00:00",
       "category": "Local Events"
     }
   ]
