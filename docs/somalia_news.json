@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-14T16:54:15.277336+00:00",
+  "last_updated": "2026-09-15T01:08:38.068690+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "Austria denies entry to Iranian official after UN ruling",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/austria-denies-entry-to-iranian-official-after-un-ruling?traffic_source=rss",
+      "published_date": "2026-09-14T20:41:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
+      "published_date": "2026-09-14T18:46:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
       "source": "Al Jazeera",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates",
+      "title": "Russia resupplies military bases in Syria for first time under new deal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss",
-      "published_date": "2026-09-11T14:07:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+      "published_date": "2026-09-15T00:43:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
+      "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss",
-      "published_date": "2026-09-11T12:30:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
+      "published_date": "2026-09-15T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attack targets Gaza displacement camp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+      "published_date": "2026-09-14T21:37:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
+      "published_date": "2026-09-14T21:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss",
+      "published_date": "2026-09-14T21:12:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss",
+      "published_date": "2026-09-14T20:20:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Why Middle East tensions are pushing oil prices above $100",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+      "title": "US repeals rules limiting greenhouse gas emissions by power plants",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-      "published_date": "2026-09-13T10:47:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack on Gaza kills two Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-      "published_date": "2026-09-13T10:22:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niger military government reshuffles army command weeks after deadly mutiny",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
-      "published_date": "2026-09-13T08:54:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-      "published_date": "2026-09-13T08:13:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-      "published_date": "2026-09-13T00:00:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somaliland President Pays Tribute at Pentagon 9/11 Memorial",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-pays-tribute-at-pentagon-9-11-memorial/",
-      "published_date": "2026-09-12T19:38:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
+      "published_date": "2026-09-14T21:36:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
@@ -361,11 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+      "title": "Inside the Houthis’ expanding war economy in Yemen",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-07T21:17:12+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen?traffic_source=rss",
+      "published_date": "2026-09-14T20:41:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sudan aid networks at risk of collapse, UN agencies warn",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss",
+      "published_date": "2026-09-14T19:51:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalis rethink trade routes as Houthis disrupt Red Sea shipping",
@@ -494,18 +508,39 @@
       "category": "Economy"
     },
     {
-      "title": "UK to announce trade ban on goods from illegal Israeli settlements",
+      "title": "Sweden election is too close to call as far right loses ground",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/uk-to-announce-trade-ban-on-goods-from-illegal-israeli-settlements?traffic_source=rss",
-      "published_date": "2026-09-08T09:31:28+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
+      "published_date": "2026-09-15T00:06:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia, UNHCR discuss stronger cooperation on national development priorities",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-unhcr-discuss-stronger-cooperation-on-national-development-priorities/",
-      "published_date": "2026-09-08T07:58:00+00:00",
-      "category": "Economy"
+      "title": "Landowners in Texas ask court to stop Trump border wall",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
+      "published_date": "2026-09-14T21:44:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
+      "published_date": "2026-09-14T21:23:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US blocks Iran nuclear chief from attending key Vienna conference",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
+      "published_date": "2026-09-14T21:19:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funerals for children killed after fire spreads to school in DR Congo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/funerals-for-children-killed-after-fire-spreads-to-school-in-dr-congo?traffic_source=rss",
+      "published_date": "2026-09-14T19:50:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Southwest Somalia conflict risks spiraling into inter-clan war, ACLED warns",
@@ -610,41 +645,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somaliland-human-rights-commission-raises-concern-over-arrests-of-journalists-and-poet/",
       "published_date": "2026-09-13T17:39:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
-      "published_date": "2026-09-13T13:09:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boosaaso: Qiimaha maciishada oo kor u kacay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/13/boosaaso-qiimaha-maciishada-oo-kor-u-kacay/",
-      "published_date": "2026-09-13T08:52:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voting under way in Sweden election that could see far right in government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
-      "published_date": "2026-09-13T08:39:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Parliament Begins Review of African Mining Cooperation Charter",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliament-begins-review-of-african-mining-cooperation-charter/",
-      "published_date": "2026-09-13T07:31:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Parliament Begins Review of Mining Cooperation Agreement",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliament-begins-review-of-mining-cooperation-agreement/",
-      "published_date": "2026-09-13T07:29:20+00:00",
       "category": "Local Events"
     }
   ]
