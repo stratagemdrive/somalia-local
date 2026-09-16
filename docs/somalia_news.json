@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-15T15:29:54.830320+00:00",
-  "story_count": 90,
+  "last_updated": "2026-09-16T01:02:26.387944+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
+      "published_date": "2026-09-16T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
+      "published_date": "2026-09-15T19:26:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
+      "published_date": "2026-09-15T17:39:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
+      "published_date": "2026-09-15T16:50:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
       "source": "Al Jazeera",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Iran war reveals the limits of BRICS",
+      "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
-      "published_date": "2026-09-13T12:46:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
+      "published_date": "2026-09-15T22:38:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Eritrea accuses UAE of port-based colonialism in Africa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/eritrea-accuses-uae-of-port-based-colonialism-in-africa/",
-      "published_date": "2026-09-13T12:46:00+00:00",
-      "category": "Diplomacy"
+      "title": "Romanian shepards and farmers clash with police",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
+      "published_date": "2026-09-15T20:40:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "BRICS summit 2026: What are the key takeaways?",
+      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
-      "published_date": "2026-09-13T12:04:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+      "published_date": "2026-09-15T19:59:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+      "title": "Police crack down on protests against constitutional change in DR Congo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
-      "published_date": "2026-09-13T04:40:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss",
+      "published_date": "2026-09-15T17:58:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
+      "title": "Argentina intensifies campaign against Falklands oil companies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
-      "published_date": "2026-09-13T20:46:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can a warming Arctic become an important commercial highway?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
-      "published_date": "2026-09-13T20:44:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guyana’s oil boom and challenges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss",
-      "published_date": "2026-09-13T19:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss",
-      "published_date": "2026-09-13T19:41:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
+      "published_date": "2026-09-15T23:03:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "El Nino reaches super status: Where will it bring rain, drought and heat?",
@@ -366,6 +373,13 @@
       "url": "https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss",
       "published_date": "2026-09-09T14:42:44+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
+      "published_date": "2026-09-15T18:05:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Inside the Houthis’ expanding war economy in Yemen",
@@ -487,11 +501,32 @@
       "category": "Economy"
     },
     {
-      "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
+      "title": "US Senate crypto bill collapses in blow to industry",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss",
-      "published_date": "2026-09-09T00:14:22+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
+      "published_date": "2026-09-15T21:31:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds protest in DR Congo against third presidential term",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss",
+      "published_date": "2026-09-15T21:20:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What makes these midterms so pivotal?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
+      "published_date": "2026-09-15T20:19:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
+      "published_date": "2026-09-15T20:13:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland oo baaq u dirtay dadka degan dhulka iyo dhismayaasha dowladda",
@@ -603,34 +638,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/southwest-somalia-conflict-risks-spiraling-inter-clan-war-acled-warns/",
       "published_date": "2026-09-14T16:46:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Going to school under Israeli occupation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/going-to-school-under-israeli-occupation?traffic_source=rss",
-      "published_date": "2026-09-14T15:15:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How can the Islamic world challenge Western narratives about it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/centre-stage/2026/9/14/how-can-the-islamic-world-challenge-western-narratives-about-it?traffic_source=rss",
-      "published_date": "2026-09-14T14:10:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo xirtay saraakiil ciidan oo ka dhoofi lahaa garoonka Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/14/puntland-oo-xirtay-saraakiil-ciidan-oo-ka-dhoofi-lahaa-garoonka-boosaaso/",
-      "published_date": "2026-09-14T13:12:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xaawo Aadan Camey oo ka mid ahayd haldoorka Puntland oo geeriyootay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/14/xaawo-aadan-camey-oo-ka-mid-ahayd-haldoorka-puntland-oo-geeriyootay/",
-      "published_date": "2026-09-14T11:39:15+00:00",
       "category": "Local Events"
     }
   ]
