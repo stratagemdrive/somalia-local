@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-16T01:02:26.387944+00:00",
-  "story_count": 91,
+  "last_updated": "2026-09-16T15:22:28.790410+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Djibouti on alert as people flee Yemen after Houthi takeover of Mayyun",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss",
+      "published_date": "2026-09-16T13:23:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU chief von der Leyen proposes ‘associate member’ status for Canada",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss",
+      "published_date": "2026-09-16T13:18:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey deports 50 Somalis amid anti-Turkey protests",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-deportation-protests-jubaland-puntland-southwest/",
+      "published_date": "2026-09-16T10:18:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia FM Joins IGAD Ministers to Inspect New Headquarters Under Construction in Djibouti",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-fm-joins-igad-ministers-to-inspect-new-headquarters-under-construction-in-djibouti/",
+      "published_date": "2026-09-16T06:38:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wasiirrada Arrimaha Dibadda ee IGAD oo kormeeray xarunta cusub ee ururka ee Jabuuti",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirrada-arrimaha-dibadda-ee-igad-oo-kormeeray-xarunta-cusub-ee-ururka-ee-jabuuti/",
+      "published_date": "2026-09-16T05:41:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
       "source": "Al Jazeera",
@@ -109,39 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia PM bids farewell to outgoing Turkish ambassador",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pm-bids-farewell-to-outgoing-turkish-ambassador/",
-      "published_date": "2026-09-14T07:15:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OIC Reaffirms Support for Somalia’s Sovereignty and Territorial Integrity",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/oic-reaffirms-support-for-somalias-sovereignty-and-territorial-integrity/",
-      "published_date": "2026-09-14T07:12:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+      "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
-      "published_date": "2026-09-13T20:33:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
+      "published_date": "2026-09-16T15:00:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia: Mogadishu could fall without AU troops, says ex-minister",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-fall-risk-aynte-aussom-withdrawal/",
-      "published_date": "2026-09-13T16:11:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+      "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
-      "published_date": "2026-09-13T13:59:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics?traffic_source=rss",
+      "published_date": "2026-09-16T14:53:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
+      "published_date": "2026-09-16T14:31:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/norway-oil-fund-ethical-concerns?traffic_source=rss",
+      "published_date": "2026-09-16T13:29:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gold mine collapse kills at least 70 people in Sudan’s West Kordofan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss",
+      "published_date": "2026-09-16T13:15:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss",
+      "published_date": "2026-09-16T13:09:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Duterte in person at ICC for first time over ‘war on drugs’ killings",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/duterte-in-person-at-icc-for-first-time-over-war-on-drugs-killings?traffic_source=rss",
+      "published_date": "2026-09-16T13:01:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 20 killed as multi-storey building collapses in Gaza City",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss",
+      "published_date": "2026-09-16T12:32:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taiz camps overflow with Yemenis fleeing fighting after Houthi offensive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/16/taiz-camps-overflow-with-yemenis-fleeing-fighting-after-houthi-offensive?traffic_source=rss",
+      "published_date": "2026-09-16T12:10:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US set to approve 60,000 heavy bombs for Israel: What that means",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/16/us-set-to-approve-60000-heavy-bombs-for-israel-what-that-means?traffic_source=rss",
+      "published_date": "2026-09-16T12:09:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NISA oo sheegtay inay Muqdisho iyo nawaaxigeeda ku burburisay shabakado Al-Shabaab ah",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nisa-oo-sheegtay-inay-muqdisho-iyo-nawaaxigeeda-ku-burburisay-shabakado-al-shabaab-ah/",
+      "published_date": "2026-09-16T05:44:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
@@ -204,83 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
       "published_date": "2026-09-15T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack targets Gaza displacement camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
-      "published_date": "2026-09-14T21:37:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
-      "published_date": "2026-09-14T21:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss",
-      "published_date": "2026-09-14T21:12:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss",
-      "published_date": "2026-09-14T20:20:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Middle East tensions are pushing oil prices above $100",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
-      "published_date": "2026-09-14T16:36:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man dies after French police officer throws him on the ground",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/man-dies-after-french-police-officer-throws-him-on-the-ground?traffic_source=rss",
-      "published_date": "2026-09-14T16:21:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/14/fiscal-pressure-from-iran-war-clouds-gulf-states-us-spending-plans?traffic_source=rss",
-      "published_date": "2026-09-14T14:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/silent-cold-war-why-calls-to-slow-ai-have-sparked-new-us-china?traffic_source=rss",
-      "published_date": "2026-09-14T14:23:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries?traffic_source=rss",
-      "published_date": "2026-09-14T14:04:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army land forces chief inspects frontline positions in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-land-forces-chief-inspects-frontline-positions-in-baidoa/",
-      "published_date": "2026-09-14T11:42:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
-      "published_date": "2026-09-14T00:00:00+00:00",
       "category": "Military"
     },
     {
@@ -368,11 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power",
+      "title": "FIFA to present review of Infantino’s shelved investment plan to Council",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss",
-      "published_date": "2026-09-09T14:42:44+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/sports/2026/9/16/fifa-to-present-review-of-infantinos-shelved-investment-plan-to-council?traffic_source=rss",
+      "published_date": "2026-09-16T13:05:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "International Delegation Inspects Development Projects in Kismayo, Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/international-delegation-inspects-development-projects-in-kismayo-somalia/",
+      "published_date": "2026-09-16T06:41:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
@@ -473,32 +480,46 @@
       "category": "Economy"
     },
     {
-      "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+      "title": "Mbappe, Vinicius and Konate court controversy with Ceuta solidarity shirts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
-      "published_date": "2026-09-09T12:26:25+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/9/16/mbappe-vinicius-and-konate-court-controversy-with-ceuta-solidarity-shirts?traffic_source=rss",
+      "published_date": "2026-09-16T14:42:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia condemns Houthi attacks on Saudi Arabia",
+      "title": "Why are election officials in the US preparing for chaos before midterms?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss",
+      "published_date": "2026-09-16T13:56:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Renews $5 Million Reward for Information on Khadra Essa",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-houthi-attacks-on-saudi-arabia/",
-      "published_date": "2026-09-09T11:48:24+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/us-renews-5-million-reward-for-information-on-somali-born-isis-leader-khadra-essa/",
+      "published_date": "2026-09-16T12:35:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Troubled league LIV Golf files for bankruptcy protection in US",
+      "title": "In Sweden, many breathe sigh of relief as far right suffers election losses",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/9/troubled-league-liv-golf-files-for-bankruptcy-protection-in-us?traffic_source=rss",
-      "published_date": "2026-09-09T11:41:26+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/9/16/in-sweden-many-breathe-sigh-of-relief-as-far-right-suffers-election-losses?traffic_source=rss",
+      "published_date": "2026-09-16T12:22:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss",
-      "published_date": "2026-09-09T10:47:47+00:00",
-      "category": "Economy"
+      "title": "Shiinaha oo u goodiyay Somaliland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/16/shiinaha-oo-u-goodiyay-somaliland/",
+      "published_date": "2026-09-16T11:01:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uganda, Somalia Forces Move To Strengthen Cooperation In Lower Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uganda-somalia-forces-move-to-strengthen-cooperation-in-lower-shabelle/",
+      "published_date": "2026-09-16T06:36:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US Senate crypto bill collapses in blow to industry",
@@ -596,48 +617,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/09/15/cirro-oo-ka-hadlay-wada-shaqaynta-somaliland-iyo-puntland/",
       "published_date": "2026-09-15T06:33:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden election is too close to call as far right loses ground",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
-      "published_date": "2026-09-15T00:06:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landowners in Texas ask court to stop Trump border wall",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
-      "published_date": "2026-09-14T21:44:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
-      "published_date": "2026-09-14T21:23:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US blocks Iran nuclear chief from attending key Vienna conference",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
-      "published_date": "2026-09-14T21:19:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funerals for children killed after fire spreads to school in DR Congo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/funerals-for-children-killed-after-fire-spreads-to-school-in-dr-congo?traffic_source=rss",
-      "published_date": "2026-09-14T19:50:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southwest Somalia conflict risks spiraling into inter-clan war, ACLED warns",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/southwest-somalia-conflict-risks-spiraling-inter-clan-war-acled-warns/",
-      "published_date": "2026-09-14T16:46:17+00:00",
       "category": "Local Events"
     }
   ]
