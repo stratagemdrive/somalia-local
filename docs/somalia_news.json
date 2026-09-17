@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-17T01:03:51.828828+00:00",
-  "story_count": 88,
+  "last_updated": "2026-09-17T15:29:05.674918+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss",
+      "published_date": "2026-09-17T15:10:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are all the sanctions Iran is under?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under?traffic_source=rss",
+      "published_date": "2026-09-17T15:01:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sweden prime minister to resign as left-wing bloc seals narrow election win",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss",
+      "published_date": "2026-09-17T13:11:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada’s Carney welcomes EU’s associated membership proposal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss",
+      "published_date": "2026-09-17T12:31:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
+      "published_date": "2026-09-17T10:32:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK charities, protest groups condemn Israeli ban threat after sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss",
+      "published_date": "2026-09-17T10:19:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Prime Minister Attends Launch of 2025 Economic Report",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-prime-minister-attends-launch-of-2025-economic-report/",
+      "published_date": "2026-09-17T08:49:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, AU anti-terrorism centre conclude talks in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-au-anti-terrorism-centre-conclude-talks-in-mogadishu/",
+      "published_date": "2026-09-17T08:44:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
       "source": "Al Jazeera",
@@ -88,60 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
-      "published_date": "2026-09-15T19:26:55+00:00",
-      "category": "Diplomacy"
+      "title": "Puntland oo ka hadashay duqeyntii Calmadow",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/17/puntland-oo-ka-hadashay-duqeyntii-calmadow/",
+      "published_date": "2026-09-17T13:59:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
+      "title": "India-Pakistan navy ship collision sparks alarm over unintended escalation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
-      "published_date": "2026-09-15T17:39:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss",
+      "published_date": "2026-09-17T13:25:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
+      "title": "Gaza repairman helps journalists to keep documenting genocide",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
-      "published_date": "2026-09-15T16:50:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
+      "published_date": "2026-09-17T11:01:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss",
-      "published_date": "2026-09-15T14:49:42+00:00",
-      "category": "Diplomacy"
+      "title": "Ciidanka Kumaandooska Danab oo howlgal ka fuliyey deegaanka Leego",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-kumaandooska-danab-oo-howlgal-ka-fuliyey-deegaanka-leego/",
+      "published_date": "2026-09-17T09:54:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss",
-      "published_date": "2026-09-15T13:40:32+00:00",
-      "category": "Diplomacy"
+      "title": "Puntland iyo Mareykanka oo xaqiijiyay hawlgal ka dhan ah Al-Shabaab oo ka dhacay Al-Madow",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-iyo-mareykanka-oo-xaqiijiyay-hawlgal-ka-dhan-ah-al-shabaab-oo-ka-dhacay-al-madow/",
+      "published_date": "2026-09-17T09:49:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
-      "published_date": "2026-09-15T12:43:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN experts say Belarus justice system used to target Lukashenko opponents",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/un-experts-say-belarus-justice-system-used-to-target-lukashenko-opponents?traffic_source=rss",
-      "published_date": "2026-09-15T10:21:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump nominates Kennington as US ambassador to Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/trump-nominates-devin-kennington-us-ambassador-somalia/",
-      "published_date": "2026-09-15T10:00:06+00:00",
-      "category": "Diplomacy"
+      "title": "Somali Army Ground Forces Commander Inspects Newly Trained Troops in Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-ground-forces-commander-inspects-newly-trained-troops-in-baidoa/",
+      "published_date": "2026-09-17T08:42:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Dowladda Soomaaliya oo cambaaraysay Xuutiyiinta",
@@ -242,46 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "At least 20 killed as multi-storey building collapses in Gaza City",
+      "title": "China faces oil challenge as prices soar and supply options narrow",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss",
-      "published_date": "2026-09-16T12:32:47+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/17/china-faces-oil-challenge-as-prices-soar-and-supply-options-narrow?traffic_source=rss",
+      "published_date": "2026-09-17T14:48:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Taiz camps overflow with Yemenis fleeing fighting after Houthi offensive",
+      "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/16/taiz-camps-overflow-with-yemenis-fleeing-fighting-after-houthi-offensive?traffic_source=rss",
-      "published_date": "2026-09-16T12:10:55+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss",
+      "published_date": "2026-09-17T14:10:41+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US set to approve 60,000 heavy bombs for Israel: What that means",
+      "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/16/us-set-to-approve-60000-heavy-bombs-for-israel-what-that-means?traffic_source=rss",
-      "published_date": "2026-09-16T12:09:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
+      "published_date": "2026-09-17T12:59:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "NISA oo sheegtay inay Muqdisho iyo nawaaxigeeda ku burburisay shabakado Al-Shabaab ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/nisa-oo-sheegtay-inay-muqdisho-iyo-nawaaxigeeda-ku-burburisay-shabakado-al-shabaab-ah/",
-      "published_date": "2026-09-16T05:44:24+00:00",
-      "category": "Military"
+      "title": "‘The drought has left its mark’: Slovenia’s potato lovers lament low yields",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/the-drought-has-left-its-mark-slovenias-potato-lovers-lament-low-yields?traffic_source=rss",
+      "published_date": "2026-09-17T12:29:24+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
+      "title": "Climate change had major role in triggering Nepal floods, scientists say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
-      "published_date": "2026-09-15T22:38:08+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
+      "published_date": "2026-09-17T11:19:23+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Romanian shepards and farmers clash with police",
+      "title": "Why is inflation rising again around the world?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
-      "published_date": "2026-09-15T20:40:05+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/17/why-is-inflation-rising-again-around-the-world?traffic_source=rss",
+      "published_date": "2026-09-17T10:50:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Three dead after flooding inundates Navajo Nation in New Mexico",
@@ -466,18 +508,25 @@
       "category": "Economy"
     },
     {
-      "title": "At least 25 dead after cargo ship catches fire in China",
+      "title": "Syrian court sentences three linked to coastal violence",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/at-least-25-dead-after-cargo-ship-catches-fire-in-china?traffic_source=rss",
-      "published_date": "2026-09-10T12:45:11+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss",
+      "published_date": "2026-09-17T12:31:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia, African Development Bank discuss economic reforms and investment",
+      "title": "South West Somalia leader chairs security meeting on Baidoa stability",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-african-development-bank-discuss-economic-reforms-and-investment/",
-      "published_date": "2026-09-10T12:24:51+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/south-west-somalia-leader-chairs-security-meeting-on-baidoa-stability/",
+      "published_date": "2026-09-17T08:39:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Duqeymo ka dhacay buuraha Calmadow ee gobolka Sanaag",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/17/puntland-duqeymo-ka-dhacay-buuraha-calmadow-ee-gobolka-sanaag/",
+      "published_date": "2026-09-17T08:13:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland oo gargaar gaarsiisay Dhinowda",
@@ -596,27 +645,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/15/why-is-pro-palestinian-activist-mahmoud-khalil-suing-columbia-university?traffic_source=rss",
       "published_date": "2026-09-15T11:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court rejects Trump’s plans on postal ballots: Why it matters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss",
-      "published_date": "2026-09-15T09:15:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West Leader Madobe Meets Hariin Clan Elders and Politicians in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-leader-madobe-meets-hariin-clan-elders-and-politicians-in-baidoa/",
-      "published_date": "2026-09-15T08:49:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mitch McConnell returns to US Senate after three-month absence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss",
-      "published_date": "2026-09-15T08:41:10+00:00",
       "category": "Local Events"
     }
   ]
