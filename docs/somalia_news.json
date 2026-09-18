@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-18T00:58:33.894045+00:00",
-  "story_count": 92,
+  "last_updated": "2026-09-18T14:53:19.256954+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "United Nations says US may have committed war crimes in Iran: What it means",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
+      "published_date": "2026-09-18T10:43:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IGAD oo ku ugu baaqday hoggaamiyeyaasha Soomaaliya inay heshiis ka gaaraan doorashooyinka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/igad-oo-ku-ugu-baaqday-hoggaamiyeyaasha-soomaaliya-inay-heshiis-ka-gaaraan-doorashooyinka/",
+      "published_date": "2026-09-18T05:57:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya iyo Nigeria oo ka wada hadlay danaha labada dal",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-iyo-nigeria-oo-ka-wada-hadlay-danaha-labada-dal/",
+      "published_date": "2026-09-18T05:44:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SoDMA oo ka qeyb gashay shir looga hadlay diyaar-garowga El Niño ee Geeska Afrika",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-oo-ka-qeyb-gashay-shir-looga-hadlay-diyaar-garowga-el-nino-ee-geeska-afrika/",
+      "published_date": "2026-09-18T05:41:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
       "source": "Al Jazeera",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Geopolitical divides fueling UN Security Council inaction, Guterres warns",
+      "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss",
-      "published_date": "2026-09-16T17:55:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
+      "published_date": "2026-09-18T14:17:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia: Al-Shabaab ‘stronger than ever’ despite billions spent on AU missions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-stronger-than-ever-au-missions/",
-      "published_date": "2026-09-16T16:01:22+00:00",
-      "category": "Diplomacy"
+      "title": "US voter opposition to war on Iran grows to new highs: Poll",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to-new-highs-poll?traffic_source=rss",
+      "published_date": "2026-09-18T13:09:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Djibouti on alert as people flee Yemen after Houthi takeover of Mayyun",
+      "title": "Chinese ship rams Philippines gov’t vessel in South China Sea: Coastguard",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss",
-      "published_date": "2026-09-16T13:23:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/18/chinese-ship-rams-philippines-govt-vessel-in-south-china-sea-coastguard?traffic_source=rss",
+      "published_date": "2026-09-18T13:02:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU chief von der Leyen proposes ‘associate member’ status for Canada",
+      "title": "Pakistan pledges full committment to defence of Saudi Arabia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss",
-      "published_date": "2026-09-16T13:18:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/18/pakistan-pledges-full-committment-to-defence-of-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-09-18T13:00:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Houthis grab Bab al-Mandeb, US appears willing to watch from sidelines",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/as-houthis-grab-bab-al-mandeb-us-appears-willing-to-watch-from-sidelines?traffic_source=rss",
+      "published_date": "2026-09-18T12:52:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why does Canada want to join the Europe-led JEF military partnership?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/why-does-canada-want-to-join-the-europe-led-jef-military-partnership?traffic_source=rss",
+      "published_date": "2026-09-18T12:51:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly blast hits mosque at Pakistan police complex",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/09-18-26-pakistan-blast?traffic_source=rss",
+      "published_date": "2026-09-18T11:15:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
+      "published_date": "2026-09-18T10:33:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
@@ -225,62 +281,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/09/17/dowladda-soomaaliya-oo-cambaaraysay-xuutiyiinta/",
       "published_date": "2026-09-17T00:45:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
-      "published_date": "2026-09-17T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss",
-      "published_date": "2026-09-16T23:14:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss",
-      "published_date": "2026-09-16T22:30:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Intelligence Agency Arrests 11 in Al-Shabaab Network Crackdown in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-intelligence-agency-arrests-11-in-al-shabaab-network-crackdown-in-mogadishu/",
-      "published_date": "2026-09-16T20:12:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss",
-      "published_date": "2026-09-16T20:08:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
-      "published_date": "2026-09-16T19:14:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
-      "published_date": "2026-09-16T15:00:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics?traffic_source=rss",
-      "published_date": "2026-09-16T14:53:51+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Who gets to decide how quickly AI moves?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/who-gets-to-decide-how-quickly-ai-moves?traffic_source=rss",
+      "published_date": "2026-09-18T11:04:01+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Somali elders praise Somalia-Turkey ties and Ankara’s support",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-elders-praise-somalia-turkey-ties-and-ankaras-support/",
@@ -506,6 +513,27 @@
       "url": "https://shabellemedia.com/somalia-human-rights-commission-undp-pledge-to-strengthen-institutional-cooperation/",
       "published_date": "2026-09-13T07:27:17+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "The cost of Iran’s regional leverage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss",
+      "published_date": "2026-09-18T13:52:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Students flee deadly school shooting in the Philippines",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss",
+      "published_date": "2026-09-18T13:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss",
+      "published_date": "2026-09-18T12:26:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
@@ -624,27 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss",
       "published_date": "2026-09-16T13:56:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Renews $5 Million Reward for Information on Khadra Essa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-renews-5-million-reward-for-information-on-somali-born-isis-leader-khadra-essa/",
-      "published_date": "2026-09-16T12:35:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Sweden, many breathe sigh of relief as far right suffers election losses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/16/in-sweden-many-breathe-sigh-of-relief-as-far-right-suffers-election-losses?traffic_source=rss",
-      "published_date": "2026-09-16T12:22:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shiinaha oo u goodiyay Somaliland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/16/shiinaha-oo-u-goodiyay-somaliland/",
-      "published_date": "2026-09-16T11:01:40+00:00",
       "category": "Local Events"
     }
   ]
