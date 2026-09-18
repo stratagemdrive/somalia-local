@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-17T15:29:05.674918+00:00",
+  "last_updated": "2026-09-18T00:58:33.894045+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
+      "published_date": "2026-09-17T21:20:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia, China veto UN mandate to monitor Iran sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
+      "published_date": "2026-09-17T21:01:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+      "published_date": "2026-09-17T20:47:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can ‘middle powers’ come together to build a new economic alliance?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
+      "published_date": "2026-09-17T20:37:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
       "source": "Al Jazeera",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey deports 50 Somalis amid anti-Turkey protests",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-deportation-protests-jubaland-puntland-southwest/",
-      "published_date": "2026-09-16T10:18:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia FM Joins IGAD Ministers to Inspect New Headquarters Under Construction in Djibouti",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-fm-joins-igad-ministers-to-inspect-new-headquarters-under-construction-in-djibouti/",
-      "published_date": "2026-09-16T06:38:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Wasiirrada Arrimaha Dibadda ee IGAD oo kormeeray xarunta cusub ee ururka ee Jabuuti",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiirrada-arrimaha-dibadda-ee-igad-oo-kormeeray-xarunta-cusub-ee-ururka-ee-jabuuti/",
-      "published_date": "2026-09-16T05:41:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
+      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
-      "published_date": "2026-09-16T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+      "published_date": "2026-09-18T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US approves $414M uranium investment in Niger, two years after troops left",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
+      "published_date": "2026-09-17T23:16:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-09-17T21:38:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss",
+      "published_date": "2026-09-17T19:54:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Serbia opens factory to assemble Israeli-made drones",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss",
+      "published_date": "2026-09-17T18:54:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Puntland oo ka hadashay duqeyntii Calmadow",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
+      "title": "Why have China’s oil prices reached a record high?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
-      "published_date": "2026-09-16T14:31:14+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high?traffic_source=rss",
+      "published_date": "2026-09-17T20:30:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
+      "title": "Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/norway-oil-fund-ethical-concerns?traffic_source=rss",
-      "published_date": "2026-09-16T13:29:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gold mine collapse kills at least 70 people in Sudan’s West Kordofan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss",
-      "published_date": "2026-09-16T13:15:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss",
-      "published_date": "2026-09-16T13:09:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Duterte in person at ICC for first time over ‘war on drugs’ killings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/duterte-in-person-at-icc-for-first-time-over-war-on-drugs-killings?traffic_source=rss",
-      "published_date": "2026-09-16T13:01:13+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/17/russia-sabotaging-power-supply-lines-at-zaporizhzhia-plant-greenpeace?traffic_source=rss",
+      "published_date": "2026-09-17T19:30:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "China faces oil challenge as prices soar and supply options narrow",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss",
-      "published_date": "2026-09-11T13:09:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gaza hospitals ration power as fuel shortages deepen",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-      "published_date": "2026-09-10T21:17:09+00:00",
-      "category": "Energy"
+      "title": "Somali elders praise Somalia-Turkey ties and Ankara’s support",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-elders-praise-somalia-turkey-ties-and-ankaras-support/",
+      "published_date": "2026-09-17T17:52:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
@@ -501,11 +508,74 @@
       "category": "Economy"
     },
     {
-      "title": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
+      "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss",
-      "published_date": "2026-09-10T20:46:16+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
+      "published_date": "2026-09-18T00:49:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia election: Could other parties challenge United Russia?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+      "published_date": "2026-09-17T22:19:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
+      "published_date": "2026-09-17T22:12:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
+      "published_date": "2026-09-17T21:27:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
+      "published_date": "2026-09-17T21:08:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four bodies found in Nepal tunnel as flood search continues",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/four-bodies-found-in-nepal-tunnel-as-flood-search-continues?traffic_source=rss",
+      "published_date": "2026-09-17T19:34:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
+      "published_date": "2026-09-17T18:36:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Steps Up El Niño Preparations as Flood Risks Loom",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-steps-up-el-nino-preparations-as-flood-risks-loom/",
+      "published_date": "2026-09-17T18:28:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia parliament speaker chairs seventh meeting of Standing Committee",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-parliament-speaker-chairs-seventh-meeting-of-standing-committee/",
+      "published_date": "2026-09-17T17:50:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland president faces backlash after tense Washington interview",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-faces-backlash-after-tense-washington-interview/",
+      "published_date": "2026-09-17T16:15:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syrian court sentences three linked to coastal violence",
@@ -575,76 +645,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/09/16/shiinaha-oo-u-goodiyay-somaliland/",
       "published_date": "2026-09-16T11:01:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uganda, Somalia Forces Move To Strengthen Cooperation In Lower Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uganda-somalia-forces-move-to-strengthen-cooperation-in-lower-shabelle/",
-      "published_date": "2026-09-16T06:36:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Senate crypto bill collapses in blow to industry",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
-      "published_date": "2026-09-15T21:31:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds protest in DR Congo against third presidential term",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss",
-      "published_date": "2026-09-15T21:20:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What makes these midterms so pivotal?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
-      "published_date": "2026-09-15T20:19:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
-      "published_date": "2026-09-15T20:13:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo baaq u dirtay dadka degan dhulka iyo dhismayaasha dowladda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/15/puntland-oo-baaq-u-dirtay-dadka-degan-dhulka-iyo-dhismayaasha-dowladda/",
-      "published_date": "2026-09-15T15:12:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can the Houthis hold on to Yemen’s strategic western coast?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
-      "published_date": "2026-09-15T14:28:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coalition talks likely as no party dominates Philippines’ Bangsamoro region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/coalition-talks-likely-as-no-party-dominates-philippines-bangsamoro-region?traffic_source=rss",
-      "published_date": "2026-09-15T13:07:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss",
-      "published_date": "2026-09-15T11:17:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is pro-Palestinian activist Mahmoud Khalil suing Columbia University?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/why-is-pro-palestinian-activist-mahmoud-khalil-suing-columbia-university?traffic_source=rss",
-      "published_date": "2026-09-15T11:14:00+00:00",
       "category": "Local Events"
     }
   ]
