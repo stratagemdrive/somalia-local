@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-18T14:53:19.256954+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-19T00:55:44.434648+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+      "published_date": "2026-09-19T00:46:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+      "published_date": "2026-09-19T00:00:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss",
+      "published_date": "2026-09-18T18:46:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IGAD calls for sustainable funding for African Union mission in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/igad-calls-for-sustainable-funding-for-african-union-mission-in-somalia/",
+      "published_date": "2026-09-18T15:18:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia orders merit-based overhaul of senior civil service appointments",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-orders-merit-based-overhaul-of-senior-civil-service-appointments/",
+      "published_date": "2026-09-18T15:16:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "United Nations says US may have committed war crimes in Iran: What it means",
       "source": "Al Jazeera",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia, AU anti-terrorism centre conclude talks in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-au-anti-terrorism-centre-conclude-talks-in-mogadishu/",
-      "published_date": "2026-09-17T08:44:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
+      "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-      "published_date": "2026-09-16T23:26:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
+      "published_date": "2026-09-18T23:14:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "President Irro’s Washington Outreach Puts Somaliland’s Strategic Value at the Center of U.S. Diplomacy",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/president-irros-washington-outreach-puts-somalilands-strategic-value-at-the-center-of-u-s-diplomacy/",
-      "published_date": "2026-09-16T21:22:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia, AU discuss border security and counterterrorism cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-au-discuss-border-security-and-counterterrorism-cooperation/",
-      "published_date": "2026-09-16T20:13:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
+      "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss",
-      "published_date": "2026-09-16T20:05:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss",
+      "published_date": "2026-09-18T22:01:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
+      "published_date": "2026-09-18T21:06:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+      "published_date": "2026-09-18T20:20:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
+      "published_date": "2026-09-18T19:39:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-09-18T19:14:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss",
+      "published_date": "2026-09-18T19:12:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pentagon resumes mandatory testosterone testing for US troops over 30",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss",
+      "published_date": "2026-09-18T18:54:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
+      "published_date": "2026-09-18T18:19:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss",
+      "published_date": "2026-09-18T18:16:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
@@ -211,76 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
       "published_date": "2026-09-17T23:16:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-09-17T21:38:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss",
-      "published_date": "2026-09-17T19:54:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serbia opens factory to assemble Israeli-made drones",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss",
-      "published_date": "2026-09-17T18:54:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland oo ka hadashay duqeyntii Calmadow",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/17/puntland-oo-ka-hadashay-duqeyntii-calmadow/",
-      "published_date": "2026-09-17T13:59:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India-Pakistan navy ship collision sparks alarm over unintended escalation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss",
-      "published_date": "2026-09-17T13:25:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza repairman helps journalists to keep documenting genocide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
-      "published_date": "2026-09-17T11:01:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Kumaandooska Danab oo howlgal ka fuliyey deegaanka Leego",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-kumaandooska-danab-oo-howlgal-ka-fuliyey-deegaanka-leego/",
-      "published_date": "2026-09-17T09:54:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland iyo Mareykanka oo xaqiijiyay hawlgal ka dhan ah Al-Shabaab oo ka dhacay Al-Madow",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-iyo-mareykanka-oo-xaqiijiyay-hawlgal-ka-dhan-ah-al-shabaab-oo-ka-dhacay-al-madow/",
-      "published_date": "2026-09-17T09:49:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Ground Forces Commander Inspects Newly Trained Troops in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-ground-forces-commander-inspects-newly-trained-troops-in-baidoa/",
-      "published_date": "2026-09-17T08:42:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo cambaaraysay Xuutiyiinta",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/17/dowladda-soomaaliya-oo-cambaaraysay-xuutiyiinta/",
-      "published_date": "2026-09-17T00:45:02+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Somalia, Azerbaijan discuss stronger development cooperation at AIDA anniversary",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-azerbaijan-discuss-stronger-development-cooperation-at-aida-anniversary/",
+      "published_date": "2026-09-18T15:12:52+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Who gets to decide how quickly AI moves?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/9/18/who-gets-to-decide-how-quickly-ai-moves?traffic_source=rss",
@@ -513,6 +520,41 @@
       "url": "https://shabellemedia.com/somalia-human-rights-commission-undp-pledge-to-strengthen-institutional-cooperation/",
       "published_date": "2026-09-13T07:27:17+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+      "published_date": "2026-09-19T00:02:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK court clears woman of voicing support for Hamas in university speech",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
+      "published_date": "2026-09-18T20:55:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Do elections in Russia make a difference?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
+      "published_date": "2026-09-18T18:45:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/early-in-person-voting-begins-in-the-2026-us-midterm-elections-in-virginia?traffic_source=rss",
+      "published_date": "2026-09-18T18:15:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hirshabelle leader, UK officials discuss development projects and Sabbuun dam",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hirshabelle-leader-uk-officials-discuss-development-projects-and-sabbuun-dam/",
+      "published_date": "2026-09-18T15:14:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The cost of Iran’s regional leverage",
@@ -617,41 +659,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/south-west-somalia-leader-chairs-security-meeting-on-baidoa-stability/",
       "published_date": "2026-09-17T08:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Duqeymo ka dhacay buuraha Calmadow ee gobolka Sanaag",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/17/puntland-duqeymo-ka-dhacay-buuraha-calmadow-ee-gobolka-sanaag/",
-      "published_date": "2026-09-17T08:13:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo gargaar gaarsiisay Dhinowda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/17/puntland-oo-gargaar-gaarsiisay-dhinowda/",
-      "published_date": "2026-09-17T00:13:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced Syrians dig through hills of garbage to make a living",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss",
-      "published_date": "2026-09-16T20:29:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbappe, Vinicius and Konate court controversy with Ceuta solidarity shirts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/16/mbappe-vinicius-and-konate-court-controversy-with-ceuta-solidarity-shirts?traffic_source=rss",
-      "published_date": "2026-09-16T14:42:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why are election officials in the US preparing for chaos before midterms?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss",
-      "published_date": "2026-09-16T13:56:11+00:00",
       "category": "Local Events"
     }
   ]
