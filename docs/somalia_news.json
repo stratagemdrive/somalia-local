@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-19T00:55:44.434648+00:00",
+  "last_updated": "2026-09-19T14:16:14.814741+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "EU appoints new ambassador to Somalia as Mogadishu pledges closer cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/eu-appoints-new-ambassador-to-somalia-as-mogadishu-pledges-closer-cooperation/",
+      "published_date": "2026-09-19T13:03:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
+      "published_date": "2026-09-19T12:34:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s security clock is ticking: Can Somali forces survive the UNSOS, AUSSOM drawdown?",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-transition-unsos-aussom-somali-forces-al-shabaab/",
+      "published_date": "2026-09-19T09:53:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU urges US to lift travel ban on Palestinian delegation for UNGA meeting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss",
+      "published_date": "2026-09-19T09:05:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+      "published_date": "2026-09-19T08:18:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, China discuss strengthening defence and security ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-china-discuss-strengthening-defence-and-security-ties/",
+      "published_date": "2026-09-19T07:11:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya oo UNEP uga hadashay isbeddelka cimilada iyo duufaannada kusoo wajahan dalka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-unep-uga-hadashay-isbeddelka-cimilada-iyo-duufaannada-kusoo-wajahan-dalka/",
+      "published_date": "2026-09-19T05:44:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump signs sweeping Russia sanctions over Ukraine war",
       "source": "Al Jazeera",
@@ -95,53 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
+      "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss",
-      "published_date": "2026-09-17T15:10:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss",
+      "published_date": "2026-09-19T13:55:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "What are all the sanctions Iran is under?",
+      "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under?traffic_source=rss",
-      "published_date": "2026-09-17T15:01:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
+      "published_date": "2026-09-19T13:13:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sweden prime minister to resign as left-wing bloc seals narrow election win",
+      "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss",
-      "published_date": "2026-09-17T13:11:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
+      "published_date": "2026-09-19T12:59:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada’s Carney welcomes EU’s associated membership proposal",
+      "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss",
-      "published_date": "2026-09-17T12:31:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
+      "published_date": "2026-09-19T12:51:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
+      "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
-      "published_date": "2026-09-17T10:32:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss",
+      "published_date": "2026-09-19T12:29:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK charities, protest groups condemn Israeli ban threat after sanctions",
+      "title": "In Gaza, actors perform a war they are still living",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss",
-      "published_date": "2026-09-17T10:19:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+      "published_date": "2026-09-19T12:18:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Prime Minister Attends Launch of 2025 Economic Report",
+      "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss",
+      "published_date": "2026-09-19T10:51:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss",
+      "published_date": "2026-09-19T10:42:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
+      "published_date": "2026-09-19T08:47:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Xisbiga Himilo Qaran oo soo saaray war-murtiyeed ku saabsan xaaladda siyaasadeed ee Soomaaliya",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-prime-minister-attends-launch-of-2025-economic-report/",
-      "published_date": "2026-09-17T08:49:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/xisbiga-himilo-qaran-oo-soo-saaray-war-murtiyeed-ku-saabsan-xaaladda-siyaasadeed-ee-soomaaliya/",
+      "published_date": "2026-09-19T05:37:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
+      "title": "Africa’s Green Revolution threatens traditional foods",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
-      "published_date": "2026-09-18T14:17:20+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss",
+      "published_date": "2026-09-19T09:36:38+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US voter opposition to war on Iran grows to new highs: Poll",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to-new-highs-poll?traffic_source=rss",
-      "published_date": "2026-09-18T13:09:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chinese ship rams Philippines gov’t vessel in South China Sea: Coastguard",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/chinese-ship-rams-philippines-govt-vessel-in-south-china-sea-coastguard?traffic_source=rss",
-      "published_date": "2026-09-18T13:02:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan pledges full committment to defence of Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/pakistan-pledges-full-committment-to-defence-of-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-09-18T13:00:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Houthis grab Bab al-Mandeb, US appears willing to watch from sidelines",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/as-houthis-grab-bab-al-mandeb-us-appears-willing-to-watch-from-sidelines?traffic_source=rss",
-      "published_date": "2026-09-18T12:52:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why does Canada want to join the Europe-led JEF military partnership?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/why-does-canada-want-to-join-the-europe-led-jef-military-partnership?traffic_source=rss",
-      "published_date": "2026-09-18T12:51:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly blast hits mosque at Pakistan police complex",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/09-18-26-pakistan-blast?traffic_source=rss",
-      "published_date": "2026-09-18T11:15:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
-      "published_date": "2026-09-18T10:33:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
-      "published_date": "2026-09-18T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US approves $414M uranium investment in Niger, two years after troops left",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
-      "published_date": "2026-09-17T23:16:25+00:00",
-      "category": "Military"
+      "title": "Somalia highlights climate priorities at UNEP meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-highlights-climate-priorities-at-unep-meeting/",
+      "published_date": "2026-09-19T07:12:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why have China’s oil prices reached a record high?",
@@ -410,20 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Ammonia gas leak in Jordan’s Aqaba industrial area injures 11 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/ammonia-gas-leak-in-jordans-aqaba-industrial-area-injures-11-people?traffic_source=rss",
-      "published_date": "2026-09-14T10:46:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
-      "published_date": "2026-09-12T23:25:22+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Somalia, Azerbaijan discuss stronger development cooperation at AIDA anniversary",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-azerbaijan-discuss-stronger-development-cooperation-at-aida-anniversary/",
@@ -520,6 +520,20 @@
       "url": "https://shabellemedia.com/somalia-human-rights-commission-undp-pledge-to-strengthen-institutional-cooperation/",
       "published_date": "2026-09-13T07:27:17+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+      "published_date": "2026-09-19T13:21:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West leader bids farewell to outgoing AUSSOM commander in Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-leader-bids-farewell-to-outgoing-aussom-commander-in-baidoa/",
+      "published_date": "2026-09-19T13:02:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
@@ -645,20 +659,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-faces-backlash-after-tense-washington-interview/",
       "published_date": "2026-09-17T16:15:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian court sentences three linked to coastal violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss",
-      "published_date": "2026-09-17T12:31:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West Somalia leader chairs security meeting on Baidoa stability",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-somalia-leader-chairs-security-meeting-on-baidoa-stability/",
-      "published_date": "2026-09-17T08:39:48+00:00",
       "category": "Local Events"
     }
   ]
