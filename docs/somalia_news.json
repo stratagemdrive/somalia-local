@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-19T14:16:14.814741+00:00",
-  "story_count": 94,
+  "last_updated": "2026-09-20T00:36:46.174294+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Somaliland President Meets U.S. Senator Ted Cruz on Capitol Hill",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-meets-u-s-senator-ted-cruz-on-capitol-hill/",
+      "published_date": "2026-09-19T19:15:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
+      "published_date": "2026-09-19T18:32:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
+      "published_date": "2026-09-19T15:31:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU appoints new ambassador to Somalia as Mogadishu pledges closer cooperation",
       "source": "Shabelle Media",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia, China veto UN mandate to monitor Iran sanctions",
+      "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
-      "published_date": "2026-09-17T21:01:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+      "published_date": "2026-09-20T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
-      "published_date": "2026-09-17T20:47:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "published_date": "2026-09-19T22:03:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can ‘middle powers’ come together to build a new economic alliance?",
+      "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
-      "published_date": "2026-09-17T20:37:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+      "published_date": "2026-09-19T20:40:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+      "published_date": "2026-09-19T20:13:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AFRICOM Confirms U.S. Airstrike on Al-Shabaab Weapons Facility in Cal Madow",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/africom-confirms-u-s-airstrike-on-al-shabaab-weapons-facility-in-cal-madow/",
+      "published_date": "2026-09-19T19:23:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel targets paramedics in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-09-19T18:06:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dutch riot police break up violent far-right protest in The Hague",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss",
+      "published_date": "2026-09-19T17:55:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police hiring standards matter. But they alone cannot stop abuse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
+      "published_date": "2026-09-19T15:58:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
+      "published_date": "2026-09-19T15:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria says blast at military site in Deir Az Zor killed 11",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/syria-says-blast-at-military-site-in-deir-az-zor-killed-11?traffic_source=rss",
+      "published_date": "2026-09-19T14:55:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
+      "title": "Cuba works to restore power after another major nationwide blackout",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
-      "published_date": "2026-09-18T23:14:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
+      "published_date": "2026-09-19T17:59:57+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
+      "title": "Aston Villa compound Tottenham’s misery despite Spurs ending goal drought",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss",
-      "published_date": "2026-09-18T22:01:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
-      "published_date": "2026-09-18T21:06:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
-      "published_date": "2026-09-18T20:20:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
-      "published_date": "2026-09-18T19:39:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-09-18T19:14:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss",
-      "published_date": "2026-09-18T19:12:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon resumes mandatory testosterone testing for US troops over 30",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss",
-      "published_date": "2026-09-18T18:54:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
-      "published_date": "2026-09-18T18:19:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss",
-      "published_date": "2026-09-18T18:16:20+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/sports/2026/9/19/aston-villa-compound-tottenhams-misery-despite-spurs-ending-goal-drought?traffic_source=rss",
+      "published_date": "2026-09-19T14:35:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Africa’s Green Revolution threatens traditional foods",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Why the Houthi advance towards Yemen’s Marib, Taiz matters",
+      "title": "Canadians warm to EU ‘associate membership’ proposal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss",
-      "published_date": "2026-09-14T12:09:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100?traffic_source=rss",
-      "published_date": "2026-09-14T11:06:17+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
+      "published_date": "2026-09-19T19:53:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia, Azerbaijan discuss stronger development cooperation at AIDA anniversary",
@@ -520,6 +527,20 @@
       "url": "https://shabellemedia.com/somalia-human-rights-commission-undp-pledge-to-strengthen-institutional-cooperation/",
       "published_date": "2026-09-13T07:27:17+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+      "published_date": "2026-09-19T16:21:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jerusalem Daily: Gaza’s children return to schools",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
+      "published_date": "2026-09-19T15:38:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
@@ -645,20 +666,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-steps-up-el-nino-preparations-as-flood-risks-loom/",
       "published_date": "2026-09-17T18:28:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament speaker chairs seventh meeting of Standing Committee",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliament-speaker-chairs-seventh-meeting-of-standing-committee/",
-      "published_date": "2026-09-17T17:50:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland president faces backlash after tense Washington interview",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-faces-backlash-after-tense-washington-interview/",
-      "published_date": "2026-09-17T16:15:52+00:00",
       "category": "Local Events"
     }
   ]
