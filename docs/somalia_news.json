@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-20T00:36:46.174294+00:00",
-  "story_count": 95,
+  "last_updated": "2026-09-20T14:37:44.327987+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
+      "published_date": "2026-09-20T13:31:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somaliland President Meets U.S. Senator Ted Cruz on Capitol Hill",
       "source": "Somali Dispatch",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
+      "title": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
-      "published_date": "2026-09-17T21:20:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
+      "published_date": "2026-09-20T13:47:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss",
+      "published_date": "2026-09-20T13:12:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army chief signs order to combat violence against women during conflict",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-signs-order-to-combat-violence-against-women-during-conflict/",
+      "published_date": "2026-09-20T12:44:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-09-20T12:11:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What are Iran’s latest conditions to end its war with the US?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
+      "published_date": "2026-09-20T11:21:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
+      "published_date": "2026-09-20T10:23:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
@@ -239,48 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
       "published_date": "2026-09-19T12:51:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss",
-      "published_date": "2026-09-19T12:29:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Gaza, actors perform a war they are still living",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
-      "published_date": "2026-09-19T12:18:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss",
-      "published_date": "2026-09-19T10:51:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss",
-      "published_date": "2026-09-19T10:42:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
-      "published_date": "2026-09-19T08:47:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xisbiga Himilo Qaran oo soo saaray war-murtiyeed ku saabsan xaaladda siyaasadeed ee Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xisbiga-himilo-qaran-oo-soo-saaray-war-murtiyeed-ku-saabsan-xaaladda-siyaasadeed-ee-soomaaliya/",
-      "published_date": "2026-09-19T05:37:59+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Somalia seeks investment to drive sustainable economic growth",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-seeks-investment-to-drive-sustainable-economic-growth/",
+      "published_date": "2026-09-20T06:38:12+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Canadians warm to EU ‘associate membership’ proposal",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
@@ -508,25 +515,32 @@
       "category": "Economy"
     },
     {
-      "title": "Renewed fighting worsens Yemen’s humanitarian crisis",
+      "title": "Back to school in Gaza: Learning in tents after years of disruption",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss",
-      "published_date": "2026-09-13T13:26:45+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
+      "published_date": "2026-09-20T11:26:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Wasiirka Beeraha iyo WFP oo ka wada hadlay qorshayaasha iskaashiga ee 2027",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiirka-beeraha-iyo-wfp-oo-ka-wada-hadlay-qorshayaasha-iskaashiga-ee-2027/",
-      "published_date": "2026-09-13T10:10:50+00:00",
-      "category": "Economy"
+      "title": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
+      "published_date": "2026-09-20T11:18:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia Human Rights Commission, UNDP Pledge to Strengthen Institutional Cooperation",
+      "title": "Calmiskaad: Daacish oo weerartay qoyska sarkaal ka tirsan ciidanka Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/20/calmiskaad-daacish-oo-weerartay-qoyska-sarkaal-ka-tirsan-ciidanka-puntland/",
+      "published_date": "2026-09-20T09:11:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali parliament approves two members of constitutional review committee",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-human-rights-commission-undp-pledge-to-strengthen-institutional-cooperation/",
-      "published_date": "2026-09-13T07:27:17+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somali-parliament-approves-two-members-of-constitutional-review-committee/",
+      "published_date": "2026-09-20T06:39:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
@@ -638,34 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
       "published_date": "2026-09-17T21:27:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
-      "published_date": "2026-09-17T21:08:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four bodies found in Nepal tunnel as flood search continues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/four-bodies-found-in-nepal-tunnel-as-flood-search-continues?traffic_source=rss",
-      "published_date": "2026-09-17T19:34:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
-      "published_date": "2026-09-17T18:36:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Steps Up El Niño Preparations as Flood Risks Loom",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-steps-up-el-nino-preparations-as-flood-risks-loom/",
-      "published_date": "2026-09-17T18:28:13+00:00",
       "category": "Local Events"
     }
   ]
