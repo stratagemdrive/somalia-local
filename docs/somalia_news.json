@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-21T00:48:36.050695+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-21T16:55:27.039692+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "State of world getting worse as UN Security Council paralysed: Guterres",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss",
+      "published_date": "2026-09-21T16:46:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Antonio Guterres: Can the UN still meet today’s global crises?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss",
+      "published_date": "2026-09-21T15:21:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt’s Amina Orfi becomes youngest women’s squash world number one at 19",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss",
+      "published_date": "2026-09-21T13:59:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AU, UN chiefs discuss strengthening cooperation on Africa’s challenges",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/au-un-chiefs-discuss-strengthening-cooperation-on-africas-challenges/",
+      "published_date": "2026-09-21T09:37:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France to summon Iran envoy after language centre closure in Tehran",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU urges US to lift travel ban on Palestinian delegation for UNGA meeting",
+      "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss",
-      "published_date": "2026-09-19T09:05:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
+      "published_date": "2026-09-21T15:16:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+      "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
-      "published_date": "2026-09-19T08:18:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
+      "published_date": "2026-09-21T14:19:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, China discuss strengthening defence and security ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-china-discuss-strengthening-defence-and-security-ties/",
-      "published_date": "2026-09-19T07:11:03+00:00",
-      "category": "Diplomacy"
+      "title": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss",
+      "published_date": "2026-09-21T12:49:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Soomaaliya oo UNEP uga hadashay isbeddelka cimilada iyo duufaannada kusoo wajahan dalka",
+      "title": "Child among four Palestinians killed in Israeli attacks on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
+      "published_date": "2026-09-21T12:32:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces arrest dozens of Palestinians in occupied West Bank raid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss",
+      "published_date": "2026-09-21T12:31:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia: Puntland forces intercept more than 100 federal military recruits in Galkayo",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-intercept-federal-military-recruits-galkayo/",
+      "published_date": "2026-09-21T11:16:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A simple guide to the Yemen conflict",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
+      "published_date": "2026-09-21T10:01:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia says intelligence operation kills four al-Shabab members in Middle Shabelle",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-unep-uga-hadashay-isbeddelka-cimilada-iyo-duufaannada-kusoo-wajahan-dalka/",
-      "published_date": "2026-09-19T05:44:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalia-says-intelligence-operation-kills-four-al-shabab-members-in-middle-shabelle/",
+      "published_date": "2026-09-21T09:31:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia, Pakistan discuss strengthening air force cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pakistan-discuss-strengthening-air-force-cooperation/",
+      "published_date": "2026-09-21T09:26:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
@@ -221,67 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
+      "title": "How an economic squeeze is changing everyday life and work for Iranians",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-09-20T12:11:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
+      "published_date": "2026-09-21T14:50:46+00:00",
+      "category": "Energy"
     },
     {
-      "title": "What are Iran’s latest conditions to end its war with the US?",
+      "title": "Inside Kazakhstan’s push to become a regional AI centre",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
-      "published_date": "2026-09-20T11:21:06+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
+      "published_date": "2026-09-21T13:26:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
+      "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
-      "published_date": "2026-09-20T10:23:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-      "published_date": "2026-09-20T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-      "published_date": "2026-09-19T22:03:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-      "published_date": "2026-09-19T20:40:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
-      "published_date": "2026-09-19T20:13:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AFRICOM Confirms U.S. Airstrike on Al-Shabaab Weapons Facility in Cal Madow",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/africom-confirms-u-s-airstrike-on-al-shabaab-weapons-facility-in-cal-madow/",
-      "published_date": "2026-09-19T19:23:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel targets paramedics in southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-09-19T18:06:52+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
+      "published_date": "2026-09-21T10:38:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba works to restore power after another major nationwide blackout",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
+      "title": "Cargo ship crashes into Chinese fishing boat near Singapore",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge?traffic_source=rss",
-      "published_date": "2026-09-15T11:36:51+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
+      "published_date": "2026-09-21T13:18:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US repeals rules limiting greenhouse gas emissions by power plants",
+      "title": "Why do Sudan’s humanitarian truces keep failing and who is to blame?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
-      "published_date": "2026-09-14T21:36:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
-      "published_date": "2026-09-14T13:15:14+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/21/why-do-sudans-humanitarian-truces-keep-failing-and-who-is-to-blame?traffic_source=rss",
+      "published_date": "2026-09-21T11:22:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
@@ -513,6 +527,48 @@
       "url": "https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss",
       "published_date": "2026-09-14T19:51:26+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Puntland oo siidaysay ciidankii ay ku qabatay Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/21/puntland-oo-siidaysay-ciidankii-ay-ku-qabatay-gaalkacyo/",
+      "published_date": "2026-09-21T15:38:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Senate Approves Revenue Authority Bill and Two Constitutional Commission Members",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-senate-approves-revenue-authority-bill-and-two-constitutional-commission-members/",
+      "published_date": "2026-09-21T13:37:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia disaster agency chief visits Baidoa ahead of El Niño risks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-disaster-agency-chief-visits-baidoa-ahead-of-el-nino-risks/",
+      "published_date": "2026-09-21T13:35:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaalkacyo: Puntland oo ka hadashay gaadiid iyo ciidan ay qabatay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/21/gaalkacyo-puntland-oo-ka-hadashay-gaadiid-iyo-ciidan-ay-qabatay/",
+      "published_date": "2026-09-21T12:30:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss",
+      "published_date": "2026-09-21T09:54:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo qabatay ciidan ay dowladda Federaalka ka qoratay Galmudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/21/puntland-oo-qabatay-ciidan-ay-dowladda-federaalka-ka-qoratay-galmudug/",
+      "published_date": "2026-09-21T06:49:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
@@ -610,48 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
       "published_date": "2026-09-19T16:21:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerusalem Daily: Gaza’s children return to schools",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
-      "published_date": "2026-09-19T15:38:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
-      "published_date": "2026-09-19T13:21:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West leader bids farewell to outgoing AUSSOM commander in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-leader-bids-farewell-to-outgoing-aussom-commander-in-baidoa/",
-      "published_date": "2026-09-19T13:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
-      "published_date": "2026-09-19T00:02:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK court clears woman of voicing support for Hamas in university speech",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
-      "published_date": "2026-09-18T20:55:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do elections in Russia make a difference?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
-      "published_date": "2026-09-18T18:45:30+00:00",
       "category": "Local Events"
     }
   ]
