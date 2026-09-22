@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-21T16:55:27.039692+00:00",
-  "story_count": 95,
+  "last_updated": "2026-09-22T01:24:26.329456+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Trump returns to the UN, what will he say?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+      "published_date": "2026-09-22T00:31:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK to refuel Saudi jets to help counter Houthi attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
+      "published_date": "2026-09-22T00:29:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Chief Guterres calls for ban on ‘killer robots’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss",
+      "published_date": "2026-09-21T20:07:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "State of world getting worse as UN Security Council paralysed: Guterres",
       "source": "Al Jazeera",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU appoints new ambassador to Somalia as Mogadishu pledges closer cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/eu-appoints-new-ambassador-to-somalia-as-mogadishu-pledges-closer-cooperation/",
-      "published_date": "2026-09-19T13:03:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+      "title": "Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
-      "published_date": "2026-09-19T12:34:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss",
+      "published_date": "2026-09-22T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s security clock is ticking: Can Somali forces survive the UNSOS, AUSSOM drawdown?",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-transition-unsos-aussom-somali-forces-al-shabaab/",
-      "published_date": "2026-09-19T09:53:06+00:00",
-      "category": "Diplomacy"
+      "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+      "published_date": "2026-09-21T20:57:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
+      "published_date": "2026-09-21T20:17:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US man convicted in 2023 shooting of three Palestinian students in Vermont",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/us-man-convicted-in-2023-shooting-of-three-palestinian-students-in-vermont?traffic_source=rss",
+      "published_date": "2026-09-21T20:05:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Protesters blockade Elbit Systems factory over Israel weapons supply",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss",
+      "published_date": "2026-09-21T19:22:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
+      "published_date": "2026-09-21T19:10:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Licence to kill:’ French protests decry police use-of-force bill",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/licence-to-kill-french-protests-decry-police-use-of-force-bill?traffic_source=rss",
+      "published_date": "2026-09-21T17:38:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
+      "published_date": "2026-09-21T17:19:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+      "title": "Protesters march on Islamabad over soaring fuel prices",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
-      "published_date": "2026-09-20T19:28:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
-      "published_date": "2026-09-20T17:55:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali general says he survived F-16 strike on his home",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-general-says-he-survived-f16-strike/",
-      "published_date": "2026-09-20T16:51:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who Benefits? Transparency and Somalia’s $160m Infrastructure Grant",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/20/who-benefits-transparency-and-somalias-160m-infrastructure-grant/",
-      "published_date": "2026-09-20T16:48:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says monumental arch in Washington, DC will also be military complex",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-      "published_date": "2026-09-20T15:16:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
-      "published_date": "2026-09-20T13:47:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss",
-      "published_date": "2026-09-20T13:12:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali army chief signs order to combat violence against women during conflict",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-signs-order-to-combat-violence-against-women-during-conflict/",
-      "published_date": "2026-09-20T12:44:26+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
+      "published_date": "2026-09-21T17:48:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "How an economic squeeze is changing everyday life and work for Iranians",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "US repeals pollution limits for fossil fuel power plants",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/us-repeals-pollution-limits-for-fossil-fuel-power-plants?traffic_source=rss",
-      "published_date": "2026-09-15T11:53:19+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Cargo ship crashes into Chinese fishing boat near Singapore",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
@@ -515,18 +515,32 @@
       "category": "Economy"
     },
     {
-      "title": "Inside the Houthis’ expanding war economy in Yemen",
+      "title": "Morocco’s youth take Gen Z protest demands to the polls",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen?traffic_source=rss",
-      "published_date": "2026-09-14T20:41:47+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/22/moroccos-youth-take-gen-z-protest-demands-to-the-polls?traffic_source=rss",
+      "published_date": "2026-09-22T00:07:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sudan aid networks at risk of collapse, UN agencies warn",
+      "title": "Trump speech inaudible as US networks boycott White House event",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss",
-      "published_date": "2026-09-14T19:51:26+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
+      "published_date": "2026-09-21T20:38:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Military Movements Raise Tensions in Beledweyne Amid Hirshabelle Election Dispute",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/military-movements-raise-tensions-in-beledweyne-amid-hirshabelle-election-dispute/",
+      "published_date": "2026-09-21T17:57:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Interior Minister Meets Taiwan President Lai Ching-te",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-interior-minister-meets-taiwan-president-lai-ching-te/",
+      "published_date": "2026-09-21T17:46:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland oo siidaysay ciidankii ay ku qabatay Gaalkacyo",
@@ -638,34 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
       "published_date": "2026-09-20T11:26:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
-      "published_date": "2026-09-20T11:18:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calmiskaad: Daacish oo weerartay qoyska sarkaal ka tirsan ciidanka Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/20/calmiskaad-daacish-oo-weerartay-qoyska-sarkaal-ka-tirsan-ciidanka-puntland/",
-      "published_date": "2026-09-20T09:11:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali parliament approves two members of constitutional review committee",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-approves-two-members-of-constitutional-review-committee/",
-      "published_date": "2026-09-20T06:39:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
-      "published_date": "2026-09-19T16:21:36+00:00",
       "category": "Local Events"
     }
   ]
