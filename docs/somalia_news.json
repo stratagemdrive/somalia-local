@@ -1,8 +1,99 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-23T01:12:59.144313+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-23T15:22:47.253177+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss",
+      "published_date": "2026-09-23T14:58:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss",
+      "published_date": "2026-09-23T14:38:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN poverty goal faces reality check",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/un-poverty-goal-faces-reality-check?traffic_source=rss",
+      "published_date": "2026-09-23T13:54:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can flurry of New York diplomacy lead to US-Iran diplomatic breakthrough?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive?traffic_source=rss",
+      "published_date": "2026-09-23T13:52:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AFCON 2027 qualifiers: Teams, top players, schedule, format, matches",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/23/africa-cup-of-nations-afcon-2027-teams-schedule-salah-hakimi-mane?traffic_source=rss",
+      "published_date": "2026-09-23T12:29:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN General Assembly live: Iran ‘victim of terrorism – Pezeshkian to Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
+      "published_date": "2026-09-23T12:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia: Tigray forces seize Mekelle airport",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/tigray-forces-seize-mekelle-airport-ethiopia/",
+      "published_date": "2026-09-23T11:16:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss",
+      "published_date": "2026-09-23T11:03:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss",
+      "published_date": "2026-09-23T10:27:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World leaders say UN Security Council failing to function",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/world-leaders-say-un-security-council-failing-to-function?traffic_source=rss",
+      "published_date": "2026-09-23T10:04:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Approves National Plan to Prepare for El Niño 2026-2027",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-approves-national-plan-to-prepare-for-el-nino-2026-2027/",
+      "published_date": "2026-09-23T08:25:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Morocco Foreign Ministers Meet in New York to Strengthen Ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-morocco-foreign-ministers-meet-in-new-york-to-strengthen-ties/",
+      "published_date": "2026-09-23T08:21:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s President Hassan Sheikh Attends Opening of 81st UN General Assembly",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-hassan-sheikh-attends-opening-of-81st-un-general-assembly/",
+      "published_date": "2026-09-23T08:17:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK PM Burnham condemns ‘repulsive’ Russian electoral interference",
       "source": "Al Jazeera",
@@ -53,95 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Erdogan accuses Israel of ‘genocidal mindset’ at UNGA",
+      "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss",
-      "published_date": "2026-09-22T19:14:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
+      "published_date": "2026-09-23T13:57:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Is Ethiopia heading towards renewed civil war?",
+      "title": "Priests Against Genocide hold shroud with names of children killed in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
-      "published_date": "2026-09-22T18:51:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/priests-against-genocide-hold-shroud-with-names-of-children-killed-in-gaza?traffic_source=rss",
+      "published_date": "2026-09-23T13:23:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
+      "title": "As Xi meets Trump, who’s winning their trade war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
-      "published_date": "2026-09-22T18:49:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/9/23/as-xi-meets-trump-whos-winning-their-trade-war?traffic_source=rss",
+      "published_date": "2026-09-23T12:20:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar’s emir urges diplomacy as Gulf faces ‘dangerous phase’ amid Iran war",
+      "title": "Yemen government forces claim control of Mount Qarfan in Taiz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
-      "published_date": "2026-09-22T18:48:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/23/yemen-government-forces-claim-control-of-mount-qarfan-in-taiz?traffic_source=rss",
+      "published_date": "2026-09-23T10:15:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
-      "published_date": "2026-09-22T18:46:32+00:00",
-      "category": "Diplomacy"
+      "title": "Somalia, Pakistan Discuss Building Somali Air Force Capabilities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pakistan-discuss-building-somali-air-force-capabilities/",
+      "published_date": "2026-09-23T08:23:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-22T18:27:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali journalists’ Facebook pages hit amid China, Türkiye partnerships",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-journalists-facebook-pages-hit-china-turkiye-partnerships/",
-      "published_date": "2026-09-22T17:38:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN Chief condemns Gaza destruction, West Bank settlements",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss",
-      "published_date": "2026-09-22T14:37:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Uganda and Turkey clash over military presence in Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-turkey-clash-military-presence-somalia/",
-      "published_date": "2026-09-22T14:11:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
-      "published_date": "2026-09-22T13:29:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
-      "published_date": "2026-09-22T12:58:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN General Assembly live: Trump, Qatari emir among speakers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
-      "published_date": "2026-09-22T12:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Who actually has power at the United Nations?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/who-actually-has-power-at-the-united-nations-2?traffic_source=rss",
-      "published_date": "2026-09-22T11:51:07+00:00",
-      "category": "Diplomacy"
+      "title": "Somalia, Kuwait Discuss Cooperation to Combat Corruption",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-kuwait-discuss-cooperation-to-combat-corruption/",
+      "published_date": "2026-09-23T08:19:05+00:00",
+      "category": "Military"
     },
     {
       "title": "US signs ‘tremendous’ security deal with Denmark and Greenland",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
+      "title": "Trump pushes Russia-Ukraine ‘energy truce’: Can it work?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
-      "published_date": "2026-09-21T15:16:03+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work?traffic_source=rss",
+      "published_date": "2026-09-23T14:49:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
+      "title": "Powerful El Nino could cause more than 450,000 deaths, scientists say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
-      "published_date": "2026-09-21T14:19:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss",
-      "published_date": "2026-09-21T12:49:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Child among four Palestinians killed in Israeli attacks on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
-      "published_date": "2026-09-21T12:32:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces arrest dozens of Palestinians in occupied West Bank raid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss",
-      "published_date": "2026-09-21T12:31:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Puntland forces intercept more than 100 federal military recruits in Galkayo",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-intercept-federal-military-recruits-galkayo/",
-      "published_date": "2026-09-21T11:16:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss",
+      "published_date": "2026-09-23T10:44:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Protesters march on Islamabad over soaring fuel prices",
@@ -410,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Moroccans head to polls amid economic uncertainty to decide next parliament",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/moroccans-head-to-polls-amid-economic-uncertainty-to-decide-next-parliament?traffic_source=rss",
+      "published_date": "2026-09-23T14:16:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK Announces £5 Million to Help Somalia Prepare for El Niño Flooding",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uk-announces-5-million-to-help-somalia-prepare-for-el-nino-flooding/",
+      "published_date": "2026-09-23T13:30:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UEFA’s Ceferin says FIFA trust still broken after Infantino investment row",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/23/uefas-ceferin-says-fifa-trust-still-broken-after-infantino-investment-row?traffic_source=rss",
+      "published_date": "2026-09-23T11:38:35+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US Republican calls for probe into Donald Trump Jr’s business dealings",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss",
@@ -501,18 +536,18 @@
       "category": "Economy"
     },
     {
-      "title": "FIFA to present review of Infantino’s shelved investment plan to Council",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/16/fifa-to-present-review-of-infantinos-shelved-investment-plan-to-council?traffic_source=rss",
-      "published_date": "2026-09-16T13:05:02+00:00",
-      "category": "Economy"
+      "title": "Somalia Disaster Agency Urges Early Action Ahead of El Niño Flood Risks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-disaster-agency-urges-early-action-ahead-of-el-nino-flood-risks/",
+      "published_date": "2026-09-23T08:27:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "International Delegation Inspects Development Projects in Kismayo, Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/international-delegation-inspects-development-projects-in-kismayo-somalia/",
-      "published_date": "2026-09-16T06:41:40+00:00",
-      "category": "Economy"
+      "title": "Golaha Mustaqbalka: Mucaaradka keliya ee na soo raaca waa Farmaajo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/23/golaha-mustaqbalka-mucaaradka-keliya-ee-na-soo-raaca-waa-farmaajo/",
+      "published_date": "2026-09-23T04:30:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
@@ -638,20 +673,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-senate-approves-revenue-authority-bill-and-two-constitutional-commission-members/",
       "published_date": "2026-09-21T13:37:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia disaster agency chief visits Baidoa ahead of El Niño risks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-disaster-agency-chief-visits-baidoa-ahead-of-el-nino-risks/",
-      "published_date": "2026-09-21T13:35:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaalkacyo: Puntland oo ka hadashay gaadiid iyo ciidan ay qabatay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/21/gaalkacyo-puntland-oo-ka-hadashay-gaadiid-iyo-ciidan-ay-qabatay/",
-      "published_date": "2026-09-21T12:30:28+00:00",
       "category": "Local Events"
     }
   ]
