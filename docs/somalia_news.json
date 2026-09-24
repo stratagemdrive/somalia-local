@@ -1,8 +1,78 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-24T01:01:31.699458+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-24T15:46:00.983069+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Netanyahu at UNGA over the years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/24-09-sv-netanyahu-at-unga-over-the-years-il?traffic_source=rss",
+      "published_date": "2026-09-24T13:35:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fighting widens across Ethiopia as Tigray clashes escalate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate?traffic_source=rss",
+      "published_date": "2026-09-24T12:25:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump-Xi summit live: Trade, AI, Iran and Taiwan top US-China talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss",
+      "published_date": "2026-09-24T12:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who’s who in the race for the next UN Secretary-General?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/whos-who-in-the-race-for-the-next-un-secretary-general?traffic_source=rss",
+      "published_date": "2026-09-24T11:46:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Belgium and Rwanda are talking again. Is DR Congo any closer to peace?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss",
+      "published_date": "2026-09-24T11:44:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Iran threatening regional airports, and what could be the impact?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact?traffic_source=rss",
+      "published_date": "2026-09-24T11:10:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US warns of more sanctions as UN, AU urge talks in Ethiopia’s Tigray",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/ethiopia-tigray-us-sanctions-un-au-talks/",
+      "published_date": "2026-09-24T09:02:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Germany discuss security cooperation and AUSSOM transition",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-germany-discuss-security-cooperation-and-aussom-transition/",
+      "published_date": "2026-09-24T07:26:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, US discuss strengthening strategic partnership in New York",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-us-discuss-strengthening-strategic-partnership-in-new-york/",
+      "published_date": "2026-09-24T07:21:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Kuwait discuss bilateral ties and regional security at UN meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-kuwait-discuss-bilateral-ties-and-regional-security-at-un-meeting/",
+      "published_date": "2026-09-24T07:10:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "OpenAI, Anthropic CEOs call for global AI regulation at UN",
       "source": "Al Jazeera",
@@ -74,74 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks",
+      "title": "Has China received US F-35 parts by diverting an Australian shipment?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss",
-      "published_date": "2026-09-23T14:58:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
+      "published_date": "2026-09-24T13:36:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?",
+      "title": "Tunisia fuel strike highlights growing economic and political anger",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss",
-      "published_date": "2026-09-23T14:38:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
+      "published_date": "2026-09-24T12:54:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN poverty goal faces reality check",
+      "title": "Deadly attack on Indian cargo ship off coast of Oman",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/un-poverty-goal-faces-reality-check?traffic_source=rss",
-      "published_date": "2026-09-23T13:54:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss",
+      "published_date": "2026-09-24T11:44:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can flurry of New York diplomacy lead to US-Iran diplomatic breakthrough?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive?traffic_source=rss",
-      "published_date": "2026-09-23T13:52:27+00:00",
-      "category": "Diplomacy"
+      "title": "Wafdi ka socday ciidanka cirka Pakistan oo ka dhoofay garoonka Aadan Cadde",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/24/wafdi-ka-socday-ciidanka-cirka-pakistan-oo-ka-dhoofay-garoonka-aadan-cadde/",
+      "published_date": "2026-09-24T09:56:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "AFCON 2027 qualifiers: Teams, top players, schedule, format, matches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/23/africa-cup-of-nations-afcon-2027-teams-schedule-salah-hakimi-mane?traffic_source=rss",
-      "published_date": "2026-09-23T12:29:21+00:00",
-      "category": "Diplomacy"
+      "title": "Pakistan Air Force delegation concludes five-day Somalia visit",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/pakistan-air-force-delegation-concludes-five-day-somalia-visit/",
+      "published_date": "2026-09-24T07:18:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN General Assembly live: Iran ‘victim of terrorism – Pezeshkian to Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
-      "published_date": "2026-09-23T12:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ethiopia: Tigray forces seize Mekelle airport",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/tigray-forces-seize-mekelle-airport-ethiopia/",
-      "published_date": "2026-09-23T11:16:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss",
-      "published_date": "2026-09-23T11:03:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss",
-      "published_date": "2026-09-23T10:27:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World leaders say UN Security Council failing to function",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/world-leaders-say-un-security-council-failing-to-function?traffic_source=rss",
-      "published_date": "2026-09-23T10:04:35+00:00",
-      "category": "Diplomacy"
+      "title": "Wafdi Sare oo ka Socday Ciidanka Cirka Pakistan oo Muqdisho ka Ambabaxay Kaddib Booqasho Shan Maalmood ah",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wafdi-sare-oo-ka-socday-ciidanka-cirka-pakistan-oo-muqdisho-ka-ambabaxay-kaddib-booqasho-shan-maalmood-ah/",
+      "published_date": "2026-09-24T07:17:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Where is the US opening new military bases in Greenland?",
+      "title": "Hurricane Polo brings fears of heavy rain and landslides in Mexico",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss",
-      "published_date": "2026-09-22T14:31:50+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/24/hurricane-polo-hits-mexicos-coast-as-tropical-storm-nolo-approaches-hawaii?traffic_source=rss",
+      "published_date": "2026-09-24T13:02:43+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Jerusalem Daily: Israel besieges Palestinian town",
+      "title": "Could the oil shock push fuel prices even higher?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/jerusalem-daily-israel-besieges-palestinian-town?traffic_source=rss",
-      "published_date": "2026-09-22T14:30:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
-      "published_date": "2026-09-22T13:28:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss",
-      "published_date": "2026-09-22T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
-      "published_date": "2026-09-21T20:57:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
-      "published_date": "2026-09-21T20:17:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/24/could-the-oil-shock-push-fuel-prices-even-higher?traffic_source=rss",
+      "published_date": "2026-09-24T11:17:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Argentina’s Milei says UN ‘looking the other way’ on Falkland Islands",
@@ -375,46 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "China faces oil challenge as prices soar and supply options narrow",
+      "title": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/china-faces-oil-challenge-as-prices-soar-and-supply-options-narrow?traffic_source=rss",
-      "published_date": "2026-09-17T14:48:35+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss",
-      "published_date": "2026-09-17T14:10:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
-      "published_date": "2026-09-17T12:59:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘The drought has left its mark’: Slovenia’s potato lovers lament low yields",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/the-drought-has-left-its-mark-slovenias-potato-lovers-lament-low-yields?traffic_source=rss",
-      "published_date": "2026-09-17T12:29:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate change had major role in triggering Nepal floods, scientists say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
-      "published_date": "2026-09-17T11:19:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why is inflation rising again around the world?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/17/why-is-inflation-rising-again-around-the-world?traffic_source=rss",
-      "published_date": "2026-09-17T10:50:54+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
+      "published_date": "2026-09-24T13:42:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Moroccans head to polls amid economic uncertainty to decide next parliament",
@@ -513,6 +492,27 @@
       "url": "https://shabellemedia.com/somali-elders-praise-somalia-turkey-ties-and-ankaras-support/",
       "published_date": "2026-09-17T17:52:45+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
+      "published_date": "2026-09-24T14:04:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxaa looga hadlay shirka golaha wasiirrada Puntland?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/24/maxaa-looga-hadlay-shirka-golaha-wasiirrada-puntland-4/",
+      "published_date": "2026-09-24T13:08:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine Kazakh soldiers die in Caspian Sea training incident",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/24/nine-kazakh-soldiers-die-in-caspian-sea-training-incident?traffic_source=rss",
+      "published_date": "2026-09-24T13:00:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "China’s Xi visits US as Trump bets on stabilising global relations",
@@ -631,27 +631,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/09/22/cawil-sheekh-xaamid-oo-dhaliilay-dooda-shirka-garowe/",
       "published_date": "2026-09-22T06:16:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morocco’s youth take Gen Z protest demands to the polls",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/moroccos-youth-take-gen-z-protest-demands-to-the-polls?traffic_source=rss",
-      "published_date": "2026-09-22T00:07:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump speech inaudible as US networks boycott White House event",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
-      "published_date": "2026-09-21T20:38:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Military Movements Raise Tensions in Beledweyne Amid Hirshabelle Election Dispute",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/military-movements-raise-tensions-in-beledweyne-amid-hirshabelle-election-dispute/",
-      "published_date": "2026-09-21T17:57:59+00:00",
       "category": "Local Events"
     }
   ]
