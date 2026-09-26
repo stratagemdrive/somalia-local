@@ -1,8 +1,85 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-26T01:09:31.339915+00:00",
-  "story_count": 92,
+  "last_updated": "2026-09-26T14:55:49.837384+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray?traffic_source=rss",
+      "published_date": "2026-09-26T14:00:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkiye calls for UN Security Council veto to end: Could it happen?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/26/turkiye-calls-for-un-security-council-veto-to-end-could-it-happen?traffic_source=rss",
+      "published_date": "2026-09-26T13:17:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Manchester City face ‘drastic’ sanctions, says club’s former chairman",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss",
+      "published_date": "2026-09-26T12:59:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mecca defence alliance chiefs meet amid Houthi attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss",
+      "published_date": "2026-09-26T12:48:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+      "published_date": "2026-09-26T11:06:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel bans Arab parties from election: Who they are, why it matters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
+      "published_date": "2026-09-26T10:27:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China, US to open AI ‘communication channel’ after summit, White House says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss",
+      "published_date": "2026-09-26T09:02:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Students Depart for Japan on Scholarships as Embassy Highlights Education Opportunities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-students-depart-for-japan-on-scholarships-as-embassy-highlights-education-opportunities/",
+      "published_date": "2026-09-26T07:01:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali minister attends Putin reception at international culture forum in St. Petersburg",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-minister-attends-putin-reception-at-international-culture-forum-in-st-petersburg/",
+      "published_date": "2026-09-26T06:57:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopian army chief accuses Egypt, Sudan of backing groups opposing Abiy government",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ethiopian-army-chief-accuses-egypt-sudan-of-backing-groups-opposing-abiy-government/",
+      "published_date": "2026-09-26T06:54:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Danjiraha Soomaaliya ee Kenya oo Sagootiyay Arday Soomaaliyeed oo Deeq Waxbarasho ka Helay Japan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/danjiraha-soomaaliya-ee-kenya-oo-sagootiyay-arday-soomaaliyeed-oo-deeq-waxbarasho-ka-helay-japan/",
+      "published_date": "2026-09-26T06:00:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
       "source": "Al Jazeera",
@@ -67,81 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Madaxweynaha Soomaaliya oo UN-ka ka digay saameynta xiisadda Hormuz",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madaxweynaha-soomaaliya-oo-un-ka-ka-digay-saameynta-xiisadda-hormuz/",
-      "published_date": "2026-09-25T11:33:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia reaffirms support for Palestinian statehood at UN General Assembly",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-reaffirms-support-for-palestinian-statehood-at-un-general-assembly/",
-      "published_date": "2026-09-25T11:29:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
+      "title": "The intelligence war is turning against the Houthis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss",
-      "published_date": "2026-09-25T11:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
+      "published_date": "2026-09-26T13:29:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia president pledges democracy at UN amid term extension row",
+      "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
+      "published_date": "2026-09-26T13:22:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Suicide bombing in Pakistan’s Dera Ismail Khan kills at least 12 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
+      "published_date": "2026-09-26T11:33:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland forces free hijacked oil tanker Sibu 1 off Somalia’s coast, all 20 crew safe",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-democracy-un-term-extension-row/",
-      "published_date": "2026-09-25T10:23:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nepal PM says global order is broken in fighting climate crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
-      "published_date": "2026-09-25T09:11:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
-      "published_date": "2026-09-25T00:24:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
-      "published_date": "2026-09-24T23:51:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
-      "published_date": "2026-09-24T23:29:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
-      "published_date": "2026-09-24T22:32:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump and Xi hold critical talks at White House summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
-      "published_date": "2026-09-24T21:41:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss",
-      "published_date": "2026-09-24T21:15:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-free-hijacked-tanker-sibu-1-crew-safe/",
+      "published_date": "2026-09-26T08:36:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+      "title": "Pochettino regrets limited role in Balogun red card decision at World Cup",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
-      "published_date": "2026-09-24T18:19:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia, Italy discuss defence cooperation and Red Sea security",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-italy-discuss-defence-cooperation-and-red-sea-security/",
-      "published_date": "2026-09-24T16:43:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has China received US F-35 parts by diverting an Australian shipment?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
-      "published_date": "2026-09-24T13:36:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tunisia fuel strike highlights growing economic and political anger",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
-      "published_date": "2026-09-24T12:54:47+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/sports/2026/9/26/pochettino-regrets-limited-role-in-balogun-red-card-decision-at-world-cup?traffic_source=rss",
+      "published_date": "2026-09-26T08:16:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "What would a US diesel export ban mean for global fuel prices?",
@@ -368,25 +375,11 @@
       "category": "Energy"
     },
     {
-      "title": "Aston Villa compound Tottenham’s misery despite Spurs ending goal drought",
+      "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/19/aston-villa-compound-tottenhams-misery-despite-spurs-ending-goal-drought?traffic_source=rss",
-      "published_date": "2026-09-19T14:35:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Africa’s Green Revolution threatens traditional foods",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss",
-      "published_date": "2026-09-19T09:36:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Somalia highlights climate priorities at UNEP meeting",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-highlights-climate-priorities-at-unep-meeting/",
-      "published_date": "2026-09-19T07:12:53+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
+      "published_date": "2026-09-26T08:13:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Humanitarian crisis worsens in Ceuta as thousands remain stranded",
@@ -508,6 +501,55 @@
       "category": "Economy"
     },
     {
+      "title": "South West State Opens Annual Forum to Strengthen Local Governance and Public Services",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-state-opens-annual-forum-to-strengthen-local-governance-and-public-services/",
+      "published_date": "2026-09-26T14:05:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laftagareen Urges UN, International Partners to Probe Alleged Attacks in South West Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/laftagareen-urges-un-international-partners-to-probe-alleged-attacks-in-south-west-somalia/",
+      "published_date": "2026-09-26T14:03:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boosaaso: Puntland oo xukuno ku riday eedeysanayaal",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/26/boosaaso-puntland-oo-xukuno-ku-riday-eedeysanayaal/",
+      "published_date": "2026-09-26T13:56:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The media battle behind Brazil’s election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
+      "published_date": "2026-09-26T13:01:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Yaa fuliyay howlgalkii lagu furtay markabka SIBU 1?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/26/puntland-yaa-fuliyay-howlgalkii-lagu-furtay-markabka-sibu-1/",
+      "published_date": "2026-09-26T09:05:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia acting president attends General Daud basketball final in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-acting-president-attends-general-daud-basketball-final-in-mogadishu/",
+      "published_date": "2026-09-26T06:59:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland offers to rename Berbera Airport after Trump",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-offers-rename-berbera-airport-trump-us-recognition/",
+      "published_date": "2026-09-26T06:58:27+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pro-Imran Khan rally delayed amid government closures",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
@@ -596,55 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
       "published_date": "2026-09-24T19:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
-      "published_date": "2026-09-24T14:04:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxaa looga hadlay shirka golaha wasiirrada Puntland?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/24/maxaa-looga-hadlay-shirka-golaha-wasiirrada-puntland-4/",
-      "published_date": "2026-09-24T13:08:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nine Kazakh soldiers die in Caspian Sea training incident",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/nine-kazakh-soldiers-die-in-caspian-sea-training-incident?traffic_source=rss",
-      "published_date": "2026-09-24T13:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China’s Xi visits US as Trump bets on stabilising global relations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss",
-      "published_date": "2026-09-24T00:43:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China’s Xi arrives to Trump welcome on state visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
-      "published_date": "2026-09-23T23:19:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland President Says Security Cooperation With Israel Could Begin Before Year-End",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-says-security-cooperation-with-israel-could-begin-before-year-end/",
-      "published_date": "2026-09-23T17:30:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Disaster Agency Urges Early Action Ahead of El Niño Flood Risks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-disaster-agency-urges-early-action-ahead-of-el-nino-flood-risks/",
-      "published_date": "2026-09-23T08:27:56+00:00",
       "category": "Local Events"
     }
   ]
