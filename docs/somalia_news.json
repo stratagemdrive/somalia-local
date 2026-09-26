@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-25T15:46:13.113294+00:00",
-  "story_count": 91,
+  "last_updated": "2026-09-26T01:09:31.339915+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
+      "published_date": "2026-09-25T21:37:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN expands list of firms involved in illegal Israeli settlement activities",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
+      "published_date": "2026-09-25T19:21:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
+      "published_date": "2026-09-25T18:30:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
       "source": "Al Jazeera",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
+      "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss",
-      "published_date": "2026-09-24T21:08:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+      "published_date": "2026-09-26T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+      "title": "Iran says it awaits US response on seven-day roadmap to end war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-09-24T20:54:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+      "published_date": "2026-09-25T23:52:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Delegates walk out of Netanyahu’s UN speech",
+      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/delegates-walk-out-of-netanyahus-un-speech?traffic_source=rss",
-      "published_date": "2026-09-24T19:18:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+      "published_date": "2026-09-25T20:59:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
+      "published_date": "2026-09-25T19:38:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Turkiye end its military presence in northern Iraq?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss",
+      "published_date": "2026-09-25T19:06:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
+      "published_date": "2026-09-25T18:15:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Why is Canada’s PM Carney not ruling out a possible war with the US",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Deadly attack on Indian cargo ship off coast of Oman",
+      "title": "What would a US diesel export ban mean for global fuel prices?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss",
-      "published_date": "2026-09-24T11:44:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wafdi ka socday ciidanka cirka Pakistan oo ka dhoofay garoonka Aadan Cadde",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/24/wafdi-ka-socday-ciidanka-cirka-pakistan-oo-ka-dhoofay-garoonka-aadan-cadde/",
-      "published_date": "2026-09-24T09:56:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan Air Force delegation concludes five-day Somalia visit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/pakistan-air-force-delegation-concludes-five-day-somalia-visit/",
-      "published_date": "2026-09-24T07:18:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wafdi Sare oo ka Socday Ciidanka Cirka Pakistan oo Muqdisho ka Ambabaxay Kaddib Booqasho Shan Maalmood ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wafdi-sare-oo-ka-socday-ciidanka-cirka-pakistan-oo-muqdisho-ka-ambabaxay-kaddib-booqasho-shan-maalmood-ah/",
-      "published_date": "2026-09-24T07:17:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
-      "published_date": "2026-09-23T20:56:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss",
-      "published_date": "2026-09-23T19:31:12+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
+      "published_date": "2026-09-25T21:28:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
@@ -501,6 +508,41 @@
       "category": "Economy"
     },
     {
+      "title": "Pro-Imran Khan rally delayed amid government closures",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+      "published_date": "2026-09-26T00:38:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US court rules against Kalshi, says states can regulate prediction markets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
+      "published_date": "2026-09-25T23:56:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
+      "published_date": "2026-09-25T20:46:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India’s Cockroach movement joins opposition push to oust election chief",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
+      "published_date": "2026-09-25T18:16:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo xog cusub ka soo saartay furashada markabka SIBU 1",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/25/puntland-oo-xog-cusub-ka-soo-saartay-furashada-markabka-sibu-1/",
+      "published_date": "2026-09-25T17:14:34+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "India’s ‘cockroach’ movement demands election chief’s resignation",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss",
@@ -603,41 +645,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-disaster-agency-urges-early-action-ahead-of-el-nino-flood-risks/",
       "published_date": "2026-09-23T08:27:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Golaha Mustaqbalka: Mucaaradka keliya ee na soo raaca waa Farmaajo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/23/golaha-mustaqbalka-mucaaradka-keliya-ee-na-soo-raaca-waa-farmaajo/",
-      "published_date": "2026-09-23T04:30:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss",
-      "published_date": "2026-09-22T23:20:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
-      "published_date": "2026-09-22T21:30:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
-      "published_date": "2026-09-22T19:52:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PDRC Waxay U Ekaatay Madasha Fadhi-Ku-Dirirka Soomaalida",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/22/pdrc-waxay-u-ekaatay-madasha-fadhi-ku-dirirka-soomaalida/",
-      "published_date": "2026-09-22T13:36:24+00:00",
       "category": "Local Events"
     }
   ]
