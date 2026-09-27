@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-27T01:04:05.126576+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-27T15:34:33.860957+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Saudi Arabia, Qatar, Türkiye, UK and US Hold Talks on Somalia’s Security and Territorial Integrity",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/saudi-arabia-qatar-turkiye-uk-and-us-hold-talks-on-somalias-security-and-territorial-integrity/",
+      "published_date": "2026-09-27T14:44:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
+      "published_date": "2026-09-27T13:17:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sacuudiga iyo saaxiibbadiis oo Qaramada Midoobay kaga hadlay taageerada Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sacuudiga-iyo-saaxiibbadiis-oo-qaramada-midoobay-kaga-hadlay-taageerada-soomaaliya/",
+      "published_date": "2026-09-27T13:13:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
+      "published_date": "2026-09-27T08:35:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
       "source": "Al Jazeera",
@@ -29,6 +57,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
       "published_date": "2026-09-26T17:22:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Irro Names Turkey and Egypt Among Countries Opposing Somaliland Recognition",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/president-irro-names-turkey-and-egypt-among-countries-opposing-somaliland-recognition/",
+      "published_date": "2026-09-26T16:26:58+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-      "published_date": "2026-09-25T21:37:35+00:00",
-      "category": "Diplomacy"
+      "title": "Somali Army Launches Security Operation Against Al-Shabaab in Lower Shabelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-launches-security-operation-against-al-shabaab-in-lower-shabelle/",
+      "published_date": "2026-09-27T14:46:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN expands list of firms involved in illegal Israeli settlement activities",
+      "title": "Yemen’s health system could collapse in some areas, minister warns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
-      "published_date": "2026-09-25T19:21:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns?traffic_source=rss",
+      "published_date": "2026-09-27T14:07:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+      "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-      "published_date": "2026-09-25T18:30:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss",
+      "published_date": "2026-09-27T14:03:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
+      "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss",
-      "published_date": "2026-09-25T15:07:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-09-27T10:01:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iraq calls for a ‘sovereign Palestinian state’ at UNGA",
+      "title": "Plane carrying DR Congo military delegation crashes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iraq-calls-for-a-sovereign-palestinian-state-at-unga?traffic_source=rss",
-      "published_date": "2026-09-25T15:03:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
+      "published_date": "2026-09-27T09:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia PM praises security forces as Mogadishu insecurity falls 86 percent",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-praises-security-forces-as-mogadishu-insecurity-falls-86-percent/",
+      "published_date": "2026-09-27T09:36:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK police evacuate homes near RAF Fairford airbase used by US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us?traffic_source=rss",
+      "published_date": "2026-09-27T08:59:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
+      "published_date": "2026-09-27T08:49:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-09-27T08:49:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Suicide bombing in northwest Pakistan kills at least 12",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
+      "published_date": "2026-09-27T08:26:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
@@ -211,76 +281,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-free-hijacked-tanker-sibu-1-crew-safe/",
       "published_date": "2026-09-26T08:36:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-      "published_date": "2026-09-26T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it awaits US response on seven-day roadmap to end war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
-      "published_date": "2026-09-25T23:52:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
-      "published_date": "2026-09-25T20:59:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
-      "published_date": "2026-09-25T19:38:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Turkiye end its military presence in northern Iraq?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss",
-      "published_date": "2026-09-25T19:06:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
-      "published_date": "2026-09-25T18:15:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Canada’s PM Carney not ruling out a possible war with the US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/why-canada-is-not-ruling-out-a-possible-war-with-the-us?traffic_source=rss",
-      "published_date": "2026-09-25T14:05:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss",
-      "published_date": "2026-09-25T12:30:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protests in UK after arrest of far-right activist Daniel Thomas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/protests-in-uk-after-arrest-of-far-right-activist-daniel-thomas?traffic_source=rss",
-      "published_date": "2026-09-25T11:49:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis?traffic_source=rss",
-      "published_date": "2026-09-25T11:22:45+00:00",
       "category": "Military"
     },
     {
@@ -387,6 +387,27 @@
       "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
       "published_date": "2026-09-21T10:38:41+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss",
+      "published_date": "2026-09-27T15:29:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
+      "published_date": "2026-09-27T11:04:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
+      "published_date": "2026-09-27T10:26:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
@@ -508,11 +529,46 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia seeks investment to drive sustainable economic growth",
+      "title": "Somalia: Pirates captured in SIBU tanker raid escape Puntland convoy",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pirates-sibu-tanker-escape-puntland-convoy/",
+      "published_date": "2026-09-27T15:20:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "True Crime Reports: The Dosa King’s Deadly Obsession",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss",
+      "published_date": "2026-09-27T14:09:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garoowe: Lugatoor oo la kulmay madaxa Bangiga Adduunka ee Soomaaliya",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/27/garoowe-lugatoor-oo-la-kulmay-madaxa-bangiga-adduunka-ee-soomaaliya/",
+      "published_date": "2026-09-27T14:04:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Political rallies fill Brazil’s streets a week before elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
+      "published_date": "2026-09-27T12:34:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia rights body calls for justice over killing of five-year-old girl in Baidoa",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-seeks-investment-to-drive-sustainable-economic-growth/",
-      "published_date": "2026-09-20T06:38:12+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalia-rights-body-calls-for-justice-over-killing-of-five-year-old-girl-in-baidoa/",
+      "published_date": "2026-09-27T09:42:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali parliament approves judicial cooperation bill, advances Central Bank amendments",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliament-approves-judicial-cooperation-bill-advances-central-bank-amendments/",
+      "published_date": "2026-09-27T09:39:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland: Maxaabiistii Burcad-badeedda oo baxsatay",
@@ -610,48 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
       "published_date": "2026-09-25T18:16:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo xog cusub ka soo saartay furashada markabka SIBU 1",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/25/puntland-oo-xog-cusub-ka-soo-saartay-furashada-markabka-sibu-1/",
-      "published_date": "2026-09-25T17:14:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India’s ‘cockroach’ movement demands election chief’s resignation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss",
-      "published_date": "2026-09-25T12:59:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xagee ka dhacay howlgalka ay Puntland ku furatay markabka SIBU 1?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/25/xagee-ka-dhacay-howlgalka-ay-puntland-ku-furatay-markabka-sibu-1/",
-      "published_date": "2026-09-25T12:41:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia humanitarian forum concludes in Mogadishu with focus on El Niño preparedness",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-humanitarian-forum-concludes-in-mogadishu-with-focus-on-el-nino-preparedness/",
-      "published_date": "2026-09-25T12:33:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo faahfaahin ka bixisay howlgalka ay ku furatay markabka SIBU 1",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/25/puntland-oo-faahfaahin-ka-bixisay-howlgalka-ay-ku-furatay-markabka-sibu-1/",
-      "published_date": "2026-09-25T11:22:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo furatay markab ay haysatay Burcad-badeed",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/25/puntland-oo-furatay-markab-ay-haysatay-burcad-badeed/",
-      "published_date": "2026-09-25T09:21:07+00:00",
       "category": "Local Events"
     }
   ]
