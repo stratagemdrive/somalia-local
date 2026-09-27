@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-26T14:55:49.837384+00:00",
-  "story_count": 91,
+  "last_updated": "2026-09-27T01:04:05.126576+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+      "published_date": "2026-09-26T20:33:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+      "published_date": "2026-09-26T19:43:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq seeks US exemption from ban on Iranian flights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
+      "published_date": "2026-09-26T17:35:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
+      "published_date": "2026-09-26T17:22:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
       "source": "Al Jazeera",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Trump-Xi summit exposes a US disadvantage in the Global South",
+      "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south?traffic_source=rss",
-      "published_date": "2026-09-25T14:00:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
+      "published_date": "2026-09-27T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli official takes notes after UN walkout against Netanyahu",
+      "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss",
-      "published_date": "2026-09-25T12:41:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
+      "published_date": "2026-09-26T23:26:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "US seeking to revive Russia-Ukraine ceasefire talks",
+      "title": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
-      "published_date": "2026-09-25T12:09:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
+      "published_date": "2026-09-26T22:38:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
+      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
-      "published_date": "2026-09-25T12:08:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+      "published_date": "2026-09-26T19:40:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South African police discover body of 10th woman near Johannesburg",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+      "published_date": "2026-09-26T18:08:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
+      "published_date": "2026-09-26T17:15:43+00:00",
+      "category": "Military"
     },
     {
       "title": "The intelligence war is turning against the Houthis",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
+      "title": "Powerful storm brings flooding, power outages to northeastern United States",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss",
-      "published_date": "2026-09-25T10:10:33+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
+      "published_date": "2026-09-26T22:51:57+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran pitches seven-day roadmap to end conflict with US",
+      "title": "Student protesters disrupt NVIDIA AI climate panel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
-      "published_date": "2026-09-25T09:54:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+      "published_date": "2026-09-26T22:09:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi Arabia allies line up support as Houthi attacks mount",
+      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss",
-      "published_date": "2026-09-25T08:32:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-      "published_date": "2026-09-25T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss",
-      "published_date": "2026-09-24T21:07:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s triggered the latest violence in Ethiopia?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-      "published_date": "2026-09-24T19:34:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+      "published_date": "2026-09-26T21:51:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pochettino regrets limited role in Balogun red card decision at World Cup",
@@ -368,11 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "Cuba works to restore power after another major nationwide blackout",
+      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
-      "published_date": "2026-09-19T17:59:57+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+      "published_date": "2026-09-26T17:55:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
@@ -494,11 +515,25 @@
       "category": "Economy"
     },
     {
-      "title": "Canadians warm to EU ‘associate membership’ proposal",
+      "title": "Puntland: Maxaabiistii Burcad-badeedda oo baxsatay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/26/puntland-maxaabiistii-burcad-badeedda-oo-baxsatay/",
+      "published_date": "2026-09-26T20:54:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
-      "published_date": "2026-09-19T19:53:55+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
+      "published_date": "2026-09-26T20:21:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuelan government, opposition agree to work towards reform of top court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
+      "published_date": "2026-09-26T16:42:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South West State Opens Annual Forum to Strengthen Local Governance and Public Services",
@@ -617,27 +652,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/09/25/puntland-oo-furatay-markab-ay-haysatay-burcad-badeed/",
       "published_date": "2026-09-25T09:21:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Croatian court approves extradition in Nord Stream bombing case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
-      "published_date": "2026-09-24T21:47:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New York sues Polymarket over allegations of illegal gambling operations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
-      "published_date": "2026-09-24T20:15:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel moves to ban main Palestinian-led lists from election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
-      "published_date": "2026-09-24T19:54:00+00:00",
       "category": "Local Events"
     }
   ]
