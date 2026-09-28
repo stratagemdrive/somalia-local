@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-28T01:22:16.245941+00:00",
-  "story_count": 96,
+  "last_updated": "2026-09-28T18:32:59.942810+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
+      "published_date": "2026-09-28T15:35:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN commemoration of Durban Declaration: What’s on agenda, who will attend?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/un-commemoration-of-durban-declaration-whats-on-agenda-who-will-attend?traffic_source=rss",
+      "published_date": "2026-09-28T13:38:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Guddoomiyaha Golaha Shacabka oo La Kulmay Safiirka Qatar ee Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/guddoomiyaha-golaha-shacabka-oo-la-kulmay-safiirka-qatar-ee-soomaaliya/",
+      "published_date": "2026-09-28T06:01:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Official Says UAE Helped Broker Israel’s Recognition of Somaliland",
       "source": "Somali Dispatch",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+      "title": "UK police release suspects on bail after RAF arrests, investigation ongoing",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
-      "published_date": "2026-09-26T11:06:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-police-release-suspects-on-bail-after-raf-arrests-investigation-ongoing?traffic_source=rss",
+      "published_date": "2026-09-28T17:32:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel bans Arab parties from election: Who they are, why it matters",
+      "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
-      "published_date": "2026-09-26T10:27:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
+      "published_date": "2026-09-28T17:13:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "China, US to open AI ‘communication channel’ after summit, White House says",
+      "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss",
-      "published_date": "2026-09-26T09:02:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze?traffic_source=rss",
+      "published_date": "2026-09-28T17:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arming an adversary: Why Trump’s offer to sell China weapons belies US policy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/9/28/arming-an-adversary-why-trump-offer-to-sell-china-weapons-belies-us-policy?traffic_source=rss",
+      "published_date": "2026-09-28T16:55:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Korea suspects North Korean mines behind DMZ blast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/south-korea-suspects-north-korean-mines-behind-dmz-blast?traffic_source=rss",
+      "published_date": "2026-09-28T16:50:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French police fire tear gas at migrants on beach",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/french-police-fire-tear-gas-at-migrants-on-beach?traffic_source=rss",
+      "published_date": "2026-09-28T16:37:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 33 killed after Myanmar military air strike hits market",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss",
+      "published_date": "2026-09-28T15:38:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
+      "published_date": "2026-09-28T15:29:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia Defence Minister Meets Children of Fallen Soldiers Amid Allowance Concerns",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-defence-minister-meets-children-of-fallen-soldiers-amid-allowance-concerns/",
+      "published_date": "2026-09-28T09:45:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia PM denies paying Al-Shabaab to keep Mogadishu secure",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pm-denies-paying-al-shabaab-keep-mogadishu-secure/",
+      "published_date": "2026-09-28T06:38:17+00:00",
+      "category": "Military"
     },
     {
       "title": "South African police discover body of 11th woman near Johannesburg",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
+      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss",
-      "published_date": "2026-09-27T14:03:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
+      "published_date": "2026-09-28T17:43:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+      "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-09-27T10:01:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Plane carrying DR Congo military delegation crashes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
-      "published_date": "2026-09-27T09:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia PM praises security forces as Mogadishu insecurity falls 86 percent",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pm-praises-security-forces-as-mogadishu-insecurity-falls-86-percent/",
-      "published_date": "2026-09-27T09:36:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK police evacuate homes near RAF Fairford airbase used by US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us?traffic_source=rss",
-      "published_date": "2026-09-27T08:59:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
-      "published_date": "2026-09-27T08:49:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-27T08:49:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suicide bombing in northwest Pakistan kills at least 12",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
-      "published_date": "2026-09-27T08:26:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
-      "published_date": "2026-09-27T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
-      "published_date": "2026-09-26T23:26:31+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-09-28T13:53:28+00:00",
+      "category": "Energy"
     },
     {
       "title": "Powerful storm floods US Northeast, causes power outages",
@@ -375,32 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "Protesters march on Islamabad over soaring fuel prices",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
-      "published_date": "2026-09-21T17:48:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How an economic squeeze is changing everyday life and work for Iranians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
-      "published_date": "2026-09-21T14:50:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Inside Kazakhstan’s push to become a regional AI centre",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
-      "published_date": "2026-09-21T13:26:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
-      "published_date": "2026-09-21T10:38:41+00:00",
-      "category": "Energy"
+      "title": "Somalia Holds Strategic Investment Forum to Boost Bank and Private Sector Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-holds-strategic-investment-forum-to-boost-bank-and-private-sector-cooperation/",
+      "published_date": "2026-09-28T09:49:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
@@ -522,18 +515,46 @@
       "category": "Economy"
     },
     {
-      "title": "Cargo ship crashes into Chinese fishing boat near Singapore",
+      "title": "Somali army clashes with local forces for control of Baidoa",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
-      "published_date": "2026-09-21T13:18:20+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
+      "published_date": "2026-09-28T17:58:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why do Sudan’s humanitarian truces keep failing and who is to blame?",
+      "title": "Migrant children protest after police clear beach camp in Ceuta",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/why-do-sudans-humanitarian-truces-keep-failing-and-who-is-to-blame?traffic_source=rss",
-      "published_date": "2026-09-21T11:22:40+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/migrant-children-protest-after-police-clear-beach-camp-in-ceuta?traffic_source=rss",
+      "published_date": "2026-09-28T16:44:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola cases surpass 8,000 as DRC struggles to control outbreak",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak?traffic_source=rss",
+      "published_date": "2026-09-28T16:26:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Florida authorities ask court to block OpenAI’s ChatGPT over safety issues",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/florida-authorities-ask-court-to-block-openais-chatgpt-over-safety-issues?traffic_source=rss",
+      "published_date": "2026-09-28T16:24:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fresh Battle Renewed in Somalia’s Baidoa Town",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/fresh-battle-renewed-in-somalias-baidoa-town/",
+      "published_date": "2026-09-28T07:19:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia parliament speaker plans to cut pay of absent lawmakers",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-cut-pay-absent-lawmakers/",
+      "published_date": "2026-09-28T06:08:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
@@ -631,48 +652,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/south-west-state-opens-annual-forum-to-strengthen-local-governance-and-public-services/",
       "published_date": "2026-09-26T14:05:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laftagareen Urges UN, International Partners to Probe Alleged Attacks in South West Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/laftagareen-urges-un-international-partners-to-probe-alleged-attacks-in-south-west-somalia/",
-      "published_date": "2026-09-26T14:03:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boosaaso: Puntland oo xukuno ku riday eedeysanayaal",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/26/boosaaso-puntland-oo-xukuno-ku-riday-eedeysanayaal/",
-      "published_date": "2026-09-26T13:56:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The media battle behind Brazil’s election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
-      "published_date": "2026-09-26T13:01:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Yaa fuliyay howlgalkii lagu furtay markabka SIBU 1?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/26/puntland-yaa-fuliyay-howlgalkii-lagu-furtay-markabka-sibu-1/",
-      "published_date": "2026-09-26T09:05:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia acting president attends General Daud basketball final in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-acting-president-attends-general-daud-basketball-final-in-mogadishu/",
-      "published_date": "2026-09-26T06:59:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland offers to rename Berbera Airport after Trump",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-offers-rename-berbera-airport-trump-us-recognition/",
-      "published_date": "2026-09-26T06:58:27+00:00",
       "category": "Local Events"
     }
   ]
