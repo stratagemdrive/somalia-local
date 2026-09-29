@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-29T02:27:59.139625+00:00",
-  "story_count": 95,
+  "last_updated": "2026-09-29T16:50:33.823162+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "‘New path’: UK’s Burnham promises huge expansion of public services",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss",
+      "published_date": "2026-09-29T16:13:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran talks in New York: What’s the latest?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-09-29T15:09:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan takes centre stage on final day of UNGA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_sudan-takes-centre-stage-on-final-day-of-unga-290926?traffic_source=rss",
+      "published_date": "2026-09-29T14:16:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Man City’s Premier League charges: What’s the latest and what comes next?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss",
+      "published_date": "2026-09-29T13:20:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss",
+      "published_date": "2026-09-29T12:32:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
       "source": "Al Jazeera",
@@ -109,39 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+      "title": "Russian nuclear-capable bomber plane crashes, killing six people",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
-      "published_date": "2026-09-26T20:33:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss",
+      "published_date": "2026-09-29T16:03:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+      "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
-      "published_date": "2026-09-26T19:43:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
+      "published_date": "2026-09-29T15:47:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iraq seeks US exemption from ban on Iranian flights",
+      "title": "Ireland undecided on approach for next game against Israel, coach says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
-      "published_date": "2026-09-26T17:35:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
+      "published_date": "2026-09-29T15:33:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
+      "title": "Photos: French students protest, public workers strike before budget cuts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
-      "published_date": "2026-09-26T17:22:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss",
+      "published_date": "2026-09-29T14:51:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "President Irro Names Turkey and Egypt Among Countries Opposing Somaliland Recognition",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/president-irro-names-turkey-and-egypt-among-countries-opposing-somaliland-recognition/",
-      "published_date": "2026-09-26T16:26:58+00:00",
-      "category": "Diplomacy"
+      "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss",
+      "published_date": "2026-09-29T14:46:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bail for RAF base suspects suggests no evidence of ‘terror’, say analysts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/29/bail-for-raf-base-suspects-suggests-no-evidence-of-terror-say-analysts?traffic_source=rss",
+      "published_date": "2026-09-29T14:05:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Estonia says Russia ordered August arson attack on defence company",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss",
+      "published_date": "2026-09-29T13:26:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Are Houthis using new modified cruise missiles in Yemen’s war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/29/are-houthis-using-new-modified-cruise-missiles-in-yemens-war?traffic_source=rss",
+      "published_date": "2026-09-29T13:22:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US warns of growing Houthi-Al-Shabaab links and regional security risks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/us-warns-of-growing-houthi-al-shabaab-links-and-regional-security-risks/",
+      "published_date": "2026-09-29T09:14:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia: Puntland frees second tanker from pirates",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-frees-second-tanker-from-somali-pirates/",
+      "published_date": "2026-09-29T09:12:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mareykanka oo Ka Digay Xiriirka Xuutiyiinta iyo Al-Shabaab iyo Khatarta Badda Cas",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/mareykanka-oo-ka-digay-xiriirka-xuutiyiinta-iyo-al-shabaab-iyo-khatarta-badda-cas/",
+      "published_date": "2026-09-29T08:37:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia PM graduates 12th batch of Danab special forces",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-graduates-12th-batch-of-danab-special-forces/",
+      "published_date": "2026-09-29T06:39:18+00:00",
+      "category": "Military"
     },
     {
       "title": "UK: ‘Too soon’ to blame airbase plot on foreign state",
@@ -197,90 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/28/south-korea-suspects-north-korean-mines-behind-dmz-blast?traffic_source=rss",
       "published_date": "2026-09-28T16:50:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French police fire tear gas at migrants on beach",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/french-police-fire-tear-gas-at-migrants-on-beach?traffic_source=rss",
-      "published_date": "2026-09-28T16:37:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 33 killed after Myanmar military air strike hits market",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss",
-      "published_date": "2026-09-28T15:38:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
-      "published_date": "2026-09-28T15:29:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Defence Minister Meets Children of Fallen Soldiers Amid Allowance Concerns",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-defence-minister-meets-children-of-fallen-soldiers-amid-allowance-concerns/",
-      "published_date": "2026-09-28T09:45:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia PM denies paying Al-Shabaab to keep Mogadishu secure",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pm-denies-paying-al-shabaab-keep-mogadishu-secure/",
-      "published_date": "2026-09-28T06:38:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South African police discover body of 11th woman near Johannesburg",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
-      "published_date": "2026-09-28T00:25:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
-      "published_date": "2026-09-28T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s Defence Minister Issues Warning to Opposition About Mobilization",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalias-defence-minister-issues-warning-to-opposition-about-mobilization/",
-      "published_date": "2026-09-27T23:22:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly strike hits market in Yemen’s Taiz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
-      "published_date": "2026-09-27T21:00:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five arrested near UK RAF base over suspected explosives ‘terror’ plot",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/five-arrested-near-uk-raf-base-over-suspected-explosives-terror-plot?traffic_source=rss",
-      "published_date": "2026-09-27T20:52:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss",
-      "published_date": "2026-09-27T20:44:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Stuck between Israeli military checkpoints",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
-      "published_date": "2026-09-27T19:04:21+00:00",
       "category": "Military"
     },
     {
@@ -515,18 +515,60 @@
       "category": "Economy"
     },
     {
-      "title": "Why the world should care about the far right’s rise in Germany",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/why-the-world-should-care-about-the-far-rights-rise-in-germany?traffic_source=rss",
-      "published_date": "2026-09-22T11:20:38+00:00",
-      "category": "Economy"
+      "title": "Puntland: Burcad-badeed caarisiiyay markab, shaqaalihiina la degay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/29/puntland-burcad-badeed-caarisiiyay-markab-shaqaalihiina-la-degay/",
+      "published_date": "2026-09-29T16:08:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Hoggaamiyaha Koonfur Galbeed oo Qaabilay Madaxa WFP ee Soomaaliya",
+      "title": "Puntland: Burcad-badeed dishay shaqaale u dhashay Pakistan",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/29/puntland-burcad-badeed-dishay-shaqaale-u-dhashay-pakistan/",
+      "published_date": "2026-09-29T11:48:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.N. warns Baidoa fighting is worsening humanitarian crisis",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hoggaamiyaha-koonfur-galbeed-oo-qaabilay-madaxa-wfp-ee-soomaaliya/",
-      "published_date": "2026-09-22T10:28:00+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/u-n-warns-baidoa-fighting-is-worsening-humanitarian-crisis/",
+      "published_date": "2026-09-29T09:11:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo toddobaadyo gudahood ku soo furtay markab ay afduubteen burcad-badeed",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-oo-toddobaadyo-gudahood-ku-soo-furtay-markab-ay-afduubteen-burcad-badeed/",
+      "published_date": "2026-09-29T08:18:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo sheegtay in ay furatay markabka Honour 25",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/29/puntland-oo-sheegtay-in-ay-furatay-markabka-honour-25/",
+      "published_date": "2026-09-29T07:55:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laftagareen office says his forces carried out security operation in Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/laftagareen-office-says-his-forces-carried-out-security-operation-in-baidoa/",
+      "published_date": "2026-09-29T06:41:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo dil ku xukuntay rag ku eedeysan Daacish",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/29/puntland-oo-dil-ku-xukuntay-rag-ku-eedeysan-daacish/",
+      "published_date": "2026-09-29T05:49:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo weerartay markab kale oo haysatay Burcad-badeed",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/29/puntland-oo-weerartay-markab-kale-oo-haysatay-burcad-badeed/",
+      "published_date": "2026-09-29T05:18:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somaliland Says It Is Working to Regain Control of Its Airspace",
@@ -610,62 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
       "published_date": "2026-09-28T00:29:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged rape on campus sparks violent protest at Indian university",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
-      "published_date": "2026-09-27T21:17:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
-      "published_date": "2026-09-27T19:35:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wejiga koowaad ee mashruuca biyo-saarka Garoowe oo xarigga laga jaray",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/27/wejiga-koowaad-ee-mashruuca-biyo-saarka-garoowe-oo-xarigga-laga-jaray/",
-      "published_date": "2026-09-27T16:19:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Pirates captured in SIBU tanker raid escape Puntland convoy",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pirates-sibu-tanker-escape-puntland-convoy/",
-      "published_date": "2026-09-27T15:20:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "True Crime Reports: The Dosa King’s Deadly Obsession",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss",
-      "published_date": "2026-09-27T14:09:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garoowe: Lugatoor oo la kulmay madaxa Bangiga Adduunka ee Soomaaliya",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/27/garoowe-lugatoor-oo-la-kulmay-madaxa-bangiga-adduunka-ee-soomaaliya/",
-      "published_date": "2026-09-27T14:04:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Political rallies fill Brazil’s streets a week before elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
-      "published_date": "2026-09-27T12:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia rights body calls for justice over killing of five-year-old girl in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-rights-body-calls-for-justice-over-killing-of-five-year-old-girl-in-baidoa/",
-      "published_date": "2026-09-27T09:42:32+00:00",
       "category": "Local Events"
     }
   ]
