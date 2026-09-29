@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-28T18:32:59.942810+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-29T02:27:59.139625+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "published_date": "2026-09-29T01:01:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+      "published_date": "2026-09-29T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Sudan calls for sanctions to be lifted at UNGA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
+      "published_date": "2026-09-28T20:45:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss",
+      "published_date": "2026-09-28T19:42:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
       "source": "Al Jazeera",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
+      "title": "UK: ‘Too soon’ to blame airbase plot on foreign state",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray?traffic_source=rss",
-      "published_date": "2026-09-26T14:00:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
+      "published_date": "2026-09-28T23:34:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkiye calls for UN Security Council veto to end: Could it happen?",
+      "title": "Myanmar army air strike kills dozens in Rakhine state",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/26/turkiye-calls-for-un-security-council-veto-to-end-could-it-happen?traffic_source=rss",
-      "published_date": "2026-09-26T13:17:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state?traffic_source=rss",
+      "published_date": "2026-09-28T19:31:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Manchester City face ‘drastic’ sanctions, says club’s former chairman",
+      "title": "American and six Ukrainians released by India after six months in jail",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss",
-      "published_date": "2026-09-26T12:59:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mecca defence alliance chiefs meet amid Houthi attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss",
-      "published_date": "2026-09-26T12:48:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail?traffic_source=rss",
+      "published_date": "2026-09-28T19:02:53+00:00",
+      "category": "Military"
     },
     {
       "title": "UK police release suspects on bail after RAF arrests, investigation ongoing",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Palestine Action protesters arrested in Liverpool",
+      "title": "Gold falls amid rising oil prices and higher US dollar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_palestine-action-protesters-arrested-in-liverpool-270926?traffic_source=rss",
-      "published_date": "2026-09-27T18:56:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Launches Security Operation Against Al-Shabaab in Lower Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-launches-security-operation-against-al-shabaab-in-lower-shabelle/",
-      "published_date": "2026-09-27T14:46:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s health system could collapse in some areas, minister warns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns?traffic_source=rss",
-      "published_date": "2026-09-27T14:07:55+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
+      "published_date": "2026-09-28T21:34:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
@@ -387,6 +394,13 @@
       "url": "https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss",
       "published_date": "2026-09-23T10:44:52+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
+      "published_date": "2026-09-28T22:05:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia Holds Strategic Investment Forum to Boost Bank and Private Sector Cooperation",
@@ -515,6 +529,41 @@
       "category": "Economy"
     },
     {
+      "title": "Somaliland Says It Is Working to Regain Control of Its Airspace",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-says-it-is-working-to-regain-control-of-its-airspace/",
+      "published_date": "2026-09-28T22:52:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy Fighting Erupts in Baidoa as Fighter Jets and Drones Join Clashes",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/heavy-fighting-erupts-in-baidoa-as-fighter-jets-and-drones-join-clashes/",
+      "published_date": "2026-09-28T22:22:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds set up tent encampments in Madrid over housing crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
+      "published_date": "2026-09-28T21:12:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right leader Bardella refutes anti-Semitism allegations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
+      "published_date": "2026-09-28T20:52:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni?traffic_source=rss",
+      "published_date": "2026-09-28T19:45:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Somali army clashes with local forces for control of Baidoa",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
@@ -617,41 +666,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-rights-body-calls-for-justice-over-killing-of-five-year-old-girl-in-baidoa/",
       "published_date": "2026-09-27T09:42:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali parliament approves judicial cooperation bill, advances Central Bank amendments",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-approves-judicial-cooperation-bill-advances-central-bank-amendments/",
-      "published_date": "2026-09-27T09:39:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Maxaabiistii Burcad-badeedda oo baxsatay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/26/puntland-maxaabiistii-burcad-badeedda-oo-baxsatay/",
-      "published_date": "2026-09-26T20:54:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
-      "published_date": "2026-09-26T20:21:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelan government, opposition agree to work towards reform of top court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
-      "published_date": "2026-09-26T16:42:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State Opens Annual Forum to Strengthen Local Governance and Public Services",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-opens-annual-forum-to-strengthen-local-governance-and-public-services/",
-      "published_date": "2026-09-26T14:05:26+00:00",
       "category": "Local Events"
     }
   ]
