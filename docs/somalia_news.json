@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-30T01:48:43.734109+00:00",
-  "story_count": 94,
+  "last_updated": "2026-09-30T16:45:12.514179+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
+      "published_date": "2026-09-30T15:27:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Iran losing its leverage over the Strait of Hormuz?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-09-30T12:05:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali, Djibouti presidents discuss security and regional stability",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-djibouti-presidents-discuss-security-and-regional-stability/",
+      "published_date": "2026-09-30T11:25:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopian federal forces reportedly advance deep into Tigray toward Mekelle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ethiopian-federal-forces-reportedly-advance-deep-into-tigray-toward-mekelle/",
+      "published_date": "2026-09-30T07:05:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Guddoomiyaha Golaha Shacabka oo La Kulmay Safiirka Qatar ee Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddoomiyaha-golaha-shacabka-oo-la-kulmay-safiirka-qatar-ee-soomaaliya/",
-      "published_date": "2026-09-28T06:01:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Official Says UAE Helped Broker Israel’s Recognition of Somaliland",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/saudi-official-says-uae-helped-broker-israels-recognition-of-somaliland/",
-      "published_date": "2026-09-27T23:42:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ethiopian army reportedly recaptures strategic town as fighting spreads",
+      "title": "Pentagon says US troop withdrawal from Iraq is complete",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-ethiopia-tigray-escalation-sv-mp4?traffic_source=rss",
-      "published_date": "2026-09-27T20:44:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
+      "published_date": "2026-09-30T16:33:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+      "title": "Pirates kill five crew on tanker off Somalia before rescue",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pirates-kill-five-crew-mt-honour-25/",
+      "published_date": "2026-09-30T16:16:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
-      "published_date": "2026-09-27T20:34:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
+      "published_date": "2026-09-30T15:06:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Hegseth cutting 20 percent of US general and admiral positions?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions?traffic_source=rss",
+      "published_date": "2026-09-30T14:35:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
+      "published_date": "2026-09-30T12:49:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How does Iraq’s security change after US forces withdraw?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw?traffic_source=rss",
+      "published_date": "2026-09-30T12:33:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
+      "published_date": "2026-09-30T12:17:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Flydubai flight to Israel diverted after attack on pilot",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss",
+      "published_date": "2026-09-30T11:43:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "N Korea and S Korea exchange threats over DMZ blast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/n-korea-and-s-korea-exchange-threats-over-dmz-blast?traffic_source=rss",
+      "published_date": "2026-09-30T11:19:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Photos: French students protest, public workers strike before budget cuts",
+      "title": "Rainwater washes away highway in Nigeria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss",
-      "published_date": "2026-09-29T14:51:43+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
+      "published_date": "2026-09-30T12:39:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
+      "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss",
-      "published_date": "2026-09-29T14:46:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bail for RAF base suspects suggests no evidence of ‘terror’, say analysts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/29/bail-for-raf-base-suspects-suggests-no-evidence-of-terror-say-analysts?traffic_source=rss",
-      "published_date": "2026-09-29T14:05:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Estonia says Russia ordered August arson attack on defence company",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss",
-      "published_date": "2026-09-29T13:26:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Are Houthis using new modified cruise missiles in Yemen’s war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/29/are-houthis-using-new-modified-cruise-missiles-in-yemens-war?traffic_source=rss",
-      "published_date": "2026-09-29T13:22:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US warns of growing Houthi-Al-Shabaab links and regional security risks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-warns-of-growing-houthi-al-shabaab-links-and-regional-security-risks/",
-      "published_date": "2026-09-29T09:14:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Puntland frees second tanker from pirates",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-frees-second-tanker-from-somali-pirates/",
-      "published_date": "2026-09-29T09:12:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mareykanka oo Ka Digay Xiriirka Xuutiyiinta iyo Al-Shabaab iyo Khatarta Badda Cas",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mareykanka-oo-ka-digay-xiriirka-xuutiyiinta-iyo-al-shabaab-iyo-khatarta-badda-cas/",
-      "published_date": "2026-09-29T08:37:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia PM graduates 12th batch of Danab special forces",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pm-graduates-12th-batch-of-danab-special-forces/",
-      "published_date": "2026-09-29T06:39:18+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
+      "published_date": "2026-09-30T11:32:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "US consumer confidence hits its lowest level since 2014 ahead of midterms",
@@ -389,18 +403,11 @@
       "category": "Energy"
     },
     {
-      "title": "Trump pushes Russia-Ukraine ‘energy truce’: Can it work?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work?traffic_source=rss",
-      "published_date": "2026-09-23T14:49:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Powerful El Nino could cause more than 450,000 deaths, scientists say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss",
-      "published_date": "2026-09-23T10:44:52+00:00",
-      "category": "Energy"
+      "title": "Somalia finance ministry concludes consultations on 2027 national budget",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-finance-ministry-concludes-consultations-on-2027-national-budget/",
+      "published_date": "2026-09-30T07:03:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
@@ -501,25 +508,53 @@
       "category": "Economy"
     },
     {
-      "title": "Moroccans head to polls amid economic uncertainty to decide next parliament",
+      "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/moroccans-head-to-polls-amid-economic-uncertainty-to-decide-next-parliament?traffic_source=rss",
-      "published_date": "2026-09-23T14:16:37+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
+      "published_date": "2026-09-30T16:18:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK Announces £5 Million to Help Somalia Prepare for El Niño Flooding",
+      "title": "Puntland oo la dagaalamaysa kalluumeysiga sharci-darrada ah",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/30/puntland-oo-la-dagaalamaysa-kalluumeysiga-sharci-darrada-ah/",
+      "published_date": "2026-09-30T15:24:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Spain’s anti-eviction decree a fix for its housing crisis?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/is-spains-anti-eviction-decree-a-fix-to-its-housing-crisis?traffic_source=rss",
+      "published_date": "2026-09-30T14:40:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Israel is interfering in Palestinian education",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss",
+      "published_date": "2026-09-30T13:22:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Statement by UNICEF Representative in Somalia Sandra Lattouf, on the impact of the recent outbreak of violence on children in Baidoa, Somalia",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uk-announces-5-million-to-help-somalia-prepare-for-el-nino-flooding/",
-      "published_date": "2026-09-23T13:30:45+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/statement-by-unicef-representative-in-somalia-sandra-lattouf-on-the-impact-of-the-recent-outbreak-of-violence-on-children-in-baidoa-somalia/",
+      "published_date": "2026-09-30T10:09:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UEFA’s Ceferin says FIFA trust still broken after Infantino investment row",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/23/uefas-ceferin-says-fifa-trust-still-broken-after-infantino-investment-row?traffic_source=rss",
-      "published_date": "2026-09-23T11:38:35+00:00",
-      "category": "Economy"
+      "title": "Ciidamada Badda Puntland oo Hawlgallo ka Bilaabay Xeebaha",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-badda-puntland-oo-hawlgallo-ka-bilaabay-xeebaha/",
+      "published_date": "2026-09-30T07:46:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Senate secretary-general attends African parliamentary officials’ meeting in South Africa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-senate-secretary-general-attends-african-parliamentary-officials-meeting-in-south-africa/",
+      "published_date": "2026-09-30T07:02:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
@@ -610,55 +645,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/09/29/puntland-oo-dil-ku-xukuntay-rag-ku-eedeysan-daacish/",
       "published_date": "2026-09-29T05:49:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo weerartay markab kale oo haysatay Burcad-badeed",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/29/puntland-oo-weerartay-markab-kale-oo-haysatay-burcad-badeed/",
-      "published_date": "2026-09-29T05:18:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Says It Is Working to Regain Control of Its Airspace",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-says-it-is-working-to-regain-control-of-its-airspace/",
-      "published_date": "2026-09-28T22:52:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy Fighting Erupts in Baidoa as Fighter Jets and Drones Join Clashes",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/heavy-fighting-erupts-in-baidoa-as-fighter-jets-and-drones-join-clashes/",
-      "published_date": "2026-09-28T22:22:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds set up tent encampments in Madrid over housing crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
-      "published_date": "2026-09-28T21:12:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right leader Bardella refutes anti-Semitism allegations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
-      "published_date": "2026-09-28T20:52:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni?traffic_source=rss",
-      "published_date": "2026-09-28T19:45:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali army clashes with local forces for control of Baidoa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
-      "published_date": "2026-09-28T17:58:11+00:00",
       "category": "Local Events"
     }
   ]
