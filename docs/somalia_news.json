@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-01T01:47:21.458645+00:00",
-  "story_count": 92,
+  "last_updated": "2026-10-01T17:19:19.919174+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Explosions heard in Addis Ababa after Ethiopia bans drone flights",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/headlines/addis-ababa-explosions-ethiopia-drone-flight-ban/",
+      "published_date": "2026-10-01T16:25:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia to withdraw over 3,000 troops from Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-3000troop-withdrawal-somalia/",
+      "published_date": "2026-10-01T15:49:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
       "source": "Al Jazeera",
@@ -130,18 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+      "title": "British police arrest UK-Iranian national over airbase incident",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
-      "published_date": "2026-09-29T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/1/british-police-arrest-uk-iranian-national-over-airbase-incident?traffic_source=rss",
+      "published_date": "2026-10-01T16:55:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "South Sudan calls for sanctions to be lifted at UNGA",
+      "title": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
-      "published_date": "2026-09-28T20:45:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss",
+      "published_date": "2026-10-01T16:19:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
+      "published_date": "2026-10-01T15:47:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Western militaries are undermining Ukraine’s defence, experts say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss",
+      "published_date": "2026-10-01T15:00:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
+      "published_date": "2026-10-01T13:25:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Activists protest Indian police raid over kite-flying event for Palestine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss",
+      "published_date": "2026-10-01T13:04:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zimbabwe businessman Wicknell Chivayo killed in helicopter crash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/zimbabwe-businessman-wicknell-chivayo-killed-in-helicopter-crash?traffic_source=rss",
+      "published_date": "2026-10-01T12:40:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Brigadier General Ivan FALASCA formally assumes command of the European Union Training Mission in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/brigadier-general-ivan-falasca-formally-assumes-command-of-the-european-union-training-mission-in-somalia/",
+      "published_date": "2026-10-01T12:33:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral held for DR Congo politician killed after defending Ebola response",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-dr-congo-politician-killed-after-defending-ebola-response?traffic_source=rss",
+      "published_date": "2026-10-01T12:07:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE investigates possible ‘terrorist’ link in attack on flight to Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss",
+      "published_date": "2026-10-01T11:46:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey, major power in Somalia, drawn into internal conflicts",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-major-power-somalia-drawn-into-internal-conflict/",
+      "published_date": "2026-10-01T11:10:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE condemns killing of oil tanker crew members off Somalia coast",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uae-condemns-killing-of-oil-tanker-crew-members-off-somalia-coast/",
+      "published_date": "2026-10-01T08:39:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia plans to pull out thousands of troops from Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ethiopia-plans-to-pull-out-thousands-of-troops-from-somalia/",
+      "published_date": "2026-10-01T08:11:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
@@ -190,97 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
       "published_date": "2026-09-30T16:33:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pirates kill five crew on tanker off Somalia before rescue",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pirates-kill-five-crew-mt-honour-25/",
-      "published_date": "2026-09-30T16:16:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
-      "published_date": "2026-09-30T15:06:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Hegseth cutting 20 percent of US general and admiral positions?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions?traffic_source=rss",
-      "published_date": "2026-09-30T14:35:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
-      "published_date": "2026-09-30T12:49:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How does Iraq’s security change after US forces withdraw?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw?traffic_source=rss",
-      "published_date": "2026-09-30T12:33:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
-      "published_date": "2026-09-30T12:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Flydubai flight to Israel diverted after attack on pilot",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss",
-      "published_date": "2026-09-30T11:43:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "N Korea and S Korea exchange threats over DMZ blast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/n-korea-and-s-korea-exchange-threats-over-dmz-blast?traffic_source=rss",
-      "published_date": "2026-09-30T11:19:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-      "published_date": "2026-09-30T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says he plans to campaign for 32 days before midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-      "published_date": "2026-09-29T23:53:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
-      "published_date": "2026-09-29T23:06:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French students clash with police as protests over education cuts spread",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss",
-      "published_date": "2026-09-29T21:09:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What we know about RAF Fairford ‘bomb plot’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss",
-      "published_date": "2026-09-29T20:55:20+00:00",
       "category": "Military"
     },
     {
@@ -389,20 +389,6 @@
       "category": "Energy"
     },
     {
-      "title": "Hurricane Polo brings fears of heavy rain and landslides in Mexico",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/hurricane-polo-hits-mexicos-coast-as-tropical-storm-nolo-approaches-hawaii?traffic_source=rss",
-      "published_date": "2026-09-24T13:02:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Could the oil shock push fuel prices even higher?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/24/could-the-oil-shock-push-fuel-prices-even-higher?traffic_source=rss",
-      "published_date": "2026-09-24T11:17:48+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Somalia finance ministry concludes consultations on 2027 national budget",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-finance-ministry-concludes-consultations-on-2027-national-budget/",
@@ -487,25 +473,32 @@
       "category": "Economy"
     },
     {
-      "title": "Soomaaliya iyo WFP oo kala saxiixday heshiis lagu xoojinayo maaraynta musiibooyinka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-iyo-wfp-oo-kala-saxiixday-heshiis-lagu-xoojinayo-maaraynta-musiibooyinka-2/",
-      "published_date": "2026-09-24T16:46:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somalia, WFP sign two-year deal to strengthen disaster response",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-wfp-sign-two-year-deal-to-strengthen-disaster-response/",
-      "published_date": "2026-09-24T16:38:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
+      "title": "Israel’s Supreme Court advises Arab party leader to drop election bid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
-      "published_date": "2026-09-24T13:42:05+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid?traffic_source=rss",
+      "published_date": "2026-10-01T17:09:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
+      "published_date": "2026-10-01T13:06:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Botswana at 60 challenges the story of postcolonial African failure",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure?traffic_source=rss",
+      "published_date": "2026-10-01T12:54:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Britain urges restraint as fighting flares in Somalia’s Baidoa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/britain-urges-restraint-as-fighting-flares-in-somalias-baidoa/",
+      "published_date": "2026-10-01T08:15:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Puntland oo soo bandhigtay markabkii Burcad-badeedda laga furtay ee SIBU 1",
@@ -617,34 +610,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagareen-accuses-turkiye-six-airstrikes-baidoa/",
       "published_date": "2026-09-29T18:21:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Burcad-badeed caarisiiyay markab, shaqaalihiina la degay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/29/puntland-burcad-badeed-caarisiiyay-markab-shaqaalihiina-la-degay/",
-      "published_date": "2026-09-29T16:08:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Burcad-badeed dishay shaqaale u dhashay Pakistan",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/29/puntland-burcad-badeed-dishay-shaqaale-u-dhashay-pakistan/",
-      "published_date": "2026-09-29T11:48:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.N. warns Baidoa fighting is worsening humanitarian crisis",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/u-n-warns-baidoa-fighting-is-worsening-humanitarian-crisis/",
-      "published_date": "2026-09-29T09:11:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo toddobaadyo gudahood ku soo furtay markab ay afduubteen burcad-badeed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-oo-toddobaadyo-gudahood-ku-soo-furtay-markab-ay-afduubteen-burcad-badeed/",
-      "published_date": "2026-09-29T08:18:52+00:00",
       "category": "Local Events"
     }
   ]
