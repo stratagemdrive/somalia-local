@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-09-30T16:45:12.514179+00:00",
+  "last_updated": "2026-10-01T01:47:21.458645+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
+      "published_date": "2026-09-30T19:49:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How does Trump’s White House AI accord work?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
+      "published_date": "2026-09-30T19:44:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s president Hassan Sheikh turns to Ethiopia, Djibouti and Egypt as Baidoa crisis tests regional alliances",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-ethiopia-djibouti-egypt-baidoa-crisis/",
+      "published_date": "2026-09-30T17:02:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
       "source": "Al Jazeera",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi",
+      "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss",
-      "published_date": "2026-09-28T19:42:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
+      "published_date": "2026-10-01T01:11:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
-      "published_date": "2026-09-28T15:35:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "published_date": "2026-10-01T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN commemoration of Durban Declaration: What’s on agenda, who will attend?",
+      "title": "Russian drone crashes into Kyiv playground without exploding",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/un-commemoration-of-durban-declaration-whats-on-agenda-who-will-attend?traffic_source=rss",
-      "published_date": "2026-09-28T13:38:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+      "published_date": "2026-09-30T22:13:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+      "published_date": "2026-09-30T21:01:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks across Gaza kill at least eight",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+      "published_date": "2026-09-30T20:12:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+      "published_date": "2026-09-30T19:43:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Pentagon says US troop withdrawal from Iraq is complete",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US troops fully withdraw from Baghdad base after two decades",
+      "title": "US Senate rejects bill targeting AI data centre electricity costs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
-      "published_date": "2026-09-29T20:00:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Iraq handle future security challenges alone?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/29/can-iraq-handle-future-security-challenges-alone?traffic_source=rss",
-      "published_date": "2026-09-29T19:05:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland oo ka hadashay badmaaxiintii ay dishay Burcad-badeedda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/29/puntland-oo-ka-hadashay-badmaaxiintii-ay-dishay-burcad-badeedda/",
-      "published_date": "2026-09-29T18:42:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian nuclear-capable bomber plane crashes, killing six people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss",
-      "published_date": "2026-09-29T16:03:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
-      "published_date": "2026-09-29T15:47:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ireland undecided on approach for next game against Israel, coach says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
-      "published_date": "2026-09-29T15:33:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
+      "published_date": "2026-09-30T22:58:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Rainwater washes away highway in Nigeria",
@@ -396,13 +403,6 @@
       "category": "Energy"
     },
     {
-      "title": "Argentina’s Milei says UN ‘looking the other way’ on Falkland Islands",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss",
-      "published_date": "2026-09-23T19:12:27+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Somalia finance ministry concludes consultations on 2027 national budget",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-finance-ministry-concludes-consultations-on-2027-national-budget/",
@@ -506,6 +506,27 @@
       "url": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
       "published_date": "2026-09-24T13:42:05+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Puntland oo soo bandhigtay markabkii Burcad-badeedda laga furtay ee SIBU 1",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/09/30/puntland-oo-soo-bandhigtay-markabkii-burcad-badeedda-laga-furtay-ee-sibu-1/",
+      "published_date": "2026-09-30T20:10:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/french-court-sentences-13-men-over-deadliest-small-boat-crossing-to-uk?traffic_source=rss",
+      "published_date": "2026-09-30T19:41:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Norway launches probe into 11 senior officials over US Epstein files links",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/norway-launches-probe-into-11-senior-officials-over-us-epstein-files-links?traffic_source=rss",
+      "published_date": "2026-09-30T19:10:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
@@ -624,27 +645,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/puntland-oo-toddobaadyo-gudahood-ku-soo-furtay-markab-ay-afduubteen-burcad-badeed/",
       "published_date": "2026-09-29T08:18:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo sheegtay in ay furatay markabka Honour 25",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/29/puntland-oo-sheegtay-in-ay-furatay-markabka-honour-25/",
-      "published_date": "2026-09-29T07:55:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laftagareen office says his forces carried out security operation in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/laftagareen-office-says-his-forces-carried-out-security-operation-in-baidoa/",
-      "published_date": "2026-09-29T06:41:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo dil ku xukuntay rag ku eedeysan Daacish",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/09/29/puntland-oo-dil-ku-xukuntay-rag-ku-eedeysan-daacish/",
-      "published_date": "2026-09-29T05:49:27+00:00",
       "category": "Local Events"
     }
   ]
