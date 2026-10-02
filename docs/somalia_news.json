@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-02T01:57:44.707105+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-02T16:34:17.510296+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
+      "published_date": "2026-10-02T16:06:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
+      "published_date": "2026-10-02T12:47:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss",
+      "published_date": "2026-10-02T12:27:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Washington’s diplomacy in Sudan has backfired",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
+      "published_date": "2026-10-02T11:41:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt expels Ethiopian embassy adviser in diplomatic retaliation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/egypt-expels-ethiopian-embassy-adviser-in-diplomatic-retaliation/",
+      "published_date": "2026-10-02T07:37:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "African Union urges restraint as Ethiopia-Eritrea-Egypt tensions rise",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/african-union-urges-restraint-as-ethiopia-eritrea-egypt-tensions-rise/",
+      "published_date": "2026-10-02T07:35:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia receives new Turkish, EU ambassadors",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-receives-new-turkish-eu-ambassadors/",
+      "published_date": "2026-10-02T07:27:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The filmmaker taking on Kenya’s colonised tea plantations",
       "source": "Al Jazeera",
@@ -95,53 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
+      "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
-      "published_date": "2026-09-29T23:49:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
+      "published_date": "2026-10-02T13:53:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+      "title": "FlyDubai pilot describes opening cockpit door during attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
-      "published_date": "2026-09-29T23:43:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN extends mandate of Gang Suppression Force in Haiti for six months",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss",
-      "published_date": "2026-09-29T22:38:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
-      "published_date": "2026-09-29T21:24:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
-      "published_date": "2026-09-29T20:48:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘New path’: UK’s Burnham promises huge expansion of public services",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss",
-      "published_date": "2026-09-29T16:13:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-Iran talks in New York: What’s the latest?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-09-29T15:09:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-describes-opening-cockpit-door-during-attack?traffic_source=rss",
+      "published_date": "2026-10-02T11:23:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ethiopia plans to pull out thousands of troops from Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ethiopia-plans-to-pull-out-thousands-of-troops-from-somalia/",
-      "published_date": "2026-10-01T08:11:19+00:00",
-      "category": "Military"
+      "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
+      "published_date": "2026-10-02T14:14:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
+      "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
-      "published_date": "2026-10-01T01:11:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss",
+      "published_date": "2026-10-02T13:16:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump says US may ask Europe to release diesel reserves",
@@ -389,11 +403,18 @@
       "category": "Energy"
     },
     {
-      "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
+      "title": "Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-25T10:49:48+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_taiwan-coast-guard-fires-water-cannon-on-chinese-021026?traffic_source=rss",
+      "published_date": "2026-10-02T16:23:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US job growth slows as unemployment rises before midterm elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss",
+      "published_date": "2026-10-02T16:20:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Brazilian government calls for probe into US funding of far-right causes",
@@ -473,11 +494,67 @@
       "category": "Economy"
     },
     {
-      "title": "Humanitarian crisis worsens in Ceuta as thousands remain stranded",
+      "title": "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/humanitarian-crisis-worsens-in-ceuta-as-thousands-remain-stranded?traffic_source=rss",
-      "published_date": "2026-09-25T11:23:59+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/does-the-punishment-fit-the-crime-controversy-erupts-around-cornell?traffic_source=rss",
+      "published_date": "2026-10-02T16:02:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
+      "published_date": "2026-10-02T15:01:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
+      "published_date": "2026-10-02T13:50:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss",
+      "published_date": "2026-10-02T12:56:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What’s behind France’s school protests?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-reported-natascha-paris-school-fr?traffic_source=rss",
+      "published_date": "2026-10-02T11:42:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Support for Merz plunges after CDU’s losses to Germany’s right and left",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/just-one-in-10-germans-thinks-merz-is-up-to-the-job-after-election-wipeout?traffic_source=rss",
+      "published_date": "2026-10-02T11:31:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Agaasimaha NISA oo Dhuusamareeb Kula Kulmay Qaybaha Kala Duwan ee Bulshada",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/agaasimaha-nisa-oo-dhuusamareeb-kula-kulmay-qaybaha-kala-duwan-ee-bulshada/",
+      "published_date": "2026-10-02T11:21:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali parliament speaker arrives in Arusha for regional, global parliamentary meetings",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliament-speaker-arrives-in-arusha-for-regional-global-parliamentary-meetings/",
+      "published_date": "2026-10-02T07:40:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baidoa talks focus on political reconciliation and stability in South West Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/baidoa-talks-focus-on-political-reconciliation-and-stability-in-south-west-somalia/",
+      "published_date": "2026-10-02T07:39:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Liibaan Shuluq: Burcad-badeedda ka soo qaxay Puntland ku badbaadimayaan Galmudug",
@@ -554,69 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/30/is-spains-anti-eviction-decree-a-fix-to-its-housing-crisis?traffic_source=rss",
       "published_date": "2026-09-30T14:40:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Israel is interfering in Palestinian education",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss",
-      "published_date": "2026-09-30T13:22:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Statement by UNICEF Representative in Somalia Sandra Lattouf, on the impact of the recent outbreak of violence on children in Baidoa, Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/statement-by-unicef-representative-in-somalia-sandra-lattouf-on-the-impact-of-the-recent-outbreak-of-violence-on-children-in-baidoa-somalia/",
-      "published_date": "2026-09-30T10:09:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidamada Badda Puntland oo Hawlgallo ka Bilaabay Xeebaha",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-badda-puntland-oo-hawlgallo-ka-bilaabay-xeebaha/",
-      "published_date": "2026-09-30T07:46:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Senate secretary-general attends African parliamentary officials’ meeting in South Africa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-senate-secretary-general-attends-african-parliamentary-officials-meeting-in-south-africa/",
-      "published_date": "2026-09-30T07:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
-      "published_date": "2026-09-29T23:28:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court allows Trump to continue third-country deportations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
-      "published_date": "2026-09-29T22:06:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/spain-protests-evicted-87-year-old-woman-to-return-to-madrid-home?traffic_source=rss",
-      "published_date": "2026-09-29T21:02:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Government Blocks Planned Media Conference in Borama, Raising Press Freedom Debate",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-government-blocks-planned-media-conference-in-borama-raising-press-freedom-debate/",
-      "published_date": "2026-09-29T19:34:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madrid residents feel the impact of Spain’s housing crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/madrid-residents-feel-the-impact-of-spains-housing-crisis?traffic_source=rss",
-      "published_date": "2026-09-29T18:57:52+00:00",
       "category": "Local Events"
     }
   ]
