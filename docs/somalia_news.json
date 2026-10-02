@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-01T17:19:19.919174+00:00",
-  "story_count": 87,
+  "last_updated": "2026-10-02T01:57:44.707105+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "The filmmaker taking on Kenya’s colonised tea plantations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss",
+      "published_date": "2026-10-01T20:29:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICC ends contract with French insurer amid US sanctions threat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
+      "published_date": "2026-10-01T20:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+      "published_date": "2026-10-01T20:10:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mustafa Agjar Re-Elected to Lead Ethiopia’s Somali Regional State",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/mustafa-agjar-re-elected-to-lead-ethiopias-somali-regional-state/",
+      "published_date": "2026-10-01T17:29:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Explosions heard in Addis Ababa after Ethiopia bans drone flights",
       "source": "Somali Guardian",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sudan takes centre stage on final day of UNGA",
+      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_sudan-takes-centre-stage-on-final-day-of-unga-290926?traffic_source=rss",
-      "published_date": "2026-09-29T14:16:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+      "published_date": "2026-10-02T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Man City’s Premier League charges: What’s the latest and what comes next?",
+      "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss",
-      "published_date": "2026-09-29T13:20:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+      "published_date": "2026-10-01T23:44:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
+      "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss",
-      "published_date": "2026-09-29T12:32:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
+      "published_date": "2026-10-01T21:33:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
-      "published_date": "2026-09-29T01:01:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
+      "published_date": "2026-10-01T20:49:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral held for Palestinian man killed in the occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-10-01T20:45:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss",
+      "published_date": "2026-10-01T19:03:14+00:00",
+      "category": "Military"
     },
     {
       "title": "British police arrest UK-Iranian national over airbase incident",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "title": "Trump says US may ask Europe to release diesel reserves",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
-      "published_date": "2026-10-01T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone crashes into Kyiv playground without exploding",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
-      "published_date": "2026-09-30T22:13:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
-      "published_date": "2026-09-30T21:01:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks across Gaza kill at least eight",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
-      "published_date": "2026-09-30T20:12:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
-      "published_date": "2026-09-30T19:43:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon says US troop withdrawal from Iraq is complete",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
-      "published_date": "2026-09-30T16:33:02+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
+      "published_date": "2026-10-02T01:23:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "US Senate rejects bill targeting AI data centre electricity costs",
@@ -389,6 +396,20 @@
       "category": "Energy"
     },
     {
+      "title": "Brazilian government calls for probe into US funding of far-right causes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
+      "published_date": "2026-10-01T22:48:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manchester City breaches need tax implication answers, UK Parliament told",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss",
+      "published_date": "2026-10-01T20:08:46+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Somalia finance ministry concludes consultations on 2027 national budget",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-finance-ministry-concludes-consultations-on-2027-national-budget/",
@@ -459,18 +480,11 @@
       "category": "Economy"
     },
     {
-      "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
-      "published_date": "2026-09-25T00:23:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US and China presidents discuss cooperation, trade and AI risks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
-      "published_date": "2026-09-24T18:19:01+00:00",
-      "category": "Economy"
+      "title": "Liibaan Shuluq: Burcad-badeedda ka soo qaxay Puntland ku badbaadimayaan Galmudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/01/liibaan-shuluq-burcad-badeedda-ka-soo-qaxay-puntland-ku-badbaadimayaan-galmudug/",
+      "published_date": "2026-10-01T17:24:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel’s Supreme Court advises Arab party leader to drop election bid",
@@ -603,13 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/madrid-residents-feel-the-impact-of-spains-housing-crisis?traffic_source=rss",
       "published_date": "2026-09-29T18:57:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Laftagareen accuses Türkiye of six airstrikes on Baidoa",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagareen-accuses-turkiye-six-airstrikes-baidoa/",
-      "published_date": "2026-09-29T18:21:28+00:00",
       "category": "Local Events"
     }
   ]
