@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-04T02:21:32.380671+00:00",
-  "story_count": 90,
+  "last_updated": "2026-10-04T15:43:00.619497+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Somali president: Ethiopia can access our port, but must negotiate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
+      "published_date": "2026-10-04T13:22:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Highlights Human Rights Reforms at UN Council Meeting in Geneva",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-highlights-human-rights-reforms-at-un-council-meeting-in-geneva/",
+      "published_date": "2026-10-04T08:22:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Condemns Attack on Power Facility Serving Prophet’s Mosque in Medina",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-condemns-attack-on-power-facility-serving-prophets-mosque-in-medina/",
+      "published_date": "2026-10-04T08:20:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
       "source": "Al Jazeera",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia receives new Turkish, EU ambassadors",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-receives-new-turkish-eu-ambassadors/",
-      "published_date": "2026-10-02T07:27:13+00:00",
-      "category": "Diplomacy"
+      "title": "Why does the US want to deport Salah Sarsour?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
+      "published_date": "2026-10-04T15:36:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "The filmmaker taking on Kenya’s colonised tea plantations",
+      "title": "Iran tells US: there is ‘no military solution’ to end the war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss",
-      "published_date": "2026-10-01T20:29:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
+      "published_date": "2026-10-04T15:06:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "ICC ends contract with French insurer amid US sanctions threat",
+      "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
-      "published_date": "2026-10-01T20:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
+      "published_date": "2026-10-04T13:42:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What are the five questions being asked regarding the Flydubai attack?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/what-are-the-five-questions-being-asked-regarding-the-flydubai-attack?traffic_source=rss",
+      "published_date": "2026-10-04T13:11:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
+      "published_date": "2026-10-04T12:48:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
+      "published_date": "2026-10-04T11:58:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
+      "published_date": "2026-10-04T11:05:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is the Sudanese army gaining momentum against the RSF?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
+      "published_date": "2026-10-04T10:56:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
@@ -225,62 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
       "published_date": "2026-10-03T10:48:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is the mystery co-pilot behind the Flydubai attack?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss",
-      "published_date": "2026-10-03T09:25:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s army claims over 1,500 Houthi casualties, attacks Sanaa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
-      "published_date": "2026-10-03T08:36:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
-      "published_date": "2026-10-03T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea fires ballistic missile towards the sea, South Korea says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
-      "published_date": "2026-10-02T23:55:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
-      "published_date": "2026-10-02T22:50:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Carney’s economic overhaul is clashing with Canada’s unions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss",
-      "published_date": "2026-10-02T22:14:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss",
-      "published_date": "2026-10-02T21:59:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
-      "published_date": "2026-10-02T21:53:17+00:00",
       "category": "Military"
     },
     {
@@ -396,6 +396,13 @@
       "category": "Energy"
     },
     {
+      "title": "Somali President Pitches Investment Opportunities at Alamein-Africa Forum",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-pitches-investment-opportunities-at-alamein-africa-forum/",
+      "published_date": "2026-10-04T08:17:02+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
@@ -473,25 +480,60 @@
       "category": "Economy"
     },
     {
-      "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
+      "title": "‘We need freedom’: New Delhi women protest sexual violence",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss",
-      "published_date": "2026-09-27T15:29:19+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/we-need-freedom-new-delhi-women-protest-sexual-violence?traffic_source=rss",
+      "published_date": "2026-10-04T15:20:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+      "title": "Dodik urges Serb turnout against ‘Sarajevo crooks’ in Bosnia election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
-      "published_date": "2026-09-27T11:04:30+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/dodik-urges-serb-turnout-against-sarajevo-crooks-in-bosnia-election?traffic_source=rss",
+      "published_date": "2026-10-04T15:16:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
+      "title": "Lula and Bolsonaro vote in Brazil’s polarised presidential election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
-      "published_date": "2026-09-27T10:26:21+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/lula-and-bolsonaro-vote-in-brazils-polarised-presidential-election?traffic_source=rss",
+      "published_date": "2026-10-04T15:05:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+      "published_date": "2026-10-04T11:15:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia won’t accept Israeli presence in Somaliland ‘under any circumstances,’ president says",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-israeli-presence-somaliland-president/",
+      "published_date": "2026-10-04T10:44:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain protests flare after housing bill rejected: Will it cause snap poll?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss",
+      "published_date": "2026-10-04T10:16:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu’s fight to own the election narrative",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss",
+      "published_date": "2026-10-04T10:05:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Taliye shaqo joojin lagu sameeyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/04/puntland-taliye-shaqo-joojin-lagu-sameeyay/",
+      "published_date": "2026-10-04T06:09:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
@@ -575,62 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
       "published_date": "2026-10-03T10:46:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish court detains football refereeing chief pending corruption trial",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/turkish-court-detains-football-refereeing-chief-pending-corruption-trial?traffic_source=rss",
-      "published_date": "2026-10-03T08:19:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia, Kenya Parliament Speakers Meet in Tanzania to Strengthen Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-kenya-parliament-speakers-meet-in-tanzania-to-strengthen-cooperation/",
-      "published_date": "2026-10-03T07:14:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yaa ku guuleystay doorashadii ku celiska ahayd ee Galmudug?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/03/yaa-ku-guuleystay-doorashadii-ku-celiska-ahayd-ee-galmudug/",
-      "published_date": "2026-10-03T06:16:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bosnia’s elections explained",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss",
-      "published_date": "2026-10-02T21:21:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab party leader withdraws from Israeli elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
-      "published_date": "2026-10-02T19:10:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Galmudug Re-run Election Results Announced",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/galmudug-re-run-election-results-announced/",
-      "published_date": "2026-10-02T18:28:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-      "published_date": "2026-10-02T18:11:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
-      "published_date": "2026-10-02T17:43:30+00:00",
       "category": "Local Events"
     }
   ]
