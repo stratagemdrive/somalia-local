@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-03T15:05:50.092113+00:00",
-  "story_count": 93,
+  "last_updated": "2026-10-04T02:21:32.380671+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
+      "published_date": "2026-10-04T01:41:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serbian populist leader Vucic launches campaign for prime minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss",
+      "published_date": "2026-10-04T00:26:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mamdani, Irish PM play bingo, ‘split the G’ in New York",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss",
+      "published_date": "2026-10-04T00:07:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
+      "published_date": "2026-10-03T16:25:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
       "source": "Al Jazeera",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+      "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
-      "published_date": "2026-10-01T20:10:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+      "published_date": "2026-10-04T00:00:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mustafa Agjar Re-Elected to Lead Ethiopia’s Somali Regional State",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/mustafa-agjar-re-elected-to-lead-ethiopias-somali-regional-state/",
-      "published_date": "2026-10-01T17:29:51+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+      "published_date": "2026-10-03T21:15:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Explosions heard in Addis Ababa after Ethiopia bans drone flights",
+      "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+      "published_date": "2026-10-03T20:10:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
+      "published_date": "2026-10-03T18:03:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
+      "published_date": "2026-10-03T17:25:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US air operations killed or wounded at least 216 civilians in Somalia",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/headlines/addis-ababa-explosions-ethiopia-drone-flight-ban/",
-      "published_date": "2026-10-01T16:25:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/us-airstrikes-somalia-216-civilians-killed-wounded/",
+      "published_date": "2026-10-03T17:21:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia to withdraw over 3,000 troops from Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-3000troop-withdrawal-somalia/",
-      "published_date": "2026-10-01T15:49:43+00:00",
-      "category": "Diplomacy"
+      "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+      "published_date": "2026-10-03T16:17:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
+      "published_date": "2026-10-03T16:16:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
@@ -225,62 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
       "published_date": "2026-10-02T21:53:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
-      "published_date": "2026-10-02T20:54:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-      "published_date": "2026-10-02T18:51:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
-      "published_date": "2026-10-02T13:53:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FlyDubai pilot describes opening cockpit door during attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-describes-opening-cockpit-door-during-attack?traffic_source=rss",
-      "published_date": "2026-10-02T11:23:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
-      "published_date": "2026-10-02T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-      "published_date": "2026-10-01T23:44:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
-      "published_date": "2026-10-01T21:33:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
-      "published_date": "2026-10-01T20:49:45+00:00",
       "category": "Military"
     },
     {
@@ -396,25 +396,11 @@
       "category": "Energy"
     },
     {
-      "title": "Powerful storm brings flooding, power outages to northeastern United States",
+      "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
-      "published_date": "2026-09-26T22:51:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Student protesters disrupt NVIDIA AI climate panel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
-      "published_date": "2026-09-26T22:09:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
-      "published_date": "2026-09-26T21:51:56+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
+      "published_date": "2026-10-04T01:55:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia, Norway Discuss Economic Growth and Financial Reforms in Mogadishu",
@@ -508,11 +494,39 @@
       "category": "Economy"
     },
     {
-      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+      "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
-      "published_date": "2026-09-26T17:55:22+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
+      "published_date": "2026-10-04T00:07:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is the CJP changing India’s political landscape?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
+      "published_date": "2026-10-03T19:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia-U.S. Relations Face New Strain Ahead of the American Midterm Elections",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalia-u-s-relations-face-new-strain-ahead-of-the-american-midterm-elections/",
+      "published_date": "2026-10-03T18:43:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams?traffic_source=rss",
+      "published_date": "2026-10-03T18:13:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
+      "published_date": "2026-10-03T17:31:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What to know about Brazil’s 2026 presidential election",
@@ -617,41 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
       "published_date": "2026-10-02T17:43:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/does-the-punishment-fit-the-crime-controversy-erupts-around-cornell?traffic_source=rss",
-      "published_date": "2026-10-02T16:02:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
-      "published_date": "2026-10-02T15:01:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
-      "published_date": "2026-10-02T13:50:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss",
-      "published_date": "2026-10-02T12:56:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What’s behind France’s school protests?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-reported-natascha-paris-school-fr?traffic_source=rss",
-      "published_date": "2026-10-02T11:42:52+00:00",
       "category": "Local Events"
     }
   ]
