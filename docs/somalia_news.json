@@ -1,8 +1,71 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-05T01:33:18.351917+00:00",
+  "last_updated": "2026-10-05T19:53:14.833666+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Mecca Alliance: Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures?traffic_source=rss",
+      "published_date": "2026-10-05T18:32:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jerusalem Daily: Netanyahu gives voters dramatic ultimatum",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss",
+      "published_date": "2026-10-05T17:05:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt, Somalia, Eritrea and Sudan summit: Red Sea, Nile and Ethiopia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/egypt-somalia-eritrea-sudan-summit-ethiopia-red-sea-nile/",
+      "published_date": "2026-10-05T16:52:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Trend reached us’: Nationalists gain ground in Bosnia and Herzegovina",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss",
+      "published_date": "2026-10-05T15:47:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Samoa prime minister apologises after Nazi salute video surfaces",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/samoa-prime-minister-apologises-after-nazi-salute-video-surfaces?traffic_source=rss",
+      "published_date": "2026-10-05T13:48:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Qatar Discuss Expanding Cooperation in Development and Investment",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-qatar-discuss-expanding-cooperation-in-development-and-investment/",
+      "published_date": "2026-10-05T06:46:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt, Somalia, Eritrea and Sudan Hold Four-Way Summit on Regional Security and Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/egypt-somalia-eritrea-and-sudan-hold-four-way-summit-on-regional-security-and-cooperation/",
+      "published_date": "2026-10-05T06:43:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Saudi Arabia Discuss Trade, Investment and Red Sea Security",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-saudi-arabia-discuss-trade-investment-and-red-sea-security/",
+      "published_date": "2026-10-05T06:42:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sooomaaliya iyo Qatar oo Ka Wada Hadlay Xoojinta Iskaashiga",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sooomaaliya-iyo-qatar-oo-ka-wada-hadlay-xoojinta-iskaashiga/",
+      "published_date": "2026-10-05T06:00:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
       "source": "Al Jazeera",
@@ -81,67 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mamdani, Irish PM play bingo, ‘split the G’ in New York",
+      "title": "Rubio: No direct link between US bombers removal and UK base incident",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss",
-      "published_date": "2026-10-04T00:07:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss",
+      "published_date": "2026-10-05T17:34:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+      "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
-      "published_date": "2026-10-03T16:25:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
+      "published_date": "2026-10-05T15:30:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
+      "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
-      "published_date": "2026-10-03T14:30:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+      "published_date": "2026-10-05T15:29:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali President meets Egypt’s Sisi amid Horn of Africa tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-meets-egypts-sisi-amid-horn-of-africa-tensions/",
-      "published_date": "2026-10-03T14:06:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
+      "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
-      "published_date": "2026-10-03T13:18:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
+      "published_date": "2026-10-05T14:58:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pro-government forces claim to retake Mekelle airport in Ethiopia’s Tigray region",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/pro-government-forces-claim-retake-mekelle-airport-ethiopia-tigray/",
-      "published_date": "2026-10-03T09:30:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Human Rights Minister Meets UN Official in Geneva to Strengthen Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-human-rights-minister-meets-un-official-in-geneva-to-strengthen-cooperation/",
-      "published_date": "2026-10-03T07:08:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "title": "Murder in Okinawa: The US military’s history of alleged crime in Japan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
-      "published_date": "2026-10-03T00:46:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
+      "published_date": "2026-10-05T14:37:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Could conflict in Ethiopia expand across the region?",
+      "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
-      "published_date": "2026-10-02T20:17:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
+      "published_date": "2026-10-05T14:19:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Is the Sudanese army gaining momentum against the RSF?",
+      "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
-      "published_date": "2026-10-04T10:56:12+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss",
+      "published_date": "2026-10-05T19:01:32+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+      "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
-      "published_date": "2026-10-04T00:00:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settlers attack Palestinian farmers during olive harvest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
-      "published_date": "2026-10-03T21:15:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
-      "published_date": "2026-10-03T20:10:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
-      "published_date": "2026-10-03T18:03:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
-      "published_date": "2026-10-03T17:25:28+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
+      "published_date": "2026-10-05T13:11:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Red Bull’s Verstappen grabs pole position for Bahrain GP in Malaysia",
@@ -368,18 +382,11 @@
       "category": "Energy"
     },
     {
-      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
-      "published_date": "2026-09-28T17:43:10+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-28T13:53:28+00:00",
-      "category": "Energy"
+      "title": "Somalia PM Praises Women Entrepreneurs at Banadir Business Exhibition",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-praises-women-entrepreneurs-at-banadir-business-exhibition/",
+      "published_date": "2026-10-05T06:45:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somali President Pitches Investment Opportunities at Alamein-Africa Forum",
@@ -459,11 +466,46 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia Holds Strategic Investment Forum to Boost Bank and Private Sector Cooperation",
+      "title": "Spain calls snap election amid housing crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+      "published_date": "2026-10-05T17:27:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two dead after ship sinks off Romania following fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss",
+      "published_date": "2026-10-05T16:04:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A drive through the West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss",
+      "published_date": "2026-10-05T15:22:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Civil Aviation Authority Denies Reports of Aden Adde Airport Closure",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-holds-strategic-investment-forum-to-boost-bank-and-private-sector-cooperation/",
-      "published_date": "2026-09-28T09:49:39+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalias-civil-aviation-authority-denies-reports-of-aden-adde-airport-closure/",
+      "published_date": "2026-10-05T10:56:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Indonesia oo soo dhaweysay howlgallada lagu soo afjaray Burcadbadeedda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/05/puntland-indonesia-oo-soo-dhaweysay-howlgallada-lagu-soo-afjaray-burcadbadeedda/",
+      "published_date": "2026-10-05T10:12:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Cost of Kakistocracy: Somalia’s Unfinished State-Building",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/05/the-cost-of-kakistocracy-somalias-unfinished-state-building/",
+      "published_date": "2026-10-05T08:18:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nicaragua says it will withdraw from Central American Parliament",
@@ -561,48 +603,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somalia-u-s-relations-face-new-strain-ahead-of-the-american-midterm-elections/",
       "published_date": "2026-10-03T18:43:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams?traffic_source=rss",
-      "published_date": "2026-10-03T18:13:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
-      "published_date": "2026-10-03T17:31:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to know about Brazil’s 2026 presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
-      "published_date": "2026-10-03T14:23:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel election double standard: Arab leader forced out, far right cleared",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
-      "published_date": "2026-10-03T14:06:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West Cabinet discusses security and reconciliation efforts in Baidoa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-cabinet-discusses-security-and-reconciliation-efforts-in-baidoa/",
-      "published_date": "2026-10-03T14:01:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French high school engulfed in flames as student protests continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
-      "published_date": "2026-10-03T12:59:27+00:00",
       "category": "Local Events"
     }
   ]
