@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-04T15:43:00.619497+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-05T01:33:18.351917+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
+      "published_date": "2026-10-05T01:08:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
+      "published_date": "2026-10-05T01:03:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
+      "published_date": "2026-10-05T00:33:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Imran Khan’s party launches march to Islamabad demanding his release",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
+      "published_date": "2026-10-04T19:53:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
+      "published_date": "2026-10-04T19:20:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia’s government forces retake Mekelle from Tigray rebels",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/ethiopia-retakes-mekelle-tigray-tplf-withdraws/",
+      "published_date": "2026-10-04T15:45:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somali president: Ethiopia can access our port, but must negotiate",
       "source": "Al Jazeera",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+      "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
-      "published_date": "2026-10-02T16:06:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+      "published_date": "2026-10-05T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+      "title": "Mysterious luminous object burns in the skies above Libya",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
-      "published_date": "2026-10-02T12:47:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+      "published_date": "2026-10-04T22:56:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
+      "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss",
-      "published_date": "2026-10-02T12:27:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+      "published_date": "2026-10-04T22:23:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Washington’s diplomacy in Sudan has backfired",
+      "title": "War on Iran: Is escalation more likely than a deal?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
-      "published_date": "2026-10-02T11:41:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+      "published_date": "2026-10-04T18:47:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt expels Ethiopian embassy adviser in diplomatic retaliation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/egypt-expels-ethiopian-embassy-adviser-in-diplomatic-retaliation/",
-      "published_date": "2026-10-02T07:37:09+00:00",
-      "category": "Diplomacy"
+      "title": "Hoggaamiyeyaasha Soomaaliya, Masar, Eleteriya iyo Suudaan oo isku raacay dhowr qodob",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/04/hoggaamiyeyaasha-soomaaliya-masar-eleteriya-iyo-suudaan-oo-isku-raacay-dhowr-qodob/",
+      "published_date": "2026-10-04T18:22:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "African Union urges restraint as Ethiopia-Eritrea-Egypt tensions rise",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-urges-restraint-as-ethiopia-eritrea-egypt-tensions-rise/",
-      "published_date": "2026-10-02T07:35:38+00:00",
-      "category": "Diplomacy"
+      "title": "Somalia: Al-Shabaab signs deal with Hawadle clan to end 4-year war",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-hawadle-deal-end-war-somalia/",
+      "published_date": "2026-10-04T18:04:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police investigating Flydubai co-pilot’s Australia ties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+      "published_date": "2026-10-04T17:53:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Why does the US want to deport Salah Sarsour?",
@@ -232,55 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
       "published_date": "2026-10-03T17:25:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US air operations killed or wounded at least 216 civilians in Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/us-airstrikes-somalia-216-civilians-killed-wounded/",
-      "published_date": "2026-10-03T17:21:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-      "published_date": "2026-10-03T16:17:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
-      "published_date": "2026-10-03T16:16:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
-      "published_date": "2026-10-03T13:00:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
-      "published_date": "2026-10-03T12:55:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
-      "published_date": "2026-10-03T12:18:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-      "published_date": "2026-10-03T10:48:28+00:00",
       "category": "Military"
     },
     {
@@ -382,20 +382,6 @@
       "category": "Energy"
     },
     {
-      "title": "Powerful storm floods US Northeast, causes power outages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
-      "published_date": "2026-09-27T22:51:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Floods inundate roads in southeastern Algeria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
-      "published_date": "2026-09-27T21:03:47+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Somali President Pitches Investment Opportunities at Alamein-Africa Forum",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-president-pitches-investment-opportunities-at-alamein-africa-forum/",
@@ -478,6 +464,27 @@
       "url": "https://shabellemedia.com/somalia-holds-strategic-investment-forum-to-boost-bank-and-private-sector-cooperation/",
       "published_date": "2026-09-28T09:49:39+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Nicaragua says it will withdraw from Central American Parliament",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss",
+      "published_date": "2026-10-04T22:36:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+      "published_date": "2026-10-04T20:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Rejects Hassan Sheikh’s Claims Over Alleged Israeli Base in Berbera",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-rejects-hassan-sheikhs-claims-over-alleged-israeli-base-in-berbera/",
+      "published_date": "2026-10-04T18:55:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘We need freedom’: New Delhi women protest sexual violence",
@@ -596,27 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
       "published_date": "2026-10-03T12:59:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
-      "published_date": "2026-10-03T11:16:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians gather for football amid Gaza’s ruins",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-      "published_date": "2026-10-03T11:08:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
-      "published_date": "2026-10-03T10:46:20+00:00",
       "category": "Local Events"
     }
   ]
