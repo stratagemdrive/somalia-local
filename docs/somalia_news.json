@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-06T02:39:42.141204+00:00",
-  "story_count": 86,
+  "last_updated": "2026-10-06T17:06:27.230640+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss",
+      "published_date": "2026-10-06T14:47:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France suspends high school as protestors clash with police",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss",
+      "published_date": "2026-10-06T13:28:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
+      "published_date": "2026-10-06T12:19:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Isaias holds talks with Somali President",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/president-isaias-holds-talks-with-somali-president/",
+      "published_date": "2026-10-06T10:58:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "All 7 surviving Pakistani crew members rescued after Somalia pirate hijacking",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/all-7-surviving-pakistani-crew-members-rescued-after-somalia-pirate-hijacking/",
+      "published_date": "2026-10-06T06:54:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What’s happening in Ethiopia?",
       "source": "Al Jazeera",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Imran Khan’s party launches march to Islamabad demanding his release",
+      "title": "Is Europe preparing for a wider war with Russia?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
-      "published_date": "2026-10-04T19:53:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
+      "published_date": "2026-10-06T16:17:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
+      "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
-      "published_date": "2026-10-04T19:20:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
+      "published_date": "2026-10-06T15:14:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia’s government forces retake Mekelle from Tigray rebels",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/ethiopia-retakes-mekelle-tigray-tplf-withdraws/",
-      "published_date": "2026-10-04T15:45:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali president: Ethiopia can access our port, but must negotiate",
+      "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
-      "published_date": "2026-10-04T13:22:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
+      "published_date": "2026-10-06T14:50:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Highlights Human Rights Reforms at UN Council Meeting in Geneva",
+      "title": "What new measures is Iran taking to counter US economic pressure?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure?traffic_source=rss",
+      "published_date": "2026-10-06T14:42:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Gaza, we cannot even begin to recover from trauma",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
+      "published_date": "2026-10-06T14:42:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss",
+      "published_date": "2026-10-06T14:38:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK police arrest British national linked to airbase incident",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident?traffic_source=rss",
+      "published_date": "2026-10-06T13:44:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
+      "published_date": "2026-10-06T12:42:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan, Turkiye and Saudi deterrence against Houthis: What that means",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
+      "published_date": "2026-10-06T12:22:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Kumaandooska Danab oo Howlgal Qorsheysan ka Fuliyay Jowhar-yareey",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-highlights-human-rights-reforms-at-un-council-meeting-in-geneva/",
-      "published_date": "2026-10-04T08:22:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/ciidanka-kumaandooska-danab-oo-howlgal-qorsheysan-ka-fuliyay-jowhar-yareey/",
+      "published_date": "2026-10-06T07:25:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+      "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-      "published_date": "2026-10-05T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mysterious luminous object burns in the skies above Libya",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
-      "published_date": "2026-10-04T22:56:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
-      "published_date": "2026-10-04T22:23:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: Is escalation more likely than a deal?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
-      "published_date": "2026-10-04T18:47:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hoggaamiyeyaasha Soomaaliya, Masar, Eleteriya iyo Suudaan oo isku raacay dhowr qodob",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/04/hoggaamiyeyaasha-soomaaliya-masar-eleteriya-iyo-suudaan-oo-isku-raacay-dhowr-qodob/",
-      "published_date": "2026-10-04T18:22:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Al-Shabaab signs deal with Hawadle clan to end 4-year war",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-hawadle-deal-end-war-somalia/",
-      "published_date": "2026-10-04T18:04:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police investigating Flydubai co-pilot’s Australia ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
-      "published_date": "2026-10-04T17:53:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why does the US want to deport Salah Sarsour?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
-      "published_date": "2026-10-04T15:36:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran tells US: there is ‘no military solution’ to end the war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
-      "published_date": "2026-10-04T15:06:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
-      "published_date": "2026-10-04T13:42:16+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
+      "published_date": "2026-10-06T14:15:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
@@ -375,6 +382,20 @@
       "category": "Energy"
     },
     {
+      "title": "Photos: School blockades, street protests grip France",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss",
+      "published_date": "2026-10-06T14:53:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia, Algeria Seek Stronger Cooperation on Agriculture and Food Security",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-algeria-seek-stronger-cooperation-on-agriculture-and-food-security/",
+      "published_date": "2026-10-06T06:59:52+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Syrian Airlines unveils laser-sharp look for the future",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
@@ -464,6 +485,34 @@
       "url": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
       "published_date": "2026-09-29T20:08:33+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Markabka Honour 25 oo la soo gaarsiiyay Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/06/markabka-honour-25-oo-la-soo-gaarsiiyay-boosaaso/",
+      "published_date": "2026-10-06T14:06:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali PM Inspects New NISA Forces Trained to Boost Security in Galmudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-pm-inspects-new-nisa-forces-trained-to-boost-security-in-galmudug/",
+      "published_date": "2026-10-06T07:01:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Parliament Speaker Attends 153rd IPU Assembly in Tanzania",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-parliament-speaker-attends-153rd-ipu-assembly-in-tanzania/",
+      "published_date": "2026-10-06T06:58:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamsa oo Kormeeray Dugsiga Tababarka Towfiiq",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-kormeeray-dugsiga-tababarka-towfiiq/",
+      "published_date": "2026-10-06T06:48:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New York state declares measles disaster amid resurgence of disease in US",
@@ -575,34 +624,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-israeli-presence-somaliland-president/",
       "published_date": "2026-10-04T10:44:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain protests flare after housing bill rejected: Will it cause snap poll?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss",
-      "published_date": "2026-10-04T10:16:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu’s fight to own the election narrative",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss",
-      "published_date": "2026-10-04T10:05:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Taliye shaqo joojin lagu sameeyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/04/puntland-taliye-shaqo-joojin-lagu-sameeyay/",
-      "published_date": "2026-10-04T06:09:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
-      "published_date": "2026-10-04T00:07:12+00:00",
       "category": "Local Events"
     }
   ]
