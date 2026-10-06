@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-05T19:53:14.833666+00:00",
+  "last_updated": "2026-10-06T02:39:42.141204+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "What’s happening in Ethiopia?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss",
+      "published_date": "2026-10-05T23:38:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia’s Abiy demands access to Red Sea as tensions with neighbours rise",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss",
+      "published_date": "2026-10-05T21:10:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt, Somalia, Sudan and Eritrea Strengthen Regional Coordination as Ethiopia and Somaliland Respond",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/egypt-somalia-sudan-and-eritrea-strengthen-regional-coordination-as-ethiopia-and-somaliland-respond/",
+      "published_date": "2026-10-05T21:07:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mecca Alliance: Turkiye, Pakistan agree to military deployment to Saudi Arabia",
       "source": "Al Jazeera",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Condemns Attack on Power Facility Serving Prophet’s Mosque in Medina",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-attack-on-power-facility-serving-prophets-mosque-in-medina/",
-      "published_date": "2026-10-04T08:20:51+00:00",
-      "category": "Diplomacy"
+      "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
+      "published_date": "2026-10-06T00:10:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
+      "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
-      "published_date": "2026-10-04T01:41:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
+      "published_date": "2026-10-06T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Serbian populist leader Vucic launches campaign for prime minister",
+      "title": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss",
-      "published_date": "2026-10-04T00:26:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-10-05T20:17:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss",
+      "published_date": "2026-10-05T20:03:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Rubio: No direct link between US bombers removal and UK base incident",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "What are the five questions being asked regarding the Flydubai attack?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/what-are-the-five-questions-being-asked-regarding-the-flydubai-attack?traffic_source=rss",
-      "published_date": "2026-10-04T13:11:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
-      "published_date": "2026-10-04T12:48:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
-      "published_date": "2026-10-04T11:58:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
-      "published_date": "2026-10-04T11:05:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss",
@@ -375,11 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Gold falls amid rising oil prices and higher US dollar",
+      "title": "Syrian Airlines unveils laser-sharp look for the future",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
-      "published_date": "2026-09-28T21:34:51+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
+      "published_date": "2026-10-06T00:25:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss",
+      "published_date": "2026-10-05T21:03:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia PM Praises Women Entrepreneurs at Banadir Business Exhibition",
@@ -459,11 +466,18 @@
       "category": "Economy"
     },
     {
-      "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
+      "title": "New York state declares measles disaster amid resurgence of disease in US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
-      "published_date": "2026-09-28T22:05:43+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
+      "published_date": "2026-10-06T00:00:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What’s next for Bosnia after elections?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections?traffic_source=rss",
+      "published_date": "2026-10-05T20:54:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spain calls snap election amid housing crisis",
@@ -589,20 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
       "published_date": "2026-10-04T00:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is the CJP changing India’s political landscape?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
-      "published_date": "2026-10-03T19:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia-U.S. Relations Face New Strain Ahead of the American Midterm Elections",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalia-u-s-relations-face-new-strain-ahead-of-the-american-midterm-elections/",
-      "published_date": "2026-10-03T18:43:36+00:00",
       "category": "Local Events"
     }
   ]
