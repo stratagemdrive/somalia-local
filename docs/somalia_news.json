@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-07T02:02:25.202378+00:00",
+  "last_updated": "2026-10-07T17:43:23.062076+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Eritrean troops seen in Ethiopia’s Tigray as fears of wider conflict grow",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/eritrean-troops-seen-ethiopia-tigray-wider-conflict/",
+      "published_date": "2026-10-07T17:33:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
+      "published_date": "2026-10-07T16:02:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia and Azerbaijan Discuss Expanding Education Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-azerbaijan-discuss-expanding-education-cooperation/",
+      "published_date": "2026-10-07T13:22:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya Ebola case: Somalia screens Mogadishu airport arrivals",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/kenya-ebola-case-somalia-airport-screening/",
+      "published_date": "2026-10-07T08:39:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopian state media attacks Somali president over regional diplomacy",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ethiopian-state-media-attacks-somali-president-over-regional-diplomacy/",
+      "published_date": "2026-10-07T08:34:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Puntland oo soo saartay digniin caafimaad",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/07/puntland-oo-soo-saartay-digniin-caafimaad/",
+      "published_date": "2026-10-07T05:14:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian embassy returns seized passport after 43 years",
       "source": "Al Jazeera",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Samoa prime minister apologises after Nazi salute video surfaces",
+      "title": "The mass killing does not mean Israel’s winning",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/samoa-prime-minister-apologises-after-nazi-salute-video-surfaces?traffic_source=rss",
-      "published_date": "2026-10-05T13:48:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
+      "published_date": "2026-10-07T15:25:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Qatar Discuss Expanding Cooperation in Development and Investment",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-qatar-discuss-expanding-cooperation-in-development-and-investment/",
-      "published_date": "2026-10-05T06:46:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Egypt, Somalia, Eritrea and Sudan Hold Four-Way Summit on Regional Security and Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/egypt-somalia-eritrea-and-sudan-hold-four-way-summit-on-regional-security-and-cooperation/",
-      "published_date": "2026-10-05T06:43:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia, Saudi Arabia Discuss Trade, Investment and Red Sea Security",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-saudi-arabia-discuss-trade-investment-and-red-sea-security/",
-      "published_date": "2026-10-05T06:42:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sooomaaliya iyo Qatar oo Ka Wada Hadlay Xoojinta Iskaashiga",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sooomaaliya-iyo-qatar-oo-ka-wada-hadlay-xoojinta-iskaashiga/",
-      "published_date": "2026-10-05T06:00:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+      "title": "South Korea signals military exemption cuts for athletes after Asian Games",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
-      "published_date": "2026-10-05T01:08:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
+      "published_date": "2026-10-07T13:38:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli soldier assaults Palestinian woman in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-soldier-assaults-palestinian-woman-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-10-07T12:39:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian killed, 16 wounded in Israeli pogrom in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-10-07T12:38:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Korea’s military service exemption could be cut for athletes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss",
+      "published_date": "2026-10-07T12:09:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military aid to Israel continues three years into Gaza genocide",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
+      "published_date": "2026-10-07T11:23:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia says Al-Shabab Amniyat chief killed in NISA operation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-says-al-shabab-amniyat-chief-killed-in-nisa-operation/",
+      "published_date": "2026-10-07T08:37:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "UK police arrest British national linked to airbase incident",
+      "title": "Millions of Pakistanis get government fuel relief but some miss out",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident?traffic_source=rss",
-      "published_date": "2026-10-06T13:44:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
-      "published_date": "2026-10-06T12:42:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Turkiye and Saudi deterrence against Houthis: What that means",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
-      "published_date": "2026-10-06T12:22:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidanka Kumaandooska Danab oo Howlgal Qorsheysan ka Fuliyay Jowhar-yareey",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-kumaandooska-danab-oo-howlgal-qorsheysan-ka-fuliyay-jowhar-yareey/",
-      "published_date": "2026-10-06T07:25:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
-      "published_date": "2026-10-06T00:10:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
-      "published_date": "2026-10-06T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-10-05T20:17:35+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
+      "published_date": "2026-10-07T14:02:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
@@ -368,18 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Rainwater washes away highway in Nigeria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
-      "published_date": "2026-09-30T12:39:08+00:00",
-      "category": "Energy"
+      "title": "Somalia urges European investors to explore country’s strategic resources",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-urges-european-investors-to-explore-countrys-strategic-resources-2/",
+      "published_date": "2026-10-07T08:41:42+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
-      "published_date": "2026-09-30T11:32:24+00:00",
-      "category": "Energy"
+      "title": "Somalia urges European investors to explore country’s strategic resources",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-urges-european-investors-to-explore-countrys-strategic-resources/",
+      "published_date": "2026-10-07T08:39:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "South Sudan’s aid crisis deepens as food stocks run low",
@@ -487,11 +494,32 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia finance ministry concludes consultations on 2027 national budget",
+      "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
+      "published_date": "2026-10-07T16:12:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justina Shiroka Pula: Kosovo’s new president, elected during a crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/justina-shiroka-pula-kosovos-new-president-elected-during-a-crisis?traffic_source=rss",
+      "published_date": "2026-10-07T11:40:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali parliament speaker highlights democratic transition at IPU conference in Tanzania",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-finance-ministry-concludes-consultations-on-2027-national-budget/",
-      "published_date": "2026-09-30T07:03:44+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somali-parliament-speaker-highlights-democratic-transition-at-ipu-conference-in-tanzania/",
+      "published_date": "2026-10-07T08:32:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ciidamada Puntland oo Boosaaso Soo Gaarsiiyey Markabka Honour 25",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-puntland-oo-boosaaso-soo-gaarsiiyey-markabka-honour-25/",
+      "published_date": "2026-10-07T06:57:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Christa Pike lawyers say she is speaking one week after failed execution",
@@ -603,34 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss",
       "published_date": "2026-10-04T22:36:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
-      "published_date": "2026-10-04T20:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Rejects Hassan Sheikh’s Claims Over Alleged Israeli Base in Berbera",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-rejects-hassan-sheikhs-claims-over-alleged-israeli-base-in-berbera/",
-      "published_date": "2026-10-04T18:55:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We need freedom’: New Delhi women protest sexual violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/we-need-freedom-new-delhi-women-protest-sexual-violence?traffic_source=rss",
-      "published_date": "2026-10-04T15:20:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dodik urges Serb turnout against ‘Sarajevo crooks’ in Bosnia election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/dodik-urges-serb-turnout-against-sarajevo-crooks-in-bosnia-election?traffic_source=rss",
-      "published_date": "2026-10-04T15:16:50+00:00",
       "category": "Local Events"
     }
   ]
