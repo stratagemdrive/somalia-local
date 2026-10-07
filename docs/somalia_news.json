@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-06T17:06:27.230640+00:00",
-  "story_count": 89,
+  "last_updated": "2026-10-07T02:02:25.202378+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Syrian embassy returns seized passport after 43 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
+      "published_date": "2026-10-07T01:20:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tokyo protests US military presence after Okinawa killing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
+      "published_date": "2026-10-06T21:20:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
       "source": "Al Jazeera",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+      "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
-      "published_date": "2026-10-05T01:03:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+      "published_date": "2026-10-07T01:07:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+      "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
-      "published_date": "2026-10-05T00:33:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
+      "published_date": "2026-10-07T00:35:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
+      "published_date": "2026-10-07T00:26:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French mayor tear-gassed after shielding protesters from police",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss",
+      "published_date": "2026-10-07T00:10:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+      "published_date": "2026-10-07T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
+      "published_date": "2026-10-06T21:11:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cornell names Sally Yates to review university’s response to rape case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss",
+      "published_date": "2026-10-06T20:49:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Is Europe preparing for a wider war with Russia?",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+      "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss",
-      "published_date": "2026-10-05T20:03:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio: No direct link between US bombers removal and UK base incident",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss",
-      "published_date": "2026-10-05T17:34:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
-      "published_date": "2026-10-05T15:30:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
-      "published_date": "2026-10-05T15:29:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
-      "published_date": "2026-10-05T14:58:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Murder in Okinawa: The US military’s history of alleged crime in Japan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
-      "published_date": "2026-10-05T14:37:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
-      "published_date": "2026-10-05T14:19:44+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
+      "published_date": "2026-10-06T23:05:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
@@ -375,11 +382,18 @@
       "category": "Energy"
     },
     {
-      "title": "US consumer confidence hits its lowest level since 2014 ahead of midterms",
+      "title": "South Sudan’s aid crisis deepens as food stocks run low",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/29/us-consumer-confidence-hits-its-lowest-level-since-2014-ahead-of-midterms?traffic_source=rss",
-      "published_date": "2026-09-29T22:23:58+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss",
+      "published_date": "2026-10-07T00:13:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
+      "published_date": "2026-10-06T20:44:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Photos: School blockades, street protests grip France",
@@ -480,11 +494,25 @@
       "category": "Economy"
     },
     {
-      "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
+      "title": "Christa Pike lawyers say she is speaking one week after failed execution",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
-      "published_date": "2026-09-29T20:08:33+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/6/christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-execution?traffic_source=rss",
+      "published_date": "2026-10-06T23:01:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
+      "published_date": "2026-10-06T22:07:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
+      "published_date": "2026-10-06T21:28:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Markabka Honour 25 oo la soo gaarsiiyay Boosaaso",
@@ -603,27 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/dodik-urges-serb-turnout-against-sarajevo-crooks-in-bosnia-election?traffic_source=rss",
       "published_date": "2026-10-04T15:16:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lula and Bolsonaro vote in Brazil’s polarised presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/lula-and-bolsonaro-vote-in-brazils-polarised-presidential-election?traffic_source=rss",
-      "published_date": "2026-10-04T15:05:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
-      "published_date": "2026-10-04T11:15:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia won’t accept Israeli presence in Somaliland ‘under any circumstances,’ president says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-israeli-presence-somaliland-president/",
-      "published_date": "2026-10-04T10:44:29+00:00",
       "category": "Local Events"
     }
   ]
