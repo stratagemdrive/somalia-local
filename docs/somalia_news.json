@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-08T02:27:10.678040+00:00",
+  "last_updated": "2026-10-08T17:47:44.229017+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Somalia cabinet approves Ebola preparedness measures, forms six-ministry committee",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-cabinet-approves-ebola-preparedness-measures-forms-six-ministry-committee/",
+      "published_date": "2026-10-08T12:29:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
       "source": "Al Jazeera",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mecca Alliance: Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+      "title": "Jerusalem Daily: Remembrance and mourning",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures?traffic_source=rss",
-      "published_date": "2026-10-05T18:32:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
+      "published_date": "2026-10-08T17:17:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
+      "published_date": "2026-10-08T17:07:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK ex-prince Andrew search warrants quashed after police accept legal error",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss",
+      "published_date": "2026-10-08T15:53:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video said to show Mali army in Kidal after retaking city",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss",
+      "published_date": "2026-10-08T15:50:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss",
+      "published_date": "2026-10-08T14:50:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two killed after building partially collapses in Turkiye’s Istanbul",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
+      "published_date": "2026-10-08T12:44:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "African Defence Chiefs Meet in Kampala to Strengthen Cooperation on Non-Combat Operations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/african-defence-chiefs-meet-in-kampala-to-strengthen-cooperation-on-non-combat-operations/",
+      "published_date": "2026-10-08T12:25:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Why is Guantanamo prison still open?",
@@ -232,55 +281,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-says-al-shabab-amniyat-chief-killed-in-nisa-operation/",
       "published_date": "2026-10-07T08:37:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
-      "published_date": "2026-10-07T01:07:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
-      "published_date": "2026-10-07T00:35:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
-      "published_date": "2026-10-07T00:26:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French mayor tear-gassed after shielding protesters from police",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss",
-      "published_date": "2026-10-07T00:10:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
-      "published_date": "2026-10-07T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
-      "published_date": "2026-10-06T21:11:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cornell names Sally Yates to review university’s response to rape case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss",
-      "published_date": "2026-10-06T20:49:10+00:00",
       "category": "Military"
     },
     {
@@ -494,6 +494,83 @@
       "category": "Economy"
     },
     {
+      "title": "Senegal-Morocco AFCON title decision within days, says CAS",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/cas-promises-senegal-morocco-afcon-title-decision-within-days?traffic_source=rss",
+      "published_date": "2026-10-08T17:08:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UEFA details FIFA presidential candidate criteria in bid to oust Infantino",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
+      "published_date": "2026-10-08T16:53:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia: Laftagaren forces take Qansah-dhere, west of Baidoa",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagaren-forces-capture-qansah-dhere-baidoa/",
+      "published_date": "2026-10-08T16:30:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London voters go to polls for Holborn and St Pancras by-election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/london-voters-go-to-polls-for-holborn-and-st-pancras-by-election?traffic_source=rss",
+      "published_date": "2026-10-08T15:19:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State cabinet reviews security, floods and youth employment",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-state-cabinet-reviews-security-floods-and-youth-employment/",
+      "published_date": "2026-10-08T15:08:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/8/what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-bosnia?traffic_source=rss",
+      "published_date": "2026-10-08T15:01:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
+      "published_date": "2026-10-08T14:07:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French PM vows changes as students keep up school protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/french-pm-vows-changes-as-students-keep-up-school-protests?traffic_source=rss",
+      "published_date": "2026-10-08T13:45:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rubio praises nationalism and ties ‘America First’ values to ancient Greece",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/rubio-praises-nationalism-and-ties-america-first-values-to-ancient-greece?traffic_source=rss",
+      "published_date": "2026-10-08T13:38:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West State steps up El Niño preparations amid flood fears",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-state-steps-up-el-nino-preparations-amid-flood-fears/",
+      "published_date": "2026-10-08T12:34:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Koonfur Galbeed oo xoojinaysa diyaar-garowga fatahaadaha la filayo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/koonfur-galbeed-oo-xoojinaysa-diyaar-garowga-fatahaadaha-la-filayo/",
+      "published_date": "2026-10-08T12:33:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Death of 87-year old sparks furious Spain housing protests",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss",
@@ -554,83 +631,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
       "published_date": "2026-10-06T22:07:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
-      "published_date": "2026-10-06T21:28:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Markabka Honour 25 oo la soo gaarsiiyay Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/06/markabka-honour-25-oo-la-soo-gaarsiiyay-boosaaso/",
-      "published_date": "2026-10-06T14:06:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali PM Inspects New NISA Forces Trained to Boost Security in Galmudug",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-pm-inspects-new-nisa-forces-trained-to-boost-security-in-galmudug/",
-      "published_date": "2026-10-06T07:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Parliament Speaker Attends 153rd IPU Assembly in Tanzania",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-parliament-speaker-attends-153rd-ipu-assembly-in-tanzania/",
-      "published_date": "2026-10-06T06:58:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ra’iisul Wasaare Xamsa oo Kormeeray Dugsiga Tababarka Towfiiq",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-kormeeray-dugsiga-tababarka-towfiiq/",
-      "published_date": "2026-10-06T06:48:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New York state declares measles disaster amid resurgence of disease in US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
-      "published_date": "2026-10-06T00:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What’s next for Bosnia after elections?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections?traffic_source=rss",
-      "published_date": "2026-10-05T20:54:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain calls snap election amid housing crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
-      "published_date": "2026-10-05T17:27:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two dead after ship sinks off Romania following fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss",
-      "published_date": "2026-10-05T16:04:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A drive through the West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss",
-      "published_date": "2026-10-05T15:22:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Civil Aviation Authority Denies Reports of Aden Adde Airport Closure",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-civil-aviation-authority-denies-reports-of-aden-adde-airport-closure/",
-      "published_date": "2026-10-05T10:56:12+00:00",
       "category": "Local Events"
     }
   ]
