@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-09T02:44:03.866558+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-09T17:23:26.730833+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "US sanctions International Criminal Court itself in major escalation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
+      "published_date": "2026-10-09T15:08:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia and Eritrea accuse one another of launching war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss",
+      "published_date": "2026-10-09T14:11:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bangladesh’s mango diplomacy with India has reached its limits",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss",
+      "published_date": "2026-10-09T14:09:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Safiirka Soomaaliya ee Kenya oo Nairobi ku Qaabilay Saxafiyiin Soomaaliyeed oo Tababar IGAD uga Qaybgalay Machakos",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/safiirka-soomaaliya-ee-kenya-oo-nairobi-ku-qaabilay-saxafiyiin-soomaaliyeed-oo-tababar-igad-uga-qaybgalay-machakos/",
+      "published_date": "2026-10-09T05:59:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
       "source": "Al Jazeera",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Tokyo protests US military presence after Okinawa killing",
+      "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-      "published_date": "2026-10-06T21:20:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
+      "published_date": "2026-10-09T16:07:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
+      "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss",
-      "published_date": "2026-10-06T14:47:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss",
+      "published_date": "2026-10-09T13:09:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "France suspends high school as protestors clash with police",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss",
-      "published_date": "2026-10-06T13:28:54+00:00",
-      "category": "Diplomacy"
+      "title": "Jubaland oo la wareegtay maamulka Beled Xaawo ee gobolka Gedo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jubaland-oo-la-wareegtay-maamulka-beled-xaawo-ee-gobolka-gedo/",
+      "published_date": "2026-10-09T11:12:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
-      "published_date": "2026-10-06T12:19:50+00:00",
-      "category": "Diplomacy"
+      "title": "Soomaaliya oo Hambalyo u Dirtay Uganda Munaasabadda 64-aad ee Xorriyaddeeda",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-hambalyo-u-dirtay-uganda-munaasabadda-64-aad-ee-xorriyaddeeda/",
+      "published_date": "2026-10-09T11:00:15+00:00",
+      "category": "Military"
     },
     {
       "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
+      "title": "Ukraine takes aim at Russia’s AI data infrastructure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
-      "published_date": "2026-10-08T00:16:25+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss",
+      "published_date": "2026-10-09T13:01:57+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
-      "published_date": "2026-10-08T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Palestine university groups march in London on October 7 anniversary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
-      "published_date": "2026-10-07T21:33:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
-      "published_date": "2026-10-07T21:06:46+00:00",
-      "category": "Military"
+      "title": "Somalia joins regional talks on marine conservation and climate change in Tanzania",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-joins-regional-talks-on-marine-conservation-and-climate-change-in-tanzania/",
+      "published_date": "2026-10-09T07:58:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Millions of Pakistanis get government fuel relief but some miss out",
@@ -344,20 +358,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss",
       "published_date": "2026-10-02T19:01:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
-      "published_date": "2026-10-02T14:14:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss",
-      "published_date": "2026-10-02T13:16:44+00:00",
       "category": "Energy"
     },
     {
@@ -466,18 +466,39 @@
       "category": "Economy"
     },
     {
-      "title": "Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters",
+      "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_taiwan-coast-guard-fires-water-cannon-on-chinese-021026?traffic_source=rss",
-      "published_date": "2026-10-02T16:23:02+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
+      "published_date": "2026-10-09T15:59:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US job growth slows as unemployment rises before midterm elections",
+      "title": "India’s Cockroach Party says members detained ahead of protest",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss",
-      "published_date": "2026-10-02T16:20:46+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss",
+      "published_date": "2026-10-09T12:17:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s National Human Rights Commission seeks stronger ties with National University",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-national-human-rights-commission-seeks-stronger-ties-with-national-university/",
+      "published_date": "2026-10-09T07:59:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump urges Minnesotans to ‘fight back’ against Somali immigrants",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/trump-urges-minnesotans-to-fight-back-against-somali-immigrants/",
+      "published_date": "2026-10-09T06:50:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ka hadashay dhul loo seereeyay garoonka diyaaradaha Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/09/puntland-oo-ka-hadashay-dhul-loo-seereeyay-garoonka-diyaaradaha-garoowe/",
+      "published_date": "2026-10-09T06:18:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
@@ -582,41 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss",
       "published_date": "2026-10-08T01:15:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Republicans, independents express low trust in election integrity: Poll",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
-      "published_date": "2026-10-07T20:27:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss",
-      "published_date": "2026-10-07T19:40:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
-      "published_date": "2026-10-07T16:12:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Justina Shiroka Pula: Kosovo’s new president, elected during a crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/justina-shiroka-pula-kosovos-new-president-elected-during-a-crisis?traffic_source=rss",
-      "published_date": "2026-10-07T11:40:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali parliament speaker highlights democratic transition at IPU conference in Tanzania",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-speaker-highlights-democratic-transition-at-ipu-conference-in-tanzania/",
-      "published_date": "2026-10-07T08:32:35+00:00",
       "category": "Local Events"
     }
   ]
