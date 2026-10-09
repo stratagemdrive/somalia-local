@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-08T17:47:44.229017+00:00",
-  "story_count": 90,
+  "last_updated": "2026-10-09T02:44:03.866558+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
+      "published_date": "2026-10-09T00:50:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
+      "published_date": "2026-10-09T00:08:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenyan patient suspected of Ebola infection tests negative",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss",
+      "published_date": "2026-10-08T23:53:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Putin pledges Russia’s support to end US-led war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+      "published_date": "2026-10-08T22:30:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
+      "published_date": "2026-10-08T22:10:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia cabinet approves Ebola preparedness measures, forms six-ministry committee",
       "source": "Shabelle Media",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "President Isaias holds talks with Somali President",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/president-isaias-holds-talks-with-somali-president/",
-      "published_date": "2026-10-06T10:58:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "All 7 surviving Pakistani crew members rescued after Somalia pirate hijacking",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/all-7-surviving-pakistani-crew-members-rescued-after-somalia-pirate-hijacking/",
-      "published_date": "2026-10-06T06:54:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What’s happening in Ethiopia?",
+      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss",
-      "published_date": "2026-10-05T23:38:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+      "published_date": "2026-10-09T00:39:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia’s Abiy demands access to Red Sea as tensions with neighbours rise",
+      "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss",
-      "published_date": "2026-10-05T21:10:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+      "published_date": "2026-10-09T00:12:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt, Somalia, Sudan and Eritrea Strengthen Regional Coordination as Ethiopia and Somaliland Respond",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/egypt-somalia-sudan-and-eritrea-strengthen-regional-coordination-as-ethiopia-and-somaliland-respond/",
-      "published_date": "2026-10-05T21:07:47+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
+      "published_date": "2026-10-09T00:00:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
+      "published_date": "2026-10-08T23:36:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police use tear gas and water cannons on student protestors in Paris",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
+      "published_date": "2026-10-08T21:17:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is the Mecca defence pact?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
+      "published_date": "2026-10-08T21:04:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sharif calls for ‘united national front to save Somalia’",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/sharif-sheikh-ahmed-calls-for-united-national-front-to-save-somalia/",
+      "published_date": "2026-10-08T18:02:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Jerusalem Daily: Remembrance and mourning",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "The mass killing does not mean Israel’s winning",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
-      "published_date": "2026-10-07T15:25:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea signals military exemption cuts for athletes after Asian Games",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
-      "published_date": "2026-10-07T13:38:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldier assaults Palestinian woman in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-soldier-assaults-palestinian-woman-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-10-07T12:39:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian killed, 16 wounded in Israeli pogrom in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-10-07T12:38:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea’s military service exemption could be cut for athletes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss",
-      "published_date": "2026-10-07T12:09:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military aid to Israel continues three years into Gaza genocide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
-      "published_date": "2026-10-07T11:23:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia says Al-Shabab Amniyat chief killed in NISA operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-says-al-shabab-amniyat-chief-killed-in-nisa-operation/",
-      "published_date": "2026-10-07T08:37:29+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Millions of Pakistanis get government fuel relief but some miss out",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
@@ -361,11 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Trump says US may ask Europe to release diesel reserves",
+      "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
-      "published_date": "2026-10-02T01:23:35+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
+      "published_date": "2026-10-08T22:54:23+00:00",
+      "category": "Economy"
     },
     {
       "title": "EU-China trade talks begin in Beijing amid escalating pressure",
@@ -480,18 +480,25 @@
       "category": "Economy"
     },
     {
-      "title": "Brazilian government calls for probe into US funding of far-right causes",
+      "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
-      "published_date": "2026-10-01T22:48:17+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
+      "published_date": "2026-10-09T02:00:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Manchester City breaches need tax implication answers, UK Parliament told",
+      "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss",
-      "published_date": "2026-10-01T20:08:46+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
+      "published_date": "2026-10-09T01:15:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How much worse can Yemen’s humanitarian crisis become?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss",
+      "published_date": "2026-10-08T20:06:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Senegal-Morocco AFCON title decision within days, says CAS",
@@ -610,27 +617,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-parliament-speaker-highlights-democratic-transition-at-ipu-conference-in-tanzania/",
       "published_date": "2026-10-07T08:32:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ciidamada Puntland oo Boosaaso Soo Gaarsiiyey Markabka Honour 25",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-puntland-oo-boosaaso-soo-gaarsiiyey-markabka-honour-25/",
-      "published_date": "2026-10-07T06:57:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christa Pike lawyers say she is speaking one week after failed execution",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-execution?traffic_source=rss",
-      "published_date": "2026-10-06T23:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
-      "published_date": "2026-10-06T22:07:44+00:00",
       "category": "Local Events"
     }
   ]
