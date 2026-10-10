@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-10T02:02:34.060568+00:00",
+  "last_updated": "2026-10-10T16:09:02.625707+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Somalia condemns Houthi attacks on Saudi airports that killed civilians",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-condemns-houthi-attacks-on-saudi-airports-that-killed-civilians/",
+      "published_date": "2026-10-10T08:39:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Turkey discuss judicial cooperation at Istanbul meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-turkey-discuss-judicial-cooperation-at-istanbul-meeting/",
+      "published_date": "2026-10-10T08:38:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
       "source": "Al Jazeera",
@@ -130,18 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia and Azerbaijan Discuss Expanding Education Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-azerbaijan-discuss-expanding-education-cooperation/",
-      "published_date": "2026-10-07T13:22:11+00:00",
-      "category": "Diplomacy"
+      "title": "Three injured in third school attack in Poland in less than a week",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
+      "published_date": "2026-10-10T15:13:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya Ebola case: Somalia screens Mogadishu airport arrivals",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/kenya-ebola-case-somalia-airport-screening/",
-      "published_date": "2026-10-07T08:39:57+00:00",
-      "category": "Diplomacy"
+      "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+      "published_date": "2026-10-10T14:39:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drones and Death: Families Reel from the UAE’s “Catastrophic” Strikes in War on ISIS",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/10/drones-and-death-families-reel-from-the-uaes-catastrophic-strikes-in-war-on-isis/",
+      "published_date": "2026-10-10T14:32:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Has Yemen returned to ‘full-scale war’?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
+      "published_date": "2026-10-10T14:10:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
+      "published_date": "2026-10-10T13:25:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss",
+      "published_date": "2026-10-10T13:23:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
+      "published_date": "2026-10-10T12:50:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+      "published_date": "2026-10-10T12:40:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
+      "published_date": "2026-10-10T12:33:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Soomaaliya oo Cambaareysay Weerarrada Lagu Qaaday Garoomada Diyaaradaha Sacuudiga",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-cambaareysay-weerarrada-lagu-qaaday-garoomada-diyaaradaha-sacuudiga/",
+      "published_date": "2026-10-10T05:35:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli drone attack wounds six in Lebanon near Syria border",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+      "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
-      "published_date": "2026-10-09T00:00:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
+      "published_date": "2026-10-10T15:45:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+      "title": "Why is US turning to Russia for diesel despite sanctions?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
-      "published_date": "2026-10-08T23:36:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police use tear gas and water cannons on student protestors in Paris",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
-      "published_date": "2026-10-08T21:17:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What is the Mecca defence pact?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
-      "published_date": "2026-10-08T21:04:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sharif calls for ‘united national front to save Somalia’",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/sharif-sheikh-ahmed-calls-for-united-national-front-to-save-somalia/",
-      "published_date": "2026-10-08T18:02:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: Remembrance and mourning",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
-      "published_date": "2026-10-08T17:17:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
-      "published_date": "2026-10-08T17:07:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK ex-prince Andrew search warrants quashed after police accept legal error",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss",
-      "published_date": "2026-10-08T15:53:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video said to show Mali army in Kidal after retaking city",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss",
-      "published_date": "2026-10-08T15:50:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss",
-      "published_date": "2026-10-08T14:50:20+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
+      "published_date": "2026-10-10T12:16:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
@@ -347,18 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Red Bull’s Verstappen grabs pole position for Bahrain GP in Malaysia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia?traffic_source=rss",
-      "published_date": "2026-10-03T10:03:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
-      "published_date": "2026-10-03T09:27:38+00:00",
-      "category": "Energy"
+      "title": "Jubbaland approves $60.9 million budget for 2027",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jubbaland-approves-60-9-million-budget-for-2027/",
+      "published_date": "2026-10-10T14:01:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
@@ -459,11 +466,53 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia, Norway Discuss Economic Growth and Financial Reforms in Mogadishu",
+      "title": "Why is the US sanctioning the International Criminal Court?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+      "published_date": "2026-10-10T14:19:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss",
+      "published_date": "2026-10-10T12:17:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exposing an alleged crime kingpin’s Cambodian empire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss",
+      "published_date": "2026-10-10T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Northeast state denies president escaped abduction plot",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-somaliland-northeast-state-denies-abduction-plot/",
+      "published_date": "2026-10-10T11:21:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can a Somali writer be criticised simply for writing a biography without the family’s permission?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/10/can-a-somali-writer-be-criticised-simply-for-writing-a-biography-without-the-familys-permission/",
+      "published_date": "2026-10-10T08:53:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australian parliament speaker elected IPU president at Tanzania assembly",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-norway-discuss-economic-growth-and-financial-reforms-in-mogadishu/",
-      "published_date": "2026-10-03T07:23:50+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/australian-parliament-speaker-elected-ipu-president-at-tanzania-assembly/",
+      "published_date": "2026-10-10T08:40:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roobab ka da’ay deegaano ka tirsan Nugaal iyo Mudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/10/roobab-ka-daay-deegaano-ka-tirsan-nugaal-iyo-mudug/",
+      "published_date": "2026-10-10T06:53:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How will Spain’s housing crisis affect elections?",
@@ -554,55 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
       "published_date": "2026-10-08T16:53:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Laftagaren forces take Qansah-dhere, west of Baidoa",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagaren-forces-capture-qansah-dhere-baidoa/",
-      "published_date": "2026-10-08T16:30:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London voters go to polls for Holborn and St Pancras by-election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/london-voters-go-to-polls-for-holborn-and-st-pancras-by-election?traffic_source=rss",
-      "published_date": "2026-10-08T15:19:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State cabinet reviews security, floods and youth employment",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-cabinet-reviews-security-floods-and-youth-employment/",
-      "published_date": "2026-10-08T15:08:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/8/what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-bosnia?traffic_source=rss",
-      "published_date": "2026-10-08T15:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
-      "published_date": "2026-10-08T14:07:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French PM vows changes as students keep up school protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/french-pm-vows-changes-as-students-keep-up-school-protests?traffic_source=rss",
-      "published_date": "2026-10-08T13:45:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rubio praises nationalism and ties ‘America First’ values to ancient Greece",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/rubio-praises-nationalism-and-ties-america-first-values-to-ancient-greece?traffic_source=rss",
-      "published_date": "2026-10-08T13:38:03+00:00",
       "category": "Local Events"
     }
   ]
