@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-09T17:23:26.730833+00:00",
+  "last_updated": "2026-10-10T02:02:34.060568+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "published_date": "2026-10-09T20:56:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+      "published_date": "2026-10-09T19:32:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
+      "published_date": "2026-10-09T18:06:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US sanctions International Criminal Court itself in major escalation",
       "source": "Al Jazeera",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopian state media attacks Somali president over regional diplomacy",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ethiopian-state-media-attacks-somali-president-over-regional-diplomacy/",
-      "published_date": "2026-10-07T08:34:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Puntland oo soo saartay digniin caafimaad",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/07/puntland-oo-soo-saartay-digniin-caafimaad/",
-      "published_date": "2026-10-07T05:14:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian embassy returns seized passport after 43 years",
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
-      "published_date": "2026-10-07T01:20:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "published_date": "2026-10-10T00:22:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Intercommunal clashes kill 71 people in South Sudan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+      "published_date": "2026-10-10T00:01:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+      "published_date": "2026-10-10T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+      "published_date": "2026-10-09T20:13:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Two killed after building partially collapses in Turkiye’s Istanbul",
+      "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
-      "published_date": "2026-10-08T12:44:52+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+      "published_date": "2026-10-09T20:17:15+00:00",
+      "category": "Energy"
     },
     {
-      "title": "African Defence Chiefs Meet in Kampala to Strengthen Cooperation on Non-Combat Operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-defence-chiefs-meet-in-kampala-to-strengthen-cooperation-on-non-combat-operations/",
-      "published_date": "2026-10-08T12:25:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Guantanamo prison still open?",
+      "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
-      "published_date": "2026-10-08T01:49:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
-      "published_date": "2026-10-08T00:33:03+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+      "published_date": "2026-10-09T19:47:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine takes aim at Russia’s AI data infrastructure",
@@ -347,18 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
+      "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
-      "published_date": "2026-10-02T20:28:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss",
-      "published_date": "2026-10-02T19:01:45+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
+      "published_date": "2026-10-09T18:15:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
@@ -459,11 +466,25 @@
       "category": "Economy"
     },
     {
-      "title": "Dutch royal house helped slave trade to survive, study finds",
+      "title": "How will Spain’s housing crisis affect elections?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
-      "published_date": "2026-10-02T23:43:50+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+      "published_date": "2026-10-09T20:39:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo u hambalyeysay xildhibaan Sagal Cabdiweli",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/09/puntland-oo-u-hambalyeysay-xildhibaan-sagal-cabdiweli/",
+      "published_date": "2026-10-09T18:45:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
+      "published_date": "2026-10-09T18:23:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
@@ -582,27 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/rubio-praises-nationalism-and-ties-america-first-values-to-ancient-greece?traffic_source=rss",
       "published_date": "2026-10-08T13:38:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State steps up El Niño preparations amid flood fears",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-steps-up-el-nino-preparations-amid-flood-fears/",
-      "published_date": "2026-10-08T12:34:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Koonfur Galbeed oo xoojinaysa diyaar-garowga fatahaadaha la filayo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/koonfur-galbeed-oo-xoojinaysa-diyaar-garowga-fatahaadaha-la-filayo/",
-      "published_date": "2026-10-08T12:33:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death of 87-year old sparks furious Spain housing protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss",
-      "published_date": "2026-10-08T01:15:27+00:00",
       "category": "Local Events"
     }
   ]
