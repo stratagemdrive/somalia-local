@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-11T01:31:59.205924+00:00",
-  "story_count": 87,
+  "last_updated": "2026-10-11T16:35:57.871583+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "How the ICC can be saved",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
+      "published_date": "2026-10-11T15:15:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+      "published_date": "2026-10-11T14:09:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Mafia Football Murders | True Crime Reports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
+      "published_date": "2026-10-11T14:05:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Puntland Acting President Meets Ethiopian Consul Amid Regional Tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-acting-president-meets-ethiopian-consul-amid-regional-tensions/",
+      "published_date": "2026-10-11T13:48:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
+      "published_date": "2026-10-11T12:04:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 139 dead, 84 missing as migrant boat capsizes off Djibouti",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+      "published_date": "2026-10-11T11:34:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia: Government forces mass near opposition leaders’ homes",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-masses-forces-near-opposition-leaders-homes-mogadishu/",
+      "published_date": "2026-10-11T10:09:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
       "source": "Al Jazeera",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kenyan patient suspected of Ebola infection tests negative",
+      "title": "Tour bus crash in Turkiye leaves at least 11 dead",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss",
-      "published_date": "2026-10-08T23:53:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
+      "published_date": "2026-10-11T15:52:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Putin pledges Russia’s support to end US-led war on Iran",
+      "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
-      "published_date": "2026-10-08T22:30:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
+      "published_date": "2026-10-11T14:34:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
-      "published_date": "2026-10-08T22:10:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+      "published_date": "2026-10-11T14:04:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia cabinet approves Ebola preparedness measures, forms six-ministry committee",
+      "title": "Somali Opposition Party Warns Against Possible Military Action Against Opposition Leaders",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-cabinet-approves-ebola-preparedness-measures-forms-six-ministry-committee/",
-      "published_date": "2026-10-08T12:29:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-opposition-party-warns-against-possible-military-action-against-opposition-leaders/",
+      "published_date": "2026-10-11T13:50:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+      "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
-      "published_date": "2026-10-07T23:33:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
+      "published_date": "2026-10-11T13:34:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+      "title": "Himilo Qaran oo Xasan Sheekh uga digay duullaan lagu qaado xarumaha siyaasiyiinta",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/himilo-qaran-oo-xasan-sheekh-uga-digay-duullaan-lagu-qaado-xarumaha-siyaasiyiinta/",
+      "published_date": "2026-10-11T12:56:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
-      "published_date": "2026-10-07T20:17:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
+      "published_date": "2026-10-11T12:28:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia Criticizes President Hassan Sheikh’s Position at Egypt Summit",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/ethiopia-criticizes-president-hassan-sheikhs-position-at-egypt-summit/",
-      "published_date": "2026-10-07T17:49:29+00:00",
-      "category": "Diplomacy"
+      "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
+      "published_date": "2026-10-11T12:09:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia: 12 killed, 300 injured in Riyadh airport attack",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/world/riyadh-airport-attack-12-killed-300-injured/",
+      "published_date": "2026-10-11T07:43:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Drones and Death: Families Reel from the UAE’s “Catastrophic” Strikes in War on ISIS",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/10/drones-and-death-families-reel-from-the-uaes-catastrophic-strikes-in-war-on-isis/",
-      "published_date": "2026-10-10T14:32:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has Yemen returned to ‘full-scale war’?",
+      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
-      "published_date": "2026-10-10T14:10:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
-      "published_date": "2026-10-10T13:25:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss",
-      "published_date": "2026-10-10T13:23:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
-      "published_date": "2026-10-10T12:50:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
-      "published_date": "2026-10-10T12:40:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
-      "published_date": "2026-10-10T12:33:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya oo Cambaareysay Weerarrada Lagu Qaaday Garoomada Diyaaradaha Sacuudiga",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-cambaareysay-weerarrada-lagu-qaaday-garoomada-diyaaradaha-sacuudiga/",
-      "published_date": "2026-10-10T05:35:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
-      "published_date": "2026-10-10T00:22:52+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+      "published_date": "2026-10-11T15:10:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "Malawi motorists queue for days as fuel shortage bites",
@@ -459,18 +466,53 @@
       "category": "Economy"
     },
     {
-      "title": "Somali President Pitches Investment Opportunities at Alamein-Africa Forum",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-pitches-investment-opportunities-at-alamein-africa-forum/",
-      "published_date": "2026-10-04T08:17:02+00:00",
-      "category": "Economy"
+      "title": "Power bank fire forces plane to emergency land in India",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+      "published_date": "2026-10-11T15:26:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
+      "title": "Somali Parliament Speaker Urges Faster Work on Bills Protecting Women and Children",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliament-speaker-urges-faster-work-on-bills-protecting-women-and-children/",
+      "published_date": "2026-10-11T13:46:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
-      "published_date": "2026-10-04T01:55:46+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss",
+      "published_date": "2026-10-11T11:42:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland iyo Itoobiya oo ka wada hadlay xiriirkooda",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-iyo-itoobiya-oo-ka-wada-hadlay-xiriirkooda/",
+      "published_date": "2026-10-11T11:06:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lugatoor oo kulan la qaatay Gen. Dimbore",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/11/lugatoor-oo-kulan-la-qaatay-gen-dimbore/",
+      "published_date": "2026-10-11T10:32:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali parliament concludes second reading of central bank bill, judicial cooperation agreements with Turkey",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliament-concludes-second-reading-of-central-bank-bill-judicial-cooperation-agreements-with-turkey/",
+      "published_date": "2026-10-11T07:27:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo Badhan ka mamnuucday qaadashada hubka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/11/puntland-oo-badhan-ka-mamnuucday-qaadashada-hubka/",
+      "published_date": "2026-10-11T06:38:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Azerbaijan school pupils protest over reported hijab restrictions",
@@ -561,55 +603,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/10/09/puntland-oo-u-hambalyeysay-xildhibaan-sagal-cabdiweli/",
       "published_date": "2026-10-09T18:45:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
-      "published_date": "2026-10-09T18:23:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
-      "published_date": "2026-10-09T15:59:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India’s Cockroach Party says members detained ahead of protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss",
-      "published_date": "2026-10-09T12:17:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s National Human Rights Commission seeks stronger ties with National University",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-national-human-rights-commission-seeks-stronger-ties-with-national-university/",
-      "published_date": "2026-10-09T07:59:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump urges Minnesotans to ‘fight back’ against Somali immigrants",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/trump-urges-minnesotans-to-fight-back-against-somali-immigrants/",
-      "published_date": "2026-10-09T06:50:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ka hadashay dhul loo seereeyay garoonka diyaaradaha Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/09/puntland-oo-ka-hadashay-dhul-loo-seereeyay-garoonka-diyaaradaha-garoowe/",
-      "published_date": "2026-10-09T06:18:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
-      "published_date": "2026-10-09T02:00:31+00:00",
       "category": "Local Events"
     }
   ]
