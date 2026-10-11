@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-10T16:09:02.625707+00:00",
-  "story_count": 86,
+  "last_updated": "2026-10-11T01:31:59.205924+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+      "published_date": "2026-10-11T00:23:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is the Trump administration trying to dismantle the ICC?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+      "published_date": "2026-10-10T19:59:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia condemns Houthi attacks on Saudi airports that killed civilians",
       "source": "Shabelle Media",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Eritrean troops seen in Ethiopia’s Tigray as fears of wider conflict grow",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/eritrean-troops-seen-ethiopia-tigray-wider-conflict/",
-      "published_date": "2026-10-07T17:33:26+00:00",
-      "category": "Diplomacy"
+      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "published_date": "2026-10-11T01:02:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
+      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
-      "published_date": "2026-10-07T16:02:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+      "published_date": "2026-10-11T00:00:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni government’s military says its forces advancing against Houthis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "published_date": "2026-10-10T22:12:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Damage seen inside Saudi airport after third attack this week",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
+      "published_date": "2026-10-10T20:43:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+      "published_date": "2026-10-10T20:14:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Ukraine needs a new president who will agree to end the war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+      "published_date": "2026-10-10T19:32:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
+      "published_date": "2026-10-10T18:38:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
+      "published_date": "2026-10-10T18:26:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia’s govt loses three towns in 48 hours as rivals advance",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-three-towns-48-hours/",
+      "published_date": "2026-10-10T18:23:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Three injured in third school attack in Poland in less than a week",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Intercommunal clashes kill 71 people in South Sudan",
+      "title": "Malawi motorists queue for days as fuel shortage bites",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
-      "published_date": "2026-10-10T00:01:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
-      "published_date": "2026-10-10T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
-      "published_date": "2026-10-09T20:13:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-      "published_date": "2026-10-09T16:07:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss",
-      "published_date": "2026-10-09T13:09:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jubaland oo la wareegtay maamulka Beled Xaawo ee gobolka Gedo",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jubaland-oo-la-wareegtay-maamulka-beled-xaawo-ee-gobolka-gedo/",
-      "published_date": "2026-10-09T11:12:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soomaaliya oo Hambalyo u Dirtay Uganda Munaasabadda 64-aad ee Xorriyaddeeda",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-hambalyo-u-dirtay-uganda-munaasabadda-64-aad-ee-xorriyaddeeda/",
-      "published_date": "2026-10-09T11:00:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
-      "published_date": "2026-10-09T00:39:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-      "published_date": "2026-10-09T00:12:18+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
+      "published_date": "2026-10-10T21:10:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
@@ -466,6 +473,34 @@
       "category": "Economy"
     },
     {
+      "title": "Azerbaijan school pupils protest over reported hijab restrictions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
+      "published_date": "2026-10-10T19:49:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
+      "published_date": "2026-10-10T19:23:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK Raises Concerns Over Journalist Arrests in Somaliland, Urges Media Protections",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/uk-raises-concerns-over-journalist-arrests-in-somaliland-urges-media-protections/",
+      "published_date": "2026-10-10T18:26:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. Warns Houthis May Be Seeking a Foothold in Somalia for Regional Operations",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/u-s-warns-houthis-may-be-seeking-a-foothold-in-somalia-for-regional-operations/",
+      "published_date": "2026-10-10T17:51:29+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Why is the US sanctioning the International Criminal Court?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
@@ -575,34 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
       "published_date": "2026-10-09T02:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
-      "published_date": "2026-10-09T01:15:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How much worse can Yemen’s humanitarian crisis become?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss",
-      "published_date": "2026-10-08T20:06:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal-Morocco AFCON title decision within days, says CAS",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/cas-promises-senegal-morocco-afcon-title-decision-within-days?traffic_source=rss",
-      "published_date": "2026-10-08T17:08:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UEFA details FIFA presidential candidate criteria in bid to oust Infantino",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
-      "published_date": "2026-10-08T16:53:25+00:00",
       "category": "Local Events"
     }
   ]
