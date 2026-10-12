@@ -1,8 +1,71 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-12T02:01:44.043003+00:00",
+  "last_updated": "2026-10-12T20:11:39.638373+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
+      "published_date": "2026-10-12T19:27:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+      "published_date": "2026-10-12T18:51:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
+      "published_date": "2026-10-12T18:24:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Claims Neutrality Amid Escalating Tensions Between Ethiopia and Eritrea",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalia-claims-neutrality-amid-escalating-tensions-between-ethiopia-and-eritrea/",
+      "published_date": "2026-10-12T18:23:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
+      "published_date": "2026-10-12T17:07:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
+      "published_date": "2026-10-12T16:02:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At Least 139 Migrants Dead After Boat Capsizes Off Djibouti",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti/",
+      "published_date": "2026-10-12T12:29:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s Former Prime Minister Warns of Risks From Military Moves Near Former Leaders’ Homes",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-former-prime-minister-warns-of-risks-from-military-moves-near-former-leaders-homes/",
+      "published_date": "2026-10-12T07:06:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Opposition Council Accuses President of Intimidating Former Leader",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-opposition-council-accuses-president-of-intimidating-former-leader/",
+      "published_date": "2026-10-12T06:59:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
       "source": "Al Jazeera",
@@ -81,67 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "At least 139 dead, 84 missing as migrant boat capsizes off Djibouti",
+      "title": "Zohran Mamdani orders use-of-force review for New York City police",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
-      "published_date": "2026-10-11T11:34:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss",
+      "published_date": "2026-10-12T17:50:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia: Government forces mass near opposition leaders’ homes",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-masses-forces-near-opposition-leaders-homes-mogadishu/",
-      "published_date": "2026-10-11T10:09:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-      "published_date": "2026-10-11T00:23:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why is the Trump administration trying to dismantle the ICC?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
-      "published_date": "2026-10-10T19:59:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia condemns Houthi attacks on Saudi airports that killed civilians",
+      "title": "Somalia marks National Flag Day with ceremony led by President Hassan Sheikh",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-condemns-houthi-attacks-on-saudi-airports-that-killed-civilians/",
-      "published_date": "2026-10-10T08:39:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalia-marks-national-flag-day-with-ceremony-led-by-president-hassan-sheikh/",
+      "published_date": "2026-10-12T17:29:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Turkey discuss judicial cooperation at Istanbul meeting",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-turkey-discuss-judicial-cooperation-at-istanbul-meeting/",
-      "published_date": "2026-10-10T08:38:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "title": "Blast kills teenager, injures dozens in northern Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
-      "published_date": "2026-10-09T20:56:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
+      "published_date": "2026-10-12T16:44:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+      "title": "France school shooting: Police detain pupil after two injured",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
-      "published_date": "2026-10-09T19:32:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
+      "published_date": "2026-10-12T15:47:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+      "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
-      "published_date": "2026-10-09T18:06:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
+      "published_date": "2026-10-12T15:19:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
+      "published_date": "2026-10-12T14:27:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
+      "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
-      "published_date": "2026-10-11T12:09:54+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss",
+      "published_date": "2026-10-12T18:52:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi Arabia: 12 killed, 300 injured in Riyadh airport attack",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/world/riyadh-airport-attack-12-killed-300-injured/",
-      "published_date": "2026-10-11T07:43:10+00:00",
-      "category": "Military"
+      "title": "Will Ukraine survive the winter?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
+      "published_date": "2026-10-12T15:04:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-      "published_date": "2026-10-11T01:02:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-      "published_date": "2026-10-11T00:00:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni government’s military says its forces advancing against Houthis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-      "published_date": "2026-10-10T22:12:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Damage seen inside Saudi airport after third attack this week",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-      "published_date": "2026-10-10T20:43:19+00:00",
-      "category": "Military"
+      "title": "Wasiirka Batroolka Soomaaliya oo Ka Qaybgalay Madasha Caalamiga ah ee Tamarta ee Riyadh",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirka-batroolka-soomaaliya-oo-ka-qaybgalay-madasha-caalamiga-ah-ee-tamarta-ee-riyadh/",
+      "published_date": "2026-10-12T06:09:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Zelenskyy welcomes US-announced energy ceasefire",
@@ -372,20 +393,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
       "published_date": "2026-10-06T14:15:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss",
-      "published_date": "2026-10-05T19:01:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
-      "published_date": "2026-10-05T13:11:42+00:00",
       "category": "Energy"
     },
     {
@@ -480,11 +487,46 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia PM Praises Women Entrepreneurs at Banadir Business Exhibition",
+      "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
+      "published_date": "2026-10-12T19:06:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland President Urges Trump to Recognize Somaliland, Citing Strategic Partnership",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-urges-trump-to-recognize-somaliland-citing-strategic-partnership/",
+      "published_date": "2026-10-12T17:47:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos: Protests over voter lists escalate in India’s capital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss",
+      "published_date": "2026-10-12T16:24:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia: Former president Sharif Sheikh Ahmed denies his guards harassed NISA officers",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-sharif-sheikh-ahmed-denies-guards-harassed-nisa-officers/",
+      "published_date": "2026-10-12T12:34:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Former President Sharif Sheikh Ahmed Denies NISA Allegations",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-pm-praises-women-entrepreneurs-at-banadir-business-exhibition/",
-      "published_date": "2026-10-05T06:45:07+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalias-former-president-sharif-sheikh-ahmed-denies-nisa-allegations/",
+      "published_date": "2026-10-12T07:04:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Intelligence Agency Accuses Sharif Sheikh Ahmed’s Supporters of Attacks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-intelligence-agency-accuses-sharif-sheikh-ahmeds-supporters-of-attacks/",
+      "published_date": "2026-10-12T07:02:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pakistan suspends Imran Khan’s party-led provincial government",
@@ -582,48 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
       "published_date": "2026-10-10T14:19:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss",
-      "published_date": "2026-10-10T12:17:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exposing an alleged crime kingpin’s Cambodian empire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss",
-      "published_date": "2026-10-10T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Northeast state denies president escaped abduction plot",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-somaliland-northeast-state-denies-abduction-plot/",
-      "published_date": "2026-10-10T11:21:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can a Somali writer be criticised simply for writing a biography without the family’s permission?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/10/can-a-somali-writer-be-criticised-simply-for-writing-a-biography-without-the-familys-permission/",
-      "published_date": "2026-10-10T08:53:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australian parliament speaker elected IPU president at Tanzania assembly",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/australian-parliament-speaker-elected-ipu-president-at-tanzania-assembly/",
-      "published_date": "2026-10-10T08:40:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roobab ka da’ay deegaano ka tirsan Nugaal iyo Mudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/10/roobab-ka-daay-deegaano-ka-tirsan-nugaal-iyo-mudug/",
-      "published_date": "2026-10-10T06:53:27+00:00",
       "category": "Local Events"
     }
   ]
