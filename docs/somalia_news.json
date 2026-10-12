@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-11T16:35:57.871583+00:00",
-  "story_count": 86,
+  "last_updated": "2026-10-12T02:01:44.043003+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+      "published_date": "2026-10-12T01:12:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+      "published_date": "2026-10-12T00:39:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+      "published_date": "2026-10-11T19:19:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Government Deploys Troops Near Opposition Leaders’ Residences in Mogadishu",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-government-deploys-troops-near-opposition-leaders-residences-in-mogadishu/",
+      "published_date": "2026-10-11T17:49:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Somalia Foreign Minister Says Some Countries May Reconsider Recognition of the Mogadishu Government",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/former-somalia-foreign-minister-says-some-countries-may-reconsider-recognition-of-the-mogadishu-government/",
+      "published_date": "2026-10-11T17:30:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At Least 139 Migrants, Including Children, Die in Boat Capsizing off Djibouti",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/at-least-139-migrants-including-children-die-in-boat-capsizing-off-djibouti/",
+      "published_date": "2026-10-11T17:19:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How the ICC can be saved",
       "source": "Al Jazeera",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US sanctions International Criminal Court itself in major escalation",
+      "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
-      "published_date": "2026-10-09T15:08:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+      "published_date": "2026-10-12T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia and Eritrea accuse one another of launching war",
+      "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss",
-      "published_date": "2026-10-09T14:11:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+      "published_date": "2026-10-11T23:20:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bangladesh’s mango diplomacy with India has reached its limits",
+      "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss",
-      "published_date": "2026-10-09T14:09:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+      "published_date": "2026-10-11T22:49:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Safiirka Soomaaliya ee Kenya oo Nairobi ku Qaabilay Saxafiyiin Soomaaliyeed oo Tababar IGAD uga Qaybgalay Machakos",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/safiirka-soomaaliya-ee-kenya-oo-nairobi-ku-qaabilay-saxafiyiin-soomaaliyeed-oo-tababar-igad-uga-qaybgalay-machakos/",
-      "published_date": "2026-10-09T05:59:33+00:00",
-      "category": "Diplomacy"
+      "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+      "published_date": "2026-10-11T22:24:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+      "title": "Two killed near Israeli-occupied area in south Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
-      "published_date": "2026-10-09T00:50:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+      "published_date": "2026-10-11T20:46:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
+      "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
-      "published_date": "2026-10-09T00:08:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+      "published_date": "2026-10-11T20:44:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+      "published_date": "2026-10-11T19:59:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Tour bus crash in Turkiye leaves at least 11 dead",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+      "title": "Zelenskyy welcomes US-announced energy ceasefire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
-      "published_date": "2026-10-10T20:14:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+      "published_date": "2026-10-11T20:28:46+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump says Ukraine needs a new president who will agree to end the war",
+      "title": "Lebanon’s first electric train hopes to revive railway system",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-      "published_date": "2026-10-10T19:32:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
-      "published_date": "2026-10-10T18:38:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
-      "published_date": "2026-10-10T18:26:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s govt loses three towns in 48 hours as rivals advance",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-three-towns-48-hours/",
-      "published_date": "2026-10-10T18:23:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three injured in third school attack in Poland in less than a week",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
-      "published_date": "2026-10-10T15:13:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
-      "published_date": "2026-10-10T14:39:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
+      "published_date": "2026-10-11T18:00:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
@@ -375,6 +389,13 @@
       "category": "Energy"
     },
     {
+      "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+      "published_date": "2026-10-11T18:47:57+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Jubbaland approves $60.9 million budget for 2027",
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/jubbaland-approves-60-9-million-budget-for-2027/",
@@ -464,6 +485,20 @@
       "url": "https://shabellemedia.com/somalia-pm-praises-women-entrepreneurs-at-banadir-business-exhibition/",
       "published_date": "2026-10-05T06:45:07+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Pakistan suspends Imran Khan’s party-led provincial government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+      "published_date": "2026-10-11T20:21:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss",
+      "published_date": "2026-10-11T19:31:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Power bank fire forces plane to emergency land in India",
@@ -589,20 +624,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/10/10/roobab-ka-daay-deegaano-ka-tirsan-nugaal-iyo-mudug/",
       "published_date": "2026-10-10T06:53:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How will Spain’s housing crisis affect elections?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
-      "published_date": "2026-10-09T20:39:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo u hambalyeysay xildhibaan Sagal Cabdiweli",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/09/puntland-oo-u-hambalyeysay-xildhibaan-sagal-cabdiweli/",
-      "published_date": "2026-10-09T18:45:51+00:00",
       "category": "Local Events"
     }
   ]
