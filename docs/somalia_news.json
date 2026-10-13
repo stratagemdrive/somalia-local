@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-12T20:11:39.638373+00:00",
+  "last_updated": "2026-10-13T03:19:59.391812+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
+      "published_date": "2026-10-13T01:46:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
+      "published_date": "2026-10-12T21:33:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
       "source": "Al Jazeera",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Puntland Acting President Meets Ethiopian Consul Amid Regional Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-acting-president-meets-ethiopian-consul-amid-regional-tensions/",
-      "published_date": "2026-10-11T13:48:31+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+      "published_date": "2026-10-13T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
+      "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
-      "published_date": "2026-10-11T12:04:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+      "published_date": "2026-10-12T23:54:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US archbishop says Catholics in army should not participate in firing squad",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
+      "published_date": "2026-10-12T23:05:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
+      "published_date": "2026-10-12T21:27:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Africa deputy police chief resigns amid sex offence charges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
+      "published_date": "2026-10-12T20:43:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
+      "published_date": "2026-10-12T20:06:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Zohran Mamdani orders use-of-force review for New York City police",
@@ -183,6 +225,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
       "published_date": "2026-10-12T14:27:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Golaha Mustaqbalka oo war ka soo saaray xiisadda ka taagan guriga Sheekh Shariif",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/12/golaha-mustaqbalka-oo-war-ka-soo-saaray-xiisadda-ka-taagan-guriga-sheekh-shariif/",
+      "published_date": "2026-10-12T05:40:19+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Tour bus crash in Turkiye leaves at least 11 dead",
+      "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
-      "published_date": "2026-10-11T15:52:29+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+      "published_date": "2026-10-13T03:11:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+      "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
-      "published_date": "2026-10-11T14:34:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-      "published_date": "2026-10-11T14:04:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Opposition Party Warns Against Possible Military Action Against Opposition Leaders",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-opposition-party-warns-against-possible-military-action-against-opposition-leaders/",
-      "published_date": "2026-10-11T13:50:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
-      "published_date": "2026-10-11T13:34:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Himilo Qaran oo Xasan Sheekh uga digay duullaan lagu qaado xarumaha siyaasiyiinta",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/himilo-qaran-oo-xasan-sheekh-uga-digay-duullaan-lagu-qaado-xarumaha-siyaasiyiinta/",
-      "published_date": "2026-10-11T12:56:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-      "published_date": "2026-10-11T12:28:11+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
+      "published_date": "2026-10-12T21:16:58+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
@@ -473,18 +487,32 @@
       "category": "Economy"
     },
     {
-      "title": "Syrian Airlines unveils laser-sharp look for the future",
+      "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
-      "published_date": "2026-10-06T00:25:01+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+      "published_date": "2026-10-12T22:44:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
+      "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss",
-      "published_date": "2026-10-05T21:03:21+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
+      "published_date": "2026-10-12T22:23:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
+      "published_date": "2026-10-12T21:08:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenager shoots headmaster, teacher at French school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
+      "published_date": "2026-10-12T19:44:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
@@ -596,34 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
       "published_date": "2026-10-10T19:49:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
-      "published_date": "2026-10-10T19:23:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK Raises Concerns Over Journalist Arrests in Somaliland, Urges Media Protections",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/uk-raises-concerns-over-journalist-arrests-in-somaliland-urges-media-protections/",
-      "published_date": "2026-10-10T18:26:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. Warns Houthis May Be Seeking a Foothold in Somalia for Regional Operations",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/u-s-warns-houthis-may-be-seeking-a-foothold-in-somalia-for-regional-operations/",
-      "published_date": "2026-10-10T17:51:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is the US sanctioning the International Criminal Court?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
-      "published_date": "2026-10-10T14:19:43+00:00",
       "category": "Local Events"
     }
   ]
