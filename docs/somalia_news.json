@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-13T18:04:09.632752+00:00",
+  "last_updated": "2026-10-14T01:34:10.979177+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
+      "published_date": "2026-10-14T01:15:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US ambassador to Greece resigns amid misconduct allegations",
       "source": "Al Jazeera",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Former Somalia Foreign Minister Says Some Countries May Reconsider Recognition of the Mogadishu Government",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/former-somalia-foreign-minister-says-some-countries-may-reconsider-recognition-of-the-mogadishu-government/",
-      "published_date": "2026-10-11T17:30:44+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+      "published_date": "2026-10-14T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mauritius imposes curfew after night of unrest over police shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
+      "published_date": "2026-10-13T22:41:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
+      "published_date": "2026-10-13T22:33:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
+      "published_date": "2026-10-13T20:33:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Somalia says 260 armed men removed from opposition leaders’ homes",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Blast kills teenager, injures dozens in northern Israel",
+      "title": "Trump says Houthis trying to increase oil prices before US elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
-      "published_date": "2026-10-12T16:44:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France school shooting: Police detain pupil after two injured",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
-      "published_date": "2026-10-12T15:47:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
-      "published_date": "2026-10-12T15:19:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
-      "published_date": "2026-10-12T14:27:49+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
+      "published_date": "2026-10-13T19:33:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
@@ -410,11 +417,18 @@
       "category": "Energy"
     },
     {
-      "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
+      "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
-      "published_date": "2026-10-06T23:05:38+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
+      "published_date": "2026-10-14T01:07:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manchester United’s Martinez blasts board’s lack of investment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
+      "published_date": "2026-10-13T22:57:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
@@ -466,18 +480,25 @@
       "category": "Economy"
     },
     {
-      "title": "South Sudan’s aid crisis deepens as food stocks run low",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss",
-      "published_date": "2026-10-07T00:13:59+00:00",
-      "category": "Economy"
+      "title": "Somalia’s Supreme Court Ratifies Results of Galmudug Parliamentary Re-Run Election",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalias-supreme-court-ratifies-results-of-galmudug-parliamentary-re-run-election/",
+      "published_date": "2026-10-13T22:42:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
+      "title": "Trump Calls Somaliland a ‘Totally Different Country’ but Suggests It Rename Itself",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/trump-calls-somaliland-a-totally-different-country-but-suggests-it-rename-itself/",
+      "published_date": "2026-10-13T22:24:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
-      "published_date": "2026-10-06T20:44:12+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
+      "published_date": "2026-10-13T21:25:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South West State leader meets British ambassador to discuss cooperation",
@@ -596,27 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
       "published_date": "2026-10-11T20:21:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss",
-      "published_date": "2026-10-11T19:31:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Power bank fire forces plane to emergency land in India",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
-      "published_date": "2026-10-11T15:26:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Parliament Speaker Urges Faster Work on Bills Protecting Women and Children",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-speaker-urges-faster-work-on-bills-protecting-women-and-children/",
-      "published_date": "2026-10-11T13:46:19+00:00",
       "category": "Local Events"
     }
   ]
