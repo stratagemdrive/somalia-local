@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-14T01:34:10.979177+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-14T15:45:21.519408+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+      "published_date": "2026-10-14T14:08:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Cabinet approves plan to implement new constitution",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-cabinet-approves-plan-to-implement-new-constitution/",
+      "published_date": "2026-10-14T11:52:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s foreign minister bids farewell to Saudi ambassador",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-foreign-minister-bids-farewell-to-saudi-ambassador/",
+      "published_date": "2026-10-14T11:48:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
       "source": "Al Jazeera",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+      "title": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
-      "published_date": "2026-10-12T00:39:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss",
+      "published_date": "2026-10-14T15:06:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+      "title": "Two scenarios for the Yemen war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
-      "published_date": "2026-10-11T19:19:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+      "published_date": "2026-10-14T13:50:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Government Deploys Troops Near Opposition Leaders’ Residences in Mogadishu",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-government-deploys-troops-near-opposition-leaders-residences-in-mogadishu/",
-      "published_date": "2026-10-11T17:49:32+00:00",
-      "category": "Diplomacy"
+      "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
+      "published_date": "2026-10-14T13:17:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss",
+      "published_date": "2026-10-14T12:50:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+      "published_date": "2026-10-14T11:39:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+      "published_date": "2026-10-14T11:16:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+      "published_date": "2026-10-14T10:57:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
+      "published_date": "2026-10-14T10:46:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Forces Kill Two Al-Shabaab Militants in Bay Region Operation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-forces-kill-two-al-shabaab-militants-in-bay-region-operation/",
+      "published_date": "2026-10-14T06:38:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kumaandooska Gorgor oo Hawlgal ka Fuliyay Gobolka Baay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/kumaandooska-gorgor-oo-hawlgal-ka-fuliyay-gobolka-baay/",
+      "published_date": "2026-10-14T06:17:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Somalia Sanctions 10 Individuals Over Alleged Al-Shabaab Financing",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-sanctions-10-individuals-over-alleged-al-shabaab-financing/",
-      "published_date": "2026-10-13T14:31:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lafta-Gareen oo lagu daray liiska shaqsiyaad dowladda cunaqabateynta saartay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/lafta-gareen-oo-lagu-daray-liiska-shaqsiyaad-dowladda-cunaqabateynta-saartay/",
-      "published_date": "2026-10-13T14:29:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+      "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-      "published_date": "2026-10-13T00:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
+      "published_date": "2026-10-14T14:38:09+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+      "title": "Trump plans for ‘massive’ resource exploration in Greenland",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
-      "published_date": "2026-10-12T23:54:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US archbishop says Catholics in army should not participate in firing squad",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
-      "published_date": "2026-10-12T23:05:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
-      "published_date": "2026-10-12T21:27:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Africa deputy police chief resigns amid sex offence charges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
-      "published_date": "2026-10-12T20:43:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
-      "published_date": "2026-10-12T20:06:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zohran Mamdani orders use-of-force review for New York City police",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss",
-      "published_date": "2026-10-12T17:50:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia marks National Flag Day with ceremony led by President Hassan Sheikh",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-marks-national-flag-day-with-ceremony-led-by-president-hassan-sheikh/",
-      "published_date": "2026-10-12T17:29:12+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
+      "published_date": "2026-10-14T11:05:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump says Houthis trying to increase oil prices before US elections",
@@ -410,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Millions of Pakistanis get government fuel relief but some miss out",
+      "title": "What is potash, and why is the US importing it from Belarus?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
-      "published_date": "2026-10-07T14:02:40+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
+      "published_date": "2026-10-14T14:36:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How AI apps are offering free substitutes for Big Tech software",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss",
+      "published_date": "2026-10-14T13:25:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
+      "published_date": "2026-10-14T12:28:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia Holds Talks with World Bank and IMF Officials in Bangkok",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-holds-talks-with-world-bank-and-imf-officials-in-bangkok/",
+      "published_date": "2026-10-14T06:36:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
@@ -466,18 +501,39 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia urges European investors to explore country’s strategic resources",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-urges-european-investors-to-explore-countrys-strategic-resources-2/",
-      "published_date": "2026-10-07T08:41:42+00:00",
-      "category": "Economy"
+      "title": "Pope Leo recovering well after cancer surgery, Vatican says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss",
+      "published_date": "2026-10-14T15:09:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia urges European investors to explore country’s strategic resources",
+      "title": "Do any of these Israeli candidates support a Palestinian state?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+      "published_date": "2026-10-14T11:43:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo qabatay doonyo si sharcidarro ah uga kalluumeysanayay xeebaheeda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/14/puntland-oo-qabatay-doonyo-si-sharcidarro-ah-uga-kalluumeysanayay-xeebaheeda/",
+      "published_date": "2026-10-14T10:37:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Welcomes 162 Young Migrants Returned from Libya",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-urges-european-investors-to-explore-countrys-strategic-resources/",
-      "published_date": "2026-10-07T08:39:26+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalia-welcomes-162-young-migrants-returned-from-libya/",
+      "published_date": "2026-10-14T06:34:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia Moves to Reactivate International Airline Ticket Settlement System",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-moves-to-reactivate-international-airline-ticket-settlement-system/",
+      "published_date": "2026-10-14T06:32:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia’s Supreme Court Ratifies Results of Galmudug Parliamentary Re-Run Election",
@@ -582,41 +638,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somaliland-president-urges-trump-to-recognize-somaliland-citing-strategic-partnership/",
       "published_date": "2026-10-12T17:47:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Photos: Protests over voter lists escalate in India’s capital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss",
-      "published_date": "2026-10-12T16:24:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia: Former president Sharif Sheikh Ahmed denies his guards harassed NISA officers",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-sharif-sheikh-ahmed-denies-guards-harassed-nisa-officers/",
-      "published_date": "2026-10-12T12:34:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Former President Sharif Sheikh Ahmed Denies NISA Allegations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-former-president-sharif-sheikh-ahmed-denies-nisa-allegations/",
-      "published_date": "2026-10-12T07:04:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Intelligence Agency Accuses Sharif Sheikh Ahmed’s Supporters of Attacks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-intelligence-agency-accuses-sharif-sheikh-ahmeds-supporters-of-attacks/",
-      "published_date": "2026-10-12T07:02:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan suspends Imran Khan’s party-led provincial government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
-      "published_date": "2026-10-11T20:21:13+00:00",
       "category": "Local Events"
     }
   ]
