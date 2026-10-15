@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-14T15:45:21.519408+00:00",
+  "last_updated": "2026-10-15T01:11:35.126931+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "How will a new alliance affect the conflict in eastern DRC?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/14/how-will-a-new-alliance-affect-the-conflict-in-eastern-drc?traffic_source=rss",
+      "published_date": "2026-10-14T19:54:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US lifts sanctions on Venezuela’s top legislator",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
+      "published_date": "2026-10-14T19:53:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Colombia inaugurates embassy to Israel in Jerusalem",
       "source": "Al Jazeera",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Opposition Council Accuses President of Intimidating Former Leader",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-opposition-council-accuses-president-of-intimidating-former-leader/",
-      "published_date": "2026-10-12T06:59:56+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+      "published_date": "2026-10-15T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
+      "title": "Israeli quadcopter drone drops bomb in Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
-      "published_date": "2026-10-12T01:12:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
+      "published_date": "2026-10-14T20:47:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Families of Trinidadian men killed in US boat strike demand accountability",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
+      "published_date": "2026-10-14T20:42:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia attack hits Kyiv after reported intelligence lapse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
+      "published_date": "2026-10-14T20:14:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia agrees to buy Pakistani JF-17 fighters",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-agrees-to-buy-pakistani-jf-17-fighters/",
+      "published_date": "2026-10-14T16:48:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
+      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss",
-      "published_date": "2026-10-13T17:18:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+      "published_date": "2026-10-14T23:03:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
+      "title": "Spanish NGO halts Mediterranean rescue operations, citing fuel prices",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
-      "published_date": "2026-10-13T16:38:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK spy chief says Iran is stepping up targeting of military bases",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
-      "published_date": "2026-10-13T16:06:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-      "published_date": "2026-10-13T15:01:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/block-blunt-break-whats-in-natos-new-russia-war-plan?traffic_source=rss",
-      "published_date": "2026-10-13T14:52:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/14/spanish-ngo-halts-mediterranean-rescue-operations-citing-fuel-prices?traffic_source=rss",
+      "published_date": "2026-10-14T20:10:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine takes aim at Russia’s AI data infrastructure",
+      "title": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss",
-      "published_date": "2026-10-09T13:01:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Somalia joins regional talks on marine conservation and climate change in Tanzania",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-joins-regional-talks-on-marine-conservation-and-climate-change-in-tanzania/",
-      "published_date": "2026-10-09T07:58:01+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/sports/2026/10/14/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale?traffic_source=rss",
+      "published_date": "2026-10-14T20:25:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "What is potash, and why is the US importing it from Belarus?",
@@ -494,11 +501,32 @@
       "category": "Economy"
     },
     {
-      "title": "EU-China trade talks begin in Beijing amid escalating pressure",
+      "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
-      "published_date": "2026-10-07T23:45:03+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
+      "published_date": "2026-10-15T00:24:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexican court closes case against official over 2023 detention centre fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss",
+      "published_date": "2026-10-15T00:08:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+      "published_date": "2026-10-14T21:35:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman rescued after being swept away by Istanbul flash flood",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss",
+      "published_date": "2026-10-14T20:29:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pope Leo recovering well after cancer surgery, Vatican says",
@@ -610,34 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
       "published_date": "2026-10-12T22:23:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
-      "published_date": "2026-10-12T21:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager shoots headmaster, teacher at French school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
-      "published_date": "2026-10-12T19:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
-      "published_date": "2026-10-12T19:06:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland President Urges Trump to Recognize Somaliland, Citing Strategic Partnership",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-president-urges-trump-to-recognize-somaliland-citing-strategic-partnership/",
-      "published_date": "2026-10-12T17:47:41+00:00",
       "category": "Local Events"
     }
   ]
