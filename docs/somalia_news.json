@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-15T01:11:35.126931+00:00",
-  "story_count": 91,
+  "last_updated": "2026-10-15T15:32:26.970282+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Delegates walk out as Israeli president addresses summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/delegates-walk-out-as-israeli-president-addresses-summit?traffic_source=rss",
+      "published_date": "2026-10-15T15:14:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "STATEMENT ON SOMALIA’S ELECTORAL PROCESS AND POLITICAL FUTURE",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/statement-on-somalias-electoral-process-and-political-future/",
+      "published_date": "2026-10-15T13:50:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "U.S. Sanctions Settlement With Bank of America Involves Apparent Somalia Violations",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/u-s-sanctions-settlement-with-bank-of-america-involves-apparent-somalia-violations/",
+      "published_date": "2026-10-15T01:57:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How will a new alliance affect the conflict in eastern DRC?",
       "source": "Al Jazeera",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
+      "title": "US teen held over Hindu temple attack plot: Is anti-Indian racism rising?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
-      "published_date": "2026-10-12T16:02:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/15/us-teen-held-over-hindu-temple-attack-plot-is-anti-indian-racism-rising?traffic_source=rss",
+      "published_date": "2026-10-15T14:38:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "At Least 139 Migrants Dead After Boat Capsizes Off Djibouti",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti/",
-      "published_date": "2026-10-12T12:29:58+00:00",
-      "category": "Diplomacy"
+      "title": "What is Starshield, and who limited Ukraine’s access to it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss",
+      "published_date": "2026-10-15T13:32:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s Former Prime Minister Warns of Risks From Military Moves Near Former Leaders’ Homes",
+      "title": "Russia accuses Ukraine of contradicting US brokered deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss",
+      "published_date": "2026-10-15T13:29:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Prepares Operations Against Al-Shabaab in Lower Shabelle",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-former-prime-minister-warns-of-risks-from-military-moves-near-former-leaders-homes/",
-      "published_date": "2026-10-12T07:06:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-army-prepares-operations-against-al-shabaab-in-lower-shabelle/",
+      "published_date": "2026-10-15T12:15:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Parliamentary Speaker Marks Ninth Anniversary of Mogadishu Truck Bombing",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliamentary-speaker-marks-ninth-anniversary-of-mogadishu-truck-bombing/",
+      "published_date": "2026-10-15T12:09:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran stalemate: What are Trump’s next military options?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
+      "published_date": "2026-10-15T11:41:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+      "published_date": "2026-10-15T10:52:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dozens of children killed after roof collapses in Pakistani school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+      "published_date": "2026-10-15T10:21:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taliyaha Ururka 82-aad ee Guutada 8-aad oo Ciidanka Faray Diyaar-garowga Howlgallo ka Dhanka ah Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/taliyaha-ururka-82-aad-ee-guutada-8-aad-oo-ciidanka-faray-diyaar-garowga-howlgallo-ka-dhanka-ah-al-shabaab/",
+      "published_date": "2026-10-15T09:51:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+      "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
-      "published_date": "2026-10-14T10:57:35+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
+      "published_date": "2026-10-15T11:45:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
+      "title": "Russia says Ukraine resumes attacks on oil refineries",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
-      "published_date": "2026-10-14T10:46:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Forces Kill Two Al-Shabaab Militants in Bay Region Operation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-forces-kill-two-al-shabaab-militants-in-bay-region-operation/",
-      "published_date": "2026-10-14T06:38:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kumaandooska Gorgor oo Hawlgal ka Fuliyay Gobolka Baay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kumaandooska-gorgor-oo-hawlgal-ka-fuliyay-gobolka-baay/",
-      "published_date": "2026-10-14T06:17:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
-      "published_date": "2026-10-14T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mauritius imposes curfew after night of unrest over police shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
-      "published_date": "2026-10-13T22:41:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
-      "published_date": "2026-10-13T22:33:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
-      "published_date": "2026-10-13T20:33:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia says 260 armed men removed from opposition leaders’ homes",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-260-armed-men-opposition-leaders-homes/",
-      "published_date": "2026-10-13T17:25:33+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+      "published_date": "2026-10-15T10:02:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
+      "title": "Photos: China and North Korea open new border bridge amid deepening ties",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
-      "published_date": "2026-10-09T20:17:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
-      "published_date": "2026-10-09T19:47:33+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties?traffic_source=rss",
+      "published_date": "2026-10-15T12:54:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
@@ -499,6 +506,55 @@
       "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
       "published_date": "2026-10-08T22:54:23+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syrian court sentences two to death over 2025 coastal violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/syrian-court-sentences-two-to-death-over-2025-coastal-violence?traffic_source=rss",
+      "published_date": "2026-10-15T15:19:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss",
+      "published_date": "2026-10-15T15:13:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia PM Launches Construction of SIMAD University Science and Technology Centre",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-pm-launches-construction-of-simad-university-science-and-technology-centre/",
+      "published_date": "2026-10-15T12:11:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia sets parliamentary and presidential election dates for 2027",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-sets-parliamentary-and-presidential-election-dates-for-2027/",
+      "published_date": "2026-10-15T12:07:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
+      "published_date": "2026-10-15T11:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Xaalad bani’aadanimo oo ka taagan deegaan ka tirsan Nugaal",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/15/puntland-xaalad-baniaadanimo-oo-ka-taagan-deegaan-ka-tirsan-nugaal/",
+      "published_date": "2026-10-15T05:54:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former U.S. Ambassador Raises Alarm Over Somalia’s Political Crisis and Fighting in South West State",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/former-u-s-ambassador-raises-alarm-over-somalias-political-crisis-and-fighting-in-south-west-state/",
+      "published_date": "2026-10-15T02:14:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
@@ -589,55 +645,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/south-west-state-leader-meets-british-ambassador-to-discuss-cooperation/",
       "published_date": "2026-10-13T14:13:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians dream of returning home after Israel raids West Bank camps",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss",
-      "published_date": "2026-10-13T14:02:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Booliska Puntland oo shaaciyay in ay qabteen nin ku eedeysan dad lagu laalay Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/13/booliska-puntland-oo-shaaciyay-in-ay-qabteen-nin-ku-eedeysan-dad-lagu-laalay-garoowe/",
-      "published_date": "2026-10-13T13:48:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
-      "published_date": "2026-10-13T13:03:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Larry André calls Somalia’s government ‘illegitimate,’ urges action to halt Southwest conflict",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/larry-andre-somalia-government-illegitimate-southwest-conflict/",
-      "published_date": "2026-10-13T11:27:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Booliska Puntland oo saaray digniin la xiriirta roobabka Dayrta",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/13/booliska-puntland-oo-saaray-digniin-la-xiriirta-roobabka-dayrta/",
-      "published_date": "2026-10-13T07:13:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
-      "published_date": "2026-10-12T22:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
-      "published_date": "2026-10-12T22:23:44+00:00",
       "category": "Local Events"
     }
   ]
