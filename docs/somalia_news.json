@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-16T00:58:39.899325+00:00",
+  "last_updated": "2026-10-16T15:18:45.349358+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
+      "published_date": "2026-10-16T14:19:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
+      "published_date": "2026-10-16T14:01:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia announces instalment of interim government in Tigray",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
+      "published_date": "2026-10-16T13:54:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maxaa looga hadlay kulankii isimada Daarood ee Nairobi?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/16/maxaa-looga-hadlay-kulankii-isimada-daarood-ee-nairobi/",
+      "published_date": "2026-10-16T13:40:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
+      "published_date": "2026-10-16T12:57:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, Algeria seek closer parliamentary ties through friendship committee",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-algeria-seek-closer-parliamentary-ties-through-friendship-committee/",
+      "published_date": "2026-10-16T07:48:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
       "source": "Al Jazeera",
@@ -102,46 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+      "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
-      "published_date": "2026-10-13T01:46:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
+      "published_date": "2026-10-16T14:12:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+      "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
-      "published_date": "2026-10-12T21:33:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-10-16T13:04:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
+      "title": "India police detain ‘Cockroach’ party founder ahead of protest",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
-      "published_date": "2026-10-12T19:27:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest?traffic_source=rss",
+      "published_date": "2026-10-16T12:55:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+      "title": "Pro-Nazi chants before Hajduk Split-Ajax UEFA Europa League match slammed",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
-      "published_date": "2026-10-12T18:51:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss",
+      "published_date": "2026-10-16T12:42:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
+      "title": "Pakistan orders school inspections following deadly roof collapse",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
-      "published_date": "2026-10-12T18:24:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss",
+      "published_date": "2026-10-16T12:18:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Claims Neutrality Amid Escalating Tensions Between Ethiopia and Eritrea",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalia-claims-neutrality-amid-escalating-tensions-between-ethiopia-and-eritrea/",
-      "published_date": "2026-10-12T18:23:45+00:00",
-      "category": "Diplomacy"
+      "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss",
+      "published_date": "2026-10-16T11:54:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
+      "published_date": "2026-10-16T10:56:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
+      "published_date": "2026-10-16T10:21:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Xukuumadda Soomaaliya oo soo dhoweysay jadwalka doorashooyinka, kuna baaqday wadahadal siyaasadeed",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/xukuumadda-soomaaliya-oo-soo-dhoweysay-jadwalka-doorashooyinka-kuna-baaqday-wadahadal-siyaasadeed/",
+      "published_date": "2026-10-16T07:51:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Taliyaha Ururka 82-aad ee Guutada 8-aad oo Ciidanka Faray Diyaar-garowga Howlgallo ka Dhanka ah Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ururka-82-aad-ee-guutada-8-aad-oo-ciidanka-faray-diyaar-garowga-howlgallo-ka-dhanka-ah-al-shabaab/",
-      "published_date": "2026-10-15T09:51:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+      "title": "Fuel tanker fire engulfs market in southern Nigeria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
-      "published_date": "2026-10-15T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli quadcopter drone drops bomb in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
-      "published_date": "2026-10-14T20:47:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Families of Trinidadian men killed in US boat strike demand accountability",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
-      "published_date": "2026-10-14T20:42:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia attack hits Kyiv after reported intelligence lapse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
-      "published_date": "2026-10-14T20:14:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia agrees to buy Pakistani JF-17 fighters",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-agrees-to-buy-pakistani-jf-17-fighters/",
-      "published_date": "2026-10-14T16:48:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss",
-      "published_date": "2026-10-14T15:06:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two scenarios for the Yemen war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
-      "published_date": "2026-10-14T13:50:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
-      "published_date": "2026-10-14T13:17:34+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
+      "published_date": "2026-10-16T12:23:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Malawi motorists queue for days as fuel shortage bites",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
-      "published_date": "2026-10-10T21:10:38+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
@@ -513,6 +513,41 @@
       "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
       "published_date": "2026-10-09T18:15:06+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss",
+      "published_date": "2026-10-16T11:32:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian olive trees torched as settler pogroms escalate during harvest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
+      "published_date": "2026-10-16T10:27:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
+      "published_date": "2026-10-16T10:12:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s government welcomes election timetable and urges political dialogue",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-government-welcomes-election-timetable-and-urges-political-dialogue/",
+      "published_date": "2026-10-16T07:52:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia, UN discuss flood risks and humanitarian response amid Super El Niño concerns",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-un-discuss-flood-risks-and-humanitarian-response-amid-super-el-nino-concerns/",
+      "published_date": "2026-10-16T07:45:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
@@ -617,41 +652,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss",
       "published_date": "2026-10-14T20:29:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo recovering well after cancer surgery, Vatican says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss",
-      "published_date": "2026-10-14T15:09:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do any of these Israeli candidates support a Palestinian state?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
-      "published_date": "2026-10-14T11:43:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo qabatay doonyo si sharcidarro ah uga kalluumeysanayay xeebaheeda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/14/puntland-oo-qabatay-doonyo-si-sharcidarro-ah-uga-kalluumeysanayay-xeebaheeda/",
-      "published_date": "2026-10-14T10:37:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Welcomes 162 Young Migrants Returned from Libya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-welcomes-162-young-migrants-returned-from-libya/",
-      "published_date": "2026-10-14T06:34:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Moves to Reactivate International Airline Ticket Settlement System",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-moves-to-reactivate-international-airline-ticket-settlement-system/",
-      "published_date": "2026-10-14T06:32:54+00:00",
       "category": "Local Events"
     }
   ]
