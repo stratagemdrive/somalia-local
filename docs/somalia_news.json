@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-15T15:32:26.970282+00:00",
-  "story_count": 92,
+  "last_updated": "2026-10-16T00:58:39.899325+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
+      "published_date": "2026-10-15T18:41:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Delegates walk out as Israeli president addresses summit",
       "source": "Al Jazeera",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
+      "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
-      "published_date": "2026-10-12T17:07:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+      "published_date": "2026-10-16T00:02:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 4, including 3 children, killed in US elementary school shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
+      "published_date": "2026-10-15T22:51:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia says it will hold elections in 2027",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
+      "published_date": "2026-10-15T20:04:02+00:00",
+      "category": "Military"
     },
     {
       "title": "US teen held over Hindu temple attack plot: Is anti-Indian racism rising?",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
+      "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss",
-      "published_date": "2026-10-14T12:50:51+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
+      "published_date": "2026-10-15T23:35:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "title": "Several people dead or missing after Istanbul floods",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
-      "published_date": "2026-10-14T11:39:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
-      "published_date": "2026-10-14T11:16:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+      "published_date": "2026-10-15T21:15:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
+      "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
-      "published_date": "2026-10-10T15:45:36+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+      "published_date": "2026-10-16T00:31:18+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Why is US turning to Russia for diesel despite sanctions?",
+      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
-      "published_date": "2026-10-10T12:16:12+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+      "published_date": "2026-10-15T21:57:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "Photos: China and North Korea open new border bridge amid deepening ties",
@@ -501,11 +515,32 @@
       "category": "Economy"
     },
     {
-      "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+      "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
-      "published_date": "2026-10-08T22:54:23+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
+      "published_date": "2026-10-15T18:17:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A mother’s touch helps premature babies grow strong in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
+      "published_date": "2026-10-15T17:43:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo resumes work in hospital while recovering from surgery",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss",
+      "published_date": "2026-10-15T17:25:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s government loses Burhakabo to ousted Southwest leader’s forces",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-burhakabo-southwest/",
+      "published_date": "2026-10-15T16:08:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syrian court sentences two to death over 2025 coastal violence",
@@ -617,34 +652,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-moves-to-reactivate-international-airline-ticket-settlement-system/",
       "published_date": "2026-10-14T06:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Supreme Court Ratifies Results of Galmudug Parliamentary Re-Run Election",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalias-supreme-court-ratifies-results-of-galmudug-parliamentary-re-run-election/",
-      "published_date": "2026-10-13T22:42:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump Calls Somaliland a ‘Totally Different Country’ but Suggests It Rename Itself",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/trump-calls-somaliland-a-totally-different-country-but-suggests-it-rename-itself/",
-      "published_date": "2026-10-13T22:24:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
-      "published_date": "2026-10-13T21:25:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West State leader meets British ambassador to discuss cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-state-leader-meets-british-ambassador-to-discuss-cooperation/",
-      "published_date": "2026-10-13T14:13:50+00:00",
       "category": "Local Events"
     }
   ]
