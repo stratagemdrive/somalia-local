@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-17T01:00:26.258494+00:00",
-  "story_count": 92,
+  "last_updated": "2026-10-17T14:07:17.334423+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Somali Government Media Officials Begin 21-Day Training Programme in China",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-government-media-officials-begin-21-day-training-programme-in-china/",
+      "published_date": "2026-10-17T06:17:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
       "source": "Al Jazeera",
@@ -137,11 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US ambassador to Greece resigns amid misconduct allegations",
+      "title": "Protesters clash with police during nationwide demonstrations in France",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss",
-      "published_date": "2026-10-13T15:37:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+      "published_date": "2026-10-17T13:44:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Women protest in New Delhi against police brutality",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
+      "published_date": "2026-10-17T12:07:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia is accused of supporting al-Shabab militants in taking over towns in Somalia’s South West State",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-ethiopia-blamed-for-role-in-southwest-state-conflict/",
+      "published_date": "2026-10-17T11:35:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidamada Itoobiya oo lagu eedeeyay inay magaalooyin ku yaalla Koonfur Galbeed ku wareejiyeen Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/itoobiya-oo-lagu-eedeeyay-inay-door-ku-leedahay-qalalaasaha-koonfur-galbeed-soomaaliya/",
+      "published_date": "2026-10-17T11:33:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
+      "published_date": "2026-10-17T11:22:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+      "published_date": "2026-10-17T09:44:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis strike Yemen’s Aden: What that means",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
+      "published_date": "2026-10-17T09:16:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oregon school shooter was former special-needs student, police say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
+      "published_date": "2026-10-17T08:04:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Oregon school shooter was former special needs student, police say",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Pro-Nazi chants before Hajduk Split-Ajax UEFA Europa League match slammed",
+      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss",
-      "published_date": "2026-10-16T12:42:30+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+      "published_date": "2026-10-17T11:10:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pakistan orders school inspections following deadly roof collapse",
+      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss",
-      "published_date": "2026-10-16T12:18:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss",
-      "published_date": "2026-10-16T11:54:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-      "published_date": "2026-10-16T10:56:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
-      "published_date": "2026-10-16T10:21:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xukuumadda Soomaaliya oo soo dhoweysay jadwalka doorashooyinka, kuna baaqday wadahadal siyaasadeed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xukuumadda-soomaaliya-oo-soo-dhoweysay-jadwalka-doorashooyinka-kuna-baaqday-wadahadal-siyaasadeed/",
-      "published_date": "2026-10-16T07:51:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-      "published_date": "2026-10-16T00:02:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 4, including 3 children, killed in US elementary school shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-      "published_date": "2026-10-15T22:51:56+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
+      "published_date": "2026-10-17T10:12:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fuel tanker fire engulfs market in southern Nigeria",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Lebanon’s first electric train hopes to revive railway system",
+      "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
-      "published_date": "2026-10-11T18:00:51+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
+      "published_date": "2026-10-17T09:47:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+      "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
-      "published_date": "2026-10-11T15:10:27+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
+      "published_date": "2026-10-17T09:31:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somali Finance Minister Hands Over World Bank Africa Group 1 Representative Role",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-finance-minister-hands-over-world-bank-africa-group-1-representative-role/",
+      "published_date": "2026-10-17T06:18:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
@@ -501,11 +522,25 @@
       "category": "Economy"
     },
     {
-      "title": "Jubbaland approves $60.9 million budget for 2027",
+      "title": "Somalia’s government loses all major Bay towns but Baidoa to Laftagaren",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-bay-region-towns-baidoa-laftagaren/",
+      "published_date": "2026-10-17T12:07:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xubno ka Socda Wasaaradda Warfaafinta Soomaaliya oo Shiinaha uga Furmay kulan Aqoon korosi",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/jubbaland-approves-60-9-million-budget-for-2027/",
-      "published_date": "2026-10-10T14:01:37+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/xubno-ka-socda-wasaaradda-warfaafinta-soomaaliya-oo-shiinaha-uga-furmay-kulan-aqoon-korosi/",
+      "published_date": "2026-10-17T05:41:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Xasan in lala diriro oo dhiig daato ajar iyo xasanaad baa laga helayaa",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/17/puntland-xasan-in-lala-diriro-oo-dhiig-daato-ajar-iyo-xasanaad-baa-laga-helayaa/",
+      "published_date": "2026-10-17T02:14:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
@@ -624,27 +659,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalia-sets-parliamentary-and-presidential-election-dates-for-2027/",
       "published_date": "2026-10-15T12:07:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
-      "published_date": "2026-10-15T11:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Xaalad bani’aadanimo oo ka taagan deegaan ka tirsan Nugaal",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/15/puntland-xaalad-baniaadanimo-oo-ka-taagan-deegaan-ka-tirsan-nugaal/",
-      "published_date": "2026-10-15T05:54:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former U.S. Ambassador Raises Alarm Over Somalia’s Political Crisis and Fighting in South West State",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/former-u-s-ambassador-raises-alarm-over-somalias-political-crisis-and-fighting-in-south-west-state/",
-      "published_date": "2026-10-15T02:14:42+00:00",
       "category": "Local Events"
     }
   ]
