@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-16T15:18:45.349358+00:00",
-  "story_count": 93,
+  "last_updated": "2026-10-17T01:00:26.258494+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
+      "published_date": "2026-10-16T19:18:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya records third Ebola case, linked to first patient who died",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
+      "published_date": "2026-10-16T18:57:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine president targets Trump, Putin at EU summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+      "published_date": "2026-10-16T17:59:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
       "source": "Al Jazeera",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Parliament Speaker Meets New Turkish Ambassador",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliament-speaker-meets-new-turkish-ambassador/",
-      "published_date": "2026-10-13T14:18:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia and Algeria Discuss Cooperation in Media, Culture and Tourism",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-algeria-discuss-cooperation-in-media-culture-and-tourism/",
-      "published_date": "2026-10-13T14:17:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
+      "title": "Oregon school shooter was former special needs student, police say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss",
-      "published_date": "2026-10-13T13:06:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+      "published_date": "2026-10-17T00:25:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+      "published_date": "2026-10-17T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
+      "published_date": "2026-10-16T22:48:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Families demand justice after Pakistan school collapse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
+      "published_date": "2026-10-16T22:38:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+      "published_date": "2026-10-16T21:56:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+      "published_date": "2026-10-16T20:07:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
+      "published_date": "2026-10-16T18:26:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+      "published_date": "2026-10-16T18:21:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
+      "published_date": "2026-10-16T17:28:41+00:00",
+      "category": "Military"
     },
     {
       "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
@@ -218,69 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
       "published_date": "2026-10-15T22:51:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia says it will hold elections in 2027",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
-      "published_date": "2026-10-15T20:04:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US teen held over Hindu temple attack plot: Is anti-Indian racism rising?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/us-teen-held-over-hindu-temple-attack-plot-is-anti-indian-racism-rising?traffic_source=rss",
-      "published_date": "2026-10-15T14:38:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What is Starshield, and who limited Ukraine’s access to it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss",
-      "published_date": "2026-10-15T13:32:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia accuses Ukraine of contradicting US brokered deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss",
-      "published_date": "2026-10-15T13:29:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Prepares Operations Against Al-Shabaab in Lower Shabelle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-prepares-operations-against-al-shabaab-in-lower-shabelle/",
-      "published_date": "2026-10-15T12:15:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Parliamentary Speaker Marks Ninth Anniversary of Mogadishu Truck Bombing",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliamentary-speaker-marks-ninth-anniversary-of-mogadishu-truck-bombing/",
-      "published_date": "2026-10-15T12:09:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran stalemate: What are Trump’s next military options?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
-      "published_date": "2026-10-15T11:41:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
-      "published_date": "2026-10-15T10:52:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens of children killed after roof collapses in Pakistani school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
-      "published_date": "2026-10-15T10:21:43+00:00",
       "category": "Military"
     },
     {
@@ -508,11 +508,32 @@
       "category": "Economy"
     },
     {
-      "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+      "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
-      "published_date": "2026-10-09T18:15:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+      "published_date": "2026-10-16T23:27:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+      "published_date": "2026-10-16T21:08:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oregon community mourns victims of school shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+      "published_date": "2026-10-16T20:08:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+      "published_date": "2026-10-16T17:05:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice",
@@ -624,34 +645,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/former-u-s-ambassador-raises-alarm-over-somalias-political-crisis-and-fighting-in-south-west-state/",
       "published_date": "2026-10-15T02:14:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
-      "published_date": "2026-10-15T00:24:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexican court closes case against official over 2023 detention centre fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss",
-      "published_date": "2026-10-15T00:08:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
-      "published_date": "2026-10-14T21:35:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman rescued after being swept away by Istanbul flash flood",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss",
-      "published_date": "2026-10-14T20:29:50+00:00",
       "category": "Local Events"
     }
   ]
