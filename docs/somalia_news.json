@@ -1,7 +1,7 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-18T00:35:54.065709+00:00",
-  "story_count": 94,
+  "last_updated": "2026-10-18T14:24:57.539985+00:00",
+  "story_count": 97,
   "stories": [
     {
       "title": "US ambassador urges Israel to prosecute attackers of American journalist",
@@ -144,6 +144,76 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Sudan army accused of drone strike on livestock market",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+      "published_date": "2026-10-18T13:37:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
+      "published_date": "2026-10-18T12:35:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
+      "published_date": "2026-10-18T12:00:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
+      "published_date": "2026-10-18T11:11:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+      "published_date": "2026-10-18T10:34:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s war in Ukraine puts Europe on edge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
+      "published_date": "2026-10-18T10:33:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
+      "published_date": "2026-10-18T10:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
+      "published_date": "2026-10-18T09:42:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
+      "published_date": "2026-10-18T09:22:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France Hit by Widespread Riots as Cost-of-Living Protests Turn Violent",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/france-hit-by-widespread-riots-as-cost-of-living-protests-turn-violent/",
+      "published_date": "2026-10-18T09:01:06+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
@@ -211,76 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
       "published_date": "2026-10-17T13:44:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Women protest in New Delhi against police brutality",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
-      "published_date": "2026-10-17T12:07:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia is accused of supporting al-Shabab militants in taking over towns in Somalia’s South West State",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-ethiopia-blamed-for-role-in-southwest-state-conflict/",
-      "published_date": "2026-10-17T11:35:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ciidamada Itoobiya oo lagu eedeeyay inay magaalooyin ku yaalla Koonfur Galbeed ku wareejiyeen Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/itoobiya-oo-lagu-eedeeyay-inay-door-ku-leedahay-qalalaasaha-koonfur-galbeed-soomaaliya/",
-      "published_date": "2026-10-17T11:33:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes kill civilians, injure dozens across Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
-      "published_date": "2026-10-17T11:22:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
-      "published_date": "2026-10-17T09:44:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis strike Yemen’s Aden: What that means",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
-      "published_date": "2026-10-17T09:16:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oregon school shooter was former special-needs student, police say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
-      "published_date": "2026-10-17T08:04:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oregon school shooter was former special needs student, police say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
-      "published_date": "2026-10-17T00:25:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-      "published_date": "2026-10-17T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
-      "published_date": "2026-10-16T22:48:54+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
+      "published_date": "2026-10-18T10:48:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
+      "published_date": "2026-10-18T09:16:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sahel Nations Resume Talks With ECOWAS After Withdrawal",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sahel-nations-resume-talks-with-ecowas-after-withdrawal/",
+      "published_date": "2026-10-18T09:03:08+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
@@ -522,6 +543,48 @@
       "category": "Economy"
     },
     {
+      "title": "Why have France’s school protests become a wider political crisis?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+      "published_date": "2026-10-18T13:48:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali President Congratulates Newly Elected Galmudug Parliament Speaker",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-congratulates-newly-elected-galmudug-parliament-speaker/",
+      "published_date": "2026-10-18T13:07:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris residents tell Al Jazeera they’re dismayed by protest damage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss",
+      "published_date": "2026-10-18T12:44:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
+      "published_date": "2026-10-18T12:07:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
+      "published_date": "2026-10-18T10:18:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Upper House Approves Weather Forecasting Agency Bill",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-upper-house-approves-weather-forecasting-agency-bill/",
+      "published_date": "2026-10-18T08:32:53+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
@@ -617,48 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss",
       "published_date": "2026-10-16T11:32:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
-      "published_date": "2026-10-16T10:27:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
-      "published_date": "2026-10-16T10:12:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s government welcomes election timetable and urges political dialogue",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-government-welcomes-election-timetable-and-urges-political-dialogue/",
-      "published_date": "2026-10-16T07:52:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia, UN discuss flood risks and humanitarian response amid Super El Niño concerns",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-un-discuss-flood-risks-and-humanitarian-response-amid-super-el-nino-concerns/",
-      "published_date": "2026-10-16T07:45:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
-      "published_date": "2026-10-15T18:17:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A mother’s touch helps premature babies grow strong in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-      "published_date": "2026-10-15T17:43:01+00:00",
       "category": "Local Events"
     }
   ]
