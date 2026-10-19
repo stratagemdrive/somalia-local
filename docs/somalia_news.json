@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-18T14:24:57.539985+00:00",
-  "story_count": 97,
+  "last_updated": "2026-10-19T00:45:44.932173+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+      "published_date": "2026-10-18T23:59:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Civil Society Urges Federal Government and Opposition to Reach Political Agreement",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-civil-society-urges-federal-government-and-opposition-to-reach-political-agreement/",
+      "published_date": "2026-10-18T18:16:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
+      "published_date": "2026-10-18T17:20:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
+      "published_date": "2026-10-18T15:30:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US ambassador urges Israel to prosecute attackers of American journalist",
       "source": "Al Jazeera",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
+      "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
-      "published_date": "2026-10-15T18:41:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+      "published_date": "2026-10-18T23:58:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Delegates walk out as Israeli president addresses summit",
+      "title": "India’s crackdown on cockroaches, critics and cameras",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/delegates-walk-out-as-israeli-president-addresses-summit?traffic_source=rss",
-      "published_date": "2026-10-15T15:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+      "published_date": "2026-10-18T19:31:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "STATEMENT ON SOMALIA’S ELECTORAL PROCESS AND POLITICAL FUTURE",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/statement-on-somalias-electoral-process-and-political-future/",
-      "published_date": "2026-10-15T13:50:50+00:00",
-      "category": "Diplomacy"
+      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
+      "published_date": "2026-10-18T19:11:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "U.S. Sanctions Settlement With Bank of America Involves Apparent Somalia Violations",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/u-s-sanctions-settlement-with-bank-of-america-involves-apparent-somalia-violations/",
-      "published_date": "2026-10-15T01:57:55+00:00",
-      "category": "Diplomacy"
+      "title": "Why the US is holding secret talks with Myanmar’s military ruler",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
+      "published_date": "2026-10-18T18:22:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+      "published_date": "2026-10-18T17:52:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan army accused of drone strike on livestock market",
@@ -246,41 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
       "published_date": "2026-10-17T19:48:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-      "published_date": "2026-10-17T19:03:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-      "published_date": "2026-10-17T18:26:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
-      "published_date": "2026-10-17T17:18:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why are Latin American countries building closer ties with Israel?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
-      "published_date": "2026-10-17T16:54:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protesters clash with police during nationwide demonstrations in France",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
-      "published_date": "2026-10-17T13:44:42+00:00",
       "category": "Military"
     },
     {
@@ -417,13 +417,6 @@
       "category": "Energy"
     },
     {
-      "title": "Zelenskyy welcomes US-announced energy ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-      "published_date": "2026-10-11T20:28:46+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
@@ -536,11 +529,60 @@
       "category": "Economy"
     },
     {
-      "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+      "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-      "published_date": "2026-10-11T18:47:57+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+      "published_date": "2026-10-18T23:06:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+      "published_date": "2026-10-18T20:26:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+      "published_date": "2026-10-18T20:19:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dispute Over Five Parliamentary Seats Deepens the Rift in Northeastern Administration",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/dispute-over-five-parliamentary-seats-deepens-the-rift-in-northeastern-administration/",
+      "published_date": "2026-10-18T18:04:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
+      "published_date": "2026-10-18T17:58:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia police enter Hormuud headquarters in Mogadishu amid Southwest state tensions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-police-enter-hormuud-headquarters-mogadishu/",
+      "published_date": "2026-10-18T17:02:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump endorses Netanyahu in Israeli legislative elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+      "published_date": "2026-10-18T16:36:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baarlamaanka cusub ee Galmudug oo guddoon doortay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/18/baarlamaanka-cusub-ee-galmudug-oo-guddoon-doortay/",
+      "published_date": "2026-10-18T16:08:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Why have France’s school protests become a wider political crisis?",
@@ -624,62 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
       "published_date": "2026-10-17T15:47:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s government loses all major Bay towns but Baidoa to Laftagaren",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-bay-region-towns-baidoa-laftagaren/",
-      "published_date": "2026-10-17T12:07:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xubno ka Socda Wasaaradda Warfaafinta Soomaaliya oo Shiinaha uga Furmay kulan Aqoon korosi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xubno-ka-socda-wasaaradda-warfaafinta-soomaaliya-oo-shiinaha-uga-furmay-kulan-aqoon-korosi/",
-      "published_date": "2026-10-17T05:41:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Xasan in lala diriro oo dhiig daato ajar iyo xasanaad baa laga helayaa",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/17/puntland-xasan-in-lala-diriro-oo-dhiig-daato-ajar-iyo-xasanaad-baa-laga-helayaa/",
-      "published_date": "2026-10-17T02:14:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
-      "published_date": "2026-10-16T23:27:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
-      "published_date": "2026-10-16T21:08:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oregon community mourns victims of school shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
-      "published_date": "2026-10-16T20:08:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
-      "published_date": "2026-10-16T17:05:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss",
-      "published_date": "2026-10-16T11:32:50+00:00",
       "category": "Local Events"
     }
   ]
