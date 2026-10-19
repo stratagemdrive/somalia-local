@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-19T00:45:44.932173+00:00",
-  "story_count": 95,
+  "last_updated": "2026-10-19T17:23:28.662656+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Search under way for four soldiers missing after gang attack in Haiti",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
+      "published_date": "2026-10-19T16:40:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Albania’s protests explained",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_albanias-protests-explained-191026?traffic_source=rss",
+      "published_date": "2026-10-19T14:46:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war?traffic_source=rss",
+      "published_date": "2026-10-19T13:21:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya iyo Spain oo ku heshiiyey in la bilaabo wada-tashiyo siyaasadeed oo rasmi ah",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-iyo-spain-oo-ku-heshiiyey-in-la-bilaabo-wada-tashiyo-siyaasadeed-oo-rasmi-ah/",
+      "published_date": "2026-10-19T10:26:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopia announces instalment of interim government in Tigray",
+      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
-      "published_date": "2026-10-16T13:54:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
+      "published_date": "2026-10-19T17:16:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Maxaa looga hadlay kulankii isimada Daarood ee Nairobi?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/16/maxaa-looga-hadlay-kulankii-isimada-daarood-ee-nairobi/",
-      "published_date": "2026-10-16T13:40:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
+      "title": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
-      "published_date": "2026-10-16T12:57:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss",
+      "published_date": "2026-10-19T17:14:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Algeria seek closer parliamentary ties through friendship committee",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-algeria-seek-closer-parliamentary-ties-through-friendship-committee/",
-      "published_date": "2026-10-16T07:48:47+00:00",
-      "category": "Diplomacy"
+      "title": "Iran War backlash threatens Republican control of Congress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
+      "published_date": "2026-10-19T16:24:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
+      "published_date": "2026-10-19T15:15:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
+      "published_date": "2026-10-19T13:36:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dozens killed after Houthi strike on military camp in Shabwa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
+      "published_date": "2026-10-19T13:26:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
+      "published_date": "2026-10-19T13:22:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
+      "published_date": "2026-10-19T12:51:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss",
+      "published_date": "2026-10-19T12:28:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
@@ -218,69 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
       "published_date": "2026-10-18T10:33:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
-      "published_date": "2026-10-18T10:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
-      "published_date": "2026-10-18T09:42:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
-      "published_date": "2026-10-18T09:22:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France Hit by Widespread Riots as Cost-of-Living Protests Turn Violent",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/france-hit-by-widespread-riots-as-cost-of-living-protests-turn-violent/",
-      "published_date": "2026-10-18T09:01:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-      "published_date": "2026-10-18T00:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ten killed in fire at beach resort in Bangladesh",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
-      "published_date": "2026-10-17T20:50:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
-      "published_date": "2026-10-17T20:40:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
-      "published_date": "2026-10-17T20:02:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 17 killed in stampede at religious gathering in India",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
-      "published_date": "2026-10-17T19:48:54+00:00",
       "category": "Military"
     },
     {
@@ -403,18 +403,39 @@
       "category": "Energy"
     },
     {
-      "title": "Will Ukraine survive the winter?",
+      "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
-      "published_date": "2026-10-12T15:04:08+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
+      "published_date": "2026-10-19T16:06:57+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Wasiirka Batroolka Soomaaliya oo Ka Qaybgalay Madasha Caalamiga ah ee Tamarta ee Riyadh",
+      "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
+      "published_date": "2026-10-19T15:05:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan suspends Iran border trade, amid violence on both sides",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
+      "published_date": "2026-10-19T14:43:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia and Iraq discuss expanding trade and livestock exports",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiirka-batroolka-soomaaliya-oo-ka-qaybgalay-madasha-caalamiga-ah-ee-tamarta-ee-riyadh/",
-      "published_date": "2026-10-12T06:09:13+00:00",
-      "category": "Energy"
+      "url": "https://shabellemedia.com/somalia-and-iraq-discuss-expanding-trade-and-livestock-exports/",
+      "published_date": "2026-10-19T08:33:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia, Türkiye discuss cooperation on fisheries and blue economy",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-turkiye-discuss-cooperation-on-fisheries-and-blue-economy/",
+      "published_date": "2026-10-19T08:28:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
@@ -522,11 +543,74 @@
       "category": "Economy"
     },
     {
-      "title": "Manchester United’s Martinez blasts board’s lack of investment",
+      "title": "Trump endorses Netanyhu ahead of elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
-      "published_date": "2026-10-13T22:57:56+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss",
+      "published_date": "2026-10-19T15:54:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenyan court convicts starvation cult leader of murdering 191 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss",
+      "published_date": "2026-10-19T15:34:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Decision on Senegal’s AFCON final appeal to be made by end of November",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november?traffic_source=rss",
+      "published_date": "2026-10-19T15:15:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is cult head Paul Mackenzie, convicted of convincing followers to die?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss",
+      "published_date": "2026-10-19T14:54:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australian Member of Parliament critically injured after being hit by a car",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
+      "published_date": "2026-10-19T13:49:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French protest violence: A ‘Christmas present’ for Le Pen’s far right?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/french-protest-violence-a-christmas-present-for-le-pens-far-right?traffic_source=rss",
+      "published_date": "2026-10-19T13:41:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia angry as Ethiopia refuses to intervene in South West State conflict",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-angry-ethiopia-refuses-intervene-south-west-state/",
+      "published_date": "2026-10-19T12:49:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West leader raises security concerns amid tensions with Lafta-Gareen forces",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-leader-raises-security-concerns-amid-tensions-with-lafta-gareen-forces/",
+      "published_date": "2026-10-19T08:30:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia parliament speaker raises security concerns over South West state",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-parliament-speaker-raises-security-concerns-over-south-west-state/",
+      "published_date": "2026-10-19T08:22:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: El Nino oo saameysay Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/19/puntland-el-nino-oo-saameysay-gaalkacyo/",
+      "published_date": "2026-10-19T06:01:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
@@ -596,76 +680,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-president-congratulates-newly-elected-galmudug-parliament-speaker/",
       "published_date": "2026-10-18T13:07:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris residents tell Al Jazeera they’re dismayed by protest damage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss",
-      "published_date": "2026-10-18T12:44:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
-      "published_date": "2026-10-18T12:07:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
-      "published_date": "2026-10-18T10:18:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Upper House Approves Weather Forecasting Agency Bill",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-upper-house-approves-weather-forecasting-agency-bill/",
-      "published_date": "2026-10-18T08:32:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
-      "published_date": "2026-10-17T23:21:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia president rejects opposition calls for consensus-based election",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-rejects-opposition-consensus-election/",
-      "published_date": "2026-10-17T19:05:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al Jazeera reports from Paris as protests turn violent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
-      "published_date": "2026-10-17T16:56:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saadaasha roobka ee Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/17/saadaasha-roobka-ee-puntland/",
-      "published_date": "2026-10-17T16:26:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Buildings and cars set on fire as cost of living protests rock France",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
-      "published_date": "2026-10-17T16:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo leaves hospital after lung cancer surgery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
-      "published_date": "2026-10-17T15:47:52+00:00",
       "category": "Local Events"
     }
   ]
