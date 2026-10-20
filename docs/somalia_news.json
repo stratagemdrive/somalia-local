@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-19T17:23:28.662656+00:00",
-  "story_count": 97,
+  "last_updated": "2026-10-20T01:31:58.001041+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+      "published_date": "2026-10-19T23:16:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu’s Regional Alliance Map Places Somaliland and Puntland in Different Strategic Camps",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/netanyahus-regional-alliance-map-places-somaliland-and-puntland-in-different-strategic-camps/",
+      "published_date": "2026-10-19T22:10:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya convicts cult leader over the murder of 190 children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+      "published_date": "2026-10-19T20:31:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Finland seeking one million land mines as it eyes Russian threat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+      "published_date": "2026-10-19T19:57:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Search under way for four soldiers missing after gang attack in Haiti",
       "source": "Al Jazeera",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kenya records third Ebola case, linked to first patient who died",
+      "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
-      "published_date": "2026-10-16T18:57:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
+      "published_date": "2026-10-20T00:18:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine president targets Trump, Putin at EU summit",
+      "title": "Exiled critic of Rwandan president found beheaded in Uganda",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
-      "published_date": "2026-10-16T17:59:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
+      "published_date": "2026-10-20T00:06:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
+      "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
-      "published_date": "2026-10-16T14:19:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+      "published_date": "2026-10-20T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
+      "title": "Children among six killed in Russian drone strike on Ukraine park",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
-      "published_date": "2026-10-16T14:01:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
+      "published_date": "2026-10-19T23:12:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-10-19T21:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "160 people reported killed in escalating drone attacks across Sudan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+      "published_date": "2026-10-19T21:38:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could your halal pension be funding Israel’s military?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+      "published_date": "2026-10-19T21:28:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli police say they arrested 10 in connection with settler attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
+      "published_date": "2026-10-19T21:00:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+      "published_date": "2026-10-19T20:49:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One killed in US shooting near mosque in Columbus, Ohio",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+      "published_date": "2026-10-19T19:50:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+      "published_date": "2026-10-19T19:38:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
@@ -204,83 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss",
       "published_date": "2026-10-19T12:28:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
-      "published_date": "2026-10-18T23:58:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India’s crackdown on cockroaches, critics and cameras",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-      "published_date": "2026-10-18T19:31:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-      "published_date": "2026-10-18T19:11:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why the US is holding secret talks with Myanmar’s military ruler",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
-      "published_date": "2026-10-18T18:22:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
-      "published_date": "2026-10-18T17:52:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan army accused of drone strike on livestock market",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
-      "published_date": "2026-10-18T13:37:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
-      "published_date": "2026-10-18T12:35:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
-      "published_date": "2026-10-18T12:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
-      "published_date": "2026-10-18T11:11:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-      "published_date": "2026-10-18T10:34:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s war in Ukraine puts Europe on edge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
-      "published_date": "2026-10-18T10:33:36+00:00",
       "category": "Military"
     },
     {
@@ -389,18 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
+      "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
-      "published_date": "2026-10-12T21:16:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss",
-      "published_date": "2026-10-12T18:52:40+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
+      "published_date": "2026-10-20T01:05:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
@@ -536,11 +529,39 @@
       "category": "Economy"
     },
     {
-      "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+      "title": "Hegseth meets Netanyahu in unannounced Israel visit",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
-      "published_date": "2026-10-14T01:07:46+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+      "published_date": "2026-10-20T00:08:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
+      "published_date": "2026-10-19T23:56:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Parliamentary Speaker Questions Ethiopian Troops’ Role Amid South West State Conflict",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-parliamentary-speaker-questions-ethiopian-troops-role-amid-south-west-state-conflict/",
+      "published_date": "2026-10-19T21:51:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian court extends detention of ‘Cockroach’ leaders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
+      "published_date": "2026-10-19T19:09:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia parliament speaker accuses Kenya of harbouring terrorists",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-accuses-kenya-harbouring-terrorists/",
+      "published_date": "2026-10-19T17:59:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump endorses Netanyhu ahead of elections",
@@ -645,41 +666,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
       "published_date": "2026-10-18T17:58:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia police enter Hormuud headquarters in Mogadishu amid Southwest state tensions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-police-enter-hormuud-headquarters-mogadishu/",
-      "published_date": "2026-10-18T17:02:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump endorses Netanyahu in Israeli legislative elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
-      "published_date": "2026-10-18T16:36:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baarlamaanka cusub ee Galmudug oo guddoon doortay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/18/baarlamaanka-cusub-ee-galmudug-oo-guddoon-doortay/",
-      "published_date": "2026-10-18T16:08:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why have France’s school protests become a wider political crisis?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
-      "published_date": "2026-10-18T13:48:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali President Congratulates Newly Elected Galmudug Parliament Speaker",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-congratulates-newly-elected-galmudug-parliament-speaker/",
-      "published_date": "2026-10-18T13:07:54+00:00",
       "category": "Local Events"
     }
   ]
