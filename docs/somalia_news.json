@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-20T01:31:58.001041+00:00",
-  "story_count": 95,
+  "last_updated": "2026-10-20T15:35:40.452840+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+      "published_date": "2026-10-20T14:39:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss",
+      "published_date": "2026-10-20T14:00:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
+      "published_date": "2026-10-20T13:20:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France PM promises more curfews as authorities seek to regain control",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night?traffic_source=rss",
+      "published_date": "2026-10-20T12:07:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
+      "published_date": "2026-10-20T11:07:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Masoud Pezeshkian: Peace, Not Surrender",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
+      "published_date": "2026-10-20T11:02:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
+      "published_date": "2026-10-20T10:36:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia steps up El Niño preparedness with UN, Norway support",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-steps-up-el-nino-preparedness-with-un-norway-support/",
+      "published_date": "2026-10-20T05:54:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
       "source": "Al Jazeera",
@@ -88,60 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "title": "Israeli attacks kill at least four Palestinians in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
-      "published_date": "2026-10-17T23:40:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
+      "published_date": "2026-10-20T12:59:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
+      "title": "Puntland oo dishay xubno ka tirsan Al-shabaab",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/20/puntland-oo-dishay-xubno-ka-tirsan-al-shabaab/",
+      "published_date": "2026-10-20T12:56:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen: Maps show 10 years of changing control",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
-      "published_date": "2026-10-17T19:26:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control?traffic_source=rss",
+      "published_date": "2026-10-20T12:05:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Is the US Embassy in Jerusalem for Israel or America?",
+      "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-      "published_date": "2026-10-17T18:41:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
+      "published_date": "2026-10-20T11:52:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopian Ambassador Warns Somaliland Recognition Could Complicate Fight Against Al-Shabaab",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/ethiopian-ambassador-warns-somaliland-recognition-could-complicate-fight-against-al-shabaab/",
-      "published_date": "2026-10-17T18:28:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+      "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
-      "published_date": "2026-10-17T17:24:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+      "published_date": "2026-10-20T11:37:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+      "title": "Australian MP Helen Haines remains in critical condition after car attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
-      "published_date": "2026-10-17T16:48:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
+      "published_date": "2026-10-20T11:29:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Government Media Officials Begin 21-Day Training Programme in China",
+      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+      "published_date": "2026-10-20T10:24:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Federaalka oo Laftagareen iyo ciidamadiisa ku eedeysay xiriir ay la leeyihiin Al-Shabaab",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-government-media-officials-begin-21-day-training-programme-in-china/",
-      "published_date": "2026-10-17T06:17:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
-      "published_date": "2026-10-16T19:18:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/dowladda-federaalka-oo-laftagareen-iyo-ciidamadiisa-ku-eedeysay-xiriir-ay-la-leeyihiin-al-shabaab/",
+      "published_date": "2026-10-20T05:53:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
+      "title": "Indonesians protest over land-clearing fires",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss",
-      "published_date": "2026-10-19T17:14:41+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
+      "published_date": "2026-10-20T13:23:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran War backlash threatens Republican control of Congress",
+      "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
-      "published_date": "2026-10-19T16:24:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
-      "published_date": "2026-10-19T15:15:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
-      "published_date": "2026-10-19T13:36:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens killed after Houthi strike on military camp in Shabwa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
-      "published_date": "2026-10-19T13:26:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
-      "published_date": "2026-10-19T13:22:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
-      "published_date": "2026-10-19T12:51:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss",
-      "published_date": "2026-10-19T12:28:27+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
+      "published_date": "2026-10-20T12:37:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
@@ -379,13 +393,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss",
       "published_date": "2026-10-13T16:32:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
-      "published_date": "2026-10-13T03:11:19+00:00",
       "category": "Energy"
     },
     {
@@ -529,6 +536,41 @@
       "category": "Economy"
     },
     {
+      "title": "NIRA Registrations Rise by 11% as Demand Grows in North Eastern State of Somalia",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/20/nira-registrations-rise-by-11-as-demand-grows-in-north-eastern-state-of-somalia/",
+      "published_date": "2026-10-20T13:34:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
+      "published_date": "2026-10-20T13:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss",
+      "published_date": "2026-10-20T12:58:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia warns media outlets over alleged terrorist propaganda",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-warns-media-outlets-over-alleged-terrorist-propaganda/",
+      "published_date": "2026-10-20T05:56:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golaha Mustaqbalka oo baaq u diray madaxweyne Xasan Sheekh",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/20/golaha-mustaqbalka-oo-baaq-u-diray-madaxweyne-xasan-sheekh-2/",
+      "published_date": "2026-10-20T05:51:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Hegseth meets Netanyahu in unannounced Israel visit",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
@@ -631,41 +673,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/10/19/puntland-el-nino-oo-saameysay-gaalkacyo/",
       "published_date": "2026-10-19T06:01:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
-      "published_date": "2026-10-18T23:06:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
-      "published_date": "2026-10-18T20:26:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
-      "published_date": "2026-10-18T20:19:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dispute Over Five Parliamentary Seats Deepens the Rift in Northeastern Administration",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/dispute-over-five-parliamentary-seats-deepens-the-rift-in-northeastern-administration/",
-      "published_date": "2026-10-18T18:04:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
-      "published_date": "2026-10-18T17:58:49+00:00",
       "category": "Local Events"
     }
   ]
