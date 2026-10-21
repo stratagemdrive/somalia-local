@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-21T01:14:27.862473+00:00",
+  "last_updated": "2026-10-21T15:53:13.648277+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss",
+      "published_date": "2026-10-21T14:39:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
+      "published_date": "2026-10-21T12:18:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "One year on: Has Kenya’s opposition lost its way without Raila Odinga?",
       "source": "Al Jazeera",
@@ -130,18 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
+      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war?traffic_source=rss",
-      "published_date": "2026-10-19T13:21:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
+      "published_date": "2026-10-21T13:58:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Soomaaliya iyo Spain oo ku heshiiyey in la bilaabo wada-tashiyo siyaasadeed oo rasmi ah",
+      "title": "How war in Lebanon has cost young people with autism and ADHD",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+      "published_date": "2026-10-21T13:32:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+      "published_date": "2026-10-21T13:25:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Soomaaliya oo Guul ka sheegatay dagaalka Al-Shabaab",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-iyo-spain-oo-ku-heshiiyey-in-la-bilaabo-wada-tashiyo-siyaasadeed-oo-rasmi-ah/",
-      "published_date": "2026-10-19T10:26:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-guul-ka-sheegatay-dagaalka-al-shabaab/",
+      "published_date": "2026-10-21T12:44:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia claims 55 percent of Al-Shabaab territory liberated: official",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-claims-55-percent-of-al-shabaab-territory-liberated-official/",
+      "published_date": "2026-10-21T12:40:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
+      "published_date": "2026-10-21T12:24:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
+      "published_date": "2026-10-21T10:22:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Attack on Australian MP Haines: How threats against legislators have soared",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
+      "published_date": "2026-10-21T09:24:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
+      "published_date": "2026-10-21T09:02:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guddiga doorashadda oo war kasoo saartey doorashadda hogaanka Galmudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/guddiga-doorashadda-oo-war-kasoo-saartey-doorashadda-hogaanka-galmudug/",
+      "published_date": "2026-10-21T06:28:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Dowladda Federaalka oo Laftagareen iyo ciidamadiisa ku eedeysay xiriir ay la leeyihiin Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-federaalka-oo-laftagareen-iyo-ciidamadiisa-ku-eedeysay-xiriir-ay-la-leeyihiin-al-shabaab/",
-      "published_date": "2026-10-20T05:53:49+00:00",
-      "category": "Military"
+      "title": "Russia to send first diesel tanker to the US amid Trump deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
+      "published_date": "2026-10-21T14:54:55+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+      "title": "Protests as UK approves new gas drilling in North Sea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
-      "published_date": "2026-10-20T00:18:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Exiled critic of Rwandan president found beheaded in Uganda",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
-      "published_date": "2026-10-20T00:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
-      "published_date": "2026-10-20T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Children among six killed in Russian drone strike on Ukraine park",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
-      "published_date": "2026-10-19T23:12:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-10-19T21:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "160 people reported killed in escalating drone attacks across Sudan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-      "published_date": "2026-10-19T21:38:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could your halal pension be funding Israel’s military?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
-      "published_date": "2026-10-19T21:28:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli police say they arrested 10 in connection with settler attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
-      "published_date": "2026-10-19T21:00:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
-      "published_date": "2026-10-19T20:49:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
+      "published_date": "2026-10-21T12:49:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "EU revises Arctic strategy as pressure from Russia, US grows",
@@ -368,18 +382,25 @@
       "category": "Energy"
     },
     {
-      "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
+      "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
-      "published_date": "2026-10-14T14:38:09+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
+      "published_date": "2026-10-21T14:41:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Trump plans for ‘massive’ resource exploration in Greenland",
+      "title": "Hormuud Telecom hosts fifth Somali Success Story Forum focused on healthcare sector",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hormuud-telecom-hosts-fifth-somali-success-story-forum-focused-on-healthcare-sector/",
+      "published_date": "2026-10-21T11:15:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK approves development of Jackdaw gasfield in North Sea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
-      "published_date": "2026-10-14T11:05:07+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss",
+      "published_date": "2026-10-21T10:28:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
@@ -501,25 +522,60 @@
       "category": "Economy"
     },
     {
-      "title": "What is potash, and why is the US importing it from Belarus?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
-      "published_date": "2026-10-14T14:36:48+00:00",
-      "category": "Economy"
+      "title": "Somalia’s U-17 football team returns home to hero’s welcome after CECAFA silver",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-u-17-football-team-returns-home-to-heros-welcome-after-cecafa-silver/",
+      "published_date": "2026-10-21T13:01:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How AI apps are offering free substitutes for Big Tech software",
+      "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss",
-      "published_date": "2026-10-14T13:25:35+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
+      "published_date": "2026-10-21T10:35:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+      "title": "UK king welcomes Oman’s sultan in speech quoting Prophet Muhammad",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
-      "published_date": "2026-10-14T12:28:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/uk-king-welcomes-omans-sultan-in-speech-quoting-prophet-muhammad?traffic_source=rss",
+      "published_date": "2026-10-21T10:17:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qaxooti ka soo cararay dagaallada Yemen oo soo gaaray Boosaaso",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/21/qaxooti-ka-soo-cararay-dagaallada-yemen-oo-soo-gaaray-boosaaso/",
+      "published_date": "2026-10-21T09:00:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s opposition launches first court challenge to new constitution",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-first-court-challenge-new-constitution/",
+      "published_date": "2026-10-21T08:05:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Upper House Speaker Meets New EU Ambassador in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-upper-house-speaker-meets-new-eu-ambassador-in-mogadishu/",
+      "published_date": "2026-10-21T06:33:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Internal Security Minister Inspects Mogadishu Airport, Chairs Security Meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-internal-security-minister-inspects-mogadishu-airport-chairs-security-meeting/",
+      "published_date": "2026-10-21T06:25:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wasaarada waxbarashada Puntland oo jebisay wareegto uu soo saaray madaxweyne Deni",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/21/wasaarada-waxbarashada-puntland-oo-jebisay-wareegto-uu-soo-saaray-madaxweyne-deni/",
+      "published_date": "2026-10-21T06:20:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
@@ -603,62 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
       "published_date": "2026-10-19T19:09:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament speaker accuses Kenya of harbouring terrorists",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-accuses-kenya-harbouring-terrorists/",
-      "published_date": "2026-10-19T17:59:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump endorses Netanyhu ahead of elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss",
-      "published_date": "2026-10-19T15:54:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenyan court convicts starvation cult leader of murdering 191 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss",
-      "published_date": "2026-10-19T15:34:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Decision on Senegal’s AFCON final appeal to be made by end of November",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november?traffic_source=rss",
-      "published_date": "2026-10-19T15:15:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is cult head Paul Mackenzie, convicted of convincing followers to die?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss",
-      "published_date": "2026-10-19T14:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australian Member of Parliament critically injured after being hit by a car",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
-      "published_date": "2026-10-19T13:49:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French protest violence: A ‘Christmas present’ for Le Pen’s far right?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/french-protest-violence-a-christmas-present-for-le-pens-far-right?traffic_source=rss",
-      "published_date": "2026-10-19T13:41:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia angry as Ethiopia refuses to intervene in South West State conflict",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-angry-ethiopia-refuses-intervene-south-west-state/",
-      "published_date": "2026-10-19T12:49:56+00:00",
       "category": "Local Events"
     }
   ]
