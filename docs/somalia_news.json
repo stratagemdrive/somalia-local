@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-20T15:35:40.452840+00:00",
-  "story_count": 96,
+  "last_updated": "2026-10-21T01:14:27.862473+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "One year on: Has Kenya’s opposition lost its way without Raila Odinga?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss",
+      "published_date": "2026-10-21T00:22:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+      "published_date": "2026-10-20T23:19:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
+      "published_date": "2026-10-20T19:51:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
+      "published_date": "2026-10-20T19:29:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
       "source": "Al Jazeera",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
-      "published_date": "2026-10-18T23:59:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+      "published_date": "2026-10-21T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Civil Society Urges Federal Government and Opposition to Reach Political Agreement",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-civil-society-urges-federal-government-and-opposition-to-reach-political-agreement/",
-      "published_date": "2026-10-18T18:16:42+00:00",
-      "category": "Diplomacy"
+      "title": "Why the war on Iran could backfire on US regime-change goals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "published_date": "2026-10-20T20:23:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+      "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
-      "published_date": "2026-10-18T17:20:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
-      "published_date": "2026-10-18T15:30:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+      "published_date": "2026-10-20T20:17:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli attacks kill at least four Palestinians in Gaza",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "One killed in US shooting near mosque in Columbus, Ohio",
+      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-      "published_date": "2026-10-19T19:50:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
-      "published_date": "2026-10-19T19:38:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
-      "published_date": "2026-10-19T17:16:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+      "published_date": "2026-10-20T20:05:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Indonesians protest over land-clearing fires",
@@ -375,25 +382,11 @@
       "category": "Energy"
     },
     {
-      "title": "Trump says Houthis trying to increase oil prices before US elections",
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-      "published_date": "2026-10-13T19:33:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
-      "published_date": "2026-10-13T16:49:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Drivers queue for hours in Bali amid fuel shortage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss",
-      "published_date": "2026-10-13T16:32:11+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "published_date": "2026-10-20T21:19:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
@@ -529,11 +522,25 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia Holds Talks with World Bank and IMF Officials in Bangkok",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-holds-talks-with-world-bank-and-imf-officials-in-bangkok/",
-      "published_date": "2026-10-14T06:36:22+00:00",
-      "category": "Economy"
+      "title": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
+      "published_date": "2026-10-21T00:08:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Aviation Minister Denies New Airspace Agreement with Somalia",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-aviation-minister-denies-new-airspace-agreement-with-somalia/",
+      "published_date": "2026-10-20T22:19:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Future Council Threatens Legal and Political Action Against Federal Election Plan",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalias-future-council-threatens-legal-and-political-action-against-federal-election-plan/",
+      "published_date": "2026-10-20T21:58:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NIRA Registrations Rise by 11% as Demand Grows in North Eastern State of Somalia",
@@ -652,27 +659,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-angry-ethiopia-refuses-intervene-south-west-state/",
       "published_date": "2026-10-19T12:49:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West leader raises security concerns amid tensions with Lafta-Gareen forces",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-leader-raises-security-concerns-amid-tensions-with-lafta-gareen-forces/",
-      "published_date": "2026-10-19T08:30:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia parliament speaker raises security concerns over South West state",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-parliament-speaker-raises-security-concerns-over-south-west-state/",
-      "published_date": "2026-10-19T08:22:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: El Nino oo saameysay Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/19/puntland-el-nino-oo-saameysay-gaalkacyo/",
-      "published_date": "2026-10-19T06:01:42+00:00",
       "category": "Local Events"
     }
   ]
