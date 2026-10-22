@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-22T01:10:19.399115+00:00",
-  "story_count": 93,
+  "last_updated": "2026-10-22T15:49:53.965539+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Somalia, Uganda Sign Labour Agreement to Protect Workers’ Rights",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-uganda-sign-labour-agreement-to-protect-workers-rights/",
+      "published_date": "2026-10-22T14:04:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
+      "published_date": "2026-10-22T10:51:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
       "source": "Al Jazeera",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kenya convicts cult leader over the murder of 190 children",
+      "title": "Germany arrests Ukrainian man accused of spying for Russia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
-      "published_date": "2026-10-19T20:31:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
+      "published_date": "2026-10-22T14:36:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Finland seeking one million land mines as it eyes Russian threat",
+      "title": "Ilhan Omar home raid, Haines attack: Inside rise in violence on officials",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-      "published_date": "2026-10-19T19:57:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss",
+      "published_date": "2026-10-22T14:34:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+      "published_date": "2026-10-22T12:12:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Neha Bora can outwit the police. Can Indian youth leader outfox Modi?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+      "published_date": "2026-10-22T10:45:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces kill disabled man in southern Syria raid, state media says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
+      "published_date": "2026-10-22T10:01:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IOM: Ku dhowaad 874,000 qof ayaa fatahaado ugu barakici kara Soomaaliya saddexda bilood ee soo socda",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/iom-ku-dhowaad-874000-qof-ayaa-fatahaado-ugu-barakici-kara-soomaaliya-saddexda-bilood-ee-soo-socda/",
+      "published_date": "2026-10-22T07:40:22+00:00",
+      "category": "Military"
     },
     {
       "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-      "published_date": "2026-10-21T09:02:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guddiga doorashadda oo war kasoo saartey doorashadda hogaanka Galmudug",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddiga-doorashadda-oo-war-kasoo-saartey-doorashadda-hogaanka-galmudug/",
-      "published_date": "2026-10-21T06:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-      "published_date": "2026-10-21T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why the war on Iran could backfire on US regime-change goals",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
-      "published_date": "2026-10-20T20:23:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
-      "published_date": "2026-10-20T20:17:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks kill at least four Palestinians in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
-      "published_date": "2026-10-20T12:59:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
@@ -361,18 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+      "title": "Rising costs and tight budgets strain Americans ahead of midterm elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
-      "published_date": "2026-10-15T11:45:39+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss",
+      "published_date": "2026-10-22T15:07:38+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Russia says Ukraine resumes attacks on oil refineries",
+      "title": "Carney, Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
-      "published_date": "2026-10-15T10:02:17+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss",
+      "published_date": "2026-10-22T15:00:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
@@ -501,18 +501,95 @@
       "category": "Economy"
     },
     {
-      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+      "title": "From the streets to the ballot box: Serbia’s students hope for election win",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-      "published_date": "2026-10-15T21:57:58+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
+      "published_date": "2026-10-22T15:13:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Photos: China and North Korea open new border bridge amid deepening ties",
+      "title": "Ra’iisul Wasaaraha Soomaaliya oo hambalyo u diray hoggaanka cusub ee Galmudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaaraha-soomaaliya-oo-hambalyo-u-diray-hoggaanka-cusub-ee-galmudug/",
+      "published_date": "2026-10-22T14:09:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Prime Minister Congratulates Newly Elected Galmudug Leaders",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-prime-minister-congratulates-newly-elected-galmudug-leaders/",
+      "published_date": "2026-10-22T14:08:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maradona doctor was made ‘scapegoat’ for his death, Argentinian court told",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties?traffic_source=rss",
-      "published_date": "2026-10-15T12:54:00+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/10/22/maradona-doctor-was-made-scapegoat-for-his-death-argentinian-court-told?traffic_source=rss",
+      "published_date": "2026-10-22T13:10:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia: Key Laftagaren ally survives alleged Turkish drone strike",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagaren-ally-survives-turkish-drone-strike/",
+      "published_date": "2026-10-22T12:37:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Galmudug elects new leadership as Somali president offers congratulations",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/galmudug-elects-new-leadership-as-somali-president-offers-congratulations/",
+      "published_date": "2026-10-22T11:37:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Galmudug oo dooratay hoggaan cusub, Xasan Sheekh oo hambalyo u diray",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/galmudug-oo-dooratay-hoggaan-cusub-xasan-sheekh-oo-hambalyo-u-diray/",
+      "published_date": "2026-10-22T11:36:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
+      "published_date": "2026-10-22T11:36:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump praises man who punched protester at rally in South Carolina",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
+      "published_date": "2026-10-22T10:58:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
+      "published_date": "2026-10-22T10:06:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN agency warns nearly 874,000 could be displaced by floods in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-agency-warns-nearly-874000-could-be-displaced-by-floods-in-somalia/",
+      "published_date": "2026-10-22T07:39:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali piracy resurgence hits fishermen and traders in coastal town",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-piracy-resurgence-hits-fishermen-and-traders-in-coastal-town/",
+      "published_date": "2026-10-22T07:03:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doorasho la sii ogyahay natiijadeeda oo ka dhacaysa Dhuusamareeb",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/22/doorasho-la-sii-ogyahay-natiijadeeda-oo-ka-dhacaysa-dhuusamareeb/",
+      "published_date": "2026-10-22T04:30:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US accuses Canada of election interference ahead of midterms",
@@ -561,97 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
       "published_date": "2026-10-21T10:35:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK king welcomes Oman’s sultan in speech quoting Prophet Muhammad",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/uk-king-welcomes-omans-sultan-in-speech-quoting-prophet-muhammad?traffic_source=rss",
-      "published_date": "2026-10-21T10:17:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qaxooti ka soo cararay dagaallada Yemen oo soo gaaray Boosaaso",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/21/qaxooti-ka-soo-cararay-dagaallada-yemen-oo-soo-gaaray-boosaaso/",
-      "published_date": "2026-10-21T09:00:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s opposition launches first court challenge to new constitution",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-first-court-challenge-new-constitution/",
-      "published_date": "2026-10-21T08:05:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Upper House Speaker Meets New EU Ambassador in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-upper-house-speaker-meets-new-eu-ambassador-in-mogadishu/",
-      "published_date": "2026-10-21T06:33:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Internal Security Minister Inspects Mogadishu Airport, Chairs Security Meeting",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-internal-security-minister-inspects-mogadishu-airport-chairs-security-meeting/",
-      "published_date": "2026-10-21T06:25:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wasaarada waxbarashada Puntland oo jebisay wareegto uu soo saaray madaxweyne Deni",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/21/wasaarada-waxbarashada-puntland-oo-jebisay-wareegto-uu-soo-saaray-madaxweyne-deni/",
-      "published_date": "2026-10-21T06:20:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
-      "published_date": "2026-10-21T00:08:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Aviation Minister Denies New Airspace Agreement with Somalia",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-aviation-minister-denies-new-airspace-agreement-with-somalia/",
-      "published_date": "2026-10-20T22:19:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Future Council Threatens Legal and Political Action Against Federal Election Plan",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalias-future-council-threatens-legal-and-political-action-against-federal-election-plan/",
-      "published_date": "2026-10-20T21:58:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NIRA Registrations Rise by 11% as Demand Grows in North Eastern State of Somalia",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/20/nira-registrations-rise-by-11-as-demand-grows-in-north-eastern-state-of-somalia/",
-      "published_date": "2026-10-20T13:34:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
-      "published_date": "2026-10-20T13:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss",
-      "published_date": "2026-10-20T12:58:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia warns media outlets over alleged terrorist propaganda",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-warns-media-outlets-over-alleged-terrorist-propaganda/",
-      "published_date": "2026-10-20T05:56:24+00:00",
       "category": "Local Events"
     }
   ]
