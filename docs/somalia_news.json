@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-22T15:49:53.965539+00:00",
-  "story_count": 91,
+  "last_updated": "2026-10-23T01:09:53.330626+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
+      "published_date": "2026-10-22T22:52:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+      "published_date": "2026-10-22T22:25:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IEA chief warns energy is becoming a geopolitical weapon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss",
+      "published_date": "2026-10-22T20:51:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia, Uganda Sign Labour Agreement to Protect Workers’ Rights",
       "source": "Shabelle Media",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia steps up El Niño preparedness with UN, Norway support",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-steps-up-el-nino-preparedness-with-un-norway-support/",
-      "published_date": "2026-10-20T05:54:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+      "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
-      "published_date": "2026-10-19T23:16:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
+      "published_date": "2026-10-23T00:51:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu’s Regional Alliance Map Places Somaliland and Puntland in Different Strategic Camps",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/netanyahus-regional-alliance-map-places-somaliland-and-puntland-in-different-strategic-camps/",
-      "published_date": "2026-10-19T22:10:25+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+      "published_date": "2026-10-23T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Germany arrests Ukrainian man accused of spying for Russia",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
-      "published_date": "2026-10-21T10:22:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Attack on Australian MP Haines: How threats against legislators have soared",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
-      "published_date": "2026-10-21T09:24:47+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
@@ -347,18 +347,11 @@
       "category": "Energy"
     },
     {
-      "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+      "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-      "published_date": "2026-10-15T23:35:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Several people dead or missing after Istanbul floods",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
-      "published_date": "2026-10-15T21:15:46+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
+      "published_date": "2026-10-22T22:09:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Rising costs and tight budgets strain Americans ahead of midterm elections",
@@ -494,11 +487,32 @@
       "category": "Economy"
     },
     {
-      "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+      "title": "Thousands protest across Poland for access to free and legal abortions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
-      "published_date": "2026-10-16T00:31:18+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
+      "published_date": "2026-10-23T00:54:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
+      "published_date": "2026-10-22T21:23:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands gather at final student-led rally ahead of Serbia election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+      "published_date": "2026-10-22T20:21:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why has the Libya-Turkiye maritime deal stirred controversy?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
+      "published_date": "2026-10-22T20:13:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "From the streets to the ballot box: Serbia’s students hope for election win",
@@ -610,34 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
       "published_date": "2026-10-21T21:07:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China, Ukraine Respond to Somalia’s Flood Appeal",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/china-ukraine-respond-to-somalias-flood-appeal/",
-      "published_date": "2026-10-21T18:36:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Mushaar ma qaataan shaqaalaha dowladda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/21/puntland-mushaar-ma-qaataan-shaqaalaha-dowladda/",
-      "published_date": "2026-10-21T16:12:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s U-17 football team returns home to hero’s welcome after CECAFA silver",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-u-17-football-team-returns-home-to-heros-welcome-after-cecafa-silver/",
-      "published_date": "2026-10-21T13:01:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
-      "published_date": "2026-10-21T10:35:34+00:00",
       "category": "Local Events"
     }
   ]
