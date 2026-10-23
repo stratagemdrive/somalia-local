@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-23T01:09:53.330626+00:00",
-  "story_count": 89,
+  "last_updated": "2026-10-23T15:40:45.017051+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
+      "published_date": "2026-10-23T13:45:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss",
+      "published_date": "2026-10-23T13:17:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
+      "published_date": "2026-10-23T12:34:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali prime minister urges women religious scholars to help strengthen society",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-prime-minister-urges-women-religious-scholars-to-help-strengthen-society/",
+      "published_date": "2026-10-23T07:45:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
       "source": "Al Jazeera",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France PM promises more curfews as authorities seek to regain control",
+      "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night?traffic_source=rss",
-      "published_date": "2026-10-20T12:07:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
+      "published_date": "2026-10-23T14:15:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+      "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
-      "published_date": "2026-10-20T11:07:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
+      "published_date": "2026-10-23T13:46:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Masoud Pezeshkian: Peace, Not Surrender",
+      "title": "US-Iran war, then and now: How the landscape has changed since February",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
-      "published_date": "2026-10-20T11:02:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
+      "published_date": "2026-10-23T11:43:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
-      "published_date": "2026-10-20T10:36:57+00:00",
-      "category": "Diplomacy"
+      "title": "Somalia, EU military training mission discuss strengthening army capabilities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-eu-military-training-mission-discuss-strengthening-army-capabilities/",
+      "published_date": "2026-10-23T07:41:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
-      "published_date": "2026-10-21T13:25:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Soomaaliya oo Guul ka sheegatay dagaalka Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/dowladda-soomaaliya-oo-guul-ka-sheegatay-dagaalka-al-shabaab/",
-      "published_date": "2026-10-21T12:44:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia claims 55 percent of Al-Shabaab territory liberated: official",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-claims-55-percent-of-al-shabaab-territory-liberated-official/",
-      "published_date": "2026-10-21T12:40:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
-      "published_date": "2026-10-21T12:24:23+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
@@ -337,13 +337,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
       "published_date": "2026-10-17T10:12:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fuel tanker fire engulfs market in southern Nigeria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
-      "published_date": "2026-10-16T12:23:12+00:00",
       "category": "Energy"
     },
     {
@@ -487,6 +480,41 @@
       "category": "Economy"
     },
     {
+      "title": "Gunmen open fire at church in Jordan, killing several people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
+      "published_date": "2026-10-23T13:32:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
+      "published_date": "2026-10-23T13:25:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qatar Moto GP to go ahead despite regional tensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
+      "published_date": "2026-10-23T13:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guuleed Saalax oo farriin u diray madaxweynaha cusub ee Galmudug",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/23/guuleed-saalax-oo-farriin-u-diray-madaxweynaha-cusub-ee-galmudug/",
+      "published_date": "2026-10-23T09:02:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali president congratulates new Hirshabelle parliament leadership",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-congratulates-new-hirshabelle-parliament-leadership/",
+      "published_date": "2026-10-23T07:35:19+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Thousands protest across Poland for access to free and legal abortions",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
@@ -512,6 +540,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
       "published_date": "2026-10-22T20:13:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia opposition scores own goal over Galmudug election",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-galmudug-election/",
+      "published_date": "2026-10-22T17:42:21+00:00",
       "category": "Local Events"
     },
     {
@@ -582,48 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
       "published_date": "2026-10-22T10:06:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN agency warns nearly 874,000 could be displaced by floods in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-agency-warns-nearly-874000-could-be-displaced-by-floods-in-somalia/",
-      "published_date": "2026-10-22T07:39:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali piracy resurgence hits fishermen and traders in coastal town",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-piracy-resurgence-hits-fishermen-and-traders-in-coastal-town/",
-      "published_date": "2026-10-22T07:03:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doorasho la sii ogyahay natiijadeeda oo ka dhacaysa Dhuusamareeb",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/22/doorasho-la-sii-ogyahay-natiijadeeda-oo-ka-dhacaysa-dhuusamareeb/",
-      "published_date": "2026-10-22T04:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US accuses Canada of election interference ahead of midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
-      "published_date": "2026-10-21T23:52:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
-      "published_date": "2026-10-21T23:13:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump heads to South Carolina to boost Senator Darline Graham in race",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
-      "published_date": "2026-10-21T21:07:43+00:00",
       "category": "Local Events"
     }
   ]
