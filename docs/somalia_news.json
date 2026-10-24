@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-23T15:40:45.017051+00:00",
+  "last_updated": "2026-10-24T01:20:36.021624+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
+      "published_date": "2026-10-23T22:33:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
+      "published_date": "2026-10-23T20:44:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
+      "published_date": "2026-10-23T19:55:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Several people missing after multistorey building collapses in Kenya",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
+      "published_date": "2026-10-23T17:49:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+      "published_date": "2026-10-23T17:30:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
       "source": "Al Jazeera",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+      "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
-      "published_date": "2026-10-20T19:51:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+      "published_date": "2026-10-24T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
+      "title": "Why is Israel increasing its presence in the Balkans?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
-      "published_date": "2026-10-20T19:29:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+      "published_date": "2026-10-23T22:01:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
-      "published_date": "2026-10-20T14:39:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+      "published_date": "2026-10-23T21:27:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?",
+      "title": "Trump’s broken promises: economy, war and ICE",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss",
-      "published_date": "2026-10-20T14:00:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+      "published_date": "2026-10-23T20:01:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+      "title": "Israel locks down occupied West Bank after Hebron shooting",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
-      "published_date": "2026-10-20T13:20:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+      "published_date": "2026-10-23T18:38:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
@@ -246,41 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
       "published_date": "2026-10-21T22:03:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
-      "published_date": "2026-10-21T21:25:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Surge in US Air Strikes in Somalia Raises Concerns Over Civilian Casualties",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/surge-in-us-air-strikes-in-somalia-raises-concerns-over-civilian-casualties/",
-      "published_date": "2026-10-21T19:22:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tunisia jails opposition politician for four years over social media posts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-      "published_date": "2026-10-21T19:14:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
-      "published_date": "2026-10-21T13:58:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How war in Lebanon has cost young people with autism and ADHD",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
-      "published_date": "2026-10-21T13:32:57+00:00",
       "category": "Military"
     },
     {
@@ -480,6 +480,34 @@
       "category": "Economy"
     },
     {
+      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+      "published_date": "2026-10-24T00:50:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayern coach Kompany taken to hospital after collapsing during training",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss",
+      "published_date": "2026-10-23T17:44:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo dib ugu soo laabtay Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/23/madaxweyne-deni-oo-dib-ugu-soo-laabtay-puntland/",
+      "published_date": "2026-10-23T15:02:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo soo saartay digniin ku saabsan barnaamijka lagu dhiso website-yada ee PHP",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/23/puntland-oo-soo-saartay-digniin-ku-saabsan-barnaamijka-lagu-dhiso-website-yada-ee-php/",
+      "published_date": "2026-10-23T14:38:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Gunmen open fire at church in Jordan, killing several people",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
@@ -589,34 +617,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/galmudug-elects-new-leadership-as-somali-president-offers-congratulations/",
       "published_date": "2026-10-22T11:37:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Galmudug oo dooratay hoggaan cusub, Xasan Sheekh oo hambalyo u diray",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/galmudug-oo-dooratay-hoggaan-cusub-xasan-sheekh-oo-hambalyo-u-diray/",
-      "published_date": "2026-10-22T11:36:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
-      "published_date": "2026-10-22T11:36:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump praises man who punched protester at rally in South Carolina",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
-      "published_date": "2026-10-22T10:58:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
-      "published_date": "2026-10-22T10:06:58+00:00",
       "category": "Local Events"
     }
   ]
