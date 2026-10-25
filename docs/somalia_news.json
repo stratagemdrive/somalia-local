@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-25T00:46:30.843000+00:00",
-  "story_count": 85,
+  "last_updated": "2026-10-25T14:54:44.441583+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Somalia Receives Credentials of New Omani Ambassador After Embassy Reopens in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-receives-credentials-of-new-omani-ambassador-after-embassy-reopens-in-mogadishu/",
+      "published_date": "2026-10-25T11:47:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Defence and British Ambassador Discuss Strengthening Defence and Security Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/minister-of-defence-and-british-ambassador-discuss-strengthening-defence-and-security-cooperation/",
+      "published_date": "2026-10-25T11:30:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Madasha Ganacsatada Soomaaliyeed ee GSEF2026 oo markii saddexaad lagu qabtay Nairobi",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/madasha-ganacsatada-soomaaliyeed-ee-gsef2026-oo-markii-saddexaad-lagu-qabtay-nairobi/",
+      "published_date": "2026-10-25T08:44:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
       "source": "Al Jazeera",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali prime minister urges women religious scholars to help strengthen society",
+      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+      "published_date": "2026-10-25T14:03:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+      "published_date": "2026-10-25T13:46:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Algerian parliament’s upper house approves troop deployment to Niger",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
+      "published_date": "2026-10-25T12:19:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police in Albania filmed beating protester unconscious",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
+      "published_date": "2026-10-25T10:45:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
+      "published_date": "2026-10-25T10:42:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+      "published_date": "2026-10-25T09:27:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Danab Commandos Launch Operation Against al-Shabab in Goobanle",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-prime-minister-urges-women-religious-scholars-to-help-strengthen-society/",
-      "published_date": "2026-10-23T07:45:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-danab-commandos-launch-operation-against-al-shabab-in-goobanle/",
+      "published_date": "2026-10-25T06:12:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
-      "published_date": "2026-10-22T22:52:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
-      "published_date": "2026-10-22T22:25:14+00:00",
-      "category": "Diplomacy"
+      "title": "Somalia’s NISA Arrests Suspect Linked to Grenade Attacks in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-nisa-arrests-suspect-linked-to-grenade-attacks-in-mogadishu/",
+      "published_date": "2026-10-25T06:11:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Czech Republic advances media funding overhaul despite criticism",
+      "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
-      "published_date": "2026-10-24T11:50:32+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
+      "published_date": "2026-10-25T12:05:16+00:00",
+      "category": "Energy"
     },
     {
-      "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
+      "title": "Indigenous communities worry Brazil’s election could hurt environment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
-      "published_date": "2026-10-24T11:01:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
-      "published_date": "2026-10-24T10:47:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Laftagareen oo Turkiga ka dalbaday inuu joojiyo duqeymaha cirka ee Koonfur Galbeed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/laftagareen-oo-turkiga-ka-dalbaday-inuu-joojiyo-duqeymaha-cirka-ee-koonfur-galbeed/",
-      "published_date": "2026-10-24T08:38:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
-      "published_date": "2026-10-24T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Israel increasing its presence in the Balkans?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
-      "published_date": "2026-10-23T22:01:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-      "published_date": "2026-10-23T21:27:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s broken promises: economy, war and ICE",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
-      "published_date": "2026-10-23T20:01:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss",
+      "published_date": "2026-10-25T08:54:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Sudan’s soaring fuel prices make getting by harder for workers",
@@ -331,6 +345,27 @@
       "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
       "published_date": "2026-10-20T12:37:06+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
+      "published_date": "2026-10-25T14:11:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
+      "published_date": "2026-10-25T12:17:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Qatar official calls for peace and security to boost trade, investment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
+      "published_date": "2026-10-25T09:57:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
@@ -438,25 +473,67 @@
       "category": "Economy"
     },
     {
-      "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
+      "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
-      "published_date": "2026-10-18T10:48:18+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
+      "published_date": "2026-10-25T13:40:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+      "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
-      "published_date": "2026-10-18T09:16:54+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
+      "published_date": "2026-10-25T13:29:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sahel Nations Resume Talks With ECOWAS After Withdrawal",
+      "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
+      "published_date": "2026-10-25T09:14:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ku baaqday shir looga arrinsado xaaladda Soomaaliya",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/25/puntland-oo-ku-baaqday-shir-looga-arrinsado-xaaladda-soomaaliya/",
+      "published_date": "2026-10-25T09:07:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
+      "published_date": "2026-10-25T09:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo Gaalkacyo ka mamnuucday qaadashada hubka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/25/puntland-oo-gaalkacyo-ka-mamnuucday-qaadashada-hubka/",
+      "published_date": "2026-10-25T08:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxay ka wada hadleen Islaan Ciise iyo Madaxweyne Xasan Sheekh?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/25/maxay-ka-wada-hadleen-islaan-ciise-iyo-madaxweyne-xasan-sheekh/",
+      "published_date": "2026-10-25T07:45:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s U-17 Team Celebrated After Historic CECAFA Tournament Success",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sahel-nations-resume-talks-with-ecowas-after-withdrawal/",
-      "published_date": "2026-10-18T09:03:08+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalias-u-17-team-celebrated-after-historic-cecafa-tournament-success/",
+      "published_date": "2026-10-25T06:15:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Health Minister Survives No-Confidence Motion in Parliament",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-health-minister-survives-no-confidence-motion-in-parliament/",
+      "published_date": "2026-10-25T06:14:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
@@ -533,69 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss",
       "published_date": "2026-10-24T11:44:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s former South West leader urges Turkey to halt alleged airstrikes",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-former-south-west-leader-urges-turkey-to-halt-alleged-airstrikes/",
-      "published_date": "2026-10-24T11:20:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
-      "published_date": "2026-10-24T10:59:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
-      "published_date": "2026-10-24T00:50:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern coach Kompany taken to hospital after collapsing during training",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss",
-      "published_date": "2026-10-23T17:44:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo dib ugu soo laabtay Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/23/madaxweyne-deni-oo-dib-ugu-soo-laabtay-puntland/",
-      "published_date": "2026-10-23T15:02:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo soo saartay digniin ku saabsan barnaamijka lagu dhiso website-yada ee PHP",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/23/puntland-oo-soo-saartay-digniin-ku-saabsan-barnaamijka-lagu-dhiso-website-yada-ee-php/",
-      "published_date": "2026-10-23T14:38:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunmen open fire at church in Jordan, killing several people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
-      "published_date": "2026-10-23T13:32:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
-      "published_date": "2026-10-23T13:25:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qatar Moto GP to go ahead despite regional tensions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
-      "published_date": "2026-10-23T13:00:18+00:00",
       "category": "Local Events"
     }
   ]
