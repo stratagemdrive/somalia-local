@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-24T14:23:21.747335+00:00",
-  "story_count": 84,
+  "last_updated": "2026-10-25T00:46:30.843000+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+      "published_date": "2026-10-24T20:03:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+      "published_date": "2026-10-24T18:00:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Medemer Succumbs to Wax and Gold in Ethiopia",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/24/medemer-succumbs-to-wax-and-gold-in-ethiopia/",
+      "published_date": "2026-10-24T17:41:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia-style guerrilla insurgencies could emerge in Somalia: official",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-style-guerrilla-insurgencies-somalia/",
+      "published_date": "2026-10-24T17:29:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Netanyahu floats Crypto to bypass sanctions",
       "source": "Al Jazeera",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IEA chief warns energy is becoming a geopolitical weapon",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss",
-      "published_date": "2026-10-22T20:51:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+      "published_date": "2026-10-25T00:34:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia, Uganda Sign Labour Agreement to Protect Workers’ Rights",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-uganda-sign-labour-agreement-to-protect-workers-rights/",
-      "published_date": "2026-10-22T14:04:51+00:00",
-      "category": "Diplomacy"
+      "title": "Violence breaks out across Europe after another day of protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+      "published_date": "2026-10-25T00:23:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
+      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
-      "published_date": "2026-10-22T10:51:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+      "published_date": "2026-10-25T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
+      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss",
-      "published_date": "2026-10-21T19:51:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+      "published_date": "2026-10-24T22:35:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "published_date": "2026-10-24T22:28:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Violent clashes as Albanian government cracks down on protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+      "published_date": "2026-10-24T20:39:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "published_date": "2026-10-24T20:37:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands gather at new Albanian antigovernment rally",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+      "published_date": "2026-10-24T18:30:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Rybakina readies for title defence at Ningbo Open in final with Fernandez",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Israel locks down occupied West Bank after Hebron shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
-      "published_date": "2026-10-23T18:38:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
-      "published_date": "2026-10-23T14:15:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
-      "published_date": "2026-10-23T13:46:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran war, then and now: How the landscape has changed since February",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
-      "published_date": "2026-10-23T11:43:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia, EU military training mission discuss strengthening army capabilities",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-eu-military-training-mission-discuss-strengthening-army-capabilities/",
-      "published_date": "2026-10-23T07:41:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
-      "published_date": "2026-10-23T00:51:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
-      "published_date": "2026-10-23T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany arrests Ukrainian man accused of spying for Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
-      "published_date": "2026-10-22T14:36:06+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Sudan’s soaring fuel prices make getting by harder for workers",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
@@ -331,6 +331,13 @@
       "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
       "published_date": "2026-10-20T12:37:06+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+      "published_date": "2026-10-24T16:48:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
@@ -452,6 +459,41 @@
       "category": "Economy"
     },
     {
+      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+      "published_date": "2026-10-24T21:39:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "published_date": "2026-10-24T19:11:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbian elections: A country where students may actually take power",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
+      "published_date": "2026-10-24T16:36:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Booliska Puntland oo bilaabay qorshe uu kaga faa’iidaysanayo khayraadka dalka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/24/booliska-puntland-oo-bilaabay-qorshe-uu-kaga-faaiidaysanayo-khayraadka-dalka/",
+      "published_date": "2026-10-24T15:38:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+      "published_date": "2026-10-24T15:36:38+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
@@ -554,41 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
       "published_date": "2026-10-23T13:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guuleed Saalax oo farriin u diray madaxweynaha cusub ee Galmudug",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/23/guuleed-saalax-oo-farriin-u-diray-madaxweynaha-cusub-ee-galmudug/",
-      "published_date": "2026-10-23T09:02:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali president congratulates new Hirshabelle parliament leadership",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-congratulates-new-hirshabelle-parliament-leadership/",
-      "published_date": "2026-10-23T07:35:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands protest across Poland for access to free and legal abortions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
-      "published_date": "2026-10-23T00:54:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
-      "published_date": "2026-10-22T21:23:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands gather at final student-led rally ahead of Serbia election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
-      "published_date": "2026-10-22T20:21:12+00:00",
       "category": "Local Events"
     }
   ]
