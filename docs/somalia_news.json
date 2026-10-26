@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-26T00:57:33.925281+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-26T17:13:48.824938+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
+      "published_date": "2026-10-26T16:39:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
+      "published_date": "2026-10-26T15:44:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss",
+      "published_date": "2026-10-26T14:38:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali President Hassan Sheikh Invites Opposition to National Talks on Federal Elections",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-hassan-sheikh-invites-opposition-to-national-talks-on-federal-elections/",
+      "published_date": "2026-10-26T09:40:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Thousands protest in Prague against public media funding reforms",
       "source": "Al Jazeera",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia sends more than 200 military vehicles toward Burhakabo",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-military-vehicles-burhakabo/",
-      "published_date": "2026-10-24T07:36:41+00:00",
-      "category": "Diplomacy"
+      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-10-26T15:41:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
-      "published_date": "2026-10-23T22:33:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+      "published_date": "2026-10-26T12:17:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
-      "published_date": "2026-10-23T20:44:02+00:00",
-      "category": "Diplomacy"
+      "title": "President Hassan Sheikh calls for continued political dialogue in Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/president-hassan-sheikh-calls-for-continued-political-dialogue-in-somalia/",
+      "published_date": "2026-10-26T05:42:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
-      "published_date": "2026-10-23T19:55:44+00:00",
-      "category": "Diplomacy"
+      "title": "Xasan Sheekh oo ku baaqay wada-hadal siyaasadeed, kana hadlay horumarka amniga iyo doorashooyinka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/xasan-sheekh-oo-ku-baaqay-wada-hadal-siyaasadeed-kana-hadlay-horumarka-amniga-iyo-doorashooyinka/",
+      "published_date": "2026-10-26T05:41:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Violent clashes as Albanian government cracks down on protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
-      "published_date": "2026-10-24T20:39:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-      "published_date": "2026-10-24T20:37:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands gather at new Albanian antigovernment rally",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-      "published_date": "2026-10-24T18:30:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rybakina readies for title defence at Ningbo Open in final with Fernandez",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss",
-      "published_date": "2026-10-24T13:52:08+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
@@ -345,6 +345,20 @@
       "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
       "published_date": "2026-10-20T12:37:06+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
+      "published_date": "2026-10-26T13:20:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Has Pakistan reopened its border with Iran for trade?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
+      "published_date": "2026-10-26T13:01:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
@@ -445,39 +459,67 @@
       "category": "Economy"
     },
     {
-      "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
+      "title": "‘Enough is enough’: Palestinians and Israelis share views ahead of election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
-      "published_date": "2026-10-19T16:06:57+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss",
+      "published_date": "2026-10-26T16:51:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
+      "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
-      "published_date": "2026-10-19T15:05:16+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
+      "published_date": "2026-10-26T16:12:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan suspends Iran border trade, amid violence on both sides",
+      "title": "What does the Israeli election mean for religious groups?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
-      "published_date": "2026-10-19T14:43:03+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/what-does-the-israeli-election-mean-for-religious-groups?traffic_source=rss",
+      "published_date": "2026-10-26T15:40:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia and Iraq discuss expanding trade and livestock exports",
+      "title": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss",
+      "published_date": "2026-10-26T14:31:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Price of Protest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
+      "published_date": "2026-10-26T14:01:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
+      "published_date": "2026-10-26T13:02:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fighting erupts near Baidoa as Somali army advance on Burhakabo stalls",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/baidoa-fighting-somali-army-burhakabo-stalls/",
+      "published_date": "2026-10-26T12:47:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Xasan Sheekh oo shir wadatashi ugu yeeray Puntland, Jubaland iyo siyaasiyiinta mucaaradka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/26/madaxweyne-xasan-sheekh-oo-shir-wadatashi-ugu-yeeray-puntland-jubaland-iyo-siyaasiyiinta-mucaaradka/",
+      "published_date": "2026-10-26T09:18:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s House Speaker Inspects Renovation Work at Villa Hargeisa",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-iraq-discuss-expanding-trade-and-livestock-exports/",
-      "published_date": "2026-10-19T08:33:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somalia, Türkiye discuss cooperation on fisheries and blue economy",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-turkiye-discuss-cooperation-on-fisheries-and-blue-economy/",
-      "published_date": "2026-10-19T08:28:02+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalias-house-speaker-inspects-renovation-work-at-villa-hargeisa/",
+      "published_date": "2026-10-26T05:37:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lula holds off far right with victory in Brazil presidential election",
@@ -554,69 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
       "published_date": "2026-10-25T09:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo ku baaqday shir looga arrinsado xaaladda Soomaaliya",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/25/puntland-oo-ku-baaqday-shir-looga-arrinsado-xaaladda-soomaaliya/",
-      "published_date": "2026-10-25T09:07:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
-      "published_date": "2026-10-25T09:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo Gaalkacyo ka mamnuucday qaadashada hubka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/25/puntland-oo-gaalkacyo-ka-mamnuucday-qaadashada-hubka/",
-      "published_date": "2026-10-25T08:07:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxay ka wada hadleen Islaan Ciise iyo Madaxweyne Xasan Sheekh?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/25/maxay-ka-wada-hadleen-islaan-ciise-iyo-madaxweyne-xasan-sheekh/",
-      "published_date": "2026-10-25T07:45:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s U-17 Team Celebrated After Historic CECAFA Tournament Success",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-u-17-team-celebrated-after-historic-cecafa-tournament-success/",
-      "published_date": "2026-10-25T06:15:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Health Minister Survives No-Confidence Motion in Parliament",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-health-minister-survives-no-confidence-motion-in-parliament/",
-      "published_date": "2026-10-25T06:14:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
-      "published_date": "2026-10-24T21:39:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-      "published_date": "2026-10-24T19:11:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbian elections: A country where students may actually take power",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
-      "published_date": "2026-10-24T16:36:44+00:00",
       "category": "Local Events"
     }
   ]
