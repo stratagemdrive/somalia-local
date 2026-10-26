@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-25T14:54:44.441583+00:00",
-  "story_count": 87,
+  "last_updated": "2026-10-26T00:57:33.925281+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Thousands protest in Prague against public media funding reforms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+      "published_date": "2026-10-25T23:29:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bulgaria election heads to a run-off amid low voter turnout",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+      "published_date": "2026-10-25T22:57:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could Somalia’s Response to the Trump Administration’s Investigation of Ilhan Omar Strain U.S.-Somalia Relations",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/could-somalias-response-to-the-trump-administrations-investigation-of-ilhan-omar-strain-u-s-somalia-relations/",
+      "published_date": "2026-10-25T21:51:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+      "published_date": "2026-10-25T21:00:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s ex-spy chief does not rule out Al-Shabaab alliance to topple president",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-spy-chief-al-shabab-alliance-president/",
+      "published_date": "2026-10-25T18:23:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia Receives Credentials of New Omani Ambassador After Embassy Reopens in Mogadishu",
       "source": "Shabelle Media",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Several people missing after multistorey building collapses in Kenya",
+      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
-      "published_date": "2026-10-23T17:49:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+      "published_date": "2026-10-26T00:02:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
-      "published_date": "2026-10-23T17:30:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "published_date": "2026-10-26T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
+      "title": "The narrative battle over France’s unrest",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
-      "published_date": "2026-10-23T13:45:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss",
-      "published_date": "2026-10-23T13:17:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
-      "published_date": "2026-10-23T12:34:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+      "published_date": "2026-10-25T19:36:14+00:00",
+      "category": "Military"
     },
     {
       "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Who was behind the deadly church shooting in Jordan?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
-      "published_date": "2026-10-24T13:39:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
-      "published_date": "2026-10-24T13:06:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss",
-      "published_date": "2026-10-24T13:02:51+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
@@ -345,6 +345,13 @@
       "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
       "published_date": "2026-10-20T12:37:06+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+      "published_date": "2026-10-25T21:50:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
@@ -473,6 +480,62 @@
       "category": "Economy"
     },
     {
+      "title": "Lula holds off far right with victory in Brazil presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "published_date": "2026-10-26T00:16:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+      "published_date": "2026-10-25T22:22:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+      "published_date": "2026-10-25T21:41:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Bans Airline Tickets Issued Through Somalia’s BSP System",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-bans-airline-tickets-issued-through-somalias-bsp-system/",
+      "published_date": "2026-10-25T20:53:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Journalists Syndicate Condemns Government Warning to Media Covering South West Conflict",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-journalists-syndicate-condemns-government-warning-to-media-covering-south-west-conflict/",
+      "published_date": "2026-10-25T20:37:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil election results 2026 live: Lula beats Bolsonaro in tight race",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+      "published_date": "2026-10-25T20:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+      "published_date": "2026-10-25T19:19:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli air strike on Gaza City university kills three people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+      "published_date": "2026-10-25T18:12:13+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
@@ -554,62 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
       "published_date": "2026-10-24T16:36:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Booliska Puntland oo bilaabay qorshe uu kaga faa’iidaysanayo khayraadka dalka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/24/booliska-puntland-oo-bilaabay-qorshe-uu-kaga-faaiidaysanayo-khayraadka-dalka/",
-      "published_date": "2026-10-24T15:38:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-      "published_date": "2026-10-24T15:36:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
-      "published_date": "2026-10-24T13:58:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hirshabelle Re-elects Ali Guudlaawe as President, Hassan Sheikh Congratulates Him",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hirshabelle-re-elects-ali-guudlaawe-as-president-hassan-sheikh-congratulates-him/",
-      "published_date": "2026-10-24T13:40:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA’s Infantino touts global re-election support amid resignation questions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss",
-      "published_date": "2026-10-24T13:12:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barcelona housing activists evicted by police from residential building",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss",
-      "published_date": "2026-10-24T12:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hoggaamiyaha cusub ee Galmudug oo shir amni la yeeshay saraakiisha ciidamada",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hoggaamiyaha-cusub-ee-galmudug-oo-shir-amni-la-yeeshay-saraakiisha-ciidamada/",
-      "published_date": "2026-10-24T12:10:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democracy by ZIP Code: Two Americas, one election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss",
-      "published_date": "2026-10-24T11:44:16+00:00",
       "category": "Local Events"
     }
   ]
