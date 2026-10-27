@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-26T17:13:48.824938+00:00",
+  "last_updated": "2026-10-27T01:47:45.353671+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "What Vucic’s defeat means for Serbia’s foreign policy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss",
+      "published_date": "2026-10-26T20:38:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s Opposition Questions Legitimacy of Hassan Sheikh’s National Consultation Platform",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalias-opposition-questions-legitimacy-of-hassan-sheikhs-national-consultation-platform/",
+      "published_date": "2026-10-26T18:49:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
       "source": "Al Jazeera",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Dagaal maalintii saddexaad ka socda Mooyaale",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/24/dagaal-maalintii-saddexaad-ka-socda-mooyaale/",
-      "published_date": "2026-10-24T09:59:30+00:00",
-      "category": "Diplomacy"
+      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
+      "published_date": "2026-10-27T00:33:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
+      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
-      "published_date": "2026-10-24T09:32:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+      "published_date": "2026-10-27T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bolsonaro says police demand passports after Brazil election defeat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
+      "published_date": "2026-10-26T23:53:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jordan strikes Syria after church attack, killing at least seven people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+      "published_date": "2026-10-26T23:50:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jordan attacks Syria in response to Karak church attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+      "published_date": "2026-10-26T23:48:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian children crawl under Israeli military gates to get to school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
+      "published_date": "2026-10-26T20:46:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Huge explosion at a weapons depot in Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+      "published_date": "2026-10-26T20:41:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jordan arrests three suspects over deadly church attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+      "published_date": "2026-10-26T19:25:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could the midterms change US military support for Israel?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+      "published_date": "2026-10-26T18:05:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Egyptian parliament authorises military aid for Saudi Arabia",
@@ -221,69 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-      "published_date": "2026-10-25T10:42:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-      "published_date": "2026-10-25T09:27:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Danab Commandos Launch Operation Against al-Shabab in Goobanle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-danab-commandos-launch-operation-against-al-shabab-in-goobanle/",
-      "published_date": "2026-10-25T06:12:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s NISA Arrests Suspect Linked to Grenade Attacks in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-nisa-arrests-suspect-linked-to-grenade-attacks-in-mogadishu/",
-      "published_date": "2026-10-25T06:11:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
-      "published_date": "2026-10-25T00:34:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Violence breaks out across Europe after another day of protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
-      "published_date": "2026-10-25T00:23:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
-      "published_date": "2026-10-25T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
-      "published_date": "2026-10-24T22:35:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How have Democrats’ policies shifted since the last major US election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-      "published_date": "2026-10-24T22:28:37+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
@@ -345,6 +345,13 @@
       "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
       "published_date": "2026-10-20T12:37:06+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Africa food security under threat due to Iran war, trade officials warn",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+      "published_date": "2026-10-26T21:42:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
@@ -452,11 +459,46 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+      "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
-      "published_date": "2026-10-20T01:05:31+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
+      "published_date": "2026-10-27T01:06:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US court rules against Trump administration in California voting case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss",
+      "published_date": "2026-10-27T01:01:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US court rules daughter of Trump critic James Comey was illegally fired",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
+      "published_date": "2026-10-26T20:55:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a WhatsApp channel helped Lula win Brazil’s election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
+      "published_date": "2026-10-26T20:20:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
+      "published_date": "2026-10-26T20:17:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil’s real sinks after Lula’s re-election victory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+      "published_date": "2026-10-26T18:27:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Enough is enough’: Palestinians and Israelis share views ahead of election",
@@ -554,48 +596,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somali-journalists-syndicate-condemns-government-warning-to-media-covering-south-west-conflict/",
       "published_date": "2026-10-25T20:37:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil election results 2026 live: Lula beats Bolsonaro in tight race",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
-      "published_date": "2026-10-25T20:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
-      "published_date": "2026-10-25T19:19:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli air strike on Gaza City university kills three people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-      "published_date": "2026-10-25T18:12:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
-      "published_date": "2026-10-25T13:40:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
-      "published_date": "2026-10-25T13:29:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
-      "published_date": "2026-10-25T09:14:07+00:00",
       "category": "Local Events"
     }
   ]
