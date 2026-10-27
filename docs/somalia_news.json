@@ -1,8 +1,57 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-27T01:47:45.353671+00:00",
-  "story_count": 85,
+  "last_updated": "2026-10-27T16:19:01.649039+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
+      "published_date": "2026-10-27T15:26:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+      "published_date": "2026-10-27T13:26:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s Human Rights Minister Inspects Newly Opened UN Office in Mogadishu",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-human-rights-minister-inspects-newly-opened-un-office-in-mogadishu/",
+      "published_date": "2026-10-27T08:05:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Mission in Somalia to End Operations on October 31 After More Than 30 Years",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-mission-in-somalia-to-end-operations-on-october-31-after-more-than-30-years/",
+      "published_date": "2026-10-27T08:04:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia, EU Discuss Security Cooperation and Police Training",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-eu-discuss-security-cooperation-and-police-training/",
+      "published_date": "2026-10-27T08:02:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s Deputy Prime Minister Attends Closing Ceremony of UN Political Mission",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-deputy-prime-minister-attends-closing-ceremony-of-un-political-mission/",
+      "published_date": "2026-10-27T08:01:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN to End Its Political Mission in Somalia After 34 Years",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/27/un-to-end-its-political-mission-in-somalia-after-34-years/",
+      "published_date": "2026-10-27T05:45:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What Vucic’s defeat means for Serbia’s foreign policy",
       "source": "Al Jazeera",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Madasha Ganacsatada Soomaaliyeed ee GSEF2026 oo markii saddexaad lagu qabtay Nairobi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/madasha-ganacsatada-soomaaliyeed-ee-gsef2026-oo-markii-saddexaad-lagu-qabtay-nairobi/",
-      "published_date": "2026-10-25T08:44:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+      "title": "Israeli military detains Egyptian national who crossed border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
-      "published_date": "2026-10-24T20:03:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
+      "published_date": "2026-10-27T15:10:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
-      "published_date": "2026-10-24T18:00:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
+      "published_date": "2026-10-27T15:08:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Medemer Succumbs to Wax and Gold in Ethiopia",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/24/medemer-succumbs-to-wax-and-gold-in-ethiopia/",
-      "published_date": "2026-10-24T17:41:09+00:00",
-      "category": "Diplomacy"
+      "title": "Sudan’s war steals children’s future with school closures and displacement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/27/sudans-war-steals-childrens-futures-with-school-closures-and-displacement?traffic_source=rss",
+      "published_date": "2026-10-27T14:45:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia-style guerrilla insurgencies could emerge in Somalia: official",
+      "title": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
+      "published_date": "2026-10-27T13:59:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
+      "published_date": "2026-10-27T13:06:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Ballon d’Or has a narrow definition of footballing greatness",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/27/the-ballon-dor-has-a-narrow-definition-of-footballing-greatness?traffic_source=rss",
+      "published_date": "2026-10-27T11:49:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali army convoy ambushed by Al-Shabaab in deadliest attack in years",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-style-guerrilla-insurgencies-somalia/",
-      "published_date": "2026-10-24T17:29:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-army-convoy-ambushed-al-shabaab-deadliest-attack/",
+      "published_date": "2026-10-27T09:41:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu floats Crypto to bypass sanctions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-      "published_date": "2026-10-24T13:27:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "African Union Calls for Immediate Lifting of Sanctions on Zimbabwe",
+      "title": "Somalia Says 75 Al-Shabaab Fighters Killed in Fighting Near Buurhakaba",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/african-union-calls-for-immediate-lifting-of-sanctions-on-zimbabwe/",
-      "published_date": "2026-10-24T11:21:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalia-says-75-al-shabaab-fighters-killed-in-fighting-near-buurhakaba/",
+      "published_date": "2026-10-27T08:09:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dowladda Federaalka oo ka hadashay weerarkii Jameeco",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/27/dowladda-federaalka-oo-ka-hadashay-weerarkii-jameeco/",
+      "published_date": "2026-10-27T05:15:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Romania says Russia-run sabotage network set fire near weapons factory",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "President Hassan Sheikh calls for continued political dialogue in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/president-hassan-sheikh-calls-for-continued-political-dialogue-in-somalia/",
-      "published_date": "2026-10-26T05:42:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xasan Sheekh oo ku baaqay wada-hadal siyaasadeed, kana hadlay horumarka amniga iyo doorashooyinka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xasan-sheekh-oo-ku-baaqay-wada-hadal-siyaasadeed-kana-hadlay-horumarka-amniga-iyo-doorashooyinka/",
-      "published_date": "2026-10-26T05:41:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+      "title": "Iranian and Qatari leaders meet at Russian energy forum",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-      "published_date": "2026-10-26T00:02:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-      "published_date": "2026-10-26T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The narrative battle over France’s unrest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
-      "published_date": "2026-10-25T19:36:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
-      "published_date": "2026-10-25T14:03:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
-      "published_date": "2026-10-25T13:46:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Algerian parliament’s upper house approves troop deployment to Niger",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
-      "published_date": "2026-10-25T12:19:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police in Albania filmed beating protester unconscious",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
-      "published_date": "2026-10-25T10:45:51+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
+      "published_date": "2026-10-27T15:49:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
@@ -333,18 +340,18 @@
       "category": "Energy"
     },
     {
-      "title": "Indonesians protest over land-clearing fires",
+      "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
-      "published_date": "2026-10-20T13:23:44+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
+      "published_date": "2026-10-27T13:34:07+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
-      "published_date": "2026-10-20T12:37:06+00:00",
-      "category": "Energy"
+      "title": "Somalia Urges Local Investors to Tap Marine and Agricultural Resources",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-urges-local-investors-to-tap-marine-and-agricultural-resources/",
+      "published_date": "2026-10-27T08:07:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Africa food security under threat due to Iran war, trade officials warn",
@@ -457,6 +464,27 @@
       "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
       "published_date": "2026-10-20T21:19:12+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
+      "published_date": "2026-10-27T15:53:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election turnout highest in 50 years as voting continues",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
+      "published_date": "2026-10-27T15:20:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
+      "published_date": "2026-10-27T11:19:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
@@ -575,27 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
       "published_date": "2026-10-25T22:22:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
-      "published_date": "2026-10-25T21:41:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Bans Airline Tickets Issued Through Somalia’s BSP System",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-bans-airline-tickets-issued-through-somalias-bsp-system/",
-      "published_date": "2026-10-25T20:53:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Journalists Syndicate Condemns Government Warning to Media Covering South West Conflict",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-journalists-syndicate-condemns-government-warning-to-media-covering-south-west-conflict/",
-      "published_date": "2026-10-25T20:37:26+00:00",
       "category": "Local Events"
     }
   ]
