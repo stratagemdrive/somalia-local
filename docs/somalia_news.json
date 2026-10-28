@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-27T16:19:01.649039+00:00",
-  "story_count": 86,
+  "last_updated": "2026-10-28T01:59:52.258263+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+      "published_date": "2026-10-28T00:25:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "published_date": "2026-10-27T22:29:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss",
+      "published_date": "2026-10-27T20:38:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia Hosts Regional Maritime Security Forum Without Somalia’s Federal Government Present",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/ethiopia-hosts-regional-maritime-security-forum-without-somalias-federal-government-present/",
+      "published_date": "2026-10-27T19:44:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-10-27T19:36:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
       "source": "Al Jazeera",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Could Somalia’s Response to the Trump Administration’s Investigation of Ilhan Omar Strain U.S.-Somalia Relations",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/could-somalias-response-to-the-trump-administrations-investigation-of-ilhan-omar-strain-u-s-somalia-relations/",
-      "published_date": "2026-10-25T21:51:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
-      "published_date": "2026-10-25T21:00:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+      "published_date": "2026-10-27T23:35:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s ex-spy chief does not rule out Al-Shabaab alliance to topple president",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-spy-chief-al-shabab-alliance-president/",
-      "published_date": "2026-10-25T18:23:54+00:00",
-      "category": "Diplomacy"
+      "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+      "published_date": "2026-10-27T21:28:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Receives Credentials of New Omani Ambassador After Embassy Reopens in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-receives-credentials-of-new-omani-ambassador-after-embassy-reopens-in-mogadishu/",
-      "published_date": "2026-10-25T11:47:50+00:00",
-      "category": "Diplomacy"
+      "title": "Forever Wars: Why can’t America stop?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+      "published_date": "2026-10-27T21:21:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Minister of Defence and British Ambassador Discuss Strengthening Defence and Security Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/minister-of-defence-and-british-ambassador-discuss-strengthening-defence-and-security-cooperation/",
-      "published_date": "2026-10-25T11:30:51+00:00",
-      "category": "Diplomacy"
+      "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+      "published_date": "2026-10-27T21:12:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says it killed five people in strike on alleged drug boat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
+      "published_date": "2026-10-27T20:54:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
+      "published_date": "2026-10-27T20:00:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli military detains Egyptian national who crossed border",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Palestinian children crawl under Israeli military gates to get to school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
-      "published_date": "2026-10-26T20:46:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Huge explosion at a weapons depot in Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
-      "published_date": "2026-10-26T20:41:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan arrests three suspects over deadly church attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
-      "published_date": "2026-10-26T19:25:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could the midterms change US military support for Israel?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-      "published_date": "2026-10-26T18:05:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-10-26T15:41:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
-      "published_date": "2026-10-26T12:17:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Iranian and Qatari leaders meet at Russian energy forum",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
@@ -333,11 +333,11 @@
       "category": "Energy"
     },
     {
-      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+      "title": "Smotrich dances in Israel despite far-right decline",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
-      "published_date": "2026-10-20T20:05:39+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+      "published_date": "2026-10-27T23:03:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
@@ -459,11 +459,81 @@
       "category": "Economy"
     },
     {
-      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "title": "Arab parties projected to win 18 seats in Israeli parliamentary election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-      "published_date": "2026-10-20T21:19:12+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+      "published_date": "2026-10-28T00:43:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu, Eisenkot camps clash over Israeli election projections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+      "published_date": "2026-10-28T00:43:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A bad day for Ben-Gvir as he addresses his supporters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+      "published_date": "2026-10-27T23:16:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No clear mandate projected in Israel election: What’s next?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+      "published_date": "2026-10-27T23:06:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+      "published_date": "2026-10-27T22:31:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+      "published_date": "2026-10-27T21:47:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanese and Syrians expect no change in Israeli policy after election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
+      "published_date": "2026-10-27T20:34:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCA and Mogadishu University launch 4th National Cyber Security Forum",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/nca-and-mogadishu-university-launch-4th-national-cyber-security-forum/",
+      "published_date": "2026-10-27T20:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+      "published_date": "2026-10-27T20:18:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election results live: Netanyahu, Eisenkot blocs tied in exit polls",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+      "published_date": "2026-10-27T19:28:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxay ka wada hadleen madaxweyne Deni iyo safiirka Denmark?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/27/maxay-ka-wada-hadleen-madaxweyne-deni-iyo-safiirka-denmark/",
+      "published_date": "2026-10-27T19:25:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
@@ -526,83 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
       "published_date": "2026-10-26T18:27:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Enough is enough’: Palestinians and Israelis share views ahead of election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss",
-      "published_date": "2026-10-26T16:51:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
-      "published_date": "2026-10-26T16:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What does the Israeli election mean for religious groups?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/what-does-the-israeli-election-mean-for-religious-groups?traffic_source=rss",
-      "published_date": "2026-10-26T15:40:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss",
-      "published_date": "2026-10-26T14:31:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Price of Protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
-      "published_date": "2026-10-26T14:01:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
-      "published_date": "2026-10-26T13:02:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fighting erupts near Baidoa as Somali army advance on Burhakabo stalls",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/baidoa-fighting-somali-army-burhakabo-stalls/",
-      "published_date": "2026-10-26T12:47:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Xasan Sheekh oo shir wadatashi ugu yeeray Puntland, Jubaland iyo siyaasiyiinta mucaaradka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/26/madaxweyne-xasan-sheekh-oo-shir-wadatashi-ugu-yeeray-puntland-jubaland-iyo-siyaasiyiinta-mucaaradka/",
-      "published_date": "2026-10-26T09:18:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s House Speaker Inspects Renovation Work at Villa Hargeisa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-house-speaker-inspects-renovation-work-at-villa-hargeisa/",
-      "published_date": "2026-10-26T05:37:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lula holds off far right with victory in Brazil presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-      "published_date": "2026-10-26T00:16:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
-      "published_date": "2026-10-25T22:22:53+00:00",
       "category": "Local Events"
     }
   ]
