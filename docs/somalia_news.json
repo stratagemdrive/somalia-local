@@ -1,8 +1,50 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-28T01:59:52.258263+00:00",
-  "story_count": 85,
+  "last_updated": "2026-10-28T17:03:33.347699+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
+      "published_date": "2026-10-28T16:35:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Are GCC countries looking for a regional security pact with Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
+      "published_date": "2026-10-28T14:51:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Highlights Investment Opportunities at World Investment Forum in Qatar",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-highlights-investment-opportunities-at-world-investment-forum-in-qatar/",
+      "published_date": "2026-10-28T14:29:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya oo Madasha Maalgashiga Adduunka ku soo bandhigtay fursadaha maalgashi ee dalka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-madasha-maalgashiga-adduunka-ku-soo-bandhigtay-fursadaha-maalgashi-ee-dalka/",
+      "published_date": "2026-10-28T14:28:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
+      "published_date": "2026-10-28T12:51:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya oo soo bandhigtay doorka istaraatiijiga ah ee hawadeeda shir ka socda Qatar",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-soo-bandhigtay-doorka-istaraatiijiga-ah-ee-hawadeeda-shir-ka-socda-qatar/",
+      "published_date": "2026-10-28T06:25:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
       "source": "Al Jazeera",
@@ -102,46 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
+      "title": "Kremlin says European countries not included in next Ukraine talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
-      "published_date": "2026-10-26T16:39:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+      "published_date": "2026-10-28T16:12:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+      "title": "Israeli soldier visiting UK faces war crimes complaint",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
-      "published_date": "2026-10-26T15:44:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+      "published_date": "2026-10-28T16:06:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss",
-      "published_date": "2026-10-26T14:38:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali President Hassan Sheikh Invites Opposition to National Talks on Federal Elections",
+      "title": "Somali Security Forces Arrest Suspected Al-Shabaab Member in Mogadishu",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-hassan-sheikh-invites-opposition-to-national-talks-on-federal-elections/",
-      "published_date": "2026-10-26T09:40:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-security-forces-arrest-suspected-al-shabaab-member-in-mogadishu/",
+      "published_date": "2026-10-28T14:21:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Thousands protest in Prague against public media funding reforms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
-      "published_date": "2026-10-25T23:29:13+00:00",
-      "category": "Diplomacy"
+      "title": "Ciidamada Ammaanka oo Muqdisho ku qabtay nin looga shakisan yahay Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-ammaanka-oo-muqdisho-ku-qabtay-nin-looga-shakisan-yahay-al-shabaab/",
+      "published_date": "2026-10-28T14:20:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bulgaria election heads to a run-off amid low voter turnout",
+      "title": "Somali Army’s ground forces Chief Visits Frontline Troops in Lower Shabelle Region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-armys-ground-forces-chief-visits-frontline-troops-in-lower-shabelle-region/",
+      "published_date": "2026-10-28T14:15:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taliyaha Ciidanka Dhulka Xoogga Dalka oo booqday furimaha dagaalka ee Shabeellaha Hoose",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-xoogga-dalka-oo-booqday-furimaha-dagaalka-ee-shabeellaha-hoose/",
+      "published_date": "2026-10-28T14:14:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Victims of Jordan’s air strikes in Syria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
-      "published_date": "2026-10-25T22:57:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
+      "published_date": "2026-10-28T12:35:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia president cancels Russia trip amid security, political pressures",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-cancels-russia-trip/",
+      "published_date": "2026-10-28T04:31:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Somali army convoy ambushed by Al-Shabaab in deadliest attack in years",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-army-convoy-ambushed-al-shabaab-deadliest-attack/",
-      "published_date": "2026-10-27T09:41:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia Says 75 Al-Shabaab Fighters Killed in Fighting Near Buurhakaba",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-says-75-al-shabaab-fighters-killed-in-fighting-near-buurhakaba/",
-      "published_date": "2026-10-27T08:09:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dowladda Federaalka oo ka hadashay weerarkii Jameeco",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/27/dowladda-federaalka-oo-ka-hadashay-weerarkii-jameeco/",
-      "published_date": "2026-10-27T05:15:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "title": "Bank of Canada raises interest rates for the first time in three years",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
-      "published_date": "2026-10-27T00:33:06+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
+      "published_date": "2026-10-28T16:44:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-      "published_date": "2026-10-27T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolsonaro says police demand passports after Brazil election defeat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-      "published_date": "2026-10-26T23:53:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan strikes Syria after church attack, killing at least seven people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-      "published_date": "2026-10-26T23:50:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan attacks Syria in response to Karak church attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-      "published_date": "2026-10-26T23:48:51+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+      "published_date": "2026-10-28T13:47:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iranian and Qatari leaders meet at Russian energy forum",
@@ -316,20 +330,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
       "published_date": "2026-10-21T20:54:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Russia to send first diesel tanker to the US amid Trump deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
-      "published_date": "2026-10-21T14:54:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Protests as UK approves new gas drilling in North Sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
-      "published_date": "2026-10-21T12:49:52+00:00",
       "category": "Energy"
     },
     {
@@ -438,25 +438,67 @@
       "category": "Economy"
     },
     {
-      "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
-      "published_date": "2026-10-21T14:41:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hormuud Telecom hosts fifth Somali Success Story Forum focused on healthcare sector",
+      "title": "Surviving Gunfire, Leading the Fight for Women Journalists in Somalia",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hormuud-telecom-hosts-fifth-somali-success-story-forum-focused-on-healthcare-sector/",
-      "published_date": "2026-10-21T11:15:06+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/surviving-gunfire-leading-the-fight-for-women-journalists-in-somalia/",
+      "published_date": "2026-10-28T16:07:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK approves development of Jackdaw gasfield in North Sea",
+      "title": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss",
-      "published_date": "2026-10-21T10:28:18+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss",
+      "published_date": "2026-10-28T15:40:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
+      "published_date": "2026-10-28T14:32:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
+      "published_date": "2026-10-28T14:30:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Parliament Speaker Meets Private Media Leaders, Pledges Support for Press Freedom",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-parliament-speaker-meets-private-media-leaders-pledges-support-for-press-freedom/",
+      "published_date": "2026-10-28T14:25:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland: Booliska Mudug oo qabtay kiniiniga maanka dooriya ee Bili-biliga",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/28/puntland-booliska-mudug-oo-qabtay-kiniiniga-maanka-dooriya-ee-bili-biliga/",
+      "published_date": "2026-10-28T13:58:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
+      "published_date": "2026-10-28T12:22:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli voters: hope and despair as election ballots are counted",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss",
+      "published_date": "2026-10-28T11:55:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo safar ku tagaya Gaalkacyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/28/madaxweyne-deni-oo-safar-ku-tagaya-gaalkacyo/",
+      "published_date": "2026-10-28T06:39:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Arab parties projected to win 18 seats in Israeli parliamentary election",
@@ -533,69 +575,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/10/27/maxay-ka-wada-hadleen-madaxweyne-deni-iyo-safiirka-denmark/",
       "published_date": "2026-10-27T19:25:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
-      "published_date": "2026-10-27T15:53:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel election turnout highest in 50 years as voting continues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
-      "published_date": "2026-10-27T15:20:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
-      "published_date": "2026-10-27T11:19:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
-      "published_date": "2026-10-27T01:06:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US court rules against Trump administration in California voting case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss",
-      "published_date": "2026-10-27T01:01:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US court rules daughter of Trump critic James Comey was illegally fired",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
-      "published_date": "2026-10-26T20:55:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a WhatsApp channel helped Lula win Brazil’s election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
-      "published_date": "2026-10-26T20:20:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
-      "published_date": "2026-10-26T20:17:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil’s real sinks after Lula’s re-election victory",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
-      "published_date": "2026-10-26T18:27:23+00:00",
       "category": "Local Events"
     }
   ]
