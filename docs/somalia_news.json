@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-29T17:21:33.157000+00:00",
+  "last_updated": "2026-10-30T02:23:04.008101+00:00",
   "story_count": 83,
   "stories": [
+    {
+      "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+      "published_date": "2026-10-30T01:05:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Does Russia offer African countries an equal partnership?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss",
+      "published_date": "2026-10-29T20:34:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AU pushes to bring democratic socialisation into everyday life across Africa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/au-pushes-to-bring-democratic-socialisation-into-everyday-life-across-africa/",
+      "published_date": "2026-10-29T17:31:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel’s anti-Qatar campaign bleeds into elections",
       "source": "Al Jazeera",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Highlights Investment Opportunities at World Investment Forum in Qatar",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-highlights-investment-opportunities-at-world-investment-forum-in-qatar/",
-      "published_date": "2026-10-28T14:29:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Soomaaliya oo Madasha Maalgashiga Adduunka ku soo bandhigtay fursadaha maalgashi ee dalka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-madasha-maalgashiga-adduunka-ku-soo-bandhigtay-fursadaha-maalgashi-ee-dalka/",
-      "published_date": "2026-10-28T14:28:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
+      "title": "What does bourbon have to do with the US midterms?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
-      "published_date": "2026-10-28T12:51:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+      "published_date": "2026-10-30T00:08:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-10-30T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
+      "published_date": "2026-10-29T20:40:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pentagon fires general it says leaked classified information to media",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+      "published_date": "2026-10-29T19:02:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Somaliland Launches Major Military Exercise HEEGAN 2026",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Somalia president cancels Russia trip amid security, political pressures",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-cancels-russia-trip/",
-      "published_date": "2026-10-28T04:31:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+      "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-      "published_date": "2026-10-27T23:35:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
-      "published_date": "2026-10-27T21:28:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Forever Wars: Why can’t America stop?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
-      "published_date": "2026-10-27T21:21:08+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+      "published_date": "2026-10-30T00:11:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "Rising fuel costs force passengers off cruise ship",
@@ -438,11 +445,60 @@
       "category": "Economy"
     },
     {
-      "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+      "title": "Trump administration renews bid to block Alaska election results",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
-      "published_date": "2026-10-22T22:09:38+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+      "published_date": "2026-10-30T01:30:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenian parliament turns into a boxing ring, third time in a month",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
+      "published_date": "2026-10-30T00:36:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
+      "published_date": "2026-10-29T22:36:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election result shows no overall majority as vote count complete",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+      "published_date": "2026-10-29T20:22:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cornell begins no confidence vote over handling of alleged gang rape",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
+      "published_date": "2026-10-29T19:23:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
+      "published_date": "2026-10-29T19:21:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Texas Republican group seeks to block certification of state’s election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
+      "published_date": "2026-10-29T18:40:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Itoobiya, Yemen, Cumaan, Jabuuti, Puntland iyo Somaliland oo iska kaashanaya amniga badda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/29/itoobiya-yemen-cumaan-jabuuti-puntland-iyo-somaliland-oo-iska-kaashanaya-amniga-badda/",
+      "published_date": "2026-10-29T18:22:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "AU Troops Expected to Withdraw from Four Positions in Lower Shabelle",
@@ -526,62 +582,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss",
       "published_date": "2026-10-28T15:40:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
-      "published_date": "2026-10-28T14:32:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
-      "published_date": "2026-10-28T14:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Parliament Speaker Meets Private Media Leaders, Pledges Support for Press Freedom",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-parliament-speaker-meets-private-media-leaders-pledges-support-for-press-freedom/",
-      "published_date": "2026-10-28T14:25:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Booliska Mudug oo qabtay kiniiniga maanka dooriya ee Bili-biliga",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/28/puntland-booliska-mudug-oo-qabtay-kiniiniga-maanka-dooriya-ee-bili-biliga/",
-      "published_date": "2026-10-28T13:58:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
-      "published_date": "2026-10-28T12:22:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli voters: hope and despair as election ballots are counted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss",
-      "published_date": "2026-10-28T11:55:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo safar ku tagaya Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/28/madaxweyne-deni-oo-safar-ku-tagaya-gaalkacyo/",
-      "published_date": "2026-10-28T06:39:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab parties projected to win 18 seats in Israeli parliamentary election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-      "published_date": "2026-10-28T00:43:56+00:00",
       "category": "Local Events"
     }
   ]
