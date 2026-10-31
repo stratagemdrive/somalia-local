@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-30T16:58:25.033125+00:00",
-  "story_count": 85,
+  "last_updated": "2026-10-31T01:58:07.402990+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
+      "published_date": "2026-10-30T20:00:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+      "published_date": "2026-10-30T19:34:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
+      "published_date": "2026-10-30T18:03:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
       "source": "Al Jazeera",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US envoy reads anti-Castro book during Cuban FM’s UN address",
+      "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address?traffic_source=rss",
-      "published_date": "2026-10-28T20:02:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+      "published_date": "2026-10-31T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+      "title": "Polish police deployed to top court after head judge suspended",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
-      "published_date": "2026-10-28T19:01:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+      "published_date": "2026-10-30T23:19:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+      "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-      "published_date": "2026-10-28T18:31:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
+      "published_date": "2026-10-30T21:00:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+      "published_date": "2026-10-30T20:37:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Port Sudan families can barely afford water as shortages persist",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "published_date": "2026-10-30T20:10:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
+      "published_date": "2026-10-30T19:16:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+      "published_date": "2026-10-30T18:55:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+      "published_date": "2026-10-30T18:35:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
+      "published_date": "2026-10-30T17:43:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Police in Scotland launch Andrew and Epstein royal castle investigation",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Damascus, Amman contradict each other on attack that killed civilians",
+      "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-      "published_date": "2026-10-29T13:44:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
+      "published_date": "2026-10-31T01:26:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Somali army toll climbs after Al-Shabaab assault as inquiry opens into rout",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-army-toll-al-shabaab-assault-inquiry/",
-      "published_date": "2026-10-29T12:55:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
-      "published_date": "2026-10-29T00:36:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
-      "published_date": "2026-10-29T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain demands answers after deadliest train disaster in over a decade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
-      "published_date": "2026-10-28T19:32:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What are the implications of Israel’s elections?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-      "published_date": "2026-10-28T19:03:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-      "published_date": "2026-10-28T17:09:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kremlin says European countries not included in next Ukraine talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-      "published_date": "2026-10-28T16:12:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-      "published_date": "2026-10-28T16:06:17+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-10-30T18:33:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
@@ -345,6 +359,13 @@
       "url": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
       "published_date": "2026-10-24T13:51:08+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+      "published_date": "2026-10-30T20:13:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "Russian, Ukrainian humanitarian officials enter Oleshky",
@@ -457,6 +478,27 @@
       "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
       "published_date": "2026-10-24T16:48:36+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Pope Leo becomes first pontiff to vote in US general election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+      "published_date": "2026-10-31T01:31:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US appeals court again rejects Trump bid to set aside California ballots",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
+      "published_date": "2026-10-30T20:39:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What to know about California’s midterm elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss",
+      "published_date": "2026-10-30T19:38:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
@@ -575,27 +617,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/10/29/itoobiya-yemen-cumaan-jabuuti-puntland-iyo-somaliland-oo-iska-kaashanaya-amniga-badda/",
       "published_date": "2026-10-29T18:22:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AU Troops Expected to Withdraw from Four Positions in Lower Shabelle",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/au-troops-expected-to-withdraw-from-four-positions-in-lower-shabelle/",
-      "published_date": "2026-10-29T17:19:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As US midterms approach, farmers decide what to plant and how to vote",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/29/as-us-midterms-approach-farmers-decide-what-to-plant-and-how-to-vote?traffic_source=rss",
-      "published_date": "2026-10-29T14:25:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AU troops to leave 4 bases in Somalia’s Lower Shabelle",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/au-troops-leave-4-bases-somalia-lower-shabelle/",
-      "published_date": "2026-10-29T09:09:29+00:00",
       "category": "Local Events"
     }
   ]
