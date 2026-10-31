@@ -1,8 +1,85 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-31T01:58:07.402990+00:00",
+  "last_updated": "2026-10-31T15:59:47.699682+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
+      "published_date": "2026-10-31T14:31:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
+      "published_date": "2026-10-31T14:20:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham opens door to formal apology for Britain’s slave trade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
+      "published_date": "2026-10-31T13:19:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss",
+      "published_date": "2026-10-31T12:45:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
+      "published_date": "2026-10-31T12:22:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya iyo Kenya oo isku khilaafay shakhsiyaad la eedeeyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/31/soomaaliya-iyo-kenya-oo-isku-khilaafay-shakhsiyaad-la-eedeeyay/",
+      "published_date": "2026-10-31T12:03:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN closes Somalia mission, ending three decades of political engagement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss",
+      "published_date": "2026-10-31T11:37:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN to continue supporting Somalia after closure of transitional mission",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-to-continue-supporting-somalia-after-closure-of-transitional-mission/",
+      "published_date": "2026-10-31T06:30:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Uganda Flags Off Battle Group 48 For Somalia Mission",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uganda-flags-off-battle-group-48-for-somalia-mission/",
+      "published_date": "2026-10-31T06:26:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Parliament Speaker visits embassy in Kenya, praises diplomatic efforts",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliament-speaker-visits-embassy-in-kenya-praises-diplomatic-efforts/",
+      "published_date": "2026-10-31T05:59:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Guddoomiyaha Golaha Shacabka oo Booqday Safaaradda Soomaaliya ee Dalka Kenya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/guddoomiyaha-golaha-shacabka-oo-booqday-safaaradda-soomaaliya-ee-dalka-kenya/",
+      "published_date": "2026-10-31T05:42:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
       "source": "Al Jazeera",
@@ -67,81 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel’s anti-Qatar campaign bleeds into elections",
+      "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
-      "published_date": "2026-10-29T15:35:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+      "published_date": "2026-10-31T13:35:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia’s Parliament Speaker Arrives in Nairobi to Chair East African Legislative Meeting",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-parliament-speaker-arrives-in-nairobi-to-chair-east-african-legislative-meeting/",
-      "published_date": "2026-10-29T14:11:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+      "title": "On the Norway-Russia border, the Sámi people face a growing divide",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss",
-      "published_date": "2026-10-29T12:46:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
+      "published_date": "2026-10-31T12:58:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
+      "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss",
-      "published_date": "2026-10-29T12:32:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
+      "published_date": "2026-10-31T12:49:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Charles on Caribbean tour as calls grow for slavery reparations",
+      "title": "Paris steps up security as police patrol streets",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss",
-      "published_date": "2026-10-29T12:10:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
+      "published_date": "2026-10-31T12:22:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Guddoomiyaha Golaha Shacabka ee Baarlamaanka Federaalka Soomaaliya oo Safar Shaqo ku tagayNairobi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddoomiyaha-golaha-shacabka-ee-baarlamaanka-federaalka-soomaaliya-oo-safar-shaqo-ku-tagaynairobi/",
-      "published_date": "2026-10-29T10:07:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia and African Union Discuss Security Gains and Continued Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-african-union-discuss-security-gains-and-continued-cooperation/",
-      "published_date": "2026-10-29T08:02:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN experts sound alarm at excessive use of force in French student protests",
+      "title": "Thousands protest across Italy over living costs and military spending",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
-      "published_date": "2026-10-28T22:34:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
+      "published_date": "2026-10-31T11:07:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former Somalia President Suggests Possible Government–Al-Shabaab Plot Against Opposition",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/former-somalia-president-suggests-possible-government-al-shabaab-plot-against-opposition/",
-      "published_date": "2026-10-28T21:23:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Future Council Discusses Participation in Upcoming Political Talks.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-future-council-discusses-participation-in-upcoming-political-talks/",
-      "published_date": "2026-10-28T21:01:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
+      "title": "Evacuees from Russian-occupied Oleshky arrive in Ukraine via Belarus",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
-      "published_date": "2026-10-28T20:22:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
+      "published_date": "2026-10-31T10:53:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Democrats win the US Senate? 10 key midterm races to watch",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss",
+      "published_date": "2026-10-31T10:38:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uganda begins troop pullout from Somalia after 20 years",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-begins-troop-pullout-from-somalia/",
+      "published_date": "2026-10-31T10:16:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran?traffic_source=rss",
-      "published_date": "2026-10-30T13:01:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taliyaha Ciidanka Xoogga Dalka oo Booqday Askarta ku Dhaawacantay Howlgallada ka Dhanka ah Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-xoogga-dalka-oo-booqday-askarta-ku-dhaawacantay-howlgallada-ka-dhanka-ah-al-shabaab/",
-      "published_date": "2026-10-30T05:15:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What does bourbon have to do with the US midterms?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
-      "published_date": "2026-10-30T00:08:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-10-30T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
-      "published_date": "2026-10-29T20:40:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon fires general it says leaked classified information to media",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
-      "published_date": "2026-10-29T19:02:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somaliland Launches Major Military Exercise HEEGAN 2026",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-launches-major-military-exercise-heegan-2026/",
-      "published_date": "2026-10-29T16:55:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss",
-      "published_date": "2026-10-29T15:18:38+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
@@ -354,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Sudan’s soaring fuel prices make getting by harder for workers",
+      "title": "‘Paycheck to paycheck’: Texas border voters shed parties amid economic woes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
-      "published_date": "2026-10-24T13:51:08+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/31/paycheck-to-paycheck-texas-border-voters-shed-parties-amid-economic-woes?traffic_source=rss",
+      "published_date": "2026-10-31T10:24:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
@@ -480,6 +480,34 @@
       "category": "Economy"
     },
     {
+      "title": "Deni: Waxaan kula talinayaa Xasan Sheekh in uu is casilo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/31/deni-waxaan-kula-talinayaa-xasan-sheekh-in-uu-is-casilo/",
+      "published_date": "2026-10-31T12:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former rebel leader elected chief minister of Philippine Muslim region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/former-rebel-leader-elected-chief-minister-of-philippine-muslim-region?traffic_source=rss",
+      "published_date": "2026-10-31T12:23:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests outside Poland’s constitutional court: What’s the crisis about?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss",
+      "published_date": "2026-10-31T11:27:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afduub markab oo ka dhacay xeebaha Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/31/afduub-markab-oo-ka-dhacay-xeebaha-puntland/",
+      "published_date": "2026-10-31T02:58:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pope Leo becomes first pontiff to vote in US general election",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
@@ -589,34 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
       "published_date": "2026-10-29T20:22:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cornell begins no confidence vote over handling of alleged gang rape",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
-      "published_date": "2026-10-29T19:23:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
-      "published_date": "2026-10-29T19:21:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Texas Republican group seeks to block certification of state’s election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
-      "published_date": "2026-10-29T18:40:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Itoobiya, Yemen, Cumaan, Jabuuti, Puntland iyo Somaliland oo iska kaashanaya amniga badda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/29/itoobiya-yemen-cumaan-jabuuti-puntland-iyo-somaliland-oo-iska-kaashanaya-amniga-badda/",
-      "published_date": "2026-10-29T18:22:34+00:00",
       "category": "Local Events"
     }
   ]
