@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-01T01:48:32.713513+00:00",
-  "story_count": 87,
+  "last_updated": "2026-11-01T17:03:13.968142+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
+      "published_date": "2026-11-01T14:26:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar unveils countdown clock for 2027 Basketball World Cup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/qatar-unveils-countdown-clock-for-2027-basketball-world-cup?traffic_source=rss",
+      "published_date": "2026-11-01T13:16:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran and US explore diplomacy amid rising threats of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
+      "published_date": "2026-11-01T13:02:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soomaaliya oo ka qaybgalay xuska Maalinta Afrika ee Sugnaanta Cuntada iyo Nafaqada",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/soomaaliya-oo-ka-qaybgalay-xuska-maalinta-afrika-ee-sugnaanta-cuntada-iyo-nafaqada/",
+      "published_date": "2026-11-01T08:53:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SoDMA oo Soomaaliya ku matashay madasha heerka sare ee maareynta musiibooyinka Bariga Afrika",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-oo-soomaaliya-ku-matashay-madasha-heerka-sare-ee-maareynta-musiibooyinka-bariga-afrika/",
+      "published_date": "2026-11-01T08:22:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
       "source": "Al Jazeera",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
-      "published_date": "2026-10-30T19:34:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+      "published_date": "2026-11-01T16:24:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
+      "title": "Serbia arrests police chief over abuse of office allegations",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-      "published_date": "2026-10-30T18:03:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss",
+      "published_date": "2026-11-01T15:36:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
+      "title": "Israeli attacks on Gaza kill at least nine people",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
-      "published_date": "2026-10-30T15:37:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+      "published_date": "2026-11-01T14:10:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+      "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
-      "published_date": "2026-10-30T14:18:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+      "published_date": "2026-11-01T13:36:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Guddoomiyaha Golaha Shacabka oo Shir-guddoomiyey Shirka Aan Caadiga Ahayn ee Guddoomiyeyaasha Baarlamaannada Bulshada Bariga Afrika",
+      "title": "Somalia’s New Navy and Coast Guard Commander Assumes Office",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddoomiyaha-golaha-shacabka-oo-shir-guddoomiyey-shirka-aan-caadiga-ahayn-ee-guddoomiyeyaasha-baarlamaannada-bulshada-bariga-afrika/",
-      "published_date": "2026-10-30T05:09:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somalias-new-navy-and-coast-guard-commander-assumes-office/",
+      "published_date": "2026-11-01T12:52:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia and Russia discuss security cooperation, police training and counterterrorism",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-russia-discuss-security-cooperation-police-training-and-counterterrorism/",
+      "published_date": "2026-11-01T06:21:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Gen Z-led protests in Germany turn violent",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+      "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
-      "published_date": "2026-10-30T20:37:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Port Sudan families can barely afford water as shortages persist",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-      "published_date": "2026-10-30T20:10:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
-      "published_date": "2026-10-30T19:16:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
-      "published_date": "2026-10-30T18:55:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
-      "published_date": "2026-10-30T18:35:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-      "published_date": "2026-10-30T17:43:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
+      "published_date": "2026-11-01T13:25:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
@@ -337,20 +344,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
       "published_date": "2026-10-27T15:49:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-      "published_date": "2026-10-25T12:05:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Indigenous communities worry Brazil’s election could hurt environment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss",
-      "published_date": "2026-10-25T08:54:47+00:00",
       "category": "Energy"
     },
     {
@@ -452,25 +445,95 @@
       "category": "Economy"
     },
     {
-      "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
-      "published_date": "2026-10-25T14:11:29+00:00",
-      "category": "Economy"
+      "title": "Mawisley militias abandon front lines in central Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/mawisley-militias-abandon-front-lines-central-somalia/",
+      "published_date": "2026-11-01T16:57:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
+      "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-      "published_date": "2026-10-25T12:17:39+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
+      "published_date": "2026-11-01T16:19:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Qatar official calls for peace and security to boost trade, investment",
+      "title": "Photos: Thousands join India’s opposition rally against election chief",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
-      "published_date": "2026-10-25T09:57:40+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
+      "published_date": "2026-11-01T14:46:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election: When will government be formed, who will lead it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
+      "published_date": "2026-11-01T14:16:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taliye Muumin oo kulan la qaatay saraakiisha Birmadka Booliska Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/01/taliye-muumin-oo-kulan-la-qaatay-saraakiisha-birmadka-booliska-puntland/",
+      "published_date": "2026-11-01T14:13:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US midterms live: Trump, Democrats in last-ditch efforts before polls",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss",
+      "published_date": "2026-11-01T13:42:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/michigan-race-all-you-need-to-know-about-abdul-el-sayed-v-mike-rogers?traffic_source=rss",
+      "published_date": "2026-11-01T13:03:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South West Leader Holds Security Meeting as Lafta-Gareen Forces Step Up Military Activity in Bay",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-west-leader-holds-security-meeting-as-lafta-gareen-forces-step-up-military-activity-in-bay/",
+      "published_date": "2026-11-01T12:49:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hargeysa: Cirro oo waraaqaha aqoonsiga ka guddoomay ergayga Israa’iil",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/01/hargeysa-cirro-oo-waraaqaha-aqoonsiga-ka-guddoomay-ergayga-israaiil/",
+      "published_date": "2026-11-01T12:29:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU-funded NUSOJ initiative builds Somali journalists’ skills with UNDP support",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/eu-funded-nusoj-initiative-builds-somali-journalists-skills-with-undp-support/",
+      "published_date": "2026-11-01T08:56:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo qaadacday gogosha uu dhigay madaxweyne Xasan Sheekh",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/01/puntland-oo-qaadacday-gogosha-uu-dhigay-madaxweyne-xasan-sheekh/",
+      "published_date": "2026-11-01T07:31:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Finance Ministry Says National Currency Will Be Printed Soon",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-upper-house-reviews-central-bank-law-amendment-and-environmental-management-bill/",
+      "published_date": "2026-11-01T06:31:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland President Deni Calls on Somalia’s Hassan Sheikh to Resign",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-president-deni-calls-on-somalias-hassan-sheikh-to-resign/",
+      "published_date": "2026-11-01T06:29:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Talarico draws a packed campus rally, but can he win over young voters?",
@@ -519,97 +582,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
       "published_date": "2026-10-31T18:28:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-      "published_date": "2026-10-31T17:49:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
-      "published_date": "2026-10-31T17:38:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland Condemns Attacks on Ethiopians in Borama, Promises Investigation",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-condemns-attacks-on-ethiopians-in-borama-promises-investigation/",
-      "published_date": "2026-10-31T16:44:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Opposition MPs Say They Survived Attack, Accuse Government of Creating Political Pressure",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-opposition-mps-say-they-survived-attack-accuse-government-of-creating-political-pressure/",
-      "published_date": "2026-10-31T16:32:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deni: Waxaan kula talinayaa Xasan Sheekh in uu is casilo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/31/deni-waxaan-kula-talinayaa-xasan-sheekh-in-uu-is-casilo/",
-      "published_date": "2026-10-31T12:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former rebel leader elected chief minister of Philippine Muslim region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/former-rebel-leader-elected-chief-minister-of-philippine-muslim-region?traffic_source=rss",
-      "published_date": "2026-10-31T12:23:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests outside Poland’s constitutional court: What’s the crisis about?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss",
-      "published_date": "2026-10-31T11:27:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afduub markab oo ka dhacay xeebaha Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/31/afduub-markab-oo-ka-dhacay-xeebaha-puntland/",
-      "published_date": "2026-10-31T02:58:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo becomes first pontiff to vote in US general election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-      "published_date": "2026-10-31T01:31:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court again rejects Trump bid to set aside California ballots",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
-      "published_date": "2026-10-30T20:39:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to know about California’s midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss",
-      "published_date": "2026-10-30T19:38:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
-      "published_date": "2026-10-30T15:50:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bhutan hot springs hit by flood from glacial lake burst",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss",
-      "published_date": "2026-10-30T14:01:03+00:00",
       "category": "Local Events"
     }
   ]
