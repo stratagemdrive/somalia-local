@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-10-31T15:59:47.699682+00:00",
-  "story_count": 88,
+  "last_updated": "2026-11-01T01:48:32.713513+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+      "published_date": "2026-11-01T00:00:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+      "published_date": "2026-10-31T22:10:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN mission in Somalia closes after three decades",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/un-mission-somalia-untmis-closes-after-three-decades/",
+      "published_date": "2026-10-31T17:51:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
       "source": "Al Jazeera",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+      "title": "Gen Z-led protests in Germany turn violent",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
-      "published_date": "2026-10-30T01:05:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss",
+      "published_date": "2026-11-01T00:27:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Does Russia offer African countries an equal partnership?",
+      "title": "Fiery confrontations between protestors and police in Albania",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss",
-      "published_date": "2026-10-29T20:34:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+      "published_date": "2026-10-31T21:12:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "AU pushes to bring democratic socialisation into everyday life across Africa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/au-pushes-to-bring-democratic-socialisation-into-everyday-life-across-africa/",
-      "published_date": "2026-10-29T17:31:25+00:00",
-      "category": "Diplomacy"
+      "title": "Somalia’s President Defends the War Against Al-Shabaab and Warns of Foreign Interference",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalias-president-defends-the-war-against-al-shabaab-and-warns-of-foreign-interference/",
+      "published_date": "2026-10-31T16:10:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
@@ -260,27 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
       "published_date": "2026-10-30T17:43:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police in Scotland launch Andrew and Epstein royal castle investigation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/police-in-scotland-launch-andrew-and-epstein-royal-castle-investigation?traffic_source=rss",
-      "published_date": "2026-10-30T16:27:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
-      "published_date": "2026-10-30T15:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-      "published_date": "2026-10-30T14:40:19+00:00",
       "category": "Military"
     },
     {
@@ -473,11 +473,81 @@
       "category": "Economy"
     },
     {
-      "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+      "title": "Talarico draws a packed campus rally, but can he win over young voters?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
-      "published_date": "2026-10-24T16:48:36+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss",
+      "published_date": "2026-11-01T01:14:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polish president holds crisis talks in court standoff",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
+      "published_date": "2026-11-01T00:30:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+      "published_date": "2026-10-31T20:30:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s allegations of Qatari election interference rejected",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "published_date": "2026-10-31T20:24:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo booqday lix wasaaradood",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/10/31/madaxweyne-deni-oo-booqday-lix-wasaaradood/",
+      "published_date": "2026-10-31T20:10:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+      "published_date": "2026-10-31T18:48:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tension and clashes as hundreds of thousands protest again in France",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+      "published_date": "2026-10-31T18:28:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+      "published_date": "2026-10-31T17:49:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
+      "published_date": "2026-10-31T17:38:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland Condemns Attacks on Ethiopians in Borama, Promises Investigation",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-condemns-attacks-on-ethiopians-in-borama-promises-investigation/",
+      "published_date": "2026-10-31T16:44:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Opposition MPs Say They Survived Attack, Accuse Government of Creating Political Pressure",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-opposition-mps-say-they-survived-attack-accuse-government-of-creating-political-pressure/",
+      "published_date": "2026-10-31T16:32:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Deni: Waxaan kula talinayaa Xasan Sheekh in uu is casilo",
@@ -540,83 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss",
       "published_date": "2026-10-30T14:01:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macawisley oo la wareegtay xerada Lamagalay ee Beledweyne",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/30/macawisley-oo-la-wareegtay-xerada-lamagalay-ee-beledweyne/",
-      "published_date": "2026-10-30T13:50:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia back in ice hockey world championships after sport court ruling",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
-      "published_date": "2026-10-30T12:43:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s deadly train crash redraws electoral battle lines",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections?traffic_source=rss",
-      "published_date": "2026-10-30T12:20:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Georgia midterm elections: Why this is a key US battleground",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground?traffic_source=rss",
-      "published_date": "2026-10-30T12:09:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Parliament Speaker Chairs EAC Parliamentary Speakers’ Extraordinary Meeting in Nairobi",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-speaker-chairs-eac-parliamentary-speakers-extraordinary-meeting-in-nairobi/",
-      "published_date": "2026-10-30T08:59:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Upper House Speaker Attends Türkiye’s 103rd Republic Day Celebration in Mogadishu",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-upper-house-speaker-attends-turkiyes-103rd-republic-day-celebration-in-mogadishu/",
-      "published_date": "2026-10-30T08:55:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southwest State Leader Meets with Commander of the Third Sector of AU Peacekeeping Forces",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/southwest-state-leader-meets-with-commander-of-the-third-sector-of-au-peacekeeping-forces/",
-      "published_date": "2026-10-30T08:53:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration renews bid to block Alaska election results",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
-      "published_date": "2026-10-30T01:30:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian parliament turns into a boxing ring, third time in a month",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
-      "published_date": "2026-10-30T00:36:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-      "published_date": "2026-10-29T22:36:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel election result shows no overall majority as vote count complete",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
-      "published_date": "2026-10-29T20:22:04+00:00",
       "category": "Local Events"
     }
   ]
