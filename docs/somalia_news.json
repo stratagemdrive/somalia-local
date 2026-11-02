@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-01T17:03:13.968142+00:00",
+  "last_updated": "2026-11-02T02:03:26.115975+00:00",
   "story_count": 83,
   "stories": [
+    {
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+      "published_date": "2026-11-01T23:19:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+      "published_date": "2026-11-01T21:01:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
+      "published_date": "2026-11-01T20:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland and Israel Strengthen Diplomatic Ties as Ambassador Presents Credentials to President Irro",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somaliland-and-israel-strengthen-diplomatic-ties-as-ambassador-presents-credentials-to-president-irro/",
+      "published_date": "2026-11-01T19:22:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
       "source": "Al Jazeera",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Uganda Flags Off Battle Group 48 For Somalia Mission",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uganda-flags-off-battle-group-48-for-somalia-mission/",
-      "published_date": "2026-10-31T06:26:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Parliament Speaker visits embassy in Kenya, praises diplomatic efforts",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-speaker-visits-embassy-in-kenya-praises-diplomatic-efforts/",
-      "published_date": "2026-10-31T05:59:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Guddoomiyaha Golaha Shacabka oo Booqday Safaaradda Soomaaliya ee Dalka Kenya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/guddoomiyaha-golaha-shacabka-oo-booqday-safaaradda-soomaaliya-ee-dalka-kenya/",
-      "published_date": "2026-10-31T05:42:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
+      "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
-      "published_date": "2026-10-30T20:00:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+      "published_date": "2026-11-02T00:34:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+      "published_date": "2026-11-02T00:14:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "published_date": "2026-11-02T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "published_date": "2026-11-01T22:15:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+      "published_date": "2026-11-01T21:28:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police clash with housing crisis protesters in Portugal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
+      "published_date": "2026-11-01T20:31:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How will the Iran war shape the outcome of the US midterm vote?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+      "published_date": "2026-11-01T19:00:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+      "published_date": "2026-11-01T18:58:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia detains minor over alleged Moscow attack plot after US warning",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Paris steps up security as police patrol streets",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
-      "published_date": "2026-10-31T12:22:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands protest across Italy over living costs and military spending",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
-      "published_date": "2026-10-31T11:07:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Evacuees from Russian-occupied Oleshky arrive in Ukraine via Belarus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
-      "published_date": "2026-10-31T10:53:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Democrats win the US Senate? 10 key midterm races to watch",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss",
-      "published_date": "2026-10-31T10:38:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uganda begins troop pullout from Somalia after 20 years",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-begins-troop-pullout-from-somalia/",
-      "published_date": "2026-10-31T10:16:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-      "published_date": "2026-10-31T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polish police deployed to top court after head judge suspended",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
-      "published_date": "2026-10-30T23:19:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
-      "published_date": "2026-10-30T21:00:51+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
@@ -345,6 +345,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
       "published_date": "2026-10-27T15:49:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+      "published_date": "2026-11-02T01:31:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘Paycheck to paycheck’: Texas border voters shed parties amid economic woes",
@@ -438,11 +445,53 @@
       "category": "Economy"
     },
     {
-      "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
-      "published_date": "2026-10-25T21:50:36+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+      "published_date": "2026-11-02T00:29:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why governors’ races are important in the 2026 US midterms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+      "published_date": "2026-11-01T23:24:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "High-ranking US Democratic senator suffers stroke",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+      "published_date": "2026-11-01T22:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
+      "published_date": "2026-11-01T21:00:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
+      "published_date": "2026-11-01T20:43:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Opposition Questions Government’s Election Plan as Spy Chief Holds Talks with Political Groups",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-opposition-questions-governments-election-plan-as-spy-chief-holds-talks-with-political-groups/",
+      "published_date": "2026-11-01T19:57:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michigan Democrat Haley Stevens endorses Republican Senate candidate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+      "published_date": "2026-11-01T18:51:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mawisley militias abandon front lines in central Somalia",
@@ -533,55 +582,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/puntland-president-deni-calls-on-somalias-hassan-sheikh-to-resign/",
       "published_date": "2026-11-01T06:29:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Talarico draws a packed campus rally, but can he win over young voters?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss",
-      "published_date": "2026-11-01T01:14:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polish president holds crisis talks in court standoff",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
-      "published_date": "2026-11-01T00:30:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
-      "published_date": "2026-10-31T20:30:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s allegations of Qatari election interference rejected",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
-      "published_date": "2026-10-31T20:24:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo booqday lix wasaaradood",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/31/madaxweyne-deni-oo-booqday-lix-wasaaradood/",
-      "published_date": "2026-10-31T20:10:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-      "published_date": "2026-10-31T18:48:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tension and clashes as hundreds of thousands protest again in France",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
-      "published_date": "2026-10-31T18:28:14+00:00",
       "category": "Local Events"
     }
   ]
