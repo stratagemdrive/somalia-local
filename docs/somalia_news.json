@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-02T02:03:26.115975+00:00",
+  "last_updated": "2026-11-02T20:41:38.674543+00:00",
   "story_count": 83,
   "stories": [
+    {
+      "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
+      "published_date": "2026-11-02T16:03:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
+      "published_date": "2026-11-02T16:03:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Axmed Madoobe oo dib ugu soo laabtay Kismaayo iyo kolonyadii soo dhawaysay oo lagu arkay ambalaasyo",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/02/axmed-madoobe-oo-dib-ugu-soo-laabtay-kismaayo-iyo-kolonyadii-soo-dhawaysay-oo-lagu-arkay-ambalaasyo/",
+      "published_date": "2026-11-02T15:30:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Parliament Speaker Arrives in Djibouti for Four-Day Official Visit",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliament-speaker-arrives-in-djibouti-for-four-day-official-visit/",
+      "published_date": "2026-11-02T08:38:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Information Minister Visits Embassy in Cairo",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-information-minister-visits-embassy-in-cairo/",
+      "published_date": "2026-11-02T07:06:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
       "source": "Al Jazeera",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
+      "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss",
-      "published_date": "2026-10-31T12:45:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
+      "published_date": "2026-11-02T19:39:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
-      "published_date": "2026-10-31T12:22:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+      "published_date": "2026-11-02T19:11:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Soomaaliya iyo Kenya oo isku khilaafay shakhsiyaad la eedeeyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/10/31/soomaaliya-iyo-kenya-oo-isku-khilaafay-shakhsiyaad-la-eedeeyay/",
-      "published_date": "2026-10-31T12:03:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN closes Somalia mission, ending three decades of political engagement",
+      "title": "Russian bombing of Ukrainian aid centre kills 24 people",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss",
-      "published_date": "2026-10-31T11:37:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
+      "published_date": "2026-11-02T18:23:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN to continue supporting Somalia after closure of transitional mission",
+      "title": "Uganda begins withdrawing troops deployed bilaterally in Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-withdrawing-troops-deployed-bilaterally-somalia/",
+      "published_date": "2026-11-02T17:28:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone attacks extend campaign targeting Sudan’s power system",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
+      "published_date": "2026-11-02T17:26:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
+      "published_date": "2026-11-02T16:56:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UPDF Commences Withdrawal of Bilaterally Deployed Troops in Somalia",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-to-continue-supporting-somalia-after-closure-of-transitional-mission/",
-      "published_date": "2026-10-31T06:30:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/updf-commences-withdrawal-of-bilaterally-deployed-troops-in-somalia/",
+      "published_date": "2026-11-02T13:10:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uganda oo war kasoo saartay Ciidamadeeda ka baxaya dalka Soomaaliya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/uganda-oo-war-kasoo-saartay-ciidamadeeda-ka-baxaya-dalka-soomaaliya/",
+      "published_date": "2026-11-02T13:08:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Puntland Police Seize Truck Carrying Illegal Weapons in Garowe",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/puntland-police-seize-truck-carrying-illegal-weapons-in-garowe/",
+      "published_date": "2026-11-02T08:41:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidamada Puntland oo gacanta ku dhigay hub sharci-darro ah",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidamada-puntland-oo-gacanta-ku-dhigay-hub-sharci-darro-ah/",
+      "published_date": "2026-11-02T07:57:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli attacks on Gaza kill at least nine people",
+      "title": "US petrol prices dip ahead of midterms as voters eye costs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
-      "published_date": "2026-11-01T14:10:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
-      "published_date": "2026-11-01T13:36:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s New Navy and Coast Guard Commander Assumes Office",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-new-navy-and-coast-guard-commander-assumes-office/",
-      "published_date": "2026-11-01T12:52:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia and Russia discuss security cooperation, police training and counterterrorism",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-russia-discuss-security-cooperation-police-training-and-counterterrorism/",
-      "published_date": "2026-11-01T06:21:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gen Z-led protests in Germany turn violent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss",
-      "published_date": "2026-11-01T00:27:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fiery confrontations between protestors and police in Albania",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
-      "published_date": "2026-10-31T21:12:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia’s President Defends the War Against Al-Shabaab and Warns of Foreign Interference",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalias-president-defends-the-war-against-al-shabaab-and-warns-of-foreign-interference/",
-      "published_date": "2026-10-31T16:10:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-      "published_date": "2026-10-31T13:35:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "On the Norway-Russia border, the Sámi people face a growing divide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
-      "published_date": "2026-10-31T12:58:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
-      "published_date": "2026-10-31T12:49:04+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
+      "published_date": "2026-11-02T18:32:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
@@ -345,6 +352,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
       "published_date": "2026-10-27T15:49:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Lobster industry caught in Maine’s political headwinds before US midterms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/2/lobster-industry-caught-in-maines-political-headwinds-before-midterms?traffic_source=rss",
+      "published_date": "2026-11-02T15:54:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
@@ -431,18 +445,39 @@
       "category": "Economy"
     },
     {
-      "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
+      "title": "HRW calls on Zambia to halt post-election crackdown",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
-      "published_date": "2026-10-26T13:20:23+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
+      "published_date": "2026-11-02T19:40:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Has Pakistan reopened its border with Iran for trade?",
+      "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
-      "published_date": "2026-10-26T13:01:16+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
+      "published_date": "2026-11-02T19:06:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After Israel’s election: What’s next?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
+      "published_date": "2026-11-02T18:32:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
+      "published_date": "2026-11-02T15:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo hub ku qabatay Garoowe",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/02/puntland-oo-hub-ku-qabatay-garoowe/",
+      "published_date": "2026-11-02T04:51:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
@@ -547,41 +582,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/south-west-leader-holds-security-meeting-as-lafta-gareen-forces-step-up-military-activity-in-bay/",
       "published_date": "2026-11-01T12:49:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hargeysa: Cirro oo waraaqaha aqoonsiga ka guddoomay ergayga Israa’iil",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/01/hargeysa-cirro-oo-waraaqaha-aqoonsiga-ka-guddoomay-ergayga-israaiil/",
-      "published_date": "2026-11-01T12:29:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU-funded NUSOJ initiative builds Somali journalists’ skills with UNDP support",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/eu-funded-nusoj-initiative-builds-somali-journalists-skills-with-undp-support/",
-      "published_date": "2026-11-01T08:56:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo qaadacday gogosha uu dhigay madaxweyne Xasan Sheekh",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/01/puntland-oo-qaadacday-gogosha-uu-dhigay-madaxweyne-xasan-sheekh/",
-      "published_date": "2026-11-01T07:31:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Finance Ministry Says National Currency Will Be Printed Soon",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-upper-house-reviews-central-bank-law-amendment-and-environmental-management-bill/",
-      "published_date": "2026-11-01T06:31:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland President Deni Calls on Somalia’s Hassan Sheikh to Resign",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-president-deni-calls-on-somalias-hassan-sheikh-to-resign/",
-      "published_date": "2026-11-01T06:29:48+00:00",
       "category": "Local Events"
     }
   ]
