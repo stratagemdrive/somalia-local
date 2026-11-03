@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-03T03:49:09.474238+00:00",
+  "last_updated": "2026-11-03T18:19:37.383155+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Iran commander sets out five conditions for regional security",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
+      "published_date": "2026-11-03T13:21:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar remains hopeful the US and Iran can reach a deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+      "published_date": "2026-11-03T13:05:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia opposition agrees to talks with president in test of readiness for electoral breakthrough",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-agrees-talks-president-electoral-breakthrough/",
+      "published_date": "2026-11-03T11:40:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Parliament Speaker Meets Djibouti President to Discuss Bilateral Ties",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliament-speaker-meets-djibouti-president-to-discuss-bilateral-ties/",
+      "published_date": "2026-11-03T07:22:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia and Kenya Discuss Strengthening Bilateral Cooperation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-kenya-discuss-strengthening-bilateral-cooperation/",
+      "published_date": "2026-11-03T07:18:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
       "source": "Al Jazeera",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "SoDMA oo Soomaaliya ku matashay madasha heerka sare ee maareynta musiibooyinka Bariga Afrika",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sodma-oo-soomaaliya-ku-matashay-madasha-heerka-sare-ee-maareynta-musiibooyinka-bariga-afrika/",
-      "published_date": "2026-11-01T08:22:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-      "published_date": "2026-11-01T00:00:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
+      "published_date": "2026-11-03T17:03:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "title": "Opposition party organiser killed before South Africa elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-      "published_date": "2026-10-31T22:10:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
+      "published_date": "2026-11-03T16:39:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN mission in Somalia closes after three decades",
+      "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+      "published_date": "2026-11-03T14:30:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+      "published_date": "2026-11-03T14:17:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US will stop giving Israel aid after year-end",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+      "published_date": "2026-11-03T13:42:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ugandan troops hand over Barawe and Shalanbood to Somali army in major security test",
       "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/un-mission-somalia-untmis-closes-after-three-decades/",
-      "published_date": "2026-10-31T17:51:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somaliguardian.com/news/somalia-news/ugandan-troops-handover-barawe-shalanbood-somali-army/",
+      "published_date": "2026-11-03T09:58:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-      "published_date": "2026-10-31T14:31:37+00:00",
-      "category": "Diplomacy"
+      "title": "Somali Army Chief Visits Barawe to Assess Security and Troop Readiness",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-visits-barawe-to-assess-security-and-troop-readiness/",
+      "published_date": "2026-11-03T07:17:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indian Navy Rescues 20 Crew Members from Hijacked Fishing Vessel off Somalia",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/indian-navy-rescues-20-crew-members-from-hijacked-fishing-vessel-off-somalia/",
+      "published_date": "2026-11-03T05:45:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ciidamada Puntland oo gacanta ku dhigay hub sharci-darro ah",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidamada-puntland-oo-gacanta-ku-dhigay-hub-sharci-darro-ah/",
-      "published_date": "2026-11-02T07:57:43+00:00",
-      "category": "Military"
+      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
+      "published_date": "2026-11-03T17:22:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
-      "published_date": "2026-11-02T00:34:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
-      "published_date": "2026-11-02T00:14:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "published_date": "2026-11-02T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
-      "published_date": "2026-11-01T22:15:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands displaced from Hebron as Israel carries on siege",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-      "published_date": "2026-11-01T21:28:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police clash with housing crisis protesters in Portugal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
-      "published_date": "2026-11-01T20:31:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How will the Iran war shape the outcome of the US midterm vote?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
-      "published_date": "2026-11-01T19:00:32+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+      "published_date": "2026-11-03T15:47:34+00:00",
+      "category": "Energy"
     },
     {
       "title": "US petrol prices dip ahead of midterms as voters eye costs",
@@ -347,11 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "Iranian and Qatari leaders meet at Russian energy forum",
+      "title": "Global food security is under threat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
-      "published_date": "2026-10-27T15:49:19+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+      "published_date": "2026-11-03T14:58:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
@@ -445,18 +459,39 @@
       "category": "Economy"
     },
     {
-      "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
-      "published_date": "2026-10-27T13:34:07+00:00",
-      "category": "Economy"
+      "title": "Somaliland oo walaac ka muujisay taliska qaybta 26-aad ee ciidanka xoogga dalka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/03/somaliland-oo-walaac-ka-muujisay-taliska-qaybta-26-aad-ee-ciidanka-xoogga-dalka/",
+      "published_date": "2026-11-03T17:19:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia Urges Local Investors to Tap Marine and Agricultural Resources",
+      "title": "In Pictures: US midterm elections in 20 photos",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss",
+      "published_date": "2026-11-03T15:46:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Florida Governor Ron DeSantis will shape his state’s 2026 midterm race",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/how-florida-governor-ron-desantis-will-shape-his-states-2026-midterm-race?traffic_source=rss",
+      "published_date": "2026-11-03T13:05:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali President Meets Traditional Leaders from Northern Regions",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-urges-local-investors-to-tap-marine-and-agricultural-resources/",
-      "published_date": "2026-10-27T08:07:37+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somali-president-meets-traditional-leaders-from-northern-regions/",
+      "published_date": "2026-11-03T07:20:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Miisaaniyadda dowladda Puntland ee 2027 oo hoos u dhacday 2.4%",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/03/miisaaniyadda-dowladda-puntland-ee-2027-oo-hoos-u-dhacday-2-4/",
+      "published_date": "2026-11-03T06:09:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
@@ -561,41 +596,6 @@
       "source": "Somali Dispatch",
       "url": "https://www.somalidispatch.com/latest-news/somali-opposition-questions-governments-election-plan-as-spy-chief-holds-talks-with-political-groups/",
       "published_date": "2026-11-01T19:57:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michigan Democrat Haley Stevens endorses Republican Senate candidate",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
-      "published_date": "2026-11-01T18:51:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mawisley militias abandon front lines in central Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/mawisley-militias-abandon-front-lines-central-somalia/",
-      "published_date": "2026-11-01T16:57:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
-      "published_date": "2026-11-01T16:19:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Photos: Thousands join India’s opposition rally against election chief",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
-      "published_date": "2026-11-01T14:46:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel election: When will government be formed, who will lead it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
-      "published_date": "2026-11-01T14:16:14+00:00",
       "category": "Local Events"
     }
   ]
