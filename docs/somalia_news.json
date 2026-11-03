@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-02T20:41:38.674543+00:00",
-  "story_count": 83,
+  "last_updated": "2026-11-03T03:49:09.474238+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
+      "published_date": "2026-11-03T00:50:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What’s the future of the Western Sahara conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+      "published_date": "2026-11-02T20:43:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
       "source": "Al Jazeera",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
+      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
-      "published_date": "2026-10-31T14:20:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
+      "published_date": "2026-11-03T02:25:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham opens door to formal apology for Britain’s slave trade",
+      "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
-      "published_date": "2026-10-31T13:19:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+      "published_date": "2026-11-02T23:41:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
-      "published_date": "2026-11-01T18:58:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-      "published_date": "2026-11-01T16:24:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serbia arrests police chief over abuse of office allegations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss",
-      "published_date": "2026-11-01T15:36:13+00:00",
-      "category": "Military"
-    },
-    {
       "title": "US petrol prices dip ahead of midterms as voters eye costs",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
@@ -352,6 +352,27 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
       "published_date": "2026-10-27T15:49:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
+      "published_date": "2026-11-03T01:17:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+      "published_date": "2026-11-02T22:40:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+      "published_date": "2026-11-02T20:38:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Lobster industry caught in Maine’s political headwinds before US midterms",
@@ -438,11 +459,32 @@
       "category": "Economy"
     },
     {
-      "title": "Africa food security under threat due to Iran war, trade officials warn",
+      "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-      "published_date": "2026-10-26T21:42:18+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
+      "published_date": "2026-11-03T02:15:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
+      "published_date": "2026-11-03T01:01:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Student protests resume in France as pupils return to school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+      "published_date": "2026-11-02T21:28:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mamdani’s progressive allies vie for seats in Congress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
+      "published_date": "2026-11-02T20:48:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "HRW calls on Zambia to halt post-election crackdown",
@@ -554,34 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
       "published_date": "2026-11-01T14:16:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliye Muumin oo kulan la qaatay saraakiisha Birmadka Booliska Puntland",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/01/taliye-muumin-oo-kulan-la-qaatay-saraakiisha-birmadka-booliska-puntland/",
-      "published_date": "2026-11-01T14:13:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US midterms live: Trump, Democrats in last-ditch efforts before polls",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss",
-      "published_date": "2026-11-01T13:42:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/michigan-race-all-you-need-to-know-about-abdul-el-sayed-v-mike-rogers?traffic_source=rss",
-      "published_date": "2026-11-01T13:03:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South West Leader Holds Security Meeting as Lafta-Gareen Forces Step Up Military Activity in Bay",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/south-west-leader-holds-security-meeting-as-lafta-gareen-forces-step-up-military-activity-in-bay/",
-      "published_date": "2026-11-01T12:49:29+00:00",
       "category": "Local Events"
     }
   ]
