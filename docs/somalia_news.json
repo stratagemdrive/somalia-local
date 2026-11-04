@@ -1,6 +1,6 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-03T18:19:37.383155+00:00",
+  "last_updated": "2026-11-04T02:52:47.008167+00:00",
   "story_count": 85,
   "stories": [
     {
@@ -144,6 +144,48 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
+      "published_date": "2026-11-04T02:36:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+      "published_date": "2026-11-04T01:13:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+      "published_date": "2026-11-04T00:35:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+      "published_date": "2026-11-04T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "published_date": "2026-11-03T21:43:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+      "published_date": "2026-11-03T20:54:44+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Uganda begins withdrawing troops deployed bilaterally in Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-withdrawing-troops-deployed-bilaterally-somalia/",
-      "published_date": "2026-11-02T17:28:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone attacks extend campaign targeting Sudan’s power system",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
-      "published_date": "2026-11-02T17:26:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
-      "published_date": "2026-11-02T16:56:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UPDF Commences Withdrawal of Bilaterally Deployed Troops in Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/updf-commences-withdrawal-of-bilaterally-deployed-troops-in-somalia/",
-      "published_date": "2026-11-02T13:10:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uganda oo war kasoo saartay Ciidamadeeda ka baxaya dalka Soomaaliya",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uganda-oo-war-kasoo-saartay-ciidamadeeda-ka-baxaya-dalka-soomaaliya/",
-      "published_date": "2026-11-02T13:08:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Puntland Police Seize Truck Carrying Illegal Weapons in Garowe",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/puntland-police-seize-truck-carrying-illegal-weapons-in-garowe/",
-      "published_date": "2026-11-02T08:41:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
@@ -359,6 +359,13 @@
       "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
       "published_date": "2026-10-28T13:47:39+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+      "published_date": "2026-11-03T20:00:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "Global food security is under threat",
@@ -452,11 +459,74 @@
       "category": "Economy"
     },
     {
-      "title": "Smotrich dances in Israel despite far-right decline",
+      "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
-      "published_date": "2026-10-27T23:03:44+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+      "published_date": "2026-11-04T01:36:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN elects five judges to International Court of Justice amid record cases",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+      "published_date": "2026-11-04T01:03:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
+      "published_date": "2026-11-04T00:59:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
+      "published_date": "2026-11-04T00:33:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stevie Wonder endorses Abdul El-Sayed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss",
+      "published_date": "2026-11-04T00:13:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US midterm election results live: Democrats up as vote count under way",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
+      "published_date": "2026-11-03T22:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
+      "published_date": "2026-11-03T22:19:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Texans vote in most expensive Senate race in US history",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
+      "published_date": "2026-11-03T21:41:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu’s eight-seat problem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+      "published_date": "2026-11-03T21:19:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Federalist Paradox of Puntland State of Somalia",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/03/the-federalist-paradox-of-puntland-state-of-somalia/",
+      "published_date": "2026-11-03T18:14:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somaliland oo walaac ka muujisay taliska qaybta 26-aad ee ciidanka xoogga dalka",
@@ -526,76 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
       "published_date": "2026-11-02T19:40:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
-      "published_date": "2026-11-02T19:06:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Israel’s election: What’s next?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
-      "published_date": "2026-11-02T18:32:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
-      "published_date": "2026-11-02T15:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo hub ku qabatay Garoowe",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/02/puntland-oo-hub-ku-qabatay-garoowe/",
-      "published_date": "2026-11-02T04:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
-      "published_date": "2026-11-02T00:29:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why governors’ races are important in the 2026 US midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
-      "published_date": "2026-11-01T23:24:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High-ranking US Democratic senator suffers stroke",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
-      "published_date": "2026-11-01T22:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
-      "published_date": "2026-11-01T21:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
-      "published_date": "2026-11-01T20:43:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Opposition Questions Government’s Election Plan as Spy Chief Holds Talks with Political Groups",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-opposition-questions-governments-election-plan-as-spy-chief-holds-talks-with-political-groups/",
-      "published_date": "2026-11-01T19:57:41+00:00",
       "category": "Local Events"
     }
   ]
