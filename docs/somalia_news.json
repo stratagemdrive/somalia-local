@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-04T02:52:47.008167+00:00",
-  "story_count": 85,
+  "last_updated": "2026-11-04T18:31:47.173525+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Somalia Condemns Israel’s Appointment of Ambassador to Somaliland, Vows Diplomatic and Legal Action",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalia-condemns-israels-appointment-of-ambassador-to-somaliland-vows-diplomatic-and-legal-action/",
+      "published_date": "2026-11-04T17:15:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+      "published_date": "2026-11-04T16:37:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey intensifies air campaign to shore up embattled Somali president as civilian death toll mounts",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-airstrikes-somalia-civilian-deaths-president/",
+      "published_date": "2026-11-04T15:02:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Condemns Israel’s Appointment of Ambassador to Hargeisa, Embassy Construction Move",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-condemns-israels-appointment-of-ambassador-to-hargeisa-embassy-construction-move/",
+      "published_date": "2026-11-04T08:48:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran commander sets out five conditions for regional security",
       "source": "Al Jazeera",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
-      "published_date": "2026-11-01T14:26:43+00:00",
-      "category": "Diplomacy"
+      "title": "U.S. Troops Withdraw from Somalia, Raising Questions Over Possible Policy change",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/u-s-troops-withdraw-from-somalia-raising-questions-over-possible-policy-change/",
+      "published_date": "2026-11-04T17:46:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar unveils countdown clock for 2027 Basketball World Cup",
+      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/qatar-unveils-countdown-clock-for-2027-basketball-world-cup?traffic_source=rss",
-      "published_date": "2026-11-01T13:16:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+      "published_date": "2026-11-04T17:18:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran and US explore diplomacy amid rising threats of war",
+      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
-      "published_date": "2026-11-01T13:02:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
+      "published_date": "2026-11-04T15:28:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Soomaaliya oo ka qaybgalay xuska Maalinta Afrika ee Sugnaanta Cuntada iyo Nafaqada",
+      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+      "published_date": "2026-11-04T15:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Land Forces Commander Visits Galmudug to Assess Military Operations",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/soomaaliya-oo-ka-qaybgalay-xuska-maalinta-afrika-ee-sugnaanta-cuntada-iyo-nafaqada/",
-      "published_date": "2026-11-01T08:53:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-army-land-forces-commander-visits-galmudug-to-assess-military-operations/",
+      "published_date": "2026-11-04T13:56:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jerusalem Daily: Mass arrests across occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-11-04T13:29:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Seven flights across Europe targeted by suspected bomb threats",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
-      "published_date": "2026-11-03T02:25:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
-      "published_date": "2026-11-03T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-      "published_date": "2026-11-02T23:41:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
-      "published_date": "2026-11-02T19:39:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
-      "published_date": "2026-11-02T19:11:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian bombing of Ukrainian aid centre kills 24 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
-      "published_date": "2026-11-02T18:23:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
@@ -347,18 +347,25 @@
       "category": "Energy"
     },
     {
-      "title": "Bank of Canada raises interest rates for the first time in three years",
+      "title": "Danish students join European protest wave against education funding cuts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
-      "published_date": "2026-10-28T16:44:44+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
+      "published_date": "2026-11-04T17:54:48+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-      "published_date": "2026-10-28T13:47:39+00:00",
-      "category": "Energy"
+      "title": "Southwest State Cabinet Reviews Security and Five-Year Development Plan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/southwest-state-cabinet-reviews-security-and-five-year-development-plan/",
+      "published_date": "2026-11-04T13:55:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somali Parliamentary Speaker Visits Djibouti’s Major Ports and Trade Facilities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliamentary-speaker-visits-djiboutis-major-ports-and-trade-facilities/",
+      "published_date": "2026-11-04T13:52:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
@@ -459,6 +466,62 @@
       "category": "Economy"
     },
     {
+      "title": "Palestinian citizens of Israel face intimidation after election success",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
+      "published_date": "2026-11-04T17:14:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+      "published_date": "2026-11-04T16:20:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss",
+      "published_date": "2026-11-04T15:51:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is the western US still counting votes after election day?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
+      "published_date": "2026-11-04T14:35:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish Transport Minister resigns over train crash disasters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss",
+      "published_date": "2026-11-04T13:52:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taliyaha Ciidanka Dhulka Xoogga Dalka Soomaaliyeed oo gaaray Dhuusamareeb",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-xoogga-dalka-oo-gaaray-dhuusamareeb-kulamana-la-yeeshay-saraakiisha-ciidamada/",
+      "published_date": "2026-11-04T10:25:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo difaacday joogitaanka Itoobiyaanka ku sugan deegaannadeeda",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/04/puntland-oo-difaacday-joogitaanka-itoobiyaanka-ku-sugan-deegaannadeeda/",
+      "published_date": "2026-11-04T09:32:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Parliament Speaker Visits Djibouti’s Historic Arta City",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-parliament-speaker-visits-djiboutis-historic-arta-city/",
+      "published_date": "2026-11-04T08:46:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
@@ -540,62 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss",
       "published_date": "2026-11-03T15:46:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Florida Governor Ron DeSantis will shape his state’s 2026 midterm race",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/how-florida-governor-ron-desantis-will-shape-his-states-2026-midterm-race?traffic_source=rss",
-      "published_date": "2026-11-03T13:05:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali President Meets Traditional Leaders from Northern Regions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-meets-traditional-leaders-from-northern-regions/",
-      "published_date": "2026-11-03T07:20:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miisaaniyadda dowladda Puntland ee 2027 oo hoos u dhacday 2.4%",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/03/miisaaniyadda-dowladda-puntland-ee-2027-oo-hoos-u-dhacday-2-4/",
-      "published_date": "2026-11-03T06:09:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
-      "published_date": "2026-11-03T02:15:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
-      "published_date": "2026-11-03T01:01:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Student protests resume in France as pupils return to school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
-      "published_date": "2026-11-02T21:28:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mamdani’s progressive allies vie for seats in Congress",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
-      "published_date": "2026-11-02T20:48:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "HRW calls on Zambia to halt post-election crackdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
-      "published_date": "2026-11-02T19:40:10+00:00",
       "category": "Local Events"
     }
   ]
