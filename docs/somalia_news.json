@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-04T18:31:47.173525+00:00",
-  "story_count": 86,
+  "last_updated": "2026-11-05T03:05:32.202585+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
+      "published_date": "2026-11-04T23:43:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
+      "published_date": "2026-11-04T23:34:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FAJ and UNECA eager to deepen media engagement on Africa’s development priorities",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/faj-and-uneca-eager-to-deepen-media-engagement-on-africas-development-priorities/",
+      "published_date": "2026-11-04T19:17:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s president dismisses chief justice to forestall ruling on constitution",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-dismisses-chief-justice-constitution-ruling/",
+      "published_date": "2026-11-04T18:51:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia Condemns Israel’s Appointment of Ambassador to Somaliland, Vows Diplomatic and Legal Action",
       "source": "Somali Dispatch",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "title": "El Salvador’s Bukele touts military intervention in Haiti",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
-      "published_date": "2026-11-01T23:19:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+      "published_date": "2026-11-05T02:10:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "title": "Iran war live: Khamenei says US hostility will persist after midterms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-      "published_date": "2026-11-01T21:01:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+      "published_date": "2026-11-05T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
+      "title": "Trump blames Iran war for midterms losses",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
-      "published_date": "2026-11-01T20:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
+      "published_date": "2026-11-04T23:30:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somaliland and Israel Strengthen Diplomatic Ties as Ambassador Presents Credentials to President Irro",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somaliland-and-israel-strengthen-diplomatic-ties-as-ambassador-presents-credentials-to-president-irro/",
-      "published_date": "2026-11-01T19:22:09+00:00",
-      "category": "Diplomacy"
+      "title": "Democratic Socialists of America see record wins in US midterm elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
+      "published_date": "2026-11-04T22:45:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan factories struggle to restart after devastating wartime losses",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
+      "published_date": "2026-11-04T22:31:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+      "published_date": "2026-11-04T21:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+      "published_date": "2026-11-04T20:31:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranians celebrate Democrat victory in US midterms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+      "published_date": "2026-11-04T19:59:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WHO approves trials for two new Ebola vaccines",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+      "published_date": "2026-11-04T19:22:09+00:00",
+      "category": "Military"
     },
     {
       "title": "U.S. Troops Withdraw from Somalia, Raising Questions Over Possible Policy change",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+      "title": "Africa’s richest man launches mega oil tank farm in Namibia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
-      "published_date": "2026-11-03T20:54:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
-      "published_date": "2026-11-03T17:03:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Opposition party organiser killed before South Africa elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
-      "published_date": "2026-11-03T16:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
-      "published_date": "2026-11-03T14:30:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
-      "published_date": "2026-11-03T14:17:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US will stop giving Israel aid after year-end",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-      "published_date": "2026-11-03T13:42:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ugandan troops hand over Barawe and Shalanbood to Somali army in major security test",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/ugandan-troops-handover-barawe-shalanbood-somali-army/",
-      "published_date": "2026-11-03T09:58:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief Visits Barawe to Assess Security and Troop Readiness",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-visits-barawe-to-assess-security-and-troop-readiness/",
-      "published_date": "2026-11-03T07:17:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian Navy Rescues 20 Crew Members from Hijacked Fishing Vessel off Somalia",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/indian-navy-rescues-20-crew-members-from-hijacked-fishing-vessel-off-somalia/",
-      "published_date": "2026-11-03T05:45:55+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+      "published_date": "2026-11-05T00:39:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
@@ -337,13 +344,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss",
       "published_date": "2026-10-29T13:26:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fuel costs force US cruise ship to suspend multiyear voyage in Cambodia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss",
-      "published_date": "2026-10-28T18:34:10+00:00",
       "category": "Energy"
     },
     {
@@ -452,18 +452,39 @@
       "category": "Economy"
     },
     {
-      "title": "Fed leaves interest rates unchanged despite inflation in the US",
+      "title": "Election deniers lose races for governor in key US swing states",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
-      "published_date": "2026-10-28T19:05:44+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+      "published_date": "2026-11-05T02:06:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Five key takeaways from the UK Autumn Budget",
+      "title": "Ohio’s voters tell Republicans: don’t take us for granted",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
-      "published_date": "2026-10-28T18:46:45+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
+      "published_date": "2026-11-05T00:36:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Democrats won Congress. But can they deliver on their promises?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
+      "published_date": "2026-11-05T00:25:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maxaa looga hadlay kulanka madaxweyne Deni iyo taliyeyaasha ciidamada?",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/05/maxaa-looga-hadlay-kulanka-madaxweyne-deni-iyo-taliyeyaasha-ciidamada/",
+      "published_date": "2026-11-04T21:26:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Democrat leaders hail midterm election success",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+      "published_date": "2026-11-04T20:50:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinian citizens of Israel face intimidation after election success",
@@ -568,41 +589,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
       "published_date": "2026-11-03T22:19:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Texans vote in most expensive Senate race in US history",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
-      "published_date": "2026-11-03T21:41:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu’s eight-seat problem",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
-      "published_date": "2026-11-03T21:19:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Federalist Paradox of Puntland State of Somalia",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/03/the-federalist-paradox-of-puntland-state-of-somalia/",
-      "published_date": "2026-11-03T18:14:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland oo walaac ka muujisay taliska qaybta 26-aad ee ciidanka xoogga dalka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/03/somaliland-oo-walaac-ka-muujisay-taliska-qaybta-26-aad-ee-ciidanka-xoogga-dalka/",
-      "published_date": "2026-11-03T17:19:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Pictures: US midterm elections in 20 photos",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss",
-      "published_date": "2026-11-03T15:46:57+00:00",
       "category": "Local Events"
     }
   ]
