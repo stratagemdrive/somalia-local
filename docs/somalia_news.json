@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-05T03:05:32.202585+00:00",
-  "story_count": 84,
+  "last_updated": "2026-11-05T18:37:48.589537+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Could the US midterms further isolate Israel in Washington?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
+      "published_date": "2026-11-05T14:19:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
       "source": "Al Jazeera",
@@ -137,11 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Information Minister Visits Embassy in Cairo",
+      "title": "Jordanian officer killed in stabbing attack in Amman",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
+      "published_date": "2026-11-05T17:08:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
+      "published_date": "2026-11-05T16:46:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jerusalem Daily: Settler pogroms in Hebron",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+      "published_date": "2026-11-05T15:10:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+      "published_date": "2026-11-05T14:30:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indonesia rushes thousands of troops to Jakarta amid wiretap scandal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/indonesia-rushes-thousands-of-troops-to-jakarta-amid-wiretap-scandal?traffic_source=rss",
+      "published_date": "2026-11-05T13:41:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police bodycam captures moments before deadly Russian strike in Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss",
+      "published_date": "2026-11-05T13:28:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Madaxweyne Xasan Sheekh oo xilka ka qaaday Guddoomiyihii Maxkamadda Sare, magacaabayna beddelkiisa",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-information-minister-visits-embassy-in-cairo/",
-      "published_date": "2026-11-02T07:06:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/madaxweyne-xasan-sheekh-oo-xilka-ka-qaaday-guddoomiyihii-maxkamadda-sare-magacaabayna-beddelkiisa/",
+      "published_date": "2026-11-05T07:52:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taliyaha Ciidanka Xoogga Dalka oo ciidamada ku boorriyey inay kordhiyaan howlgallada ka dhanka ah Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/taliyaha-ciidanka-xoogga-dalka-oo-ciidamada-ku-boorriyey-inay-kordhiyaan-howlgallada-ka-dhanka-ah-al-shabaab/",
+      "published_date": "2026-11-05T07:44:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Chief Urges Troops to Intensify Operations Against Al-Shabaab Near Barawe",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-chief-urges-troops-to-intensify-operations-against-al-shabaab-near-barawe/",
+      "published_date": "2026-11-05T07:43:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ra’iisul Wasaare Xamsa oo xilka ka qaaday laba xubnood oo ka tirsanaa Golaha Wasiirrada",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-xilka-ka-qaaday-laba-xubnood-oo-ka-tirsanaa-golaha-wasiirrada/",
+      "published_date": "2026-11-05T07:19:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia and the ‘Bilateralisation’ of the War Against Al-Shabaab and ISIS",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-the-bilateralisation-of-the-war-against-al-shabaab-and-isis/",
+      "published_date": "2026-11-05T06:47:25+00:00",
+      "category": "Military"
     },
     {
       "title": "El Salvador’s Bukele touts military intervention in Haiti",
@@ -207,83 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "U.S. Troops Withdraw from Somalia, Raising Questions Over Possible Policy change",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/u-s-troops-withdraw-from-somalia-raising-questions-over-possible-policy-change/",
-      "published_date": "2026-11-04T17:46:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
-      "published_date": "2026-11-04T17:18:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
-      "published_date": "2026-11-04T15:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
-      "published_date": "2026-11-04T15:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Land Forces Commander Visits Galmudug to Assess Military Operations",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-land-forces-commander-visits-galmudug-to-assess-military-operations/",
-      "published_date": "2026-11-04T13:56:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: Mass arrests across occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-11-04T13:29:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
-      "published_date": "2026-11-04T02:36:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
-      "published_date": "2026-11-04T01:13:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
-      "published_date": "2026-11-04T00:35:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
-      "published_date": "2026-11-04T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President Zelenskyy says US elections will impact war in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
-      "published_date": "2026-11-03T21:43:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Africa’s richest man launches mega oil tank farm in Namibia",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
@@ -340,11 +340,25 @@
       "category": "Energy"
     },
     {
-      "title": "Rising fuel costs force passengers off cruise ship",
+      "title": "Photos: Thousands rally in France over rising costs and economic struggles",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss",
-      "published_date": "2026-10-29T13:26:38+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
+      "published_date": "2026-11-05T16:07:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Xiisad ciidan oo weli ka dhex taagan Puntland iyo Federaalka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/05/xiisad-ciidan-oo-weli-ka-dhex-taagan-puntland-iyo-federaalka/",
+      "published_date": "2026-11-05T14:57:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia and Indonesia Discuss Expanding Cooperation in Trade, Fisheries and Maritime Security",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-indonesia-discuss-expanding-cooperation-in-trade-fisheries-and-maritime-security/",
+      "published_date": "2026-11-05T08:43:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "Danish students join European protest wave against education funding cuts",
@@ -445,11 +459,67 @@
       "category": "Economy"
     },
     {
-      "title": "The megadonors financing the US midterms to influence policy",
+      "title": "AI stocks plunge after US election, driving down markets",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss",
-      "published_date": "2026-10-29T13:26:07+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+      "published_date": "2026-11-05T17:56:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia supreme court nullifies constitutional amendments, orders elections within 90 days",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-supreme-court-nullifies-constitutional-amendments-orders-elections-90-days/",
+      "published_date": "2026-11-05T17:13:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bishara: US election deals a blow to warmongers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_us-election-deals-a-blow-to-warmongers-051126?traffic_source=rss",
+      "published_date": "2026-11-05T16:48:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos: Spain mourns Jesus de Miguel, who died after on-pitch collision",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-spain-mourns-jesus-de-miguel-who-died-after-on-pitch-collision?traffic_source=rss",
+      "published_date": "2026-11-05T16:12:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russell Brand found guilty of rape and sexual assault by UK court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
+      "published_date": "2026-11-05T14:43:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burning rubbish chokes besieged Yemeni city of Taiz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
+      "published_date": "2026-11-05T14:17:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Joint List says it will back Eisenkot to form Israel’s next government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
+      "published_date": "2026-11-05T14:15:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali President Appoints New Supreme Court Chief, Dismisses Baashe Yusuf Ahmed",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-president-appoints-new-supreme-court-chief-dismisses-baashe-yusuf-ahmed/",
+      "published_date": "2026-11-05T07:50:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s Prime Minister Dismisses Two Deputy Ministers in Cabinet Reshuffle",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-prime-minister-dismisses-two-deputy-ministers-in-cabinet-reshuffle/",
+      "published_date": "2026-11-05T07:16:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Election deniers lose races for governor in key US swing states",
@@ -526,69 +596,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-xoogga-dalka-oo-gaaray-dhuusamareeb-kulamana-la-yeeshay-saraakiisha-ciidamada/",
       "published_date": "2026-11-04T10:25:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland oo difaacday joogitaanka Itoobiyaanka ku sugan deegaannadeeda",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/04/puntland-oo-difaacday-joogitaanka-itoobiyaanka-ku-sugan-deegaannadeeda/",
-      "published_date": "2026-11-04T09:32:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Parliament Speaker Visits Djibouti’s Historic Arta City",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-speaker-visits-djiboutis-historic-arta-city/",
-      "published_date": "2026-11-04T08:46:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
-      "published_date": "2026-11-04T01:36:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN elects five judges to International Court of Justice amid record cases",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
-      "published_date": "2026-11-04T01:03:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
-      "published_date": "2026-11-04T00:59:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
-      "published_date": "2026-11-04T00:33:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stevie Wonder endorses Abdul El-Sayed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss",
-      "published_date": "2026-11-04T00:13:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US midterm election results live: Democrats up as vote count under way",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
-      "published_date": "2026-11-03T22:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
-      "published_date": "2026-11-03T22:19:13+00:00",
       "category": "Local Events"
     }
   ]
