@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-05T18:37:48.589537+00:00",
+  "last_updated": "2026-11-06T03:05:22.644187+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "published_date": "2026-11-06T00:06:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why are wealthy countries failing developing nations?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
+      "published_date": "2026-11-05T20:45:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Could the US midterms further isolate Israel in Washington?",
       "source": "Al Jazeera",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Axmed Madoobe oo dib ugu soo laabtay Kismaayo iyo kolonyadii soo dhawaysay oo lagu arkay ambalaasyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/02/axmed-madoobe-oo-dib-ugu-soo-laabtay-kismaayo-iyo-kolonyadii-soo-dhawaysay-oo-lagu-arkay-ambalaasyo/",
-      "published_date": "2026-11-02T15:30:51+00:00",
-      "category": "Diplomacy"
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "published_date": "2026-11-06T00:15:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somali Parliament Speaker Arrives in Djibouti for Four-Day Official Visit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-speaker-arrives-in-djibouti-for-four-day-official-visit/",
-      "published_date": "2026-11-02T08:38:26+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "published_date": "2026-11-06T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+      "published_date": "2026-11-05T21:26:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi coalition intercepts missile fired towards Medina",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "published_date": "2026-11-05T20:48:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mass protests in France driven by nationwide strike action",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+      "published_date": "2026-11-05T20:11:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+      "published_date": "2026-11-05T18:47:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Jordanian officer killed in stabbing attack in Amman",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Democratic Socialists of America see record wins in US midterm elections",
+      "title": "Gaza turns discarded cooking pots into seawalls",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
-      "published_date": "2026-11-04T22:45:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan factories struggle to restart after devastating wartime losses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
-      "published_date": "2026-11-04T22:31:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US midterm election results live: Trump blames Iran war after losses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
-      "published_date": "2026-11-04T21:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-      "published_date": "2026-11-04T20:31:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranians celebrate Democrat victory in US midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-      "published_date": "2026-11-04T19:59:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WHO approves trials for two new Ebola vaccines",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
-      "published_date": "2026-11-04T19:22:09+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+      "published_date": "2026-11-06T02:03:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Africa’s richest man launches mega oil tank farm in Namibia",
@@ -330,13 +337,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
       "published_date": "2026-10-30T18:33:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-      "published_date": "2026-10-30T00:11:20+00:00",
       "category": "Energy"
     },
     {
@@ -459,6 +459,41 @@
       "category": "Economy"
     },
     {
+      "title": "California governor commutes sentences of more than 500 people on death row",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+      "published_date": "2026-11-06T01:39:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+      "published_date": "2026-11-06T00:19:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+      "published_date": "2026-11-05T23:46:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa’s ANC on track for new lows in local polls",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
+      "published_date": "2026-11-05T21:48:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
+      "published_date": "2026-11-05T19:31:28+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "AI stocks plunge after US election, driving down markets",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
@@ -561,41 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
       "published_date": "2026-11-04T17:14:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
-      "published_date": "2026-11-04T16:20:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss",
-      "published_date": "2026-11-04T15:51:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is the western US still counting votes after election day?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
-      "published_date": "2026-11-04T14:35:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish Transport Minister resigns over train crash disasters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss",
-      "published_date": "2026-11-04T13:52:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliyaha Ciidanka Dhulka Xoogga Dalka Soomaaliyeed oo gaaray Dhuusamareeb",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-dhulka-xoogga-dalka-oo-gaaray-dhuusamareeb-kulamana-la-yeeshay-saraakiisha-ciidamada/",
-      "published_date": "2026-11-04T10:25:41+00:00",
       "category": "Local Events"
     }
   ]
