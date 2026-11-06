@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-06T03:05:22.644187+00:00",
+  "last_updated": "2026-11-06T17:52:00.480770+00:00",
   "story_count": 85,
   "stories": [
+    {
+      "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
+      "published_date": "2026-11-06T16:10:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
+      "published_date": "2026-11-06T13:49:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who is Kenya’s starvation cult leader?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss",
+      "published_date": "2026-11-06T13:43:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
+      "published_date": "2026-11-06T12:57:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia seeks 20,000 foreign troops as Turkey pledges 15,000 to bolster defences",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-15000-troops-20000-foreign-forces/",
+      "published_date": "2026-11-06T11:06:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
       "source": "Al Jazeera",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia and Kenya Discuss Strengthening Bilateral Cooperation",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-kenya-discuss-strengthening-bilateral-cooperation/",
-      "published_date": "2026-11-03T07:18:37+00:00",
-      "category": "Diplomacy"
+      "title": "Jubaland oo isku tashi ku dhisaysa waddada isku xirta Kismaayo iyo Afmadow",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/06/jubaland-oo-isku-tashi-ku-dhisaysa-waddada-isku-xirta-kismaayo-iyo-afmadow/",
+      "published_date": "2026-11-06T17:11:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+      "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
-      "published_date": "2026-11-03T00:50:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
+      "published_date": "2026-11-06T16:04:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "What’s the future of the Western Sahara conflict?",
+      "title": "New bomb threats target European broadcasters, air traffic",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
-      "published_date": "2026-11-02T20:43:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
+      "published_date": "2026-11-06T15:24:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
+      "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
-      "published_date": "2026-11-02T16:03:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
-      "published_date": "2026-11-02T16:03:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
+      "published_date": "2026-11-06T13:30:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Turkiye’s parliament ratifies Mecca defence agreement",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Somalia and the ‘Bilateralisation’ of the War Against Al-Shabaab and ISIS",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-the-bilateralisation-of-the-war-against-al-shabaab-and-isis/",
-      "published_date": "2026-11-05T06:47:25+00:00",
-      "category": "Military"
+      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
+      "published_date": "2026-11-06T16:40:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "El Salvador’s Bukele touts military intervention in Haiti",
+      "title": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
-      "published_date": "2026-11-05T02:10:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Khamenei says US hostility will persist after midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-      "published_date": "2026-11-05T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump blames Iran war for midterms losses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
-      "published_date": "2026-11-04T23:30:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss",
+      "published_date": "2026-11-06T15:35:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Gaza turns discarded cooking pots into seawalls",
@@ -445,18 +459,39 @@
       "category": "Economy"
     },
     {
-      "title": "Russian, Ukrainian humanitarian officials enter Oleshky",
+      "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss",
-      "published_date": "2026-10-30T14:19:49+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+      "published_date": "2026-11-06T17:02:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Italy tightens security as students, unions launch nationwide protests",
+      "title": "What did the Republicans lose in the US midterms?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
-      "published_date": "2026-10-30T13:14:11+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/6/what-did-the-republicans-lose-in-the-us-midterms?traffic_source=rss",
+      "published_date": "2026-11-06T16:11:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss",
+      "published_date": "2026-11-06T15:42:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenyan court sentences starvation cult leader to 200 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss",
+      "published_date": "2026-11-06T12:50:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sanbaloolshe iyo ciidan uu wato oo gaaray Beledweyne",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/06/sanbaloolshe-iyo-ciidan-uu-wato-oo-gaaray-beledweyne/",
+      "published_date": "2026-11-06T10:51:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "California governor commutes sentences of more than 500 people on death row",
@@ -561,41 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
       "published_date": "2026-11-05T02:06:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ohio’s voters tell Republicans: don’t take us for granted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-      "published_date": "2026-11-05T00:36:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democrats won Congress. But can they deliver on their promises?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
-      "published_date": "2026-11-05T00:25:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maxaa looga hadlay kulanka madaxweyne Deni iyo taliyeyaasha ciidamada?",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/05/maxaa-looga-hadlay-kulanka-madaxweyne-deni-iyo-taliyeyaasha-ciidamada/",
-      "published_date": "2026-11-04T21:26:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democrat leaders hail midterm election success",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-      "published_date": "2026-11-04T20:50:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian citizens of Israel face intimidation after election success",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
-      "published_date": "2026-11-04T17:14:21+00:00",
       "category": "Local Events"
     }
   ]
