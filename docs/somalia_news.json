@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-06T17:52:00.480770+00:00",
-  "story_count": 85,
+  "last_updated": "2026-11-07T02:30:51.128310+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "published_date": "2026-11-07T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US urges China to honour Busan trade deal commitments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+      "published_date": "2026-11-06T23:00:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
       "source": "Al Jazeera",
@@ -36,6 +50,20 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-15000-troops-20000-foreign-forces/",
       "published_date": "2026-11-06T11:06:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wasiirka Warfaafinta Soomaaliya oo ka qaybgalaya Shirka Warbaahinta Adduunka ee ka furmaya Beijing",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirka-warfaafinta-soomaaliya-oo-ka-qaybgalaya-shirka-warbaahinta-adduunka-ee-ka-furmaya-beijing/",
+      "published_date": "2026-11-06T08:18:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s Information Minister Arrives in Beijing for World Media Summit",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-information-minister-arrives-in-beijing-for-world-media-summit/",
+      "published_date": "2026-11-06T08:16:51+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran commander sets out five conditions for regional security",
+      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-      "published_date": "2026-11-03T13:21:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "published_date": "2026-11-06T21:37:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar remains hopeful the US and Iran can reach a deal",
+      "title": "How ‘Street Medics’ protect French protesters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
-      "published_date": "2026-11-03T13:05:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia opposition agrees to talks with president in test of readiness for electoral breakthrough",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-agrees-talks-president-electoral-breakthrough/",
-      "published_date": "2026-11-03T11:40:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Parliament Speaker Meets Djibouti President to Discuss Bilateral Ties",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliament-speaker-meets-djibouti-president-to-discuss-bilateral-ties/",
-      "published_date": "2026-11-03T07:22:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
+      "published_date": "2026-11-06T20:17:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Jubaland oo isku tashi ku dhisaysa waddada isku xirta Kismaayo iyo Afmadow",
@@ -169,6 +183,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
       "published_date": "2026-11-06T13:30:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Army Commander Visits Navy and Coast Guard Base in Barawe",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-army-commander-visits-navy-and-coast-guard-base-in-barawe/",
+      "published_date": "2026-11-06T08:12:57+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Taliyaha Ciidanka Xoogga Dalka oo ciidamada ku boorriyey inay kordhiyaan howlgallada ka dhanka ah Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/taliyaha-ciidanka-xoogga-dalka-oo-ciidamada-ku-boorriyey-inay-kordhiyaan-howlgallada-ka-dhanka-ah-al-shabaab/",
-      "published_date": "2026-11-05T07:44:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Chief Urges Troops to Intensify Operations Against Al-Shabaab Near Barawe",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-chief-urges-troops-to-intensify-operations-against-al-shabaab-near-barawe/",
-      "published_date": "2026-11-05T07:43:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ra’iisul Wasaare Xamsa oo xilka ka qaaday laba xubnood oo ka tirsanaa Golaha Wasiirrada",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/raiisul-wasaare-xamsa-oo-xilka-ka-qaaday-laba-xubnood-oo-ka-tirsanaa-golaha-wasiirrada/",
-      "published_date": "2026-11-05T07:19:42+00:00",
-      "category": "Military"
+      "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+      "published_date": "2026-11-06T20:22:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Taiwan to close representative office in Papua New Guinea, blames China",
@@ -340,18 +347,11 @@
       "category": "Energy"
     },
     {
-      "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
+      "title": "Why is Paraguay facing a banking and political crisis?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
-      "published_date": "2026-10-31T01:26:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-10-30T18:33:29+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
+      "published_date": "2026-11-06T18:54:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Photos: Thousands rally in France over rising costs and economic struggles",
@@ -452,11 +452,32 @@
       "category": "Economy"
     },
     {
-      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "title": "Ugaaska Xawaadle: Hiiraan waxaa duulaan ku soo ah reer magac dowlaleed sheegta",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/07/ugaaska-xawaadle-hiiraan-waxaa-duulaan-ku-soo-ah-reer-magac-dowlaleed-sheegta/",
+      "published_date": "2026-11-07T01:40:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU prosecutor office investigates fatal train crash in Spain",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
-      "published_date": "2026-10-30T20:13:36+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+      "published_date": "2026-11-07T01:33:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could Trump’s veto stop the Democratic majority?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
+      "published_date": "2026-11-06T19:18:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+      "published_date": "2026-11-06T19:08:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
@@ -568,34 +589,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
       "published_date": "2026-11-05T14:17:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joint List says it will back Eisenkot to form Israel’s next government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
-      "published_date": "2026-11-05T14:15:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali President Appoints New Supreme Court Chief, Dismisses Baashe Yusuf Ahmed",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-president-appoints-new-supreme-court-chief-dismisses-baashe-yusuf-ahmed/",
-      "published_date": "2026-11-05T07:50:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s Prime Minister Dismisses Two Deputy Ministers in Cabinet Reshuffle",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-prime-minister-dismisses-two-deputy-ministers-in-cabinet-reshuffle/",
-      "published_date": "2026-11-05T07:16:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Election deniers lose races for governor in key US swing states",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
-      "published_date": "2026-11-05T02:06:07+00:00",
       "category": "Local Events"
     }
   ]
