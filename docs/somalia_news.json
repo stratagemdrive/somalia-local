@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-08T02:01:05.666201+00:00",
+  "last_updated": "2026-11-08T16:58:34.899035+00:00",
   "story_count": 87,
   "stories": [
+    {
+      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+      "published_date": "2026-11-08T15:47:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Somali Prime Minister Condemns Civilian Killings During Mogadishu Evictions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-prime-minister-condemns-civilian-killings-during-mogadishu-evictions/",
+      "published_date": "2026-11-08T14:55:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
+      "published_date": "2026-11-08T14:02:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+      "published_date": "2026-11-08T13:27:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Information Minister Calls for Responsible AI Use in Media at Beijing Summit",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-information-minister-calls-for-responsible-ai-use-in-media-at-beijing-summit/",
+      "published_date": "2026-11-08T06:26:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
       "source": "Al Jazeera",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia seeks 20,000 foreign troops as Turkey pledges 15,000 to bolster defences",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-15000-troops-20000-foreign-forces/",
-      "published_date": "2026-11-06T11:06:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Wasiirka Warfaafinta Soomaaliya oo ka qaybgalaya Shirka Warbaahinta Adduunka ee ka furmaya Beijing",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/wasiirka-warfaafinta-soomaaliya-oo-ka-qaybgalaya-shirka-warbaahinta-adduunka-ee-ka-furmaya-beijing/",
-      "published_date": "2026-11-06T08:18:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia’s Information Minister Arrives in Beijing for World Media Summit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-information-minister-arrives-in-beijing-for-world-media-summit/",
-      "published_date": "2026-11-06T08:16:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+      "title": "Four killed, 88 injured in train collision in Egypt",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
-      "published_date": "2026-11-06T00:06:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+      "published_date": "2026-11-08T16:31:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why are wealthy countries failing developing nations?",
+      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
-      "published_date": "2026-11-05T20:45:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
+      "published_date": "2026-11-08T14:06:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 21 dead as small boat sinks off Senegal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
+      "published_date": "2026-11-08T13:32:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
+      "published_date": "2026-11-08T12:40:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
+      "published_date": "2026-11-08T11:34:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After rebel offensive, efforts to push them back appear to have stalled",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
+      "published_date": "2026-11-08T10:28:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
+      "published_date": "2026-11-08T09:30:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Floods in Gaza leave tens of thousands without shelter",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
+      "published_date": "2026-11-08T09:28:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia, Italy Discuss Military Training Cooperation During Mogadishu Meeting",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-italy-discuss-military-training-cooperation-during-mogadishu-meeting/",
+      "published_date": "2026-11-08T06:27:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Houthis report 25 killed in Yemen strikes",
+      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-      "published_date": "2026-11-07T17:39:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-      "published_date": "2026-11-07T17:16:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-      "published_date": "2026-11-07T16:15:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five killed and at least 10 injured in Krakow shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
-      "published_date": "2026-11-07T16:06:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-      "published_date": "2026-11-07T15:34:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least five people killed in shooting in Poland’s Krakow",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
-      "published_date": "2026-11-07T15:22:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
-      "published_date": "2026-11-07T13:24:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
-      "published_date": "2026-11-07T13:07:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Gorgor Commandos Graduate from Military Training in Türkiye",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-gorgor-commandos-graduate-from-military-training-in-turkiye/",
-      "published_date": "2026-11-07T12:25:19+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
+      "published_date": "2026-11-08T12:20:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "More than 140,000 rally as new protests against rising costs sweep France",
@@ -351,13 +358,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
       "published_date": "2026-11-02T18:32:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
-      "published_date": "2026-11-01T13:25:27+00:00",
       "category": "Energy"
     },
     {
@@ -473,6 +473,55 @@
       "category": "Economy"
     },
     {
+      "title": "Somalia Future Council welcomes supreme court ruling on president’s term extension",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-supreme-court-ruling-president-term-extension/",
+      "published_date": "2026-11-08T16:54:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xasan Sheekh oo Hiiraan u ballanqaaday Caasimadda HirShabeelle, xilli xiisad siyaasadeed ka taagan tahay Beledweyne",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/xasan-sheekh-oo-hiiraan-u-ballanqaaday-caasimadda-hirshabeelle-xilli-xiisad-siyaasadeed-ka-taagan-tahay-beledweyne/",
+      "published_date": "2026-11-08T15:01:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s President Offers HirShabelle Capital to Hiiraan Amid Political Tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalias-president-offers-hirshabelle-capital-to-hiiraan-amid-political-tensions/",
+      "published_date": "2026-11-08T15:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could Iraq’s Kurdish region return to two separate administrations?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
+      "published_date": "2026-11-08T13:06:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa’s ANC suffers setback in local elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+      "published_date": "2026-11-08T12:19:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caasimadda Hirshabeelle oo loo wareejinayo Beledweyne",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/08/caasimadda-hirshabeelle-oo-loo-wareejinayo-beledweyne/",
+      "published_date": "2026-11-08T11:40:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wasiir Qarjab oo diiday xilka qaadis lagu sameeyay guddoomiyaha degmada Banderbayla",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/08/wasiir-qarjab-oo-diiday-xilka-qaadis-lagu-sameeyay-guddoomiyaha-degmada-banderbayla/",
+      "published_date": "2026-11-08T08:54:48+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
@@ -561,55 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
       "published_date": "2026-11-06T19:18:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
-      "published_date": "2026-11-06T19:08:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
-      "published_date": "2026-11-06T17:02:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What did the Republicans lose in the US midterms?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/6/what-did-the-republicans-lose-in-the-us-midterms?traffic_source=rss",
-      "published_date": "2026-11-06T16:11:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss",
-      "published_date": "2026-11-06T15:42:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenyan court sentences starvation cult leader to 200 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss",
-      "published_date": "2026-11-06T12:50:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sanbaloolshe iyo ciidan uu wato oo gaaray Beledweyne",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/06/sanbaloolshe-iyo-ciidan-uu-wato-oo-gaaray-beledweyne/",
-      "published_date": "2026-11-06T10:51:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "California governor commutes sentences of more than 500 people on death row",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
-      "published_date": "2026-11-06T01:39:35+00:00",
       "category": "Local Events"
     }
   ]
