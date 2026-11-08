@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-07T16:47:01.132510+00:00",
-  "story_count": 85,
+  "last_updated": "2026-11-08T02:01:05.666201+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "published_date": "2026-11-07T23:45:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+      "published_date": "2026-11-07T20:26:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Chief Justice Accuses President Hassan Sheikh of Interfering with the Courts",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/former-chief-justice-accuses-president-hassan-sheikh-of-interfering-with-the-courts/",
+      "published_date": "2026-11-07T18:37:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "AU, EU warn Somalia’s security gains at risk over AUSSOM funding",
       "source": "Shabelle Media",
@@ -123,25 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Could the US midterms further isolate Israel in Washington?",
+      "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
-      "published_date": "2026-11-05T14:19:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+      "published_date": "2026-11-08T00:50:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
+      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
-      "published_date": "2026-11-04T23:43:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "published_date": "2026-11-08T00:00:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
+      "title": "Police clash with protesters as anti-government rallies sweep France",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
-      "published_date": "2026-11-04T23:34:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+      "published_date": "2026-11-07T21:24:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is behind Europe’s suspected hybrid attacks?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+      "published_date": "2026-11-07T20:48:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+      "published_date": "2026-11-07T20:44:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+      "published_date": "2026-11-07T20:10:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Masked protesters set off firecrackers and block roads in Albania",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
+      "published_date": "2026-11-07T19:49:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Government Criticized Over Treatment of Soldiers Killed in Jameo Battle",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-government-criticized-over-treatment-of-soldiers-killed-in-jameo-battle/",
+      "published_date": "2026-11-07T19:15:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+      "published_date": "2026-11-07T19:10:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+      "published_date": "2026-11-07T19:06:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houston mayor orders police to limit cooperation with ICE",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
+      "published_date": "2026-11-07T18:55:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis report 25 killed in Yemen strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+      "published_date": "2026-11-07T17:39:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
+      "published_date": "2026-11-07T17:16:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Guatemalan lawmaker and three police officers killed in armed attack",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "title": "More than 140,000 rally as new protests against rising costs sweep France",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-      "published_date": "2026-11-07T11:59:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
-      "published_date": "2026-11-07T10:50:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan war and climate change see parents struggle to feed their children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-      "published_date": "2026-11-07T10:36:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-      "published_date": "2026-11-06T21:37:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How ‘Street Medics’ protect French protesters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
-      "published_date": "2026-11-06T20:17:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jubaland oo isku tashi ku dhisaysa waddada isku xirta Kismaayo iyo Afmadow",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/06/jubaland-oo-isku-tashi-ku-dhisaysa-waddada-isku-xirta-kismaayo-iyo-afmadow/",
-      "published_date": "2026-11-06T17:11:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-      "published_date": "2026-11-06T16:04:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New bomb threats target European broadcasters, air traffic",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
-      "published_date": "2026-11-06T15:24:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
-      "published_date": "2026-11-06T13:30:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Army Commander Visits Navy and Coast Guard Base in Barawe",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-army-commander-visits-navy-and-coast-guard-base-in-barawe/",
-      "published_date": "2026-11-06T08:12:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
-      "published_date": "2026-11-06T00:15:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
-      "published_date": "2026-11-06T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-      "published_date": "2026-11-05T21:26:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+      "published_date": "2026-11-07T20:12:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
@@ -352,6 +359,13 @@
       "url": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
       "published_date": "2026-11-01T13:25:27+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Paraguay’s ousted president charged over banking scandal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+      "published_date": "2026-11-07T18:35:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia moves closer to joining the WTO​",
@@ -457,6 +471,20 @@
       "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
       "published_date": "2026-11-02T01:31:21+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+      "published_date": "2026-11-08T01:37:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+      "published_date": "2026-11-07T19:24:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia chief justice says president threatens his security after court ruling",
@@ -582,20 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
       "published_date": "2026-11-06T01:39:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
-      "published_date": "2026-11-06T00:19:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
-      "published_date": "2026-11-05T23:46:52+00:00",
       "category": "Local Events"
     }
   ]
