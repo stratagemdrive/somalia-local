@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-09T02:20:44.505581+00:00",
-  "story_count": 88,
+  "last_updated": "2026-11-09T21:21:34.165432+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
+      "published_date": "2026-11-09T18:48:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran waiting to resume talks after US midterms ‘shock’",
       "source": "Al Jazeera",
@@ -137,11 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Who is Kenya’s starvation cult leader?",
+      "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss",
-      "published_date": "2026-11-06T13:43:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
+      "published_date": "2026-11-09T21:04:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly explosion at Iron and steel plant in Turkiye",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+      "published_date": "2026-11-09T20:19:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Explosion at Turkish steel plant kills at least 16 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+      "published_date": "2026-11-09T19:58:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+      "published_date": "2026-11-09T19:56:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US agencies unite to combat rogue drone threats nationwide",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+      "published_date": "2026-11-09T19:07:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
+      "published_date": "2026-11-09T18:21:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krakow shooting suspect dies as Poland mourns six victims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss",
+      "published_date": "2026-11-09T18:12:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia: Mogadishu’s Daynile district gripped by deadly clashes amid forced evictions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-daynile-deadly-clashes-forced-evictions/",
+      "published_date": "2026-11-09T18:03:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
+      "published_date": "2026-11-09T17:55:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mucaaradka oo dowladda ku eedeeyay inay afgambi ciidan xilka uga tuurtay Guddoomiyihii Maxkamadda Sare",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/mucaaradka-oo-dowladda-ku-eedeeyay-inay-afgambi-ciidan-xilka-uga-tuurtay-guddoomiyihii-maxkamadda-sare/",
+      "published_date": "2026-11-09T06:16:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
@@ -211,76 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
       "published_date": "2026-11-08T12:40:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-      "published_date": "2026-11-08T11:34:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After rebel offensive, efforts to push them back appear to have stalled",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
-      "published_date": "2026-11-08T10:28:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-      "published_date": "2026-11-08T09:30:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Floods in Gaza leave tens of thousands without shelter",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
-      "published_date": "2026-11-08T09:28:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia, Italy Discuss Military Training Cooperation During Mogadishu Meeting",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-italy-discuss-military-training-cooperation-during-mogadishu-meeting/",
-      "published_date": "2026-11-08T06:27:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
-      "published_date": "2026-11-08T00:50:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
-      "published_date": "2026-11-08T00:00:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police clash with protesters as anti-government rallies sweep France",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
-      "published_date": "2026-11-07T21:24:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is behind Europe’s suspected hybrid attacks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-      "published_date": "2026-11-07T20:48:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-      "published_date": "2026-11-07T20:44:34+00:00",
       "category": "Military"
     },
     {
@@ -354,11 +354,18 @@
       "category": "Energy"
     },
     {
-      "title": "US petrol prices dip ahead of midterms as voters eye costs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
-      "published_date": "2026-11-02T18:32:30+00:00",
-      "category": "Energy"
+      "title": "Tabaarak ICT’s Regional Award Marks Major Milestone for Somalia’s Technology Industry",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/tabaarak-icts-regional-award-marks-major-milestone-for-somalias-technology-industry/",
+      "published_date": "2026-11-09T08:38:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somalia, Libya Discuss Expanding Trade and Livestock Exports",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-libya-discuss-expanding-trade-and-livestock-exports/",
+      "published_date": "2026-11-09T06:29:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why Trump joked about having Dana White as his White House press secretary",
@@ -466,18 +473,67 @@
       "category": "Economy"
     },
     {
-      "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
-      "published_date": "2026-11-02T20:38:04+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
+      "published_date": "2026-11-09T19:07:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lobster industry caught in Maine’s political headwinds before US midterms",
+      "title": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/2/lobster-industry-caught-in-maines-political-headwinds-before-midterms?traffic_source=rss",
-      "published_date": "2026-11-02T15:54:53+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
+      "published_date": "2026-11-09T18:50:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France accelerates minimum wage hike in bid to quell protest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
+      "published_date": "2026-11-09T17:46:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo magacaabis sameeyay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/09/madaxweyne-deni-oo-magacaabis-sameeyay-8/",
+      "published_date": "2026-11-09T17:14:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
+      "published_date": "2026-11-09T16:18:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madaxweyne Deni oo kulan la yeeshay guddoonka baarlamaanka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/09/madaxweyne-deni-oo-kulan-la-yeeshay-guddoonka-baarlamaanka/",
+      "published_date": "2026-11-09T15:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somaliland oo abaalmarisay askari qabtay oo wareejiyay nin walaalkiis dilay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/09/somaliland-oo-abaalmarisay-askari-qabtay-oo-wareejiyay-nin-walaalkiis-dilay/",
+      "published_date": "2026-11-09T12:04:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Opposition Accuses President of Using Force to Seize Supreme Court",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-opposition-accuses-president-of-using-force-to-seize-supreme-court/",
+      "published_date": "2026-11-09T06:32:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Interior Ministry Reviews 2026 Progress, Begins Preparations for 2027",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-interior-ministry-reviews-2026-progress-begins-preparations-for-2027/",
+      "published_date": "2026-11-09T06:30:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mexican mayor found alive after hours-long abduction",
@@ -554,69 +610,6 @@
       "source": "Puntland Post",
       "url": "https://puntlandpost.net/2026/11/08/wasiir-qarjab-oo-diiday-xilka-qaadis-lagu-sameeyay-guddoomiyaha-degmada-banderbayla/",
       "published_date": "2026-11-08T08:54:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
-      "published_date": "2026-11-08T01:37:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
-      "published_date": "2026-11-07T19:24:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia chief justice says president threatens his security after court ruling",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-chief-justice-president-security-threat-court-ruling/",
-      "published_date": "2026-11-07T16:40:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ousted Supreme Court Chief Accuses Somali President of Unlawful Removal",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ousted-supreme-court-chief-accuses-somali-president-of-unlawful-removal/",
-      "published_date": "2026-11-07T14:33:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Somaliland’s Colonial Borders Claim Fails the African Union Test",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/07/why-somalilands-colonial-borders-claim-fails-the-african-union-test/",
-      "published_date": "2026-11-07T14:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rains flood displacement camps across Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
-      "published_date": "2026-11-07T13:04:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal’s fight to rebuild after flood disaster",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss",
-      "published_date": "2026-11-07T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rains flood 70,000 displaced families’ tents in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
-      "published_date": "2026-11-07T11:10:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hawadle clan chief issues sweeping call to arms against impending federal offensive in central Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/hawadle-clan-chief-call-to-arms-federal-offensive-central-somalia/",
-      "published_date": "2026-11-07T10:06:19+00:00",
       "category": "Local Events"
     }
   ]
