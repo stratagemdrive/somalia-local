@@ -1,8 +1,15 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-08T16:58:34.899035+00:00",
-  "story_count": 87,
+  "last_updated": "2026-11-09T02:20:44.505581+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Iran waiting to resume talks after US midterms ‘shock’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "published_date": "2026-11-08T20:51:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
       "source": "Al Jazeera",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
-      "published_date": "2026-11-06T12:57:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "published_date": "2026-11-09T01:19:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "published_date": "2026-11-09T00:00:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "published_date": "2026-11-08T20:13:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Golaha Mustaqbalka oo war ka soo saaray xaaladda dalka",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/08/golaha-mustaqbalka-oo-war-ka-soo-saaray-xaaladda-dalka/",
+      "published_date": "2026-11-08T20:05:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia: Senior NISA commander defects to Al-Shabaab, raising fears of intelligence breach",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-nisa-commander-defects-to-al-shabaab/",
+      "published_date": "2026-11-08T18:28:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three Reportedly Killed as Government Demolishes Homes in Mogadishu.",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/three-reportedly-killed-as-government-demolishes-homes-in-mogadishu/",
+      "published_date": "2026-11-08T18:27:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Four killed, 88 injured in train collision in Egypt",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-      "published_date": "2026-11-07T20:10:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Masked protesters set off firecrackers and block roads in Albania",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
-      "published_date": "2026-11-07T19:49:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Government Criticized Over Treatment of Soldiers Killed in Jameo Battle",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-government-criticized-over-treatment-of-soldiers-killed-in-jameo-battle/",
-      "published_date": "2026-11-07T19:15:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
-      "published_date": "2026-11-07T19:10:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-      "published_date": "2026-11-07T19:06:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houston mayor orders police to limit cooperation with ICE",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
-      "published_date": "2026-11-07T18:55:40+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
@@ -359,6 +359,20 @@
       "url": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
       "published_date": "2026-11-02T18:32:30+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Why Trump joked about having Dana White as his White House press secretary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "published_date": "2026-11-08T22:03:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "published_date": "2026-11-08T17:44:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "Paraguay’s ousted president charged over banking scandal",
@@ -466,11 +480,32 @@
       "category": "Economy"
     },
     {
-      "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
+      "title": "Mexican mayor found alive after hours-long abduction",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
-      "published_date": "2026-11-02T01:31:21+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+      "published_date": "2026-11-08T23:55:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+      "published_date": "2026-11-08T23:39:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly sand cliff collapses on displaced families in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+      "published_date": "2026-11-08T21:05:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+      "published_date": "2026-11-08T18:01:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Somalia Future Council welcomes supreme court ruling on president’s term extension",
@@ -582,34 +617,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/hawadle-clan-chief-call-to-arms-federal-offensive-central-somalia/",
       "published_date": "2026-11-07T10:06:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puntland: Maleeshiyo beeleed la wareegtay suuq ku yaalla Gaalkacyo",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/07/puntland-maleeshiyo-beeleed-la-wareegtay-suuq-ku-yaalla-gaalkacyo/",
-      "published_date": "2026-11-07T06:58:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ugaaska Xawaadle: Hiiraan waxaa duulaan ku soo ah reer magac dowlaleed sheegta",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/07/ugaaska-xawaadle-hiiraan-waxaa-duulaan-ku-soo-ah-reer-magac-dowlaleed-sheegta/",
-      "published_date": "2026-11-07T01:40:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU prosecutor office investigates fatal train crash in Spain",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
-      "published_date": "2026-11-07T01:33:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could Trump’s veto stop the Democratic majority?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
-      "published_date": "2026-11-06T19:18:33+00:00",
       "category": "Local Events"
     }
   ]
