@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-09T21:21:34.165432+00:00",
-  "story_count": 87,
+  "last_updated": "2026-11-10T04:28:35.339849+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "France blames Iran for October supermarket cyberattack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+      "published_date": "2026-11-10T01:01:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+      "published_date": "2026-11-10T01:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+      "published_date": "2026-11-09T23:55:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+      "published_date": "2026-11-09T22:31:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar PM meets with Trump for talks on ending war on Iran",
       "source": "Al Jazeera",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-      "published_date": "2026-11-07T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
+      "published_date": "2026-11-10T03:17:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "US urges China to honour Busan trade deal commitments",
+      "title": "Newly-elected Democrats react to Hegseth impeachment bid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
-      "published_date": "2026-11-06T23:00:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss",
+      "published_date": "2026-11-10T03:16:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
+      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
-      "published_date": "2026-11-06T16:10:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
+      "published_date": "2026-11-10T02:45:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
+      "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
-      "published_date": "2026-11-06T13:49:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+      "published_date": "2026-11-10T01:56:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+      "published_date": "2026-11-09T23:53:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
+      "published_date": "2026-11-09T23:47:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
+      "published_date": "2026-11-09T22:13:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia reports new attack on key East-West pipeline",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+      "published_date": "2026-11-09T22:10:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "title": "COP31 opens amid energy crisis as activists demand climate action",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-      "published_date": "2026-11-08T20:13:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Golaha Mustaqbalka oo war ka soo saaray xaaladda dalka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/08/golaha-mustaqbalka-oo-war-ka-soo-saaray-xaaladda-dalka/",
-      "published_date": "2026-11-08T20:05:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Senior NISA commander defects to Al-Shabaab, raising fears of intelligence breach",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-nisa-commander-defects-to-al-shabaab/",
-      "published_date": "2026-11-08T18:28:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three Reportedly Killed as Government Demolishes Homes in Mogadishu.",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/three-reportedly-killed-as-government-demolishes-homes-in-mogadishu/",
-      "published_date": "2026-11-08T18:27:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four killed, 88 injured in train collision in Egypt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
-      "published_date": "2026-11-08T16:31:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-      "published_date": "2026-11-08T14:06:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 21 dead as small boat sinks off Senegal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-      "published_date": "2026-11-08T13:32:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-      "published_date": "2026-11-08T12:40:12+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+      "published_date": "2026-11-09T21:18:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
@@ -459,18 +466,32 @@
       "category": "Economy"
     },
     {
-      "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+      "title": "Cameroon sets date for twice-delayed legislative and local elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
-      "published_date": "2026-11-03T01:17:57+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+      "published_date": "2026-11-10T02:03:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+      "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
-      "published_date": "2026-11-02T22:40:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+      "published_date": "2026-11-10T01:59:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+      "published_date": "2026-11-10T00:57:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+      "published_date": "2026-11-09T23:15:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
@@ -582,34 +603,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somalias-president-offers-hirshabelle-capital-to-hiiraan-amid-political-tensions/",
       "published_date": "2026-11-08T15:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could Iraq’s Kurdish region return to two separate administrations?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-      "published_date": "2026-11-08T13:06:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa’s ANC suffers setback in local elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
-      "published_date": "2026-11-08T12:19:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caasimadda Hirshabeelle oo loo wareejinayo Beledweyne",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/08/caasimadda-hirshabeelle-oo-loo-wareejinayo-beledweyne/",
-      "published_date": "2026-11-08T11:40:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wasiir Qarjab oo diiday xilka qaadis lagu sameeyay guddoomiyaha degmada Banderbayla",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/08/wasiir-qarjab-oo-diiday-xilka-qaadis-lagu-sameeyay-guddoomiyaha-degmada-banderbayla/",
-      "published_date": "2026-11-08T08:54:48+00:00",
       "category": "Local Events"
     }
   ]
