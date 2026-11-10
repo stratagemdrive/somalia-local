@@ -1,8 +1,78 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-10T04:28:35.339849+00:00",
-  "story_count": 86,
+  "last_updated": "2026-11-10T18:32:49.759011+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "Myanmar summons German envoy over controversial video",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video?traffic_source=rss",
+      "published_date": "2026-11-10T18:03:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
+      "published_date": "2026-11-10T17:35:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Women backs NUSOJ-led nationwide consultations on Somalia’s accession to CEDAW",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-women-backs-nusoj-led-nationwide-consultations-on-somalias-accession-to-cedaw/",
+      "published_date": "2026-11-10T17:05:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
+      "published_date": "2026-11-10T16:39:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+      "published_date": "2026-11-10T15:18:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algeria Increases Scholarships for Somali Students to 100 as Diplomatic Ties Deepen",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/algeria-increases-scholarships-for-somali-students-to-100-as-diplomatic-ties-deepen/",
+      "published_date": "2026-11-10T14:54:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Sends Condolences to Egypt After Deadly Train Accident in Giza",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-sends-condolences-to-egypt-after-deadly-train-accident-in-giza/",
+      "published_date": "2026-11-10T14:53:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IGAD, Germany Renew 30-Year Partnership to Advance Peace and Development in Horn of Africa",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/igad-germany-renew-30-year-partnership-to-advance-peace-and-development-in-horn-of-africa/",
+      "published_date": "2026-11-10T14:51:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
+      "published_date": "2026-11-10T14:03:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions?traffic_source=rss",
+      "published_date": "2026-11-10T14:01:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France blames Iran for October supermarket cyberattack",
       "source": "Al Jazeera",
@@ -74,74 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Information Minister Calls for Responsible AI Use in Media at Beijing Summit",
+      "title": "US petrol prices are down, but elevated inflation continues",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
+      "published_date": "2026-11-10T17:40:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security forces seized top court, Somalia’s ex-chief justice says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss",
+      "published_date": "2026-11-10T17:02:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 12 people killed in Bulgaria motorway pile-up",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
+      "published_date": "2026-11-10T16:20:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eight killed in Al-Shabaab attack near Kenya-Somalia border",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/eight-killed-suspected-al-shabaab-attack-kenya-somalia-border/",
+      "published_date": "2026-11-10T16:06:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+      "published_date": "2026-11-10T15:49:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
+      "published_date": "2026-11-10T15:36:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali Danab Commandos Launch Security Operations in Middle Shabelle Against Al-Shabaab Extortion",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-information-minister-calls-for-responsible-ai-use-in-media-at-beijing-summit/",
-      "published_date": "2026-11-08T06:26:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-danab-commandos-launch-security-operations-in-middle-shabelle-against-al-shabaab-extortion/",
+      "published_date": "2026-11-10T14:56:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+      "title": "Hegseth promises to defend ‘warriors’ as he faces impeachment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
-      "published_date": "2026-11-07T23:45:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment?traffic_source=rss",
+      "published_date": "2026-11-10T14:02:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-      "published_date": "2026-11-07T20:26:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former Chief Justice Accuses President Hassan Sheikh of Interfering with the Courts",
+      "title": "Reported Defection of a NISA Officer to Al-Shabaab Raises Security Concerns in Somalia",
       "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/former-chief-justice-accuses-president-hassan-sheikh-of-interfering-with-the-courts/",
-      "published_date": "2026-11-07T18:37:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AU, EU warn Somalia’s security gains at risk over AUSSOM funding",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/au-eu-warn-somalias-security-gains-at-risk-over-aussom-funding/",
-      "published_date": "2026-11-07T15:40:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-      "published_date": "2026-11-07T14:24:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New Zealand’s prime minister says election is ‘too close to call’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
-      "published_date": "2026-11-07T14:03:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
-      "published_date": "2026-11-07T12:29:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somali Foreign Minister Arrives in Tripoli for CEN-SAD Executive Council Summit",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-foreign-minister-arrives-in-tripoli-for-cen-sad-executive-council-summit/",
-      "published_date": "2026-11-07T12:23:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK tightens Kenya travel guidance over Moyale border clashes",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/uk-tightens-kenya-travel-guidance-over-moyale-border-clashes/",
-      "published_date": "2026-11-07T12:22:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.somalidispatch.com/latest-news/reported-defection-of-a-nisa-officer-to-al-shabaab-raises-security-concerns-in-somalia/",
+      "published_date": "2026-11-10T05:08:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
@@ -221,69 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
-      "published_date": "2026-11-09T19:56:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US agencies unite to combat rogue drone threats nationwide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
-      "published_date": "2026-11-09T19:07:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
-      "published_date": "2026-11-09T18:21:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Krakow shooting suspect dies as Poland mourns six victims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss",
-      "published_date": "2026-11-09T18:12:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: Mogadishu’s Daynile district gripped by deadly clashes amid forced evictions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-daynile-deadly-clashes-forced-evictions/",
-      "published_date": "2026-11-09T18:03:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
-      "published_date": "2026-11-09T17:55:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mucaaradka oo dowladda ku eedeeyay inay afgambi ciidan xilka uga tuurtay Guddoomiyihii Maxkamadda Sare",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/mucaaradka-oo-dowladda-ku-eedeeyay-inay-afgambi-ciidan-xilka-uga-tuurtay-guddoomiyihii-maxkamadda-sare/",
-      "published_date": "2026-11-09T06:16:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
-      "published_date": "2026-11-09T01:19:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
-      "published_date": "2026-11-09T00:00:34+00:00",
-      "category": "Military"
-    },
-    {
       "title": "COP31 opens amid energy crisis as activists demand climate action",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
@@ -347,18 +347,11 @@
       "category": "Energy"
     },
     {
-      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+      "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
-      "published_date": "2026-11-03T17:22:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-      "published_date": "2026-11-03T15:47:34+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
+      "published_date": "2026-11-10T15:21:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tabaarak ICT’s Regional Award Marks Major Milestone for Somalia’s Technology Industry",
@@ -459,11 +452,53 @@
       "category": "Economy"
     },
     {
-      "title": "Global food security is under threat",
+      "title": "Freedom House Report Highlights Political Gap Between Somaliland and Somalia",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/freedom-house-report-highlights-political-gap-between-somaliland-and-somalia/",
+      "published_date": "2026-11-10T18:28:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia army faces waves of desertions as soldiers abandon frontlines following clan leader’s call",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-army-desertions-hawadle-soldiers-abandon-frontlines/",
+      "published_date": "2026-11-10T18:20:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain braces for nationwide strike as anger over housing, costs boils over",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
-      "published_date": "2026-11-03T14:58:10+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss",
+      "published_date": "2026-11-10T18:07:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli president warns against repeat election in new Knesset session",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
+      "published_date": "2026-11-10T17:16:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mongolia’s Iron Winter: A Race to Save an Ancient Tradition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/witness/2026/11/10/mongolias-iron-winter-a-race-to-save-an-ancient-tradition?traffic_source=rss",
+      "published_date": "2026-11-10T14:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Airstrikes Target Islamic State Positions in Somalia’s Puntland Region",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/us-airstrikes-target-islamic-state-positions-in-somalias-puntland-region/",
+      "published_date": "2026-11-10T08:41:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somali Future Council Accuses President Hassan Sheikh of Interfering with the Supreme Court",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somali-future-council-accuses-president-hassan-sheikh-of-interfering-with-the-supreme-court/",
+      "published_date": "2026-11-10T04:46:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Cameroon sets date for twice-delayed legislative and local elections",
@@ -554,55 +589,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/somali-interior-ministry-reviews-2026-progress-begins-preparations-for-2027/",
       "published_date": "2026-11-09T06:30:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexican mayor found alive after hours-long abduction",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-      "published_date": "2026-11-08T23:55:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
-      "published_date": "2026-11-08T23:39:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly sand cliff collapses on displaced families in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
-      "published_date": "2026-11-08T21:05:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
-      "published_date": "2026-11-08T18:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia Future Council welcomes supreme court ruling on president’s term extension",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-supreme-court-ruling-president-term-extension/",
-      "published_date": "2026-11-08T16:54:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Xasan Sheekh oo Hiiraan u ballanqaaday Caasimadda HirShabeelle, xilli xiisad siyaasadeed ka taagan tahay Beledweyne",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xasan-sheekh-oo-hiiraan-u-ballanqaaday-caasimadda-hirshabeelle-xilli-xiisad-siyaasadeed-ka-taagan-tahay-beledweyne/",
-      "published_date": "2026-11-08T15:01:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia’s President Offers HirShabelle Capital to Hiiraan Amid Political Tensions",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalias-president-offers-hirshabelle-capital-to-hiiraan-amid-political-tensions/",
-      "published_date": "2026-11-08T15:00:22+00:00",
       "category": "Local Events"
     }
   ]
