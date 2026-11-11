@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-10T18:32:49.759011+00:00",
-  "story_count": 84,
+  "last_updated": "2026-11-11T02:29:40.600273+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks?traffic_source=rss",
+      "published_date": "2026-11-11T00:24:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+      "published_date": "2026-11-10T20:23:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Myanmar summons German envoy over controversial video",
       "source": "Al Jazeera",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
+      "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
-      "published_date": "2026-11-08T14:02:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+      "published_date": "2026-11-11T01:44:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+      "title": "Republicans block Hegseth impeachment motion",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "published_date": "2026-11-08T13:27:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
+      "published_date": "2026-11-11T01:43:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+      "published_date": "2026-11-11T01:11:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+      "published_date": "2026-11-11T00:01:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US House Republicans block Pete Hegseth impeachment effort",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+      "published_date": "2026-11-10T22:36:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US soldier arrested in UK on suspicion of spying for Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+      "published_date": "2026-11-10T20:41:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
+      "published_date": "2026-11-10T20:22:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
+      "published_date": "2026-11-10T20:07:01+00:00",
+      "category": "Military"
     },
     {
       "title": "US petrol prices are down, but elevated inflation continues",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+      "title": "Fire contained on platform in Iran’s South Pars gas field",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
-      "published_date": "2026-11-10T01:56:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
-      "published_date": "2026-11-09T23:53:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
-      "published_date": "2026-11-09T23:47:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
-      "published_date": "2026-11-09T22:13:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia reports new attack on key East-West pipeline",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-      "published_date": "2026-11-09T22:10:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
-      "published_date": "2026-11-09T21:04:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly explosion at Iron and steel plant in Turkiye",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
-      "published_date": "2026-11-09T20:19:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosion at Turkish steel plant kills at least 16 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
-      "published_date": "2026-11-09T19:58:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+      "published_date": "2026-11-10T23:38:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "COP31 opens amid energy crisis as activists demand climate action",
@@ -345,6 +352,27 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
       "published_date": "2026-11-05T00:39:18+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Massive fire as Israeli settlers burn down business near Nablus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+      "published_date": "2026-11-10T23:33:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "F1 champion Lewis Hamilton visits Gaza border",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+      "published_date": "2026-11-10T20:14:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump administration seeks to cut food aid for more than six million people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
+      "published_date": "2026-11-10T20:00:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
@@ -445,11 +473,32 @@
       "category": "Economy"
     },
     {
-      "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
+      "title": "Spain holds state funeral for 69 victims of deadly train crash",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
-      "published_date": "2026-11-03T20:00:30+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
+      "published_date": "2026-11-11T00:42:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNIFIL patrol comes under fire in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-11-10T22:03:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "White House announces funds for law enforcement programme in several cities",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+      "published_date": "2026-11-10T21:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+      "published_date": "2026-11-10T20:39:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Freedom House Report Highlights Political Gap Between Somaliland and Somalia",
@@ -561,34 +610,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
       "published_date": "2026-11-09T16:18:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo kulan la yeeshay guddoonka baarlamaanka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/09/madaxweyne-deni-oo-kulan-la-yeeshay-guddoonka-baarlamaanka/",
-      "published_date": "2026-11-09T15:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somaliland oo abaalmarisay askari qabtay oo wareejiyay nin walaalkiis dilay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/09/somaliland-oo-abaalmarisay-askari-qabtay-oo-wareejiyay-nin-walaalkiis-dilay/",
-      "published_date": "2026-11-09T12:04:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Opposition Accuses President of Using Force to Seize Supreme Court",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-opposition-accuses-president-of-using-force-to-seize-supreme-court/",
-      "published_date": "2026-11-09T06:32:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Interior Ministry Reviews 2026 Progress, Begins Preparations for 2027",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-interior-ministry-reviews-2026-progress-begins-preparations-for-2027/",
-      "published_date": "2026-11-09T06:30:38+00:00",
       "category": "Local Events"
     }
   ]
