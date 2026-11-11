@@ -1,8 +1,43 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-11T02:29:40.600273+00:00",
-  "story_count": 87,
+  "last_updated": "2026-11-11T18:30:06.860686+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
+      "published_date": "2026-11-11T18:13:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya discharges last Ebola patient, awaits disease-free status",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss",
+      "published_date": "2026-11-11T15:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss",
+      "published_date": "2026-11-11T14:58:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Justice Minister Arrives in Algeria for Arab Justice Ministers’ Conference",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-justice-minister-arrives-in-algeria-for-arab-justice-ministers-conference/",
+      "published_date": "2026-11-11T12:39:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Repatriates 171 Citizens Stranded in Libya, Pledges Medical Support",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-repatriates-171-citizens-stranded-in-libya-pledges-medical-support/",
+      "published_date": "2026-11-11T10:26:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
       "source": "Al Jazeera",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-      "published_date": "2026-11-09T22:31:19+00:00",
-      "category": "Diplomacy"
+      "title": "Somalia: US confirms troop exit from Baledogle airfield over runway repair costs",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-confirms-troop-exit-baledogle-airfield-runway-costs/",
+      "published_date": "2026-11-11T18:21:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+      "title": "Tens of thousands join Poland’s nationalist Independence Day march",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
-      "published_date": "2026-11-09T18:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
+      "published_date": "2026-11-11T17:38:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran waiting to resume talks after US midterms ‘shock’",
+      "title": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
-      "published_date": "2026-11-08T20:51:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
+      "published_date": "2026-11-11T16:48:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
-      "published_date": "2026-11-08T15:47:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former Somali Prime Minister Condemns Civilian Killings During Mogadishu Evictions",
+      "title": "Kenya allegedly hosts Al-Shabab figures amid deadly cross-border attacks",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-prime-minister-condemns-civilian-killings-during-mogadishu-evictions/",
-      "published_date": "2026-11-08T14:55:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/kenya-allegedly-hosts-al-shabab-figures-amid-deadly-cross-border-attacks/",
+      "published_date": "2026-11-11T16:11:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
+      "published_date": "2026-11-11T15:48:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
+      "published_date": "2026-11-11T15:33:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
+      "published_date": "2026-11-11T14:10:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Schools across Italy evacuated after receiving email bomb alerts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
+      "published_date": "2026-11-11T13:18:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Cites Deteriorating Runway for Withdrawal From Somalia’s Baledogle Air Base",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/us-cites-deteriorating-runway-for-withdrawal-from-somalias-baledogle-air-base/",
+      "published_date": "2026-11-11T10:21:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Maraykanka oo ka baxay Ballidoogle",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/11/maraykanka-oo-ka-baxay-ballidoogle/",
+      "published_date": "2026-11-11T08:34:33+00:00",
+      "category": "Military"
     },
     {
       "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "At least 12 people killed in Bulgaria motorway pile-up",
+      "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
-      "published_date": "2026-11-10T16:20:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eight killed in Al-Shabaab attack near Kenya-Somalia border",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/eight-killed-suspected-al-shabaab-attack-kenya-somalia-border/",
-      "published_date": "2026-11-10T16:06:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-      "published_date": "2026-11-10T15:49:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
-      "published_date": "2026-11-10T15:36:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali Danab Commandos Launch Security Operations in Middle Shabelle Against Al-Shabaab Extortion",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-danab-commandos-launch-security-operations-in-middle-shabelle-against-al-shabaab-extortion/",
-      "published_date": "2026-11-10T14:56:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth promises to defend ‘warriors’ as he faces impeachment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment?traffic_source=rss",
-      "published_date": "2026-11-10T14:02:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Reported Defection of a NISA Officer to Al-Shabaab Raises Security Concerns in Somalia",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/reported-defection-of-a-nisa-officer-to-al-shabaab-raises-security-concerns-in-somalia/",
-      "published_date": "2026-11-10T05:08:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-      "published_date": "2026-11-10T03:17:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Newly-elected Democrats react to Hegseth impeachment bid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss",
-      "published_date": "2026-11-10T03:16:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
-      "published_date": "2026-11-10T02:45:14+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+      "published_date": "2026-11-11T15:40:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fire contained on platform in Iran’s South Pars gas field",
@@ -352,6 +359,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
       "published_date": "2026-11-05T00:39:18+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Somalia, IOM Discuss Aligning Development Projects With National Transformation Plan",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-iom-discuss-aligning-development-projects-with-national-transformation-plan/",
+      "published_date": "2026-11-11T12:38:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Massive fire as Israeli settlers burn down business near Nablus",
@@ -452,25 +466,53 @@
       "category": "Economy"
     },
     {
-      "title": "Danish students join European protest wave against education funding cuts",
+      "title": "Spain faces nationwide protests over soaring housing costs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
-      "published_date": "2026-11-04T17:54:48+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-faces-nationwide-protests-over-soaring-housing-costs?traffic_source=rss",
+      "published_date": "2026-11-11T17:49:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Southwest State Cabinet Reviews Security and Five-Year Development Plan",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/southwest-state-cabinet-reviews-security-and-five-year-development-plan/",
-      "published_date": "2026-11-04T13:55:11+00:00",
-      "category": "Economy"
+      "title": "Can Democrats shed some new light on the Epstein files when they take over?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/can-democrats-shed-some-new-light-on-the-epstein-files-when-they-take-over?traffic_source=rss",
+      "published_date": "2026-11-11T17:44:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somali Parliamentary Speaker Visits Djibouti’s Major Ports and Trade Facilities",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-parliamentary-speaker-visits-djiboutis-major-ports-and-trade-facilities/",
-      "published_date": "2026-11-04T13:52:56+00:00",
-      "category": "Economy"
+      "title": "John Thune re-elected as US Senate Republican leader after midterm losses",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss",
+      "published_date": "2026-11-11T17:08:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss",
+      "published_date": "2026-11-11T16:20:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside the fight against Denmark’s ‘straight up racist’ housing law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/11/they-see-me-as-non-western-top-court-to-rule-on-denmarks-housing-law?traffic_source=rss",
+      "published_date": "2026-11-11T15:15:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cruz says Somalia ambassador confirmation depends on Somaliland recognition",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/cruz-somalia-ambassador-somaliland-recognition/",
+      "published_date": "2026-11-11T11:22:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qayladhaanta Siyaasadeed ee Xildhibaan Taakilo iyo Cabdirisaaq Xagaa",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/11/qayladhaanta-siyaasadeed-ee-xildhibaan-taakilo-iyo-cabdirisaaq-xagaa/",
+      "published_date": "2026-11-11T10:09:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spain holds state funeral for 69 victims of deadly train crash",
@@ -561,55 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
       "published_date": "2026-11-10T01:59:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
-      "published_date": "2026-11-10T00:57:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
-      "published_date": "2026-11-09T23:15:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
-      "published_date": "2026-11-09T19:07:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
-      "published_date": "2026-11-09T18:50:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France accelerates minimum wage hike in bid to quell protest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
-      "published_date": "2026-11-09T17:46:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madaxweyne Deni oo magacaabis sameeyay",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/09/madaxweyne-deni-oo-magacaabis-sameeyay-8/",
-      "published_date": "2026-11-09T17:14:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
-      "published_date": "2026-11-09T16:18:28+00:00",
       "category": "Local Events"
     }
   ]
