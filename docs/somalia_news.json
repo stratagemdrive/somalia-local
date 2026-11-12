@@ -1,8 +1,29 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-11T18:30:06.860686+00:00",
-  "story_count": 86,
+  "last_updated": "2026-11-12T03:34:19.480529+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Israeli strikes hit medical complex as nine killed across Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+      "published_date": "2026-11-11T22:55:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ted Cruz Renews US Support for Somaliland’s Recognition Bid",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/ted-cruz-renews-us-support-for-somalilands-recognition-bid/",
+      "published_date": "2026-11-11T19:42:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia’s Chief Justice and Six Judges Reportedly Take the President to Regional Court",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/somalias-chief-justice-and-six-judges-reportedly-take-the-president-to-regional-court/",
+      "published_date": "2026-11-11T19:10:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
       "source": "Al Jazeera",
@@ -123,25 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France blames Iran for October supermarket cyberattack",
+      "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
-      "published_date": "2026-11-10T01:01:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+      "published_date": "2026-11-12T01:20:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-      "published_date": "2026-11-10T01:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+      "published_date": "2026-11-12T00:42:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+      "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-      "published_date": "2026-11-09T23:55:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+      "published_date": "2026-11-12T00:18:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+      "published_date": "2026-11-12T00:00:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Barcelona erupts in violence after general strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
+      "published_date": "2026-11-11T23:50:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+      "published_date": "2026-11-11T22:34:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+      "published_date": "2026-11-11T21:03:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
+      "published_date": "2026-11-11T21:01:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil production nears pre-Iran war levels, OPEC says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
+      "published_date": "2026-11-11T20:45:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza goalkeeper killed in Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
+      "published_date": "2026-11-11T20:44:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
+      "published_date": "2026-11-11T20:39:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents?traffic_source=rss",
+      "published_date": "2026-11-11T20:33:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Somalia: US confirms troop exit from Baledogle airfield over runway repair costs",
@@ -197,90 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
       "published_date": "2026-11-11T13:18:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Cites Deteriorating Runway for Withdrawal From Somalia’s Baledogle Air Base",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-cites-deteriorating-runway-for-withdrawal-from-somalias-baledogle-air-base/",
-      "published_date": "2026-11-11T10:21:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maraykanka oo ka baxay Ballidoogle",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/11/maraykanka-oo-ka-baxay-ballidoogle/",
-      "published_date": "2026-11-11T08:34:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
-      "published_date": "2026-11-11T01:44:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Republicans block Hegseth impeachment motion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
-      "published_date": "2026-11-11T01:43:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
-      "published_date": "2026-11-11T01:11:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
-      "published_date": "2026-11-11T00:01:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US House Republicans block Pete Hegseth impeachment effort",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-      "published_date": "2026-11-10T22:36:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US soldier arrested in UK on suspicion of spying for Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-      "published_date": "2026-11-10T20:41:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
-      "published_date": "2026-11-10T20:22:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-      "published_date": "2026-11-10T20:07:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US petrol prices are down, but elevated inflation continues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
-      "published_date": "2026-11-10T17:40:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security forces seized top court, Somalia’s ex-chief justice says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss",
-      "published_date": "2026-11-10T17:02:23+00:00",
       "category": "Military"
     },
     {
@@ -351,13 +351,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
       "published_date": "2026-11-06T02:03:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Africa’s richest man launches mega oil tank farm in Namibia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
-      "published_date": "2026-11-05T00:39:18+00:00",
       "category": "Energy"
     },
     {
@@ -464,6 +457,27 @@
       "url": "https://shabellemedia.com/somalia-and-indonesia-discuss-expanding-cooperation-in-trade-fisheries-and-maritime-security/",
       "published_date": "2026-11-05T08:43:44+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+      "published_date": "2026-11-12T00:06:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+      "published_date": "2026-11-11T23:05:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
+      "published_date": "2026-11-11T22:10:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spain faces nationwide protests over soaring housing costs",
@@ -582,27 +596,6 @@
       "source": "Shabelle Media",
       "url": "https://shabellemedia.com/us-airstrikes-target-islamic-state-positions-in-somalias-puntland-region/",
       "published_date": "2026-11-10T08:41:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somali Future Council Accuses President Hassan Sheikh of Interfering with the Supreme Court",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somali-future-council-accuses-president-hassan-sheikh-of-interfering-with-the-supreme-court/",
-      "published_date": "2026-11-10T04:46:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cameroon sets date for twice-delayed legislative and local elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
-      "published_date": "2026-11-10T02:03:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
-      "published_date": "2026-11-10T01:59:59+00:00",
       "category": "Local Events"
     }
   ]
