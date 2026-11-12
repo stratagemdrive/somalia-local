@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-12T03:34:19.480529+00:00",
-  "story_count": 85,
+  "last_updated": "2026-11-12T18:45:35.231639+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Somalia launches $12.8 billion climate investment plan in Antalya",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-launches-12-8-billion-climate-investment-plan-in-antalya/",
+      "published_date": "2026-11-12T13:39:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss",
+      "published_date": "2026-11-12T12:57:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hassan Sheikh Holds Talks with UK Foreign Secretary on Somalia’s Security and Humanitarian Situation",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/hassan-sheikh-holds-talks-with-uk-foreign-secretary-on-somalias-security-and-humanitarian-situation/",
+      "published_date": "2026-11-12T08:43:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former Somali President denies joining talks between Somali government and opposition",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/former-somali-president-denies-joining-talks-between-somali-government-and-opposition/",
+      "published_date": "2026-11-12T07:22:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli strikes hit medical complex as nine killed across Gaza",
       "source": "Al Jazeera",
@@ -116,32 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somalia Sends Condolences to Egypt After Deadly Train Accident in Giza",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-sends-condolences-to-egypt-after-deadly-train-accident-in-giza/",
-      "published_date": "2026-11-10T14:53:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IGAD, Germany Renew 30-Year Partnership to Advance Peace and Development in Horn of Africa",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/igad-germany-renew-30-year-partnership-to-advance-peace-and-development-in-horn-of-africa/",
-      "published_date": "2026-11-10T14:51:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
+      "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
-      "published_date": "2026-11-10T14:03:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
+      "published_date": "2026-11-12T18:02:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
+      "title": "Somali clan elder accuses Kenya of sheltering Laftagareen and associates linked to Al-Shabaab",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-clan-elder-accuses-kenya-of-sheltering-laftagareen-and-associates-linked-to-al-shabaab/",
+      "published_date": "2026-11-12T17:00:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey denies plans to send 15,000 troops to Somalia amid security concerns",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-denies-15000-troops-somalia/",
+      "published_date": "2026-11-12T16:28:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions?traffic_source=rss",
-      "published_date": "2026-11-10T14:01:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+      "published_date": "2026-11-12T16:23:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Four people shot in Washington DC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+      "published_date": "2026-11-12T15:42:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK court finds two Iranian men guilty of spying for Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+      "published_date": "2026-11-12T15:15:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
+      "published_date": "2026-11-12T14:27:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+      "published_date": "2026-11-12T14:23:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least five people shot, one killed, in central Washington, DC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
+      "published_date": "2026-11-12T14:19:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Family of killed teen Javits Frimpong calls for justice",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
+      "published_date": "2026-11-12T13:27:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
+      "published_date": "2026-11-12T13:20:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Xisbiga Farmaajo oo beeniyay inuu ka qaybgalay kulankii dowladda iyo mucaaradka",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/xisbiga-farmaajo-oo-beeniyay-inuu-ka-qaybgalay-kulankii-dowladda-iyo-mucaaradka/",
+      "published_date": "2026-11-12T07:21:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Oil production nears pre-Iran war levels, OPEC says",
+      "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-      "published_date": "2026-11-11T20:45:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza goalkeeper killed in Israeli attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
-      "published_date": "2026-11-11T20:44:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-      "published_date": "2026-11-11T20:39:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents?traffic_source=rss",
-      "published_date": "2026-11-11T20:33:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia: US confirms troop exit from Baledogle airfield over runway repair costs",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-confirms-troop-exit-baledogle-airfield-runway-costs/",
-      "published_date": "2026-11-11T18:21:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tens of thousands join Poland’s nationalist Independence Day march",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
-      "published_date": "2026-11-11T17:38:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
-      "published_date": "2026-11-11T16:48:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kenya allegedly hosts Al-Shabab figures amid deadly cross-border attacks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/kenya-allegedly-hosts-al-shabab-figures-amid-deadly-cross-border-attacks/",
-      "published_date": "2026-11-11T16:11:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
-      "published_date": "2026-11-11T15:48:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
-      "published_date": "2026-11-11T15:33:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
-      "published_date": "2026-11-11T14:10:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Schools across Italy evacuated after receiving email bomb alerts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
-      "published_date": "2026-11-11T13:18:36+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+      "published_date": "2026-11-12T16:07:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
@@ -438,25 +445,32 @@
       "category": "Economy"
     },
     {
-      "title": "Photos: Thousands rally in France over rising costs and economic struggles",
+      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
-      "published_date": "2026-11-05T16:07:56+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+      "published_date": "2026-11-12T18:03:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Xiisad ciidan oo weli ka dhex taagan Puntland iyo Federaalka",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/05/xiisad-ciidan-oo-weli-ka-dhex-taagan-puntland-iyo-federaalka/",
-      "published_date": "2026-11-05T14:57:47+00:00",
-      "category": "Economy"
+      "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+      "published_date": "2026-11-12T16:55:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Somalia and Indonesia Discuss Expanding Cooperation in Trade, Fisheries and Maritime Security",
+      "title": "Spain approves housing reforms after nationwide strike over costs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
+      "published_date": "2026-11-12T15:02:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia’s justice minister warns political divisions threaten statehood, calls for national consensus",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-and-indonesia-discuss-expanding-cooperation-in-trade-fisheries-and-maritime-security/",
-      "published_date": "2026-11-05T08:43:44+00:00",
-      "category": "Economy"
+      "url": "https://shabellemedia.com/somalias-justice-minister-warns-political-divisions-threaten-statehood-calls-for-national-consensus/",
+      "published_date": "2026-11-12T07:26:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US election results could be positive for Lebanon, Hezbollah chief says",
@@ -568,34 +582,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-army-desertions-hawadle-soldiers-abandon-frontlines/",
       "published_date": "2026-11-10T18:20:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain braces for nationwide strike as anger over housing, costs boils over",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss",
-      "published_date": "2026-11-10T18:07:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli president warns against repeat election in new Knesset session",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
-      "published_date": "2026-11-10T17:16:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mongolia’s Iron Winter: A Race to Save an Ancient Tradition",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/witness/2026/11/10/mongolias-iron-winter-a-race-to-save-an-ancient-tradition?traffic_source=rss",
-      "published_date": "2026-11-10T14:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Airstrikes Target Islamic State Positions in Somalia’s Puntland Region",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/us-airstrikes-target-islamic-state-positions-in-somalias-puntland-region/",
-      "published_date": "2026-11-10T08:41:06+00:00",
       "category": "Local Events"
     }
   ]
