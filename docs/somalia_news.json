@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-12T18:45:35.231639+00:00",
-  "story_count": 83,
+  "last_updated": "2026-11-13T03:06:20.902031+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+      "published_date": "2026-11-13T01:43:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+      "published_date": "2026-11-12T23:52:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar Under-17 World Cup is on despite US pull out",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
+      "published_date": "2026-11-12T20:15:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+      "published_date": "2026-11-12T20:12:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Somalia launches $12.8 billion climate investment plan in Antalya",
       "source": "Shabelle Media",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN Women backs NUSOJ-led nationwide consultations on Somalia’s accession to CEDAW",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/un-women-backs-nusoj-led-nationwide-consultations-on-somalias-accession-to-cedaw/",
-      "published_date": "2026-11-10T17:05:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+      "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-      "published_date": "2026-11-10T16:39:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+      "published_date": "2026-11-13T02:35:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+      "title": "Trump moots toppling Cuba authorities before leaving office",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
-      "published_date": "2026-11-10T15:18:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
+      "published_date": "2026-11-13T02:33:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Algeria Increases Scholarships for Somali Students to 100 as Diplomatic Ties Deepen",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/algeria-increases-scholarships-for-somali-students-to-100-as-diplomatic-ties-deepen/",
-      "published_date": "2026-11-10T14:54:53+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+      "published_date": "2026-11-13T00:00:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly shooting in Washington DC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+      "published_date": "2026-11-12T21:18:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Barcelona erupts in violence after general strike",
+      "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
-      "published_date": "2026-11-11T23:50:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
+      "published_date": "2026-11-12T20:49:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+      "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
-      "published_date": "2026-11-11T22:34:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-      "published_date": "2026-11-11T21:03:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
-      "published_date": "2026-11-11T21:01:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
+      "published_date": "2026-11-12T20:25:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
@@ -354,11 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "Gaza turns discarded cooking pots into seawalls",
+      "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
-      "published_date": "2026-11-06T02:03:47+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+      "published_date": "2026-11-12T19:56:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US nonprofits sue tech giants to halt AI development",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development?traffic_source=rss",
+      "published_date": "2026-11-12T19:55:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Somalia, IOM Discuss Aligning Development Projects With National Transformation Plan",
@@ -443,6 +464,27 @@
       "url": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
       "published_date": "2026-11-06T18:54:08+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Spanish court suspends far-right group over alleged hate crimes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/spanish-court-suspends-far-right-group-over-alleged-hate-crimes?traffic_source=rss",
+      "published_date": "2026-11-13T02:52:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chris Van Hollen to run for US Senate majority leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
+      "published_date": "2026-11-13T02:42:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian court jails rights lawyer for 12 years on treason charge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+      "published_date": "2026-11-12T23:18:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
@@ -561,27 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
       "published_date": "2026-11-10T21:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu and Eisenkot push for new government after election deadlock",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
-      "published_date": "2026-11-10T20:39:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Freedom House Report Highlights Political Gap Between Somaliland and Somalia",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/freedom-house-report-highlights-political-gap-between-somaliland-and-somalia/",
-      "published_date": "2026-11-10T18:28:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia army faces waves of desertions as soldiers abandon frontlines following clan leader’s call",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-army-desertions-hawadle-soldiers-abandon-frontlines/",
-      "published_date": "2026-11-10T18:20:09+00:00",
       "category": "Local Events"
     }
   ]
