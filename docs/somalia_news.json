@@ -1,8 +1,36 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-13T03:06:20.902031+00:00",
+  "last_updated": "2026-11-13T18:27:34.809521+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Turkiye and Qatar sign mutual defence agreement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+      "published_date": "2026-11-13T15:49:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Experts Condemn Removal of Somalia’s Supreme Court Chief, Demand His Reinstatement",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/un-experts-condemn-removal-of-somalias-supreme-court-chief-demand-his-reinstatement/",
+      "published_date": "2026-11-13T11:19:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia and Egypt Discuss Expanding University Scholarships for Somali Students",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-and-egypt-discuss-expanding-university-scholarships-for-somali-students/",
+      "published_date": "2026-11-13T11:18:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Africa’s Ramaphosa Receives Credentials of New Somali Ambassador",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/south-africas-ramaphosa-receives-credentials-of-new-somali-ambassador/",
+      "published_date": "2026-11-13T11:16:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
       "source": "Al Jazeera",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks?traffic_source=rss",
-      "published_date": "2026-11-11T00:24:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+      "published_date": "2026-11-13T18:09:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
-      "published_date": "2026-11-10T20:23:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+      "published_date": "2026-11-13T16:44:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Myanmar summons German envoy over controversial video",
+      "title": "Sixth victim confirmed in DC condo-related shooting in US, police say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video?traffic_source=rss",
-      "published_date": "2026-11-10T18:03:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/13/sixth-victim-found-in-dc-condo-related-shooting-police-confirm?traffic_source=rss",
+      "published_date": "2026-11-13T16:31:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
-      "published_date": "2026-11-10T17:35:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+      "published_date": "2026-11-13T16:22:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+      "published_date": "2026-11-13T16:01:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+      "published_date": "2026-11-13T15:43:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+      "published_date": "2026-11-13T15:02:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+      "published_date": "2026-11-13T14:16:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
+      "published_date": "2026-11-13T14:15:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+      "published_date": "2026-11-13T11:59:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ciidanka Xoogga Dalka oo Dagaal Culus Al-Shabaab kula Galay Duleedka Leego",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/ciidanka-xoogga-dalka-oo-dagaal-culus-al-shabaab-kula-galay-duleedka-leego/",
+      "published_date": "2026-11-13T11:49:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
@@ -204,83 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
       "published_date": "2026-11-12T15:42:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK court finds two Iranian men guilty of spying for Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
-      "published_date": "2026-11-12T15:15:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
-      "published_date": "2026-11-12T14:27:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
-      "published_date": "2026-11-12T14:23:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least five people shot, one killed, in central Washington, DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-11-12T14:19:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Family of killed teen Javits Frimpong calls for justice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
-      "published_date": "2026-11-12T13:27:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
-      "published_date": "2026-11-12T13:20:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xisbiga Farmaajo oo beeniyay inuu ka qaybgalay kulankii dowladda iyo mucaaradka",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/xisbiga-farmaajo-oo-beeniyay-inuu-ka-qaybgalay-kulankii-dowladda-iyo-mucaaradka/",
-      "published_date": "2026-11-12T07:21:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
-      "published_date": "2026-11-12T01:20:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "published_date": "2026-11-12T00:42:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "published_date": "2026-11-12T00:18:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
-      "published_date": "2026-11-12T00:00:44+00:00",
       "category": "Military"
     },
     {
@@ -354,18 +354,18 @@
       "category": "Energy"
     },
     {
-      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+      "title": "The fight over Canadian steelworker jobs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
-      "published_date": "2026-11-06T16:40:39+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
+      "published_date": "2026-11-13T17:10:43+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
+      "title": "Jerusalem Daily: Baby dies from cold in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss",
-      "published_date": "2026-11-06T15:35:57+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
+      "published_date": "2026-11-13T16:34:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
@@ -464,6 +464,34 @@
       "url": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
       "published_date": "2026-11-06T18:54:08+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "POLITICIANS AND INTELLECTUALS WARN AGAINST AMENDING THE CONSTITUTION OF PUNTLAND STATE OF SOMALIA",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/13/politicians-and-intellectuals-warn-against-amending-the-constitution-of-puntland-state-of-somalia/",
+      "published_date": "2026-11-13T18:12:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+      "published_date": "2026-11-13T18:04:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Siyaasiyiin iyo aqoonyahan ka digay wax ka baddelka dastuurka Puntland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/13/siyaasiyiin-iyo-aqoonyahan-ka-digay-wax-ka-baddelka-dastuurka-puntland/",
+      "published_date": "2026-11-13T13:59:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland oo ciidamo gaysay deegaan ka tirsan Mudug oo xiisad ka jirtay",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/13/puntland-oo-ciidamo-gaysay-deegaan-ka-tirsan-mudug-oo-xiisad-ka-jirtay/",
+      "published_date": "2026-11-13T10:50:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spanish court suspends far-right group over alleged hate crimes",
@@ -575,34 +603,6 @@
       "source": "Somali Guardian",
       "url": "https://www.somaliguardian.com/news/somalia-news/cruz-somalia-ambassador-somaliland-recognition/",
       "published_date": "2026-11-11T11:22:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qayladhaanta Siyaasadeed ee Xildhibaan Taakilo iyo Cabdirisaaq Xagaa",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/11/qayladhaanta-siyaasadeed-ee-xildhibaan-taakilo-iyo-cabdirisaaq-xagaa/",
-      "published_date": "2026-11-11T10:09:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain holds state funeral for 69 victims of deadly train crash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
-      "published_date": "2026-11-11T00:42:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNIFIL patrol comes under fire in southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-11-10T22:03:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "White House announces funds for law enforcement programme in several cities",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
-      "published_date": "2026-11-10T21:00:01+00:00",
       "category": "Local Events"
     }
   ]
