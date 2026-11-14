@@ -1,8 +1,64 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-14T02:53:12.418313+00:00",
+  "last_updated": "2026-11-14T16:54:40.321277+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Somalia election talks called by president Hassan Sheikh fail to start as opposition boycotts",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-election-talks-president-hassan-sheikh-fail-start-opposition-boycott/",
+      "published_date": "2026-11-14T16:19:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU calls for immediate humanitarian access to Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+      "published_date": "2026-11-14T15:57:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+      "published_date": "2026-11-14T13:24:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
+      "published_date": "2026-11-14T12:28:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+      "published_date": "2026-11-14T12:14:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN experts brand Somalia president’s removal of chief justice a direct assault on judicial independence",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/un-experts-somalia-president-chief-justice-judicial-independence/",
+      "published_date": "2026-11-14T06:51:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkish Ambassador Meets Somalia’s Opposition Leader Sharif Sheikh Ahmed Amid Political Tensions",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/turkish-ambassador-meets-somalias-opposition-leader-sharif-sheikh-ahmed-amid-political-tensions/",
+      "published_date": "2026-11-14T06:35:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somalia Calls for Financial Independence and Stronger African Union Peace Fund",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-calls-for-financial-independence-and-stronger-african-union-peace-fund/",
+      "published_date": "2026-11-14T06:34:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar and Turkiye send message of deterrence with new defence pact",
       "source": "Al Jazeera",
@@ -88,60 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hassan Sheikh Holds Talks with UK Foreign Secretary on Somalia’s Security and Humanitarian Situation",
+      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+      "published_date": "2026-11-14T16:13:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
+      "published_date": "2026-11-14T12:57:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Axmed Madoobe oo magacaabay madaxweyne ku-xigeenka 2-aad ee Jubaland",
+      "source": "Puntland Post",
+      "url": "https://puntlandpost.net/2026/11/14/axmed-madoobe-oo-magacaabay-madaxweyne-ku-xigeenka-2-aad-ee-jubaland/",
+      "published_date": "2026-11-14T11:50:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+      "published_date": "2026-11-14T11:43:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+      "published_date": "2026-11-14T11:00:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Villa Soomaaliya oo sheegtay in ay socdaan xiriirrada dhinacyada lagu casuumay Gogosha Wadatashiga Qaran",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/hassan-sheikh-holds-talks-with-uk-foreign-secretary-on-somalias-security-and-humanitarian-situation/",
-      "published_date": "2026-11-12T08:43:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/villa-soomaaliya-oo-sheegtay-in-ay-socdaan-xiriirrada-dhinacyada-lagu-casuumay-gogosha-wadatashiga-qaran/",
+      "published_date": "2026-11-14T08:29:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former Somali President denies joining talks between Somali government and opposition",
+      "title": "Somali Danab Commandos Conduct Security Operations Along Bay-Lower Shabelle Border",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/former-somali-president-denies-joining-talks-between-somali-government-and-opposition/",
-      "published_date": "2026-11-12T07:22:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli strikes hit medical complex as nine killed across Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
-      "published_date": "2026-11-11T22:55:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ted Cruz Renews US Support for Somaliland’s Recognition Bid",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/ted-cruz-renews-us-support-for-somalilands-recognition-bid/",
-      "published_date": "2026-11-11T19:42:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Somalia’s Chief Justice and Six Judges Reportedly Take the President to Regional Court",
-      "source": "Somali Dispatch",
-      "url": "https://www.somalidispatch.com/latest-news/somalias-chief-justice-and-six-judges-reportedly-take-the-president-to-regional-court/",
-      "published_date": "2026-11-11T19:10:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
-      "published_date": "2026-11-11T18:13:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kenya discharges last Ebola patient, awaits disease-free status",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss",
-      "published_date": "2026-11-11T15:34:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss",
-      "published_date": "2026-11-11T14:58:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://shabellemedia.com/somali-danab-commandos-conduct-security-operations-along-bay-lower-shabelle-border/",
+      "published_date": "2026-11-14T06:37:25+00:00",
+      "category": "Military"
     },
     {
       "title": "UK police open sex offence probe into comedian and author David Walliams",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ciidanka Xoogga Dalka oo Dagaal Culus Al-Shabaab kula Galay Duleedka Leego",
+      "title": "Somalia Shares Drought Insurance Experience at COP31 Disaster Preparedness Meeting in Türkiye",
       "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/ciidanka-xoogga-dalka-oo-dagaal-culus-al-shabaab-kula-galay-duleedka-leego/",
-      "published_date": "2026-11-13T11:49:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
-      "published_date": "2026-11-13T02:35:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump moots toppling Cuba authorities before leaving office",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
-      "published_date": "2026-11-13T02:33:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
-      "published_date": "2026-11-13T00:00:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly shooting in Washington DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-11-12T21:18:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-11-12T18:02:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somali clan elder accuses Kenya of sheltering Laftagareen and associates linked to Al-Shabaab",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-clan-elder-accuses-kenya-of-sheltering-laftagareen-and-associates-linked-to-al-shabaab/",
-      "published_date": "2026-11-12T17:00:10+00:00",
-      "category": "Military"
+      "url": "https://shabellemedia.com/somalia-shares-drought-insurance-experience-at-cop31-disaster-preparedness-meeting-in-turkiye/",
+      "published_date": "2026-11-14T06:38:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
@@ -347,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+      "title": "Canada’s Stelco to recall 175 workers after government pressure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-      "published_date": "2026-11-07T12:24:11+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
+      "published_date": "2026-11-14T15:06:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Afghanistan’s new road to China ends at a closed border",
@@ -459,11 +466,18 @@
       "category": "Economy"
     },
     {
-      "title": "Somalia moves closer to joining the WTO​",
-      "source": "Puntland Post",
-      "url": "https://puntlandpost.net/2026/11/07/somalia-moves-closer-to-joining-the-wto/",
-      "published_date": "2026-11-07T10:16:00+00:00",
-      "category": "Economy"
+      "title": "Young musicians connect a community across the Line of Control",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
+      "published_date": "2026-11-14T13:56:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Sudan postpones first-ever national elections until February",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
+      "published_date": "2026-11-14T10:30:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
@@ -589,20 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/11/can-democrats-shed-some-new-light-on-the-epstein-files-when-they-take-over?traffic_source=rss",
       "published_date": "2026-11-11T17:44:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Thune re-elected as US Senate Republican leader after midterm losses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss",
-      "published_date": "2026-11-11T17:08:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss",
-      "published_date": "2026-11-11T16:20:13+00:00",
       "category": "Local Events"
     }
   ]
