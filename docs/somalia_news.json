@@ -1,8 +1,22 @@
 {
   "country": "Somalia",
-  "last_updated": "2026-11-13T18:27:34.809521+00:00",
+  "last_updated": "2026-11-14T02:53:12.418313+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
+      "published_date": "2026-11-13T20:48:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Experts Condemn Removal of Somalia’s Chief Justice and Demand His Return",
+      "source": "Somali Dispatch",
+      "url": "https://www.somalidispatch.com/latest-news/un-experts-condemn-removal-of-somalias-chief-justice-and-demand-his-return/",
+      "published_date": "2026-11-13T19:13:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkiye and Qatar sign mutual defence agreement",
       "source": "Al Jazeera",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Somali Justice Minister Arrives in Algeria for Arab Justice Ministers’ Conference",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somali-justice-minister-arrives-in-algeria-for-arab-justice-ministers-conference/",
-      "published_date": "2026-11-11T12:39:45+00:00",
-      "category": "Diplomacy"
+      "title": "UK police open sex offence probe into comedian and author David Walliams",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+      "published_date": "2026-11-14T00:22:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somalia Repatriates 171 Citizens Stranded in Libya, Pledges Medical Support",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-repatriates-171-citizens-stranded-in-libya-pledges-medical-support/",
-      "published_date": "2026-11-11T10:26:55+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "published_date": "2026-11-14T00:00:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 10 killed in Guinea clashes over gold mining ban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+      "published_date": "2026-11-13T18:44:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Turkey denies plans to send 15,000 troops to Somalia amid security concerns",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-denies-15000-troops-somalia/",
-      "published_date": "2026-11-12T16:28:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-      "published_date": "2026-11-12T16:23:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four people shot in Washington DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-11-12T15:42:07+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-11-13T19:23:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
@@ -347,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
+      "title": "Afghanistan’s new road to China ends at a closed border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
-      "published_date": "2026-11-06T20:22:22+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "published_date": "2026-11-14T00:06:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "The fight over Canadian steelworker jobs",
@@ -459,11 +466,18 @@
       "category": "Economy"
     },
     {
-      "title": "Why is Paraguay facing a banking and political crisis?",
+      "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
-      "published_date": "2026-11-06T18:54:08+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+      "published_date": "2026-11-13T22:47:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
+      "published_date": "2026-11-13T20:12:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "POLITICIANS AND INTELLECTUALS WARN AGAINST AMENDING THE CONSTITUTION OF PUNTLAND STATE OF SOMALIA",
@@ -589,20 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss",
       "published_date": "2026-11-11T16:20:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside the fight against Denmark’s ‘straight up racist’ housing law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/11/they-see-me-as-non-western-top-court-to-rule-on-denmarks-housing-law?traffic_source=rss",
-      "published_date": "2026-11-11T15:15:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cruz says Somalia ambassador confirmation depends on Somaliland recognition",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/cruz-somalia-ambassador-somaliland-recognition/",
-      "published_date": "2026-11-11T11:22:23+00:00",
       "category": "Local Events"
     }
   ]
